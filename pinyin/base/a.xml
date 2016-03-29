@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<base>
+	<!-- a -->
+	<item ch="阿" py="ā" mul="ē"/>
+	<item ch="啊" py="ā" mul="á,ǎ,à,a"/>
+	<item ch="锕" py="ā"/>
+	<item ch="腌臜" py="ā,za"/>
+	
+	<!-- ai -->
+	<item ch="哎" py="āi"/>
+	<item ch="哀" py="āi"/>
+	<item ch="锿" py="āi"/>
+	<item ch="埃" py="āi"/>
+	<item ch="挨着" py="āi,zhe"/>
+	<item ch="挨家" py="āi,jiā"/>
+	<item ch="挨户" py="āi,hù"/>
+	<item ch="唉" py="āi" mul="ài"/>
+	<item ch="娭" py="āi"/>
+	<item ch="挨" py="ái" mul="āi"/>
+	<item ch="皑" py="ái"/>
+	<item ch="癌" py="ái"/>
+	<item ch="毐" py="ǎi"/>
+	<item ch="欸乃" py="ǎi,nǎi"/>
+	<item ch="矮" py="ǎi"/>
+	<item ch="蔼" py="ǎi"/>
+	<item ch="霭" py="ǎi"/>
+	<item ch="艾" py="ài"/>
+	<item ch="砹" py="ài"/>
+	<item ch="爱" py="ài"/>
+	<item ch="嗳" py="ài" mul="āi,ǎi"/>
+	<item ch="嫒" py="ài"/>
+	<item ch="瑷珲" py="ài,huī"/>
+	<item ch="叆" py="ài"/>
+	<item ch="暧" py="ài"/>
+	<item ch="隘" py="ài"/>
+	<item ch="嗌" py="ài" mul="yì"/>
+	<item ch="碍" py="ài"/>
+	
+	<!-- an -->
+	<!-- <item ch="厂" py="ān"/> -->
+	<!-- <item ch="广" py="ān"/> -->
+	<item ch="安" py="ān"/>
+	<item ch="桉" py="ān"/>
+	<item ch="氨" py="ān"/>
+	<item ch="鮟" py="ān"/>
+	<item ch="鞍" py="ān"/>
+	<item ch="庵" py="ān"/>
+	<item ch="鹌" py="ān"/>
+	<item ch="谙" py="ān"/>
+	<item ch="盦" py="ān"/>
+	<item ch="垵" py="ǎn"/>
+	<item ch="铵" py="ǎn"/>
+	<item ch="俺" py="ǎn"/>
+	<item ch="唵" py="ǎn"/>
+	<item ch="揞" py="ǎn"/>
+	<item ch="岸" py="àn"/>
+	<item ch="按" py="àn"/>
+	<item ch="案" py="àn"/>
+	<item ch="胺" py="àn"/>
+	<item ch="暗" py="àn"/>
+	<item ch="黯" py="àn"/>
+	
+	<!-- ang -->
+	<item ch="肮" py="āng"/>
+	<item ch="昂" py="áng"/>
+	<item ch="盎" py="àng"/>
+	
+	<!-- ao -->
+	<item ch="凹" py="āo"/>
+	<item ch="熬菜" py="āo,cài"/>
+	<item ch="敖" py="áo"/>
+	<item ch="嶅" py="áo"/>
+	<item ch="遨" py="áo"/>
+	<item ch="嗷" py="áo"/>
+	<item ch="廒" py="áo"/>
+	<item ch="璈" py="áo"/>
+	<item ch="獒" py="áo"/>
+	<item ch="熬" py="áo" mul="āo"/>
+	<item ch="聱" py="áo"/>
+	<item ch="螯" py="áo"/>
+	<item ch="謷" py="áo"/>
+	<item ch="鳌" py="áo"/>
+	<item ch="翱" py="áo"/>
+	<item ch="鏖" py="áo"/>
+	<item ch="拗断" py="ǎo,duàn"/>
+	<item ch="袄" py="ǎo"/>
+	<item ch="媪" py="ǎo"/>
+	<item ch="岙" py="ào"/>
+	<item ch="垇" py="ào"/>
+	<item ch="坳" py="ào"/>
+	<item ch="拗口" py="ào,kǒu"/>
+	<item ch="奡" py="ào"/>
+	<item ch="傲" py="ào"/>
+	<item ch="骜" py="ào"/>
+	<item ch="鏊" py="ào"/>
+	<item ch="奥" py="ào"/>
+	<item ch="墺" py="ào"/>
+	<item ch="澳" py="ào"/>
+	<item ch="懊" py="ào"/>
+	<item ch="懊丧" py="ào,sàng"/>
+</base>
