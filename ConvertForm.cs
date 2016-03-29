@@ -28,5 +28,22 @@ namespace PinYin
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void InputTextTextChanged(object sender, EventArgs e)
+		{
+			outputText.ResetText();
+			
+			PinYinInfo info = PinYinInfo.Instance;
+			string[] lines = inputText.Lines;
+			foreach (string line in lines) {
+				for (int i = 0; i < line.Length; i++) {
+					string ch = line.Substring(i, 1);
+					outputText.AppendText(ch);
+					if (info.hasHanZi(ch)) {
+						outputText.AppendText("(" + info.getPinYin(ch) + ")");
+					}
+				}
+			}
+		}
 	}
 }

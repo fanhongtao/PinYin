@@ -70,6 +70,7 @@ namespace PinYin
 			this.inputText.Size = new System.Drawing.Size(131, 261);
 			this.inputText.TabIndex = 0;
 			this.inputText.Text = "";
+			this.inputText.TextChanged += new System.EventHandler(this.InputTextTextChanged);
 			// 
 			// outputText
 			// 
