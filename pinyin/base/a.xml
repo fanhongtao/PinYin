@@ -1,101 +1,135 @@
-﻿<?xml version="1.0"?>
-<base>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- a -->
-	<item ch="阿" py="ā" mul="ē"/>
-	<item ch="啊" py="ā" mul="á,ǎ,à,a"/>
-	<item ch="锕" py="ā"/>
-	<item ch="腌臜" py="ā,za"/>
-	
+	<char hz="阿" py="ā" mul="ē" />
+	<char hz="呵" py="ā" mul="á,ǎ,à,a,hē" ignore="1" />
+	<char hz="啊" py="ā" mul="á,ǎ,à,a" />
+	<char hz="锕" py="ā" />
+	<char hz="腌" py="ā" mul="yān" ignore="1">
+		<phrase hz="腌臜" py="ā,za" />
+	</char>
+	<char hz="呵" py="á" mul="ā,ǎ,à,a,hē" ignore="1" />
+	<char hz="啊" py="á" mul="ā,ǎ,à,a" ignore="1" />
+	<char hz="嗄" py="á" mul="shà" ignore="1" />
+	<char hz="呵" py="ǎ" mul="ā,á,à,a,hē" ignore="1" />
+	<char hz="啊" py="ǎ" mul="ā,á,à,a" ignore="1" />
+	<char hz="呵" py="à" mul="ā,á,ǎ,a,hē" ignore="1" />
+	<char hz="啊" py="à" mul="ā,á,ǎ,a" ignore="1" />
+	<char hz="呵" py="a" mul="ā,á,ǎ,à,hē" ignore="1" />
+	<char hz="啊" py="a" mul="ā,á,ǎ,à" ignore="1" />
 	<!-- ai -->
-	<item ch="哎" py="āi"/>
-	<item ch="哀" py="āi"/>
-	<item ch="锿" py="āi"/>
-	<item ch="埃" py="āi"/>
-	<item ch="挨着" py="āi,zhe"/>
-	<item ch="挨家" py="āi,jiā"/>
-	<item ch="挨户" py="āi,hù"/>
-	<item ch="唉" py="āi" mul="ài"/>
-	<item ch="娭" py="āi"/>
-	<item ch="挨" py="ái" mul="āi"/>
-	<item ch="皑" py="ái"/>
-	<item ch="癌" py="ái"/>
-	<item ch="毐" py="ǎi"/>
-	<item ch="欸乃" py="ǎi,nǎi"/>
-	<item ch="矮" py="ǎi"/>
-	<item ch="蔼" py="ǎi"/>
-	<item ch="霭" py="ǎi"/>
-	<item ch="艾" py="ài"/>
-	<item ch="砹" py="ài"/>
-	<item ch="爱" py="ài"/>
-	<item ch="嗳" py="ài" mul="āi,ǎi"/>
-	<item ch="嫒" py="ài"/>
-	<item ch="瑷珲" py="ài,huī"/>
-	<item ch="叆" py="ài"/>
-	<item ch="暧" py="ài"/>
-	<item ch="隘" py="ài"/>
-	<item ch="嗌" py="ài" mul="yì"/>
-	<item ch="碍" py="ài"/>
-	
+	<char hz="哎" py="āi">
+		<phrase hz="哎哟" py="āi,yō" />
+	</char>
+	<char hz="哀" py="āi" />
+	<char hz="锿" py="āi" />
+	<char hz="埃" py="āi" />
+	<char hz="挨" py="āi" mul="ái" ignore="1">
+		<phrase hz="挨着" py="āi,zhe" />
+		<phrase hz="挨家" py="āi,jiā" />
+		<phrase hz="挨户" py="āi,hù" />
+	</char>
+	<char hz="唉" py="āi" mul="ài" />
+	<char hz="娭" py="āi" />
+	<char hz="嗳" py="āi" mul="ǎi,ài" ignore="1" />
+	<char hz="挨" py="ái" mul="āi" />
+	<char hz="騃" py="ái" trans="1" />
+	<char hz="皑" py="ái" />
+	<char hz="癌" py="ái" />
+	<char hz="毐" py="ǎi" />
+	<char hz="欸" py="ǎi" mul="ēi,éi,ěi,èi" ignore="1">
+		<phrase hz="欸乃" py="ǎi,nǎi" />
+	</char>
+	<char hz="嗳" py="ǎi" mul="āi,ài" ignore="1" />
+	<char hz="矮" py="ǎi" />
+	<char hz="蔼" py="ǎi" />
+	<char hz="霭" py="ǎi" />
+	<char hz="艾" py="ài" mul="yì" />
+	<char hz="砹" py="ài" />
+	<char hz="唉" py="ài" mul="āi" ignore="1" />
+	<char hz="爱" py="ài" />
+	<char hz="嗳" py="ài" mul="āi,ǎi" />
+	<char hz="嫒" py="ài" />
+	<char hz="瑷" py="ài">
+		<phrase hz="瑷珲" py="ài,huī" />
+	</char>
+	<char hz="叆" py="ài" />
+	<char hz="暧" py="ài" />
+	<char hz="餲" py="ài" mul="hé" trans="1" />
+	<char hz="隘" py="ài" />
+	<char hz="嗌" py="ài" mul="yì" ignore="1" />
+	<char hz="碍" py="ài" />
 	<!-- an -->
-	<!-- <item ch="厂" py="ān"/> -->
-	<!-- <item ch="广" py="ān"/> -->
-	<item ch="安" py="ān"/>
-	<item ch="桉" py="ān"/>
-	<item ch="氨" py="ān"/>
-	<item ch="鮟" py="ān"/>
-	<item ch="鞍" py="ān"/>
-	<item ch="庵" py="ān"/>
-	<item ch="鹌" py="ān"/>
-	<item ch="谙" py="ān"/>
-	<item ch="盦" py="ān"/>
-	<item ch="垵" py="ǎn"/>
-	<item ch="铵" py="ǎn"/>
-	<item ch="俺" py="ǎn"/>
-	<item ch="唵" py="ǎn"/>
-	<item ch="揞" py="ǎn"/>
-	<item ch="岸" py="àn"/>
-	<item ch="按" py="àn"/>
-	<item ch="案" py="àn"/>
-	<item ch="胺" py="àn"/>
-	<item ch="暗" py="àn"/>
-	<item ch="黯" py="àn"/>
-	
+	<char hz="厂" py="ān" mul="hān" ignore="1" />
+	<char hz="广" py="ān" mul="guǎng" ignore="1" />
+	<char hz="安" py="ān" />
+	<char hz="桉" py="ān" />
+	<char hz="氨" py="ān" />
+	<char hz="鮟" py="ān" trans="1" />
+	<char hz="鞍" py="ān" />
+	<char hz="庵" py="ān" />
+	<char hz="鹌" py="ān" />
+	<char hz="谙" py="ān" />
+	<char hz="盦" py="ān" />
+	<char hz="垵" py="ǎn" />
+	<char hz="铵" py="ǎn" />
+	<char hz="俺" py="ǎn" />
+	<char hz="埯" py="ǎn" />
+	<char hz="唵" py="ǎn" />
+	<char hz="揞" py="ǎn" />
+	<char hz="犴" py="àn" mul="hān" ignore="1" />
+	<char hz="岸" py="àn" />
+	<char hz="按" py="àn" />
+	<char hz="案" py="àn" />
+	<char hz="胺" py="àn" />
+	<char hz="暗" py="àn" />
+	<char hz="黯" py="àn" />
 	<!-- ang -->
-	<item ch="肮" py="āng"/>
-	<item ch="昂" py="áng"/>
-	<item ch="盎" py="àng"/>
-	
+	<char hz="肮" py="āng">
+		<phrase hz="肮脏" py="āng,zāng" />
+	</char>
+	<char hz="昂" py="áng" />
+	<char hz="盎" py="àng" />
 	<!-- ao -->
-	<item ch="凹" py="āo"/>
-	<item ch="熬菜" py="āo,cài"/>
-	<item ch="敖" py="áo"/>
-	<item ch="嶅" py="áo"/>
-	<item ch="遨" py="áo"/>
-	<item ch="嗷" py="áo"/>
-	<item ch="廒" py="áo"/>
-	<item ch="璈" py="áo"/>
-	<item ch="獒" py="áo"/>
-	<item ch="熬" py="áo" mul="āo"/>
-	<item ch="聱" py="áo"/>
-	<item ch="螯" py="áo"/>
-	<item ch="謷" py="áo"/>
-	<item ch="鳌" py="áo"/>
-	<item ch="翱" py="áo"/>
-	<item ch="鏖" py="áo"/>
-	<item ch="拗断" py="ǎo,duàn"/>
-	<item ch="袄" py="ǎo"/>
-	<item ch="媪" py="ǎo"/>
-	<item ch="岙" py="ào"/>
-	<item ch="垇" py="ào"/>
-	<item ch="坳" py="ào"/>
-	<item ch="拗口" py="ào,kǒu"/>
-	<item ch="奡" py="ào"/>
-	<item ch="傲" py="ào"/>
-	<item ch="骜" py="ào"/>
-	<item ch="鏊" py="ào"/>
-	<item ch="奥" py="ào"/>
-	<item ch="墺" py="ào"/>
-	<item ch="澳" py="ào"/>
-	<item ch="懊" py="ào"/>
-	<item ch="懊丧" py="ào,sàng"/>
-</base>
+	<char hz="凹" py="āo" />
+	<char hz="熬" py="āo" mul="áo" ignore="1">
+		<phrase hz="熬菜" py="āo,cài" />
+	</char>
+	<char hz="敖" py="áo" />
+	<char hz="嶅" py="áo" />
+	<char hz="遨" py="áo" />
+	<char hz="嗷" py="áo" />
+	<char hz="廒" py="áo" />
+	<char hz="璈" py="áo" />
+	<char hz="獒" py="áo" />
+	<char hz="熬" py="áo" mul="āo" />
+	<char hz="聱" py="áo" />
+	<char hz="螯" py="áo" />
+	<char hz="謷" py="áo">
+		<phrase hz="訾謷" py="zǐ,áo" />
+	</char>
+	<char hz="鳌" py="áo" />
+	<char hz="翱" py="áo" />
+	<char hz="鏖" py="áo" />
+	<char hz="拗" py="ǎo" mul="ào,niù" ignore="1">
+		<phrase hz="拗断" py="ǎo,duàn" />
+	</char>
+	<char hz="袄" py="ǎo" />
+	<char hz="媪" py="ǎo" />
+	<char hz="岙" py="ào" />
+	<char hz="垇" py="ào" />
+	<char hz="坳" py="ào" />
+	<char hz="拗" py="ào" mul="ǎo,niù" ignore="1">
+		<phrase hz="拗口" py="ào,kǒu" />
+	</char>
+	<char hz="奡" py="ào" />
+	<char hz="傲" py="ào" />
+	<char hz="骜" py="ào" />
+	<char hz="鏊" py="ào" />
+	<char hz="奥" py="ào" />
+	<char hz="墺" py="ào" />
+	<char hz="澳" py="ào" />
+	<char hz="懊" py="ào">
+		<phrase hz="懊丧" py="ào,sàng" />
+	</char>
+</pinyin>
