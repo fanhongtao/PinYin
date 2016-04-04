@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<!-- ca -->
+	<char hz="拆" py="cā" multi="chāi">
+		<phrase hz="拆烂污" py="cā,làn,wū" />
+	</char>
+	<char hz="擦" py="cā" />
+	<char hz="嚓" py="cā" multi="chā" />
+	<char hz="miss: 石察" py="cā" />
+	<char hz="礤" py="cā" />
+	<!-- cai -->
+	<char hz="偲" py="cāi" multi="sī" main="1" />
+	<char hz="猜" py="cāi" />
+	<char hz="才" py="cái">
+		<phrase hz="干才" py="gàn,cái" />
+	</char>
+	<char hz="材" py="cái" />
+	<char hz="财" py="cái" />
+	<char hz="裁" py="cái">
+		<phrase hz="裁缝" py="cái,feng" />
+	</char>
+	<char hz="采" py="cǎi" multi="cài" main="1" />
+	<char hz="彩" py="cǎi" />
+	<char hz="睬" py="cǎi" />
+	<char hz="踩" py="cǎi" />
+	<char hz="采" py="cài" multi="cǎi">
+		<phrase hz="采地" py="cài,dì" />
+		<phrase hz="采邑" py="cài,yì" />
+	</char>
+	<char hz="菜" py="cài" />
+	<char hz="蔡" py="cài" />
+	<!-- can -->
+	<char hz="参" py="cān" multi="cēn,shēn" main="1" />
+	<char hz="骖" py="cān" />
+	<char hz="餐" py="cān" />
+	<char hz="残" py="cán" />
+	<char hz="蚕" py="cán" />
+	<char hz="惭" py="cán" />
+	<char hz="惨" py="cǎn" />
+	<char hz="" py="cǎn" />
+	<char hz="miss: 竹参" py="cǎn" />
+	<char hz="灿" py="càn" />
+	<char hz="孱" py="càn" multi="chán" info="Word主音">
+		<phrase hz="孱头" py="càn,tou" />
+	</char>
+	<char hz="粲" py="càn" />
+	<char hz="璨" py="càn" />
+	<!-- cang -->
+	<char hz="仓" py="cāng" />
+	<char hz="伧" py="cāng" multi="chen" main="1" />
+	<char hz="苍" py="cāng" />
+	<char hz="沧" py="cāng" />
+	<char hz="鸧" py="cāng" />
+	<char hz="舱" py="cāng" />
+	<char hz="藏" py="cáng" multi="zàng" main="1" />
+	<!-- cao -->
+	<char hz="操" py="cāo" />
+	<char hz="糙" py="cāo" />
+	<char hz="曹" py="cáo" />
+	<char hz="嘈" py="cáo" />
+	<char hz="漕" py="cáo" />
+	<char hz="槽" py="cáo" />
+	<char hz="miss: 石曹" py="cáo" />
+	<char hz="螬" py="cáo" />
+	<char hz="艚" py="cáo" />
+	<char hz="草" py="cǎo" />
+	<!-- ce -->
+	<char hz="册" py="cè" />
+	<char hz="厕" py="cè" />
+	<char hz="侧" py="cè" multi="zè,zhāi" main="1">
+		<phrase hz="侧重" py="cè,zhòng" />
+	</char>
+	<char hz="测" py="cè" />
+	<char hz="恻" py="cè" />
+	<char hz="策" py="cè" />
+	<!-- cen -->
+	<char hz="参" py="cēn" multi="cān,shēn">
+		<phrase hz="参差" py="cēn,cī" />
+	</char>
+	<char hz="岑" py="cén" />
+	<char hz="涔" py="cén" />
+	<!-- ceng -->
+	<char hz="噌" py="cēng" />
+	<char hz="层" py="céng" />
+	<char hz="曾" py="céng" multi="zēng" info="Word主音">
+		<phrase hz="曾经" py="céng,jīng" />
+		<phrase hz="未曾" py="wèi,céng" />
+		<phrase hz="何曾" py="hé,céng" />
+		<phrase hz="曾几何时" py="céng,jǐ,hé,shí" />
+	</char>
+	<char hz="嶒" py="céng" />
+	<char hz="蹭" py="cèng">
+		<phrase hz="磨蹭" py="mó,ceng" />
+		<phrase hz="蹭蹬" py="cèng,dèng" />
+	</char>
+	<!-- cha -->
+	<char hz="叉" py="chā" multi="chá,chǎ" main="1" />
+	<char hz="杈" py="chā" multi="chà" info="Word主音" />
+	<char hz="差" py="chā" multi="chà,chāi,cī">
+		<phrase hz="差别" py="chā,bié" />
+		<phrase hz="差异" py="chā,yì" />
+		<phrase hz="偏差" py="piān,chā" />
+		<phrase hz="差强人意" py="chā,qiáng,rén,yì" />
+		<phrase hz="差错" py="chā,cuò" />
+		<phrase hz="阴错阳差" py="yīn,cuò,yáng,chā" />
+		<phrase hz="阴差阳错" py="yīn,chā,yáng,cuò" />
+		<phrase hz="差数" py="chā,shù" />
+	</char>
+	<char hz="插" py="chā" />
+	<char hz="锸" py="chā" />
+	<char hz="喳" py="chā" multi="zhā">
+		<phrase hz="喳喳" py="chā,cha" />
+	</char>
+	<char hz="馇" py="chā" />
+	<char hz="嚓" py="chā" multi="cā" main="1" />
+	<char hz="叉" py="chá" multi="chā,chǎ" />
+	<char hz="垞" py="chá" />
+	<char hz="茬" py="chá" />
+	<char hz="茶" py="chá" />
+	<char hz="搽" py="chá" />
+	<char hz="查" py="chá" multi="zhā" main="1" />
+	<char hz="嵖" py="chá">
+		<phrase hz="嵖岈山" py="chá,yá,shān" />
+	</char>
+	<char hz="猹" py="chá" />
+	<char hz="楂" py="chá" multi="zhā" main="1" />
+	<char hz="碴" py="chá" />
+	<char hz="槎" py="chá" />
+	<char hz="察" py="chá" />
+	<char hz="檫" py="chá" />
+	<char hz="叉" py="chǎ" multi="chā,chá">
+		<phrase hz="叉腿" py="chǎ,tuǐ" />
+	</char>
+	<char hz="衩" py="chǎ" multi="chà" info="Word主音">
+		<phrase hz="裤衩" py="kù,chǎ" />
+	</char>
+	<char hz="蹅" py="chǎ" />
+	<char hz="镲" py="chǎ" />
+	<char hz="汊" py="chà" />
+	<char hz="杈" py="chà" multi="chā" main="1" />
+	<char hz="衩" py="chà" multi="chǎ" main="1" />
+	<char hz="岔" py="chà" />
+	<char hz="侘" py="chà">
+		<phrase hz="侘傺" py="chà,chì" />
+	</char>
+	<char hz="诧" py="chà" />
+	<char hz="姹" py="chà" />
+	<char hz="刹" py="chà" multi="shā">
+		<phrase hz="宝刹" py="bǎo,chà" />
+		<phrase hz="古刹" py="gǔ,chà" />
+		<phrase hz="刹那" py="chà,nà" />
+	</char>
+	<char hz="差" py="chà" multi="chā,chāi,cī" main="1" />
+	<!-- chai -->
+	<char hz="拆" py="chāi" multi="cā" main="1" />
+	<char hz="钗" py="chāi" />
+	<char hz="差" py="chāi" multi="chā,chà,cī">
+		<phrase hz="差遣" py="chāi,qiǎn" />
+		<phrase hz="差役" py="chāi,yì" />
+		<phrase hz="差事" py="chāi,shi" />
+		<phrase hz="兼差" py="jiān,chāi" />
+		<phrase hz="出差" py="chū,chāi" />
+	</char>
+	<char hz="侪" py="chái" />
+	<char hz="柴" py="chái" />
+	<char hz="豺" py="chái" />
+	<char hz="茝" py="chǎi" />
+	<char hz="miss: 豆昔" py="chǎi" />
+	<char hz="虿" py="chài" />
+	<char hz="瘥" py="chài" multi="cuó" main="1" />
+	<!-- chan -->
+	<char hz="觇" py="chān" />
+	<char hz="掺" py="chān" />
+	<char hz="搀" py="chān" />
+	<char hz="襜" py="chān" />
+	<char hz="单" py="chán" multi="dān,shàn">
+		<phrase hz="单于" py="chán,yú" />
+	</char>
+	<char hz="婵" py="chān" />
+	<char hz="禅" py="chán" multi="shàn" main="1" />
+	<char hz="蝉" py="chán" />
+	<char hz="鋋" py="chán" trans="1" />
+	<char hz="谗" py="chán" />
+	<char hz="馋" py="chán" />
+	<char hz="巉" py="chán" />
+	<char hz="鑱" py="chán" />
+	<char hz="孱" py="chán" multi="càn" main="1" />
+	<char hz="潺" py="chán" />
+	<char hz="缠" py="chán" />
+	<char hz="廛" py="chán" />
+	<char hz="瀍" py="chán" />
+	<char hz="躔" py="chán" />
+	<char hz="澶" py="chán" />
+	<char hz="蟾" py="chán" />
+	<char hz="产" py="chǎn" />
+	<char hz="浐" py="chǎn" />
+	<char hz="铲" py="chǎn" />
+	<char hz="刬" py="chǎn" multi="chàn" main="1" />
+	<char hz="谄" py="chǎn" />
+	<char hz="啴" py="chǎn" multi="tān">
+		<phrase hz="啴缓" py="chǎn,huǎn" />
+	</char>
+	<char hz="阐" py="chǎn" />
+	<char hz="冁" py="chǎn" />
+	<char hz="蒇" py="chǎn" />
+	<char hz="骣" py="chǎn" />
+	<char hz="忏" py="chàn" />
+	<char hz="刬" py="chàn" multi="chán">
+		<phrase hz="一刬" py="yī,chàn" />
+	</char>
+	<char hz="颤" py="chàn" multi="zhàn" main="1" />
+	<char hz="羼" py="chàn" />
+	<char hz="韂" py="chàn" />
+	<!-- chang -->
+	<char hz="伥" py="chāng">
+		<phrase hz="为虎作伥" py="wèi,hǔ,zuò,chāng" />
+	</char>
+	<char hz="昌" py="chāng" />
+	<char hz="菖" py="chāng" />
+	<char hz="猖" py="chāng" />
+	<char hz="阊" py="chāng" />
+	<char hz="娼" py="chāng" />
+	<char hz="鲳" py="chāng" />
+	<char hz="长" py="cháng" multi="zhǎng" main="1" />
+	<char hz="苌" py="cháng" />
+	<char hz="场" py="cháng" multi="chǎng">
+		<phrase hz="打场" py="dǎ,cháng" />
+		<phrase hz="场院" py="cháng,yuàn" />
+	</char>
+	<char hz="肠" py="cháng" />
+	<char hz="尝" py="cháng" />
+	<char hz="偿" py="cháng" />
+	<char hz="鲿" py="cháng" />
+	<char hz="徜" py="cháng" multi="tǎng" info="Word主音">
+		<phrase hz="徜徉" py="cháng,yáng" />
+	</char>
+	<char hz="常" py="cháng" />
+	<char hz="嫦" py="cháng" />
+	<char hz="裳" py="cháng" multi="shang" main="1" />
+	<char hz="厂" py="chǎng" multi="ān" main="1" />
+	<char hz="场" py="chǎng" multi="cháng" main="1" />
+	<char hz="昶" py="chǎng" />
+	<char hz="惝" py="chǎng" multi="tǎng" main="1" />
+	<char hz="敞" py="chǎng" />
+	<char hz="氅" py="chǎng" />
+	<char hz="怅" py="chàng" />
+	<char hz="韔" py="chàng" trans="1" />
+	<char hz="畅" py="chàng" />
+	<char hz="倡" py="chàng" />
+	<char hz="唱" py="chàng" />
+	<char hz="鬯" py="chàng" />
+	<!-- chao -->
+	<char hz="抄" py="chāo" />
+	<char hz="吵" py="chāo" multi="chǎo">
+		<phrase hz="吵吵" py="chāo,chao" />
+	</char>
+	<char hz="钞" py="chāo" />
+	<char hz="怊" py="chāo" />
+	<char hz="弨" py="chāo" />
+	<char hz="超" py="chāo" />
+	<char hz="绰" py="chāo" multi="chuò" info="Word主音">
+		<phrase hz="绰起" py="chāo,qǐ" />
+	</char>
+	<char hz="焯" py="chāo" multi="zhuō" info="Word主音">
+		<phrase hz="焯菠菜" py="chāo,bō,cài" />
+	</char>
+	<char hz="剿" py="chāo" multi="jiǎo">
+		<phrase hz="剿说" py="chāo,shuō" />
+	</char>
+	<char hz="晁" py="cháo" />
+	<char hz="巢" py="cháo" />
+	<char hz="朝" py="cháo" multi="zhāo" main="1" />
+	<char hz="嘲" py="cháo" multi="zhāo" main="1" />
+	<char hz="潮" py="cháo" />
+	<char hz="吵" py="chǎo" multi="chāo" main="1" />
+	<char hz="炒" py="chǎo" />
+	<char hz="耖" py="chào" />
+	<!-- che -->
+	<char hz="车" py="chē" multi="jū" main="1" />
+	<char hz="砗" py="chē" />
+	<char hz="尺" py="chě" multi="chǐ" />
+	<char hz="扯" py="chě" />
+	<char hz="彻" py="chè" />
+	<char hz="坼" py="chè" />
+	<char hz="掣" py="chè" />
+	<char hz="撤" py="chè" />
+	<char hz="澈" py="chè" />
+	<!-- chen -->
+	<char hz="抻" py="chēn" />
+	<char hz="郴" py="chēn" />
+	<char hz="琛" py="chēn" />
+	<char hz="嗔" py="chēn">
+		<phrase hz="嗔着" py="chēn,zhe" />
+	</char>
+	<char hz="瞋" py="chēn" />
+	<char hz="臣" py="chén" />
+	<char hz="辰" py="chén" />
+	<char hz="宸" py="chén" />
+	<char hz="晨" py="chén" />
+	<char hz="尘" py="chén" />
+	<char hz="沈" py="chén" multi="shěn" />
+	<char hz="忱" py="chén" />
+	<char hz="沉" py="chén">
+		<phrase hz="沉着" py="chén,zhuó" />
+		<phrase hz="沉应" py="chén,yìng" />
+	</char>
+	<char hz="陈" py="chén" />
+	<char hz="谌" py="chén" />
+	<char hz="碜" py="chěn">
+		<phrase hz="牙碜" py="yá,chen" />
+		<phrase hz="寒碜" py="hán,chen" />
+	</char>
+	<char hz="衬" py="chèn" />
+	<char hz="疢" py="chèn" />
+	<char hz="龀" py="chèn" />
+	<char hz="称" py="chèn" multi="chēng,chèng">
+		<phrase hz="称心" py="chèn,xīn" />
+		<phrase hz="称职" py="chèn,zhí" />
+		<phrase hz="相称" py="xiāng,chèn" />
+		<phrase hz="对称" py="duì,chèn" />
+	</char>
+	<char hz="趁" py="chèn" />
+	<char hz="榇" py="chèn" />
+	<char hz="谶" py="chèn" />
+	<char hz="伧" py="chen" multi="cāng" info="Word主音">
+		<phrase hz="寒伧" py="hán,chen" />
+	</char>
+	<!-- cheng -->
+	<char hz="柽" py="chēng" />
+	<char hz="蛏" py="chēng" />
+	<char hz="琤" py="chēng" />
+	<char hz="称" py="chēng" multi="chèn,chèng" main="1" />
+	<char hz="铛" py="chēng" multi="dāng">
+		<phrase hz="饼铛" py="bǐng,chēng" />
+	</char>
+	<char hz="赪" py="chēng" />
+	<char hz="撑" py="chēng" />
+	<char hz="瞠" py="chēng" />
+	<char hz="成" py="chéng" />
+	<char hz="诚" py="chéng" />
+	<char hz="城" py="chéng" />
+	<char hz="宬" py="chéng" />
+	<char hz="盛" py="chéng" multi="shèng">
+		<phrase hz="盛饭" py="chéng,fàn" />
+	</char>
+	<char hz="铖" py="chéng" />
+	<char hz="丞" py="chéng">
+		<phrase hz="丞相" py="chéng,xiàng" />
+	</char>
+	<char hz="呈" py="chéng" />
+	<char hz="埕" py="chéng" />
+	<char hz="程" py="chéng" />
+	<char hz="裎" py="chéng" />
+	<char hz="酲" py="chéng" />
+	<char hz="枨" py="chéng" />
+	<char hz="承" py="chéng">
+		<phrase hz="承应" py="chéng,yìng" />
+		<phrase hz="承教" py="chéng,jiào" />
+	</char>
+	<char hz="乘" py="chéng" multi="shèng" main="1" />
+	<char hz="惩" py="chéng" />
+	<char hz="塍" py="chéng" />
+	<char hz="澄" py="chéng" multi="dèng" main="1" />
+	<char hz="橙" py="chéng" />
+	<char hz="逞" py="chěng" />
+	<char hz="骋" py="chěng" />
+	<char hz="秤" py="chèng" />
+	<char hz="称" py="chèng" multi="chèn,chēng" />
+	<char hz="牚" py="chèng" />
+	<!-- chi -->
+	<char hz="吃" py="chī" />
+	<char hz="哧" py="chī" />
+	<char hz="蚩" py="chī" />
+	<char hz="嗤" py="chī" />
+	<char hz="媸" py="chī" />
+	<char hz="鸱" py="chī" />
+	<char hz="絺" py="chī" trans="1" />
+	<char hz="瓻" py="chī" />
+	<char hz="眵" py="chī" />
+	<char hz="笞" py="chī" />
+	<char hz="痴" py="chī" />
+	<char hz="螭" py="chī" />
+	<char hz="魑" py="chī" />
+	<char hz="池" py="chí" />
+	<char hz="弛" py="chí" />
+	<char hz="驰" py="chí" />
+	<char hz="迟" py="chí" />
+	<char hz="坻" py="chí" multi="dǐ" />
+	<char hz="茌" py="chí" />
+	<char hz="持" py="chí" />
+	<char hz="匙" py="chí" multi="shi" main="1" />
+	<char hz="漦" py="chí" />
+	<char hz="墀" py="chí" />
+	<char hz="踟" py="chí" />
+	<char hz="篪" py="chí" />
+	<char hz="尺" py="chǐ" multi="chě" main="1" />
+	<char hz="呎" py="chǐ" />
+	<char hz="齿" py="chǐ" />
+	<char hz="侈" py="chǐ" />
+	<char hz="耻" py="chǐ" />
+	<char hz="豉" py="chǐ" />
+	<char hz="褫" py="chǐ" />
+	<char hz="彳" py="chì" />
+	<char hz="叱" py="chì">
+		<phrase hz="叱咤" py="chì,zhà" />
+	</char>
+	<char hz="斥" py="chì" />
+	<char hz="赤" py="chì" />
+	<char hz="饬" py="chì" />
+	<char hz="炽" py="chì" />
+	<char hz="翅" py="chì" />
+	<char hz="敕" py="chì" />
+	<char hz="鶒" py="chì" trans="1" />
+	<char hz="啻" py="chì" />
+	<char hz="傺" py="chì" />
+	<char hz="瘈" py="chì" multi="zhì" main="1" />
+	<char hz="瘛" py="chì" />
+	<!-- chong -->
+	<char hz="冲" py="chōng" multi="chòng" main="1" />
+	<char hz="忡" py="chōng" />
+	<char hz="翀" py="chōng" />
+	<char hz="充" py="chōng" />
+	<char hz="茺" py="chōng">
+		<phrase hz="茺蔚" py="chōng,wèi" />
+	</char>
+	<char hz="舂" py="chōng" />
+	<char hz="憧" py="chōng" />
+	<char hz="艟" py="chōng" />
+	<char hz="虫" py="chōng" />
+	<char hz="种" py="chóng" multi="zhǒng" />
+	<char hz="重" py="chóng" multi="zhòng">
+		<phrase hz="重复" py="chóng,fù" />
+		<phrase hz="重游" py="chóng,yóu" />
+		<phrase hz="重整旗鼓" py="chóng,zhěng,qí,gǔ" />
+		<phrase hz="重来" py="chóng,lái" />
+		<phrase hz="重阳" py="chóng,yáng" />
+		<phrase hz="重九" py="chóng,jiǔ" />
+		<phrase hz="双重" py="shuāng,chóng" />
+	</char>
+	<char hz="崇" py="chóng" />
+	<char hz="宠" py="chǒng" />
+	<char hz="冲" py="chòng" multi="chōng">
+		<phrase hz="冲着" py="chòng,zhe" />
+		<phrase hz="冲劲" py="chòng,jìn" />
+	</char>
+	<char hz="铳" py="chòng" />
+	<!-- chou -->
+	<char hz="抽" py="chōu" />
+	<char hz="" py="chōu" multi="chóu">
+		<phrase hz="绎" py="chōu,yì" />
+	</char>
+	<char hz="瘳" py="chōu" />
+	<char hz="犨" py="chōu" />
+	<char hz="仇" py="chóu" multi="qiú" main="1" />
+	<char hz="" py="chóu" multi="chōu" main="1" />
+	<char hz="俦" py="chóu" />
+	<char hz="帱" py="chóu" multi="dào" main="1" />
+	<char hz="畴" py="chóu" />
+	<char hz="筹" py="chóu" />
+	<char hz="踌" py="chóu" />
+	<char hz="惆" py="chóu" />
+	<char hz="绸" py="chóu" />
+	<char hz="稠" py="chóu" />
+	<char hz="酬" py="chóu">
+		<phrase hz="酬酢" py="chóu,zuò" />
+		<phrase hz="应酬" py="yìng,chou" />
+	</char>
+	<char hz="愁" py="chóu" />
+	<char hz="讎" py="chóu">
+		<phrase hz="校雠" py="jiào,chóu" />
+	</char>
+	<char hz="丑" py="chǒu" />
+	<char hz="杻" py="chǒu" multi="niǔ" main="1" />
+	<char hz="瞅" py="chǒu" />
+	<char hz="臭" py="chòu" />
+	<!-- chu -->
+	<char hz="出" py="chū">
+		<phrase hz="出色" py="chū,sè" />
+	</char>
+	<char hz="初" py="chū" />
+	<char hz="樗" py="chū" />
+	<char hz="刍" py="chú" />
+	<char hz="鶵" py="chú" trans="1" />
+	<char hz="雏" py="chú" />
+	<char hz="除" py="chú" />
+	<char hz="滁" py="chú" />
+	<char hz="蜍" py="chú" />
+	<char hz="篨" py="chú" />
+	<char hz="厨" py="chú" />
+	<char hz="橱" py="chú" />
+	<char hz="蹰" py="chú" />
+	<char hz="锄" py="chú" />
+	<char hz="躇" py="chú" />
+	<char hz="处" py="chǔ" multi="chù">
+		<phrase hz="处女" py="chǔ,nǚ" />
+		<phrase hz="设身处地" py="shè,shēn,chǔ,dì" />
+		<phrase hz="处在" py="chǔ,zài" />
+		<phrase hz="相处" py="xiāng,chǔ" />
+		<phrase hz="处分" py="chǔ,fèn" />
+		<phrase hz="处理" py="chǔ,lǐ" />
+	</char>
+	<char hz="杵" py="chǔ" />
+	<char hz="础" py="chǔ" />
+	<char hz="楮" py="chǔ" />
+	<char hz="储" py="chǔ" />
+	<char hz="褚" py="chǔ" />
+	<char hz="楚" py="chǔ" />
+	<char hz="亍" py="chù" />
+	<char hz="处" py="chù" multi="chǔ" main="1">
+		<phrase hz="长处" py="cháng,chù" />
+	</char>
+	<char hz="怵" py="chù" />
+	<char hz="绌" py="chù" />
+	<char hz="黜" py="chù" />
+	<char hz="俶" py="chù" multi="tì" main="1" />
+	<char hz="畜" py="chù" multi="xù" main="1" />
+	<char hz="搐" py="chù" />
+	<char hz="滀" py="chù" />
+	<char hz="触" py="chù">
+		<phrase hz="触觉" py="chù,jué" />
+	</char>
+	<char hz="憷" py="chù" />
+	<char hz="矗" py="chù" />
+	<!-- chua -->
+	<char hz="欻" py="chuā" multi="xū" main="1" />
+	<!-- chuai -->
+	<char hz="揣" py="chuāi" multi="chuǎi,chuài" main="1" />
+	<char hz="搋" py="chuāi" />
+	<char hz="膗" py="chuái" />
+	<char hz="揣" py="chuǎi" multi="chuāi,chuài">
+		<phrase hz="揣测" py="chuǎi,cè" />
+		<phrase hz="揣摩" py="chuǎi,mó" />
+	</char>
+	<char hz="" py="chuài" />
+	<char hz="啜" py="chuài" multi="chuò" />
+	<char hz="揣" py="chuài" multi="chuāi,chuǎi">
+		<phrase hz="挣揣" py="zhèng,chuài" />
+	</char>
+	<char hz="踹" py="chuài" />
+	<char hz="嘬" py="chuài" multi="zuō" />
+	<char hz="膪" py="chuài" />
+	<!-- chuan -->
+	<char hz="川" py="chuān" />
+	<char hz="氚" py="chuān" />
+	<char hz="穿" py="chuān" />
+	<char hz="传" py="chuán" multi="zhuàn" main="1">
+		<phrase hz="言传身教" py="yán,chuán,shēn,jiào" />
+	</char>
+	<char hz="船" py="chuán" />
+	<char hz="遄" py="chuán" />
+	<char hz="篅" py="chuán" />
+	<char hz="椽" py="chuán" />
+	<char hz="舛" py="chuǎn" />
+	<char hz="喘" py="chuǎn" />
+	<char hz="踳" py="chuǎn" />
+	<char hz="串" py="chuàn">
+		<phrase hz="串供" py="chuàn,gòng" />
+	</char>
+	<char hz="钏" py="chuàn" />
+	<!-- chuang -->
+	<char hz="创" py="chuāng" multi="chuàng">
+		<phrase hz="创伤" py="chuāng,shāng" />
+		<phrase hz="刀创" py="dāo,chuāng" />
+		<phrase hz="重创" py="zhòng,chuāng" />
+	</char>
+	<char hz="疮" py="chuāng" />
+	<char hz="窗" py="chuāng">
+		<phrase hz="窗明几净" py="chuāng,míng,jī,jìng" />
+	</char>
+	<char hz="床" py="chuáng" />
+	<char hz="噇" py="chuáng" />
+	<char hz="幢" py="chuáng" multi="zhuàng" main="1" />
+	<char hz="闯" py="chuǎng" />
+	<char hz="创" py="chuàng" multi="chuāng" main="1" />
+	<char hz="怆" py="chuàng" />
+	<!-- chui -->
+	<char hz="吹" py="chuī" />
+	<char hz="炊" py="chuī">
+		<phrase hz="炊帚" py="chuī,zhou" />
+	</char>
+	<char hz="垂" py="chuí" />
+	<char hz="陲" py="chuí" />
+	<char hz="捶" py="chuí" />
+	<char hz="棰" py="chuí" />
+	<char hz="锤" py="chuí" />
+	<char hz="椎" py="chuí" multi="zhuī">
+		<phrase hz="铁椎" py="tiě,chuí" />
+		<phrase hz="椎鼓" py="chuí,gǔ" />
+		<phrase hz="椎鲁" py="chuí,lǔ" />
+	</char>
+	<char hz="槌" py="chuí">
+		<phrase hz="棒槌" py="bàng,chui" />
+	</char>
+	<!-- chun -->
+	<char hz="春" py="chūn" />
+	<char hz="椿" py="chūn" />
+	<char hz="蝽" py="chūn" />
+	<char hz="" py="chūn" />
+	<char hz="纯" py="chún">
+		<phrase hz="纯熟" py="chún,shú" />
+	</char>
+	<char hz="莼" py="chún" />
+	<char hz="唇" py="chún" />
+	<char hz="淳" py="chún" />
+	<char hz="鹑" py="chún" />
+	<char hz="醇" py="chún" />
+	<char hz="蠢" py="chǔn" />
+	<!-- chuo -->
+	<char hz="逴" py="chuō" />
+	<char hz="踔" py="chuō" />
+	<char hz="戳" py="chuō" />
+	<char hz="娖" py="chuò" />
+	<char hz="龊" py="chuò" />
+	<char hz="啜" py="chuò" multi="chuài" main="1" />
+	<char hz="惙" py="chuò" />
+	<char hz="辍" py="chuò" />
+	<char hz="绰" py="chuò" multi="chāo" main="1">
+		<phrase hz="宽绰" py="kuān,chuo" />
+	</char>
+	<char hz="歠" py="chuò" />
+	<!-- ci -->
+	<char hz="刺" py="cī" multi="cì">
+		<phrase hz="刺棱" py="cī,lēng" />
+		<phrase hz="刺溜" py="cī,liū" />
+	</char>
+	<char hz="差" py="cī" multi="chā,chà,chāi">
+		<phrase hz="参差" py="cēn,cī" />
+	</char>
+	<char hz="疵" py="cī" />
+	<char hz="跐" py="cī" multi="cǐ" main="1" />
+	<char hz="词" py="cí" />
+	<char hz="祠" py="cí" />
+	<char hz="茈" py="cí" multi="zǐ">
+		<phrase hz="凫茈" py="fú,cí" />
+	</char>
+	<char hz="雌" py="cí" />
+	<char hz="茨" py="cí" />
+	<char hz="瓷" py="cí" />
+	<char hz="兹" py="cí" multi="zī">
+		<phrase hz="龟兹" py="qiū,cí" />
+	</char>
+	<char hz="甆" py="cí" />
+	<char hz="慈" py="cí" />
+	<char hz="磁" py="cí" />
+	<char hz="鹚" py="cí" />
+	<char hz="糍" py="cí" />
+	<char hz="辞" py="cí" />
+	<char hz="此" py="cǐ" />
+	<char hz="泚" py="cǐ" />
+	<char hz="跐" py="cǐ" multi="cī" info="Word主音">
+		<phrase hz="脚跐两只船" py="jiǎo,cǐ,liǎng,zhī,chuán" />
+	</char>
+	<char hz="次" py="cì" />
+	<char hz="佽" py="cì" />
+	<char hz="伺" py="cì" multi="sì" info="Word主音">
+		<phrase hz="伺候" py="cì,hou" />
+	</char>
+	<char hz="刺" py="cì" multi="cī" main="1" />
+	<char hz="赐" py="cì">
+		<phrase hz="赐教" py="cì,jiào" />
+	</char>
+	<!-- cong -->
+	<char hz="匆" py="cōng" />
+	<char hz="葱" py="cōng" />
+	<char hz="苁" py="cōng" />
+	<char hz="瑽" py="cōng" trans="1" />
+	<char hz="枞" py="cōng" multi="zōng" main="1" />
+	<char hz="囱" py="cōng" />
+	<char hz="骢" py="cōng" />
+	<char hz="璁" py="cōng" />
+	<char hz="熜" py="cōng" />
+	<char hz="聪" py="cōng" />
+	<char hz="从" py="cóng" />
+	<char hz="丛" py="cóng" />
+	<char hz="淙" py="cóng" />
+	<char hz="悰" py="cóng" />
+	<char hz="琮" py="cóng" />
+	<char hz="賨" py="cóng" trans="1" />
+	<char hz="灇" py="cóng" />
+	<!-- cou -->
+	<char hz="凑" py="còu">
+		<phrase hz="凑合" py="còu,he" />
+	</char>
+	<char hz="辏" py="còu" />
+	<char hz="腠" py="còu" />
+	<!-- cu -->
+	<char hz="粗" py="cū" />
+	<char hz="徂" py="cú" />
+	<char hz="殂" py="cú" />
+	<char hz="卒" py="cù" multi="zú" />
+	<char hz="猝" py="cù" />
+	<char hz="促" py="cù" />
+	<char hz="酢" py="cù" multi="zuò" main="1" />
+	<char hz="醋" py="cù" />
+	<char hz="蔟" py="cù" />
+	<char hz="簇" py="cù" />
+	<char hz="踧" py="cù" />
+	<char hz="蹙" py="cù" />
+	<char hz="蹴" py="cù" />
+	<!-- cuan -->
+	<char hz="汆" py="cuān" />
+	<char hz="撺" py="cuān">
+		<phrase hz="撺掇" py="cuān,duo" />
+	</char>
+	<char hz="镩" py="cuān" />
+	<char hz="蹿" py="cuān" />
+	<char hz="攒" py="cuán" multi="zǎn">
+		<phrase hz="攒凑" py="cuán,còu" />
+	</char>
+	<char hz="窜" py="cuàn" />
+	<char hz="篡" py="cuàn" />
+	<char hz="爨" py="cuàn" />
+	<!-- cui -->
+	<char hz="衰" py="cuī" multi="shuāi">
+		<phrase hz="等衰" py="děng,cuī" />
+	</char>
+	<char hz="缞" py="cuī" />
+	<char hz="榱" py="cuī" />
+	<char hz="崔" py="cuī" />
+	<char hz="催" py="cuī" />
+	<char hz="摧" py="cuī" />
+	<char hz="璀" py="cuǐ" />
+	<char hz="脆" py="cuì" />
+	<char hz="萃" py="cuì" />
+	<char hz="啐" py="cuì" />
+	<char hz="淬" py="cuì" />
+	<char hz="悴" py="cuì" />
+	<char hz="瘁" py="cuì" />
+	<char hz="粹" py="cuì" />
+	<char hz="翠" py="cuì" />
+	<char hz="膵" py="cuì">
+		<phrase hz="膵脏" py="cuì,zàng" />
+	</char>
+	<char hz="毳" py="cuì" />
+	<!-- cun -->
+	<char hz="村" py="cūn" />
+	<char hz="皴" py="cūn" />
+	<char hz="存" py="cún" />
+	<char hz="蹲" py="cún" multi="dūn" />
+	<char hz="忖" py="cǔn">
+		<phrase hz="忖度" py="cǔn,duó" />
+		<phrase hz="自忖" py="zì,cǔn" />
+	</char>
+	<char hz="寸" py="cùn" />
+	<char hz="吋" py="cùn" />
+	<!-- cuo -->
+	<char hz="搓" py="cuō" />
+	<char hz="磋" py="cuō" />
+	<char hz="蹉" py="cuō" />
+	<char hz="撮" py="cuō" multi="zuǒ" main="1" />
+	<char hz="嵯" py="cuō" />
+	<char hz="瘥" py="cuó" multi="chài" />
+	<char hz="鹾" py="cuó" />
+	<char hz="矬" py="cuó" />
+	<char hz="痤" py="cuó" />
+	<char hz="酂" py="cuó" />
+	<char hz="脞" py="cuǒ" />
+	<char hz="挫" py="cuò" />
+	<char hz="莝" py="cuò" />
+	<char hz="锉" py="cuò" />
+	<char hz="厝" py="cuò" />
+	<char hz="措" py="cuò" />
+	<char hz="错" py="cuò">
+		<phrase hz="错觉" py="cuò,jué" />
+	</char>
+</pinyin>
