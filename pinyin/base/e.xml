@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<!-- e -->
+	<char hz="阿" py="ē" multi="ā">
+		<phrase hz="阿附" py="ē,fù" />
+		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
+		<phrase hz="阿谀奉承" py="ē,yú,fèng,chéng" />
+		<phrase hz="山阿" py="shān,ē" />
+		<phrase hz="阿胶" py="ē,jiāo" />
+	</char>
+	<char hz="屙" py="ē" />
+	<char hz="婀娜" py="ē">
+		<phrase hz="婀娜" py="ē,nuó" />
+	</char>
+	<char hz="讹" py="é" />
+	<char hz="囮" py="é" />
+	<char hz="俄" py="é" />
+	<char hz="莪" py="é">
+		<phrase hz="莪术" py="é,zhú" />
+	</char>
+	<char hz="哦" py="é" multi="ó,ò">
+		<phrase hz="吟哦" py="yín,é" />
+	</char>
+	<char hz="峨" py="é" />
+	<char hz="娥" py="é" />
+	<char hz="锇" py="é" />
+	<char hz="鹅" py="é" />
+	<char hz="蛾" py="é" />
+	<char hz="额" py="é" />
+	<char hz="恶" py="ě" multi="è,wū,wù">
+		<phrase hz="恶心" py="ě,xin" />
+	</char>
+	<char hz="厄" py="è" />
+	<char hz="扼" py="è" />
+	<char hz="苊" py="è" />
+	<char hz="呃" py="è" />
+	<char hz="轭" py="è" />
+	<char hz="垩" py="è" />
+	<char hz="恶" py="è" multi="ě,wū,wù" main="1" />
+	<char hz="饿" py="è" />
+	<char hz="鄂" py="è" />
+	<char hz="谔" py="è" />
+	<char hz="萼" py="è" />
+	<char hz="愕" py="è" />
+	<char hz="腭" py="è" />
+	<char hz="鹗" py="è" />
+	<char hz="锷" py="è" />
+	<char hz="颚" py="è" />
+	<char hz="鳄" py="è" />
+	<char hz="遏" py="è" />
+	<char hz="頞" py="è" trans="1" />
+	<char hz="噩" py="è" />
+	<!-- ei -->
+	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī" />
+	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1" />
+	<char hz="诶" py="éi" multi="ēi,ěi,èi" />
+	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi" />
+	<char hz="诶" py="ěi" multi="ēi,éi,èi" />
+	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi" />
+	<char hz="诶" py="èi" multi="ēi,éi,ěi" />
+	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi" />
+	<!-- ei -->
+	<char hz="miss: 口哀" py="éi" info="《新华字典》上写的是“éi”，但由于“ei”被用作“Ê”的拼音输入，所以网络上显示拼音是“ài”" />
+	<!-- en -->
+	<char hz="奀" py="ēn" multi="dí" main="1" />
+	<char hz="恩" py="ēn" />
+	<char hz="蒽" py="ēn" />
+	<char hz="摁" py="èn" />
+	<!-- eng -->
+	<char hz="鞥" py="ēng" />
+	<!-- er -->
+	<char hz="儿" py="ér" />
+	<char hz="而" py="ér" />
+	<char hz="洏" py="ér" />
+	<char hz="鸸" py="ér">
+		<phrase hz="鸸鹋" py="ér,miáo" />
+	</char>
+	<char hz="尔" py="ěr" />
+	<char hz="迩" py="ěr" />
+	<char hz="耳" py="ěr" />
+	<char hz="饵" py="ěr" />
+	<char hz="洱" py="ěr" />
+	<char hz="珥" py="ěr" />
+	<char hz="铒" py="ěr" />
+	<char hz="二" py="èr" />
+	<char hz="贰" py="èr" />
+	<char hz="佴" py="èr" multi="nài" main="1" />
+</pinyin>
