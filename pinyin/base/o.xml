@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<!-- o -->
+	<char hz="噢" py="ō">
+		<phrase hz="噢哟" py="ō,yō" />
+	</char>
+	<char hz="哦" py="ó" multi="é,ò" />
+	<char hz="嚄" py="ǒ" multi="huō" />
+	<char hz="哦" py="ò" multi="é,ó" main="1" />
+	<!-- ou -->
+	<char hz="区" py="ōu" multi="qū" />
+	<char hz="讴" py="ōu" />
+	<char hz="沤" py="ōu" multi="òu">
+		<phrase hz="浮沤" py="fú,ōu" />
+	</char>
+	<char hz="瓯" py="ōu" />
+	<char hz="欧" py="ōu" />
+	<char hz="殴" py="ōu" />
+	<char hz="鸥" py="ōu" />
+	<char hz="呕" py="ǒu">
+		<phrase hz="呕血" py="ǒu,xuè" />
+		<phrase hz="作呕" py="zuò,ǒu" />
+	</char>
+	<char hz="偶" py="ǒu" />
+	<char hz="耦" py="ǒu" />
+	<char hz="藕" py="ǒu" />
+	<char hz="沤" py="òu" multi="ōu" main="1" />
+	<char hz="怄" py="òu" />
+</pinyin>
