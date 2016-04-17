@@ -328,7 +328,7 @@
 	<char hz="庳" py="bì" info="字典中还有个 bēi 的音，但输入法中是 bì，所以放在这里" />
 	<char hz="婢" py="bì" />
 	<!-- 睥 读 pì -->
-	<char hz="裨" py="bì" />
+	<char hz="裨" py="bì" multi="pí" main="1" />
 	<char hz="髀" py="bì" />
 	<char hz="敝" py="bì" />
 	<char hz="蔽" py="bì" />
