@@ -329,7 +329,7 @@
 	</char>
 	<char hz="甫" py="fǔ" />
 	<char hz="辅" py="fǔ" />
-	<char hz="脯" py="fǔ" />
+	<char hz="脯" py="fǔ" multi="pú" main="1" />
 	<char hz="蜅" py="fǔ">
 		<phrase hz="螟蜅鲞" py="míng,fǔ,xiǎng" />
 	</char>
