@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<!-- ran -->
+	<char hz="蚺" py="rán" />
+	<char hz="髯" py="rán" />
+	<char hz="然" py="rán" />
+	<char hz="燃" py="rán" />
+	<char hz="冉" py="rǎn" />
+	<char hz="苒" py="rǎn">
+		<phrase hz="荏苒" py="rěn,rǎn" />
+	</char>
+	<char hz="染" py="rǎn" />
+	<!-- rang -->
+	<char hz="嚷" py="rāng" multi="rǎng">
+		<phrase hz="嚷嚷" py="rāng,rang" />
+	</char>
+	<char hz="勷" py="ráng" />
+	<char hz="蘘" py="ráng" />
+	<char hz="禳" py="ráng" />
+	<char hz="穰" py="ráng" />
+	<char hz="瓤" py="ráng" />
+	<char hz="miss: 衤襄" py="ráng" />
+	<char hz="壤" py="rǎng" />
+	<char hz="攘" py="rǎng" />
+	<char hz="嚷" py="rǎng" multi="rāng" main="1" />
+	<char hz="让" py="ràng" />
+	<!-- rao -->
+	<char hz="荛" py="ráo" />
+	<char hz="饶" py="ráo" />
+	<char hz="娆" py="ráo" multi="rǎo" main="1" />
+	<char hz="桡" py="ráo" />
+	<char hz="扰" py="rǎo" />
+	<char hz="娆" py="rǎo" multi="ráo" />
+	<char hz="绕" py="rào" />
+	<!-- re -->
+	<char hz="喏" py="rě" multi="nuò">
+		<phrase hz="唱喏" py="chàng,rě" />
+	</char>
+	<char hz="惹" py="rě" />
+	<char hz="热" py="rè" />
+	<!-- ren -->
+	<char hz="人" py="rén" />
+	<char hz="壬" py="rén" />
+	<char hz="任" py="rén" multi="rèn">
+		<phrase hz="任县" py="rén,xiàn" />
+		<phrase hz="任丘" py="rén,qiū" />
+	</char>
+	<char hz="仁" py="rén" />
+	<char hz="忍" py="rěn">
+		<phrase hz="忍俊不禁" py="rěn,jùn,bù,jīn" />
+	</char>
+	<char hz="荏" py="rěn" />
+	<char hz="稔" py="rěn" />
+	<char hz="刃" py="rèn" />
+	<char hz="仞" py="rèn" />
+	<char hz="纫" py="rèn" />
+	<char hz="韧" py="rèn" />
+	<char hz="轫" py="rèn" />
+	<char hz="牣" py="rèn" />
+	<char hz="认" py="rèn" />
+	<char hz="任" py="rèn" multi="rén" main="1" />
+	<char hz="饪" py="rèn" />
+	<char hz="妊" py="rèn" />
+	<char hz="纴" py="rèn" />
+	<char hz="衽" py="rèn" />
+	<char hz="葚" py="rèn" multi="shèn">
+		<phrase hz="桑葚儿" py="sāng,rèn,er" />
+	</char>
+	<!-- reng -->
+	<char hz="扔" py="rēng" />
+	<char hz="仍" py="réng" />
+	<char hz="礽" py="réng" />
+	<!-- ri -->
+	<char hz="日" py="rì">
+		<phrase hz="日子" py="rì,zi" />
+	</char>
+	<!-- rong -->
+	<char hz="戎" py="róng" />
+	<char hz="狨" py="róng" />
+	<char hz="绒" py="róng" />
+	<char hz="茸" py="róng" />
+	<char hz="荣" py="róng" />
+	<char hz="嵘" py="róng" />
+	<char hz="蝾" py="róng">
+		<phrase hz="蝾螈" py="róng,yuán" />
+	</char>
+	<char hz="容" py="róng" />
+	<char hz="蓉" py="róng" />
+	<char hz="溶" py="róng" />
+	<char hz="瑢" py="róng" />
+	<char hz="榕" py="róng" />
+	<char hz="熔" py="róng" />
+	<char hz="镕" py="róng" />
+	<char hz="融" py="róng" />
+	<char hz="冗" py="rǒng" />
+	<char hz="氄" py="rǒng" trans="1" />
+	<!-- ru -->
+	<char hz="如" py="rú" />
+	<char hz="茹" py="rú" />
+	<char hz="铷" py="rú" />
+	<char hz="儒" py="rú" />
+	<char hz="薷" py="rú" />
+	<char hz="嚅" py="rú" />
+	<char hz="濡" py="rú" />
+	<char hz="孺" py="rú" />
+	<char hz="襦" py="rú" />
+	<char hz="颥" py="rú" />
+	<char hz="蠕" py="rú" />
+	<char hz="汝" py="rǔ" />
+	<char hz="乳" py="rǔ" />
+	<char hz="辱" py="rǔ" />
+	<char hz="擩" py="rǔ" />
+	<char hz="入" py="rù" />
+	<char hz="洳" py="rù" />
+	<char hz="蓐" py="rù" />
+	<char hz="溽" py="rù" />
+	<char hz="缛" py="rù" />
+	<char hz="褥" py="rù" />
+	<!-- ruan -->
+	<char hz="阮" py="ruǎn" />
+	<char hz="朊" py="ruǎn" />
+	<char hz="软" py="ruǎn">
+		<phrase hz="软磨" py="ruǎn,mó" />
+	</char>
+	<!-- rui -->
+	<char hz="蕤" py="ruí" />
+	<char hz="蕊" py="ruǐ" />
+	<char hz="芮" py="ruì" />
+	<char hz="汭" py="ruì" />
+	<char hz="枘" py="ruì">
+		<phrase hz="枘凿" py="ruì,záo" />
+	</char>
+	<char hz="蚋" py="ruì" />
+	<char hz="锐" py="ruì" />
+	<char hz="瑞" py="ruì" />
+	<char hz="睿" py="ruì" />
+	<!-- run -->
+	<char hz="闰" py="rùn" />
+	<char hz="润" py="rùn" />
+	<!-- ruo -->
+	<char hz="挼" py="ruó" />
+	<char hz="若" py="ruò">
+		<phrase hz="若干" py="ruò,gān" />
+	</char>
+	<char hz="偌" py="ruò" />
+	<char hz="婼" py="ruò">
+		<phrase hz="婼羌" py="ruò,qiāng" />
+	</char>
+	<char hz="箬" py="ruò" />
+	<char hz="弱" py="ruò" />
+	<char hz="蒻" py="ruò" />
+	<char hz="爇" py="ruò" />
+</pinyin>
