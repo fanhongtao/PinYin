@@ -231,7 +231,10 @@
 	<char hz="尝" py="cháng" />
 	<char hz="偿" py="cháng" />
 	<char hz="鲿" py="cháng" />
-	<char hz="徜" py="cháng" multi="tǎng" info="Word主音">
+	<char hz="倘" py="cháng" multi="tǎng">
+		<phrase hz="倘佯" py="cháng,yáng" />
+	</char>
+	<char hz="徜" py="cháng">
 		<phrase hz="徜徉" py="cháng,yáng" />
 	</char>
 	<char hz="常" py="cháng" />
@@ -389,7 +392,7 @@
 	<char hz="茌" py="chí" />
 	<char hz="持" py="chí" />
 	<char hz="匙" py="chí" multi="shi" main="1" />
-	<char hz="漦" py="chí" />
+	<char hz="漦" py="chí" info="(又)lí" />
 	<char hz="墀" py="chí" />
 	<char hz="踟" py="chí" />
 	<char hz="篪" py="chí" />
@@ -427,7 +430,7 @@
 	<char hz="憧" py="chōng" />
 	<char hz="艟" py="chōng" />
 	<char hz="虫" py="chōng" />
-	<char hz="种" py="chóng" multi="zhǒng" />
+	<char hz="种" py="chóng" multi="zhǒng,zhòng" />
 	<char hz="重" py="chóng" multi="zhòng">
 		<phrase hz="重复" py="chóng,fù" />
 		<phrase hz="重游" py="chóng,yóu" />
@@ -472,7 +475,7 @@
 	<char hz="丑" py="chǒu" />
 	<char hz="杻" py="chǒu" multi="niǔ" main="1" />
 	<char hz="瞅" py="chǒu" />
-	<char hz="臭" py="chòu" />
+	<char hz="臭" py="chòu" multi="xiù" main="1" />
 	<!-- chu -->
 	<char hz="出" py="chū">
 		<phrase hz="出色" py="chū,sè" />
