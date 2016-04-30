@@ -161,7 +161,7 @@
 		<phrase hz="倒车" py="dào,chē" />
 	</char>
 	<char hz="帱" py="dào" multi="chóu" />
-	<char hz="焘" py="dào" />
+	<char hz="焘" py="dào" info="(又)tāo" />
 	<char hz="盗" py="dào" />
 	<char hz="悼" py="dào" />
 	<char hz="道" py="dào">
@@ -311,7 +311,7 @@
 	<char hz="佃" py="diàn" multi="tián" main="1" />
 	<char hz="甸" py="diàn" />
 	<char hz="钿" py="diàn" multi="tián" main="1" />
-	<char hz="阽" py="diàn" />
+	<char hz="阽" py="diàn" info="(又)yán" />
 	<char hz="坫" py="diàn" />
 	<char hz="玷" py="diàn" />
 	<char hz="店" py="diàn" />
@@ -592,7 +592,7 @@
 		<phrase hz="多咱" py="duō,zan" />
 	</char>
 	<char hz="哆" py="duō">
-		<phrase hz="哆嗦" py="duō,suō" />
+		<phrase hz="哆嗦" py="duō,suo" />
 	</char>
 	<char hz="咄" py="duō">
 		<phrase hz="咄嗟" py="duō,jiē" />
