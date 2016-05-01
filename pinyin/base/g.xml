@@ -129,7 +129,9 @@
 	</char>
 	<char hz="钢" py="gàng" multi="gāng" />
 	<char hz="筻" py="gàng" />
-	<char hz="戆" py="gàng" />
+	<char hz="戆" py="gàng" multi="zhuàng">
+		<phrase hz="戆头戆脑" py="gàng,tóu,gàng,nǎo" />
+	</char>
 	<!-- gao -->
 	<char hz="皋" py="gāo" />
 	<char hz="槔" py="gāo">
