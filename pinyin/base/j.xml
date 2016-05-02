@@ -223,6 +223,7 @@
 		<phrase hz="夹裤" py="jiá,kù" />
 		<phrase hz="夹被" py="jiá,bèi" />
 	</char>
+	<char hz="袷" py="jiá" multi="qiā" main="1" />
 	<char hz="郏" py="jiá" />
 	<char hz="荚" py="jiá" />
 	<char hz="铗" py="jiá" />
