@@ -135,7 +135,7 @@
 	<char hz="榼" py="kē" />
 	<char hz="磕" py="kē" />
 	<char hz="瞌" py="kē" />
-	<char hz="壳" py="ké" trans="qiào" main="1" />
+	<char hz="壳" py="ké" multi="qiào" main="1" />
 	<char hz="咳" py="ké" multi="hāi">
 		<phrase hz="咳嗽" py="ké,sou" />
 	</char>
