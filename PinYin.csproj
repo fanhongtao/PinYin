@@ -47,6 +47,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CharInfo.cs" />
     <Compile Include="ConvertForm.cs" />
     <Compile Include="ConvertForm.Designer.cs">
       <DependentUpon>ConvertForm.cs</DependentUpon>
@@ -56,6 +57,7 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhraseInfo.cs" />
     <Compile Include="PinYinInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

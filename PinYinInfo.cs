@@ -8,7 +8,6 @@
  */
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 
@@ -20,35 +19,12 @@ namespace PinYin
 	public sealed class PinYinInfo
 	{
 		string CHAR = "char";
-		string PHARSE = "pharse";
+		string PHRASE = "phrase";
 		string HZ = "hz";
 		string PY = "py";
 		string MULTI = "multi";
 		string MAIN = "main";
 		string TRANS = "trans";
-		
-		class PhraseInfo
-		{
-			public string hanzi { get; set; }   // 词组对应的汉字
-			public string pinyin { get; set; }  // 词组对应的拼音
-		}
-		
-		class CharInfo
-		{
-			public string hanzi { get; set; }  // 汉字
-			public bool   multi { get; set; }  // 是否是多音字
-			public bool   trans { get; set; }  // 是否是繁体字（异休字）
-			public string info { get; set; }   // 注释信息
-			public List<String> pinyins;       // 汉字的发音
-			public List<PhraseInfo> pharses;   // 汉字对应的词组
-			public CharInfo()
-			{
-				pinyins = new List<string>();
-				pharses = null;
-				multi = false;
-				trans = false;
-			}
-		}
 		
 		private static PinYinInfo instance = new PinYinInfo();
 		private Hashtable hashTable = new Hashtable();
@@ -89,11 +65,11 @@ namespace PinYin
 					if (!((XmlElement)node).HasAttribute(MULTI)) {
 						charInfo = new CharInfo();
 						charInfo.hanzi = hz;
-						charInfo.pinyins.Add(py);
 						charInfo.multi = false;
 						if (((XmlElement)node).HasAttribute(TRANS)) {
 							charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
 						}
+						charInfo.pinyins.Add(py);
 						hashTable.Add(hz, charInfo);
 						continue;
 					}
@@ -120,34 +96,38 @@ namespace PinYin
 					}
 					
 					// 添加多音字可能的词组
-					XmlNodeList pharseNodes = ((XmlElement)node).GetElementsByTagName(PHARSE); //获取pharse子节点集合
-					addPharse(charInfo, pharseNodes);
+					XmlNodeList phraseNodes = ((XmlElement)node).GetElementsByTagName(PHRASE); //获取phrase子节点集合
+					if (phraseNodes != null) {
+						addPhrase(charInfo, phraseNodes);
+					}
 				}
 			}
 		}
 		
-		private void addPharse(CharInfo charInfo, XmlNodeList pharseNodes)
+		private void addPhrase(CharInfo charInfo, XmlNodeList phraseNodes)
 		{
-			foreach (XmlNode node in pharseNodes) {
+			char[] separator = new char[] { ',' };
+			foreach (XmlNode node in phraseNodes) {
 				string hz = ((XmlElement)node).GetAttribute(HZ);   //获取hz属性值
 				string py = ((XmlElement)node).GetAttribute(PY);   //获取py属性值
 				
-				PhraseInfo pharseInfo = new PhraseInfo();
-				pharseInfo.hanzi = hz;
-				pharseInfo.pinyin = py;
-				charInfo.pharses.Add(pharseInfo);
+				PhraseInfo phraseInfo = new PhraseInfo();
+				phraseInfo.hanzi = hz;
+				string [] pinyin = py.Split(separator);
+				if (pinyin.Length != hz.Length) {
+					throw new InvalidDataException("Invalid pinyin for char [" + charInfo.hanzi 
+					                               + "]， phrase [" + hz 
+					                               + "]， pinyin [" + py + "]");
+				}
+				phraseInfo.pinyin = pinyin;
+				charInfo.phrases.Add(phraseInfo);
 			}
 		}
-		
-		public bool hasHanZi(string ch)
-		{
-			return hashTable.Contains(ch);
-		}
-		
-		public string getPinYin(string ch)
+
+		public CharInfo getCharInfo(string ch)
 		{
 			CharInfo charInfo = (CharInfo) hashTable[ch];
-			return charInfo.pinyins[0];
+			return charInfo;
 		}
 	}
 }

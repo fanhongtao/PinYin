@@ -38,11 +38,36 @@ namespace PinYin
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {
 					string ch = line.Substring(i, 1);
-					outputText.AppendText(ch);
-					if (info.hasHanZi(ch)) {
-						outputText.AppendText("(" + info.getPinYin(ch) + ")");
+					CharInfo charInfo = info.getCharInfo(ch);
+					if (charInfo == null) {
+						outputText.AppendText(ch);
+						continue;
+					}
+					
+					bool matchPhrase = false;  // 是否和某个词组匹配成功
+					foreach (PhraseInfo phrase in charInfo.phrases) {
+						int len = phrase.hanzi.Length;
+						if (i + len > line.Length) { // 剩余字数少于词组的字数，直接跳过该词
+							continue;
+						}
+						string temp = line.Substring(i, len);
+						if (temp.Equals(phrase.hanzi)) {
+							for (int idx = 0; idx < len; idx++) {
+								outputText.AppendText(phrase.hanzi.Substring(idx, 1));
+								outputText.AppendText("(" + phrase.pinyin[idx] + ")");
+							}
+							i = i + (len - 1); // 跳过已经匹配的字
+							matchPhrase = true;
+							break;
+						}
+					}
+					
+					if (!matchPhrase) {
+						outputText.AppendText(ch);
+						outputText.AppendText("(" + charInfo.pinyins[0] + ")");
 					}
 				}
+				outputText.AppendText("\n");
 			}
 		}
 	}
