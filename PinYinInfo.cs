@@ -57,53 +57,60 @@ namespace PinYin
 				XmlNodeList charNodes = rootElem.GetElementsByTagName(CHAR); //获取char子节点集合
 				foreach (XmlNode node in charNodes)
 				{
-					string hz = ((XmlElement)node).GetAttribute(HZ);   //获取hz属性值
-					string py = ((XmlElement)node).GetAttribute(PY);   //获取py属性值
-					CharInfo charInfo;
-					
-					// 不是多音字，直接构造一个CharInfo添加到 hashTable
-					if (!((XmlElement)node).HasAttribute(MULTI)) {
-						charInfo = new CharInfo();
-						charInfo.hanzi = hz;
-						charInfo.multi = false;
-						if (((XmlElement)node).HasAttribute(TRANS)) {
-							charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
-						}
-						charInfo.pinyins.Add(py);
-						hashTable.Add(hz, charInfo);
-						continue;
-					}
-					
-					// 是多音字
-					if (!hashTable.Contains(hz)) {
-						charInfo = new CharInfo();
-						charInfo.hanzi = hz;
-						charInfo.multi = true;
-						if (((XmlElement)node).HasAttribute(TRANS)) {
-							charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
-						}
-						hashTable.Add(hz, charInfo);
-					} else {
-						charInfo = (CharInfo)hashTable[hz];
-					}
-					
-					// 添加多音字的拼音
-					if (((XmlElement)node).HasAttribute(MAIN)
-					    && StringTools.ToBoolean(((XmlElement)node).GetAttribute(MAIN))) {
-						charInfo.pinyins.Insert(0, py);
-					} else {
-						charInfo.pinyins.Add(py);
-					}
-					
-					// 添加多音字可能的词组
-					XmlNodeList phraseNodes = ((XmlElement)node).GetElementsByTagName(PHRASE); //获取phrase子节点集合
-					if (phraseNodes != null) {
-						addPhrase(charInfo, phraseNodes);
-					}
+					addCharacter(node);
 				}
 			}
 		}
 		
+		// 添加一个汉字
+		private void addCharacter(XmlNode node)
+		{
+			string hz = ((XmlElement)node).GetAttribute(HZ);   //获取hz属性值
+			string py = ((XmlElement)node).GetAttribute(PY);   //获取py属性值
+			CharInfo charInfo;
+			
+			// 不是多音字，直接构造一个CharInfo添加到 hashTable
+			if (!((XmlElement)node).HasAttribute(MULTI)) {
+				charInfo = new CharInfo();
+				charInfo.hanzi = hz;
+				charInfo.multi = false;
+				if (((XmlElement)node).HasAttribute(TRANS)) {
+					charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
+				}
+				charInfo.pinyins.Add(py);
+				hashTable.Add(hz, charInfo);
+				return;
+			}
+			
+			// 是多音字
+			if (!hashTable.Contains(hz)) {
+				charInfo = new CharInfo();
+				charInfo.hanzi = hz;
+				charInfo.multi = true;
+				if (((XmlElement)node).HasAttribute(TRANS)) {
+					charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
+				}
+				hashTable.Add(hz, charInfo);
+			} else {
+				charInfo = (CharInfo)hashTable[hz];
+			}
+			
+			// 添加多音字的拼音
+			if (((XmlElement)node).HasAttribute(MAIN)
+			    && StringTools.ToBoolean(((XmlElement)node).GetAttribute(MAIN))) {
+				charInfo.pinyins.Insert(0, py);
+			} else {
+				charInfo.pinyins.Add(py);
+			}
+			
+			// 添加多音字可能的词组
+			XmlNodeList phraseNodes = ((XmlElement)node).GetElementsByTagName(PHRASE); //获取phrase子节点集合
+			if (phraseNodes != null) {
+				addPhrase(charInfo, phraseNodes);
+			}
+		}
+		
+		// 添加汉字对应的词组
 		private void addPhrase(CharInfo charInfo, XmlNodeList phraseNodes)
 		{
 			char[] separator = new char[] { ',' };
@@ -115,7 +122,7 @@ namespace PinYin
 				phraseInfo.hanzi = hz;
 				string [] pinyin = py.Split(separator);
 				if (pinyin.Length != hz.Length) {
-					throw new InvalidDataException("Invalid pinyin for char [" + charInfo.hanzi 
+					throw new InvalidDataException("Invalid pinyin for character [" + charInfo.hanzi 
 					                               + "]， phrase [" + hz 
 					                               + "]， pinyin [" + py + "]");
 				}
@@ -123,7 +130,7 @@ namespace PinYin
 				charInfo.phrases.Add(phraseInfo);
 			}
 		}
-
+		
 		public CharInfo getCharInfo(string ch)
 		{
 			CharInfo charInfo = (CharInfo) hashTable[ch];
