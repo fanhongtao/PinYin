@@ -8,6 +8,7 @@
  */
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 
@@ -28,6 +29,7 @@ namespace PinYin
 		
 		private static PinYinInfo instance = new PinYinInfo();
 		private Hashtable hashTable = new Hashtable();
+		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
 		
 		public static PinYinInfo Instance {
 			get {
@@ -37,6 +39,7 @@ namespace PinYin
 		
 		private PinYinInfo()
 		{
+			tmpPhrases = new List<PhraseInfo>();
 		}
 		
 		public void load()
@@ -60,6 +63,7 @@ namespace PinYin
 					addCharacter(node);
 				}
 			}
+			adjustPhrase();
 		}
 		
 		// 添加一个汉字
@@ -127,8 +131,31 @@ namespace PinYin
 					                               + "]， pinyin [" + py + "]");
 				}
 				phraseInfo.pinyin = pinyin;
+				tmpPhrases.Add(phraseInfo);
+			}
+		}
+		
+		// 在base目录都读取完毕后，调整词组的位置，将所有词组都存放在该词组首个汉字的名下
+		private void adjustPhrase()
+		{
+			CharInfo charInfo;
+			foreach (PhraseInfo phraseInfo in tmpPhrases) {
+				// 检查词组中的字是否都已经存在
+				for (int i = 0; i < phraseInfo.hanzi.Length; i++) {
+					string character = phraseInfo.hanzi.Substring(i, 1);
+					charInfo = (CharInfo) hashTable[character];
+					if (charInfo == null) {
+						throw new InvalidDataException("Can't find character [" + character
+						                               + "] for phrase [" + phraseInfo.hanzi + "]");
+					}
+				}
+				
+				// 将词组存放在该词组首个汉字的名下
+				string firstChar = phraseInfo.hanzi.Substring(0, 1);
+				charInfo = (CharInfo) hashTable[firstChar];
 				charInfo.phrases.Add(phraseInfo);
 			}
+			tmpPhrases = null; // 清除临时数据
 		}
 		
 		public CharInfo getCharInfo(string ch)
