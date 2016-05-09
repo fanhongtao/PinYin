@@ -64,6 +64,7 @@ namespace PinYin
 				}
 			}
 			adjustPhrase();
+			checkPolyphone();
 		}
 		
 		// 添加一个汉字
@@ -102,6 +103,10 @@ namespace PinYin
 			// 添加多音字的拼音
 			if (((XmlElement)node).HasAttribute(MAIN)
 			    && StringTools.ToBoolean(((XmlElement)node).GetAttribute(MAIN))) {
+				if (charInfo.main != null) {
+					throw new InvalidDataException("More than one [" + hz + "] is set to main.");
+				}
+				charInfo.main = py;
 				charInfo.pinyins.Insert(0, py);
 			} else {
 				charInfo.pinyins.Add(py);
@@ -156,6 +161,17 @@ namespace PinYin
 				charInfo.phrases.Add(phraseInfo);
 			}
 			tmpPhrases = null; // 清除临时数据
+		}
+		
+		// 检查多音字是否明确指定主音（有一个字 main 属性为 true）
+		private void checkPolyphone()
+		{
+			foreach (DictionaryEntry de in hashTable) {
+				CharInfo charInfo = (CharInfo) de.Value;
+				if (charInfo.multi && (charInfo.main == null)) {
+					throw new InvalidDataException("None of [" + charInfo.hanzi + "] is set to main.");
+				}
+			}
 		}
 		
 		public CharInfo getCharInfo(string ch)

@@ -20,6 +20,7 @@ namespace PinYin
 		public bool   multi { get; set; }  // 是否是多音字
 		public bool   trans { get; set; }  // 是否是繁体字（异休字）
 		public string info { get; set; }   // 注释信息
+		public string main { get; set; }   // 多单字对应的主音（其值与 pinyins 中的第一个值相同）
 		public List<String> pinyins;       // 汉字的发音
 		public List<PhraseInfo> phrases;   // 汉字对应的词组
 		public CharInfo()
