@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- a -->
-	<char hz="阿" py="ā" multi="ē" />
+	<char hz="阿" py="ā" multi="ē" main="1" />
 	<char hz="呵" py="ā" multi="á,ǎ,à,a,hē" />
 	<char hz="啊" py="ā" multi="á,ǎ,à,a" main="1" />
 	<char hz="锕" py="ā" />
