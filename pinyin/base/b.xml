@@ -62,7 +62,9 @@
 	<char hz="吧" py="ba" multi="bā" main="1" />
 	<char hz="罢" py="ba" multi="bà" />
 	<!-- bai -->
-	<char hz="miss: 百刂" py="bāi" />
+	<char hz="㓦" py="bāi">
+		<phrase hz="㓦划" py="bāi,huai" />
+	</char>
 	<char hz="掰" py="bāi" />
 	<char hz="擘" py="bāi" multi="bò" />
 	<char hz="白" py="bái">
@@ -189,7 +191,7 @@
 	</char>
 	<char hz="爆" py="bào" />
 	<!-- bei -->
-	<char hz="陂" py="bēi" multi="pí,pō" />
+	<char hz="陂" py="bēi" multi="pí,pō" main="1" />
 	<char hz="杯" py="bēi" />
 	<char hz="卑" py="bēi" />
 	<!-- 庳 读 bì -->
