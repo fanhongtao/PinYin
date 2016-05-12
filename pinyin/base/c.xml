@@ -506,7 +506,7 @@
 	<char hz="础" py="chǔ" />
 	<char hz="楮" py="chǔ" />
 	<char hz="储" py="chǔ" />
-	<char hz="褚" py="chǔ" />
+	<char hz="褚" py="chǔ" multi="zhǔ" main="1" />
 	<char hz="楚" py="chǔ" />
 	<char hz="亍" py="chù" />
 	<char hz="处" py="chù" multi="chǔ" main="1">
