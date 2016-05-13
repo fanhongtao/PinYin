@@ -180,10 +180,10 @@
 	<char hz="锝" py="dé" />
 	<char hz="德" py="dé" />
 	<char hz="地" py="de" multi="dì" />
-	<char hz="的" py="de" multi="dí,dì" />
+	<char hz="的" py="de" multi="dí,dì" main="1" />
 	<char hz="底" py="de" multi="dǐ" />
 	<char hz="得" py="de" multi="dē,děi" />
-	<char hz="脦" py="de" />
+	<char hz="脦" py="de" info="(又)te" />
 	<!-- dei -->
 	<char hz="得" py="děi" multi="dē,de" />
 	<!-- den -->
@@ -201,9 +201,9 @@
 	<char hz="凳" py="dèng" />
 	<char hz="嶝" py="dèng" />
 	<char hz="澄" py="dèng" multi="chéng" />
-	<char hz="磴" py="dèng" multi="chéng" />
-	<char hz="瞪" py="dèng" multi="chéng" />
-	<char hz="镫" py="dèng" multi="chéng" />
+	<char hz="磴" py="dèng" />
+	<char hz="瞪" py="dèng" />
+	<char hz="镫" py="dèng" />
 	<char hz="蹬" py="dèng" multi="dēng">
 		<phrase hz="蹭蹬" py="cèng,dèng" />
 	</char>
@@ -323,7 +323,7 @@
 		<phrase hz="奠都" py="diàn,dū" />
 	</char>
 	<char hz="殿" py="diàn" />
-	<char hz="癫" py="diàn" />
+	<char hz="癜" py="diàn" />
 	<char hz="簟" py="diàn" />
 	<!-- diao -->
 	<char hz="刁" py="diāo">
@@ -417,6 +417,9 @@
 	<char hz="腚" py="dìng" />
 	<char hz="碇" py="dìng" />
 	<char hz="锭" py="dìng" />
+	<!-- diu -->
+	<char hz="丢" py="diū" />
+	<char hz="铥" py="diū" />
 	<!-- dong -->
 	<char hz="东" py="dōng">
 		<phrase hz="东西" py="dōng,xi" />
