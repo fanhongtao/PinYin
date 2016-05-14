@@ -236,8 +236,8 @@
 	<char hz="鸻" py="héng" />
 	<char hz="衡" py="héng" />
 	<char hz="蘅" py="héng" />
-	<char hz="橫" py="héng" multi="hèng" main="1" />
-	<char hz="橫" py="hèng" multi="héng">
+	<char hz="横" py="héng" multi="hèng" main="1" />
+	<char hz="横" py="hèng" multi="héng">
 		<phrase hz="蛮横" py="mán,hèng" />
 		<phrase hz="横财" py="hèng,cái" />
 		<phrase hz="横事" py="hèng,shì" />
@@ -400,7 +400,7 @@
 		<phrase hz="花销" py="huā,xiao" />
 	</char>
 	<char hz="砉" py="huā" multi="xū" />
-	<char hz="划" py="huá" multi="huà,huai">
+	<char hz="划" py="huá" multi="huà,huai" main="1">
 		<phrase hz="划子" py="huá,zi" />
 	</char>
 	<char hz="华" py="huá" multi="huā,huà" main="1">
