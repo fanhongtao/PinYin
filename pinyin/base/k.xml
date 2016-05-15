@@ -89,7 +89,7 @@
 	</char>
 	<char hz="抗" py="kàng" />
 	<char hz="闶" py="kàng" multi="kāng" main="1" />
-	<char hz="坑" py="kàng" />
+	<char hz="炕" py="kàng" />
 	<char hz="钪" py="kàng" />
 	<!-- kao -->
 	<char hz="尻" py="kāo" />
@@ -220,7 +220,7 @@
 	<char hz="筘" py="kòu" />
 	<char hz="寇" py="kòu" />
 	<char hz="蔻" py="kòu" />
-	<char hz="彀" py="kòu" />
+	<char hz="鷇" py="kòu" trans="1" />
 	<!-- ku -->
 	<char hz="矻" py="kū" />
 	<char hz="刳" py="kū" />
