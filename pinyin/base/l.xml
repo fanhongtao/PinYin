@@ -70,7 +70,7 @@
 	<char hz="褴" py="lán">
 		<phrase hz="褴褛" py="lán,lǚ" />
 	</char>
-	<char hz="蓝" py="lán" />
+	<char hz="篮" py="lán" />
 	<char hz="览" py="lǎn" />
 	<char hz="揽" py="lǎn" />
 	<char hz="缆" py="lǎn" />
@@ -116,7 +116,7 @@
 	<char hz="㮾" py="lǎng" />
 	<char hz="烺" py="lǎng" />
 	<char hz="郎" py="làng" multi="láng">
-		<phrase hz="屎売郎" py="shǐ,ke,làng" />
+		<phrase hz="屎壳郎" py="shǐ,ke,làng" />
 	</char>
 	<char hz="埌" py="làng" />
 	<char hz="莨" py="làng" info="Word显示为liáng">
@@ -318,7 +318,7 @@
 	<char hz="莅" py="lì" />
 	<char hz="粒" py="lì" />
 	<char hz="笠" py="lì" />
-	<char hz="史" py="lì" />
+	<char hz="吏" py="lì" />
 	<char hz="丽" py="lì" multi="lí" main="1" />
 	<char hz="郦" py="lì" />
 	<char hz="俪" py="lì" />
@@ -826,7 +826,7 @@
 		<phrase hz="增长率" py="zēng,zhǎng,lǜ" />
 		<phrase hz="出勤率" py="chū,qín,lǜ" />
 	</char>
-	<char hz="绿" py="lǜ" multi="lù" />
+	<char hz="绿" py="lǜ" multi="lù" main="1" />
 	<char hz="氯" py="lǜ" />
 	<!-- luan -->
 	<char hz="峦" py="luán" />
@@ -917,7 +917,7 @@
 		<phrase hz="落拓" py="luò,tuò" />
 	</char>
 	<char hz="摞" py="luò" />
-	<char hz="漯" py="luò" multi="tà" />
+	<char hz="漯" py="luò" multi="tà" main="1" />
 	<char hz="雒" py="luò" />
 	<char hz="㑩" py="luò" />
 	<char hz="啰" py="luo" multi="luō,luó" main="1" />
