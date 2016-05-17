@@ -94,6 +94,17 @@
 	<char hz="融" py="róng" />
 	<char hz="冗" py="rǒng" />
 	<char hz="氄" py="rǒng" trans="1" />
+	<!-- rou -->
+	<char hz="柔" py="róu" />
+	<char hz="揉" py="róu" />
+	<char hz="輮" py="róu" trans="1" />
+	<char hz="煣" py="róu" />
+	<char hz="糅" py="róu" />
+	<char hz="蹂" py="róu">
+		<phrase hz="蹂躏" py="róu,lìn" />
+	</char>
+	<char hz="鞣" py="róu" />
+	<char hz="肉" py="ròu" />
 	<!-- ru -->
 	<char hz="如" py="rú" />
 	<char hz="茹" py="rú" />
