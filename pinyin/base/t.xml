@@ -177,6 +177,7 @@
 	<char hz="陶" py="táo" multi="yáo" main="1" />
 	<char hz="萄" py="táo" />
 	<char hz="啕" py="táo" />
+	<char hz="咷" py="táo" info="词组中使用到，所以补充" />
 	<char hz="淘" py="táo" />
 	<char hz="绹" py="táo" />
 	<char hz="醄" py="táo" />
@@ -197,7 +198,7 @@
 	<char hz="铽" py="tè" />
 	<char hz="特" py="tè" />
 	<char hz="慝" py="tè" />
-	<char hz="脦" py="te" />
+	<!-- <char hz="脦" py="te" info="(又)de" /> -->
 	<!-- teng -->
 	<char hz="熥" py="tēng" />
 	<char hz="鼟" py="tēng" />
@@ -367,7 +368,7 @@
 	<char hz="廷" py="tíng" />
 	<char hz="莛" py="tíng" />
 	<char hz="庭" py="tíng" />
-	<char hz="蜒" py="tíng" />
+	<char hz="蜓" py="tíng" />
 	<char hz="霆" py="tíng" />
 	<char hz="亭" py="tíng" />
 	<char hz="停" py="tíng">
