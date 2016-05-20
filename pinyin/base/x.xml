@@ -512,6 +512,7 @@
 	<char hz="幸" py="xìng">
 		<phrase hz="幸免于难" py="xìng,miǎn,yú,nàn" />
 	</char>
+	<char hz="倖" py="xìng" info="词组中使用到，所以补充" />
 	<char hz="悻" py="xìng" />
 	<char hz="婞" py="xìng" />
 	<char hz="性" py="xìng">
@@ -520,6 +521,22 @@
 	</char>
 	<char hz="姓" py="xìng" />
 	<char hz="荇" py="xìng" />
+	<!-- xiong -->
+	<char hz="凶" py="xiōng" />
+	<char hz="匈" py="xiōng" />
+	<char hz="讻" py="xiōng" />
+	<char hz="汹" py="xiōng">
+		<phrase hz="汹涌" py="xiōng,yǒng" />
+	</char>
+	<char hz="胸" py="xiōng" />
+	<char hz="兄" py="xiōng" />
+	<char hz="芎" py="xiōng">
+		<phrase hz="芎" py="xiōng,qióng" />
+	</char>
+	<char hz="雄" py="xióng" />
+	<char hz="熊" py="xióng" />
+	<char hz="诇" py="xiòng" />
+	<char hz="夐" py="xiòng" />
 	<!-- xiu -->
 	<char hz="休" py="xiū" />
 	<char hz="咻" py="xiū" />
@@ -552,7 +569,7 @@
 	</char>
 	<char hz="嗅" py="xiù" />
 	<char hz="溴" py="xiù" />
-	<char hz="宿" py="xiù" multi="sù,xiǔ" main="1">
+	<char hz="宿" py="xiù" multi="sù,xiǔ">
 		<phrase hz="星宿" py="xīng,xiù" />
 		<phrase hz="二十八宿" py="èr,shí,bā,xiù" />
 	</char>
