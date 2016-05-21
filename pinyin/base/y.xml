@@ -81,7 +81,7 @@
 	<char hz="阉" py="yān" />
 	<char hz="淹" py="yān" />
 	<char hz="腌" py="yān" multi="ā" main="1" />
-	<char hz="湮" py="yān" multi="yīn">
+	<char hz="湮" py="yān" multi="yīn" main="1">
 		<phrase hz="湮没" py="yān,mò" />
 	</char>
 	<char hz="燕" py="yān" multi="yàn" />
@@ -504,7 +504,7 @@
 	<char hz="音" py="yīn" />
 	<char hz="喑" py="yīn" />
 	<char hz="愔" py="yīn" />
-	<char hz="殷" py="yīn" multi="yān" />
+	<char hz="殷" py="yīn" multi="yān" main="1" />
 	<char hz="溵" py="yīn">
 		<phrase hz="溵溜" py="yīn,liù" />
 	</char>
