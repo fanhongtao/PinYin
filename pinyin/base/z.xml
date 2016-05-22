@@ -762,7 +762,7 @@
 	<char hz="拄" py="zhǔ" />
 	<char hz="渚" py="zhǔ" />
 	<char hz="煮" py="zhǔ" />
-	<char hz="褚" py="zhǔ" />
+	<char hz="褚" py="zhǔ" multi="chǔ" />
 	<char hz="属" py="zhǔ" multi="shǔ">
 		<phrase hz="属文" py="zhǔ,wén" />
 		<phrase hz="前后相属" py="qián,hòu,xiāng,zhǔ" />
@@ -820,7 +820,7 @@
 		<phrase hz="别传" py="bié,zhuàn" />
 		<phrase hz="外传" py="wài,zhuàn" />
 		<phrase hz="儿女英雄传" py="ér,nǚ,yīng,xióng,zhuàn" />
-		<phrase hz="水浒传" py="ér,nǚ,yīng,xióng,zhuàn" />
+		<phrase hz="水浒传" py="shuǐ,hǔ,zhuàn" />
 	</char>
 	<char hz="转" py="zhuàn" multi="zhuǎn">
 		<phrase hz="转圈" py="zhuàn,quān" />
@@ -1073,7 +1073,7 @@
 	<char hz="阼" py="zuò" />
 	<char hz="岞" py="zuò" />
 	<char hz="怍" py="zuò" />
-	<char hz="柞" py="zuò" multi="zhà" />
+	<char hz="柞" py="zuò" multi="zhà" main="1" />
 	<char hz="胙" py="zuò" />
 	<char hz="祚" py="zuò" />
 	<char hz="酢" py="zuò" multi="cù" suppress="1" info="酬(chóu)酢" />
