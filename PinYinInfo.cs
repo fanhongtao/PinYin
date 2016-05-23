@@ -45,6 +45,7 @@ namespace PinYin
 		public void load()
 		{
 			loadBase();
+			Logger.info("Load finished.");
 		}
 		
 		// 加载  Base 目录
