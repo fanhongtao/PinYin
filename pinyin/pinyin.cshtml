@@ -6,10 +6,23 @@
 				<xs:element maxOccurs="unbounded" name="char">
 					<xs:complexType>
 						<xs:sequence minOccurs="0">
-							<xs:element maxOccurs="unbounded" name="phrase">
+							<xs:element minOccurs="0" maxOccurs="unbounded" name="phrase">
 								<xs:complexType>
 									<xs:attribute name="hz" type="xs:string" use="required" />
 									<xs:attribute name="py" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element minOccurs="0" name="definition">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="item">
+											<xs:complexType>
+												<xs:attribute name="id" type="xs:string" use="optional" />
+												<xs:attribute name="text" type="xs:string" use="required" />
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="id" type="xs:string" use="required" />
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
