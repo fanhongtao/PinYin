@@ -1,22 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- a -->
-	<char hz="阿" py="ā" multi="ē" main="1" />
-	<char hz="呵" py="ā" multi="á,ǎ,à,a,hē" />
-	<char hz="啊" py="ā" multi="á,ǎ,à,a" main="1" />
+	<char hz="阿" py="ā" multi="ē" main="1">
+		<phrase hz="阿姨" py="ā,yí" />
+		<phrase hz="阿昌族" py="ā,chāng,zú" />
+		<phrase hz="阿芙蓉" py="ā,fú,róng" />
+		<phrase hz="阿弥陀佛" py="ā,mí,tuó,fó" />
+		<definition id="一">
+			<item text="〈方〉词头。1. 加在排行、小名或姓的前面：~大. ~根. ~王. 2. 加在某些亲属称谓的前面: ~妹. ~公." />
+		</definition>
+	</char>
+	<char hz="呵" py="ā" multi="á,ǎ,à,a,hē">
+		<definition id="一">
+			<item text="同“啊(一)”" />
+		</definition>
+	</char>
+	<char hz="啊" py="ā" multi="á,ǎ,à,a" main="1">
+		<phrase hz="啊哈" py="ā,hā" />
+		<phrase hz="啊呀" py="ā,yā" />
+		<phrase hz="啊哟" py="ā,yō" />
+		<phrase hz="啊唷" py="ā,yō" />
+		<definition id="一">
+			<item text="叹词，表示赞叹或惊异：~，这花多好哇！~，下雪了！" />
+		</definition>
+	</char>
 	<char hz="锕" py="ā" />
 	<char hz="腌" py="ā" multi="yān">
 		<phrase hz="腌臜" py="ā,za" />
+		<definition id="二">
+			<item text="[腌臜]〈方〉不干净" />
+		</definition>
 	</char>
-	<char hz="呵" py="á" multi="ā,ǎ,à,a,hē" />
-	<char hz="啊" py="á" multi="ā,ǎ,à,a" />
-	<char hz="嗄" py="á" multi="shà" />
-	<char hz="呵" py="ǎ" multi="ā,á,à,a,hē" />
-	<char hz="啊" py="ǎ" multi="ā,á,à,a" />
-	<char hz="呵" py="à" multi="ā,á,ǎ,a,hē" />
-	<char hz="啊" py="à" multi="ā,á,ǎ,a" />
-	<char hz="呵" py="a" multi="ā,á,ǎ,à,hē" />
-	<char hz="啊" py="a" multi="ā,á,ǎ,à" />
+	<char hz="呵" py="á" multi="ā,ǎ,à,a,hē">
+		<definition id="二">
+			<item text="同“啊(二)”" />
+		</definition>
+	</char>
+	<char hz="啊" py="á" multi="ā,ǎ,à,a">
+		<definition id="二">
+			<item text="叹词，表示追问：~，你说什么？~，你再说！" />
+		</definition>
+	</char>
+	<char hz="嗄" py="á" multi="shà">
+		<definition id="二">
+			<item text="同“啊(二)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="ǎ" multi="ā,á,à,a,hē">
+		<definition id="三">
+			<item text="同“啊(三)”" />
+		</definition>
+	</char>
+	<char hz="啊" py="ǎ" multi="ā,á,à,a">
+		<definition id="三">
+			<item text="叹词，表示疑惑：~，这是怎么回事？" />
+		</definition>
+	</char>
+	<char hz="呵" py="à" multi="ā,á,ǎ,a,hē">
+		<definition id="四">
+			<item text="同“啊(四)”" />
+		</definition>
+	</char>
+	<char hz="啊" py="à" multi="ā,á,ǎ,a">
+		<definition id="四">
+			<item text="叹词。1.表示应诺或醒悟（音较短）：~，好吧. ~，原来是你呀！ 2.表示惊异或赞叹（音较长）：~，伟大的祖国！" />
+		</definition>
+	</char>
+	<char hz="呵" py="a" multi="ā,á,ǎ,à,hē">
+		<definition id="五">
+			<item text="同“啊(五)”" />
+		</definition>
+	</char>
+	<char hz="啊" py="a" multi="ā,á,ǎ,à">
+		<definition id="五">
+			<item text="助词。1.用在句末，表示赞叹、催促、嘱咐等语气（常因前面字音不同而发生变音，可用不同的字来表示）：快些来~（呀）！您好~（哇）！同志们加油干~（哪）！ 2.用在列举的事项之后：纸~、笔~，摆满了一桌子." />
+		</definition>
+	</char>
 	<!-- ai -->
 	<char hz="哎" py="āi">
 		<phrase hz="哎哟" py="āi,yō" />
@@ -28,40 +87,107 @@
 		<phrase hz="挨着" py="āi,zhe" />
 		<phrase hz="挨家" py="āi,jiā" />
 		<phrase hz="挨户" py="āi,hù" />
+		<definition id="一">
+			<item id="1" text="靠近：居民区~着一条河." />
+			<item id="2" text="顺着（一定次序）：~家查问. ~着号叫." />
+		</definition>
 	</char>
-	<char hz="唉" py="āi" multi="ài" main="1" />
-	<char hz="娭" py="āi" />
-	<char hz="嗳" py="āi" multi="ǎi,ài" />
-	<char hz="挨" py="ái" multi="āi" main="1" />
+	<char hz="唉" py="āi" multi="ài" main="1">
+		<definition id="一">
+			<item text="叹词。1.表示答应：~，听见了. 2.表示叹息：~，一天的工夫又白费了. 3.表示招呼：~，你来一下." />
+		</definition>
+	</char>
+	<char hz="娭" py="āi">
+		<phrase hz="娭毑" py="āi,jiě" />
+	</char>
+	<char hz="嗳" py="āi" multi="ǎi,ài">
+		<definition id="三">
+			<item text="同“哎”" />
+		</definition>
+	</char>
+	<char hz="挨" py="ái" multi="āi" main="1">
+		<phrase hz="挨饿" py="ái,è" />
+		<phrase hz="挨打" py="ái,dǎ" />
+		<phrase hz="挨骂" py="ái,mà" />
+		<phrase hz="挨日子" py="ái,rì,zi" />
+		<definition id="二">
+			<item id="1" text="遭受，亲身受到：~饿. ~打. ~骂." />
+			<item id="2" text="困难地度过（岁月）：~日子." />
+			<item id="3" text="拖延：别~磨了，快走吧." />
+		</definition>
+	</char>
 	<char hz="騃" py="ái" trans="1" />
 	<char hz="皑" py="ái" />
 	<char hz="癌" py="ái" />
 	<char hz="毐" py="ǎi" />
 	<char hz="欸" py="ǎi" multi="ēi,éi,ěi,èi">
 		<phrase hz="欸乃" py="ǎi,nǎi" />
+		<definition id="五">
+			<item text="[欸乃]（-nǎi）拟声词，摇橹声：~~一声山水绿." />
+		</definition>
 	</char>
-	<char hz="嗳" py="ǎi" multi="āi,ài" />
+	<char hz="嗳" py="ǎi" multi="āi,ài">
+		<definition id="一">
+			<item text="叹词，表示否定或不同意：~，别那么说. ~，不是这样放." />
+		</definition>
+	</char>
 	<char hz="矮" py="ǎi" />
 	<char hz="蔼" py="ǎi" />
 	<char hz="霭" py="ǎi" />
-	<char hz="艾" py="ài" multi="yì" main="1" />
+	<char hz="艾" py="ài" multi="yì" main="1">
+		<phrase hz="方兴未艾" py="fāng,xīng,wèi,ài" />
+		<phrase hz="少艾" py="shào,ài" />
+		<phrase hz="艾滋病" py="ài,zī,bìng" />
+		<definition id="一">
+			<item id="1" text="多年生草本植物，开黄色小花，叶制成艾绒，可供灸病使用。" />
+			<item id="2" text="止，绝：方兴未~." />
+			<item id="3" text="漂亮，美：少~（年轻漂亮的人）." />
+			<item id="4" text="姓" />
+		</definition>
+	</char>
 	<char hz="砹" py="ài" />
-	<char hz="唉" py="ài" multi="āi" />
+	<char hz="唉" py="ài" multi="āi">
+		<definition id="二">
+			<item text="叹词，表示伤感或惋惜：~，病了两个月，把工作都耽搁了." />
+		</definition>
+	</char>
 	<char hz="爱" py="ài" />
-	<char hz="嗳" py="ài" multi="āi,ǎi" main="1" />
+	<char hz="嗳" py="ài" multi="āi,ǎi" main="1">
+		<definition id="二">
+			<item text="叹词，表示懊恼、悔恨：~，早知道是这样，我就不来了." />
+		</definition>
+	</char>
 	<char hz="嫒" py="ài" />
 	<char hz="瑷" py="ài">
 		<phrase hz="瑷珲" py="ài,huī" />
 	</char>
-	<char hz="叆" py="ài" />
+	<char hz="叆" py="ài">
+		<phrase hz="叆叇" py="ài,dài" />
+	</char>
 	<char hz="暧" py="ài" />
-	<char hz="餲" py="ài" multi="hé" main="1" trans="1" />
+	<char hz="餲" py="ài" multi="hé" main="1" trans="1">
+		<definition id="一">
+			<item text="食物经久而变味。" />
+		</definition>
+	</char>
 	<char hz="隘" py="ài" />
-	<char hz="嗌" py="ài" multi="yì" />
+	<char hz="嗌" py="ài" multi="yì">
+		<definition id="一">
+			<item text="噎，食物塞住嗓子。" />
+		</definition>
+	</char>
 	<char hz="碍" py="ài" />
 	<!-- an -->
-	<char hz="厂" py="ān" multi="chǎng" />
-	<char hz="广" py="ān" multi="guǎng" />
+	<char hz="厂" py="ān" multi="chǎng">
+		<definition id="二">
+			<item text="同“庵”（多用于人名）。" />
+		</definition>
+	</char>
+	<char hz="广" py="ān" multi="guǎng">
+		<definition id="二">
+			<item text="同“庵”（多用于人名）。" />
+		</definition>
+	</char>
 	<char hz="安" py="ān" />
 	<char hz="桉" py="ān" />
 	<char hz="氨" py="ān" />
@@ -77,7 +203,12 @@
 	<char hz="埯" py="ǎn" />
 	<char hz="唵" py="ǎn" />
 	<char hz="揞" py="ǎn" />
-	<char hz="犴" py="àn" multi="hān" />
+	<char hz="犴" py="àn" multi="hān">
+		<phrase hz="狴犴" py="bì,àn" />
+		<definition id="二">
+			<item text="见“狴”字条“狴犴”（bì-）" />
+		</definition>
+	</char>
 	<char hz="岸" py="àn" />
 	<char hz="按" py="àn" />
 	<char hz="案" py="àn" />
@@ -94,6 +225,9 @@
 	<char hz="凹" py="āo" />
 	<char hz="熬" py="āo" multi="áo">
 		<phrase hz="熬菜" py="āo,cài" />
+		<definition id="二">
+			<item text="幺煮：~菜." />
+		</definition>
 	</char>
 	<char hz="敖" py="áo" />
 	<char hz="嶅" py="áo" />
@@ -102,7 +236,12 @@
 	<char hz="廒" py="áo" />
 	<char hz="璈" py="áo" />
 	<char hz="獒" py="áo" />
-	<char hz="熬" py="áo" multi="āo" main="1" />
+	<char hz="熬" py="áo" multi="āo" main="1">
+		<definition id="一">
+			<item id="1" text="久煮：~粥. ~药." />
+			<item id="2" text="忍受，耐苦支撑：~夜. ~红了眼睛." />
+		</definition>
+	</char>
 	<char hz="聱" py="áo" />
 	<char hz="螯" py="áo" />
 	<char hz="謷" py="áo">
@@ -113,6 +252,9 @@
 	<char hz="鏖" py="áo" />
 	<char hz="拗" py="ǎo" multi="ào,niù">
 		<phrase hz="拗断" py="ǎo,duàn" />
+		<definition id="一">
+			<item text="〈方〉弯曲使断，折：竹竿~断了." />
+		</definition>
 	</char>
 	<char hz="袄" py="ǎo" />
 	<char hz="媪" py="ǎo" />
@@ -121,6 +263,9 @@
 	<char hz="坳" py="ào" />
 	<char hz="拗" py="ào" multi="ǎo,niù">
 		<phrase hz="拗口" py="ào,kǒu" />
+		<definition id="二">
+			<item text="不顺，不顺从。[拗口令]用声、韵、调相近的字编成的话，说快了容易错。也叫“绕口令”。" />
+		</definition>
 	</char>
 	<char hz="奡" py="ào" />
 	<char hz="傲" py="ào" />
