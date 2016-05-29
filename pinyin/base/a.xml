@@ -79,6 +79,9 @@
 	<!-- ai -->
 	<char hz="哎" py="āi">
 		<phrase hz="哎哟" py="āi,yō" />
+		<definition>
+			<item text="叹词，表示不满或提醒：~，你怎么能这么说呢! ~，你们看，谁来了！ [哎呀]叹词，表示惊讶。 [哎哟](-yō)叹词，表示惊讶、痛苦。" />
+		</definition>
 	</char>
 	<char hz="哀" py="āi" />
 	<char hz="锿" py="āi" />
@@ -193,7 +196,12 @@
 	<char hz="氨" py="ān" />
 	<char hz="鮟" py="ān" trans="1" />
 	<char hz="鞍" py="ān" />
-	<char hz="庵" py="ān" />
+	<char hz="庵" py="ān">
+		<definition>
+			<item id="1" text="圆形草屋。" />
+			<item id="2" text="小庙（多指尼姑住的）：~堂." />
+		</definition>
+	</char>
 	<char hz="鹌" py="ān" />
 	<char hz="谙" py="ān" />
 	<char hz="盦" py="ān" />
