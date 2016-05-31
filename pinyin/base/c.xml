@@ -38,7 +38,14 @@
 			<item id="4" text="同“彩”。" />
 		</definition>
 	</char>
-	<char hz="彩" py="cǎi" />
+	<char hz="彩" py="cǎi">
+		<definition>
+			<item id="1" text="各种颜色：~色影片. ~排（化装排演）. [挂彩](喻)在战斗中受伤。" />
+			<item id="2" text="彩色的绸子：悬灯结~." />
+			<item id="3" text="指赌博或某种竞赛中赢得的东西：得~. ~金." />
+			<item id="4" text="称赞、夸奖的欢呼声：喝(hè)~." />
+		</definition>
+	</char>
 	<char hz="睬" py="cǎi" />
 	<char hz="踩" py="cǎi" />
 	<char hz="采" py="cài" multi="cǎi">
@@ -192,7 +199,13 @@
 		</definition>
 	</char>
 	<char hz="垞" py="chá" />
-	<char hz="茬" py="chá" />
+	<char hz="茬" py="chá">
+		<definition>
+			<item id="1" text="（-儿）庄稼收割后余留在地上的短根和茎：麦~儿. 豆~儿." />
+			<item id="2" text="（-儿）在同一块土地上庄稼种植或收割的次数：换~. 头~. 二~." />
+			<item id="3" text="短而硬的头发、胡子。" />
+		</definition>
+	</char>
 	<char hz="茶" py="chá" />
 	<char hz="搽" py="chá" />
 	<char hz="查" py="chá" multi="zhā" main="1">
@@ -329,7 +342,12 @@
 	<char hz="蟾" py="chán" />
 	<char hz="产" py="chǎn" />
 	<char hz="浐" py="chǎn" />
-	<char hz="铲" py="chǎn" />
+	<char hz="铲" py="chǎn">
+		<definition>
+			<item id="1" text="（-子、-儿）削平东西或把东西取上来的器具：铁~. 饭~儿." />
+			<item id="2" text="用锹(qiāo)或铲子削平或取上来：把地~平. ~土. ~菜. [铲除]去掉。" />
+		</definition>
+	</char>
 	<char hz="刬" py="chǎn" multi="chàn" main="1">
 		<definition id="二">
 			<item text="同“铲(2)”" />
@@ -532,6 +550,11 @@
 	<char hz="沉" py="chén">
 		<phrase hz="沉着" py="chén,zhuó" />
 		<phrase hz="沉应" py="chén,yìng" />
+		<definition>
+			<item id="1" text="没(mò)入水中，跟“浮”相对：船~了. (引)落下，陷入：地基下~. [沉淀]1.液体中不溶解的物质往下沉。2.沉在液体底层的物质。" />
+			<item id="2" text="重，分量大：~重. 铁比木头~. [沉着](-zhuó)镇静，不慌张：~~应(yìng)战." />
+			<item id="3" text="深入，程度深：~思. ~醉. 天阴得很~." />
+		</definition>
 	</char>
 	<char hz="陈" py="chén" />
 	<char hz="谌" py="chén" />
@@ -626,7 +649,11 @@
 	<char hz="橙" py="chéng" />
 	<char hz="逞" py="chěng" />
 	<char hz="骋" py="chěng" />
-	<char hz="秤" py="chèng" />
+	<char hz="秤" py="chèng">
+		<definition>
+			<item text="衡量轻重的器具。" />
+		</definition>
+	</char>
 	<char hz="称" py="chèng" multi="chèn,chēng">
 		<definition id="三">
 			<item text="同“秤”。" />
@@ -699,7 +726,12 @@
 			<item text="同“瘛”。" />
 		</definition>
 	</char>
-	<char hz="瘛" py="chì" />
+	<char hz="瘛" py="chì">
+		<phrase hz="瘛疭" py="chì,zòng" />
+		<definition>
+			<item text="[瘛疭](-zòng)中医指手脚痉挛、口眼歪斜的症状。也叫“抽风”。" />
+		</definition>
+	</char>
 	<!-- chong -->
 	<char hz="冲" py="chōng" multi="chòng" main="1">
 		<definition id="一">
@@ -781,7 +813,11 @@
 	<char hz="筹" py="chóu" />
 	<char hz="踌" py="chóu" />
 	<char hz="惆" py="chóu" />
-	<char hz="绸" py="chóu" />
+	<char hz="绸" py="chóu">
+		<definition>
+			<item text="（-子）一种薄而软的丝织品。" />
+		</definition>
+	</char>
 	<char hz="稠" py="chóu" />
 	<char hz="酬" py="chóu">
 		<phrase hz="酬酢" py="chóu,zuò" />
@@ -1021,7 +1057,8 @@
 	<char hz="绰" py="chuò" multi="chāo" main="1">
 		<phrase hz="宽绰" py="kuān,chuo" />
 		<definition id="一">
-			<item text="宽裕：~~有余. 这间屋子很宽~(chuo). \n [绰号]外号。" />
+			<item text="宽裕：~~有余. 这间屋子很宽~(chuo)." />
+			<item text="[绰号]外号。" />
 		</definition>
 	</char>
 	<char hz="歠" py="chuò" />
@@ -1134,14 +1171,22 @@
 			<item text="同“猝”。" />
 		</definition>
 	</char>
-	<char hz="猝" py="cù" />
+	<char hz="猝" py="cù">
+		<definition>
+			<item text="忽然：~生变化. ~不及防." />
+		</definition>
+	</char>
 	<char hz="促" py="cù" />
 	<char hz="酢" py="cù" multi="zuò" main="1">
 		<definition id="二">
 			<item text="同“醋”。 [酢浆草]多年生草本植物，匍匐茎，掌状复叶，茎、叶有酸味，开黄色小花，结蒴果，圆柱形。全草可入药。" />
 		</definition>
 	</char>
-	<char hz="醋" py="cù" />
+	<char hz="醋" py="cù">
+		<definition>
+			<item text="一种调味用的液体，味酸，用酒或酒糟发酵制成，也可用米、麦、高粱等直接配制。" />
+		</definition>
+	</char>
 	<char hz="蔟" py="cù" />
 	<char hz="簇" py="cù" />
 	<char hz="踧" py="cù" />
@@ -1166,12 +1211,16 @@
 	<!-- cui -->
 	<char hz="衰" py="cuī" multi="shuāi">
 		<phrase hz="等衰" py="děng,cuī" />
-		<definition id="二">
-			<item id="1" text="〈古〉等衰，等差，等次，等级。" />
-			<item id="2" text="〈古〉同“缞”。" />
+		<definition id="二" text="〈古〉">
+			<item id="1" text="等衰，等差，等次，等级。" />
+			<item id="2" text="同“缞”。" />
 		</definition>
 	</char>
-	<char hz="缞" py="cuī" />
+	<char hz="缞" py="cuī">
+		<definition>
+			<item text="古时用粗麻布制成的丧服。也作“衰”。" />
+		</definition>
+	</char>
 	<char hz="榱" py="cuī" />
 	<char hz="崔" py="cuī" />
 	<char hz="催" py="cuī" />
