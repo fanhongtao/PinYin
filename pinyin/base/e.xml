@@ -4,9 +4,17 @@
 	<char hz="阿" py="ē" multi="ā">
 		<phrase hz="阿附" py="ē,fù" />
 		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
-		<phrase hz="阿谀奉承" py="ē,yú,fèng,chéng" />
+		<phrase hz="阿谀" py="ē,yú" />
 		<phrase hz="山阿" py="shān,ē" />
 		<phrase hz="阿胶" py="ē,jiāo" />
+		<phrase hz="阿房宫" py="ē,páng,gōng" />
+		<phrase hz="刚正不阿" py="gāng,zhèng,bù,ē" />
+		<phrase hz="阿堵" py="ē,dǔ" />
+		<definition id="二">
+			<item id="1" text="迎合，偏袒：~附. ~其所好. ~谀逢迎." />
+			<item id="2" text="凹曲处：山~" />
+			<item text="[阿胶]中药名，用驴皮加水熬成的胶，有滋补养血的作用，原产山东省东阿。" />
+		</definition>
 	</char>
 	<char hz="屙" py="ē" />
 	<char hz="婀娜" py="ē">
@@ -20,6 +28,9 @@
 	</char>
 	<char hz="哦" py="é" multi="ó,ò">
 		<phrase hz="吟哦" py="yín,é" />
+		<definition id="三">
+			<item text="吟哦，低声地唱。" />
+		</definition>
 	</char>
 	<char hz="峨" py="é" />
 	<char hz="娥" py="é" />
@@ -29,6 +40,9 @@
 	<char hz="额" py="é" />
 	<char hz="恶" py="ě" multi="è,wū,wù">
 		<phrase hz="恶心" py="ě,xin" />
+		<definition id="三">
+			<item text="[恶心](-xin)要呕吐。(转)厌恶(wù)。" />
+		</definition>
 	</char>
 	<char hz="厄" py="è" />
 	<char hz="扼" py="è" />
@@ -36,7 +50,13 @@
 	<char hz="呃" py="è" />
 	<char hz="轭" py="è" />
 	<char hz="垩" py="è" />
-	<char hz="恶" py="è" multi="ě,wū,wù" main="1" />
+	<char hz="恶" py="è" multi="ě,wū,wù" main="1">
+		<definition id="一">
+			<item id="1" text="恶劣，不好：~感. ~习." />
+			<item id="2" text="凶狠（(连)凶-）：~狗. ~战. ~霸." />
+			<item id="3" text="犯罪的事，极坏的行为，跟“善”相对：罪~. 无~不作." />
+		</definition>
+	</char>
 	<char hz="饿" py="è" />
 	<char hz="鄂" py="è" />
 	<char hz="谔" py="è" />
@@ -51,18 +71,54 @@
 	<char hz="頞" py="è" trans="1" />
 	<char hz="噩" py="è" />
 	<!-- ei -->
-	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī" />
-	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1" />
-	<char hz="诶" py="éi" multi="ēi,ěi,èi" />
-	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi" />
-	<char hz="诶" py="ěi" multi="ēi,éi,èi" />
-	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi" />
-	<char hz="诶" py="èi" multi="ēi,éi,ěi" />
-	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi" />
+	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī">
+		<definition id="一">
+			<item text="(又)同“欸(一)”。" />
+		</definition>
+	</char>
+	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1">
+		<definition id="一">
+			<item text="(又)叹词，表示招呼：~，你快来！" />
+		</definition>
+	</char>
+	<char hz="诶" py="éi" multi="ēi,ěi,èi">
+		<definition id="二">
+			<item text="(又)同“欸(二)”。" />
+		</definition>
+	</char>
+	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi">
+		<definition id="二">
+			<item text="(又)叹词，表示诧异：~，怎么回事！" />
+		</definition>
+	</char>
+	<char hz="诶" py="ěi" multi="ēi,éi,èi">
+		<definition id="三">
+			<item text="(又)同“欸(三)”。" />
+		</definition>
+	</char>
+	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi">
+		<definition id="三">
+			<item text="(又)叹词，表示不以为然：~，你这话可不对呀！" />
+		</definition>
+	</char>
+	<char hz="诶" py="èi" multi="ēi,éi,ěi">
+		<definition id="四">
+			<item text="(又)同“欸(四)”。" />
+		</definition>
+	</char>
+	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi">
+		<definition id="四">
+			<item text="(又)叹词，表示应声或同意：~，我这就来！ ~，就这么办！" />
+		</definition>
+	</char>
 	<!-- ei -->
-	<char hz="miss: 口哀" py="éi" info="《新华字典》上写的是“éi”，但由于“ei”被用作“Ê”的拼音输入，所以网络上显示拼音是“ài”" />
+	<char hz="㗒" py="éi" info="《新华字典》上写的是“éi”，但由于“ei”被用作“Ê”的拼音输入，所以网络上显示拼音是“ài”" />
 	<!-- en -->
-	<char hz="奀" py="ēn" multi="dí" main="1" />
+	<char hz="奀" py="ēn" multi="dí" main="1">
+		<definition id="一">
+			<item text="〈方〉瘦小（多用于人名）。" />
+		</definition>
+	</char>
 	<char hz="恩" py="ēn" />
 	<char hz="蒽" py="ēn" />
 	<char hz="摁" py="èn" />
@@ -84,5 +140,9 @@
 	<char hz="铒" py="ěr" />
 	<char hz="二" py="èr" />
 	<char hz="贰" py="èr" />
-	<char hz="佴" py="èr" multi="nài" main="1" />
+	<char hz="佴" py="èr" multi="nài" main="1">
+		<definition id="一">
+			<item text="置，停留。" />
+		</definition>
+	</char>
 </pinyin>
