@@ -4,14 +4,33 @@
 	<char hz="噢" py="ō">
 		<phrase hz="噢哟" py="ō,yō" />
 	</char>
-	<char hz="哦" py="ó" multi="é,ò" />
-	<char hz="嚄" py="ǒ" multi="huō" />
-	<char hz="哦" py="ò" multi="é,ó" main="1" />
+	<char hz="哦" py="ó" multi="é,ò">
+		<definition id="一">
+			<item text="叹词，表示疑问、惊奇等：~，是这样的吗？ ~，是那么回事." />
+		</definition>
+	</char>
+	<char hz="嚄" py="ǒ" multi="huō">
+		<definition id="二">
+			<item text="叹词，表示惊讶：~，这是怎么搞的？" />
+		</definition>
+	</char>
+	<char hz="哦" py="ò" multi="é,ó" main="1">
+		<definition id="二">
+			<item text="叹词，表示领会、醒悟：~，我明白了." />
+		</definition>
+	</char>
 	<!-- ou -->
-	<char hz="区" py="ōu" multi="qū" />
+	<char hz="区" py="ōu" multi="qū">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="讴" py="ōu" />
 	<char hz="沤" py="ōu" multi="òu">
 		<phrase hz="浮沤" py="fú,ōu" />
+		<definition id="二">
+			<item text="水泡：浮~." />
+		</definition>
 	</char>
 	<char hz="瓯" py="ōu" />
 	<char hz="欧" py="ōu" />
@@ -24,6 +43,10 @@
 	<char hz="偶" py="ǒu" />
 	<char hz="耦" py="ǒu" />
 	<char hz="藕" py="ǒu" />
-	<char hz="沤" py="òu" multi="ōu" main="1" />
+	<char hz="沤" py="òu" multi="ōu" main="1">
+		<definition id="一">
+			<item text="长时间地浸泡：~麻." />
+		</definition>
+	</char>
 	<char hz="怄" py="òu" />
 </pinyin>
