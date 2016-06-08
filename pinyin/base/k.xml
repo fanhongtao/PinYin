@@ -3,12 +3,22 @@
 	<!-- ka -->
 	<char hz="咖" py="kā" multi="gā">
 		<phrase hz="咖啡" py="kā,fēi" />
+		<definition id="二">
+			<item text="[咖啡](-fēi)(外)常绿灌木或小乔木，产在热带，花白色，果实红色，种子可制饮料。也指这种饮料。" />
+		</definition>
 	</char>
 	<char hz="喀" py="kā">
 		<phrase hz="喀嚓" py="kā,chā" />
 	</char>
 	<char hz="擖" py="kā" />
-	<char hz="卡" py="kǎ" multi="qiǎ" main="1" />
+	<char hz="卡" py="kǎ" multi="qiǎ" main="1">
+		<definition id="二">
+			<item id="1" text="卡车，载重的大汽车：十轮~." />
+			<item id="2" text="卡片，小的纸片（一般是比较硬的纸）：资料~. 贺年~. [绿卡]某些国家发给外国侨民的长期居留证的俗称。" />
+			<item id="3" text="卡路里，热量的非法定计量单位，1克纯水的温度升高1摄氏度所需的热量为1卡，合4.1868焦。" />
+			<item text="[卡通](外)1.动画片。 2.漫画。" />
+		</definition>
+	</char>
 	<char hz="佧" py="kǎ">
 		<phrase hz="佧佤族" py="kǎ,wǎ,zú" />
 	</char>
@@ -20,6 +30,9 @@
 		<phrase hz="咯出来" py="kǎ,chū,lái" />
 		<phrase hz="咯血" py="kǎ,xiě" />
 		<phrase hz="咯痰" py="kǎ,tán" />
+		<definition id="一">
+			<item text="用力使东西从食道或气管里出来：把鱼剌~出来. ~血. ~痰." />
+		</definition>
 	</char>
 	<!-- kai -->
 	<char hz="开" py="kāi">
@@ -36,7 +49,12 @@
 	<char hz="恺" py="kǎi" />
 	<char hz="铠" py="kǎi" />
 	<char hz="蒈" py="kǎi" />
-	<char hz="楷" py="kǎi" multi="jiē" main="1" />
+	<char hz="楷" py="kǎi" multi="jiē" main="1">
+		<definition id="一">
+			<item id="1" text="法式，模范（(连)-模）。" />
+			<item id="2" text="楷书，现在通行的一种汉字字体，是由隶书演变而来的：小~. 正~." />
+		</definition>
+	</char>
 	<char hz="锴" py="kǎi" />
 	<char hz="慨" py="kǎi" />
 	<char hz="忾" py="kài" />
@@ -48,6 +66,9 @@
 		<phrase hz="看家" py="kān,jiā" />
 		<phrase hz="看守" py="kān,shǒu" />
 		<phrase hz="看护" py="kān,hù" />
+		<definition id="二">
+			<item text="守护：~门. ~家. ~守. (转)监视：把他~起来. [看护]1.护理。 2.旧时称护士。" />
+		</definition>
 	</char>
 	<char hz="勘" py="kān" />
 	<char hz="堪" py="kān" />
@@ -55,26 +76,53 @@
 	<char hz="龛" py="kān" />
 	<char hz="坎" py="kǎn">
 		<phrase hz="坎坷" py="kǎn,kě" />
+		<definition>
+			<item id="1" text="低陷不平的地方，坑穴。" />
+			<item id="2" text="八卦之一，符号是“☵”，代表水。" />
+			<item id="3" text="同“槛(二)”。" />
+			<item id="4" text="发光强度单位名坎德拉的简称，符号cd。" />
+			<item text="[坎坷](-kě)1.道路不平的样子。 2.比喻不得志。" />
+		</definition>
 	</char>
 	<char hz="砍" py="kǎn" />
 	<char hz="莰" py="kǎn" />
 	<char hz="侃" py="kǎn" />
 	<char hz="槛" py="kǎn" multi="jiàn">
 		<phrase hz="门槛" py="mén,kǎn" />
+		<definition id="二">
+			<item text="门槛，门限。" />
+		</definition>
 	</char>
 	<char hz="顑" py="kǎn" trans="1">
 		<phrase hz="顑頷" py="kǎn,hàn" />
 	</char>
-	<char hz="看" py="kàn" multi="kān" main="1" />
+	<char hz="看" py="kàn" multi="kān" main="1">
+		<definition id="一">
+			<item id="1" text="瞧，瞅：~书. ~电影." />
+			<item id="2" text="观察（(连)察-）：~脉. ~透. (引)诊治：~病. 大夫把我的病~好了." />
+			<item id="3" text="访问，拜望（(连)-望）：到医院里去~病人." />
+			<item id="4" text="看待，照应，对待：另眼相~. ~重. 照~." />
+			<item id="5" text="想，以为：我~应该这么办." />
+			<item id="6" text="先试试以观察它的结果：问一声~. 做做~." />
+			<item id="7" text="提防，小心：别跑，~摔着." />
+		</definition>
+	</char>
 	<char hz="衎" py="kàn" />
 	<char hz="崁" py="kàn" />
 	<char hz="墈" py="kàn" />
 	<char hz="磡" py="kàn" />
-	<char hz="阚" py="kàn" multi="hǎn" main="1" />
+	<char hz="阚" py="kàn" multi="hǎn" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="瞰" py="kàn" />
 	<!-- kang -->
 	<char hz="闶" py="kāng" multi="kàng">
 		<phrase hz="闶阆" py="kāng,láng" />
+		<definition id="一">
+			<item text="[闶阆](-láng)〈方〉建筑物中空旷的部分。也叫“闶阆子”。" />
+		</definition>
 	</char>
 	<char hz="康" py="kāng" />
 	<char hz="慷" py="kāng">
@@ -82,13 +130,21 @@
 	</char>
 	<char hz="槺" py="kāng" />
 	<char hz="鱇" py="kāng" trans="1" />
-	<char hz="扛" py="káng" multi="gāng" main="1" />
+	<char hz="扛" py="káng" multi="gāng" main="1">
+		<definition id="一">
+			<item text="用肩膀承担：~粮食. ~着一杆枪. ~活（旧时指做长工）." />
+		</definition>
+	</char>
 	<char hz="亢" py="kàng" />
 	<char hz="伉" py="kàng">
 		<phrase hz="伉俪" py="kàng,lì" />
 	</char>
 	<char hz="抗" py="kàng" />
-	<char hz="闶" py="kàng" multi="kāng" main="1" />
+	<char hz="闶" py="kàng" multi="kāng" main="1">
+		<definition id="二">
+			<item text="高大。" />
+		</definition>
+	</char>
 	<char hz="炕" py="kàng" />
 	<char hz="钪" py="kàng" />
 	<!-- kao -->
@@ -109,6 +165,9 @@
 	<!-- ke -->
 	<char hz="坷" py="kē" multi="kě" main="1">
 		<phrase hz="坷垃" py="kē,la" />
+		<definition id="一">
+			<item text="[坷垃](-la)土块。" />
+		</definition>
 	</char>
 	<char hz="苛" py="kē" />
 	<char hz="珂" py="kē" />
@@ -135,16 +194,36 @@
 	<char hz="榼" py="kē" />
 	<char hz="磕" py="kē" />
 	<char hz="瞌" py="kē" />
-	<char hz="壳" py="ké" multi="qiào" main="1" />
+	<char hz="壳" py="ké" multi="qiào" main="1">
+		<definition id="一">
+			<item text="（-儿）坚硬的外皮：核桃~儿. 鸡蛋~儿. 贝~儿." />
+		</definition>
+	</char>
 	<char hz="咳" py="ké" multi="hāi">
 		<phrase hz="咳嗽" py="ké,sou" />
+		<definition id="一">
+			<item text="咳嗽，呼吸器官受刺激而起一种反射作用，把吸入的气急急呼出，声带振动发声。" />
+		</definition>
 	</char>
 	<char hz="揢" py="ké" />
 	<char hz="可" py="kě" multi="kè" main="1">
 		<phrase hz="可恶" py="kě,wù" />
+		<definition id="一">
+			<item id="1" text="是，对，表示准许：许~. 认~. 不加~否. [可以]1.表示允许：~~，你去吧！ 2.适宜，能：现在~~穿棉衣了. 马铃薯~~当饭吃. 3.过甚，程度深：这几天冷得真~~. 4.还好，差不多：这篇文章还~~. [小可]1.寻常：不同~~. 2.旧时谦称自己为小可。" />
+			<item id="2" text="能够：牢不~破的友谊. ~大~小. [可能]能够，有实现的条件：这个计划~~提前实现." />
+			<item id="3" text="值得，够得上（用在动词前）：~怜. ~爱. ~恶(wù)." />
+			<item id="4" text="适合：~心. 饭菜~口. (引)尽(jǐn)，就某种范围不加增减：~着钱花. ~着脑袋做帽子." />
+			<item id="5" text="连词，可是，但，却：大家很累(lèi)，~都很愉快." />
+			<item id="6" text="副词。 1.加强语气：这工具使着~得劲了. 他写字~快了. 这篇文章~写完了. 2.表示疑问：你~知道？ 这话~是真的？ 3.和“岂”字义近：~不是吗！ ~不就糟了吗！ 4.大约：年~三十许. 长~六米." />
+			<item id="7" text="义同“可以 2”：根~食." />
+			<item id="8" text="义同“可以 4”：尚可." />
+		</definition>
 	</char>
 	<char hz="坷" py="kě" multi="kē">
 		<phrase hz="坎坷" py="kǎn,kě" />
+		<definition id="二">
+			<item text="见“坎”字条“坎坷”(kǎn-)。" />
+		</definition>
 	</char>
 	<char hz="岢" py="kě">
 		<phrase hz="岢岚" py="kě,lán" />
@@ -152,6 +231,9 @@
 	<char hz="渴" py="kě" />
 	<char hz="可" py="kè" multi="kě">
 		<phrase hz="可汗" py="kè,hán" />
+		<definition id="二">
+			<item text="[可汗](-hán)古代鲜卑、突厥、回紇、蒙古等族君主的称号。" />
+		</definition>
 	</char>
 	<char hz="克" py="kè" />
 	<char hz="氪" py="kè" />
@@ -171,23 +253,42 @@
 		<phrase hz="肯綮" py="kěn,qìng" />
 		<phrase hz="中肯" py="zhòng,kěn" />
 	</char>
-	<char hz="啃" py="kěn" />
+	<char hz="啃" py="kěn">
+		<definition>
+			<item text="用力从较硬的东西上一点一点地咬下来：~老玉米. 老鼠把抽屉~坏了." />
+		</definition>
+	</char>
 	<char hz="垦" py="kěn" />
 	<char hz="恳" py="kěn" />
-	<char hz="龈" py="kěn" multi="yín" main="1" />
+	<char hz="龈" py="kěn" multi="yín" main="1">
+		<definition id="二">
+			<item text="同“啃”。" />
+		</definition>
+	</char>
 	<char hz="掯" py="kěn">
 		<phrase hz="勒掯" py="lēi,kěn" />
 	</char>
 	<char hz="裉" py="kěn" />
 	<!-- keng -->
 	<char hz="坑" py="kēng" />
-	<char hz="吭" py="kēng" multi="háng" main="1" />
+	<char hz="吭" py="kēng" multi="háng" main="1">
+		<definition id="二">
+			<item text="出声，发言：不~声. 一声也不~." />
+		</definition>
+	</char>
 	<char hz="硁" py="kēng" />
 	<char hz="铿" py="kēng">
 		<phrase hz="铿锵" py="kēng,qiāng" />
 	</char>
 	<!-- kong -->
-	<char hz="空" py="kōng" multi="kòng" main="1" />
+	<char hz="空" py="kōng" multi="kòng" main="1">
+		<definition id="一">
+			<item id="1" text="里面没有东西或没有内容，不合实际的：~房子. ~碗. ~话. ~想. ~谈. [空洞]没有内容的：他说的话很~~. [空头]不发生作用的，有名无实的：~~支票. [凭空]无根据：~~捏造. [真空]没有空气的空间：~~管. ~~地带（战争时双方没有军队的地带）." />
+			<item id="2" text="无着落，无成效，无结果：~跑了一趟. ~忙一阵. 落~. 扑了个~." />
+			<item id="3" text="天空：~军. 航~. [空间]一切物质存在和运动所占的地方。 [空气]包围在地球表面，充满空间的气体。是氮、氧和少量惰性气体及其他气体的混合物。(喻)情势：~~紧张." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
 	<char hz="崆" py="kōng">
 		<phrase hz="崆峒" py="kōng,tóng" />
 	</char>
@@ -205,6 +306,12 @@
 		<phrase hz="空儿" py="kòng,zi" />
 		<phrase hz="空子" py="kòng,zi" />
 		<phrase hz="亏空" py="kuī,kong" />
+		<definition id="二">
+			<item id="1" text="使空，腾出来：~一个格. ~出一间房子. 想法~出一些时间来." />
+			<item id="2" text="闲着，没被利用的：~房. ~地." />
+			<item id="3" text="（-儿）没被占用的时间或地方：有~儿再来. 屋子里满得连一点儿~儿都没有. [空子](-zi)1.同“空(二)(3)”。 2.可乘的机会：钻~~." />
+			<item id="4" text="亏空，亏欠。" />
+		</definition>
 	</char>
 	<char hz="控" py="kòng" />
 	<char hz="鞚" py="kòng" />
@@ -253,6 +360,9 @@
 	<char hz="蒯" py="kuǎi" />
 	<char hz="会" py="kuài" multi="huì">
 		<phrase hz="会计" py="kuài,jì" />
+		<definition id="二">
+			<item text="总计。 [会计]1.管理和计算财务的工作。 2.管理和计算财务的人。" />
+		</definition>
 	</char>
 	<char hz="侩" py="kuài" />
 	<char hz="郐" py="kuài" />
@@ -314,7 +424,11 @@
 	<char hz="蝰" py="kuí" />
 	<char hz="逵" py="kuí" />
 	<char hz="馗" py="kuí" />
-	<char hz="隗" py="kuí" multi="wěi" />
+	<char hz="隗" py="kuí" multi="wěi">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="魁" py="kuí" />
 	<char hz="揆" py="kuí" />
 	<char hz="葵" py="kuí" />
@@ -331,6 +445,11 @@
 	<char hz="馈" py="kuì" />
 	<char hz="溃" py="kuì" multi="huì" main="1">
 		<phrase hz="溃疡" py="kuì,yáng" />
+		<definition id="一">
+			<item id="1" text="溃决，大水冲开堤岸。" />
+			<item id="2" text="散乱，垮台：~散. 敌军~败. ~不成军. 经济崩~. [溃围]突破包围。" />
+			<item id="3" text="肌肉组织腐烂：~烂. [溃疡](-yáng)黏膜或表皮坏死而形成的缺损。" />
+		</definition>
 	</char>
 	<char hz="愦" py="kuì" />
 	<char hz="" py="kuì" />
@@ -358,13 +477,26 @@
 	<char hz="困" py="kùn" />
 	<!-- kuo -->
 	<char hz="扩" py="kuò" />
-	<char hz="括" py="kuò" multi="guā" main="1" />
-	<char hz="适" py="kuò" multi="shì" />
+	<char hz="括" py="kuò" multi="guā" main="1">
+		<definition id="一">
+			<item id="1" text="扎，束：~发(fà). ~约肌（在肛门、尿道等靠近开口的地方，能收缩、扩张的肌肉）." />
+			<item id="2" text="包容（(连)包-）：总~." />
+		</definition>
+	</char>
+	<char hz="适" py="kuò" multi="shì">
+		<definition id="二">
+			<item text="古同“miss: 辶氏口”。" />
+		</definition>
+	</char>
 	<char hz="蛞" py="kuò">
 		<phrase hz="蛞蝼" py="kuò,lóu" />
 		<phrase hz="蛞蝓" py="kuò,yú" />
 	</char>
-	<char hz="miss: 辶氏口" py="kuò" />
+	<char hz="miss: 辶氏口" py="kuò" info="special">
+		<definition>
+			<item text="疾速。多用于人名。" />
+		</definition>
+	</char>
 	<char hz="阔" py="kuò" />
 	<char hz="廓" py="kuò" />
 </pinyin>
