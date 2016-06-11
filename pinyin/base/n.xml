@@ -1,26 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- n -->
-	<char hz="唔" py="ń" multi="ńg,wú" />
+	<char hz="唔" py="ń" multi="ńg,wú">
+		<definition id="三">
+			<item text="(又)同“嗯(一)”。" />
+		</definition>
+	</char>
 	<!-- <char hz="嗯" py="ń" info="(又)ńg"/> -->
 	<!-- <char hz="嗯" py="ň" info="(又)ňg"/> -->
 	<!-- <char hz="嗯" py="ǹ" info="(又)ǹg"/> -->
 	<!-- na -->
-	<char hz="那" py="nā" multi="nà,nèi" />
+	<char hz="那" py="nā" multi="nà,nèi">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="拿" py="ná" />
 	<char hz="镎" py="ná" />
-	<char hz="哪" py="nǎ" multi="né,na,něi" main="1" />
+	<char hz="哪" py="nǎ" multi="né,na,něi" main="1">
+		<definition id="一">
+			<item text="代词。1.表示疑问，后面跟量词或数量词，要求在所问范围中有所确定：你喜欢读~种书？ [哪儿][哪里]什么地方：你在~~住？ ~~有困难，就到~~去. (转)用于反问句：我~~知道？（我不知道） 他~~笨啊？（他不笨） 这项工作一个人~~能做好？（一个人做不好） 2.表示反问：没有耕耘，~有收获." />
+		</definition>
+	</char>
 	<char hz="那" py="nà" multi="nā,nèi" main="1">
 		<phrase hz="那么" py="nà,me" />
+		<definition id="一">
+			<item text="代词，指较远的时间、地方或事物，跟“这”相对：~时. ~里. ~个. ~样. ~些. [那么]（*那末）(-me)1.代词，那样：就~~办吧. 要不了~~多. ~~个人. ~~个脾气. 2.连词，跟前面“如果”、“若是”等相应：如果敌人不投降，~~就消灭他." />
+		</definition>
 	</char>
-	<char hz="娜" py="nà" multi="nuó" main="1" />
+	<char hz="娜" py="nà" multi="nuó" main="1">
+		<definition id="一">
+			<item text="用于人名。" />
+		</definition>
+	</char>
 	<char hz="呐" py="nà" />
 	<char hz="纳" py="nà" />
 	<char hz="肭" py="nà" />
 	<char hz="钠" py="nà" />
 	<char hz="衲" py="nà" />
 	<char hz="捺" py="nà" />
-	<char hz="哪" py="na" multi="nǎ,né,něi" />
+	<char hz="哪" py="na" multi="nǎ,né,něi">
+		<definition id="三">
+			<item text="助词，“啊”受到前一字韵母n收音的影响而发生的变音：同志们，加油干~！" />
+		</definition>
+	</char>
 	<!-- nai -->
 	<char hz="乃" py="nǎi" />
 	<char hz="艿" py="nǎi" />
@@ -29,15 +52,27 @@
 	<char hz="奈" py="nài" />
 	<char hz="柰" py="nài" />
 	<char hz="萘" py="nài" />
-	<char hz="佴" py="nài" multi="èr" />
+	<char hz="佴" py="nài" multi="èr">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="耐" py="nài" />
 	<char hz="鼐" py="nài" />
 	<char hz="褦" py="nài">
 		<phrase hz="褦襶" py="nài,dài" />
 	</char>
 	<!-- nan -->
-	<char hz="囝" py="nān" multi="jiǎn" />
-	<char hz="囡" py="nān" />
+	<char hz="囝" py="nān" multi="jiǎn">
+		<definition id="二">
+			<item text="〈方〉同“囡”。" />
+		</definition>
+	</char>
+	<char hz="囡" py="nān">
+		<definition>
+			<item text="〈方〉小孩儿。" />
+		</definition>
+	</char>
 	<char hz="男" py="nán">
 		<phrase hz="长男" py="zhǎng,nán" />
 	</char>
@@ -46,6 +81,12 @@
 	<char hz="楠" py="nán" />
 	<char hz="难" py="nán" multi="nàn" main="1">
 		<phrase hz="难为" py="nán,wei" />
+		<definition id="一">
+			<item id="1" text="不容易（(连)艰-）：~事. ~题. ~写. ~产. ~得." />
+			<item id="2" text="不大可能：~免. ~保. [难道]副词，加强反问语气：河水~~会倒流吗？ 他们能完成任务，~~我们就不能吗？" />
+			<item id="3" text="使人不好办：这可真~住他了. [难为](-wei)1.令人为难：他不会跳舞，就别~~他了. 2.亏得，表示感谢：这么冷天~~你还来看我. ~~你把机器修好了." />
+			<item id="4" text="不好：~听. ~看." />
+		</definition>
 	</char>
 	<char hz="赧" py="nǎn" />
 	<char hz="腩" py="nǎn" />
@@ -58,21 +99,40 @@
 		<phrase hz="逃难" py="táo,nàn" />
 		<phrase hz="非难" py="fēi,nàn" />
 		<phrase hz="责难" py="zé,nàn" />
+		<definition id="二">
+			<item id="1" text="灾患，困苦（(连)灾-、患-）：~民. 遭~. 逃~." />
+			<item id="2" text="诘责：非~. 责~." />
+		</definition>
 	</char>
 	<!-- nang -->
 	<char hz="囊" py="nāng" multi="náng">
 		<phrase hz="囊膪" py="nāng,chuài" />
+		<definition id="一">
+			<item text="[囊膪](-chuài)见“膪”字条。" />
+		</definition>
 	</char>
 	<char hz="囔" py="nāng">
 		<phrase hz="囔囔" py="nāng,nang" />
 	</char>
-	<char hz="囊" py="náng" multi="nāng" main="1" />
-	<char hz="馕" py="náng" multi="nǎng" main="1" />
+	<char hz="囊" py="náng" multi="nāng" main="1">
+		<definition id="二">
+			<item text="口袋：探~取物（喻极容易）. [囊括]全部包罗：~~四海. ~~本次比赛全部金牌." />
+		</definition>
+	</char>
+	<char hz="馕" py="náng" multi="nǎng" main="1">
+		<definition id="二">
+			<item text="(维)一种烤制成的面饼。" />
+		</definition>
+	</char>
 	<char hz="曩" py="nǎng" />
 	<char hz="攮" py="nǎng">
 		<phrase hz="攮子" py="nǎng,zi" />
 	</char>
-	<char hz="馕" py="nǎng" multi="náng" info="Word主音" />
+	<char hz="馕" py="nǎng" multi="náng" info="Word主音">
+		<definition id="一">
+			<item text="拼命地往嘴里塞食物。" />
+		</definition>
+	</char>
 	<char hz="齉" py="nàng" />
 	<!-- nao -->
 	<char hz="孬" py="nāo" />
@@ -95,21 +155,35 @@
 	<!-- ne -->
 	<char hz="哪" py="né" multi="nǎ,na,něi">
 		<phrase hz="哪吒" py="né,zhā" />
+		<definition id="四">
+			<item text="[哪吒](-zhā)神话里的神名。" />
+		</definition>
 	</char>
 	<char hz="讷" py="nè" />
-	<char hz="呢" py="ne" multi="ní" main="1" />
+	<char hz="呢" py="ne" multi="ní" main="1">
+		<definition id="二">
+			<item text="助词。 1.表示疑问（句中含有疑问词）：你到哪儿去~？ 怎么办~？ 2.表示确定的语气：早着~. 还没有来~. 3.表示动作正在进行：他睡觉~. 4.用在句中表示略停一下：喜欢~，就买下；不喜欢~，就不买." />
+		</definition>
+	</char>
 	<!-- nei -->
 	<char hz="哪" py="něi" multi="nǎ,na,né">
 		<phrase hz="哪个" py="něi,gè" />
 		<phrase hz="哪些" py="něi,xiē" />
 		<phrase hz="哪年" py="něi,nián" />
 		<phrase hz="哪几年" py="něi,jǐ,nián" />
+		<definition id="二">
+			<item text="“哪”(nǎ)和“一”的合音，但指数量时不限于一：~个. ~些. ~年. ~几年." />
+		</definition>
 	</char>
 	<char hz="馁" py="nèi" />
 	<char hz="内" py="nèi">
 		<phrase hz="内行" py="nèi,háng" />
 	</char>
-	<char hz="那" py="nèi" multi="nā,nà" />
+	<char hz="那" py="nèi" multi="nā,nà">
+		<definition id="二">
+			<item text="“那”(nà)和“一”的合音，但指数量时不限于一：~个. ~些. ~年. ~三年." />
+		</definition>
+	</char>
 	<!-- nen -->
 	<char hz="恁" py="nèn" />
 	<char hz="嫩" py="nèn" />
@@ -118,10 +192,26 @@
 		<phrase hz="能耐" py="néng,nai" />
 	</char>
 	<!-- ng -->
-	<char hz="唔" py="ńg" multi="ń,wú" />
-	<!-- <char hz="嗯" py="ńg" info="(又)ń"/> -->
-	<!-- <char hz="嗯" py="ňg" info="(又)ň"/> -->
-	<char hz="嗯" py="ǹg" info="(又)ǹ" />
+	<char hz="唔" py="ńg" multi="ń,wú">
+		<definition id="二">
+			<item text="同“嗯(一)”。" />
+		</definition>
+	</char>
+	<char hz="嗯" py="ńg" multi="ňg,ǹg" info="(又)ń">
+		<definition id="一">
+			<item text="叹词，表示疑问：~！你说什么？" />
+		</definition>
+	</char>
+	<char hz="嗯" py="ňg" multi="ńg,ǹg" info="(又)ň">
+		<definition id="二">
+			<item text="叹词，表示不以为然或出乎意外：~！我看不一定是那么回事. ~！你怎么还没去？" />
+		</definition>
+	</char>
+	<char hz="嗯" py="ǹg" multi="ńg,ňg" info="(又)ǹ" main="1">
+		<definition id="三">
+			<item text="叹词，表示答应：~，就这么办吧." />
+		</definition>
+	</char>
 	<!-- ni -->
 	<char hz="妮" py="nī" />
 	<char hz="尼" py="ní" />
@@ -129,8 +219,17 @@
 	<char hz="呢" py="ní" multi="ne">
 		<phrase hz="呢子" py="ní,zi" />
 		<phrase hz="呢喃" py="ní,nán" />
+		<definition id="一">
+			<item text="（-子）一种毛织物。" />
+			<item text="[呢喃](-nán)形容燕子的叫声。" />
+		</definition>
 	</char>
-	<char hz="泥" py="ní" multi="nì" main="1" />
+	<char hz="泥" py="ní" multi="nì" main="1">
+		<definition id="一">
+			<item id="1" text="土和水合成的东西。" />
+			<item id="2" text="像泥的东西：印~（印色）. 枣~. 山药~." />
+		</definition>
+	</char>
 	<char hz="怩" py="ní" />
 	<char hz="铌" py="ní" />
 	<char hz="倪" py="ní" />
@@ -143,20 +242,38 @@
 	<char hz="旎" py="nǐ" />
 	<char hz="泥" py="nì" multi="ní">
 		<phrase hz="拘泥" py="jū,nì" />
+		<definition id="二">
+			<item id="1" text="涂抹：~墙. ~炉子." />
+			<item id="2" text="固执，死板（(连)拘-）。" />
+		</definition>
 	</char>
 	<char hz="昵" py="nì" />
 	<char hz="逆" py="nì" />
 	<char hz="匿" py="nì" />
 	<char hz="睨" py="nì" />
 	<char hz="腻" py="nì" />
-	<char hz="溺" py="nì" multi="niào" main="1" />
+	<char hz="溺" py="nì" multi="niào" main="1">
+		<definition id="一">
+			<item id="1" text="淹没：~死." />
+			<item id="2" text="沉迷不悟，过分：~信. ~爱." />
+		</definition>
+	</char>
 	<!-- nian -->
 	<char hz="拈" py="niān" />
 	<char hz="蔫" py="niān" />
 	<char hz="年" py="nián" />
-	<char hz="粘" py="nián" multi="zhān" />
+	<char hz="粘" py="nián" multi="zhān">
+		<definition id="二">
+			<item id="1" text="同“黏”。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
 	<char hz="鲇" py="nián" />
-	<char hz="黏" py="nián" />
+	<char hz="黏" py="nián">
+		<definition>
+			<item text="像胶水或糨糊所具有的能使物体粘(zhān)合的性质：~液. 这江米很~." />
+		</definition>
+	</char>
 	<char hz="鲶" py="nián" />
 	<char hz="捻" py="niǎn" />
 	<char hz="辇" py="niǎn" />
@@ -178,15 +295,31 @@
 	<char hz="茑" py="niǎo" />
 	<char hz="袅" py="niǎo">
 		<phrase hz="袅娜" py="niǎo,nuó" />
+		<definition>
+			<item text="[袅袅]1.烟气缭绕上腾的样子：炊烟~~. 2.细长柔软的东西随风摆样子：垂杨~~. 3.声音绵延不绝：余音~~. [袅娜](-nuó)1.形容草木柔软细长。 2.形容女子姿态美。" />
+		</definition>
 	</char>
 	<char hz="嬲" py="niǎo" />
-	<char hz="尿" py="niào" multi="suī" main="1" />
+	<char hz="尿" py="niào" multi="suī" main="1">
+		<definition id="一">
+			<item id="1" text="小便，从肾脏滤出由尿道排泄出来的液体。" />
+			<item id="2" text="排泄小便。" />
+		</definition>
+	</char>
 	<char hz="脲" py="niào" />
-	<char hz="溺" py="niào" multi="nì" />
+	<char hz="溺" py="niào" multi="nì">
+		<definition id="二">
+			<item text="同“尿”。" />
+		</definition>
+	</char>
 	<!-- nie -->
 	<char hz="捏" py="niē" />
 	<char hz="苶" py="nié" />
-	<char hz="乜" py="niè" multi="miē" main="1" />
+	<char hz="乜" py="niè" multi="miē" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="陧" py="niè" />
 	<char hz="涅" py="niè" />
 	<char hz="聂" py="niè" />
@@ -208,10 +341,19 @@
 	<!-- nin -->
 	<char hz="您" py="nín" />
 	<!-- ning -->
-	<char hz="宁" py="níng" multi="nìng" main="1" />
+	<char hz="宁" py="níng" multi="nìng" main="1">
+		<definition id="一">
+			<item id="1" text="安宁。 [归宁]旧时女子出嫁后回娘家看望父母。" />
+			<item id="2" text="使安宁：息事~人." />
+			<item id="3" text="江苏省南京的别称。" />
+		</definition>
+	</char>
 	<char hz="拧" py="níng" multi="nǐng,nìng">
 		<phrase hz="拧毛巾" py="níng,máo,jīn" />
 		<phrase hz="拧绳子" py="níng,shéng,zi" />
+		<definition id="二">
+			<item text="握住物体的两端向相反的方向用力：~手巾. ~绳子." />
+		</definition>
 	</char>
 	<char hz="苧" py="níng" />
 	<char hz="咛" py="níng" />
@@ -223,14 +365,26 @@
 		<phrase hz="耵聍" py="dīng,níng" />
 	</char>
 	<char hz="凝" py="níng" />
-	<char hz="拧" py="nǐng" multi="níng,nìng" main="1" />
+	<char hz="拧" py="nǐng" multi="níng,nìng" main="1">
+		<definition id="一">
+			<item id="1" text="扭转，控制住东西的一部分而绞转(zhuàn)：~螺丝钉. ~墨水瓶盖." />
+			<item id="2" text="〈方〉相反，不顺：我弄~了. 别让他俩闹~了." />
+		</definition>
+	</char>
 	<char hz="宁" py="nìng" multi="níng">
 		<phrase hz="宁可" py="nìng,kě" />
 		<phrase hz="宁死不屈" py="nìng,sǐ,bù,qū" />
 		<phrase hz="宁缺毋滥" py="nìng,quē,wú,làn" />
+		<definition id="二">
+			<item id="1" text="宁可，表示比较后做出的选择，情愿：~死不屈. ~缺毋滥." />
+			<item id="2" text="姓。" />
+		</definition>
 	</char>
 	<char hz="拧" py="nìng" multi="níng,nǐng">
 		<phrase hz="拧脾气" py="nìng,pí,qi" />
+		<definition id="三">
+			<item text="倔强，别扭，不驯服：~脾气." />
+		</definition>
 	</char>
 	<char hz="泞" py="nìng" />
 	<char hz="佞" py="nìng" />
@@ -243,9 +397,17 @@
 		<phrase hz="忸怩" py="niǔ,ní" />
 	</char>
 	<char hz="纽" py="niǔ" />
-	<char hz="杻" py="niǔ" multi="chǒu" />
+	<char hz="杻" py="niǔ" multi="chǒu">
+		<definition id="二">
+			<item text="古书上说的一种树。" />
+		</definition>
+	</char>
 	<char hz="钮" py="niǔ" />
-	<char hz="拗" py="niù" multi="ǎo,ào" main="1" />
+	<char hz="拗" py="niù" multi="ǎo,ào" main="1">
+		<definition id="三">
+			<item text="固执，不驯顺：执~. 脾气很~." />
+		</definition>
+	</char>
 	<!-- nong -->
 	<char hz="农" py="nóng" />
 	<char hz="侬" py="nóng" />
@@ -255,7 +417,14 @@
 	<char hz="浓" py="nóng" />
 	<char hz="脓" py="nóng" />
 	<char hz="秾" py="nóng" />
-	<char hz="弄" py="nòng" multi="lòng" main="1" />
+	<char hz="弄" py="nòng" multi="lòng" main="1">
+		<definition id="一">
+			<item id="1" text="拿着玩，戏耍（(连)玩-、戏-）：不要~火." />
+			<item id="2" text="搞、做：~好. ~点水喝. ~饭." />
+			<item id="3" text="搅扰：这消息~得人心不安." />
+			<item id="4" text="耍，炫耀：~手段. 舞文~墨." />
+		</definition>
+	</char>
 	<!-- nou -->
 	<char hz="耨" py="nòu" />
 	<!-- nu -->
@@ -282,16 +451,32 @@
 	<!-- nüe -->
 	<char hz="疟" py="nüè" multi="yào" main="1">
 		<phrase hz="疟疾" py="nüè,ji" />
+		<definition id="一">
+			<item text="疟疾(ji)，又叫“疟子”(yàozi)。一种周期性发冷发烧的传染病。病原体是疟原虫，由疟蚊传染到人体血液中。发疟子，有的地区叫“打摆子”。" />
+		</definition>
 	</char>
 	<char hz="虐" py="nüè" />
 	<!-- nuo -->
 	<char hz="挪" py="nuó" />
 	<char hz="娜" py="nuó" multi="nà">
 		<phrase hz="袅娜" py="niǎo,nuó" />
+		<definition id="二">
+			<item text="见“袅”字条“袅娜”(niǎo-)。" />
+		</definition>
 	</char>
 	<char hz="傩" py="nuó" />
-	<char hz="诺" py="nuò" />
-	<char hz="喏" py="nuò" multi="rě" main="1" />
+	<char hz="诺" py="nuò">
+		<definition>
+			<item id="1" text="答应的声音，表示同意（叠）：~~连声." />
+			<item id="2" text="应允：~言. 慨~." />
+		</definition>
+	</char>
+	<char hz="喏" py="nuò" multi="rě" main="1">
+		<definition id="二">
+			<item id="1" text="〈方〉叹词，表示让人注意自己所指示的事物：~，这不就是你的那把伞？" />
+			<item id="2" text="同“诺”。" />
+		</definition>
+	</char>
 	<char hz="锘" py="nuò" />
 	<char hz="搦" py="nuò" />
 	<char hz="懦" py="nuò" />
