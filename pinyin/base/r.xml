@@ -13,28 +13,46 @@
 	<!-- rang -->
 	<char hz="嚷" py="rāng" multi="rǎng">
 		<phrase hz="嚷嚷" py="rāng,rang" />
+		<definition id="二">
+			<item text="[嚷嚷](-rang)1.吵闹：大家别乱~~. 2.声张：这事先别~~出去." />
+		</definition>
 	</char>
 	<char hz="勷" py="ráng" />
 	<char hz="蘘" py="ráng" />
 	<char hz="禳" py="ráng" />
 	<char hz="穰" py="ráng" />
 	<char hz="瓤" py="ráng" />
-	<char hz="miss: 衤襄" py="ráng" />
+	<char hz="miss: 衤襄" py="ráng" info="special" />
 	<char hz="壤" py="rǎng" />
 	<char hz="攘" py="rǎng" />
-	<char hz="嚷" py="rǎng" multi="rāng" main="1" />
+	<char hz="嚷" py="rǎng" multi="rāng" main="1">
+		<definition id="一">
+			<item text="大声喊叫：大~大叫. 你别~了，大家都睡觉了." />
+		</definition>
+	</char>
 	<char hz="让" py="ràng" />
 	<!-- rao -->
 	<char hz="荛" py="ráo" />
 	<char hz="饶" py="ráo" />
-	<char hz="娆" py="ráo" multi="rǎo" main="1" />
+	<char hz="娆" py="ráo" multi="rǎo" main="1">
+		<definition id="一">
+			<item text="[妖娆][娇娆]妖艳，美好。" />
+		</definition>
+	</char>
 	<char hz="桡" py="ráo" />
 	<char hz="扰" py="rǎo" />
-	<char hz="娆" py="rǎo" multi="ráo" />
+	<char hz="娆" py="rǎo" multi="ráo">
+		<definition id="二">
+			<item text="烦扰，扰乱。" />
+		</definition>
+	</char>
 	<char hz="绕" py="rào" />
 	<!-- re -->
 	<char hz="喏" py="rě" multi="nuò">
 		<phrase hz="唱喏" py="chàng,rě" />
+		<definition id="一">
+			<item text="古代表示敬意的呼喊：唱~（旧小说中常用，对作伏作揖，同时出声致敬）." />
+		</definition>
 	</char>
 	<char hz="惹" py="rě" />
 	<char hz="热" py="rè" />
@@ -44,6 +62,10 @@
 	<char hz="任" py="rén" multi="rèn">
 		<phrase hz="任县" py="rén,xiàn" />
 		<phrase hz="任丘" py="rén,qiū" />
+		<definition id="二">
+			<item text="姓。" />
+			<item text="[任县][任丘]地名，都在河北省。" />
+		</definition>
 	</char>
 	<char hz="仁" py="rén" />
 	<char hz="忍" py="rěn">
@@ -58,13 +80,26 @@
 	<char hz="轫" py="rèn" />
 	<char hz="牣" py="rèn" />
 	<char hz="认" py="rèn" />
-	<char hz="任" py="rèn" multi="rén" main="1" />
+	<char hz="任" py="rèn" multi="rén" main="1">
+		<definition id="一">
+			<item id="1" text="相信，依赖（(连)信-）。" />
+			<item id="2" text="任命，使用，给予职务：~用." />
+			<item id="3" text="负担或担当（(连)担-）：~课. 连选连~. ~劳~怨." />
+			<item id="4" text="职务：到~. 接受重~. 一身而二~." />
+			<item id="5" text="由着，听凭：~意. ~性. 放~. 不能~其自然发展." />
+			<item id="6" text="连词，不论：~谁说也不听. ~什么都不懂. (转)任何，无论什么：~人皆知." />
+			<item text="" />
+		</definition>
+	</char>
 	<char hz="饪" py="rèn" />
 	<char hz="妊" py="rèn" />
 	<char hz="纴" py="rèn" />
 	<char hz="衽" py="rèn" />
 	<char hz="葚" py="rèn" multi="shèn">
 		<phrase hz="桑葚儿" py="sāng,rèn,er" />
+		<definition id="二">
+			<item text="[桑葚儿]桑树的果实，用于口语。" />
+		</definition>
 	</char>
 	<!-- reng -->
 	<char hz="扔" py="rēng" />
