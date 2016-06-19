@@ -4,8 +4,21 @@
 	<char hz="丫" py="yā">
 		<phrase hz="丫头" py="yā,tou" />
 	</char>
-	<char hz="压" py="yā" multi="yà" main="1" />
-	<char hz="呀" py="yā" multi="ya" main="1" />
+	<char hz="压" py="yā" multi="yà" main="1">
+		<definition id="一">
+			<item id="1" text="从上面加重力：~住. ~碎. (引)搁置不动：积~资金." />
+			<item id="2" text="用威力制服，镇服：镇~. ~制. (引)胜过，超过：~倒一切. 技~群芳." />
+			<item id="3" text="抑制，控制：~咳嗽. ~住气. ~不住火." />
+			<item id="4" text="逼近：~境. 太阳~树梢." />
+			<item id="5" text="赌博时在某一门上下注。" />
+		</definition>
+	</char>
+	<char hz="呀" py="yā" multi="ya" main="1">
+		<definition id="一">
+			<item id="1" text="叹词，表示惊疑：~，这怎么办！" />
+			<item id="2" text="拟声词：门~的一声开了." />
+		</definition>
+	</char>
 	<char hz="鸦" py="yā">
 		<phrase hz="鸦片" py="yā,piàn" />
 	</char>
@@ -16,6 +29,9 @@
 	</char>
 	<char hz="哑" py="yā" multi="yǎ">
 		<phrase hz="哑哑" py="yā,yā" />
+		<definition id="二">
+			<item text="同“呀”(yā)。 [哑哑]拟声词，乌鸦叫声或小儿学语声。" />
+		</definition>
 	</char>
 	<char hz="牙" py="yá">
 		<phrase hz="牙行" py="yá,háng" />
@@ -36,12 +52,24 @@
 	<char hz="衙" py="yá" />
 	<char hz="哑" py="yǎ" multi="yā" main="1">
 		<phrase hz="哑巴" py="yǎ,ba" />
+		<definition id="一">
+			<item id="1" text="由于生理缺陷或疾病而不能说话：聋~. ~口无言（喻无话可说）. [哑巴](-ba)1.同“哑(1)”。2.指不能说话的人。" />
+			<item id="2" text="嗓子干涩发音困难或不清楚：嗓子喊~了." />
+			<item id="3" text="无声的：~剧. ~铃（一种运动器械）." />
+			<item id="4" text="（旧读è）笑声：~然失笑（不由自主地笑出声来）." />
+		</definition>
 	</char>
 	<char hz="痖" py="yǎ" />
 	<char hz="雅" py="yǎ">
 		<phrase hz="雅教" py="yǎ,jiào" />
 	</char>
-	<char hz="轧" py="yà" multi="gá,zhá" main="1" />
+	<char hz="轧" py="yà" multi="gá,zhá" main="1">
+		<definition id="一">
+			<item id="1" text="圆轴或轮子等压在东西上面转：把马路~平了. ~棉花. ~花机." />
+			<item id="2" text="排挤：倾~." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
 	<char hz="亚" py="yà" />
 	<!-- <char hz="垭" py="yà" info="(又)yā"> -->
 	<char hz="挜" py="yà" />
@@ -49,6 +77,9 @@
 	<char hz="氩" py="yà" />
 	<char hz="压" py="yà" multi="yā">
 		<phrase hz="压根儿" py="yà,gēn,er" />
+		<definition id="二">
+			<item text="[压根儿]副词，根本，从来（多用于否定句）：我~~~没去过那个地方." />
+		</definition>
 	</char>
 	<char hz="讶" py="yà" />
 	<char hz="迓" py="yà" />
@@ -57,9 +88,17 @@
 		<phrase hz="揠苗助长" py="yà,miáo,zhù,zhǎng" />
 	</char>
 	<char hz="猰" py="yà" />
-	<char hz="呀" py="ya" multi="yā" />
+	<char hz="呀" py="ya" multi="yā">
+		<definition id="二">
+			<item text="助词，“啊”受前一字韵母 a、e、i、o、ü 收音的影响而发生的变音：大家快来~！ 你怎么不学一学~？ 这个瓜~，甜得很！" />
+		</definition>
+	</char>
 	<!-- yan -->
-	<char hz="咽" py="yān" multi="yàn,yè" main="1" />
+	<char hz="咽" py="yān" multi="yàn,yè" main="1">
+		<definition id="一">
+			<item text="咽头，食物和气体共同通道，位于鼻腔、口腔和喉腔的后方，通常混称咽喉。" />
+		</definition>
+	</char>
 	<char hz="胭" py="yān">
 		<phrase hz="胭脂" py="yān,zhi" />
 	</char>
@@ -68,6 +107,9 @@
 	<char hz="殷" py="yān" multi="yīn">
 		<phrase hz="殷红" py="yān,hóng" />
 		<phrase hz="朱殷" py="zhū,yān" />
+		<definition id="二">
+			<item text="黑红色：~红. 朱~." />
+		</definition>
 	</char>
 	<char hz="焉" py="yān" />
 	<char hz="鄢" py="yān" />
@@ -80,21 +122,41 @@
 	</char>
 	<char hz="阉" py="yān" />
 	<char hz="淹" py="yān" />
-	<char hz="腌" py="yān" multi="ā" main="1" />
+	<char hz="腌" py="yān" multi="ā" main="1">
+		<definition id="一">
+			<item text="用盐等浸渍食品：~肉. ~咸菜." />
+		</definition>
+	</char>
 	<char hz="湮" py="yān" multi="yīn" main="1">
 		<phrase hz="湮没" py="yān,mò" />
+		<definition id="一">
+			<item text="埋没（(连)-没）：有的古迹已经~~没了." />
+		</definition>
 	</char>
-	<char hz="燕" py="yān" multi="yàn" />
+	<char hz="燕" py="yān" multi="yàn">
+		<definition id="二">
+			<item id="1" text="周代诸侯国名，在今河北省北部和辽宁省南部。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
 	<char hz="延" py="yán">
 		<phrase hz="蔓延" py="màn,yán" />
 	</char>
-	<char hz="埏" py="yán" multi="shān" />
+	<char hz="埏" py="yán" multi="shān">
+		<definition id="二">
+			<item id="1" text="大地的边沿。" />
+			<item id="2" text="墓道。" />
+		</definition>
+	</char>
 	<char hz="蜒" py="yán" />
 	<char hz="筵" py="yán" />
 	<char hz="闫" py="yán" />
 	<char hz="芫" py="yán" multi="yuán">
 		<phrase hz="芫荽" py="yán,sui" />
 		<phrase hz="胡荽" py="yán,suī" />
+		<definition id="二">
+			<item text="[芫荽](-sui)俗叫“香菜”，又叫“胡荽”(-suī)。一年生或二年生草本植物，花白色。果实球形，有香气，可以制药和香料。茎、叶可以吃。" />
+		</definition>
 	</char>
 	<char hz="严" py="yán" />
 	<char hz="言" py="yán" />
@@ -106,6 +168,9 @@
 	<char hz="沿" py="yán" />
 	<char hz="铅" py="yán" multi="qiān">
 		<phrase hz="铅山" py="yán,shān" />
+		<definition id="一">
+			<item text="[铅山]地名，在江西省。" />
+		</definition>
 	</char>
 	<char hz="盐" py="yán" />
 	<char hz="阎" py="yán" />
@@ -120,7 +185,12 @@
 	<char hz="衍" py="yǎn" />
 	<char hz="弇" py="yǎn" />
 	<char hz="渰" py="yǎn" />
-	<char hz="剡" py="yǎn" multi="shàn" main="1" />
+	<char hz="剡" py="yǎn" multi="shàn" main="1">
+		<definition id="一" text="〈古〉">
+			<item id="1" text="尖，锐利。" />
+			<item id="2" text="削，刮。" />
+		</definition>
+	</char>
 	<char hz="琰" py="yǎn" />
 	<char hz="扊" py="yǎn">
 		<phrase hz="扊扅" py="yǎn,yí" />
@@ -147,6 +217,9 @@
 		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
 		<phrase hz="狼吞虎咽" py="láng,tūn,hǔ,yàn" />
 		<phrase hz="咽气" py="yàn,qì" />
+		<definition id="二">
+			<item text="使嘴里的食物等通过咽喉到食道里去：细嚼慢~. 狼吞虎~. [咽气]人死时断气。" />
+		</definition>
 	</char>
 	<char hz="唁" py="yàn" />
 	<char hz="彦" py="yàn" />
@@ -159,6 +232,12 @@
 	<char hz="鷃" py="yàn" trans="1" />
 	<char hz="宴" py="yàn">
 		<phrase hz="宴安鸩毒" py="yàn,ān,zhèn,dú" />
+		<definition>
+			<item id="1" text="用酒饭招待：~客." />
+			<item id="2" text="聚会在一起吃酒饭：~会." />
+			<item id="3" text="酒席：设~." />
+			<item id="4" text="安乐：~安鸩(zhèn)毒（贪图享受等于喝毒酒自杀）." />
+		</definition>
 	</char>
 	<char hz="堰" py="yàn" />
 	<char hz="验" py="yàn" />
@@ -168,7 +247,12 @@
 	<char hz="焱" py="yàn" />
 	<char hz="酽" py="yàn" />
 	<char hz="谳" py="yàn" />
-	<char hz="燕" py="yàn" multi="yān" main="1" />
+	<char hz="燕" py="yàn" multi="yān" main="1">
+		<definition id="一">
+			<item id="1" text="（-子）鸟名。翅膀很长，尾巴像张开的剪刀，背部黑色，肚皮白色，常在人家屋内或屋檐下用泥做巢居住，捕食昆虫。是候鸟。" />
+			<item id="2" text="古书里有时用作“宴”：~居. ~好. ~乐." />
+		</definition>
+	</char>
 	<char hz="" py="yàn" />
 	<!-- yang -->
 	<char hz="央" py="yāng" />
@@ -178,7 +262,11 @@
 	<char hz="秧" py="yāng">
 		<phrase hz="秧歌" py="yāng,ge" />
 	</char>
-	<char hz="鞅" py="yāng" multi="yàng" main="1" />
+	<char hz="鞅" py="yāng" multi="yàng" main="1">
+		<definition id="一">
+			<item text="古代用马拉车时套在马颈上的皮子。" />
+		</definition>
+	</char>
 	<char hz="扬" py="yáng">
 		<phrase hz="扬扬止沸" py="yáng,yáng,zhǐ,fèi" />
 		<phrase hz="扬场" py="yáng,chǎng" />
@@ -194,7 +282,11 @@
 	<char hz="垟" py="yáng" />
 	<char hz="徉" py="yáng" />
 	<char hz="洋" py="yáng" />
-	<char hz="烊" py="yáng" multi="yàng" main="1" />
+	<char hz="烊" py="yáng" multi="yàng" main="1">
+		<definition id="一">
+			<item text="熔化金属。 (引)〈方〉溶化：糖~了." />
+		</definition>
+	</char>
 	<char hz="蛘" py="yáng" />
 	<char hz="阳" py="yáng" />
 	<char hz="仰" py="yǎng" />
@@ -205,17 +297,32 @@
 	<char hz="怏" py="yàng" />
 	<char hz="鞅" py="yàng" multi="yāng" info="Word主音">
 		<phrase hz="牛鞅" py="niú,yàng" />
+		<definition id="二">
+			<item text="牛鞅，牛拉东西时架在脖子上的器具。" />
+		</definition>
 	</char>
 	<char hz="样" py="yàng" />
 	<char hz="恙" py="yàng" />
 	<char hz="烊" py="yàng" multi="yáng">
 		<phrase hz="打烊" py="dǎ,yàng" />
+		<definition id="二">
+			<item text="[打烊]〈方〉商店晚上关门停止营业。" />
+		</definition>
 	</char>
 	<char hz="羕" py="yàng" />
 	<char hz="漾" py="yàng" />
 	<!-- yao -->
-	<char hz="么" py="yāo" multi="ma,me" />
-	<char hz="幺" py="yāo" />
+	<char hz="么" py="yāo" multi="ma,me">
+		<definition id="三">
+			<item text="同“幺”。" />
+		</definition>
+	</char>
+	<char hz="幺" py="yāo">
+		<definition>
+			<item id="1" text="〈方〉小，排行最末的：~叔. ~妹. ~儿." />
+			<item id="2" text="数目“一”的另一个说法（用于电话号码等）。" />
+		</definition>
+	</char>
 	<char hz="吆" py="yāo">
 		<phrase hz="吆喝" py="yāo,he" />
 	</char>
@@ -223,18 +330,43 @@
 	<char hz="妖" py="yāo" />
 	<char hz="约" py="yāo" multi="yuē">
 		<phrase hz="约约" py="yāo,yāo" />
+		<definition id="二">
+			<item text="用秤称：你~~有多重？" />
+		</definition>
 	</char>
 	<char hz="要" py="yāo" multi="yào">
 		<phrase hz="要求" py="yāo,qiú" />
 		<phrase hz="要挟" py="yāo,xié" />
+		<definition id="二">
+			<item id="1" text="求。 [要求]提出具体事项，希望实现：~~大家认真学习. ~~入党." />
+			<item id="2" text="强求，有所仗恃而强硬要求：~挟(xié)." />
+			<item id="3" text="古同“邀”、“腰”。" />
+			<item id="4" text="姓。" />
+		</definition>
 	</char>
-	<char hz="腰" py="yāo" />
-	<char hz="邀" py="yāo" />
+	<char hz="腰" py="yāo">
+		<definition>
+			<item id="1" text="胯上胁下的部分，在身体的中部。 [腰子]肾脏。" />
+			<item id="2" text="裤、裙等围在腰上的部分：裤~." />
+			<item id="3" text="事物的中段，中间：山~." />
+			<item id="4" text="中间狭小像腰部的地势：土~. 海~." />
+		</definition>
+	</char>
+	<char hz="邀" py="yāo">
+		<definition>
+			<item id="1" text="约请：~他来谈谈. 特~代表." />
+			<item id="2" text="求得：~赏. ~准." />
+			<item id="3" text="阻留：中途~截." />
+		</definition>
+	</char>
 	<char hz="爻" py="yáo" />
 	<char hz="肴" py="yáo" />
 	<char hz="尧" py="yáo" />
 	<char hz="侥" py="yáo" multi="jiǎo">
 		<phrase hz="僬侥" py="jiāo,yáo" />
+		<definition id="二">
+			<item text="见“僬”字条“僬侥”(jiāo-)。" />
+		</definition>
 	</char>
 	<char hz="峣" py="yáo">
 		<phrase hz="岧峣" py="tiáo,yáo" />
@@ -243,20 +375,36 @@
 	<char hz="轺" py="yáo" />
 	<char hz="姚" py="yáo" />
 	<char hz="珧" py="yáo" />
-	<char hz="铫" py="yáo" multi="diào" main="1" />
+	<char hz="铫" py="yáo" multi="diào" main="1">
+		<definition id="二">
+			<item id="1" text="古代一种大锄。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
 	<char hz="陶" py="yáo" multi="táo">
 		<phrase hz="皋陶" py="gāo,yáo" />
+		<definition id="二">
+			<item text="[皋陶](gāo-)传说中上古人名。" />
+		</definition>
 	</char>
 	<char hz="窑" py="yáo" />
 	<char hz="谣" py="yáo" />
 	<char hz="摇" py="yáo">
 		<phrase hz="摇曳" py="yáo,yè" />
 	</char>
-	<char hz="徭" py="yáo" />
+	<char hz="徭" py="yáo">
+		<definition>
+			<item text="徭役，古时统治者强制人民承担的无偿劳动。" />
+		</definition>
+	</char>
 	<char hz="遥" py="yáo" />
 	<char hz="瑶" py="yáo" />
 	<char hz="飖" py="yáo" />
-	<char hz="繇" py="yáo" multi="yóu,zhòu" main="1" />
+	<char hz="繇" py="yáo" multi="yóu,zhòu" main="1">
+		<definition id="二">
+			<item text="同“徭”。" />
+		</definition>
+	</char>
 	<char hz="鳐" py="yáo" />
 	<char hz="杳" py="yǎo" />
 	<char hz="咬" py="yǎo" />
@@ -269,11 +417,27 @@
 	</char>
 	<char hz="疟" py="yào" multi="nüè">
 		<phrase hz="疟子" py="yào,zi" />
+		<definition id="二">
+			<item text="疟子，疟(nüè)疾。" />
+		</definition>
 	</char>
 	<char hz="药" py="yào" />
-	<char hz="要" py="yào" multi="yāo" main="1" />
+	<char hz="要" py="yào" multi="yāo" main="1">
+		<definition id="一">
+			<item id="1" text="索取，希望得到：我~这一本书. (引)作为己有，保留：这东西他还~呢. [要强]好胜心强，不愿落后。" />
+			<item id="2" text="重大，值得重视的：~事. ~点. [要紧][紧要]急切重要。" />
+			<item id="3" text="重大的值得重视的东西：纲~. 提~." />
+			<item id="4" text="应该，必须：~努力学习." />
+			<item id="5" text="将要，将：我们~去学习了." />
+			<item id="6" text="连词，要是，若，如果：明天~下雨，我就不去了. 他~来了，你就交给他." />
+			<item id="7" text="请求，叫：他~我给他买本书." />
+		</definition>
+	</char>
 	<char hz="钥" py="yào" multi="yuè" info="Word主音">
 		<phrase hz="钥匙" py="yào,shi" />
+		<definition id="二">
+			<item text="[钥匙](-shi)开锁的东西。" />
+		</definition>
 	</char>
 	<char hz="靿" py="yào" />
 	<char hz="鹞" py="yào" />
@@ -282,20 +446,44 @@
 	<!-- ye -->
 	<char hz="耶" py="yē" multi="yé" info="Word主音">
 		<phrase hz="耶路撒冷" py="yē,lù,sā,lěng" />
+		<definition id="二">
+			<item text="用于译音，如耶路撒冷。" />
+		</definition>
 	</char>
 	<char hz="倻" py="yē">
 		<phrase hz="伽倻琴" py="jiā,yē,qín" />
 	</char>
 	<char hz="椰" py="yē" />
-	<char hz="掖" py="yē" multi="yè" />
+	<char hz="掖" py="yē" multi="yè">
+		<definition id="二">
+			<item text="把东西塞在衣袋或夹缝里：把钱~在兜里. 把书~在书包里." />
+		</definition>
+	</char>
 	<char hz="暍" py="yē" />
 	<char hz="噎" py="yē" />
 	<char hz="邪" py="yé" multi="xié">
 		<phrase hz="莫邪" py="mò,yé" />
+		<definition id="二">
+			<item id="1" text="见“莫”字条“莫邪”。" />
+			<item id="2" text="古同“耶(一)(1)”。" />
+		</definition>
 	</char>
 	<char hz="铘" py="yé" />
-	<char hz="爷" py="yé" />
-	<char hz="耶" py="yé" multi="yē" main="1" />
+	<char hz="爷" py="yé">
+		<definition>
+			<item id="1" text="父亲：~娘." />
+			<item id="2" text="祖父（叠）：~~奶奶." />
+			<item id="3" text="对长辈或年长男子的敬称：张大~(ye). 李~." />
+			<item id="4" text="旧时对官僚、财主等的称呼：老~. 少~." />
+			<item id="5" text="迷信的人对神的称呼：土地~. 财神~." />
+		</definition>
+	</char>
+	<char hz="耶" py="yé" multi="yē" main="1">
+		<definition id="一" text="〈古〉">
+			<item id="1" text="助词，表示疑问：是~非~？" />
+			<item id="2" text="同“爷”。" />
+		</definition>
+	</char>
 	<char hz="揶" py="yé">
 		<phrase hz="揶揄" py="yé,yú" />
 	</char>
@@ -304,17 +492,46 @@
 	<char hz="野" py="yě" />
 	<char hz="业" py="yè" />
 	<char hz="邺" py="yè" />
-	<char hz="叶" py="yè" multi="xié" main="1" />
-	<char hz="页" py="yè" />
-	<char hz="曳" py="yè" />
-	<char hz="拽" py="yè" multi="zhuāi,zhuài" />
+	<char hz="叶" py="yè" multi="xié" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）植物的营养器官之一，多呈片状、绿色，长在茎上：树~. 菜~." />
+			<item id="2" text="像叶子的：铜~. 铁~." />
+			<item id="3" text="同“页”。" />
+			<item id="4" text="较长时期的分段：20世纪中~." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="页" py="yè">
+		<definition>
+			<item id="1" text="篇，张（指书、画、纸等）：活~. [网页]可以在互联网上进行信息查询的信息页。 [主页]可以在互联网上进行信息查询的起始网页。" />
+			<item id="2" text="量词，我国旧指书本中的一张纸，现多指书本一张纸的一面。" />
+		</definition>
+	</char>
+	<char hz="曳" py="yè">
+		<definition>
+			<item text="拖，拉，牵引：~光弹. 弃甲~兵." />
+		</definition>
+	</char>
+	<char hz="拽" py="yè" multi="zhuāi,zhuài">
+		<definition id="三">
+			<item text="同“曳”。" />
+		</definition>
+	</char>
 	<char hz="夜" py="yè" />
-	<char hz="掖" py="yè" multi="yē" main="1" />
+	<char hz="掖" py="yè" multi="yē" main="1">
+		<definition id="一">
+			<item id="1" text="用手扶着别人的胳膊。 [奖掖]奖励，提拔。" />
+			<item id="2" text="掖县，旧县名，今莱州，在山东省。" />
+		</definition>
+	</char>
 	<char hz="液" py="yè" />
 	<char hz="腋" py="yè" />
 	<char hz="咽" py="yè" multi="yān,yàn">
 		<phrase hz="呜咽" py="wū,yè" />
 		<phrase hz="哽咽" py="gěng,yè" />
+		<definition id="三">
+			<item text="呜咽，哽咽，悲哀得说不出话来。" />
+		</definition>
 	</char>
 	<char hz="晔" py="yè" />
 	<char hz="烨" py="yè" />
@@ -327,11 +544,19 @@
 	<char hz="咿" py="yī">
 		<phrase hz="咿呀" py="yī,yā" />
 		<phrase hz="咿唔" py="yī,wú" />
+		<definition>
+			<item text="[咿呀](-yā)拟声词，小孩子学话的声音，摇桨的声音。 [咿唔](-wú)拟声词，读书的声音。" />
+		</definition>
 	</char>
 	<char hz="洢" py="yī" />
 	<char hz="衣" py="yī" multi="yì" main="1">
 		<phrase hz="衣服" py="yī,fu" />
 		<phrase hz="衣裳" py="yī,shang" />
+		<definition id="一">
+			<item id="1" text="衣服(fu)，衣裳(shang)。" />
+			<item id="2" text="披在或包在物体外面的东西：炮~. 糖~炮弹." />
+			<item id="3" text="姓。" />
+		</definition>
 	</char>
 	<char hz="依" py="yī" />
 	<char hz="铱" py="yī" />
@@ -340,7 +565,11 @@
 	<char hz="繄" py="yī" />
 	<char hz="祎" py="yī" />
 	<char hz="猗" py="yī" />
-	<char hz="椅" py="yī" multi="yǐ" />
+	<char hz="椅" py="yī" multi="yǐ">
+		<definition id="二">
+			<item text="又叫“山桐子”。落叶乔木，夏天开花，黄色，结小红果，木材可以制器物。" />
+		</definition>
+	</char>
 	<char hz="漪" py="yī" />
 	<char hz="揖" py="yī" />
 	<char hz="壹" py="yī" />
@@ -352,7 +581,11 @@
 	<char hz="仪" py="yí" />
 	<char hz="圯" py="yí" />
 	<char hz="夷" py="yí" />
-	<char hz="荑" py="yí" multi="tí" main="1" />
+	<char hz="荑" py="yí" multi="tí" main="1">
+		<definition id="一">
+			<item text="割去田地里的野草。" />
+		</definition>
+	</char>
 	<char hz="咦" py="yí" />
 	<char hz="姨" py="yí" />
 	<char hz="胰" py="yí" />
@@ -365,6 +598,9 @@
 	<char hz="眙" py="yí" />
 	<char hz="迤" py="yí" multi="yǐ" info="Word主音">
 		<phrase hz="逶迤" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“逶”字条“逶迤”(wēi-)。" />
+		</definition>
 	</char>
 	<char hz="椸" py="yí" />
 	<char hz="宜" py="yí" />
@@ -375,8 +611,19 @@
 	<char hz="颐" py="yí" />
 	<char hz="蛇" py="yí" multi="shé">
 		<phrase hz="委蛇" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“委”字条“委蛇”(wēi-)。" />
+		</definition>
 	</char>
-	<char hz="遗" py="yí" multi="wèi" main="1" />
+	<char hz="遗" py="yí" multi="wèi" main="1">
+		<definition id="一">
+			<item id="1" text="丢失（(连)-失）：~失钢笔一枝." />
+			<item id="2" text="漏掉（(连)-漏）：~忘." />
+			<item id="3" text="丢失的东西，漏掉的部分：路不拾~. 补~." />
+			<item id="4" text="余，留：不~余力. ~憾. 特指死人留下的：~嘱. ~像. [遗传]生物体的构造和生理机能由上一代传给下一代。" />
+			<item id="5" text="不自觉地排泄粪便或精液：~尿. ~精." />
+		</definition>
+	</char>
 	<char hz="疑" py="yí" />
 	<char hz="嶷" py="yí" />
 	<char hz="彝" py="yí" />
@@ -388,17 +635,34 @@
 	<char hz="尾" py="yǐ" multi="wěi">
 		<phrase hz="马尾罗" py="mǎ,yǐ,luó" />
 		<phrase hz="三尾儿" py="sān,yǐ,er" />
+		<definition id="二">
+			<item id="1" text="马尾(wěi)上的长毛：马~罗." />
+			<item id="2" text="蟋蟀等尾部的针状物：三~儿（雌蟋蟀）." />
+		</definition>
 	</char>
 	<char hz="矣" py="yǐ" />
 	<char hz="苢" py="yǐ" />
 	<char hz="迤" py="yǐ" multi="yí" main="1">
 		<phrase hz="迤逦" py="yǐ,lǐ" />
+		<definition id="一">
+			<item id="1" text="地势斜着延长。" />
+			<item id="2" text="延伸，向（专指方向地位）：天安门~东（向东一带）." />
+			<item text="[迤逦](-lǐ)曲折连绵：沿着蜿蜒的山势~~而行." />
+		</definition>
 	</char>
 	<char hz="酏" py="yǐ" />
-	<char hz="蚁" py="yǐ" />
+	<char hz="蚁" py="yǐ">
+		<definition>
+			<item text="蚂蚁，昆虫名。多在地下做窝成群住着，种类很多。" />
+		</definition>
+	</char>
 	<char hz="舣" py="yǐ" />
 	<char hz="倚" py="yǐ" />
-	<char hz="椅" py="yǐ" multi="yī" main="1" />
+	<char hz="椅" py="yǐ" multi="yī" main="1">
+		<definition id="一">
+			<item text="（-子）有靠背的坐具。" />
+		</definition>
+	</char>
 	<char hz="旖" py="yǐ">
 		<phrase hz="旖旎" py="yǐ,nǐ" />
 	</char>
@@ -408,6 +672,9 @@
 	<char hz="刈" py="yì" />
 	<char hz="艾" py="yì" multi="ài">
 		<phrase hz="自怨自艾" py="zì,yuàn,zì,yì" />
+		<definition id="二">
+			<item text="治理。 [自怨自艾]本义是悔恨自己的错误，自己改正。现在只指悔恨。" />
+		</definition>
 	</char>
 	<char hz="弋" py="yì" />
 	<char hz="杙" py="yì" />
@@ -417,7 +684,12 @@
 	<char hz="议" py="yì" />
 	<char hz="艺" py="yì" />
 	<char hz="呓" py="yì" />
-	<char hz="仡" py="yì" multi="gē" main="1" />
+	<char hz="仡" py="yì" multi="gē" main="1">
+		<definition id="二" text="[仡仡]">
+			<item id="1" text="强壮勇敢。" />
+			<item id="2" text="高大。" />
+		</definition>
+	</char>
 	<char hz="屹" py="yì" />
 	<char hz="亦" py="yì" />
 	<char hz="弈" py="yì" />
@@ -425,6 +697,9 @@
 	<char hz="衣" py="yì" multi="yī">
 		<phrase hz="衣布衣" py="yì,bù,yī" />
 		<phrase hz="解衣衣我" py="jiě,yī,yì,wǒ" />
+		<definition id="二">
+			<item text="穿：~布衣. 解衣(yī)~我." />
+		</definition>
 	</char>
 	<char hz="裔" py="yì" />
 	<char hz="异" py="yì">
@@ -440,6 +715,9 @@
 	<char hz="轶" py="yì" />
 	<char hz="昳" py="yì" multi="dié">
 		<phrase hz="昳丽" py="yì,lì" />
+		<definition id="二">
+			<item text="[昳丽]美丽：形貌~~." />
+		</definition>
 	</char>
 	<char hz="役" py="yì" />
 	<char hz="疫" py="yì" />
@@ -461,7 +739,11 @@
 	<char hz="翳" py="yì" />
 	<char hz="翼" py="yì" />
 	<char hz="益" py="yì" />
-	<char hz="嗌" py="yì" multi="ài" main="1" />
+	<char hz="嗌" py="yì" multi="ài" main="1">
+		<definition id="二">
+			<item text="咽喉。" />
+		</definition>
+	</char>
 	<char hz="溢" py="yì" />
 	<char hz="缢" py="yì" />
 	<char hz="镒" py="yì" />
@@ -492,7 +774,11 @@
 	<!-- yin -->
 	<char hz="因" py="yīn" />
 	<char hz="茵" py="yīn" />
-	<char hz="洇" py="yīn" />
+	<char hz="洇" py="yīn">
+		<definition id="一">
+			<item text="液体接触纸张等向周围渗透散开：这种纸写起来有些~." />
+		</definition>
+	</char>
 	<char hz="姻" py="yīn" />
 	<char hz="骃" py="yīn" />
 	<char hz="氤" py="yīn">
@@ -504,19 +790,33 @@
 	<char hz="音" py="yīn" />
 	<char hz="喑" py="yīn" />
 	<char hz="愔" py="yīn" />
-	<char hz="殷" py="yīn" multi="yān" main="1" />
+	<char hz="殷" py="yīn" multi="yān" main="1">
+		<definition id="一">
+			<item id="1" text="深厚，丰盛：情意甚~. ~切的期望. [殷实]富足，富裕：家道~~." />
+			<item id="2" text="[殷勤]周到，尽心：做事很~~. ~~招待." />
+			<item id="3" text="殷朝，商朝的后期，由盘庚起称殷（公元前1300——公元前1046年）。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
 	<char hz="溵" py="yīn">
 		<phrase hz="溵溜" py="yīn,liù" />
 	</char>
 	<char hz="堙" py="yīn" />
 	<char hz="闉" py="yīn" trans="1" />
-	<char hz="湮" py="yīn" multi="yān" />
+	<char hz="湮" py="yīn" multi="yān">
+		<definition id="二">
+			<item text="同“洇”。" />
+		</definition>
+	</char>
 	<char hz="禋" py="yīn" />
 	<char hz="吟" py="yín" />
 	<char hz="垠" py="yín" />
 	<char hz="银" py="yín" />
 	<char hz="龈" py="yín" multi="kěn">
 		<phrase hz="牙龈" py="yá,yín" />
+		<definition id="一">
+			<item text="牙龈，牙床子，牙根上的肉。" />
+		</definition>
 	</char>
 	<char hz="狺" py="yín" />
 	<char hz="訚" py="yín" />
@@ -537,7 +837,13 @@
 		<phrase hz="吲哚" py="yǐn,duǒ" />
 	</char>
 	<char hz="蚓" py="yǐn" />
-	<char hz="饮" py="yǐn" multi="yìn" main="1" />
+	<char hz="饮" py="yǐn" multi="yìn" main="1">
+		<definition id="一">
+			<item id="1" text="喝：~水思源." />
+			<item id="2" text="可喝的东西：冷~." />
+			<item id="3" text="含忍：~恨." />
+		</definition>
+	</char>
 	<char hz="隐" py="yǐn" />
 	<char hz="瘾" py="yǐn" />
 	<char hz="䌥" py="yǐn" trans="1" />
@@ -549,10 +855,17 @@
 	<char hz="饮" py="yìn" multi="yǐn">
 		<phrase hz="饮马" py="yìn,mǎ" />
 		<phrase hz="饮牛" py="yìn,niú" />
+		<definition id="二">
+			<item text="给牲畜水喝：~马. ~牛." />
+		</definition>
 	</char>
 	<char hz="荫" py="yìn" />
 	<char hz="胤" py="yìn" />
-	<char hz="窨" py="yìn" multi="xūn" main="1" />
+	<char hz="窨" py="yìn" multi="xūn" main="1">
+		<definition id="一">
+			<item text="地窨子，地下室。" />
+		</definition>
+	</char>
 	<char hz="慭" py="yìn" />
 	<!-- ying -->
 	<char hz="应" py="yīng" multi="yìng">
@@ -561,6 +874,11 @@
 		<phrase hz="应有尽有" py="yīng,yǒu,jìn,yǒu" />
 		<phrase hz="应许" py="yīng,xǔ" />
 		<phrase hz="应允" py="yīng,yǔn" />
+		<definition id="一">
+			<item id="1" text="该，当（(连)-当、-该）：~有尽有." />
+			<item id="2" text="答应，应承（(连)-许、-允）：我喊他喊不~. ~他十天之内完工." />
+			<item id="3" text="姓。" />
+		</definition>
 	</char>
 	<char hz="英" py="yīng" />
 	<char hz="瑛" py="yīng" />
@@ -583,6 +901,9 @@
 	<char hz="茔" py="yíng" />
 	<char hz="荥" py="yíng" multi="xíng">
 		<phrase hz="荥经" py="yíng,jīng" />
+		<definition id="二">
+			<item text="[荥经]地名，在四川省。" />
+		</definition>
 	</char>
 	<char hz="荧" py="yíng" />
 	<char hz="莹" py="yíng" />
@@ -608,16 +929,40 @@
 	<char hz="颖" py="yǐng" />
 	<char hz="影" py="yǐng" />
 	<char hz="瘿" py="yǐng" />
-	<char hz="应" py="yìng" multi="yīng" main="1" />
+	<char hz="应" py="yìng" multi="yīng" main="1">
+		<definition id="二">
+			<item id="1" text="回答和随声相和：~声虫. 山鸣谷~. 呼~. [反应]1.化学上指物质发生化学变化，产生性质和成分与原来不同的新物质。也叫“化学反应”。 2.人及动植物有机体受到刺激而发生的活动和变化。 3.回响，反响。" />
+			<item id="2" text="应付，对待：~战. 随机~变. ~接不暇. [供应]供给。" />
+			<item id="3" text="适合，配合（(连)适~）：~时. 得心~手." />
+			<item id="4" text="接受，答应：~承. ~征. ~邀. 有求必~." />
+		</definition>
+	</char>
 	<char hz="映" py="yìng" />
 	<char hz="硬" py="yìng" />
 	<char hz="媵" py="yìng" />
 	<!-- yo -->
-	<char hz="哟" py="yō" multi="yo" main="1" />
-	<char hz="唷" py="yō" />
-	<char hz="哟" py="yo" multi="yō" />
+	<char hz="哟" py="yō" multi="yo" main="1">
+		<definition id="一">
+			<item text="同“唷”。" />
+		</definition>
+	</char>
+	<char hz="唷" py="yō">
+		<definition>
+			<item text="叹词，表示惊讶或疑问：~，这是怎么了？" />
+		</definition>
+	</char>
+	<char hz="哟" py="yo" multi="yō">
+		<definition id="二">
+			<item text="助词。1.用在句末或句中停顿处：大家齐用力~！ 话剧~，京剧~，他都很喜欢. 2.歌词中作衬字：呼儿嗨~！" />
+		</definition>
+	</char>
 	<!-- yong -->
-	<char hz="佣" py="yōng" multi="yòng" main="1" />
+	<char hz="佣" py="yōng" multi="yòng" main="1">
+		<definition id="一">
+			<item id="1" text="被人雇用：~工." />
+			<item id="2" text="受雇用的人：女~." />
+		</definition>
+	</char>
 	<char hz="拥" py="yōng" />
 	<char hz="痈" py="yōng" />
 	<char hz="邕" py="yōng" />
@@ -636,7 +981,11 @@
 		<phrase hz="臃肿" py="yōng,zhǒng" />
 	</char>
 	<char hz="饔" py="yōng" />
-	<char hz="喁" py="yōng" multi="yú" main="1" />
+	<char hz="喁" py="yōng" multi="yú" main="1">
+		<definition id="一">
+			<item text="鱼口向上，露出水面。 [喁喁](喻)众人景仰归向的样子。" />
+		</definition>
+	</char>
 	<char hz="颙" py="yóng" />
 	<char hz="永" py="yǒng" />
 	<char hz="咏" py="yǒng" />
@@ -653,6 +1002,9 @@
 	<char hz="佣" py="yòng" multi="yōng">
 		<phrase hz="佣金" py="yòng,jīn" />
 		<phrase hz="佣钱" py="yòng,qián" />
+		<definition id="二">
+			<item text="佣金，佣钱，买卖东西时给介绍人的钱。" />
+		</definition>
 	</char>
 	<!-- you -->
 	<char hz="优" py="yōu" />
@@ -672,11 +1024,21 @@
 	<char hz="疣" py="yóu" />
 	<char hz="莸" py="yóu" />
 	<char hz="鱿" py="yóu" />
-	<char hz="由" py="yóu" />
+	<char hz="由" py="yóu">
+		<definition>
+			<item id="1" text="经过：必~之路. 观其所~." />
+			<item id="2" text="原因（(连)原-）：情~. 理~." />
+			<item id="3" text="顺随，听从：~着性子. ~不得自己." />
+			<item id="4" text="介词。 1.自，从：~哪儿来？ ~上到下. 2.凭借：~此可知. 3.归（某人去做）：这事~你安排. [由于]1.介词，表示原因：这项任务~~大家的努力才圆满完成了. 2.连词，跟“所以”、“因而”等呼应，表示因果关系：~~天气炎热，因而用电量猛增." />
+		</definition>
+	</char>
 	<char hz="邮" py="yóu" />
 	<char hz="油" py="yóu" />
 	<char hz="柚" py="yóu" multi="yòu">
 		<phrase hz="柚木" py="yóu,mù" />
+		<definition id="一">
+			<item text="[柚木]落叶乔木，叶大，对生，花白色或蓝色。木材坚硬耐久，用来造船、车等。" />
+		</definition>
 	</char>
 	<char hz="铀" py="yóu" />
 	<char hz="蚰" py="yóu">
@@ -690,11 +1052,26 @@
 	<char hz="猷" py="yóu" />
 	<char hz="蝤" py="yóu" multi="qiú">
 		<phrase hz="蝤蛑" py="yóu,móu" />
+		<definition id="二">
+			<item text="[蝤蛑](-móu)又叫“梭子蟹”。生活在海里的一种螃蟹，甲壳略呈梭形，肉可以吃。" />
+		</definition>
 	</char>
-	<char hz="繇" py="yóu" multi="yáo,zhòu" />
+	<char hz="繇" py="yóu" multi="yáo,zhòu">
+		<definition id="一">
+			<item text="古书里同“由(4)1.2.”。" />
+		</definition>
+	</char>
 	<char hz="㘥" py="yóu" />
 	<char hz="友" py="yǒu" />
-	<char hz="有" py="yǒu" multi="yòu" main="1" />
+	<char hz="有" py="yǒu" multi="yòu" main="1">
+		<definition id="一">
+			<item id="1" text="跟“无”相对。1.表所属：他~一本书. 我没~时间. 2.表存在：那里~十来个人. ~困难. ~办法. ~意见. 3.表示发生或出现：~病了. 形势~了新的发展. 4.表示估量或比较：水~一丈多深. 他~他哥哥那么高了. 5.表示大，多：~学问. ~经验. [有的是]有很多，多得很。" />
+			<item id="2" text="用在某些动词前面表示客气：~劳. ~请." />
+			<item id="3" text="跟“某”相近：~一天晚上. ~人不赞成." />
+			<item id="4" text="用在“人、时候、地方”前面，表示一部分：~人性子急，~人性子慢." />
+			<item id="5" text="古汉语词头：~夏. ~周." />
+		</definition>
+	</char>
 	<char hz="铕" py="yǒu" />
 	<char hz="酉" py="yǒu" />
 	<char hz="卣" py="yǒu" />
@@ -702,43 +1079,86 @@
 	<char hz="莠" py="yǒu" />
 	<char hz="牖" py="yǒu" />
 	<char hz="黝" py="yǒu" />
-	<char hz="又" py="yòu" />
+	<char hz="又" py="yòu">
+		<definition text="副词。">
+			<item id="1" text="重复，连续，指相同的：他~立功了. 今天~下雨了." />
+			<item id="2" text="表示回复语气，更进一层：他~不傻. 你~不是不会." />
+			<item id="3" text="表示平列关系：~高~大. ~多~快. ~好~省. 我~高兴，~着急." />
+			<item id="4" text="再加上，还有：十~五年. 一~二分之一." />
+			<item id="5" text="表示某种范围之外另有补充：穿上了棉袄~加了一件皮背心." />
+			<item id="6" text="表示转折：刚还想说什么，可~把它忘了." />
+		</definition>
+	</char>
 	<char hz="右" py="yòu" />
 	<char hz="佑" py="yòu" />
 	<char hz="祐" py="yòu" />
 	<char hz="幼" py="yòu" />
 	<char hz="蚴" py="yòu" />
-	<char hz="有" py="yòu" multi="yǒu" />
+	<char hz="有" py="yòu" multi="yǒu">
+		<definition id="二">
+			<item text="古同“又(4)”。" />
+		</definition>
+	</char>
 	<char hz="侑" py="yòu" />
 	<char hz="囿" py="yòu" />
 	<char hz="宥" py="yòu" />
 	<char hz="狖" py="yòu" />
-	<char hz="柚" py="yòu" multi="yóu" main="1" />
+	<char hz="柚" py="yòu" multi="yóu" main="1">
+		<definition id="二">
+			<item text="常绿乔木，种类很多，果实叫柚子，也叫文旦，比橘子大，多汁，味酸甜。" />
+		</definition>
+	</char>
 	<char hz="釉" py="yòu" />
 	<char hz="鼬" py="yòu" />
 	<char hz="诱" py="yòu" />
 	<!-- yu -->
 	<char hz="迂" py="yū" />
 	<char hz="纡" py="yū" />
-	<char hz="於" py="yū" multi="wū,yú" info="Word主音" />
+	<char hz="於" py="yū" multi="wū,yú" info="Word主音">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="淤" py="yū" />
 	<char hz="瘀" py="yū" />
-	<char hz="于" py="yú" />
+	<char hz="于" py="yú">
+		<definition>
+			<item id="1" text="介词。 1.在：写~北京. 生~1949年. 2.对于，对：~人民有益. 忠~祖国. 勇~负责. 3.给：勿诿过~人. 光荣归~党. 取之于民，用之~民. 4.自，由：出~自愿. 取之~民，用之于民. 5.向：问道~盲. 6.在形容词后，表示比较，跟“过”的意思相同：霜叶红~二月花. 人民的利益高~一切. 7.在动词后，表示被动：见笑~大方. [于是]连词，表示两件事前后紧接：他听完报告，~~就回去了." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
 	<char hz="盂" py="yú" />
 	<char hz="竽" py="yú" />
-	<char hz="与" py="yú" multi="yǔ,yù" />
+	<char hz="与" py="yú" multi="yǔ,yù">
+		<definition id="三">
+			<item text="同“欤”。" />
+		</definition>
+	</char>
 	<char hz="玙" py="yú">
 		<phrase hz="玙璠" py="yú,fán" />
 	</char>
-	<char hz="欤" py="yú" />
-	<char hz="予" py="yú" multi="yǔ" main="1" />
+	<char hz="欤" py="yú">
+		<definition text="文言助词。">
+			<item id="1" text="表示疑问语气：在齐~？在鲁~？" />
+			<item id="2" text="表示感叹语气：论者之言，一倾管窥虎~！" />
+		</definition>
+	</char>
+	<char hz="予" py="yú" multi="yǔ" main="1">
+		<definition id="一">
+			<item text="文言代词，我。" />
+		</definition>
+	</char>
 	<char hz="妤" py="yú" />
 	<char hz="余" py="yú">
 		<phrase hz="余兴" py="yú,xìng" />
 	</char>
 	<char hz="馀" py="yú" />
 	<char hz="狳" py="yú" />
-	<char hz="畬" py="yú" multi="shē" />
+	<char hz="畬" py="yú" multi="shē">
+		<definition id="一">
+			<item text="开垦过两年的地。" />
+		</definition>
+	</char>
 	<char hz="艅" py="yú">
 		<phrase hz="艅艎" py="yú,huáng" />
 	</char>
@@ -748,17 +1168,29 @@
 	<char hz="腴" py="yú" />
 	<char hz="鱼" py="yú" />
 	<char hz="渔" py="yú" />
-	<char hz="於" py="yú" multi="wū,yū" main="1" />
+	<char hz="於" py="yú" multi="wū,yū" main="1">
+		<definition id="一">
+			<item text="同“于(1)”。" />
+		</definition>
+	</char>
 	<char hz="禺" py="yú" />
 	<char hz="隅" py="yú" />
 	<char hz="喁" py="yú" multi="yōng" info="Word主音">
 		<phrase hz="喁喁私语" py="yú,yú,sī,yǔ" />
+		<definition id="二">
+			<item text="[喁喁]形容低声细语：~~私语." />
+		</definition>
 	</char>
 	<char hz="嵎" py="yú" />
 	<char hz="愚" py="yú" />
 	<char hz="髃" py="yú" />
 	<char hz="舁" py="yú" />
-	<char hz="俞" py="yú" multi="shù" main="1" />
+	<char hz="俞" py="yú" multi="shù" main="1">
+		<definition id="一">
+			<item id="1" text="文言叹词，表示允许。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
 	<char hz="揄" py="yú" />
 	<char hz="嵛" py="yú" />
 	<char hz="逾" py="yú" />
@@ -776,22 +1208,45 @@
 	<char hz="雩" py="yú" />
 	<char hz="舆" py="yú" />
 	<char hz="" py="yú" />
-	<char hz="与" py="yǔ" multi="yú,yù" main="1" />
+	<char hz="与" py="yǔ" multi="yú,yù" main="1">
+		<definition id="一">
+			<item id="1" text="介词，跟：~疾病作斗争. ~虎谋皮." />
+			<item id="2" text="连词，和：批评~自我批评. 父亲~母亲都来." />
+			<item id="3" text="给：赠~. 交~本人. ~人方便." />
+			<item id="4" text="交往，交好：此人易~. 相~. ~国（相交好的国家）." />
+			<item id="5" text="赞助：~人为善（原指赞助人学好，后多指善意助人）." />
+			<item text="[与其]连词，常跟“宁”、“宁可”、“不如”、“不若”等连胜，表示比较：~~坐车，不如坐船." />
+		</definition>
+	</char>
 	<char hz="屿" py="yǔ" />
 	<char hz="予" py="yǔ" multi="yú">
 		<phrase hz="授予" py="shòu,yǔ" />
 		<phrase hz="予以" py="yǔ,yǐ" />
+		<definition id="二">
+			<item text="给予：授~奖状. ~以协助. ~以处分." />
+		</definition>
 	</char>
 	<char hz="伛" py="yǔ">
 		<phrase hz="伛偻" py="yǔ,lǚ" />
 	</char>
 	<char hz="宇" py="yǔ" />
 	<char hz="羽" py="yǔ" />
-	<char hz="雨" py="yǔ" multi="yù" main="1" />
+	<char hz="雨" py="yǔ" multi="yù" main="1">
+		<definition id="一">
+			<item text="空气中的水蒸气上升到天空中遇冷凝成云，再遇冷聚集成大水点落下来就是雨。" />
+		</definition>
+	</char>
 	<char hz="俣" py="yǔ" />
 	<char hz="禹" py="yǔ" />
 	<char hz="瑀" py="yǔ" />
-	<char hz="语" py="yǔ" multi="yù" main="1" />
+	<char hz="语" py="yǔ" multi="yù" main="1">
+		<definition id="一">
+			<item id="1" text="话（(连)-言）：成~. ~文. 外国~." />
+			<item id="2" text="谚语或古语：~云." />
+			<item id="3" text="代替语言的动作或方式：手~. 旗~." />
+			<item id="4" text="说：不言不~. 默默不~." />
+		</definition>
+	</char>
 	<char hz="圄" py="yǔ" />
 	<char hz="敔" py="yǔ" />
 	<char hz="龉" py="yǔ" />
@@ -803,6 +1258,9 @@
 	<char hz="与" py="yù" multi="yú,yǔ">
 		<phrase hz="与会" py="yù,huì" />
 		<phrase hz="与闻此事" py="yù,wén,cǐ,shì" />
+		<definition id="二">
+			<item text="参与，参加：~会. ~闻此事（参与并且得知此事的内情）." />
+		</definition>
 	</char>
 	<char hz="玉" py="yù" />
 	<char hz="钰" py="yù" />
@@ -811,10 +1269,16 @@
 	<char hz="吁" py="yù" multi="xū">
 		<phrase hz="吁请" py="yù,qǐng" />
 		<phrase hz="呼吁" py="hū,yù" />
+		<definition id="二">
+			<item text="为某种要求而呼喊：~请. 大声呼~." />
+		</definition>
 	</char>
 	<char hz="聿" py="yù" />
 	<char hz="谷" py="yù" multi="gǔ">
 		<phrase hz="吐谷浑" py="tǔ,yù,hún" />
+		<definition id="二">
+			<item text="[吐谷浑](tǔ-hún)我国古代西部民族名。" />
+		</definition>
 	</char>
 	<char hz="峪" py="yù" />
 	<char hz="浴" py="yù" />
@@ -823,7 +1287,11 @@
 	<char hz="裕" py="yù" />
 	<char hz="饫" py="yù" />
 	<char hz="妪" py="yù" />
-	<char hz="雨" py="yù" multi="yǔ" />
+	<char hz="雨" py="yù" multi="yǔ">
+		<definition id="二">
+			<item text="下（雨雪）：~雪." />
+		</definition>
+	</char>
 	<char hz="郁" py="yù">
 		<phrase hz="馥郁" py="fù,yù" />
 	</char>
@@ -835,6 +1303,9 @@
 	<char hz="狱" py="yù" />
 	<char hz="语" py="yù" multi="yǔ">
 		<phrase hz="不可语人" py="bù,kě,yù,rén" />
+		<definition id="二">
+			<item text="告诉：不以~人." />
+		</definition>
 	</char>
 	<char hz="彧" py="yù" />
 	<char hz="域" py="yù" />
@@ -851,13 +1322,23 @@
 	<char hz="尉" py="yù" multi="wèi">
 		<phrase hz="尉迟" py="yù,chí" />
 		<phrase hz="尉犁" py="yù,lí" />
+		<definition id="二">
+			<item text="[尉迟]复姓。 [尉犁]地名，在新疆维吾尔自治区。" />
+		</definition>
 	</char>
 	<char hz="蔚" py="yù" multi="wèi">
 		<phrase hz="蔚县" py="yù,xiàn" />
+		<definition id="二">
+			<item id="1" text="蔚县，在河北省。" />
+			<item id="2" text="姓。" />
+		</definition>
 	</char>
 	<char hz="熨" py="yù" multi="yùn">
 		<phrase hz="熨帖" py="yù,tiē" />
 		<phrase hz="熨贴" py="yù,tiē" />
+		<definition id="二">
+			<item text="[熨帖][熨贴](-tiē)1.妥帖舒服。 2.〈方〉（事情）完全办妥。" />
+		</definition>
 	</char>
 	<char hz="遇" py="yù" />
 	<char hz="寓" py="yù" />
@@ -883,18 +1364,39 @@
 	<char hz="渊" py="yuān" />
 	<char hz="蜎" py="yuān" />
 	<char hz="元" py="yuán" />
-	<char hz="芫" py="yuán" multi="yán" main="1" />
+	<char hz="芫" py="yuán" multi="yán" main="1">
+		<definition id="一">
+			<item text="芫花，落叶灌木，开紫色小花，有毒，花蕾可入药。" />
+		</definition>
+	</char>
 	<char hz="园" py="yuán" />
 	<char hz="沅" py="yuán" />
 	<char hz="鼋" py="yuán" />
-	<char hz="员" py="yuán" multi="yún,yùn" main="1" />
-	<char hz="圆" py="yuán" />
+	<char hz="员" py="yuán" multi="yún,yùn" main="1">
+		<definition id="一">
+			<item id="1" text="指工作或学习的人：学~. 演~." />
+			<item id="2" text="指团体组织中的成员：党~. 团~. 会~." />
+			<item id="3" text="量词，用于武将等：一~大将." />
+			<item id="4" text="周围：幅~（指疆域）." />
+		</definition>
+	</char>
+	<char hz="圆" py="yuán">
+		<definition>
+			<item id="1" text="圆形，从它的中心点到周边任何一点距离都相等。" />
+			<item id="2" text="像球的形状：滚~. 滴溜儿~." />
+			<item id="3" text="完备，周全：结果很~满. (引)使之周全（多指掩饰矛盾）：自~其说. ~谎." />
+			<item id="4" text="我国的本位货币单位。也作“元”。" />
+		</definition>
+	</char>
 	<char hz="垣" py="yuán" />
 	<char hz="爰" py="yuán" />
 	<char hz="援" py="yuán" />
 	<char hz="湲" py="yuán" />
 	<char hz="媛" py="yuán" multi="yuàn" info="Word主音">
 		<phrase hz="婵媛" py="chán,yuán" />
+		<definition id="二">
+			<item text="[婵媛]1.（姿态）美好。 2.牵连，相连。" />
+		</definition>
 	</char>
 	<char hz="袁" py="yuán" />
 	<char hz="猿" py="yuán" />
@@ -907,19 +1409,38 @@
 	<char hz="羱" py="yuán" />
 	<char hz="缘" py="yuán" />
 	<char hz="橼" py="yuán" />
-	<char hz="圜" py="yuán" multi="huán" />
+	<char hz="圜" py="yuán" multi="huán">
+		<definition id="二">
+			<item text="同“圆”。" />
+		</definition>
+	</char>
 	<char hz="远" py="yuǎn" />
 	<char hz="苑" py="yuàn" />
 	<char hz="怨" py="yuàn" />
 	<char hz="院" py="yuàn" />
 	<char hz="垸" py="yuàn" />
 	<char hz="掾" py="yuàn" />
-	<char hz="媛" py="yuàn" multi="yuán" main="1" />
+	<char hz="媛" py="yuàn" multi="yuán" main="1">
+		<definition id="一">
+			<item text="美女。" />
+		</definition>
+	</char>
 	<char hz="瑗" py="yuàn" />
 	<char hz="愿" py="yuàn" />
 	<!-- yue -->
 	<char hz="曰" py="yuē" />
-	<char hz="约" py="yuē" multi="yāo" main="1" />
+	<char hz="约" py="yuē" multi="yāo" main="1">
+		<definition id="一">
+			<item id="1" text="拘束，限制（(连)-束）。" />
+			<item id="2" text="共同议定的要遵守的条款：条~. 立~. 爱国公~." />
+			<item id="3" text="预先说定：预~. 和他~好了." />
+			<item id="4" text="请：~他来. 特~记者." />
+			<item id="5" text="算术上指用公因数去除分子和分母使分数重简化：5/10可以~成1/2." />
+			<item id="6" text="俭省：节~." />
+			<item id="7" text="简单，简要：简~. 由博返~." />
+			<item id="8" text="大约，大概，不十分确定的：~计. ~数. 大~有五十人." />
+		</definition>
+	</char>
 	<char hz="矱" py="yuē" />
 	<char hz="彟" py="yuē" />
 	<char hz="哕" py="yuě">
@@ -933,19 +1454,38 @@
 	<char hz="玥" py="yuè" />
 	<char hz="钥" py="yuè" multi="yào" main="1">
 		<phrase hz="锁钥" py="suǒ,yuè" />
+		<definition id="一">
+			<item text="锁。 [锁钥](喻) 1.重要关键。 2.边防要地：北门~~." />
+		</definition>
 	</char>
 	<char hz="乐" py="yuè" multi="lè">
 		<phrase hz="音乐" py="yīn,yuè" />
 		<phrase hz="奏乐" py="zòu,yuè" />
 		<phrase hz="乐清" py="yuè,qīng" />
+		<definition id="二">
+			<item id="1" text="音乐：奏~. [乐清]地名，在浙江省。" />
+			<item id="2" text="姓。" />
+		</definition>
 	</char>
 	<char hz="栎" py="yuè" multi="lì">
 		<phrase hz="栎阳" py="yuè,yáng" />
+		<definition id="二">
+			<item text="[栎阳]古地名，在今陕西省临潼。" />
+		</definition>
 	</char>
 	<char hz="岳" py="yuè" />
-	<char hz="说" py="yuè" multi="shuì,shuō" />
+	<char hz="说" py="yuè" multi="shuì,shuō">
+		<definition id="三">
+			<item text="古同“悦”。" />
+		</definition>
+	</char>
 	<char hz="阅" py="yuè" />
-	<char hz="悦" py="yuè" />
+	<char hz="悦" py="yuè">
+		<definition>
+			<item id="1" text="高兴，愉快（(连)喜-）：和颜~色. 心~诚服." />
+			<item id="2" text="使愉快：~耳. 赏心~目." />
+		</definition>
+	</char>
 	<char hz="钺" py="yuè" />
 	<char hz="越" py="yuè">
 		<phrase hz="越俎代庖" py="yuè,zǔ,dài,páo" />
@@ -964,6 +1504,9 @@
 		<phrase hz="晕过去了" py="yūn,guò,qù,le" />
 		<phrase hz="头晕" py="tóu,yūn" />
 		<phrase hz="晕头转向" py="yūn,tóu,zhuàn,xiàng" />
+		<definition id="二">
+			<item text="昏迷：~倒. ~过去了. (引)头脑不清：头~. ~头转向." />
+		</definition>
 	</char>
 	<char hz="氲" py="yūn" />
 	<char hz="赟" py="yūn" />
@@ -979,10 +1522,18 @@
 	<char hz="匀" py="yún" />
 	<char hz="昀" py="yún" />
 	<char hz="畇" py="yún" />
-	<char hz="筠" py="yún" multi="jūn" main="1" />
+	<char hz="筠" py="yún" multi="jūn" main="1">
+		<definition id="一">
+			<item id="1" text="竹皮。" />
+			<item id="2" text="竹子。" />
+		</definition>
+	</char>
 	<char hz="鋆" py="yún" />
 	<char hz="员" py="yún" multi="yuán,yùn">
 		<phrase hz="伍员" py="wǔ,yún" />
+		<definition id="二">
+			<item text="用于人名。伍员（即伍子胥），春秋时人。" />
+		</definition>
 	</char>
 	<char hz="郧" py="yún" />
 	<char hz="涢" py="yún" />
@@ -998,10 +1549,19 @@
 	<char hz="酝" py="yùn">
 		<phrase hz="酝酿" py="yùn,niàng" />
 	</char>
-	<char hz="员" py="yùn" multi="yuán,yún" />
+	<char hz="员" py="yùn" multi="yuán,yún">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
 	<char hz="郓" py="yùn" />
 	<char hz="恽" py="yùn" />
-	<char hz="晕" py="yùn" multi="yūn" main="1" />
+	<char hz="晕" py="yùn" multi="yūn" main="1">
+		<definition id="一">
+			<item id="1" text="日光或月光通过云层时因折射作用而在太阳或月亮周围形成的光圈：日~. 月~而风." />
+			<item id="2" text="头发昏：一坐船就~." />
+		</definition>
+	</char>
 	<char hz="愠" py="yùn" />
 	<char hz="缊" py="yùn" />
 	<char hz="韫" py="yùn" />
@@ -1009,5 +1569,8 @@
 	<char hz="韵" py="yùn" />
 	<char hz="熨" py="yùn" multi="yù" main="1">
 		<phrase hz="熨斗" py="yùn,dǒu" />
+		<definition id="一">
+			<item text="用烙铁、熨斗把衣布等烫平。 [熨斗](-dǒu)加热后用来烫平衣服的金属器具。" />
+		</definition>
 	</char>
 </pinyin>
