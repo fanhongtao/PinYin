@@ -71,17 +71,18 @@ namespace PinYin
 		// 添加一个汉字
 		private void addCharacter(XmlNode node)
 		{
-			string hz = ((XmlElement)node).GetAttribute(HZ);   //获取hz属性值
-			string py = ((XmlElement)node).GetAttribute(PY);   //获取py属性值
+			XmlElement element = (XmlElement)node;
+			string hz = element.GetAttribute(HZ);   //获取hz属性值
+			string py = element.GetAttribute(PY);   //获取py属性值
 			CharInfo charInfo;
 			
 			// 不是多音字，直接构造一个CharInfo添加到 hashTable
-			if (!((XmlElement)node).HasAttribute(MULTI)) {
+			if (!element.HasAttribute(MULTI)) {
 				charInfo = new CharInfo();
 				charInfo.hanzi = hz;
 				charInfo.multi = false;
-				if (((XmlElement)node).HasAttribute(TRANS)) {
-					charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
+				if (element.HasAttribute(TRANS)) {
+					charInfo.trans = StringTools.ToBoolean(element.GetAttribute(TRANS));
 				}
 				charInfo.pinyins.Add(py);
 				hashTable.Add(hz, charInfo);
@@ -93,8 +94,8 @@ namespace PinYin
 				charInfo = new CharInfo();
 				charInfo.hanzi = hz;
 				charInfo.multi = true;
-				if (((XmlElement)node).HasAttribute(TRANS)) {
-					charInfo.trans = StringTools.ToBoolean(((XmlElement)node).GetAttribute(TRANS));
+				if (element.HasAttribute(TRANS)) {
+					charInfo.trans = StringTools.ToBoolean(element.GetAttribute(TRANS));
 				}
 				hashTable.Add(hz, charInfo);
 			} else {
@@ -102,8 +103,8 @@ namespace PinYin
 			}
 			
 			// 添加多音字的拼音
-			if (((XmlElement)node).HasAttribute(MAIN)
-			    && StringTools.ToBoolean(((XmlElement)node).GetAttribute(MAIN))) {
+			if (element.HasAttribute(MAIN)
+			    && StringTools.ToBoolean(element.GetAttribute(MAIN))) {
 				if (charInfo.main != null) {
 					throw new InvalidDataException("More than one [" + hz + "] is set to main.");
 				}
@@ -114,7 +115,7 @@ namespace PinYin
 			}
 			
 			// 添加多音字可能的词组
-			XmlNodeList phraseNodes = ((XmlElement)node).GetElementsByTagName(PHRASE); //获取phrase子节点集合
+			XmlNodeList phraseNodes = element.GetElementsByTagName(PHRASE); //获取phrase子节点集合
 			if (phraseNodes != null) {
 				addPhrase(charInfo, phraseNodes);
 			}
