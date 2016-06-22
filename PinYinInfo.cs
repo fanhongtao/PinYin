@@ -74,6 +74,7 @@ namespace PinYin
 			XmlElement element = (XmlElement)node;
 			string hz = element.GetAttribute(HZ);   //获取hz属性值
 			string py = element.GetAttribute(PY);   //获取py属性值
+			XmlNodeList phraseNodes = element.GetElementsByTagName(PHRASE); //获取可能的 phrase子节点集合
 			CharInfo charInfo;
 			
 			// 不是多音字，直接构造一个CharInfo添加到 hashTable
@@ -85,6 +86,7 @@ namespace PinYin
 					charInfo.trans = StringTools.ToBoolean(element.GetAttribute(TRANS));
 				}
 				charInfo.pinyins.Add(py);
+				addPhrase(charInfo, phraseNodes);
 				hashTable.Add(hz, charInfo);
 				return;
 			}
@@ -100,6 +102,9 @@ namespace PinYin
 				hashTable.Add(hz, charInfo);
 			} else {
 				charInfo = (CharInfo)hashTable[hz];
+				if (charInfo.multi == false) {
+					throw new InvalidDataException("Character [" + hz + "] is not polyphone.");
+				}
 			}
 			
 			// 添加多音字的拼音
@@ -114,16 +119,17 @@ namespace PinYin
 				charInfo.pinyins.Add(py);
 			}
 			
-			// 添加多音字可能的词组
-			XmlNodeList phraseNodes = element.GetElementsByTagName(PHRASE); //获取phrase子节点集合
-			if (phraseNodes != null) {
-				addPhrase(charInfo, phraseNodes);
-			}
+			// 添加可能的词组
+			addPhrase(charInfo, phraseNodes);
 		}
 		
 		// 添加汉字对应的词组
 		private void addPhrase(CharInfo charInfo, XmlNodeList phraseNodes)
 		{
+			if (phraseNodes == null) {
+				return;
+			}
+			
 			char[] separator = new char[] { ',' };
 			foreach (XmlNode node in phraseNodes) {
 				string hz = ((XmlElement)node).GetAttribute(HZ);   //获取hz属性值
