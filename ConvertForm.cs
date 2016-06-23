@@ -52,6 +52,8 @@ namespace PinYin
 						}
 						string temp = line.Substring(i, len);
 						if (temp.Equals(phrase.hanzi)) {
+							string pinyin = string.Join(",", phrase.pinyin);
+							Logger.debug("Match [" + phrase.hanzi + "] - (" + pinyin + ")");
 							for (int idx = 0; idx < len; idx++) {
 								outputText.AppendText(phrase.hanzi.Substring(idx, 1));
 								outputText.AppendText("(" + phrase.pinyin[idx] + ")");

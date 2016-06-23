@@ -38,6 +38,13 @@ namespace PinYin
             logBox.AppendText(logInfo + "\n");
         }
         
+        public static void debug(string text)
+        {
+            string logInfo = getDateStr() + " " + text;
+            Trace.TraceError(logInfo);
+            logBox.AppendText(logInfo + "\n");
+        }
+        
         static string getDateStr() {
             return String.Format("{0} {1}", DateTime.Now.ToLongDateString(),
                         DateTime.Now.ToLongTimeString());
