@@ -22,10 +22,12 @@ namespace PinYin
 		public string info { get; set; }   // 注释信息
 		public string main { get; set; }   // 多单字对应的主音（其值与 pinyins 中的第一个值相同）
 		public List<String> pinyins;       // 汉字的发音
+		public List<DefinitionInfo> definitions; // 汉字的解释（多单字时，和 pinyins 一一对应; 单音字时，数组中元素可能为 null）
 		public List<PhraseInfo> phrases;   // 汉字对应的词组
 		public CharInfo()
 		{
 			pinyins = new List<string>();
+			definitions = new List<DefinitionInfo>();
 			phrases = new List<PhraseInfo>();
 			multi = false;
 			trans = false;

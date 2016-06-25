@@ -26,6 +26,10 @@ namespace PinYin
 		string MULTI = "multi";
 		string MAIN = "main";
 		string TRANS = "trans";
+		string DEFINITION = "definition";
+		string ID = "id";
+		string ITEM = "item";
+		string TEXT = "text";
 		
 		private static PinYinInfo instance = new PinYinInfo();
 		private Hashtable hashTable = new Hashtable();
@@ -75,6 +79,8 @@ namespace PinYin
 			string hz = element.GetAttribute(HZ);   //获取hz属性值
 			string py = element.GetAttribute(PY);   //获取py属性值
 			XmlNodeList phraseNodes = element.GetElementsByTagName(PHRASE); //获取可能的 phrase子节点集合
+			XmlNodeList defineNodes = element.GetElementsByTagName(DEFINITION); // 获取可能的 definition 子节点（最多一个）
+			DefinitionInfo definition = readDefinition(hz, defineNodes);
 			CharInfo charInfo;
 			
 			// 不是多音字，直接构造一个CharInfo添加到 hashTable
@@ -86,6 +92,7 @@ namespace PinYin
 					charInfo.trans = StringTools.ToBoolean(element.GetAttribute(TRANS));
 				}
 				charInfo.pinyins.Add(py);
+				charInfo.definitions.Add(definition);
 				addPhrase(charInfo, phraseNodes);
 				hashTable.Add(hz, charInfo);
 				return;
@@ -115,8 +122,10 @@ namespace PinYin
 				}
 				charInfo.main = py;
 				charInfo.pinyins.Insert(0, py);
+				charInfo.definitions.Insert(0, definition);
 			} else {
 				charInfo.pinyins.Add(py);
+				charInfo.definitions.Add(definition);
 			}
 			
 			// 添加可能的词组
@@ -146,6 +155,35 @@ namespace PinYin
 				phraseInfo.pinyin = pinyin;
 				tmpPhrases.Add(phraseInfo);
 			}
+		}
+		
+		// 从XML中读取汉字对应的定义
+		private DefinitionInfo readDefinition(String hanzi, XmlNodeList defineNodes)
+		{
+			if ((defineNodes == null) || (defineNodes.Count == 0)) {
+				return null;
+			}
+			
+			if (defineNodes.Count != 1) {
+				throw new InvalidDataException("Multi definition for character [" + hanzi + "]");
+			}
+			
+			XmlElement element =  (XmlElement)defineNodes[0];
+			XmlNodeList itemList = element.GetElementsByTagName(ITEM);
+			
+			DefinitionInfo definition = new DefinitionInfo();
+			definition.id = element.GetAttribute(ID);
+			definition.text = element.GetAttribute(TEXT);
+			definition.items = new ItemInfo[itemList.Count];
+			for (int i = 0; i < itemList.Count; i++) {
+				XmlNode node = itemList[i];
+				ItemInfo itemInfo = new ItemInfo();
+				itemInfo.id = ((XmlElement)node).GetAttribute(ID);
+				itemInfo.text = ((XmlElement)node).GetAttribute(TEXT);
+				definition.items[i] = itemInfo;
+			}
+			
+			return definition;
 		}
 		
 		// 在base目录都读取完毕后，调整词组的位置，将所有词组都存放在该词组首个汉字的名下
