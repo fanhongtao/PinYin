@@ -92,6 +92,9 @@ namespace PinYin
 					charInfo.trans = StringTools.ToBoolean(element.GetAttribute(TRANS));
 				}
 				charInfo.pinyins.Add(py);
+				if ((definition != null) && (!definition.id.Equals(""))) {
+					throw new InvalidDataException("Definition ID for character [" + hz + "] is useless.");
+				}
 				charInfo.definitions.Add(definition);
 				addPhrase(charInfo, phraseNodes);
 				hashTable.Add(hz, charInfo);
