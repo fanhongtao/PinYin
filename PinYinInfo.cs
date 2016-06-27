@@ -31,6 +31,24 @@ namespace PinYin
 		string ITEM = "item";
 		string TEXT = "text";
 		
+		static string[] TARGET_ID =  {"一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十"};
+		static Dictionary<string, int> ID_MAP = new Dictionary<string, int>();
+		static PinYinInfo () {
+			for (int i = 0; i < TARGET_ID.Length; i++) {
+				ID_MAP.Add(TARGET_ID[i], i + 1);
+			}
+		}
+		
+		private class ID_Comparer : IComparer<string>
+		{
+			public int Compare(string idX, string idY)
+			{
+				int x = ID_MAP[idX];
+				int y = ID_MAP[idY];
+				return x - y;
+			}
+		}
+		
 		private static PinYinInfo instance = new PinYinInfo();
 		private Hashtable hashTable = new Hashtable();
 		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
@@ -117,7 +135,10 @@ namespace PinYin
 				}
 			}
 			
-			// 添加多音字的拼音
+			// 添加多音字的拼音和定义
+			if (definition == null) {
+				throw new InvalidDataException("No definition for character [" + hz + "] (" + py +").");
+			}
 			if (element.HasAttribute(MAIN)
 			    && StringTools.ToBoolean(element.GetAttribute(MAIN))) {
 				if (charInfo.main != null) {
@@ -212,13 +233,35 @@ namespace PinYin
 			tmpPhrases = null; // 清除临时数据
 		}
 		
-		// 检查多音字是否明确指定主音（有一个字 main 属性为 true）
+		// 检查多音字
 		private void checkPolyphone()
 		{
 			foreach (DictionaryEntry de in hashTable) {
 				CharInfo charInfo = (CharInfo) de.Value;
-				if (charInfo.multi && (charInfo.main == null)) {
+				
+				// 不是多音字，则不需要执行后继的判断
+				if (!charInfo.multi) {
+					continue;
+				}
+				
+				// 是否明确指定主音（有一个字 main 属性为 true）
+				if (charInfo.main == null) {
 					throw new InvalidDataException("None of [" + charInfo.hanzi + "] is set to main.");
+				}
+				
+				// 多音字的每个音是否都有定义，以及定义的ID是否正确：ID应从一开始连续编号
+				if (charInfo.pinyins.Count != charInfo.definitions.Count) {
+					throw new InvalidDataException("Count of pinyin and definition not match for [" + charInfo.hanzi + "].");
+				}
+				string [] ids = new string[charInfo.definitions.Count];
+				for (int i = 0; i < charInfo.definitions.Count; i++) {
+					ids[i] = charInfo.definitions[i].id;
+				}
+				Array.Sort(ids, new ID_Comparer());
+				for (int i = 0; i < ids.Length; i++) {
+					if (!ids[i].Equals(TARGET_ID[i])) {
+						throw new InvalidDataException("Bad definition ID for [" + charInfo.hanzi + "]， expect [" + TARGET_ID[i] + "], actual [" + ids[i] + "].");
+					}
 				}
 			}
 		}
