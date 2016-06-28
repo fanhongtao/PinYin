@@ -207,6 +207,27 @@ namespace PinYin
 				definition.items[i] = itemInfo;
 			}
 			
+			// 检查 Item ID 的是否合法
+			//   1) 如果有ID，从1开始顺序编号。 
+			int pos = 0;
+			for (; pos < itemList.Count; pos++) {
+				string itemId = definition.items[pos].id;
+				if (itemId.Equals("")) {
+					break;
+				}
+				if (!itemId.Equals((pos+1).ToString())) {
+					throw new InvalidDataException("Bad item ID for [" + hanzi + "]， expect [" + (pos+1) + "], actual [" + itemId + "].");
+				}
+			}
+			
+			//   2) 如果没有ID，则其后不能再出现有ID的情况。
+			for (; pos < itemList.Count; pos++) {
+				string itemId = definition.items[pos].id;
+				if (!itemId.Equals("")) {
+					throw new InvalidDataException("Bad item ID for [" + hanzi + "]， ID is not expected at item [" + (pos+1) + "].");
+				}
+			}
+			
 			return definition;
 		}
 		
