@@ -123,7 +123,7 @@
 	</char>
 	<char hz="埋" py="mán" multi="mái">
 		<phrase hz="埋怨" py="mán,yuan" />
-		<definition id="一">
+		<definition id="二">
 			<item text="[埋怨](-yuan)因为事情不如意而对人或事物表示不满，责怪：他自己不小心，还~~别人." />
 		</definition>
 	</char>
@@ -364,6 +364,11 @@
 			<item id="5" text="眼睛失明。 [蒙眬]目不明：睡眼~~." />
 			<item id="6" text="朴实敦厚。" />
 			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="濛" py="méng" info="词组中使用到，所以补充">
+		<definition>
+			<item text="“蒙(一)(4)”的繁体字。"/>
 		</definition>
 	</char>
 	<char hz="幪" py="méng" />
@@ -736,6 +741,12 @@
 	</char>
 	<char hz="莫" py="mò">
 		<phrase hz="莫邪" py="mò,yé" />
+		<definition>
+			<item id="1" text="不要，闲人~入."/>
+			<item id="2" text="没有，无：~不欣喜. ~大的光荣. [莫非]副词，难道：~~是他回来了吗？ [莫逆]朋友之间感情非常好：~~之交. [莫须有]也许有吧。后用来表示凭空捏造。"/>
+			<item id="3" text="不：变化~测."/>
+			<item text="[莫邪](-yé)古宝剑名。"/>
+		</definition>
 	</char>
 	<char hz="蓦" py="mò" />
 	<char hz="漠" py="mò" />

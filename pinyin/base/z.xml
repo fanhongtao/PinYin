@@ -10,7 +10,7 @@
 	<char hz="匝" py="zā" />
 	<char hz="咂" py="zā" />
 	<char hz="拶" py="zā" multi="zǎn" main="1">
-		<definition id="二">
+		<definition id="一">
 			<item text="逼迫。" />
 		</definition>
 	</char>
@@ -975,7 +975,7 @@
 		</definition>
 	</char>
 	<char hz="枳" py="zhǐ">
-		<definition id="一">
+		<definition>
 			<item text="落叶灌木或小乔木，通称“枸橘”。小枝多硬刺，叶为三小叶的复叶，果实球形，果实及叶可入药。 [枳壳]中药上指枳、香橼等成熟的果实。 [枳实]中药上指枳、香橼等幼小的果实。" />
 		</definition>
 	</char>
@@ -1506,7 +1506,7 @@
 	</char>
 	<char hz="孜" py="zī" />
 	<char hz="吱" py="zī" multi="zhī">
-		<definition id="一">
+		<definition id="二">
 			<item text="同“嗞”。" />
 		</definition>
 	</char>

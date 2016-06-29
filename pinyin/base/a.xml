@@ -42,7 +42,7 @@
 		</definition>
 	</char>
 	<char hz="嗄" py="á" multi="shà">
-		<definition id="二">
+		<definition id="一">
 			<item text="同“啊(二)”" />
 		</definition>
 	</char>
@@ -163,6 +163,9 @@
 	<char hz="嫒" py="ài" />
 	<char hz="瑷" py="ài">
 		<phrase hz="瑷珲" py="ài,huī" />
+		<definition>
+			<item text="[瑷珲](-huī)地名，在黑龙江省。今作“爱辉”。"/>
+		</definition>
 	</char>
 	<char hz="叆" py="ài">
 		<phrase hz="叆叇" py="ài,dài" />

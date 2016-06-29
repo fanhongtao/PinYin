@@ -553,7 +553,7 @@
 	</char>
 	<char hz="漂" py="piào" multi="piāo,piǎo">
 		<phrase hz="漂亮" py="piào,liang" />
-		<definition id="一">
+		<definition id="三">
 			<item text="[漂亮](-liang)1.美，好看。 2.出色：活儿干得很~~." />
 		</definition>
 	</char>
@@ -815,7 +815,7 @@
 		</definition>
 	</char>
 	<char hz="暴" py="pù" multi="bào">
-		<definition id="三">
+		<definition id="二">
 			<item text="晒，晒干。后作“曝”(pù)。" />
 		</definition>
 	</char>

@@ -117,7 +117,7 @@
 	<char hz="汉" py="hàn" />
 	<char hz="闬" py="hàn" />
 	<char hz="汗" py="hàn" multi="hán" main="1">
-		<definition id="二">
+		<definition id="一">
 			<item text="由身体的毛孔里排泄出来的液体。" />
 		</definition>
 	</char>
@@ -178,7 +178,7 @@
 		<phrase hz="号叫" py="háo,jiào" />
 		<phrase hz="号啕" py="háo,táo" />
 		<phrase hz="号咷" py="háo,táo" />
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="大声呼喊（(连)呼-）。 [号叫]大声叫。" />
 			<item id="2" text="大声哭：悲~. [号啕][号咷](-táo)大声哭喊。" />
 		</definition>
@@ -303,7 +303,11 @@
 			<item id="7" text="姓。" />
 		</definition>
 	</char>
-	<char hz="閤" py="hé" multi="gé" trans="1" main="1" info="“合(3)”的繁体字。" />
+	<char hz="閤" py="hé" multi="gé" trans="1">
+		<definition id="二">
+			<item text="“合(3)”的繁体字。"/>
+		</definition>
+	</char>
 	<char hz="郃" py="hé" />
 	<char hz="饸" py="hé">
 		<phrase hz="饸饹" py="hé,le" />
@@ -518,7 +522,7 @@
 	</char>
 	<char hz="黉" py="hóng" />
 	<char hz="哄" py="hǒng" multi="hōng,hòng" main="1">
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="说假话骗人（(连)-骗）：你不要~我." />
 			<item id="2" text="用语言或行动使人欢喜：他很会~小孩儿." />
 		</definition>
@@ -714,7 +718,7 @@
 		<phrase hz="花哨" py="huā,shao" />
 		<phrase hz="花消" py="huā,xiao" />
 		<phrase hz="花销" py="huā,xiao" />
-		<definition id="一">
+		<definition>
 			<item id="1" text="（-儿）种子植物的有性生殖器官，有各种形状和颜色，一般花谢后结成果实。(引)供观赏的植物。" />
 			<item id="2" text="（-儿）样子或形状像花的：雪~儿. 浪~. 火~儿. 葱~儿. 印~. [天花]一种急性传染病，病原体是病毒，又叫“痘”或“痘疮”，也省称“花”。结痂后留下的疤痕就是麻子。 [挂花]战士在战斗中受了伤。" />
 			<item id="3" text="错杂的颜色或花样：~布. 头发~白. ~边. 那只猫是~的. [花哨](-shao)颜色鲜艳，花样多，变化多：这块布真~~." />
@@ -731,7 +735,7 @@
 	</char>
 	<char hz="划" py="huá" multi="huà,huai" main="1">
 		<phrase hz="划子" py="huá,zi" />
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="用刀或其他东西把别的东西分开或从上面擦过：把这个瓜用刀~开. ~了一道口子. ~火柴." />
 			<item id="2" text="用桨拨水使船行动：~船. [划子](-zi)用桨拨水行驶的小船。" />
 			<item id="3" text="合算，按利益情况来计较相宜不相宜：~不来." />
@@ -773,7 +777,7 @@
 	</char>
 	<char hz="华" py="huà" multi="huā,huá">
 		<phrase hz="华山" py="huà,shān" />
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="华山，五岳中的西岳，在陕西省华阴。" />
 			<item id="2" text="姓。" />
 		</definition>
@@ -893,7 +897,11 @@
 	<char hz="惶" py="huáng" />
 	<char hz="煌" py="huáng" />
 	<char hz="锽" py="huáng" />
-	<char hz="蝗" py="huáng" />
+	<char hz="蝗" py="huáng">
+		<definition>
+			<item text="蝗虫，一种吃庄稼的害虫，常常成群飞翔。也叫“蚂蚱”(mǎzha)。"/>
+		</definition>
+	</char>
 	<char hz="篁" py="huáng" />
 	<char hz="艎" py="huáng" />
 	<char hz="鳇" py="huáng" />

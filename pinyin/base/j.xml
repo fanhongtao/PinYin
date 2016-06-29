@@ -6,7 +6,7 @@
 		<phrase hz="条几" py="tiáo,jī" />
 		<phrase hz="几乎" py="jī,hū" />
 		<phrase hz="几为所害" py="jī,wéi,suǒ,hài" />
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="（-儿）小或矮的桌子：茶~儿. 条~." />
 			<item id="2" text="差一点，近乎：~乎. ~为所害. 迄今~四十年." />
 			<item id="3" text="苗头：知~其神乎." />
@@ -254,7 +254,11 @@
 	<char hz="徛" py="jì" />
 	<char hz="寄" py="jì" />
 	<char hz="祭" py="jì" />
-	<char hz="穄" py="jì" />
+	<char hz="穄" py="jì">
+		<definition>
+			<item text="（-子）又叫“糜(méi)子”。一种谷物，跟黍子相似，但不黏。"/>
+		</definition>
+	</char>
 	<char hz="寂" py="jì">
 		<phrase hz="寂寞" py="jì,mò" />
 	</char>
@@ -695,6 +699,9 @@
 	<char hz="焦" py="jiāo" />
 	<char hz="僬" py="jiāo">
 		<phrase hz="僬侥" py="jiāo,yáo" />
+		<definition>
+			<item text="[僬侥](-yáo)古代传说中的矮人。"/>
+		</definition>
 	</char>
 	<char hz="蕉" py="jiāo" />
 	<char hz="礁" py="jiāo" />
@@ -1073,7 +1080,7 @@
 	<char hz="槿" py="jǐn" />
 	<char hz="锦" py="jǐn" />
 	<char hz="仅" py="jìn" multi="jǐn">
-		<definition id="一">
+		<definition id="二">
 			<item text="将近，几乎（多见于唐人诗文）：山城~百层. 士卒~万人." />
 		</definition>
 	</char>
@@ -1382,7 +1389,7 @@
 	<char hz="飓" py="jù" />
 	<char hz="沮" py="jù" multi="jǔ">
 		<phrase hz="沮洳" py="jù,rù" />
-		<definition id="三">
+		<definition id="二">
 			<item text="[沮洳](-rù)低湿的地带。" />
 		</definition>
 	</char>
@@ -1540,7 +1547,7 @@
 	<char hz="爵" py="jué" />
 	<char hz="嚼" py="jué" multi="jiáo,jiào">
 		<phrase hz="咀嚼" py="jǔ,jué" />
-		<definition id="一">
+		<definition id="二">
 			<item text="义同“嚼(一)”，用于书面语复合词：咀(jǔ)~." />
 		</definition>
 	</char>

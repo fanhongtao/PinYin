@@ -10,7 +10,7 @@
 		<phrase hz="搭载" py="dā,zài" />
 	</char>
 	<char hz="嗒" py="dā" multi="tà" main="1">
-		<definition id="一">
+		<definition id="二">
 			<item text="拟声词，马蹄声、机关枪声等（叠）。" />
 		</definition>
 	</char>
@@ -923,7 +923,7 @@
 			<item id="2" text="（-子、-儿）圆而凸起像肚子的：腿~子. 手指头~儿." />
 		</definition>
 	</char>
-	<char hz="miss: 钅杜" py="dù" />
+	<char hz="miss: 钅杜" py="dù" info="special" />
 	<char hz="妒" py="dù" />
 	<char hz="度" py="dù" multi="duó" main="1">
 		<phrase hz="度量衡" py="dù,liàng,héng" />
@@ -1000,7 +1000,7 @@
 			<item text="两腿尽量弯曲，像坐的样子，但臀部不着地：大家都~下. (转)闲居：不能再~在家里了. [蹲班]留级：~~生. [蹲点]深入到基层单位，参加实际工作，进行调查研究等。" />
 		</definition>
 	</char>
-	<char hz="miss: 一小" py="dǔn" />
+	<char hz="miss: 一小" py="dǔn" info="special" />
 	<char hz="盹" py="dǔn" />
 	<char hz="趸" py="dǔn" />
 	<char hz="囤" py="dùn" multi="tún" main="1">

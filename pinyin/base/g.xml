@@ -341,7 +341,12 @@
 			<item id="2" text="改变（(连)改-）：~新. 洗心~面. (引)革除，撤销（职务）。[革命]1.被压迫阶级用暴力夺取政权，摧毁旧的腐朽的社会制度，建立新的进步的社会制度。2.事物的根本变革：思想~~. 技术~~." />
 		</definition>
 	</char>
-	<char hz="閤" py="gé" multi="hé" trans="1" />
+	<char hz="閤" py="gé" multi="hé" trans="1" main="1">
+		<definition id="一">
+			<item id="1" text="小门，旁门。" />
+			<item id="2" text="见“阁”。" />
+		</definition>
+	</char>
 	<char hz="蛤" py="gé" multi="há" main="1">
 		<phrase hz="蛤蜊" py="gé,li" />
 		<phrase hz="蛤蚧" py="gé,jiè" />
@@ -355,7 +360,12 @@
 			<item text="口。" />
 		</definition>
 	</char>
-	<char hz="阁" py="gé" />
+	<char hz="阁" py="gé">
+		<definition>
+			<item id="1" text="类似楼房的建筑物：亭台楼~. [阁下]对人的敬称，今多用于外交场合。 [阁子]小木头房子。 [内阁]明清两代大臣在宫中处理政务的机构。民国初年的国务院和现在某些国家的最高行政机关也叫内阁，省称“阁”：组~. 入~."/>
+			<item id="2" text="闺房：出~."/>
+		</definition>
+	</char>
 	<char hz="格" py="gé">
 		<phrase hz="格斗" py="gé,dòu" />
 	</char>
@@ -381,8 +391,8 @@
 	<char hz="膈" py="gé" />
 	<char hz="镉" py="gé" />
 	<char hz="葛" py="gé" multi="gě">
-		<definition id="二">
-			<item text="姓。" />
+		<definition id="一">
+			<item text="多年生藤本植物，花紫红色。茎可编篮做绳，纤维可织葛布。根可提制淀粉，又供药用。" />
 		</definition>
 	</char>
 	<char hz="个" py="gě" multi="gè">

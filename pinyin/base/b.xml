@@ -91,7 +91,7 @@
 			<item id="2" text="用耙弄碎土块：地已经~过了." />
 		</definition>
 	</char>
-	<char hz="miss: 齿巴" py="bà" />
+	<char hz="miss: 齿巴" py="bà" info="special" />
 	<char hz="罢" py="bà" multi="ba" main="1">
 		<definition id="一">
 			<item id="1" text="停，歇（(连)-休）：~工. ~手. 欲~不能." />
@@ -113,7 +113,7 @@
 	<char hz="霸" py="bà" />
 	<char hz="灞" py="bà" />
 	<char hz="吧" py="ba" multi="bā" main="1">
-		<definition id="一">
+		<definition id="二">
 			<item text="助词，用在句末，也作“罢”。1.表示可以，允许：好~，就这么办~. 2.表示推测，估量：今天不会下雨~. 3.表示命令，请求：快出去~！还是你去~！ 4.用于停顿处：说~，不好意思；不说~，问题又不能解决." />
 		</definition>
 	</char>
@@ -125,6 +125,9 @@
 	<!-- bai -->
 	<char hz="㓦" py="bāi">
 		<phrase hz="㓦划" py="bāi,huai" />
+		<definition>
+			<item text="[㓦划](-huai)〈方〉1.处置，安排：这件事让他~~吧. 2.修理，整治：这孩子把闹钟~~坏了."/>
+		</definition>
 	</char>
 	<char hz="掰" py="bāi">
 		<definition>
@@ -173,7 +176,7 @@
 	</char>
 	<char hz="稗" py="bài" />
 	<char hz="韛" py="bài" trans="1" />
-	<char hz="miss: 口拜" py="bai" />
+	<char hz="㗑" py="bai" />
 	<!-- ban -->
 	<char hz="扳" py="bān" />
 	<char hz="攽" py="bān" />
@@ -479,8 +482,11 @@
 	<!-- bi -->
 	<char hz="逼" py="bī" />
 	<char hz="鲾" py="bī" />
-	<char hz="荸" py="bī">
-		<phrase hz="荸荠" py="bī,qi" />
+	<char hz="荸" py="bí">
+		<phrase hz="荸荠" py="bí,qi" />
+		<definition>
+			<item text="[荸荠](-qi)多年生草本植物，生在池沼或栽培在水田里。地下茎也叫荸荠，球状，皮赤褐色，肉白色，可以吃。"/>
+		</definition>
 	</char>
 	<char hz="鼻" py="bí" />
 	<char hz="匕" py="bǐ" />
@@ -499,7 +505,7 @@
 	<char hz="必" py="bì" />
 	<char hz="邲" py="bì" />
 	<char hz="苾" py="bì" />
-	<char hz="miss: 门必" py="bì" />
+	<char hz="閟" py="bì" trans="1" />
 	<char hz="泌" py="bì" multi="mì">
 		<phrase hz="泌阳" py="bì,yáng" />
 		<definition id="二">
@@ -547,7 +553,11 @@
 	<char hz="庳" py="bì" info="字典中还有个 bēi 的音，但输入法中是 bì，所以放在这里" />
 	<char hz="婢" py="bì" />
 	<!-- 睥 读 pì -->
-	<char hz="裨" py="bì" multi="pí" main="1" />
+	<char hz="裨" py="bì" multi="pí" main="1">
+		<definition id="一">
+			<item text="补益，益处：无~于事. 对工作大有~益." />
+		</definition>
+	</char>
 	<char hz="髀" py="bì" />
 	<char hz="敝" py="bì" />
 	<char hz="蔽" py="bì" />
@@ -807,7 +817,7 @@
 		<phrase hz="玻璃" py="bō,li" />
 	</char>
 	<char hz="菠" py="bō" />
-	<char hz="miss: 钅波" py="bō" />
+	<char hz="miss: 钅波" py="bō" info="special" />
 	<char hz="钵" py="bō" />
 	<char hz="饽" py="bō">
 		<phrase hz="饽饽" py="bō,bo" />
@@ -958,7 +968,7 @@
 	<char hz="吥" py="bù" />
 	<char hz="钚" py="bù" />
 	<char hz="布" py="bù" />
-	<char hz="miss: 土布" py="bù" />
+	<char hz="㘵" py="bù" />
 	<char hz="怖" py="bù" />
 	<char hz="步" py="bù" />
 	<char hz="埔" py="bù" multi="pǔ">

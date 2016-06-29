@@ -255,7 +255,7 @@
 	<!-- le -->
 	<char hz="肋" py="lē" multi="lèi">
 		<phrase hz="肋脦" py="lē,de" />
-		<definition id="一">
+		<definition id="二">
 			<item text="[肋脦](-de)(-te)(又)衣裳肥大，不整洁：瞧你穿得这个~~！" />
 		</definition>
 	</char>
@@ -743,7 +743,7 @@
 	<!-- lie -->
 	<char hz="咧" py="liē" multi="liě,lie">
 		<phrase hz="咧咧" py="liē,lie" />
-		<definition id="一">
+		<definition id="二">
 			<item text="[咧咧](-lie)〈方〉1.乱说，乱讲：瞎~~. 2.小孩儿哭：这孩子一~~起来就没完." />
 		</definition>
 	</char>

@@ -133,7 +133,7 @@
 	</char>
 	<char hz="怹" py="tān" />
 	<char hz="啴" py="tān" multi="chǎn" main="1">
-		<definition id="一">
+		<definition id="二">
 			<item text="[啴啴]形容牲畜喘息的样子。" />
 		</definition>
 	</char>
@@ -159,7 +159,7 @@
 		<phrase hz="弹射" py="tán,shè" />
 		<phrase hz="弹性" py="tán,xìng" />
 		<phrase hz="弹劾" py="tán,hé" />
-		<definition id="一">
+		<definition id="二">
 			<item id="1" text="被其他手指压住的手指用力伸开：用手指~他一下. 把帽子上的土~下去." />
 			<item id="2" text="使弦振动：~弦子. ~琵琶. ~棉花. [弹词]曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />
 			<item id="3" text="利用一个物体的弹性把另一个物体放射出去：~射. [弹性]物体因受外力暂变形状，外力一去即恢复原状的性质。" />
@@ -867,7 +867,7 @@
 		</definition>
 	</char>
 	<char hz="砣" py="tuó">
-		<definition id="一">
+		<definition>
 			<item id="1" text="秤锤。" />
 			<item id="2" text="碾砣，碾子上的磙子。" />
 		</definition>

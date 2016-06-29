@@ -13,7 +13,7 @@
 			<item text="拟声词：摩托车~的一声停住了." />
 		</definition>
 	</char>
-	<char hz="miss: 石察" py="cā" />
+	<char hz="䃰" py="cā" />
 	<char hz="礤" py="cā" />
 	<!-- cai -->
 	<char hz="偲" py="cāi" multi="sī" main="1">
@@ -72,7 +72,7 @@
 	<char hz="惭" py="cán" />
 	<char hz="惨" py="cǎn" />
 	<char hz="" py="cǎn" />
-	<char hz="miss: 竹参" py="cǎn" />
+	<char hz="miss: 竹参" py="cǎn" info="special" />
 	<char hz="灿" py="càn" />
 	<char hz="孱" py="càn" multi="chán" info="Word主音">
 		<phrase hz="孱头" py="càn,tou" />
@@ -106,7 +106,7 @@
 	<char hz="嘈" py="cáo" />
 	<char hz="漕" py="cáo" />
 	<char hz="槽" py="cáo" />
-	<char hz="miss: 石曹" py="cáo" />
+	<char hz="miss: 石曹" py="cáo" info="special" />
 	<char hz="螬" py="cáo" />
 	<char hz="艚" py="cáo" />
 	<char hz="草" py="cǎo" />
@@ -297,7 +297,7 @@
 	<char hz="柴" py="chái" />
 	<char hz="豺" py="chái" />
 	<char hz="茝" py="chǎi" />
-	<char hz="miss: 豆昔" py="chǎi" />
+	<char hz="䜺" py="chǎi" />
 	<char hz="虿" py="chài" />
 	<char hz="瘥" py="chài" multi="cuó" main="1">
 		<definition id="一">
@@ -824,7 +824,7 @@
 		<phrase hz="应酬" py="yìng,chou" />
 	</char>
 	<char hz="愁" py="chóu" />
-	<char hz="讎" py="chóu">
+	<char hz="雠" py="chóu">
 		<phrase hz="校雠" py="jiào,chóu" />
 	</char>
 	<char hz="丑" py="chǒu" />
@@ -949,7 +949,12 @@
 			<item text="咬，吃。" />
 		</definition>
 	</char>
-	<char hz="膪" py="chuài" />
+	<char hz="膪" py="chuài">
+		<phrase hz="囊膪" py="nāng,chuài" />
+		<definition>
+			<item text="[囊膪](nāng-)猪的胸腹部肥而松软的肉。"/>
+		</definition>
+	</char>
 	<!-- chuan -->
 	<char hz="川" py="chuān" />
 	<char hz="氚" py="chuān" />

@@ -247,6 +247,9 @@
 	</char>
 	<char hz="唼" py="shà">
 		<phrase hz="唼喋" py="shà,zhá" />
+		<definition>
+			<item text="[唼喋](-zhá)形容鱼、鸟等吃东西的声音。"/>
+		</definition>
 	</char>
 	<char hz="厦" py="shà" multi="xià" main="1">
 		<definition id="一">
@@ -1308,7 +1311,7 @@
 	</char>
 	<char hz="缩" py="sù" multi="suō">
 		<phrase hz="缩砂密" py="sù,shā,mì" />
-		<definition id="一">
+		<definition id="二">
 			<item text="[缩砂密]多年生草本植物，种子可入药，叫砂仁。" />
 		</definition>
 	</char>
