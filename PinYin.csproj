@@ -47,6 +47,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CharacterForm.cs" />
+    <Compile Include="CharacterForm.Designer.cs">
+      <DependentUpon>CharacterForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="CharInfo.cs" />
     <Compile Include="ConvertForm.cs" />
     <Compile Include="ConvertForm.Designer.cs">
@@ -66,6 +70,9 @@
     <Compile Include="StringTools.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="CharacterForm.resx">
+      <DependentUpon>CharacterForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ConvertForm.resx">
       <DependentUpon>ConvertForm.cs</DependentUpon>
     </EmbeddedResource>

@@ -29,6 +29,7 @@ namespace PinYin
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 			showForm(new ConvertForm(), convertPage);
+			showForm(new CharacterForm(), characterPage);
 			
 			Logger.SetTextBox(logTextBox);
 			Logger.info("Program start.");

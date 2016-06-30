@@ -41,6 +41,7 @@ namespace PinYin
 			this.mainSplitContainer = new System.Windows.Forms.SplitContainer();
 			this.mainTabControl = new System.Windows.Forms.TabControl();
 			this.convertPage = new System.Windows.Forms.TabPage();
+			this.characterPage = new System.Windows.Forms.TabPage();
 			this.logGroupBox.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).BeginInit();
 			this.mainSplitContainer.Panel1.SuspendLayout();
@@ -91,6 +92,7 @@ namespace PinYin
 			// mainTabControl
 			// 
 			this.mainTabControl.Controls.Add(this.convertPage);
+			this.mainTabControl.Controls.Add(this.characterPage);
 			this.mainTabControl.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.mainTabControl.Location = new System.Drawing.Point(0, 0);
 			this.mainTabControl.Name = "mainTabControl";
@@ -107,6 +109,16 @@ namespace PinYin
 			this.convertPage.TabIndex = 0;
 			this.convertPage.Text = "文本转换";
 			this.convertPage.UseVisualStyleBackColor = true;
+			// 
+			// characterPage
+			// 
+			this.characterPage.Location = new System.Drawing.Point(4, 22);
+			this.characterPage.Name = "characterPage";
+			this.characterPage.Padding = new System.Windows.Forms.Padding(3);
+			this.characterPage.Size = new System.Drawing.Size(306, 205);
+			this.characterPage.TabIndex = 1;
+			this.characterPage.Text = "汉字查询";
+			this.characterPage.UseVisualStyleBackColor = true;
 			// 
 			// MainForm
 			// 
@@ -125,6 +137,7 @@ namespace PinYin
 			this.mainTabControl.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.TabPage characterPage;
 		private System.Windows.Forms.TabControl mainTabControl;
 		private System.Windows.Forms.TabPage convertPage;
 		private System.Windows.Forms.RichTextBox logTextBox;
