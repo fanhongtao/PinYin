@@ -45,6 +45,11 @@ namespace PinYin
 				return;
 			}
 			
+			// 将查询历史记录添加到 ComboBox
+			inputComboBox.Items.Remove(line);
+			inputComboBox.Items.Insert(0, line);
+			
+			// 逐个显示每个字的信息
 			PinYinInfo info = PinYinInfo.Instance;
 			for (int i = 0; i < line.Length; i++) {
 				string ch = line.Substring(i, 1);
@@ -71,6 +76,7 @@ namespace PinYin
 			}
 		}
 		
+		// 显示一个字的某个定义
 		private void showDefinition(DefinitionInfo definition)
 		{
 			if (definition.id.Length != 0) {
