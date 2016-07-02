@@ -48,6 +48,8 @@ namespace PinYin
 			// 将查询历史记录添加到 ComboBox
 			inputComboBox.Items.Remove(line);
 			inputComboBox.Items.Insert(0, line);
+			inputComboBox.Text = line;
+			inputComboBox.SelectionStart = inputComboBox.Text.Length;
 			
 			// 逐个显示每个字的信息
 			PinYinInfo info = PinYinInfo.Instance;
