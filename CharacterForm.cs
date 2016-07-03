@@ -57,10 +57,22 @@ namespace PinYin
 				string ch = line.Substring(i, 1);
 				CharInfo charInfo = info.getCharInfo(ch);
 				if (charInfo == null) {
+					// 找不到相应的字，给出相应的提示
+					showMissCharacter(ch);
+					Logger.error("Can't find character [" + ch + "]");
 					continue;
 				}
 				showCharacter(charInfo);
 			}
+		}
+		
+		// 显示找不到字的相关信息
+		private void showMissCharacter(string ch)
+		{
+			int start = outputText.Text.Length;
+			outputText.AppendText(ch + "\t---- 没有收录此字\n");
+			outputText.Select(start, outputText.Text.Length - start);
+			outputText.SelectionColor = Color.Red;
 		}
 		
 		// 显示一个字的解释
