@@ -57,9 +57,11 @@ namespace PinYin
 				string ch = line.Substring(i, 1);
 				CharInfo charInfo = info.getCharInfo(ch);
 				if (charInfo == null) {
-					// 找不到相应的字，给出相应的提示
-					showMissCharacter(ch);
-					Logger.error("Can't find character [" + ch + "]");
+					if (StringTools.IsChineseCharacter(ch)) {
+						// 找不到相应的字，给出相应的提示
+						showMissCharacter(ch);
+						Logger.error("Can't find character [" + ch + "]");
+					}
 					continue;
 				}
 				showCharacter(charInfo);
