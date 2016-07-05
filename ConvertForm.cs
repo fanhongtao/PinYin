@@ -40,6 +40,10 @@ namespace PinYin
 					string ch = line.Substring(i, 1);
 					CharInfo charInfo = info.getCharInfo(ch);
 					if (charInfo == null) {
+						if (StringTools.IsChineseCharacter(ch)) {
+							// 找不到相应的字，给出相应的提示
+							Logger.error("Can't find character [" + ch + "]");
+						}
 						outputText.AppendText(ch);
 						continue;
 					}
