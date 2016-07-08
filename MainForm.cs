@@ -35,6 +35,7 @@ namespace PinYin
 			Logger.info("Program start.");
 			
 			PinYinInfo.Instance.load();
+			ExtraInfo.Instance.load();
 		}
 		
 		// 在TabPage中显示对应的Form
