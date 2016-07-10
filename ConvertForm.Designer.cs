@@ -41,6 +41,8 @@ namespace PinYin
 			this.outputText = new System.Windows.Forms.RichTextBox();
 			this.optionPanel = new System.Windows.Forms.Panel();
 			this.phraseCheckBox = new System.Windows.Forms.CheckBox();
+			this.baseCheckBox = new System.Windows.Forms.CheckBox();
+			this.extraCheckBox = new System.Windows.Forms.CheckBox();
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).BeginInit();
 			this.mainSplitContainer.Panel1.SuspendLayout();
 			this.mainSplitContainer.Panel2.SuspendLayout();
@@ -61,8 +63,8 @@ namespace PinYin
 			// mainSplitContainer.Panel2
 			// 
 			this.mainSplitContainer.Panel2.Controls.Add(this.outputText);
-			this.mainSplitContainer.Size = new System.Drawing.Size(284, 231);
-			this.mainSplitContainer.SplitterDistance = 131;
+			this.mainSplitContainer.Size = new System.Drawing.Size(400, 231);
+			this.mainSplitContainer.SplitterDistance = 184;
 			this.mainSplitContainer.TabIndex = 0;
 			// 
 			// inputText
@@ -70,7 +72,7 @@ namespace PinYin
 			this.inputText.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.inputText.Location = new System.Drawing.Point(0, 0);
 			this.inputText.Name = "inputText";
-			this.inputText.Size = new System.Drawing.Size(131, 231);
+			this.inputText.Size = new System.Drawing.Size(184, 231);
 			this.inputText.TabIndex = 0;
 			this.inputText.Text = "";
 			this.inputText.TextChanged += new System.EventHandler(this.InputTextTextChanged);
@@ -81,17 +83,19 @@ namespace PinYin
 			this.outputText.Location = new System.Drawing.Point(0, 0);
 			this.outputText.Name = "outputText";
 			this.outputText.ReadOnly = true;
-			this.outputText.Size = new System.Drawing.Size(149, 231);
+			this.outputText.Size = new System.Drawing.Size(212, 231);
 			this.outputText.TabIndex = 0;
 			this.outputText.Text = "";
 			// 
 			// optionPanel
 			// 
+			this.optionPanel.Controls.Add(this.extraCheckBox);
+			this.optionPanel.Controls.Add(this.baseCheckBox);
 			this.optionPanel.Controls.Add(this.phraseCheckBox);
 			this.optionPanel.Dock = System.Windows.Forms.DockStyle.Top;
 			this.optionPanel.Location = new System.Drawing.Point(0, 0);
 			this.optionPanel.Name = "optionPanel";
-			this.optionPanel.Size = new System.Drawing.Size(284, 30);
+			this.optionPanel.Size = new System.Drawing.Size(400, 30);
 			this.optionPanel.TabIndex = 1;
 			// 
 			// phraseCheckBox
@@ -103,11 +107,29 @@ namespace PinYin
 			this.phraseCheckBox.Text = "显示匹配词组";
 			this.phraseCheckBox.UseVisualStyleBackColor = true;
 			// 
+			// baseCheckBox
+			// 
+			this.baseCheckBox.Location = new System.Drawing.Point(101, 3);
+			this.baseCheckBox.Name = "baseCheckBox";
+			this.baseCheckBox.Size = new System.Drawing.Size(104, 24);
+			this.baseCheckBox.TabIndex = 3;
+			this.baseCheckBox.Text = "使用基本词库";
+			this.baseCheckBox.UseVisualStyleBackColor = true;
+			// 
+			// extraCheckBox
+			// 
+			this.extraCheckBox.Location = new System.Drawing.Point(202, 3);
+			this.extraCheckBox.Name = "extraCheckBox";
+			this.extraCheckBox.Size = new System.Drawing.Size(104, 24);
+			this.extraCheckBox.TabIndex = 4;
+			this.extraCheckBox.Text = "使用扩展词库";
+			this.extraCheckBox.UseVisualStyleBackColor = true;
+			// 
 			// ConvertForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(284, 261);
+			this.ClientSize = new System.Drawing.Size(400, 261);
 			this.Controls.Add(this.mainSplitContainer);
 			this.Controls.Add(this.optionPanel);
 			this.Name = "ConvertForm";
@@ -119,6 +141,8 @@ namespace PinYin
 			this.optionPanel.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.CheckBox extraCheckBox;
+		private System.Windows.Forms.CheckBox baseCheckBox;
 		private System.Windows.Forms.CheckBox phraseCheckBox;
 		private System.Windows.Forms.Panel optionPanel;
 		private System.Windows.Forms.RichTextBox outputText;

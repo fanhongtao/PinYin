@@ -27,6 +27,7 @@ namespace PinYin
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+			baseCheckBox.Checked = true;
 		}
 		
 		void InputTextTextChanged(object sender, EventArgs e)
@@ -37,17 +38,21 @@ namespace PinYin
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {
 					string ch = line.Substring(i, 1);
-					
-					int matchLen = matchExtra(line, i, ch);
-					if (matchLen > 0) {
-						i = i + (matchLen - 1); // 跳过已经匹配的字
-						continue;
+
+					if (extraCheckBox.Checked) {
+						int matchLen = matchExtra(line, i, ch);
+						if (matchLen > 0) {
+							i = i + (matchLen - 1); // 跳过已经匹配的字
+							continue;
+						}
 					}
 					
-					matchLen = matchBase(line, i, ch);
-					if (matchLen > 0) {
-						i = i + (matchLen - 1); // 跳过已经匹配的字
-						continue;
+					if (baseCheckBox.Checked) {
+						int matchLen = matchBase(line, i, ch);
+						if (matchLen > 0) {
+							i = i + (matchLen - 1); // 跳过已经匹配的字
+							continue;
+						}
 					}
 					
 					if (StringTools.IsChineseCharacter(ch)) {
