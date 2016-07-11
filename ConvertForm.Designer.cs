@@ -36,13 +36,15 @@ namespace PinYin
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.components = new System.ComponentModel.Container();
 			this.mainSplitContainer = new System.Windows.Forms.SplitContainer();
 			this.inputText = new System.Windows.Forms.RichTextBox();
 			this.outputText = new System.Windows.Forms.RichTextBox();
 			this.optionPanel = new System.Windows.Forms.Panel();
-			this.phraseCheckBox = new System.Windows.Forms.CheckBox();
-			this.baseCheckBox = new System.Windows.Forms.CheckBox();
 			this.extraCheckBox = new System.Windows.Forms.CheckBox();
+			this.baseCheckBox = new System.Windows.Forms.CheckBox();
+			this.phraseCheckBox = new System.Windows.Forms.CheckBox();
+			this.toolTip = new System.Windows.Forms.ToolTip(this.components);
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).BeginInit();
 			this.mainSplitContainer.Panel1.SuspendLayout();
 			this.mainSplitContainer.Panel2.SuspendLayout();
@@ -98,14 +100,15 @@ namespace PinYin
 			this.optionPanel.Size = new System.Drawing.Size(400, 30);
 			this.optionPanel.TabIndex = 1;
 			// 
-			// phraseCheckBox
+			// extraCheckBox
 			// 
-			this.phraseCheckBox.Location = new System.Drawing.Point(0, 6);
-			this.phraseCheckBox.Name = "phraseCheckBox";
-			this.phraseCheckBox.Size = new System.Drawing.Size(106, 18);
-			this.phraseCheckBox.TabIndex = 2;
-			this.phraseCheckBox.Text = "显示匹配词组";
-			this.phraseCheckBox.UseVisualStyleBackColor = true;
+			this.extraCheckBox.Location = new System.Drawing.Point(202, 3);
+			this.extraCheckBox.Name = "extraCheckBox";
+			this.extraCheckBox.Size = new System.Drawing.Size(104, 24);
+			this.extraCheckBox.TabIndex = 4;
+			this.extraCheckBox.Text = "使用扩展词库";
+			this.toolTip.SetToolTip(this.extraCheckBox, "pinyin/extra目录下的内容");
+			this.extraCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// baseCheckBox
 			// 
@@ -114,16 +117,17 @@ namespace PinYin
 			this.baseCheckBox.Size = new System.Drawing.Size(104, 24);
 			this.baseCheckBox.TabIndex = 3;
 			this.baseCheckBox.Text = "使用基本词库";
+			this.toolTip.SetToolTip(this.baseCheckBox, "pinyin/base目录下的内容");
 			this.baseCheckBox.UseVisualStyleBackColor = true;
 			// 
-			// extraCheckBox
+			// phraseCheckBox
 			// 
-			this.extraCheckBox.Location = new System.Drawing.Point(202, 3);
-			this.extraCheckBox.Name = "extraCheckBox";
-			this.extraCheckBox.Size = new System.Drawing.Size(104, 24);
-			this.extraCheckBox.TabIndex = 4;
-			this.extraCheckBox.Text = "使用扩展词库";
-			this.extraCheckBox.UseVisualStyleBackColor = true;
+			this.phraseCheckBox.Location = new System.Drawing.Point(0, 6);
+			this.phraseCheckBox.Name = "phraseCheckBox";
+			this.phraseCheckBox.Size = new System.Drawing.Size(106, 18);
+			this.phraseCheckBox.TabIndex = 2;
+			this.phraseCheckBox.Text = "显示匹配词组";
+			this.phraseCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// ConvertForm
 			// 
@@ -141,6 +145,7 @@ namespace PinYin
 			this.optionPanel.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.ToolTip toolTip;
 		private System.Windows.Forms.CheckBox extraCheckBox;
 		private System.Windows.Forms.CheckBox baseCheckBox;
 		private System.Windows.Forms.CheckBox phraseCheckBox;
