@@ -8,6 +8,7 @@
  */
 using System;
 using System.Diagnostics;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace PinYin
@@ -35,7 +36,10 @@ namespace PinYin
         {
             string logInfo = getDateStr() + " " + text;
             Trace.TraceError(logInfo);
+            int start = logBox.Text.Length;
             logBox.AppendText(logInfo + "\n");
+            logBox.Select(start, logBox.Text.Length - start);
+            logBox.SelectionColor = Color.Red;
         }
         
         public static void debug(string text)
