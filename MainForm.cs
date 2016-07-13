@@ -48,5 +48,10 @@ namespace PinYin
 			form.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 			form.Show();
 		}
+		
+		void CleanLogButtonClick(object sender, EventArgs e)
+		{
+			Logger.clean();
+		}
 	}
 }

@@ -53,5 +53,10 @@ namespace PinYin
             return String.Format("{0} {1}", DateTime.Now.ToLongDateString(),
                         DateTime.Now.ToLongTimeString());
         }
+        
+        public static void clean()
+        {
+            logBox.ResetText();
+        }
     }
 }

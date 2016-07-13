@@ -42,21 +42,25 @@ namespace PinYin
 			this.mainTabControl = new System.Windows.Forms.TabControl();
 			this.convertPage = new System.Windows.Forms.TabPage();
 			this.characterPage = new System.Windows.Forms.TabPage();
+			this.logPanel = new System.Windows.Forms.Panel();
+			this.cleanLogButton = new System.Windows.Forms.Button();
 			this.logGroupBox.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).BeginInit();
 			this.mainSplitContainer.Panel1.SuspendLayout();
 			this.mainSplitContainer.Panel2.SuspendLayout();
 			this.mainSplitContainer.SuspendLayout();
 			this.mainTabControl.SuspendLayout();
+			this.logPanel.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// logGroupBox
 			// 
 			this.logGroupBox.Controls.Add(this.logTextBox);
+			this.logGroupBox.Controls.Add(this.logPanel);
 			this.logGroupBox.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.logGroupBox.Location = new System.Drawing.Point(0, 0);
 			this.logGroupBox.Name = "logGroupBox";
-			this.logGroupBox.Size = new System.Drawing.Size(314, 61);
+			this.logGroupBox.Size = new System.Drawing.Size(350, 74);
 			this.logGroupBox.TabIndex = 0;
 			this.logGroupBox.TabStop = false;
 			this.logGroupBox.Text = "Log";
@@ -64,10 +68,10 @@ namespace PinYin
 			// logTextBox
 			// 
 			this.logTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.logTextBox.Location = new System.Drawing.Point(3, 17);
+			this.logTextBox.Location = new System.Drawing.Point(3, 42);
 			this.logTextBox.Name = "logTextBox";
 			this.logTextBox.ReadOnly = true;
-			this.logTextBox.Size = new System.Drawing.Size(308, 41);
+			this.logTextBox.Size = new System.Drawing.Size(344, 29);
 			this.logTextBox.TabIndex = 0;
 			this.logTextBox.Text = "";
 			// 
@@ -85,8 +89,8 @@ namespace PinYin
 			// mainSplitContainer.Panel2
 			// 
 			this.mainSplitContainer.Panel2.Controls.Add(this.logGroupBox);
-			this.mainSplitContainer.Size = new System.Drawing.Size(314, 296);
-			this.mainSplitContainer.SplitterDistance = 231;
+			this.mainSplitContainer.Size = new System.Drawing.Size(350, 351);
+			this.mainSplitContainer.SplitterDistance = 273;
 			this.mainSplitContainer.TabIndex = 0;
 			// 
 			// mainTabControl
@@ -97,7 +101,7 @@ namespace PinYin
 			this.mainTabControl.Location = new System.Drawing.Point(0, 0);
 			this.mainTabControl.Name = "mainTabControl";
 			this.mainTabControl.SelectedIndex = 0;
-			this.mainTabControl.Size = new System.Drawing.Size(314, 231);
+			this.mainTabControl.Size = new System.Drawing.Size(350, 273);
 			this.mainTabControl.TabIndex = 0;
 			// 
 			// convertPage
@@ -105,7 +109,7 @@ namespace PinYin
 			this.convertPage.Location = new System.Drawing.Point(4, 22);
 			this.convertPage.Name = "convertPage";
 			this.convertPage.Padding = new System.Windows.Forms.Padding(3);
-			this.convertPage.Size = new System.Drawing.Size(306, 205);
+			this.convertPage.Size = new System.Drawing.Size(342, 247);
 			this.convertPage.TabIndex = 0;
 			this.convertPage.Text = "文本转换";
 			this.convertPage.UseVisualStyleBackColor = true;
@@ -120,11 +124,30 @@ namespace PinYin
 			this.characterPage.Text = "汉字查询";
 			this.characterPage.UseVisualStyleBackColor = true;
 			// 
+			// logPanel
+			// 
+			this.logPanel.Controls.Add(this.cleanLogButton);
+			this.logPanel.Dock = System.Windows.Forms.DockStyle.Top;
+			this.logPanel.Location = new System.Drawing.Point(3, 17);
+			this.logPanel.Name = "logPanel";
+			this.logPanel.Size = new System.Drawing.Size(344, 25);
+			this.logPanel.TabIndex = 1;
+			// 
+			// cleanLogButton
+			// 
+			this.cleanLogButton.Location = new System.Drawing.Point(1, 3);
+			this.cleanLogButton.Name = "cleanLogButton";
+			this.cleanLogButton.Size = new System.Drawing.Size(75, 23);
+			this.cleanLogButton.TabIndex = 0;
+			this.cleanLogButton.Text = "清除日志";
+			this.cleanLogButton.UseVisualStyleBackColor = true;
+			this.cleanLogButton.Click += new System.EventHandler(this.CleanLogButtonClick);
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(314, 296);
+			this.ClientSize = new System.Drawing.Size(350, 351);
 			this.Controls.Add(this.mainSplitContainer);
 			this.Name = "MainForm";
 			this.Text = "PinYin";
@@ -135,8 +158,11 @@ namespace PinYin
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).EndInit();
 			this.mainSplitContainer.ResumeLayout(false);
 			this.mainTabControl.ResumeLayout(false);
+			this.logPanel.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.Button cleanLogButton;
+		private System.Windows.Forms.Panel logPanel;
 		private System.Windows.Forms.TabPage characterPage;
 		private System.Windows.Forms.TabControl mainTabControl;
 		private System.Windows.Forms.TabPage convertPage;
