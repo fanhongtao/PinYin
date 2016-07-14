@@ -53,12 +53,12 @@ namespace PinYin
 							i = i + (matchLen - 1); // 跳过已经匹配的字
 							continue;
 						}
+						if (StringTools.IsChineseCharacter(ch)) {
+							// 找不到相应的字，给出相应的提示
+							Logger.error("Can't find character [" + ch + "]");
+						}
 					}
 					
-					if (StringTools.IsChineseCharacter(ch)) {
-						// 找不到相应的字，给出相应的提示
-						Logger.error("Can't find character [" + ch + "]");
-					}
 					outputText.AppendText(ch);
 				}
 				outputText.AppendText("\n");
