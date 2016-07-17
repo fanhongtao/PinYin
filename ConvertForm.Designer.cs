@@ -71,7 +71,10 @@ namespace PinYin
 			// 
 			// inputText
 			// 
+			this.inputText.AllowDrop = true;
 			this.inputText.Dock = System.Windows.Forms.DockStyle.Fill;
+			this.inputText.DragDrop += new System.Windows.Forms.DragEventHandler(this.InputText_DragDrop);
+			this.inputText.DragEnter += new System.Windows.Forms.DragEventHandler(this.InputText_DragEnter);
 			this.inputText.Location = new System.Drawing.Point(0, 0);
 			this.inputText.Name = "inputText";
 			this.inputText.Size = new System.Drawing.Size(184, 231);
