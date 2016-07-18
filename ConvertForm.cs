@@ -160,6 +160,11 @@ namespace PinYin
 		private void InputText_DragDrop(object sender, DragEventArgs e)
 		{
 			string path = ((System.Array)e.Data.GetData(DataFormats.FileDrop)).GetValue(0).ToString();
+			if (!File.Exists(path)) {
+				Logger.error("File not exist: " + path);
+				return;
+			}
+			
 			Logger.info("open file: " + path);
 			StreamReader reader = new StreamReader(path);
 			inputText.ResetText();
