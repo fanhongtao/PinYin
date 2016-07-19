@@ -164,6 +164,10 @@ namespace PinYin
 				Logger.error("File not exist: " + path);
 				return;
 			}
+			if (!FileTools.IsTextFile(path)) {
+				Logger.error("Not a text file: " + path);
+				return;
+			}
 			
 			Logger.info("open file: " + path);
 			StreamReader reader = new StreamReader(path);

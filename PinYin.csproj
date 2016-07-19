@@ -58,6 +58,7 @@
     </Compile>
     <Compile Include="DefinitionInfo.cs" />
     <Compile Include="ExtraInfo.cs" />
+    <Compile Include="FileTools.cs" />
     <Compile Include="ItemInfo.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="MainForm.cs" />
