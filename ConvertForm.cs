@@ -19,6 +19,52 @@ namespace PinYin
 	/// </summary>
 	public partial class ConvertForm : Form
 	{
+		private string fileName = null;
+		private Output output = null;
+		class Output
+		{
+			private RichTextBox outputText;
+			private StreamWriter writer = null;
+			
+			public Output(RichTextBox outputText, string filePath)
+			{
+				this.outputText = outputText;
+				if (filePath != null) {
+					string path = Path.GetDirectoryName(filePath);
+					string name = Path.GetFileNameWithoutExtension(filePath);
+					string ext = Path.GetExtension(filePath);
+					string newFileName = path + Path.DirectorySeparatorChar + name + "_convert" + ext;
+					Logger.info("Write to file: " + newFileName);
+					writer = new StreamWriter(newFileName, true, Encoding.UTF8);
+				}
+			}
+			
+			public void AppendText(string info)
+			{
+				outputText.AppendText(info);
+				if (writer != null) {
+					writer.Write(info);
+				}
+			}
+			
+			public void WriteLine()
+			{
+				outputText.AppendText("\n");
+				if (writer != null) {
+					writer.WriteLine();
+				}
+			}
+			
+			public void Clean()
+			{
+				if (writer != null) {
+					writer.Flush();
+					writer.Close();
+					writer.Dispose();
+				}
+			}
+		}
+		
 		public ConvertForm()
 		{
 			//
@@ -36,6 +82,7 @@ namespace PinYin
 		{
 			outputText.ResetText();
 			
+			output = new Output(outputText, fileName);
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {
@@ -61,10 +108,14 @@ namespace PinYin
 						}
 					}
 					
-					outputText.AppendText(ch);
+					output.AppendText(ch);
 				}
-				outputText.AppendText("\n");
+				output.WriteLine();
 			}
+			
+			fileName = null;
+			output.Clean();
+			output = null;
 		}
 		
 		/// <summary>
@@ -96,9 +147,9 @@ namespace PinYin
 						Logger.debug("Match extra [" + phrase.hanzi + "] - (" + pinyin + ")");
 					}
 					for (int idx = 0; idx < len; idx++) {
-						outputText.AppendText(phrase.hanzi.Substring(idx, 1));
+						output.AppendText(phrase.hanzi.Substring(idx, 1));
 						if (phrase.pinyin[idx].Length > 0) {
-							outputText.AppendText("(" + phrase.pinyin[idx] + ")");
+							output.AppendText("(" + phrase.pinyin[idx] + ")");
 						}
 					}
 					return len;
@@ -136,15 +187,15 @@ namespace PinYin
 						Logger.debug("Match [" + phrase.hanzi + "] - (" + pinyin + ")");
 					}
 					for (int idx = 0; idx < len; idx++) {
-						outputText.AppendText(phrase.hanzi.Substring(idx, 1));
-						outputText.AppendText("(" + phrase.pinyin[idx] + ")");
+						output.AppendText(phrase.hanzi.Substring(idx, 1));
+						output.AppendText("(" + phrase.pinyin[idx] + ")");
 					}
 					return len;
 				}
 			}
 			
-			outputText.AppendText(ch);
-			outputText.AppendText("(" + charInfo.pinyins[0] + ")");
+			output.AppendText(ch);
+			output.AppendText("(" + charInfo.pinyins[0] + ")");
 			return 1;
 		}
 		
@@ -169,6 +220,9 @@ namespace PinYin
 				return;
 			}
 			
+			if (writeFileCheckBox.Checked) {
+				fileName = path;
+			}
 			Logger.info("open file: " + path);
 			StreamReader reader = new StreamReader(path);
 			inputText.ResetText();
