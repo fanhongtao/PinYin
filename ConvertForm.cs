@@ -26,16 +26,12 @@ namespace PinYin
 			private RichTextBox outputText;
 			private StreamWriter writer = null;
 			
-			public Output(RichTextBox outputText, string filePath)
+			public Output(RichTextBox outputText, string outputFileName)
 			{
 				this.outputText = outputText;
-				if (filePath != null) {
-					string path = Path.GetDirectoryName(filePath);
-					string name = Path.GetFileNameWithoutExtension(filePath);
-					string ext = Path.GetExtension(filePath);
-					string newFileName = path + Path.DirectorySeparatorChar + name + "_convert" + ext;
-					Logger.info("Write to file: " + newFileName);
-					writer = new StreamWriter(newFileName, true, Encoding.UTF8);
+				if (outputFileName != null) {
+					Logger.info("Write to file: " + outputFileName);
+					writer = new StreamWriter(outputFileName, true, Encoding.UTF8);
 				}
 			}
 			
@@ -82,7 +78,7 @@ namespace PinYin
 		{
 			outputText.ResetText();
 			
-			output = new Output(outputText, fileName);
+			output = new Output(outputText, getOutputFileName(fileName));
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {
@@ -233,6 +229,23 @@ namespace PinYin
 			}
 			reader.Close();
 			reader.Dispose();
+		}
+		
+		/// <summary>
+		/// 根据输入的文件名，生成输出的文件名
+		/// </summary>
+		/// <param name="inputFileName">输入的文件名</param>
+		/// <returns>输出的文件名</returns>
+		private string getOutputFileName(string inputFileName)
+		{
+			string outputFileName = null;
+			if (inputFileName != null) {
+				string path = Path.GetDirectoryName(inputFileName);
+				string name = Path.GetFileNameWithoutExtension(inputFileName);
+				string ext = Path.GetExtension(inputFileName);
+				outputFileName = path + Path.DirectorySeparatorChar + name + "_convert" + ext;
+			}
+			return outputFileName;
 		}
 	}
 }
