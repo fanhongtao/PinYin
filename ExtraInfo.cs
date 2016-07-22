@@ -19,13 +19,14 @@ namespace PinYin
 	/// </summary>
 	public class ExtraInfo
 	{
-		string PHRASE = "phrase";
-		string HZ = "hz";
-		string PY = "py";
+		const string PHRASE = "phrase";
+		const string HZ = "hz";
+		const string PY = "py";
 		
 		private static ExtraInfo instance = new ExtraInfo();
 		private Hashtable hashTable = new Hashtable();
 		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
+		private string lastExtraFile = "";
 		
 		public static ExtraInfo Instance {
 			get {
@@ -33,28 +34,40 @@ namespace PinYin
 			}
 		}
 		
-		private ExtraInfo()
+		public void load(string inputExtraFileName)
 		{
+			if (string.Equals(lastExtraFile, inputExtraFileName)) {
+				// Logger.debug("Skip loading extra.");
+				return;
+			}
+			lastExtraFile = inputExtraFileName;
+			
+			hashTable = new Hashtable();
 			tmpPhrases = new List<PhraseInfo>();
-		}
-		
-		public void load()
-		{
 			DirectoryInfo dir = new DirectoryInfo("pinyin/extra");
 			FileInfo[] files = dir.GetFiles("*.xml");
 			foreach (FileInfo file in files) {
-				XmlDocument doc = new XmlDocument();
-				Logger.info("Load " + file.FullName);
-				doc.Load(file.FullName);    //加载Xml文件
-				XmlElement rootElem = doc.DocumentElement;   //获取根节点
-				XmlNodeList charNodes = rootElem.GetElementsByTagName(PHRASE); //获取char子节点集合
-				foreach (XmlNode node in charNodes)
-				{
-					addPhrase(node);
-				}
+				loadOneFile(file.FullName);
+			}
+			if (inputExtraFileName != null) {
+				loadOneFile(inputExtraFileName);
 			}
 			adjustPhrase();
 			Logger.info("Extra dir load finished.");
+			tmpPhrases = null; // 清除临时数据
+		}
+		
+		private void loadOneFile(string fileName)
+		{
+			XmlDocument doc = new XmlDocument();
+			Logger.info("Load " + fileName);
+			doc.Load(fileName);    //加载Xml文件
+			XmlElement rootElem = doc.DocumentElement;   //获取根节点
+			XmlNodeList charNodes = rootElem.GetElementsByTagName(PHRASE); //获取char子节点集合
+			foreach (XmlNode node in charNodes)
+			{
+				addPhrase(node);
+			}
 		}
 		
 		/// <summary>
@@ -96,7 +109,6 @@ namespace PinYin
 				}
 				charInfo.phrases.Add(phraseInfo);
 			}
-			tmpPhrases = null; // 清除临时数据
 		}
 		
 		public CharInfo getCharInfo(string ch)

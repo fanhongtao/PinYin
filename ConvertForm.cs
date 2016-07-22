@@ -19,7 +19,7 @@ namespace PinYin
 	/// </summary>
 	public partial class ConvertForm : Form
 	{
-		private string fileName = null;
+		private string _outputFileName = null;
 		private Output output = null;
 		class Output
 		{
@@ -78,7 +78,7 @@ namespace PinYin
 		{
 			outputText.ResetText();
 			
-			output = new Output(outputText, getOutputFileName(fileName));
+			output = new Output(outputText, _outputFileName);
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {
@@ -109,7 +109,7 @@ namespace PinYin
 				output.WriteLine();
 			}
 			
-			fileName = null;
+			_outputFileName = null;
 			output.Clean();
 			output = null;
 		}
@@ -217,9 +217,9 @@ namespace PinYin
 			}
 			
 			if (writeFileCheckBox.Checked) {
-				fileName = path;
+				_outputFileName = getOutputFileName(path);
 			}
-			Logger.info("open file: " + path);
+			Logger.info("Open file: " + path);
 			StreamReader reader = new StreamReader(path);
 			inputText.ResetText();
 			string line;
@@ -229,6 +229,12 @@ namespace PinYin
 			}
 			reader.Close();
 			reader.Dispose();
+			
+			string inputExtraFileName = getInputExtraFileName(path);
+			if (!File.Exists(inputExtraFileName)) {
+				inputExtraFileName = null;
+			}
+			ExtraInfo.Instance.load(inputExtraFileName);
 		}
 		
 		/// <summary>
@@ -246,6 +252,22 @@ namespace PinYin
 				outputFileName = path + Path.DirectorySeparatorChar + name + "_convert" + ext;
 			}
 			return outputFileName;
+		}
+		
+		/// <summary>
+		/// 根据输入的文件名，生成该文件对应的 extra 文件名
+		/// </summary>
+		/// <param name="inputFileName">输入的文件名</param>
+		/// <returns>对应的 extra 文件名</returns>
+		private string getInputExtraFileName(string inputFileName)
+		{
+			string inputExtraFileName = null;
+			if (inputFileName != null) {
+				string path = Path.GetDirectoryName(inputFileName);
+				string name = Path.GetFileNameWithoutExtension(inputFileName);
+				inputExtraFileName = path + Path.DirectorySeparatorChar + name + "_extra.xml";
+			}
+			return inputExtraFileName;
 		}
 	}
 }
