@@ -35,11 +35,17 @@ namespace PinYin
 				}
 			}
 			
-			public void AppendText(string info)
+			public void AppendCharacter(string ch, string py)
 			{
-				outputText.AppendText(info);
+				outputText.AppendText(ch);
+				if (py.Length != 0) {
+					outputText.AppendText("(" + py + ")");
+				}
 				if (writer != null) {
-					writer.Write(info);
+					writer.Write(ch);
+					if (py.Length != 0) {
+						writer.Write("(" + py + ")");
+					}
 				}
 			}
 			
@@ -104,7 +110,7 @@ namespace PinYin
 						}
 					}
 					
-					output.AppendText(ch);
+					output.AppendCharacter(ch, "");
 				}
 				output.WriteLine();
 			}
@@ -143,10 +149,7 @@ namespace PinYin
 						Logger.debug("Match extra [" + phrase.hanzi + "] - (" + pinyin + ")");
 					}
 					for (int idx = 0; idx < len; idx++) {
-						output.AppendText(phrase.hanzi.Substring(idx, 1));
-						if (phrase.pinyin[idx].Length > 0) {
-							output.AppendText("(" + phrase.pinyin[idx] + ")");
-						}
+						output.AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
 					}
 					return len;
 				}
@@ -183,15 +186,13 @@ namespace PinYin
 						Logger.debug("Match [" + phrase.hanzi + "] - (" + pinyin + ")");
 					}
 					for (int idx = 0; idx < len; idx++) {
-						output.AppendText(phrase.hanzi.Substring(idx, 1));
-						output.AppendText("(" + phrase.pinyin[idx] + ")");
+						output.AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
 					}
 					return len;
 				}
 			}
 			
-			output.AppendText(ch);
-			output.AppendText("(" + charInfo.pinyins[0] + ")");
+			output.AppendCharacter(ch, charInfo.pinyins[0]);
 			return 1;
 		}
 		
