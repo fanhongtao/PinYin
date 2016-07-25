@@ -25,35 +25,64 @@ namespace PinYin
 		{
 			private RichTextBox outputText;
 			private StreamWriter writer = null;
+			private bool appendPinyin;
+			private StringBuilder pyBuilder = new StringBuilder(10240);
+			private StringBuilder hzBuilder = new StringBuilder(10240);
 			
-			public Output(RichTextBox outputText, string outputFileName)
+			public Output(RichTextBox outputText, string outputFileName, bool appendPinyin)
 			{
 				this.outputText = outputText;
 				if (outputFileName != null) {
 					Logger.info("Write to file: " + outputFileName);
 					writer = new StreamWriter(outputFileName, true, Encoding.UTF8);
 				}
+				this.appendPinyin = appendPinyin;
 			}
 			
 			public void AppendCharacter(string ch, string py)
 			{
-				outputText.AppendText(ch);
-				if (py.Length != 0) {
-					outputText.AppendText("(" + py + ")");
-				}
-				if (writer != null) {
-					writer.Write(ch);
+				if (appendPinyin) {
+					outputText.AppendText(ch);
 					if (py.Length != 0) {
-						writer.Write("(" + py + ")");
+						outputText.AppendText("(" + py + ")");
 					}
+					if (writer != null) {
+						writer.Write(ch);
+						if (py.Length != 0) {
+							writer.Write("(" + py + ")");
+						}
+					}
+				} else {
+					if (py.Length != 0) {
+						pyBuilder.Append(py);
+						pyBuilder.Append(' ');
+					} else {
+						pyBuilder.Append(' ');
+					}
+					hzBuilder.Append(ch);
 				}
 			}
 			
 			public void WriteLine()
 			{
-				outputText.AppendText("\n");
-				if (writer != null) {
-					writer.WriteLine();
+				if (appendPinyin) {
+					outputText.AppendText("\n");
+					if (writer != null) {
+						writer.WriteLine();
+					}
+				} else {
+					outputText.AppendText(pyBuilder.ToString());
+					outputText.AppendText("\n");
+					outputText.AppendText(hzBuilder.ToString());
+					outputText.AppendText("\n");
+					
+					if (writer != null) {
+						writer.WriteLine(pyBuilder.ToString());
+						writer.WriteLine(hzBuilder.ToString());
+					}
+					
+					pyBuilder.Clear();
+					hzBuilder.Clear();
 				}
 			}
 			
@@ -78,13 +107,14 @@ namespace PinYin
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 			baseCheckBox.Checked = true;
+			pinyinCheckBox.Checked = true;
 		}
 		
 		void InputTextTextChanged(object sender, EventArgs e)
 		{
 			outputText.ResetText();
 			
-			output = new Output(outputText, _outputFileName);
+			output = new Output(outputText, _outputFileName, pinyinCheckBox.Checked);
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
 				for (int i = 0; i < line.Length; i++) {

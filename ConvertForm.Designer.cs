@@ -41,6 +41,7 @@ namespace PinYin
 			this.inputText = new System.Windows.Forms.RichTextBox();
 			this.outputText = new System.Windows.Forms.RichTextBox();
 			this.optionPanel = new System.Windows.Forms.Panel();
+			this.pinyinCheckBox = new System.Windows.Forms.CheckBox();
 			this.writeFileCheckBox = new System.Windows.Forms.CheckBox();
 			this.extraCheckBox = new System.Windows.Forms.CheckBox();
 			this.baseCheckBox = new System.Windows.Forms.CheckBox();
@@ -95,6 +96,7 @@ namespace PinYin
 			// 
 			// optionPanel
 			// 
+			this.optionPanel.Controls.Add(this.pinyinCheckBox);
 			this.optionPanel.Controls.Add(this.writeFileCheckBox);
 			this.optionPanel.Controls.Add(this.extraCheckBox);
 			this.optionPanel.Controls.Add(this.baseCheckBox);
@@ -105,12 +107,22 @@ namespace PinYin
 			this.optionPanel.Size = new System.Drawing.Size(639, 30);
 			this.optionPanel.TabIndex = 1;
 			// 
+			// pinyinCheckBox
+			// 
+			this.pinyinCheckBox.Location = new System.Drawing.Point(297, 3);
+			this.pinyinCheckBox.Name = "pinyinCheckBox";
+			this.pinyinCheckBox.Size = new System.Drawing.Size(125, 24);
+			this.pinyinCheckBox.TabIndex = 5;
+			this.pinyinCheckBox.Text = "拼音显示在字后面";
+			this.toolTip.SetToolTip(this.pinyinCheckBox, "勾选时，拼音写在汉字后面；不勾选时，拼音写在汉字上方");
+			this.pinyinCheckBox.UseVisualStyleBackColor = true;
+			// 
 			// writeFileCheckBox
 			// 
-			this.writeFileCheckBox.Location = new System.Drawing.Point(299, 3);
+			this.writeFileCheckBox.Location = new System.Drawing.Point(428, 3);
 			this.writeFileCheckBox.Name = "writeFileCheckBox";
 			this.writeFileCheckBox.Size = new System.Drawing.Size(104, 24);
-			this.writeFileCheckBox.TabIndex = 5;
+			this.writeFileCheckBox.TabIndex = 6;
 			this.writeFileCheckBox.Text = "写文件";
 			this.toolTip.SetToolTip(this.writeFileCheckBox, "转换拖放的文件时，将转换结果写入文件。 写入的文件名为： 原文件名 + \"_convert\" + 原文件后缀");
 			this.writeFileCheckBox.UseVisualStyleBackColor = true;
@@ -160,6 +172,7 @@ namespace PinYin
 			this.optionPanel.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.CheckBox pinyinCheckBox;
 		private System.Windows.Forms.CheckBox writeFileCheckBox;
 		private System.Windows.Forms.ToolTip toolTip;
 		private System.Windows.Forms.CheckBox extraCheckBox;
