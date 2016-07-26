@@ -25,9 +25,16 @@ namespace PinYin
 		{
 			private RichTextBox outputText;
 			private StreamWriter writer = null;
+			/// <summary>
+			/// 拼音是否写在汉字后面。 true: 拼音写在汉字后面;  false: 拼音写在汉字上方。
+			/// </summary>
 			private bool appendPinyin;
 			private StringBuilder pyBuilder = new StringBuilder(10240);
 			private StringBuilder hzBuilder = new StringBuilder(10240);
+			/// <summary>
+			/// 是否已经写了 ruby 标签。 true: 已经写过 ruby 标签;  false: 没有写过
+			/// </summary>
+			private bool writeRuby = false;
 			
 			public Output(RichTextBox outputText, string outputFileName, bool appendPinyin)
 			{
@@ -53,6 +60,8 @@ namespace PinYin
 						}
 					}
 				} else {
+					// 当拼音写在汉字上方时，写在文本框里的内容和写在文件中的内容是两套。
+					// 文本框里的是自己进行简单拼接方式写出的
 					if (py.Length != 0) {
 						pyBuilder.Append(py);
 						pyBuilder.Append(' ');
@@ -60,6 +69,24 @@ namespace PinYin
 						pyBuilder.Append(' ');
 					}
 					hzBuilder.Append(ch);
+					
+					// 写在文件中的内容则时默认是HTML文件，这里利用了<ruby>标签来实现将拼音写在汉字上方 
+					if (writer != null) {
+						if (py.Length != 0) {
+							if (!writeRuby) {
+								writer.Write("<ruby>");
+								writeRuby = true;
+							}
+							writer.Write(ch);
+							writer.Write("<rt>" + py + " </rt>");
+						} else {
+							if (writeRuby) {
+								writer.Write("</ruby>");
+								writeRuby = false;
+							}
+							writer.Write(ch);
+						}
+					}
 				}
 			}
 			
@@ -75,14 +102,16 @@ namespace PinYin
 					outputText.AppendText("\n");
 					outputText.AppendText(hzBuilder.ToString());
 					outputText.AppendText("\n");
-					
-					if (writer != null) {
-						writer.WriteLine(pyBuilder.ToString());
-						writer.WriteLine(hzBuilder.ToString());
-					}
-					
 					pyBuilder.Clear();
 					hzBuilder.Clear();
+					
+					if (writer != null) {
+						if (writeRuby) {
+							writer.Write("</ruby>");
+							writeRuby = false;
+						}
+						writer.WriteLine();
+					}
 				}
 			}
 			
