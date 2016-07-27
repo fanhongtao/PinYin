@@ -32,9 +32,13 @@ namespace PinYin
 			private StringBuilder pyBuilder = new StringBuilder(10240);
 			private StringBuilder hzBuilder = new StringBuilder(10240);
 			/// <summary>
-			/// 是否已经写了 ruby 标签。 true: 已经写过 ruby 标签;  false: 没有写过
+			/// 是否已经写了&lt;ruby&gt;标签。 true: 已经写过&lt;ruby&gt;标签;  false: 没有写过
 			/// </summary>
 			private bool writeRuby = false;
+			/// <summary>
+			/// 是否已经找到了输入文件中的&lt;body&gt;标签。 true: 已找到;  false: 没有找到
+			/// </summary>
+			public bool findBody { get; set; }
 			
 			public Output(RichTextBox outputText, string outputFileName, bool appendPinyin)
 			{
@@ -44,6 +48,7 @@ namespace PinYin
 					writer = new StreamWriter(outputFileName, true, Encoding.UTF8);
 				}
 				this.appendPinyin = appendPinyin;
+				findBody = false;
 			}
 			
 			public void AppendCharacter(string ch, string py)
@@ -72,19 +77,23 @@ namespace PinYin
 					
 					// 写在文件中的内容则时默认是HTML文件，这里利用了<ruby>标签来实现将拼音写在汉字上方 
 					if (writer != null) {
-						if (py.Length != 0) {
-							if (!writeRuby) {
-								writer.Write("<ruby>");
-								writeRuby = true;
-							}
-							writer.Write(ch);
-							writer.Write("<rt>" + py + " </rt>");
+						if (!findBody) {
+							writer.Write(ch);  // HTML文件中<body>之前的汉字，不需要加注拼音
 						} else {
-							if (writeRuby) {
-								writer.Write("</ruby>");
-								writeRuby = false;
+							if (py.Length != 0) {
+								if (!writeRuby) {
+									writer.Write("<ruby>");
+									writeRuby = true;
+								}
+								writer.Write(ch);
+								writer.Write("<rt>" + py + " </rt>");
+							} else {
+								if (writeRuby) {
+									writer.Write("</ruby>");
+									writeRuby = false;
+								}
+								writer.Write(ch);
 							}
-							writer.Write(ch);
 						}
 					}
 				}
@@ -146,6 +155,10 @@ namespace PinYin
 			output = new Output(outputText, _outputFileName, pinyinCheckBox.Checked);
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
+				if (!output.findBody && line.ToLower().StartsWith("<body>")) {
+					output.findBody = true;
+				}
+				
 				for (int i = 0; i < line.Length; i++) {
 					string ch = line.Substring(i, 1);
 
