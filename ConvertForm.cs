@@ -51,6 +51,23 @@ namespace PinYin
 				findBody = false;
 			}
 			
+			/// <summary>
+			/// 输出匹配的词组
+			/// </summary>
+			/// <param name="phrase">匹配的词组</param>
+			/// <param name="writeLog">是否需要在日志中记录</param>
+			/// <param name="isExtra">是否是 extra 中的词组</param>
+			public void AppendPhrase(PhraseInfo phrase, bool writeLog, bool isExtra)
+			{
+				if (writeLog) {
+					string pinyin = string.Join(",", phrase.pinyin);
+					Logger.debug((isExtra ? "Match extra" : "Match") + " [" + phrase.hanzi + "] - (" + pinyin + ")");
+				}
+				for (int idx = 0, len = phrase.hanzi.Length; idx < len; idx++) {
+					AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
+				}
+			}
+			
 			public void AppendCharacter(string ch, string py)
 			{
 				if (appendPinyin) {
@@ -216,13 +233,7 @@ namespace PinYin
 				
 				string temp = line.Substring(i, len);
 				if (temp.Equals(phrase.hanzi)) {
-					if (phraseCheckBox.Checked) {
-						string pinyin = string.Join(",", phrase.pinyin);
-						Logger.debug("Match extra [" + phrase.hanzi + "] - (" + pinyin + ")");
-					}
-					for (int idx = 0; idx < len; idx++) {
-						output.AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
-					}
+					output.AppendPhrase(phrase, phraseCheckBox.Checked, true);
 					return len;
 				}
 			}
@@ -253,13 +264,7 @@ namespace PinYin
 				
 				string temp = line.Substring(i, len);
 				if (temp.Equals(phrase.hanzi)) {
-					if (phraseCheckBox.Checked) {
-						string pinyin = string.Join(",", phrase.pinyin);
-						Logger.debug("Match [" + phrase.hanzi + "] - (" + pinyin + ")");
-					}
-					for (int idx = 0; idx < len; idx++) {
-						output.AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
-					}
+					output.AppendPhrase(phrase, phraseCheckBox.Checked, false);
 					return len;
 				}
 			}
