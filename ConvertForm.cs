@@ -40,6 +40,9 @@ namespace PinYin
 			/// </summary>
 			public bool findBody { get; set; }
 			
+			private string prevHanzi = null;
+			private string prevPinyin = null;
+			
 			public Output(RichTextBox outputText, string outputFileName, bool appendPinyin)
 			{
 				this.outputText = outputText;
@@ -63,12 +66,53 @@ namespace PinYin
 					string pinyin = string.Join(",", phrase.pinyin);
 					Logger.debug((isExtra ? "Match extra" : "Match") + " [" + phrase.hanzi + "] - (" + pinyin + ")");
 				}
+				if (prevHanzi != null) {
+					CheckPrevHanzi(phrase.hanzi.Substring(0, 1), phrase.pinyin[0]);
+				}
 				for (int idx = 0, len = phrase.hanzi.Length; idx < len; idx++) {
-					AppendCharacter(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
+					Append(phrase.hanzi.Substring(idx, 1), phrase.pinyin[idx]);
 				}
 			}
 			
 			public void AppendCharacter(string ch, string py)
+			{
+				if (prevHanzi != null) {
+					CheckPrevHanzi(ch, py);
+				}
+				
+				if (ch.Equals("不")) {
+					prevHanzi = ch;
+					prevPinyin = py;
+				} else {
+					Append(ch, py);
+				}
+			}
+			
+			/// <summary>
+			/// 处理之前没有明确定下音调的汉字
+			/// </summary>
+			/// <param name="ch">当前处理的汉字</param>
+			/// <param name="py">当前处理的汉字对应的拼音</param>
+			private void CheckPrevHanzi(string ch, string py)
+			{
+				if (prevHanzi.Equals("不")) {
+					int tone = StringTools.GetTone(py);
+					if (tone == 4) {
+						if (!prevPinyin.Equals("")) {
+							Append("不", "bú");
+						}
+					} else {
+						Append(prevHanzi, prevPinyin);
+					}
+				} else {
+					Logger.error("Unsupported hanzi " + prevHanzi);
+				}
+				
+				prevHanzi = null;
+				prevPinyin = null;
+			}
+			
+			private void Append(string ch, string py)
 			{
 				if (appendPinyin) {
 					outputText.AppendText(ch);

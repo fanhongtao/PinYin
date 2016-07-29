@@ -7,6 +7,7 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.Text.RegularExpressions;
 
 namespace PinYin
 {
@@ -55,6 +56,26 @@ namespace PinYin
 			} else {
 				return true;
 			}
+		}
+		
+		/// <summary>
+		/// 获取一个汉字的声调
+		/// </summary>
+		/// <param name="pinyin">汉字的拼音</param>
+		/// <returns>拼音的声调。 1: 一声； 2: 二声； 3: 三声； 4: 四声； 0：轻声（没有声调）</returns>
+		public static int GetTone(string pinyin)
+		{
+			int tone = 0;
+			if (Regex.IsMatch(pinyin, "[āēīōūǖ]")) {
+				tone = 1;
+			} else if (Regex.IsMatch(pinyin, "[áéíóúǘń]")) {
+				tone = 2;
+			} else if (Regex.IsMatch(pinyin, "[ǎěǐǒǔǚň]")) {
+				tone = 3;
+			} else if (Regex.IsMatch(pinyin, "[àèìòùǜǹ]")) {
+				tone = 4;
+			}
+			return tone;
 		}
 	}
 }
