@@ -19,17 +19,17 @@ namespace PinYin
 	/// </summary>
 	public sealed class PinYinInfo
 	{
-		string CHAR = "char";
-		string PHRASE = "phrase";
-		string HZ = "hz";
-		string PY = "py";
-		string MULTI = "multi";
-		string MAIN = "main";
-		string TRANS = "trans";
-		string DEFINITION = "definition";
-		string ID = "id";
-		string ITEM = "item";
-		string TEXT = "text";
+		const string CHAR = "char";
+		const string PHRASE = "phrase";
+		const string HZ = "hz";
+		const string PY = "py";
+		const string MULTI = "multi";
+		const string MAIN = "main";
+		const string TRANS = "trans";
+		const string DEFINITION = "definition";
+		const string ID = "id";
+		const string ITEM = "item";
+		const string TEXT = "text";
 		
 		static string[] TARGET_ID =  {"一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十"};
 		static Dictionary<string, int> ID_MAP = new Dictionary<string, int>();
@@ -283,6 +283,11 @@ namespace PinYin
 					if (!ids[i].Equals(TARGET_ID[i])) {
 						throw new InvalidDataException("Bad definition ID for [" + charInfo.hanzi + "]， expect [" + TARGET_ID[i] + "], actual [" + ids[i] + "].");
 					}
+				}
+				
+				// 对主音ID不是“一”的多音字进行提示
+				if (!charInfo.definitions[0].id.Equals("一")) {
+					Logger.debug("Character [" + charInfo.hanzi + "] has set ID (" + charInfo.definitions[0].id + ") as MAIN");
 				}
 			}
 		}
