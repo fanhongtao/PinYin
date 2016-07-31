@@ -86,17 +86,20 @@ namespace PinYin
 				if (charInfo.definitions[i] == null) {
 					outputText.AppendText("\n");
 				} else {
-					showDefinition(charInfo.definitions[i]);
+					showDefinition(charInfo.definitions[i], charInfo.pinyins[i].Equals(charInfo.main));
 				}
 				outputText.AppendText("\n");
 			}
 		}
 		
 		// 显示一个字的某个定义
-		private void showDefinition(DefinitionInfo definition)
+		private void showDefinition(DefinitionInfo definition, bool main)
 		{
 			if (definition.id.Length != 0) {
 				outputText.AppendText("  (" + definition.id + ")");
+				if (main) {
+					outputText.AppendText(" (主音) ");
+				}
 			}
 			outputText.AppendText("\n");
 			for (int i = 0; i < definition.items.Length; i++) {
