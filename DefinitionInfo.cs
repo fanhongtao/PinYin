@@ -11,12 +11,23 @@ using System;
 namespace PinYin
 {
 	/// <summary>
-	/// Description of DefinitionInfo.
+	/// 汉字的定义
 	/// </summary>
 	public class DefinitionInfo
 	{
-		public string id { get; set; }     // 字的ID（编号）（非多音字，没有编号，字段值为""）
-		public string text { get; set; }   // 字的通用描述（适用于所有 item）（也可能没有描述，，字段值为""）
-		public ItemInfo[] items { get; set; }  // 具体的定义
+		/// <summary>
+		/// 字的ID（编号）（非多音字，没有编号，字段值为""）
+		/// </summary>
+		public string id { get; set; }
+		
+		/// <summary>
+		/// 字的通用描述（适用于所有 item）（也可能没有描述，，字段值为""）
+		/// </summary>
+		public string text { get; set; }
+		
+		/// <summary>
+		/// 具体的定义
+		/// </summary>
+		public ItemInfo[] items { get; set; } 
 	}
 }

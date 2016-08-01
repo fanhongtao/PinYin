@@ -11,11 +11,18 @@ using System;
 namespace PinYin
 {
 	/// <summary>
-	/// Description of ItemInfo.
+	/// 汉字定义中的某一个具体解释
 	/// </summary>
 	public class ItemInfo
 	{
-		public string id { get; set; }     // 字的释意的ID（编号）
-		public string text { get; set; }   // 字的释意的具体描述
+		/// <summary>
+		/// 字的释意的ID（编号）
+		/// </summary>
+		public string id { get; set; }
+		
+		/// <summary>
+		/// 字的释意的具体描述
+		/// </summary>
+		public string text { get; set; } 
 	}
 }

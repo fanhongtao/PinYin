@@ -15,7 +15,7 @@ using System.Xml;
 namespace PinYin
 {
 	/// <summary>
-	/// Description of ExtraInfo.
+	/// 读取并保存 pinyin/extra 目录下的内容 及 所拖放文件对应的 extra 文件中的内容
 	/// </summary>
 	public class ExtraInfo
 	{
@@ -24,8 +24,20 @@ namespace PinYin
 		const string PY = "py";
 		
 		private static ExtraInfo instance = new ExtraInfo();
+		
+		/// <summary>
+		/// <para>读取的 pinyin/extra 目录下的内容 及 所拖放文件对应的 extra 文件中的内容</para>
+		/// <para>1. Hashtable的key 是单个汉字</para>
+		/// <para>2. Hashtable的value 是 CharInfo 类型的数据</para>
+		/// <para>3. CharInfo 数据只有 hanzi 和 phrase 两个值是有效值</para>
+		/// </summary>
 		private Hashtable hashTable = new Hashtable();
+		
 		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
+		
+		/// <summary>
+		/// 最后一次读取的（拖放文件对应的） extra 文件的完整文件名
+		/// </summary>
 		private string lastExtraFile = "";
 		
 		public static ExtraInfo Instance {

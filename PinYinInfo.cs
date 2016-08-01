@@ -15,7 +15,7 @@ using System.Xml;
 namespace PinYin
 {
 	/// <summary>
-	/// Description of PinYinInfo.
+	/// 读取并保存 pinyin/base 目录下的内容
 	/// </summary>
 	public sealed class PinYinInfo
 	{
@@ -50,7 +50,14 @@ namespace PinYin
 		}
 		
 		private static PinYinInfo instance = new PinYinInfo();
+		
+		/// <summary>
+		/// <para>读取的 pinyin/base 目录下的内容</para>
+		/// <para>1. Hashtable的key 是单个汉字</para>
+		/// <para>2. Hashtable的value 是 CharInfo 类型的数据</para>
+		/// </summary>
 		private Hashtable hashTable = new Hashtable();
+		
 		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
 		
 		public static PinYinInfo Instance {
