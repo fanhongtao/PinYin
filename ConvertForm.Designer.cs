@@ -134,7 +134,7 @@ namespace PinYin
 			this.extraCheckBox.Size = new System.Drawing.Size(104, 24);
 			this.extraCheckBox.TabIndex = 4;
 			this.extraCheckBox.Text = "使用扩展词库";
-			this.toolTip.SetToolTip(this.extraCheckBox, "pinyin/extra目录下的内容");
+			this.toolTip.SetToolTip(this.extraCheckBox, "在转换过程中，使用 pinyin/extra 目录下记录的词进行匹配。如果是转换拖放的文件，还包括该文件对应的扩展词库文件中的内容。");
 			this.extraCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// baseCheckBox
@@ -144,7 +144,7 @@ namespace PinYin
 			this.baseCheckBox.Size = new System.Drawing.Size(104, 24);
 			this.baseCheckBox.TabIndex = 3;
 			this.baseCheckBox.Text = "使用基本词库";
-			this.toolTip.SetToolTip(this.baseCheckBox, "pinyin/base目录下的内容");
+			this.toolTip.SetToolTip(this.baseCheckBox, "在转换过程中，使用 pinyin/base 目录下记录的字、词进行匹配。");
 			this.baseCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// phraseCheckBox
@@ -154,6 +154,7 @@ namespace PinYin
 			this.phraseCheckBox.Size = new System.Drawing.Size(106, 18);
 			this.phraseCheckBox.TabIndex = 2;
 			this.phraseCheckBox.Text = "显示匹配词组";
+			this.toolTip.SetToolTip(this.phraseCheckBox, "在转换过程中，如果匹配到词库中的词组，是否需要在日志中记录匹配结果。");
 			this.phraseCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// ConvertForm

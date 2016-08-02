@@ -207,6 +207,7 @@ namespace PinYin
 			//
 			baseCheckBox.Checked = true;
 			pinyinCheckBox.Checked = true;
+			ShowHelpMessage();
 		}
 		
 		void InputTextTextChanged(object sender, EventArgs e)
@@ -390,6 +391,38 @@ namespace PinYin
 				inputExtraFileName = path + Path.DirectorySeparatorChar + name + "_extra.xml";
 			}
 			return inputExtraFileName;
+		}
+		
+		/// <summary>
+		/// （程序启动时）在 outputText 中显示程序的帮助信息 
+		/// </summary>
+		private void ShowHelpMessage()
+		{
+			outputText.AppendText("拼音转换器 V1.0\n");
+			outputText.AppendText("\n");
+			
+			outputText.AppendText("在左边的文本框中输入需要转换的文字，或者将一个文本文件（如 .txt, .html）拖放到左边的文本框，即可在本处显示转换后的结果。\n");
+			outputText.AppendText("\n");
+			
+			outputText.AppendText("词库说明：\n");
+			outputText.AppendText("* 基本词库：根据《新华字典》 整理而成，后又补充了一些常见的词语。\n");
+			outputText.AppendText("* 扩展词库：扩展词库分为两部分\n");
+			outputText.AppendText("\t其一，存放在 pinyin/extra 目录的内容，主要考虑存放一些专有名词，可根据学科、宗教等进行划分。\n");
+			outputText.AppendText("\t其二，如果是转换拖放的文件，还会试图在文件所在目录下，读取与该文件匹配的扩展词库文件。\n");
+			outputText.AppendText("\t\t文件名格式： 拖放的文件名 + \"_extra.xml\"。\n");
+			outputText.AppendText("\t\t这个文件主要存放所转换文件中出现的一些特殊的注音。参考 demo 目录下的例子。\n");
+			outputText.AppendText("* 转换过程中，如果有勾选“使用扩展词库”，则会优先根据扩展词库中的词来判断。\n");
+			outputText.AppendText("\n");
+			
+			outputText.AppendText("关于“写文件”功能的说明：\n");
+			outputText.AppendText("* 只有在左边的文本框中拖放文件时，才支持写文件，并且写入的文件名是固定的（见“写文件”的Tips）。\n");
+			outputText.AppendText("* 根据是否勾选“拼音显示在字后面”，会影响写入的内容：。\n");
+			outputText.AppendText("\t勾选，则写入文件的内容与在此文本框中显示的内容完全相同。\n");
+			outputText.AppendText("\t不勾选，则写文件时，程序认为拖放的是一个HTML文件，仅对其 <body> 标签后面的内容进行转换。\n");
+			outputText.AppendText("\t\t而文本框中的内容则是当作普通文件来转换，没有处理对齐，结果仅供参考。\n");
+			outputText.AppendText("\n");
+			
+			outputText.AppendText("如果对程序有什么建议、意见、或Bug反馈，可发送邮件至 fanhongtao@gmail.com , 记得在标题中带上关键字“拼音”。");
 		}
 	}
 }
