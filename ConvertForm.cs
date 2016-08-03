@@ -48,7 +48,7 @@ namespace PinYin
 				this.outputText = outputText;
 				if (outputFileName != null) {
 					Logger.info("Write to file: " + outputFileName);
-					writer = new StreamWriter(outputFileName, true, Encoding.UTF8);
+					writer = new StreamWriter(outputFileName, false, Encoding.UTF8);
 				}
 				this.appendPinyin = appendPinyin;
 				findBody = false;
