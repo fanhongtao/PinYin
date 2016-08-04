@@ -33,7 +33,10 @@ namespace PinYin
 		/// </summary>
 		private Hashtable hashTable = new Hashtable();
 		
-		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
+		/// <summary>
+		/// 保存所有的词组，供“汉字查询”界面显示使用
+		/// </summary>
+		private List<PhraseInfo> allPhrases;
 		
 		/// <summary>
 		/// 最后一次读取的（拖放文件对应的） extra 文件的完整文件名
@@ -55,7 +58,7 @@ namespace PinYin
 			lastExtraFile = inputExtraFileName;
 			
 			hashTable = new Hashtable();
-			tmpPhrases = new List<PhraseInfo>();
+			allPhrases = new List<PhraseInfo>();
 			DirectoryInfo dir = new DirectoryInfo("pinyin/extra");
 			FileInfo[] files = dir.GetFiles("*.xml");
 			foreach (FileInfo file in files) {
@@ -66,7 +69,6 @@ namespace PinYin
 			}
 			adjustPhrase();
 			Logger.info("Extra dir load finished.");
-			tmpPhrases = null; // 清除临时数据
 		}
 		
 		private void loadOneFile(string fileName)
@@ -101,7 +103,7 @@ namespace PinYin
 				                               + "]， pinyin [" + py + "]");
 			}
 			phraseInfo.pinyin = pinyin;
-			tmpPhrases.Add(phraseInfo);
+			allPhrases.Add(phraseInfo);
 		}
 		
 		/// <summary>
@@ -110,7 +112,7 @@ namespace PinYin
 		private void adjustPhrase()
 		{
 			CharInfo charInfo;
-			foreach (PhraseInfo phraseInfo in tmpPhrases) {
+			foreach (PhraseInfo phraseInfo in allPhrases) {
 				// 将词组存放在该词组首个汉字的名下
 				string firstChar = phraseInfo.hanzi.Substring(0, 1);
 				charInfo = (CharInfo) hashTable[firstChar];
@@ -127,6 +129,22 @@ namespace PinYin
 		{
 			CharInfo charInfo = (CharInfo) hashTable[ch];
 			return charInfo;
+		}
+		
+		/// <summary>
+		/// 返回包含某一个汉字的所有词组
+		/// </summary>
+		/// <param name="hanzi">待查询的汉字</param>
+		/// <returns>包括该汉字的所有词组。如果该汉字没有词组，则返回一个没有元素的List</returns>
+		public List<PhraseInfo> GetPhraseList(string hanzi)
+		{
+			List<PhraseInfo> list = new List<PhraseInfo>();
+			foreach (PhraseInfo phraseInfo in allPhrases) {
+				if (phraseInfo.hanzi.Contains(hanzi)) {
+					list.Add(phraseInfo);
+				}
+			}
+			return list;
 		}
 	}
 }

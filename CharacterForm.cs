@@ -7,6 +7,7 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -90,6 +91,8 @@ namespace PinYin
 				}
 				outputText.AppendText("\n");
 			}
+			showPhrase("基本词库", PinYinInfo.Instance.GetPhraseList(charInfo.hanzi));
+			showPhrase("扩展词库", ExtraInfo.Instance.GetPhraseList(charInfo.hanzi));
 		}
 		
 		// 显示一个字的某个定义
@@ -108,6 +111,24 @@ namespace PinYin
 					outputText.AppendText(definition.items[i].id + " ");
 				}
 				outputText.AppendText(definition.items[i].text + "\n");
+			}
+		}
+		
+		/// <summary>
+		/// 显示词组列表
+		/// </summary>
+		/// <param name="title">列表的标题</param>
+		/// <param name="list">所要显示的词组列表</param>
+		private void showPhrase(string title, List<PhraseInfo> list)
+		{
+			if (list.Count > 0) {
+				outputText.AppendText("\t" + title + "：\n");
+				foreach (PhraseInfo phraseInfo in list) {
+					outputText.AppendText("\t\t" + phraseInfo.hanzi + " - ");
+					outputText.AppendText(string.Join(",", phraseInfo.pinyin));
+					outputText.AppendText("\n");
+				}
+				outputText.AppendText("\n");
 			}
 		}
 	}

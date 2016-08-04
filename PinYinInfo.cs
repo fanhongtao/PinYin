@@ -58,7 +58,10 @@ namespace PinYin
 		/// </summary>
 		private Hashtable hashTable = new Hashtable();
 		
-		private List<PhraseInfo> tmpPhrases;   // 汉字对应的词组（仅在读取XML时临时存放）
+		/// <summary>
+		/// 保存所有的词组，供“汉字查询”界面显示使用
+		/// </summary>
+		private List<PhraseInfo> allPhrases;		
 		
 		public static PinYinInfo Instance {
 			get {
@@ -68,7 +71,7 @@ namespace PinYin
 		
 		private PinYinInfo()
 		{
-			tmpPhrases = new List<PhraseInfo>();
+			allPhrases = new List<PhraseInfo>();
 		}
 		
 		public void load()
@@ -184,7 +187,7 @@ namespace PinYin
 					                               + "]， pinyin [" + py + "]");
 				}
 				phraseInfo.pinyin = pinyin;
-				tmpPhrases.Add(phraseInfo);
+				allPhrases.Add(phraseInfo);
 			}
 		}
 		
@@ -242,7 +245,7 @@ namespace PinYin
 		private void adjustPhrase()
 		{
 			CharInfo charInfo;
-			foreach (PhraseInfo phraseInfo in tmpPhrases) {
+			foreach (PhraseInfo phraseInfo in allPhrases) {
 				// 检查词组中的字是否都已经存在
 				for (int i = 0; i < phraseInfo.hanzi.Length; i++) {
 					string character = phraseInfo.hanzi.Substring(i, 1);
@@ -258,7 +261,6 @@ namespace PinYin
 				charInfo = (CharInfo) hashTable[firstChar];
 				charInfo.phrases.Add(phraseInfo);
 			}
-			tmpPhrases = null; // 清除临时数据
 		}
 		
 		// 检查多音字
@@ -303,6 +305,22 @@ namespace PinYin
 		{
 			CharInfo charInfo = (CharInfo) hashTable[ch];
 			return charInfo;
+		}
+		
+		/// <summary>
+		/// 返回包含某一个汉字的所有词组
+		/// </summary>
+		/// <param name="hanzi">待查询的汉字</param>
+		/// <returns>包括该汉字的所有词组。如果该汉字没有词组，则返回一个没有元素的List</returns>
+		public List<PhraseInfo> GetPhraseList(string hanzi)
+		{
+			List<PhraseInfo> list = new List<PhraseInfo>();
+			foreach (PhraseInfo phraseInfo in allPhrases) {
+				if (phraseInfo.hanzi.Contains(hanzi)) {
+					list.Add(phraseInfo);
+				}
+			}
+			return list;
 		}
 	}
 }
