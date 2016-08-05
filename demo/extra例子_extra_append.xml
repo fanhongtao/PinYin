@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<book name="Extra例子"/>
+	<phrase hz="啊，这花" py="ā,,," />
+	<phrase hz="啊，你说" py="á,,," />
+	<phrase hz="啊，这是" py="ǎ,,," />
+	<phrase hz="啊，伟大" py="à,,," />
+	<phrase hz="加油干啊" py=",,,a" />
+</extra>
