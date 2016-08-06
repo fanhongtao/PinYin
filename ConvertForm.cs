@@ -168,8 +168,10 @@ namespace PinYin
 						writer.WriteLine();
 					}
 				} else {
-					outputText.AppendText(pyBuilder.ToString());
-					outputText.AppendText("\n");
+					if ((pyBuilder.ToString().Trim().Length > 0)) { // 仅当有拼音时才显示
+						outputText.AppendText(pyBuilder.ToString());
+						outputText.AppendText("\n");
+					}
 					outputText.AppendText(hzBuilder.ToString());
 					outputText.AppendText("\n");
 					pyBuilder.Clear();
