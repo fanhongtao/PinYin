@@ -7,6 +7,7 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Text;
@@ -21,6 +22,12 @@ namespace PinYin
 	{
 		private string _outputFileName = null;
 		private Output output = null;
+		
+		/// <summary>
+		/// 转换过程中遇到的多音字的集合
+		/// </summary>
+		private HashSet<string> multiSet = new HashSet<string>();
+		
 		class Output
 		{
 			private RichTextBox outputText;
@@ -215,6 +222,7 @@ namespace PinYin
 		void InputTextTextChanged(object sender, EventArgs e)
 		{
 			outputText.ResetText();
+			multiSet.Clear();
 			
 			output = new Output(outputText, _outputFileName, pinyinCheckBox.Checked);
 			string[] lines = inputText.Lines;
@@ -317,6 +325,9 @@ namespace PinYin
 			}
 			
 			output.AppendCharacter(ch, charInfo.pinyins[0]);
+			if (charInfo.multi && multiSet.Add(ch)) {
+				Logger.debug("Meet polyphone [" + ch + "]");
+			}
 			return 1;
 		}
 		
