@@ -17,26 +17,13 @@ namespace PinYin
 	/// <summary>
 	/// 读取并保存 pinyin/extra 目录下的内容 及 所拖放文件对应的 extra 文件中的内容
 	/// </summary>
-	public class ExtraInfo
+	public class ExtraInfo : AbstractPinYinInfo
 	{
 		const string PHRASE = "phrase";
 		const string HZ = "hz";
 		const string PY = "py";
 		
 		private static ExtraInfo instance = new ExtraInfo();
-		
-		/// <summary>
-		/// <para>读取的 pinyin/extra 目录下的内容 及 所拖放文件对应的 extra 文件中的内容</para>
-		/// <para>1. Hashtable的key 是单个汉字</para>
-		/// <para>2. Hashtable的value 是 CharInfo 类型的数据</para>
-		/// <para>3. CharInfo 数据只有 hanzi 和 phrase 两个值是有效值</para>
-		/// </summary>
-		private Hashtable hashTable = new Hashtable();
-		
-		/// <summary>
-		/// 保存所有的词组，供“汉字查询”界面显示使用
-		/// </summary>
-		private List<PhraseInfo> allPhrases;
 		
 		/// <summary>
 		/// 最后一次读取的（拖放文件对应的） extra 文件的完整文件名
@@ -49,7 +36,7 @@ namespace PinYin
 			}
 		}
 		
-		public void load(string inputExtraFileName)
+		public void Load(string inputExtraFileName)
 		{
 			if (string.Equals(lastExtraFile, inputExtraFileName)) {
 				// Logger.debug("Skip loading extra.");
@@ -123,28 +110,6 @@ namespace PinYin
 				}
 				charInfo.phrases.Add(phraseInfo);
 			}
-		}
-		
-		public CharInfo getCharInfo(string ch)
-		{
-			CharInfo charInfo = (CharInfo) hashTable[ch];
-			return charInfo;
-		}
-		
-		/// <summary>
-		/// 返回包含某一个汉字的所有词组
-		/// </summary>
-		/// <param name="hanzi">待查询的汉字</param>
-		/// <returns>包括该汉字的所有词组。如果该汉字没有词组，则返回一个没有元素的List</returns>
-		public List<PhraseInfo> GetPhraseList(string hanzi)
-		{
-			List<PhraseInfo> list = new List<PhraseInfo>();
-			foreach (PhraseInfo phraseInfo in allPhrases) {
-				if (phraseInfo.hanzi.Contains(hanzi)) {
-					list.Add(phraseInfo);
-				}
-			}
-			return list;
 		}
 	}
 }

@@ -17,7 +17,7 @@ namespace PinYin
 	/// <summary>
 	/// 读取并保存 pinyin/base 目录下的内容
 	/// </summary>
-	public sealed class PinYinInfo
+	public sealed class PinYinInfo : AbstractPinYinInfo
 	{
 		const string CHAR = "char";
 		const string PHRASE = "phrase";
@@ -51,18 +51,6 @@ namespace PinYin
 		
 		private static PinYinInfo instance = new PinYinInfo();
 		
-		/// <summary>
-		/// <para>读取的 pinyin/base 目录下的内容</para>
-		/// <para>1. Hashtable的key 是单个汉字</para>
-		/// <para>2. Hashtable的value 是 CharInfo 类型的数据</para>
-		/// </summary>
-		private Hashtable hashTable = new Hashtable();
-		
-		/// <summary>
-		/// 保存所有的词组，供“汉字查询”界面显示使用
-		/// </summary>
-		private List<PhraseInfo> allPhrases;		
-		
 		public static PinYinInfo Instance {
 			get {
 				return instance;
@@ -71,10 +59,11 @@ namespace PinYin
 		
 		private PinYinInfo()
 		{
+			hashTable = new Hashtable();
 			allPhrases = new List<PhraseInfo>();
 		}
 		
-		public void load()
+		public void Load()
 		{
 			loadBase();
 			Logger.info("Load finished.");
@@ -299,28 +288,6 @@ namespace PinYin
 					Logger.debug("Character [" + charInfo.hanzi + "] has set ID (" + charInfo.definitions[0].id + ") as MAIN");
 				}
 			}
-		}
-		
-		public CharInfo getCharInfo(string ch)
-		{
-			CharInfo charInfo = (CharInfo) hashTable[ch];
-			return charInfo;
-		}
-		
-		/// <summary>
-		/// 返回包含某一个汉字的所有词组
-		/// </summary>
-		/// <param name="hanzi">待查询的汉字</param>
-		/// <returns>包括该汉字的所有词组。如果该汉字没有词组，则返回一个没有元素的List</returns>
-		public List<PhraseInfo> GetPhraseList(string hanzi)
-		{
-			List<PhraseInfo> list = new List<PhraseInfo>();
-			foreach (PhraseInfo phraseInfo in allPhrases) {
-				if (phraseInfo.hanzi.Contains(hanzi)) {
-					list.Add(phraseInfo);
-				}
-			}
-			return list;
 		}
 	}
 }

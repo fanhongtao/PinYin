@@ -34,8 +34,8 @@ namespace PinYin
 			Logger.SetTextBox(logTextBox);
 			Logger.info("Program start.");
 			
-			PinYinInfo.Instance.load();
-			ExtraInfo.Instance.load(null);
+			PinYinInfo.Instance.Load();
+			ExtraInfo.Instance.Load(null);
 		}
 		
 		// 在TabPage中显示对应的Form

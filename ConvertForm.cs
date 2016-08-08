@@ -274,7 +274,7 @@ namespace PinYin
 		private int matchExtra(string line, int i, string ch)
 		{
 			ExtraInfo extraInfo = ExtraInfo.Instance;
-			CharInfo charInfo = extraInfo.getCharInfo(ch);
+			CharInfo charInfo = extraInfo.GetCharInfo(ch);
 			if (charInfo == null) {
 				return 0;
 			}
@@ -306,7 +306,7 @@ namespace PinYin
 		private int matchBase(string line, int i, string ch)
 		{
 			PinYinInfo baseInfo = PinYinInfo.Instance;
-			CharInfo charInfo = baseInfo.getCharInfo(ch);
+			CharInfo charInfo = baseInfo.GetCharInfo(ch);
 			if (charInfo == null) {
 				return 0;
 			}
@@ -370,7 +370,7 @@ namespace PinYin
 			if (!File.Exists(inputExtraFileName)) {
 				inputExtraFileName = null;
 			}
-			ExtraInfo.Instance.load(inputExtraFileName);
+			ExtraInfo.Instance.Load(inputExtraFileName);
 		}
 		
 		/// <summary>

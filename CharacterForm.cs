@@ -56,7 +56,7 @@ namespace PinYin
 			PinYinInfo info = PinYinInfo.Instance;
 			for (int i = 0; i < line.Length; i++) {
 				string ch = line.Substring(i, 1);
-				CharInfo charInfo = info.getCharInfo(ch);
+				CharInfo charInfo = info.GetCharInfo(ch);
 				if (charInfo == null) {
 					if (StringTools.IsChineseCharacter(ch)) {
 						// 找不到相应的字，给出相应的提示
