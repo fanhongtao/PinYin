@@ -9,6 +9,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 
 namespace PinYin
 {
@@ -58,6 +59,27 @@ namespace PinYin
 				}
 			}
 			return list;
+		}
+		
+		/// <summary>
+		/// 向字符中添加一个词组。添加前，会对重复的词组进行过滤
+		/// </summary>
+		/// <param name="charInfo">词组中第一个汉字的信息</param>
+		/// <param name="phraseInfo">待添加的词组</param>
+		protected void AddPhrase(CharInfo charInfo, PhraseInfo phraseInfo)
+		{
+			foreach (PhraseInfo old in charInfo.phrases) {
+				if (old.hanzi.Equals(phraseInfo.hanzi)) {
+					string oldPinyin = string.Join(",", old.pinyin);
+					string newPinyin = string.Join(",", phraseInfo.pinyin);
+					if (oldPinyin.Equals(newPinyin)) {
+						return;  // 汉字和拼音都相同，则不加入，直接返回
+					} else {
+						throw new InvalidDataException("Different pinyin for [" + phraseInfo.hanzi + "], old (" + oldPinyin + "), new (" + newPinyin + ")");
+					}
+				}
+			}
+			charInfo.phrases.Add(phraseInfo);
 		}
 	}
 }

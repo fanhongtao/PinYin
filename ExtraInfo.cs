@@ -108,7 +108,7 @@ namespace PinYin
 					charInfo.hanzi = firstChar;
 					hashTable.Add(firstChar, charInfo);
 				}
-				charInfo.phrases.Add(phraseInfo);
+				AddPhrase(charInfo, phraseInfo);
 			}
 		}
 	}

@@ -248,7 +248,7 @@ namespace PinYin
 				// 将词组存放在该词组首个汉字的名下
 				string firstChar = phraseInfo.hanzi.Substring(0, 1);
 				charInfo = (CharInfo) hashTable[firstChar];
-				charInfo.phrases.Add(phraseInfo);
+				AddPhrase(charInfo, phraseInfo);
 			}
 		}
 		
