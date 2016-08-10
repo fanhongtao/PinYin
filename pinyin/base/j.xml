@@ -1558,7 +1558,7 @@
 	<char hz="攫" py="jué" />
 	<char hz="" py="jué" />
 	<char hz="蹶" py="juě" multi="jué" info="Word主音">
-		<phrase hz="尥蹶子" py="liào,jué,zi" />
+		<phrase hz="尥蹶子" py="liào,juě,zi" />
 		<definition id="二">
 			<item text="[尥蹶子](liào-zi)骡马等跳起来用后腿向后踢。" />
 		</definition>

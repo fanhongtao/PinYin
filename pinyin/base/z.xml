@@ -1592,8 +1592,8 @@
 	<char hz="梓" py="zǐ" />
 	<char hz="滓" py="zǐ" />
 	<char hz="自" py="zì">
-		<phrase hz="自个儿" py="zì,gě,r" />
-		<phrase hz="自各儿" py="zì,gě,r" />
+		<phrase hz="自个儿" py="zì,gěr," />
+		<phrase hz="自各儿" py="zì,gěr," />
 		<phrase hz="自在" py="zì,zai" />
 	</char>
 	<char hz="字" py="zì" />

@@ -396,7 +396,7 @@
 		</definition>
 	</char>
 	<char hz="个" py="gě" multi="gè">
-		<phrase hz="自个儿" py="zì,gě,er" />
+		<phrase hz="自个儿" py="zì,gěr," />
 		<definition id="二">
 			<item text="[自个儿]自己。" />
 		</definition>
