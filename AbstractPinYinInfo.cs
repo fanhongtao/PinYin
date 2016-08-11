@@ -62,12 +62,15 @@ namespace PinYin
 		}
 		
 		/// <summary>
-		/// 向字符中添加一个词组。添加前，会对重复的词组进行过滤
+		/// 向字符中添加一个词组：
+		/// <para>  1. 添加前，会对重复的词组进行过滤</para>
+		/// <para>  2. 添加时，会按照词组的长度降序排序（长的词在前面）</para>
 		/// </summary>
 		/// <param name="charInfo">词组中第一个汉字的信息</param>
 		/// <param name="phraseInfo">待添加的词组</param>
 		protected void AddPhrase(CharInfo charInfo, PhraseInfo phraseInfo)
 		{
+			// 检查是否和有的词组重复
 			foreach (PhraseInfo old in charInfo.phrases) {
 				if (old.hanzi.Equals(phraseInfo.hanzi)) {
 					string oldPinyin = string.Join(",", old.pinyin);
@@ -79,7 +82,15 @@ namespace PinYin
 					}
 				}
 			}
-			charInfo.phrases.Add(phraseInfo);
+			
+			// 按词组的长度排序（长的在前面，短的在后面）
+			int idx = 0;
+			for (; idx < charInfo.phrases.Count; idx++) {
+				if (phraseInfo.hanzi.Length >= charInfo.phrases[idx].hanzi.Length) {
+					break;
+				}
+			}
+			charInfo.phrases.Insert(idx, phraseInfo);
 		}
 	}
 }

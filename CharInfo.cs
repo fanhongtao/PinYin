@@ -52,7 +52,9 @@ namespace PinYin
 		public List<DefinitionInfo> definitions;
 		
 		/// <summary>
-		/// 汉字对应的词组（这里只记录以本汉字开头的词组，而不是所有包括本汉字的词组）
+		/// 汉字对应的词组
+		/// <para>  1. 这里只记录以本汉字开头的词组，而不是所有包括本汉字的词组 </para>
+		/// <para>  2. 按词组的长度降序排序（长的词在前面），确保长的词组优先匹配 </para>
 		/// </summary>
 		public List<PhraseInfo> phrases;
 		
