@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="亨" py="hēng" />
+	<char hz="哼" py="hēng" multi="hng" main="1">
+		<definition id="一">
+			<item id="1" text="鼻子发出痛苦的声音：他病很重，却从不~一声." />
+			<item id="2" text="轻声随口地唱：他一面走一面~着歌." />
+		</definition>
+	</char>
+	<char hz="脝" py="hēng" />
+	<char hz="啈" py="hēng" />
+	<char hz="恒" py="héng" />
+	<char hz="姮" py="héng" />
+	<char hz="珩" py="héng" />
+	<char hz="桁" py="héng" />
+	<char hz="鸻" py="héng" />
+	<char hz="衡" py="héng" />
+	<char hz="蘅" py="héng" />
+	<char hz="横" py="héng" multi="hèng" main="1">
+		<definition id="一">
+			<item id="1" text="跟着地面平行的，跟“竖”、“直”相对：~额. ~梁." />
+			<item id="2" text="地理上指东西向的，跟“纵”相对：~渡太平洋." />
+			<item id="3" text="从左到右或从右到左的，跟“竖”、“直”、“纵”相对：~写." />
+			<item id="4" text="跟物体的长的一边垂直的，跟“竖”、“直”、“纵”相对：~剖面. 人行~道." />
+			<item id="5" text="使物体成横向：把扁担~过来." />
+			<item id="6" text="纵横杂乱：蔓草~生." />
+			<item id="7" text="不合情理的：~加阻拦." />
+			<item id="8" text="汉字由左到右的笔形（一）：“王”字是三~一竖. [横竖]副词，反正，无论如何：~~我也要去." />
+		</definition>
+	</char>
+	<char hz="横" py="hèng" multi="héng">
+		<phrase hz="蛮横" py="mán,hèng" />
+		<phrase hz="横财" py="hèng,cái" />
+		<phrase hz="横事" py="hèng,shì" />
+		<phrase hz="横死" py="hèng,sǐ" />
+		<definition id="二">
+			<item id="1" text="凶暴，不讲理（(连)蛮-）：这个人说话很~." />
+			<item id="2" text="意外的：~财. ~事. ~死." />
+		</definition>
+	</char>
+</pinyin>

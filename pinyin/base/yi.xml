@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="一" py="yī" />
+	<char hz="伊" py="yī" />
+	<char hz="咿" py="yī">
+		<phrase hz="咿呀" py="yī,yā" />
+		<phrase hz="咿唔" py="yī,wú" />
+		<definition>
+			<item text="[咿呀](-yā)拟声词，小孩子学话的声音，摇桨的声音。 [咿唔](-wú)拟声词，读书的声音。" />
+		</definition>
+	</char>
+	<char hz="洢" py="yī" />
+	<char hz="衣" py="yī" multi="yì" main="1">
+		<phrase hz="衣服" py="yī,fu" />
+		<phrase hz="衣裳" py="yī,shang" />
+		<definition id="一">
+			<item id="1" text="衣服(fu)，衣裳(shang)。" />
+			<item id="2" text="披在或包在物体外面的东西：炮~. 糖~炮弹." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="依" py="yī" />
+	<char hz="铱" py="yī" />
+	<char hz="医" py="yī" />
+	<char hz="鹥" py="yī" />
+	<char hz="繄" py="yī" />
+	<char hz="祎" py="yī" />
+	<char hz="猗" py="yī" />
+	<char hz="椅" py="yī" multi="yǐ">
+		<definition id="二">
+			<item text="又叫“山桐子”。落叶乔木，夏天开花，黄色，结小红果，木材可以制器物。" />
+		</definition>
+	</char>
+	<char hz="漪" py="yī" />
+	<char hz="揖" py="yī" />
+	<char hz="壹" py="yī" />
+	<char hz="噫" py="yī">
+		<phrase hz="噫嘻" py="yī,xī" />
+	</char>
+	<char hz="黟" py="yī" />
+	<char hz="匜" py="yí" />
+	<char hz="仪" py="yí" />
+	<char hz="圯" py="yí" />
+	<char hz="夷" py="yí" />
+	<char hz="荑" py="yí" multi="tí" main="1">
+		<definition id="一">
+			<item text="割去田地里的野草。" />
+		</definition>
+	</char>
+	<char hz="咦" py="yí" />
+	<char hz="姨" py="yí" />
+	<char hz="胰" py="yí" />
+	<char hz="痍" py="yí" />
+	<char hz="沂" py="yí" />
+	<char hz="诒" py="yí" />
+	<char hz="饴" py="yí" />
+	<char hz="怡" py="yí" />
+	<char hz="贻" py="yí" />
+	<char hz="眙" py="yí" />
+	<char hz="迤" py="yí" multi="yǐ" info="Word主音">
+		<phrase hz="逶迤" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“逶”字条“逶迤”(wēi-)。" />
+		</definition>
+	</char>
+	<char hz="椸" py="yí" />
+	<char hz="宜" py="yí" />
+	<char hz="扅" py="yí" />
+	<char hz="移" py="yí" />
+	<char hz="簃" py="yí" />
+	<char hz="宧" py="yí" />
+	<char hz="颐" py="yí" />
+	<char hz="蛇" py="yí" multi="shé">
+		<phrase hz="委蛇" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“委”字条“委蛇”(wēi-)。" />
+		</definition>
+	</char>
+	<char hz="遗" py="yí" multi="wèi" main="1">
+		<definition id="一">
+			<item id="1" text="丢失（(连)-失）：~失钢笔一枝." />
+			<item id="2" text="漏掉（(连)-漏）：~忘." />
+			<item id="3" text="丢失的东西，漏掉的部分：路不拾~. 补~." />
+			<item id="4" text="余，留：不~余力. ~憾. 特指死人留下的：~嘱. ~像. [遗传]生物体的构造和生理机能由上一代传给下一代。" />
+			<item id="5" text="不自觉地排泄粪便或精液：~尿. ~精." />
+		</definition>
+	</char>
+	<char hz="疑" py="yí" />
+	<char hz="嶷" py="yí" />
+	<char hz="彝" py="yí" />
+	<char hz="乙" py="yǐ" />
+	<char hz="钇" py="yǐ" />
+	<char hz="已" py="yǐ" />
+	<char hz="以" py="yǐ" />
+	<char hz="苡" py="yǐ" />
+	<char hz="尾" py="yǐ" multi="wěi">
+		<phrase hz="马尾罗" py="mǎ,yǐ,luó" />
+		<phrase hz="三尾儿" py="sān,yǐ,er" />
+		<definition id="二">
+			<item id="1" text="马尾(wěi)上的长毛：马~罗." />
+			<item id="2" text="蟋蟀等尾部的针状物：三~儿（雌蟋蟀）." />
+		</definition>
+	</char>
+	<char hz="矣" py="yǐ" />
+	<char hz="苢" py="yǐ" />
+	<char hz="迤" py="yǐ" multi="yí" main="1">
+		<phrase hz="迤逦" py="yǐ,lǐ" />
+		<definition id="一">
+			<item id="1" text="地势斜着延长。" />
+			<item id="2" text="延伸，向（专指方向地位）：天安门~东（向东一带）." />
+			<item text="[迤逦](-lǐ)曲折连绵：沿着蜿蜒的山势~~而行." />
+		</definition>
+	</char>
+	<char hz="酏" py="yǐ" />
+	<char hz="蚁" py="yǐ">
+		<definition>
+			<item text="蚂蚁，昆虫名。多在地下做窝成群住着，种类很多。" />
+		</definition>
+	</char>
+	<char hz="舣" py="yǐ" />
+	<char hz="倚" py="yǐ" />
+	<char hz="椅" py="yǐ" multi="yī" main="1">
+		<definition id="一">
+			<item text="（-子）有靠背的坐具。" />
+		</definition>
+	</char>
+	<char hz="旖" py="yǐ">
+		<phrase hz="旖旎" py="yǐ,nǐ" />
+	</char>
+	<char hz="踦" py="yǐ" />
+	<char hz="扆" py="yǐ" />
+	<char hz="乂" py="yì" />
+	<char hz="刈" py="yì" />
+	<char hz="艾" py="yì" multi="ài">
+		<phrase hz="自怨自艾" py="zì,yuàn,zì,yì" />
+		<definition id="二">
+			<item text="治理。 [自怨自艾]本义是悔恨自己的错误，自己改正。现在只指悔恨。" />
+		</definition>
+	</char>
+	<char hz="弋" py="yì" />
+	<char hz="杙" py="yì" />
+	<char hz="亿" py="yì" />
+	<char hz="忆" py="yì" />
+	<char hz="义" py="yì" />
+	<char hz="议" py="yì" />
+	<char hz="艺" py="yì" />
+	<char hz="呓" py="yì" />
+	<char hz="仡" py="yì" multi="gē" main="1">
+		<definition id="二" text="[仡仡]">
+			<item id="1" text="强壮勇敢。" />
+			<item id="2" text="高大。" />
+		</definition>
+	</char>
+	<char hz="屹" py="yì" />
+	<char hz="亦" py="yì" />
+	<char hz="弈" py="yì" />
+	<char hz="奕" py="yì" />
+	<char hz="衣" py="yì" multi="yī">
+		<phrase hz="衣布衣" py="yì,bù,yī" />
+		<phrase hz="解衣衣我" py="jiě,yī,yì,wǒ" />
+		<definition id="二">
+			<item text="穿：~布衣. 解衣(yī)~我." />
+		</definition>
+	</char>
+	<char hz="裔" py="yì" />
+	<char hz="异" py="yì">
+		<phrase hz="分居异爨" py="fēn,jū,yì,cuàn" />
+	</char>
+	<char hz="抑" py="yì" />
+	<char hz="邑" py="yì" />
+	<char hz="挹" py="yì" />
+	<char hz="浥" py="yì" />
+	<char hz="悒" py="yì" />
+	<char hz="佚" py="yì" />
+	<char hz="泆" py="yì" />
+	<char hz="轶" py="yì" />
+	<char hz="昳" py="yì" multi="dié">
+		<phrase hz="昳丽" py="yì,lì" />
+		<definition id="二">
+			<item text="[昳丽]美丽：形貌~~." />
+		</definition>
+	</char>
+	<char hz="役" py="yì" />
+	<char hz="疫" py="yì" />
+	<char hz="毅" py="yì" />
+	<char hz="译" py="yì" />
+	<char hz="峄" py="yì" />
+	<char hz="怿" py="yì" />
+	<char hz="驿" py="yì" />
+	<char hz="绎" py="yì" />
+	<char hz="易" py="yì" />
+	<char hz="埸" py="yì" />
+	<char hz="蜴" py="yì" />
+	<char hz="佾" py="yì" />
+	<char hz="诣" py="yì" />
+	<char hz="㹭" py="yì" />
+	<char hz="羿" py="yì" />
+	<char hz="翊" py="yì" />
+	<char hz="翌" py="yì" />
+	<char hz="翳" py="yì" />
+	<char hz="翼" py="yì" />
+	<char hz="益" py="yì" />
+	<char hz="嗌" py="yì" multi="ài" main="1">
+		<definition id="二">
+			<item text="咽喉。" />
+		</definition>
+	</char>
+	<char hz="溢" py="yì" />
+	<char hz="缢" py="yì" />
+	<char hz="镒" py="yì" />
+	<char hz="鹢" py="yì" />
+	<char hz="螠" py="yì" />
+	<char hz="谊" py="yì" />
+	<char hz="勚" py="yì" />
+	<char hz="逸" py="yì" />
+	<char hz="意" py="yì">
+		<phrase hz="中意" py="zhòng,yì" />
+	</char>
+	<char hz="薏" py="yì">
+		<phrase hz="薏苡" py="yì,yǐ" />
+	</char>
+	<char hz="臆" py="yì" />
+	<char hz="镱" py="yì" />
+	<char hz="癔" py="yì" />
+	<char hz="肄" py="yì" />
+	<char hz="蓺" py="yì" />
+	<char hz="廙" py="yì" />
+	<char hz="瘗" py="yì" />
+	<char hz="鹝" py="yì" />
+	<char hz="熠" py="yì" />
+	<char hz="殪" py="yì" />
+	<char hz="懿" py="yì" />
+	<char hz="劓" py="yì" />
+	<char hz="燚" py="yì" />
+</pinyin>

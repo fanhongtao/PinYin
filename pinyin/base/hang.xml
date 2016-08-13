@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="夯" py="hāng" multi="bèn" main="1">
+		<definition id="一">
+			<item id="1" text="砸地基的工具。" />
+			<item id="2" text="用夯砸：~地." />
+		</definition>
+	</char>
+	<char hz="行" py="háng" multi="xíng" main="1">
+		<phrase hz="行市" py="háng,shi" />
+		<definition id="二">
+			<item id="1" text="行列，排：单~. 双~." />
+			<item id="2" text="职业：咱们是同~. [行家]精通某种事务的人。" />
+			<item id="3" text="某些营业性机构：银~. 车~. 电料~. [行市](-shi)市场上商品的一般价格。" />
+			<item id="4" text="兄弟、姊妹长幼的次第：排~. 您~几？我~三." />
+			<item id="5" text="量词，用于成行的东西：几~字. 两~树." />
+		</definition>
+	</char>
+	<char hz="绗" py="háng" />
+	<char hz="吭" py="háng" multi="kēng">
+		<phrase hz="引吭" py="yǐn,háng" />
+		<definition id="一">
+			<item text="喉咙，嗓子：引~（拉长了嗓音）高歌." />
+		</definition>
+	</char>
+	<char hz="迒" py="háng" />
+	<char hz="杭" py="háng" />
+	<char hz="航" py="háng" />
+	<char hz="颃" py="háng" />
+	<char hz="沆" py="hàng">
+		<phrase hz="沆瀣" py="hàng,xiè" />
+	</char>
+	<char hz="巷" py="hàng" multi="xiàng">
+		<phrase hz="巷道" py="hàng,dào" />
+		<definition id="二">
+			<item text="[巷道]采矿或探矿时挖的坑道。" />
+		</definition>
+	</char>
+</pinyin>

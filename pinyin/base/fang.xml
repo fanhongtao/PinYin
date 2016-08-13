@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="方" py="fāng" />
+	<char hz="邡" py="fāng">
+		<phrase hz="什邡" py="shí,fāng" />
+	</char>
+	<char hz="坊" py="fāng" multi="fáng" main="1">
+		<definition id="一">
+			<item id="1" text="里巷，多用于街巷的名称。(引)街市，市中店铺：~间." />
+			<item id="2" text="牌坊，旧时为旌表“功德”、宣扬封建礼教而建造的建筑物：忠孝牌~. 贞节~." />
+		</definition>
+	</char>
+	<char hz="芳" py="fāng" />
+	<char hz="枋" py="fāng" />
+	<char hz="钫" py="fāng" />
+	<char hz="防" py="fáng" />
+	<char hz="坊" py="fáng" multi="fāng">
+		<phrase hz="作坊" py="zuō,fang" />
+		<phrase hz="染坊" py="rǎn,fáng" />
+		<phrase hz="油坊" py="yóu,fáng" />
+		<phrase hz="粉坊" py="fěn,fáng" />
+		<phrase hz="磨坊" py="mò,fáng" />
+		<definition id="二">
+			<item text="作(zuō)坊，某些小手工业的工作场所：染~. 油~. 粉~. 磨~." />
+		</definition>
+	</char>
+	<char hz="妨" py="fáng" />
+	<char hz="肪" py="fáng" />
+	<char hz="房" py="fáng">
+		<phrase hz="长房" py="zhǎng,fáng" />
+	</char>
+	<char hz="鲂" py="fáng" />
+	<char hz="仿" py="fǎng">
+		<phrase hz="仿佛" py="fǎng,fú" />
+		<definition>
+			<item id="1" text="效法，照样做（(连)-效）：~造. ~制." />
+			<item id="2" text="依照范本写的字：写了一张~." />
+			<item id="3" text="[仿佛]（*彷彿、*髣髴）(-fú)1.好像：这个字我~~在哪里见过. 2.类似：弟兄俩长得相~~." />
+		</definition>
+	</char>
+	<char hz="访" py="fǎng" />
+	<char hz="彷" py="fǎng" multi="páng">
+		<phrase hz="彷彿" py="fǎng,fú" />
+		<definition id="二">
+			<item text="[彷彿]旧同“仿佛”。参看“仿(3)”。" />
+		</definition>
+	</char>
+	<char hz="纺" py="fǎng" />
+	<char hz="昉" py="fǎng" />
+	<char hz="舫" py="fǎng" />
+	<char hz="放" py="fàng" />
+</pinyin>

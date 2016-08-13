@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="么" py="yāo" multi="ma,me">
+		<definition id="三">
+			<item text="同“幺”。" />
+		</definition>
+	</char>
+	<char hz="幺" py="yāo">
+		<definition>
+			<item id="1" text="〈方〉小，排行最末的：~叔. ~妹. ~儿." />
+			<item id="2" text="数目“一”的另一个说法（用于电话号码等）。" />
+		</definition>
+	</char>
+	<char hz="吆" py="yāo">
+		<phrase hz="吆喝" py="yāo,he" />
+	</char>
+	<char hz="夭" py="yāo" />
+	<char hz="妖" py="yāo" />
+	<char hz="约" py="yāo" multi="yuē">
+		<phrase hz="约约" py="yāo,yāo" />
+		<definition id="二">
+			<item text="用秤称：你~~有多重？" />
+		</definition>
+	</char>
+	<char hz="要" py="yāo" multi="yào">
+		<phrase hz="要求" py="yāo,qiú" />
+		<phrase hz="要挟" py="yāo,xié" />
+		<definition id="二">
+			<item id="1" text="求。 [要求]提出具体事项，希望实现：~~大家认真学习. ~~入党." />
+			<item id="2" text="强求，有所仗恃而强硬要求：~挟(xié)." />
+			<item id="3" text="古同“邀”、“腰”。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="腰" py="yāo">
+		<definition>
+			<item id="1" text="胯上胁下的部分，在身体的中部。 [腰子]肾脏。" />
+			<item id="2" text="裤、裙等围在腰上的部分：裤~." />
+			<item id="3" text="事物的中段，中间：山~." />
+			<item id="4" text="中间狭小像腰部的地势：土~. 海~." />
+		</definition>
+	</char>
+	<char hz="邀" py="yāo">
+		<definition>
+			<item id="1" text="约请：~他来谈谈. 特~代表." />
+			<item id="2" text="求得：~赏. ~准." />
+			<item id="3" text="阻留：中途~截." />
+		</definition>
+	</char>
+	<char hz="爻" py="yáo" />
+	<char hz="肴" py="yáo" />
+	<char hz="尧" py="yáo" />
+	<char hz="侥" py="yáo" multi="jiǎo">
+		<phrase hz="僬侥" py="jiāo,yáo" />
+		<definition id="二">
+			<item text="见“僬”字条“僬侥”(jiāo-)。" />
+		</definition>
+	</char>
+	<char hz="峣" py="yáo">
+		<phrase hz="岧峣" py="tiáo,yáo" />
+	</char>
+	<char hz="垚" py="yáo" />
+	<char hz="轺" py="yáo" />
+	<char hz="姚" py="yáo" />
+	<char hz="珧" py="yáo" />
+	<char hz="铫" py="yáo" multi="diào" main="1">
+		<definition id="二">
+			<item id="1" text="古代一种大锄。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="陶" py="yáo" multi="táo">
+		<phrase hz="皋陶" py="gāo,yáo" />
+		<definition id="二">
+			<item text="[皋陶](gāo-)传说中上古人名。" />
+		</definition>
+	</char>
+	<char hz="窑" py="yáo" />
+	<char hz="谣" py="yáo" />
+	<char hz="摇" py="yáo">
+		<phrase hz="摇曳" py="yáo,yè" />
+	</char>
+	<char hz="徭" py="yáo">
+		<definition>
+			<item text="徭役，古时统治者强制人民承担的无偿劳动。" />
+		</definition>
+	</char>
+	<char hz="遥" py="yáo" />
+	<char hz="瑶" py="yáo" />
+	<char hz="飖" py="yáo" />
+	<char hz="繇" py="yáo" multi="yóu,zhòu" main="1">
+		<definition id="二">
+			<item text="同“徭”。" />
+		</definition>
+	</char>
+	<char hz="鳐" py="yáo" />
+	<char hz="杳" py="yǎo" />
+	<char hz="咬" py="yǎo" />
+	<char hz="舀" py="yǎo">
+		<phrase hz="舀子" py="yǎo,zi" />
+	</char>
+	<char hz="窅" py="yǎo" />
+	<char hz="窈" py="yǎo">
+		<phrase hz="窈窕" py="yǎo,tiǎo" />
+	</char>
+	<char hz="疟" py="yào" multi="nüè">
+		<phrase hz="疟子" py="yào,zi" />
+		<definition id="二">
+			<item text="疟子，疟(nüè)疾。" />
+		</definition>
+	</char>
+	<char hz="药" py="yào" />
+	<char hz="要" py="yào" multi="yāo" main="1">
+		<definition id="一">
+			<item id="1" text="索取，希望得到：我~这一本书. (引)作为己有，保留：这东西他还~呢. [要强]好胜心强，不愿落后。" />
+			<item id="2" text="重大，值得重视的：~事. ~点. [要紧][紧要]急切重要。" />
+			<item id="3" text="重大的值得重视的东西：纲~. 提~." />
+			<item id="4" text="应该，必须：~努力学习." />
+			<item id="5" text="将要，将：我们~去学习了." />
+			<item id="6" text="连词，要是，若，如果：明天~下雨，我就不去了. 他~来了，你就交给他." />
+			<item id="7" text="请求，叫：他~我给他买本书." />
+		</definition>
+	</char>
+	<char hz="钥" py="yào" multi="yuè" info="Word主音">
+		<phrase hz="钥匙" py="yào,shi" />
+		<definition id="二">
+			<item text="[钥匙](-shi)开锁的东西。" />
+		</definition>
+	</char>
+	<char hz="靿" py="yào" />
+	<char hz="鹞" py="yào" />
+	<char hz="曜" py="yào" />
+	<char hz="耀" py="yào" />
+</pinyin>

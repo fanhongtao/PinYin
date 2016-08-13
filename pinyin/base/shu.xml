@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="殳" py="shū" />
+	<char hz="书" py="shū" />
+	<char hz="抒" py="shū" />
+	<char hz="纾" py="shū">
+		<phrase hz="纾难" py="shū,nàn" />
+	</char>
+	<char hz="舒" py="shū" />
+	<char hz="枢" py="shū" />
+	<char hz="叔" py="shū" />
+	<char hz="菽" py="shū" />
+	<char hz="淑" py="shū" />
+	<char hz="姝" py="shū" />
+	<char hz="殊" py="shū" />
+	<char hz="倏" py="shū" />
+	<char hz="梳" py="shū" />
+	<char hz="疏" py="shū" />
+	<char hz="蔬" py="shū" />
+	<char hz="摅" py="shū" />
+	<char hz="输" py="shū" />
+	<char hz="毹" py="shū" />
+	<char hz="秫" py="shú" />
+	<char hz="孰" py="shú" />
+	<char hz="塾" py="shú" />
+	<char hz="熟" py="shú" multi="shóu" main="1">
+		<definition id="一">
+			<item id="1" text="食物烧煮到可吃的程度：饭~了. ~菜." />
+			<item id="2" text="成熟，植物的果实或种子长成：麦子~了." />
+			<item id="3" text="程度深：深思~虑. ~睡." />
+			<item id="4" text="习惯，常见，知道清楚：~悉. ~人. 这条路我~." />
+			<item id="5" text="熟练，做某种工作时间久了，精通而有经验：~手. ~能生巧." />
+			<item id="6" text="经过加工或炼制的：~铁. ~皮子." />
+		</definition>
+	</char>
+	<char hz="赎" py="shú">
+		<phrase hz="赎当" py="shú,dàng" />
+	</char>
+	<char hz="暑" py="shǔ">
+		<phrase hz="中暑" py="zhòng,shǔ" />
+	</char>
+	<char hz="署" py="shǔ" />
+	<char hz="薯" py="shǔ">
+		<phrase hz="薯蓣" py="shǔ,yù" />
+	</char>
+	<char hz="曙" py="shǔ" />
+	<char hz="黍" py="shǔ" />
+	<char hz="属" py="shǔ" multi="zhǔ" main="1">
+		<definition id="一">
+			<item id="1" text="同一家族的：家~." />
+			<item id="2" text="类别：金~." />
+			<item id="3" text="生物的分类单位之一，在“科”之下，“种”之上：梨~. 狐~." />
+			<item id="4" text="有管辖关系的（(连)隶-）：直~. ~局. ~员." />
+			<item id="5" text="归类：~于自然科学." />
+			<item id="6" text="为某人或某方所有：这本书~你." />
+			<item id="7" text="是：查明~实." />
+			<item id="8" text="用属相记生年（用干支纪年，十二支配合十二种动物，人生在哪年，就属哪种动物叫“属相”）：甲子、丙子等子年生的都~鼠." />
+		</definition>
+	</char>
+	<char hz="蜀" py="shǔ" />
+	<char hz="鼠" py="shǔ" />
+	<char hz="数" py="shǔ" multi="shù,shuò">
+		<phrase hz="数一数" py="shǔ,yī,shǔ" />
+		<phrase hz="数落" py="shǔ,luo" />
+		<phrase hz="数说" py="shǔ,shuō" />
+		<definition id="二">
+			<item id="1" text="一个一个地计算：~一~. (引)比较起来最突出：就~他有本领." />
+			<item id="2" text="责备，列举过错：~落(luo). ~说." />
+		</definition>
+	</char>
+	<char hz="术" py="shù" multi="zhú" main="1">
+		<definition id="一">
+			<item id="1" text="技艺：武~. 技~. 美~. [术语]学术和各种工艺上的专门用语。" />
+			<item id="2" text="方法：战~. 防御之~." />
+		</definition>
+	</char>
+	<char hz="述" py="shù" />
+	<char hz="沭" py="shù" />
+	<char hz="鉥" py="shù" trans="1" />
+	<char hz="戍" py="shù" />
+	<char hz="束" py="shù">
+		<phrase hz="束发" py="shù,fà" />
+		<phrase hz="束缚" py="shù,fù" />
+	</char>
+	<char hz="树" py="shù" />
+	<char hz="竖" py="shù" />
+	<char hz="俞" py="shù" multi="yú">
+		<definition id="二">
+			<item text="同“腧”。" />
+		</definition>
+	</char>
+	<char hz="腧" py="shù">
+		<definition>
+			<item text="腧穴，人体上的穴道：肺~. 胃~." />
+		</definition>
+	</char>
+	<char hz="恕" py="shù" />
+	<char hz="庶" py="shù">
+		<phrase hz="庶几" py="shù,jī" />
+	</char>
+	<char hz="裋" py="shù" />
+	<char hz="数" py="shù" multi="shǔ,shuò" main="1">
+		<definition id="一">
+			<item id="1" text="数目，划分或计算出来的量：基~. 序~. 岁~. 次~. 人~太多，坐不下. [数词]表示数目的词，如一、九、千、万等。" />
+			<item id="2" text="几，几个：~次. ~日. ~人." />
+			<item id="3" text="（迷信）劫数：在~难逃." />
+		</definition>
+	</char>
+	<char hz="墅" py="shù" />
+	<char hz="漱" py="shù" />
+	<char hz="澍" py="shù" />
+</pinyin>

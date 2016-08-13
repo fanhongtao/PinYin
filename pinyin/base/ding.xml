@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丁" py="dīng" multi="zhēng" main="1">
+		<phrase hz="丁当" py="dīng,dāng" />
+		<definition id="一">
+			<item id="1" text="天干的第四位，常用作顺序的第四。" />
+			<item id="2" text="成年男子：壮~. (引)1.旧指人口：人~. ~口. 2.指从事某种劳动的人：园~." />
+			<item id="3" text="当，遭逢：~兹盛世. ~忧（旧指遭父母丧）." />
+			<item id="4" text="（-儿）小方块：肉~儿. 咸菜~儿. [丁点儿]表示极少或极小：一~~~毛病都没有." />
+			<item id="5" text="姓。" />
+			<item text="[丁当](-dāng)拟声词，金属等撞击的声音。" />
+		</definition>
+	</char>
+	<char hz="仃" py="dīng">
+		<phrase hz="伶仃" py="líng,dīng" />
+	</char>
+	<char hz="叮" py="dīng" />
+	<char hz="玎" py="dīng">
+		<phrase hz="玎玲" py="dīng,líng" />
+	</char>
+	<char hz="盯" py="dīng" />
+	<char hz="町" py="dīng" multi="tǐng" main="1">
+		<phrase hz="畹町" py="wǎn,dīng" />
+		<definition id="二">
+			<item text="见“畹”字条“畹町”(wǎn-)。" />
+		</definition>
+	</char>
+	<char hz="钉" py="dīng" multi="dìng" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）竹、金属制成的可以打入他物的细条形的东西：螺丝~儿. 碰~子（喻受打击或被拒绝）." />
+			<item id="2" text="紧跟着不放松：~住对方的前锋." />
+			<item id="3" text="督促，催问：这事得~着他点儿." />
+		</definition>
+	</char>
+	<char hz="疔" py="dīng" />
+	<char hz="耵" py="dīng">
+		<phrase hz="耵聍" py="dīng,níng" />
+	</char>
+	<char hz="酊" py="dīng" multi="dǐng" main="1">
+		<phrase hz="碘酊" py="diǎn,dīng" />
+		<definition id="一">
+			<item text="(外)医药上用酒精和药配合成的液体：碘~." />
+		</definition>
+	</char>
+	<char hz="靪" py="dīng" />
+	<char hz="顶" py="dǐng" />
+	<char hz="酊" py="dǐng" multi="dīng">
+		<phrase hz="酩酊" py="mǐng,dǐng" />
+		<definition id="二">
+			<item text="见“酩”字条“酩酊”(mǐng-)。" />
+		</definition>
+	</char>
+	<char hz="鼎" py="dǐng" />
+	<char hz="订" py="dìng">
+		<phrase hz="校订" py="jiào,dìng" />
+	</char>
+	<char hz="饤" py="dìng" />
+	<char hz="钉" py="dìng" multi="dīng" info="Word主音">
+		<phrase hz="钉扣子" py="dìng,kòu,zi" />
+		<definition id="二">
+			<item id="1" text="把钉子或楔(xiē)子打入他物：拿个钉子~一~. 墙上~着木橛." />
+			<item id="2" text="连接在一起：~扣子." />
+		</definition>
+	</char>
+	<char hz="定" py="dìng" />
+	<char hz="啶" py="dìng">
+		<phrase hz="吡啶" py="bǐ,dìng" />
+		<phrase hz="嘧啶" py="mì,dìng" />
+	</char>
+	<char hz="腚" py="dìng" />
+	<char hz="碇" py="dìng" />
+	<char hz="锭" py="dìng" />
+</pinyin>

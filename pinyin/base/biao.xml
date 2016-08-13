@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="杓" py="biāo" multi="sháo" main="1">
+		<definition id="一">
+			<item text="古代指北斗柄部的三颗星。" />
+		</definition>
+	</char>
+	<char hz="标" py="biāo">
+		<phrase hz="标的" py="biāo,dì" />
+		<phrase hz="标致" py="biāo,zhi" />
+	</char>
+	<char hz="飑" py="biāo" />
+	<char hz="彪" py="biāo" />
+	<char hz="骠" py="biāo" multi="piào">
+		<phrase hz="黄骠马" py="huáng,biāo,mǎ" />
+		<definition id="二">
+			<item text="[黄骠马]一种黄毛夹杂着白点子的马。" />
+		</definition>
+	</char>
+	<char hz="膘" py="biāo" />
+	<char hz="镖" py="biāo" />
+	<char hz="瘭" py="biāo">
+		<phrase hz="瘭疽" py="biāo,jū" />
+	</char>
+	<char hz="飙" py="biāo" />
+	<char hz="藨" py="biāo" />
+	<char hz="瀌" py="biāo" />
+	<char hz="镳" py="biāo" />
+	<char hz="表" py="biǎo">
+		<phrase hz="表率" py="biǎo,shuài" />
+	</char>
+	<char hz="婊" py="biǎo">
+		<phrase hz="婊子" py="biǎo,zi" />
+	</char>
+	<char hz="裱" py="biǎo" />
+	<char hz="俵" py="biào" />
+	<char hz="摽" py="biào" />
+	<char hz="鳔" py="biào" />
+</pinyin>

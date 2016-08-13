@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蚺" py="rán" />
+	<char hz="髯" py="rán" />
+	<char hz="然" py="rán" />
+	<char hz="燃" py="rán" />
+	<char hz="冉" py="rǎn" />
+	<char hz="苒" py="rǎn">
+		<phrase hz="荏苒" py="rěn,rǎn" />
+	</char>
+	<char hz="染" py="rǎn" />
+</pinyin>

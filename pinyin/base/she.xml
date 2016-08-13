@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="輋" py="shē" trans="1" />
+	<char hz="奢" py="shē" />
+	<char hz="赊" py="shē" />
+	<char hz="畲" py="shē" />
+	<char hz="畬" py="shē" multi="yú" main="1">
+		<definition id="二">
+			<item text="焚烧田地里的草木，用草木灰做肥料耕种。" />
+		</definition>
+	</char>
+	<char hz="猞" py="shē">
+		<phrase hz="猞猁" py="shē,lì" />
+	</char>
+	<char hz="舌" py="shé" />
+	<char hz="折" py="shé" multi="zhē,zhé">
+		<phrase hz="折了" py="shé,le" />
+		<phrase hz="折本" py="shé,běn" />
+		<phrase hz="折耗" py="shé,hào" />
+		<definition id="二">
+			<item id="1" text="断：绳子~了. 棍子~了." />
+			<item id="2" text="亏损：~本. [折耗]亏耗，损失：青菜~~太大." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="佘" py="shé" />
+	<char hz="蛇" py="shé" multi="yí" main="1">
+		<definition id="一">
+			<item text="爬行动物，俗叫“长虫”。身体细长，有鳞，没有四肢，种类很多，有的有毒，捕食蛙等小动物。" />
+		</definition>
+	</char>
+	<char hz="阇" py="shé" multi="dū">
+		<phrase hz="阇梨" py="shé,lí" />
+		<definition id="二">
+			<item text="[阇梨]梵语“阿阇梨”的省称。佛教指高僧，泛指僧。" />
+		</definition>
+	</char>
+	<char hz="舍" py="shě" multi="shè" info="Word主音">
+		<phrase hz="舍弃" py="shě,qì" />
+		<phrase hz="舍己为人" py="shě,jǐ,wèi,rén" />
+		<phrase hz="舍近求远" py="shě,jìn,qiú,yuǎn" />
+		<phrase hz="四舍五入" py="sì,shě,wǔ,rù" />
+		<phrase hz="舍粥" py="shě,zhōu" />
+		<phrase hz="舍药" py="shě,yào" />
+		<definition id="二">
+			<item id="1" text="放弃，不要了：~已为人. ~近求远. 四~五入." />
+			<item id="2" text="施舍：~粥. ~药." />
+		</definition>
+	</char>
+	<char hz="厍" py="shè" />
+	<char hz="设" py="shè" />
+	<char hz="社" py="shè" />
+	<char hz="舍" py="shè" multi="shě" main="1">
+		<definition id="一">
+			<item id="1" text="居住的房子：旅~. 宿~." />
+			<item id="2" text="养家畜的圈：猪~. 牛~." />
+			<item id="3" text="古代行军三十里叫一舍：退避三~（喻对人让步）." />
+			<item id="4" text="谦辞，用于对别人称自己的亲戚或年纪小辈分低的亲属：~亲. ~弟. ~侄." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="射" py="shè" />
+	<char hz="麝" py="shè" />
+	<char hz="涉" py="shè" />
+	<char hz="赦" py="shè" />
+	<char hz="摄" py="shè" />
+	<char hz="滠" py="shè" />
+	<char hz="慑" py="shè" />
+	<char hz="歙" py="shè" multi="xī" info="Word主音">
+		<phrase hz="歙县" py="shè,xiàn" />
+		<definition id="二">
+			<item text="歙县，在安徽省。" />
+		</definition>
+	</char>
+</pinyin>

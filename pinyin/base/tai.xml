@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="台" py="tāi" multi="tái">
+		<phrase hz="天台山" py="tiān,tāi,shān" />
+		<definition id="二">
+			<item text="[天台]山名，在浙江省东部。" />
+		</definition>
+	</char>
+	<char hz="苔" py="tāi" multi="tái">
+		<phrase hz="舌苔" py="shé,tāi" />
+		<definition id="二">
+			<item text="[舌苔]舌头上面的垢腻，是由衰死的上皮细胞和黏液等形成的，观察它的颜色可以帮助诊断病症。" />
+		</definition>
+	</char>
+	<char hz="胎" py="tāi" />
+	<char hz="台" py="tái" multi="tāi" main="1">
+		<definition id="一">
+			<item id="1" text="高平的建筑物：戏~. 讲~. 主席~. 楼阁亭~. (引)1.（-儿）像台的东西：井～. 窗~儿. 2.器物的座子：灯~. 蜡~." />
+			<item id="2" text="敬辞：~鉴. ~启. 兄~." />
+			<item id="3" text="量词：唱一~戏. 一~机器." />
+			<item id="4" text="桌子，案子：写字~. 柜~." />
+			<item id="5" text="台风，发生在太平洋西部热带海洋上的一种极猛烈的风暴，中心附近风力达12级以上，同时有暴雨。" />
+			<item id="6" text="台湾省的简称。" />
+		</definition>
+	</char>
+	<char hz="邰" py="tái" />
+	<char hz="抬" py="tái" />
+	<char hz="苔" py="tái" multi="tāi" main="1">
+		<definition id="一">
+			<item text="隐花植物的一类，根、茎、叶的区别不明显，绿色，常贴在阴湿的地方生长。" />
+		</definition>
+	</char>
+	<char hz="骀" py="tái">
+		<phrase hz="驽骀" py="nú,tái" />
+	</char>
+	<char hz="炱" py="tái" />
+	<char hz="跆" py="tái" />
+	<char hz="鲐" py="tái" />
+	<char hz="薹" py="tái" />
+	<char hz="太" py="tài">
+		<definition>
+			<item id="1" text="副词，过于：~长. ~热." />
+			<item id="2" text="副词，极端，最：~好. 人民的事业~伟大了. [太古]最古的时代。[太平]平安无事。" />
+			<item id="3" text="对大两辈的尊长的称呼所加的字：~老伯." />
+			<item id="4" text="高，大：~空. ~学. [太阳]1.银河系的恒星之一，是太阳系的中心天体。2.人头上眉梢后低凹的部分。也叫“太阳穴”。" />
+			<item id="5" text="(外)法定计量单位中十进制倍数单位词头之一，表示10^12，符号T。" />
+		</definition>
+	</char>
+	<char hz="汰" py="tài" />
+	<char hz="态" py="tài" />
+	<char hz="肽" py="tài">
+		<definition>
+			<item text="一种有机化合物，由氨基酸脱水而成，含有羟基和氨基，是一种两性化合物。旧称“胜”(shēng)。" />
+		</definition>
+	</char>
+	<char hz="钛" py="tài" />
+	<char hz="酞" py="tài" />
+	<char hz="泰" py="tài">
+		<definition>
+			<item id="1" text="平安，安定：国~民丰. ~然处之." />
+			<item id="2" text="极：~西（旧指欧洲）." />
+			<item text="[泰山]五岳中的东岳，在山东中部。(转)称岳父。" />
+		</definition>
+	</char>
+</pinyin>

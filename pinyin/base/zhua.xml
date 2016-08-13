@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抓" py="zhuā" />
+	<char hz="挝" py="zhuā" multi="wō" main="1">
+		<definition id="一">
+			<item text="打，敲打。" />
+		</definition>
+	</char>
+	<char hz="髽" py="zhuā">
+		<phrase hz="髽髻" py="zhuā,ji" />
+		<phrase hz="髽鬏" py="zhuā,jiu" />
+	</char>
+	<char hz="爪" py="zhuǎ" multi="zhǎo">
+		<phrase hz="爪子" py="zhuǎ,zi" />
+		<phrase hz="爪儿" py="zhuǎ,er" />
+		<definition id="二">
+			<item id="1" text="（-子、-儿）禽兽的脚（多指有尖甲的）：鸡~子. 狗~儿." />
+			<item id="2" text="（-儿）像爪的东西：这个锅有三个~儿." />
+		</definition>
+	</char>
+</pinyin>

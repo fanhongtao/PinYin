@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="曾" py="zēng" multi="céng" main="1">
+		<definition id="一">
+			<item id="1" text="重(chóng)，用来指自己中间隔着两代的亲属：~祖. ~孙." />
+			<item id="2" text="古同“增”。" />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="增" py="zēng">
+		<definition>
+			<item text="加多，添（(连)-加）：为国~光. ~产节约. [增殖]繁殖：~~耕牛. (引)大量地增添：~~财富." />
+		</definition>
+	</char>
+	<char hz="憎" py="zēng" />
+	<char hz="缯" py="zēng" multi="zèng" main="1">
+		<definition id="一">
+			<item text="古代丝织品的总称。" />
+		</definition>
+	</char>
+	<char hz="罾" py="zēng" />
+	<char hz="矰" py="zēng" />
+	<char hz="综" py="zèng" multi="zōng">
+		<definition id="二">
+			<item text="织布机上使经线交错着上下分开以便梭子通过的装置。" />
+		</definition>
+	</char>
+	<char hz="锃" py="zèng" />
+	<char hz="缯" py="zèng" multi="zēng">
+		<definition id="二">
+			<item text="〈方〉捆，扎：把那根裂了的棍子~起来." />
+		</definition>
+	</char>
+	<char hz="赠" py="zèng" />
+	<char hz="甑" py="zèng" />
+</pinyin>

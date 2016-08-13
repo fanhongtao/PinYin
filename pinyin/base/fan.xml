@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="帆" py="fān" />
+	<char hz="番" py="fān" multi="pān" main="1">
+		<definition id="一">
+			<item id="1" text="称外国的或外族的：~茄. ~薯. ~椒." />
+			<item id="2" text="代换：轮~. 更~." />
+			<item id="3" text="量词。1.遍，次：三~五次. 费了一~心思. 解说一~. 2.倍：产量翻了一~." />
+		</definition>
+	</char>
+	<char hz="蕃" py="fān" multi="fán" info="Word主音">
+		<definition id="二">
+			<item text="同“番(fān)(1)”" />
+		</definition>
+	</char>
+	<char hz="幡" py="fān" />
+	<char hz="藩" py="fān" />
+	<char hz="翻" py="fān" />
+	<char hz="凡" py="fán" />
+	<char hz="矾" py="fán" />
+	<char hz="钒" py="fán" />
+	<char hz="烦" py="fán" />
+	<char hz="墦" py="fán" />
+	<char hz="蕃" py="fán" multi="fān" main="1">
+		<definition id="一">
+			<item text="茂盛：草木~盛. (喻)繁多：~衍（逐渐增多或增广，现作“繁衍”）." />
+		</definition>
+	</char>
+	<char hz="璠" py="fán" />
+	<char hz="膰" py="fán" />
+	<char hz="燔" py="fán" />
+	<char hz="蹯" py="fán" />
+	<char hz="樊" py="fán" />
+	<char hz="繁" py="fán" multi="pó" main="1">
+		<definition id="一">
+			<item id="1" text="复杂，跟“简”相对（(连)-杂）：删~就简." />
+			<item id="2" text="许多，不少：实~有徒（这种人实在很多）. ~殖（生长成许多）. [繁华]市面热闹，工商业兴盛。 [繁荣]兴旺发展或使兴旺发展：市场~~. ~~经济." />
+		</definition>
+	</char>
+	<char hz="蘩" py="fán" />
+	<char hz="反" py="fǎn">
+		<phrase hz="反间" py="fǎn,jiàn" />
+		<phrase hz="反刍" py="fǎn,chú" />
+		<phrase hz="反倒" py="fǎn,dào" />
+		<phrase hz="反省" py="fǎn,xǐng" />
+	</char>
+	<char hz="返" py="fǎn" />
+	<char hz="犯" py="fàn">
+		<phrase hz="犯不着" py="fàn,bù,zháo" />
+	</char>
+	<char hz="范" py="fàn" />
+	<char hz="饭" py="fàn" />
+	<char hz="贩" py="fàn" />
+	<char hz="畈" py="fàn" />
+	<char hz="泛" py="fàn" />
+	<char hz="梵" py="fàn" />
+</pinyin>

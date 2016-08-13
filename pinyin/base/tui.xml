@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="忒" py="tuī" multi="tè" main="1">
+		<definition id="二">
+			<item text="〈方〉副词，太：风~大. 路~滑." />
+		</definition>
+	</char>
+	<char hz="推" py="tuī" />
+	<char hz="颓" py="tuí" />
+	<char hz="魋" py="tuí" />
+	<char hz="腿" py="tuǐ" />
+	<char hz="退" py="tuì" />
+	<char hz="煺" py="tuì" />
+	<char hz="褪" py="tuì" multi="tùn" main="1">
+		<definition id="二">
+			<item text="脱落，脱去：兔子正~毛. [褪色]退色，颜色变淡或消失。" />
+		</definition>
+	</char>
+	<char hz="蜕" py="tuì" />
+</pinyin>

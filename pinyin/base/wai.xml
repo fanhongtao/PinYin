@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="歪" py="wāi" />
+	<char hz="" py="wāi" />
+	<char hz="崴" py="wǎi" multi="wēi" main="1">
+		<definition id="一">
+			<item id="1" text="〈方〉（-子）山、水弯曲处。多用于地名：三道~子（在吉林省靖宇）." />
+			<item id="2" text="（脚）扭伤。" />
+			<item id="3" text="山路不平。" />
+		</definition>
+	</char>
+	<char hz="外" py="wài">
+		<phrase hz="外行" py="wài,háng" />
+	</char>
+</pinyin>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="番" py="pān" multi="fān">
+		<phrase hz="番禺" py="pān,yú" />
+		<definition id="二">
+			<item text="[番禺](-yú)地名，在广东省广州。" />
+		</definition>
+	</char>
+	<char hz="潘" py="pān" />
+	<char hz="攀" py="pān" />
+	<char hz="爿" py="pán" />
+	<char hz="胖" py="pán" multi="pàng">
+		<phrase hz="心广体胖" py="xīn,guǎng,tǐ,pán" />
+		<definition id="二">
+			<item text="安泰舒适：心广体~." />
+		</definition>
+	</char>
+	<char hz="盘" py="pán">
+		<phrase hz="磨盘" py="mò,pán" />
+		<phrase hz="盘费" py="pán,fei" />
+		<phrase hz="盘缠" py="pán,chan" />
+		<phrase hz="盘桓" py="pán,huán" />
+	</char>
+	<char hz="槃" py="pán" />
+	<char hz="磐" py="pán" />
+	<char hz="磻" py="pán" />
+	<char hz="蟠" py="pán" />
+	<char hz="蹒" py="pán">
+		<phrase hz="蹒跚" py="pán,shān" />
+	</char>
+	<char hz="判" py="pàn" />
+	<char hz="泮" py="pàn" />
+	<char hz="叛" py="pàn" />
+	<char hz="畔" py="pàn" />
+	<char hz="袢" py="pàn" />
+	<char hz="拚" py="pàn" multi="pīn">
+		<phrase hz="拚命" py="pàn,mìng" />
+		<definition id="一">
+			<item text="舍弃，豁出去：~命." />
+		</definition>
+	</char>
+	<char hz="盼" py="pàn" />
+	<char hz="鋬" py="pàn" />
+	<char hz="襻" py="pàn" />
+</pinyin>

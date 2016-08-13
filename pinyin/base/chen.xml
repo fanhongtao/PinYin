@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抻" py="chēn" />
+	<char hz="郴" py="chēn" />
+	<char hz="琛" py="chēn" />
+	<char hz="嗔" py="chēn">
+		<phrase hz="嗔着" py="chēn,zhe" />
+	</char>
+	<char hz="瞋" py="chēn" />
+	<char hz="臣" py="chén" />
+	<char hz="辰" py="chén" />
+	<char hz="宸" py="chén" />
+	<char hz="晨" py="chén" />
+	<char hz="尘" py="chén" />
+	<char hz="沈" py="chén" multi="shěn">
+		<definition id="二">
+			<item text="同“沉”。" />
+		</definition>
+	</char>
+	<char hz="忱" py="chén" />
+	<char hz="沉" py="chén">
+		<phrase hz="沉着" py="chén,zhuó" />
+		<phrase hz="沉应" py="chén,yìng" />
+		<definition>
+			<item id="1" text="没(mò)入水中，跟“浮”相对：船~了. (引)落下，陷入：地基下~. [沉淀]1.液体中不溶解的物质往下沉。2.沉在液体底层的物质。" />
+			<item id="2" text="重，分量大：~重. 铁比木头~. [沉着](-zhuó)镇静，不慌张：~~应(yìng)战." />
+			<item id="3" text="深入，程度深：~思. ~醉. 天阴得很~." />
+		</definition>
+	</char>
+	<char hz="陈" py="chén" />
+	<char hz="谌" py="chén" />
+	<char hz="碜" py="chěn">
+		<phrase hz="牙碜" py="yá,chen" />
+		<phrase hz="寒碜" py="hán,chen" />
+	</char>
+	<char hz="衬" py="chèn" />
+	<char hz="疢" py="chèn" />
+	<char hz="龀" py="chèn" />
+	<char hz="称" py="chèn" multi="chēng,chèng">
+		<phrase hz="称心" py="chèn,xīn" />
+		<phrase hz="称职" py="chèn,zhí" />
+		<phrase hz="相称" py="xiāng,chèn" />
+		<phrase hz="对称" py="duì,chèn" />
+		<definition id="二">
+			<item text="适合：~心. ~职. 相~. [对称]两边相等或相当。" />
+		</definition>
+	</char>
+	<char hz="趁" py="chèn" />
+	<char hz="榇" py="chèn" />
+	<char hz="谶" py="chèn" />
+	<char hz="伧" py="chen" multi="cāng" info="Word主音">
+		<phrase hz="寒伧" py="hán,chen" />
+		<definition id="二">
+			<item text="[寒伧]旧同“寒碜”。参看“碜”(chěn)。" />
+		</definition>
+	</char>
+</pinyin>

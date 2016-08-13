@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="多" py="duō">
+		<phrase hz="多咱" py="duō,zan" />
+	</char>
+	<char hz="哆" py="duō">
+		<phrase hz="哆嗦" py="duō,suo" />
+	</char>
+	<char hz="咄" py="duō">
+		<phrase hz="咄嗟" py="duō,jiē" />
+	</char>
+	<char hz="剟" py="duō" />
+	<char hz="掇" py="duō" />
+	<char hz="敠" py="duō">
+		<phrase hz="敁敠" py="diān,duo" />
+	</char>
+	<char hz="裰" py="duō" />
+	<char hz="夺" py="duó" />
+	<char hz="度" py="duó" multi="dù">
+		<phrase hz="度德量力" py="duó,dé,liàng,lì" />
+		<definition id="二">
+			<item text="忖度，揣度，计算，推测：~德量力." />
+		</definition>
+	</char>
+	<char hz="踱" py="duó" />
+	<char hz="铎" py="duó" />
+	<char hz="朵" py="duǒ" />
+	<char hz="垛" py="duǒ" multi="duò" main="1">
+		<definition id="一">
+			<item text="（-子）用泥土、砖石等筑成的掩蔽物：箭~子. 门~子. 城墙~口." />
+		</definition>
+	</char>
+	<char hz="哚" py="duǒ">
+		<phrase hz="吲哚" py="yǐn,duǒ" />
+	</char>
+	<char hz="躲" py="duǒ" />
+	<char hz="埵" py="duǒ" />
+	<char hz="痑" py="duǒ" />
+	<char hz="亸" py="duǒ" />
+	<char hz="驮" py="duò" multi="tuó">
+		<definition id="二">
+			<item text="（-子）骡马等负载的成捆的货物：把~子卸下来，让牲口休息一会儿." />
+		</definition>
+	</char>
+	<char hz="剁" py="duò" />
+	<char hz="垛" py="duò" multi="duǒ">
+		<phrase hz="麦垛" py="mài,duò" />
+		<phrase hz="砖垛" py="zhuān,duò" />
+		<definition id="二">
+			<item id="1" text="整齐地堆成堆：麦~. 砖~." />
+			<item id="2" text="整齐地堆积：柴火~得比房还高." />
+		</definition>
+	</char>
+	<char hz="跺" py="duò" />
+	<char hz="饳" py="duò">
+		<phrase hz="馉饳" py="gǔ,duò" />
+	</char>
+	<char hz="柮" py="duò">
+		<phrase hz="榾柮" py="gǔ,duò" />
+	</char>
+	<char hz="沲" py="duò" />
+	<char hz="柁" py="duò" multi="tuó" main="1">
+		<definition id="二">
+			<item text="同“舵”。" />
+		</definition>
+	</char>
+	<char hz="舵" py="duò">
+		<definition>
+			<item text="控制行船方向的设备，多装在船尾：掌~. ~手. (引)飞机等交通工具上控制方向的装置。" />
+		</definition>
+	</char>
+	<char hz="堕" py="duò" />
+	<char hz="惰" py="duò" />
+</pinyin>

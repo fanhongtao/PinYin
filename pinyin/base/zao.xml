@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="遭" py="zāo" />
+	<char hz="糟" py="zāo">
+		<phrase hz="糟蹋" py="zāo,ta" />
+		<phrase hz="糟踏" py="zāo,ta" />
+	</char>
+	<char hz="凿" py="záo" />
+	<char hz="早" py="zǎo" />
+	<char hz="枣" py="zǎo" />
+	<char hz="蚤" py="zǎo">
+		<phrase hz="虼蚤" py="gè,zao" />
+	</char>
+	<char hz="澡" py="zǎo" />
+	<char hz="璪" py="zǎo" />
+	<char hz="藻" py="zǎo" />
+	<char hz="皂" py="zào" />
+	<char hz="唣" py="zào" />
+	<char hz="灶" py="zào" />
+	<char hz="造" py="zào">
+		<phrase hz="造诣" py="zào,yì" />
+	</char>
+	<char hz="慥" py="zào" />
+	<char hz="簉" py="zào" />
+	<char hz="噪" py="zào" />
+	<char hz="燥" py="zào" />
+	<char hz="躁" py="zào" />
+</pinyin>

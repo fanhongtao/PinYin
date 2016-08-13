@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="妮" py="nī" />
+	<char hz="尼" py="ní" />
+	<char hz="坭" py="ní" />
+	<char hz="呢" py="ní" multi="ne">
+		<phrase hz="呢子" py="ní,zi" />
+		<phrase hz="呢喃" py="ní,nán" />
+		<definition id="一">
+			<item text="（-子）一种毛织物。" />
+			<item text="[呢喃](-nán)形容燕子的叫声。" />
+		</definition>
+	</char>
+	<char hz="泥" py="ní" multi="nì" main="1">
+		<definition id="一">
+			<item id="1" text="土和水合成的东西。" />
+			<item id="2" text="像泥的东西：印~（印色）. 枣~. 山药~." />
+		</definition>
+	</char>
+	<char hz="怩" py="ní" />
+	<char hz="铌" py="ní" />
+	<char hz="倪" py="ní" />
+	<char hz="猊" py="ní" />
+	<char hz="霓" py="ní" />
+	<char hz="鲵" py="ní" />
+	<char hz="麑" py="ní" />
+	<char hz="拟" py="nǐ" />
+	<char hz="你" py="nǐ" />
+	<char hz="旎" py="nǐ" />
+	<char hz="泥" py="nì" multi="ní">
+		<phrase hz="拘泥" py="jū,nì" />
+		<definition id="二">
+			<item id="1" text="涂抹：~墙. ~炉子." />
+			<item id="2" text="固执，死板（(连)拘-）。" />
+		</definition>
+	</char>
+	<char hz="昵" py="nì" />
+	<char hz="逆" py="nì" />
+	<char hz="匿" py="nì" />
+	<char hz="睨" py="nì" />
+	<char hz="腻" py="nì" />
+	<char hz="溺" py="nì" multi="niào" main="1">
+		<definition id="一">
+			<item id="1" text="淹没：~死." />
+			<item id="2" text="沉迷不悟，过分：~信. ~爱." />
+		</definition>
+	</char>
+</pinyin>

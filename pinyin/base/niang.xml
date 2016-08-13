@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="娘" py="niáng">
+		<phrase hz="姑娘" py="gū,niang" />
+	</char>
+	<char hz="酿" py="niàng" />
+</pinyin>

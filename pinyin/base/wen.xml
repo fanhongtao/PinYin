@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="温" py="wēn" />
+	<char hz="榅" py="wēn">
+		<phrase hz="榅桲" py="wēn,po" />
+	</char>
+	<char hz="辒" py="wēn">
+		<phrase hz="辒辌" py="wēn,liáng" />
+	</char>
+	<char hz="瘟" py="wēn" />
+	<char hz="蕰" py="wēn" />
+	<char hz="鳁" py="wēn" />
+	<char hz="文" py="wén" />
+	<char hz="纹" py="wén" multi="wèn" main="1">
+		<definition id="一">
+			<item text="条纹（(连)-理）：水~. 指~. 这木头~理很好看." />
+		</definition>
+	</char>
+	<char hz="炆" py="wén" />
+	<char hz="蚊" py="wén" />
+	<char hz="雯" py="wén" />
+	<char hz="闻" py="wén" />
+	<char hz="阌" py="wén" />
+	<char hz="刎" py="wěn" />
+	<char hz="吻" py="wěn" />
+	<char hz="抆" py="wěn" />
+	<char hz="紊" py="wěn" />
+	<char hz="稳" py="wěn" />
+	<char hz="问" py="wèn" />
+	<char hz="汶" py="wèn" />
+	<char hz="纹" py="wèn" multi="wén">
+		<definition id="二">
+			<item text="同“璺”。" />
+		</definition>
+	</char>
+	<char hz="揾" py="wèn" />
+	<char hz="璺" py="wèn">
+		<definition>
+			<item text="器物上的裂痕：这个碗有一道~. 打破沙锅~（谐“问”）到底." />
+		</definition>
+	</char>
+</pinyin>

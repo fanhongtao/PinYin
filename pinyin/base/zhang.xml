@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="张" py="zhāng">
+		<phrase hz="嚣张" py="xiāo,zhāng" />
+		<phrase hz="张罗" py="zhāng,luo" />
+	</char>
+	<char hz="章" py="zhāng">
+		<phrase hz="乐章" py="yuè,zhāng" />
+	</char>
+	<char hz="鄣" py="zhāng" />
+	<char hz="獐" py="zhāng" />
+	<char hz="彰" py="zhāng">
+		<phrase hz="彰善瘅恶" py="zhāng,shàn,dàn,è" />
+	</char>
+	<char hz="漳" py="zhāng" />
+	<char hz="嫜" py="zhāng" />
+	<char hz="璋" py="zhāng" />
+	<char hz="樟" py="zhāng" />
+	<char hz="蟑" py="zhāng">
+		<phrase hz="蟑螂" py="zhāng,láng" />
+	</char>
+	<char hz="长" py="zhǎng" multi="cháng">
+		<phrase hz="长疮" py="zhǎng,chuāng" />
+		<phrase hz="长见识" py="zhǎng,jiàn,shi" />
+		<phrase hz="增长" py="zēng,zhǎng" />
+		<phrase hz="长兄" py="zhǎng,xiōng" />
+		<phrase hz="长孙" py="zhǎng,sūn" />
+		<phrase hz="长子" py="zhǎng,zǐ" />
+		<phrase hz="师长" py="shī,zhǎng" />
+		<phrase hz="长者" py="zhǎng,zhě" />
+		<phrase hz="长辈" py="zhǎng,bèi" />
+		<phrase hz="学长" py="xué,zhǎng" />
+		<phrase hz="部长" py="bù,zhǎng" />
+		<phrase hz="校长" py="xiào,zhǎng" />
+		<definition id="二">
+			<item id="1" text="生，发育：~疮. 庄稼~得很旺." />
+			<item id="2" text="增加：~见识. 在实践中增~才干." />
+			<item id="3" text="排行中第一的：~兄. ~孙. [长子]1.排行第一的儿子。 2.地名，在山西省。" />
+			<item id="4" text="辈分高或年纪大的：师~. ~者. ~辈. 敬辞：学~." />
+			<item id="5" text="主持人，机关、团体等单位的负责人：部~. 校~." />
+		</definition>
+	</char>
+	<char hz="涨" py="zhǎng" multi="zhàng" main="1">
+		<definition id="一">
+			<item id="1" text="水量增加，水面高起来：水~船高. 河里~水了." />
+			<item id="2" text="价格提高：~钱. ~价." />
+		</definition>
+	</char>
+	<char hz="仉" py="zhǎng" />
+	<char hz="掌" py="zhǎng" />
+	<char hz="礃" py="zhǎng" />
+	<char hz="丈" py="zhàng" />
+	<char hz="仗" py="zhàng" />
+	<char hz="杖" py="zhàng" />
+	<char hz="帐" py="zhàng" />
+	<char hz="账" py="zhàng" />
+	<char hz="胀" py="zhàng" />
+	<char hz="涨" py="zhàng" multi="zhǎng">
+		<phrase hz="泡涨" py="pào,zhàng" />
+		<phrase hz="烟尘涨天" py="yān,chén,zhàng,tiān" />
+		<phrase hz="头昏脑涨" py="tóu,hūn,nǎo,zhàng" />
+		<phrase hz="涨红" py="zhàng,hóng" />
+		<definition id="二">
+			<item id="1" text="体积增大：豆子泡~了." />
+			<item id="2" text="弥漫：烟尘~天." />
+			<item id="3" text="多出来：~出十块钱." />
+			<item id="4" text="头部充血：头昏脑~. 他气得~红了脸." />
+		</definition>
+	</char>
+	<char hz="障" py="zhàng" />
+	<char hz="嶂" py="zhàng" />
+	<char hz="幛" py="zhàng" />
+	<char hz="瘴" py="zhàng" />
+</pinyin>

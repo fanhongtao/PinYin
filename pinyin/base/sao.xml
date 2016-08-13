@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="搔" py="sāo" />
+	<char hz="骚" py="sāo" />
+	<char hz="缫" py="sāo">
+		<definition>
+			<item text="把蚕茧浸在滚水里抽丝：~丝. ~车（缫丝用的器具）." />
+		</definition>
+	</char>
+	<char hz="缲" py="sāo" multi="qiāo">
+		<definition id="二">
+			<item text="同“缫”。" />
+		</definition>
+	</char>
+	<char hz="臊" py="sāo" multi="sào" main="1">
+		<definition id="一">
+			<item text="像尿那样难闻的气味：尿~气. 狐~." />
+		</definition>
+	</char>
+	<char hz="扫" py="sǎo" multi="sào" main="1">
+		<phrase hz="扫兴" py="sǎo,xìng" />
+		<definition id="一">
+			<item id="1" text="拿笤帚等除去尘土：~地." />
+			<item id="2" text="像扫一样的动作或作用。 1.消除：~兴(xìng). ~除文盲. 2.动作达到各方面：~射. 眼睛四下里一~. 3.全，所有的：~数归还." />
+		</definition>
+	</char>
+	<char hz="嫂" py="sǎo" />
+	<char hz="扫" py="sào" multi="sǎo">
+		<phrase hz="扫帚" py="sào,zhou" />
+		<definition id="二">
+			<item text="[扫帚](-zhou)一种用竹枝等做的扫地用具。" />
+		</definition>
+	</char>
+	<char hz="埽" py="sào" />
+	<char hz="瘙" py="sào" />
+	<char hz="臊" py="sào" multi="sāo" info="Word主音">
+		<phrase hz="臊得脸红" py="sào,dé,liǎn,hóng" />
+		<phrase hz="羞臊" py="xiū,sào" />
+		<definition id="二">
+			<item text="害羞：~得脸通红. 不知羞~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="勋" py="xūn" />
+	<char hz="埙" py="xūn" />
+	<char hz="熏" py="xūn" multi="xùn" main="1">
+		<definition id="一">
+			<item id="1" text="气味或烟气接触物品：~豆腐. ~肉. 把墙~黑了. 用茉莉花~茶叶." />
+			<item id="2" text="气味刺激人：臭气~人." />
+			<item id="3" text="和暖：~风." />
+		</definition>
+	</char>
+	<char hz="薰" py="xūn" />
+	<char hz="獯" py="xūn">
+		<phrase hz="獯鬻" py="xūn,yù" />
+	</char>
+	<char hz="曛" py="xūn" />
+	<char hz="醺" py="xūn" />
+	<char hz="窨" py="xūn" multi="yìn">
+		<phrase hz="窨茶叶" py="xūn,chá,yè" />
+		<definition id="二">
+			<item text="同“熏”，用于窨茶叶。把茉莉花等放在茶叶中，使茶叶染上花的香味。" />
+		</definition>
+	</char>
+	<char hz="旬" py="xún" />
+	<char hz="郇" py="xún" multi="huán">
+		<definition id="一">
+			<item id="1" text="周代诸侯国名，在今山西省临猗西南。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="询" py="xún" />
+	<char hz="荀" py="xún" />
+	<char hz="峋" py="xún" />
+	<char hz="洵" py="xún" />
+	<char hz="恂" py="xún" />
+	<char hz="珣" py="xún" />
+	<char hz="栒" py="xún" />
+	<char hz="寻" py="xún">
+		<phrase hz="寻思" py="xún,si" />
+	</char>
+	<char hz="荨" py="xún" multi="qián">
+		<phrase hz="荨麻疹" py="xún,má,zhěn" />
+		<definition id="二">
+			<item text="[荨麻疹]一种过敏性皮疹，俗叫“风疹疙瘩”。" />
+		</definition>
+	</char>
+	<char hz="㖊" py="xún" />
+	<char hz="浔" py="xún" />
+	<char hz="鲟" py="xún" />
+	<char hz="紃" py="xún" trans="1" />
+	<char hz="巡" py="xún" />
+	<char hz="循" py="xún" />
+	<char hz="训" py="xùn" />
+	<char hz="驯" py="xùn" />
+	<char hz="讯" py="xùn" />
+	<char hz="汛" py="xùn" />
+	<char hz="迅" py="xùn" />
+	<char hz="徇" py="xùn" />
+	<char hz="殉" py="xùn">
+		<phrase hz="殉难" py="xùn,nàn" />
+	</char>
+	<char hz="逊" py="xùn" />
+	<char hz="浚" py="xùn" multi="jùn">
+		<phrase hz="浚县" py="xùn,xiàn" />
+		<definition id="二">
+			<item text="浚县，在河南省。" />
+		</definition>
+	</char>
+	<char hz="巽" py="xùn" />
+	<char hz="噀" py="xùn" />
+	<char hz="熏" py="xùn" multi="xūn">
+		<definition id="二">
+			<item text="〈方〉（煤气）使人窒息中毒：炉子安上烟筒，就不至于~着了." />
+		</definition>
+	</char>
+	<char hz="蕈" py="xùn" />
+</pinyin>

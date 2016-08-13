@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="因" py="yīn" />
+	<char hz="茵" py="yīn" />
+	<char hz="洇" py="yīn">
+		<definition>
+			<item text="液体接触纸张等向周围渗透散开：这种纸写起来有些~." />
+		</definition>
+	</char>
+	<char hz="姻" py="yīn" />
+	<char hz="骃" py="yīn" />
+	<char hz="氤" py="yīn">
+		<phrase hz="氤氲" py="yīn,yūn" />
+	</char>
+	<char hz="铟" py="yīn" />
+	<char hz="裀" py="yīn" />
+	<char hz="阴" py="yīn" />
+	<char hz="音" py="yīn" />
+	<char hz="喑" py="yīn" />
+	<char hz="愔" py="yīn" />
+	<char hz="殷" py="yīn" multi="yān" main="1">
+		<definition id="一">
+			<item id="1" text="深厚，丰盛：情意甚~. ~切的期望. [殷实]富足，富裕：家道~~." />
+			<item id="2" text="[殷勤]周到，尽心：做事很~~. ~~招待." />
+			<item id="3" text="殷朝，商朝的后期，由盘庚起称殷（公元前1300——公元前1046年）。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="溵" py="yīn">
+		<phrase hz="溵溜" py="yīn,liù" />
+	</char>
+	<char hz="堙" py="yīn" />
+	<char hz="闉" py="yīn" trans="1" />
+	<char hz="湮" py="yīn" multi="yān">
+		<definition id="二">
+			<item text="同“洇”。" />
+		</definition>
+	</char>
+	<char hz="禋" py="yīn" />
+	<char hz="吟" py="yín" />
+	<char hz="垠" py="yín" />
+	<char hz="银" py="yín" />
+	<char hz="龈" py="yín" multi="kěn">
+		<phrase hz="牙龈" py="yá,yín" />
+		<definition id="一">
+			<item text="牙龈，牙床子，牙根上的肉。" />
+		</definition>
+	</char>
+	<char hz="狺" py="yín" />
+	<char hz="訚" py="yín" />
+	<char hz="崟" py="yín" />
+	<char hz="淫" py="yín" />
+	<char hz="霪" py="yín" />
+	<char hz="寅" py="yín" />
+	<char hz="夤" py="yín" />
+	<char hz="龂" py="yín" />
+	<char hz="鄞" py="yín" />
+	<char hz="蟫" py="yín" />
+	<char hz="嚚" py="yín" />
+	<char hz="尹" py="yǐn" />
+	<char hz="引" py="yǐn">
+		<phrase hz="引子" py="yǐn,zi" />
+	</char>
+	<char hz="吲" py="yǐn">
+		<phrase hz="吲哚" py="yǐn,duǒ" />
+	</char>
+	<char hz="蚓" py="yǐn" />
+	<char hz="饮" py="yǐn" multi="yìn" main="1">
+		<definition id="一">
+			<item id="1" text="喝：~水思源." />
+			<item id="2" text="可喝的东西：冷~." />
+			<item id="3" text="含忍：~恨." />
+		</definition>
+	</char>
+	<char hz="隐" py="yǐn" />
+	<char hz="瘾" py="yǐn" />
+	<char hz="䌥" py="yǐn" trans="1" />
+	<char hz="印" py="yìn">
+		<phrase hz="印把子" py="yìn,bà,zi" />
+	</char>
+	<char hz="茚" py="yìn" />
+	<char hz="" py="yìn" />
+	<char hz="饮" py="yìn" multi="yǐn">
+		<phrase hz="饮马" py="yìn,mǎ" />
+		<phrase hz="饮牛" py="yìn,niú" />
+		<definition id="二">
+			<item text="给牲畜水喝：~马. ~牛." />
+		</definition>
+	</char>
+	<char hz="荫" py="yìn" />
+	<char hz="胤" py="yìn" />
+	<char hz="窨" py="yìn" multi="xūn" main="1">
+		<definition id="一">
+			<item text="地窨子，地下室。" />
+		</definition>
+	</char>
+	<char hz="慭" py="yìn" />
+</pinyin>

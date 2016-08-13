@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="心" py="xīn" />
+	<char hz="芯" py="xīn" multi="xìn" main="1">
+		<definition id="一">
+			<item text="去皮的灯心草：灯~." />
+		</definition>
+	</char>
+	<char hz="辛" py="xīn" />
+	<char hz="莘" py="xīn" multi="shēn">
+		<phrase hz="莘庄" py="xīn,zhuāng" />
+		<definition id="二">
+			<item text="古指细辛。一种草本植物，花暗紫色，根细，有辣味，可入药。" />
+			<item text="[莘庄]地名，在上海市。" />
+		</definition>
+	</char>
+	<char hz="锌" py="xīn" />
+	<char hz="新" py="xīn" />
+	<char hz="薪" py="xīn" />
+	<char hz="忻" py="xīn" />
+	<char hz="昕" py="xīn" />
+	<char hz="欣" py="xīn" />
+	<char hz="" py="xīn" />
+	<char hz="焮" py="xīn" info="(又)xìn" />
+	<char hz="歆" py="xīn" />
+	<char hz="馨" py="xīn" />
+	<char hz="鑫" py="xīn" />
+	<char hz="镡" py="xín" />
+	<char hz="囟" py="xìn" />
+	<char hz="芯" py="xìn" multi="xīn">
+		<phrase hz="芯子" py="xìn,zǐ" />
+		<definition id="二">
+			<item id="1" text="（-子）装在器物中心的捻子或消息儿，如蜡烛的捻子、爆竹的引线等。" />
+			<item id="2" text="（-子）蛇的舌头。" />
+		</definition>
+	</char>
+	<char hz="信" py="xìn" />
+	<char hz="衅" py="xìn" />
+	<!-- <char hz="焮" py="xìn" info="(又)xīn"/> -->
+</pinyin>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哎" py="āi">
+		<phrase hz="哎哟" py="āi,yō" />
+		<definition>
+			<item text="叹词，表示不满或提醒：~，你怎么能这么说呢! ~，你们看，谁来了！ [哎呀]叹词，表示惊讶。 [哎哟](-yō)叹词，表示惊讶、痛苦。" />
+		</definition>
+	</char>
+	<char hz="哀" py="āi" />
+	<char hz="锿" py="āi" />
+	<char hz="埃" py="āi" />
+	<char hz="挨" py="āi" multi="ái">
+		<phrase hz="挨着" py="āi,zhe" />
+		<phrase hz="挨家" py="āi,jiā" />
+		<phrase hz="挨户" py="āi,hù" />
+		<definition id="一">
+			<item id="1" text="靠近：居民区~着一条河." />
+			<item id="2" text="顺着（一定次序）：~家查问. ~着号叫." />
+		</definition>
+	</char>
+	<char hz="唉" py="āi" multi="ài" main="1">
+		<definition id="一">
+			<item text="叹词。1.表示答应：~，听见了. 2.表示叹息：~，一天的工夫又白费了. 3.表示招呼：~，你来一下." />
+		</definition>
+	</char>
+	<char hz="娭" py="āi">
+		<phrase hz="娭毑" py="āi,jiě" />
+	</char>
+	<char hz="嗳" py="āi" multi="ǎi,ài">
+		<definition id="三">
+			<item text="同“哎”" />
+		</definition>
+	</char>
+	<char hz="挨" py="ái" multi="āi" main="1">
+		<phrase hz="挨饿" py="ái,è" />
+		<phrase hz="挨打" py="ái,dǎ" />
+		<phrase hz="挨骂" py="ái,mà" />
+		<phrase hz="挨日子" py="ái,rì,zi" />
+		<definition id="二">
+			<item id="1" text="遭受，亲身受到：~饿. ~打. ~骂." />
+			<item id="2" text="困难地度过（岁月）：~日子." />
+			<item id="3" text="拖延：别~磨了，快走吧." />
+		</definition>
+	</char>
+	<char hz="騃" py="ái" trans="1" />
+	<char hz="皑" py="ái" />
+	<char hz="癌" py="ái" />
+	<char hz="毐" py="ǎi" />
+	<char hz="欸" py="ǎi" multi="ēi,éi,ěi,èi">
+		<phrase hz="欸乃" py="ǎi,nǎi" />
+		<definition id="五">
+			<item text="[欸乃]（-nǎi）拟声词，摇橹声：~~一声山水绿." />
+		</definition>
+	</char>
+	<char hz="嗳" py="ǎi" multi="āi,ài">
+		<definition id="一">
+			<item text="叹词，表示否定或不同意：~，别那么说. ~，不是这样放." />
+		</definition>
+	</char>
+	<char hz="矮" py="ǎi" />
+	<char hz="蔼" py="ǎi" />
+	<char hz="霭" py="ǎi" />
+	<char hz="艾" py="ài" multi="yì" main="1">
+		<phrase hz="方兴未艾" py="fāng,xīng,wèi,ài" />
+		<phrase hz="少艾" py="shào,ài" />
+		<phrase hz="艾滋病" py="ài,zī,bìng" />
+		<definition id="一">
+			<item id="1" text="多年生草本植物，开黄色小花，叶制成艾绒，可供灸病使用。" />
+			<item id="2" text="止，绝：方兴未~." />
+			<item id="3" text="漂亮，美：少~（年轻漂亮的人）." />
+			<item id="4" text="姓" />
+		</definition>
+	</char>
+	<char hz="砹" py="ài" />
+	<char hz="唉" py="ài" multi="āi">
+		<definition id="二">
+			<item text="叹词，表示伤感或惋惜：~，病了两个月，把工作都耽搁了." />
+		</definition>
+	</char>
+	<char hz="爱" py="ài" />
+	<char hz="嗳" py="ài" multi="āi,ǎi" main="1">
+		<definition id="二">
+			<item text="叹词，表示懊恼、悔恨：~，早知道是这样，我就不来了." />
+		</definition>
+	</char>
+	<char hz="嫒" py="ài" />
+	<char hz="瑷" py="ài">
+		<phrase hz="瑷珲" py="ài,huī" />
+		<definition>
+			<item text="[瑷珲](-huī)地名，在黑龙江省。今作“爱辉”。"/>
+		</definition>
+	</char>
+	<char hz="叆" py="ài">
+		<phrase hz="叆叇" py="ài,dài" />
+	</char>
+	<char hz="暧" py="ài" />
+	<char hz="餲" py="ài" multi="hé" main="1" trans="1">
+		<definition id="一">
+			<item text="食物经久而变味。" />
+		</definition>
+	</char>
+	<char hz="隘" py="ài" />
+	<char hz="嗌" py="ài" multi="yì">
+		<definition id="一">
+			<item text="噎，食物塞住嗓子。" />
+		</definition>
+	</char>
+	<char hz="碍" py="ài" />
+</pinyin>

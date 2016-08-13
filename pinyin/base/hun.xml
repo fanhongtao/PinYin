@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="昏" py="hūn" />
+	<char hz="阍" py="hūn" />
+	<char hz="惛" py="hūn" />
+	<char hz="婚" py="hūn" />
+	<char hz="荤" py="hūn" />
+	<char hz="浑" py="hún">
+		<definition>
+			<item id="1" text="水不清，污浊：~水坑." />
+			<item id="2" text="骂人糊涂，不明事理：~人. ~话." />
+			<item id="3" text="全，满：~身是汗." />
+			<item id="4" text="天然的：~朴. ~厚." />
+		</definition>
+	</char>
+	<char hz="珲" py="hún" multi="huī" main="1">
+		<definition id="一">
+			<item text="[珲春]地名，在吉林省。" />
+		</definition>
+	</char>
+	<char hz="馄" py="hún">
+		<phrase hz="馄饨" py="hún,tun" />
+	</char>
+	<char hz="混" py="hún" multi="hùn">
+		<definition id="二">
+			<item text="同“浑(1)(2)。" />
+		</definition>
+	</char>
+	<char hz="魂" py="hún" />
+	<char hz="诨" py="hún" />
+	<char hz="混" py="hùn" multi="hún" main="1">
+		<phrase hz="混沌" py="hùn,dùn" />
+		<definition id="一">
+			<item id="1" text="掺杂在一起：~合物. ~杂. ~入. ~充. ~为一谈." />
+			<item id="2" text="苟且度过：~日子. 鬼~." />
+			<item id="3" text="蒙混：~过去了. 鱼目~珠." />
+			<item id="4" text="胡乱：~乱. ~出主意." />
+			<item text="[混沌](-dùn)1.传说中指世界开辟前的状态。 2.糊涂，不清楚。" />
+		</definition>
+	</char>
+	<char hz="溷" py="hùn" />
+</pinyin>

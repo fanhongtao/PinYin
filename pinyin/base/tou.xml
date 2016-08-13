@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="偷" py="tōu">
+		<phrase hz="偷空" py="tōu,kōng" />
+	</char>
+	<char hz="鍮" py="tōu" trans="1" />
+	<char hz="头" py="tóu" />
+	<char hz="投" py="tóu">
+		<phrase hz="投奔" py="tóu,bèn" />
+		<phrase hz="投其所好" py="tóu,qí,suǒ,hào" />
+	</char>
+	<char hz="骰" py="tóu" />
+	<!-- <char hz="钭" py="tǒu" info="(又)dǒu" /> -->
+	<char hz="㪗" py="tǒu" />
+	<char hz="透" py="tòu" />
+</pinyin>

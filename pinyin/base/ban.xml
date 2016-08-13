@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="扳" py="bān" />
+	<char hz="攽" py="bān" />
+	<char hz="班" py="bān" />
+	<char hz="斑" py="bān">
+		<phrase hz="斑斓" py="bān,lán" />
+	</char>
+	<char hz="癍" py="bān" />
+	<char hz="般" py="bān" />
+	<char hz="搬" py="bān" />
+	<char hz="瘢" py="bān" />
+	<char hz="阪" py="bǎn" />
+	<char hz="坂" py="bǎn" />
+	<char hz="板" py="bǎn" />
+	<char hz="版" py="bǎn" />
+	<char hz="钣" py="bǎn" />
+	<char hz="舨" py="bǎn" />
+	<char hz="办" py="bàn">
+		<phrase hz="重办" py="zhòng,bàn" />
+	</char>
+	<char hz="半" py="bàn" />
+	<char hz="伴" py="bàn" />
+	<char hz="拌" py="bàn" />
+	<char hz="绊" py="bàn">
+		<phrase hz="羁绊" py="jī,bàn" />
+	</char>
+	<char hz="柈" py="bàn" />
+	<char hz="靽" py="bàn" />
+	<char hz="扮" py="bàn" />
+	<char hz="瓣" py="bàn" />
+</pinyin>

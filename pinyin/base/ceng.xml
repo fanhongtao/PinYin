@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="噌" py="cēng" />
+	<char hz="层" py="céng" />
+	<char hz="曾" py="céng" multi="zēng" info="Word主音">
+		<phrase hz="曾经" py="céng,jīng" />
+		<phrase hz="未曾" py="wèi,céng" />
+		<phrase hz="何曾" py="hé,céng" />
+		<phrase hz="曾几何时" py="céng,jǐ,hé,shí" />
+		<definition id="二">
+			<item text="曾经，表示以前经历过：未~. 何~. 他~去北京两次. ~几何时（表示时间过去没多久）." />
+		</definition>
+	</char>
+	<char hz="嶒" py="céng" />
+	<char hz="蹭" py="cèng">
+		<phrase hz="磨蹭" py="mó,ceng" />
+		<phrase hz="蹭蹬" py="cèng,dèng" />
+	</char>
+</pinyin>

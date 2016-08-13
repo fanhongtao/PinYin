@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咑" py="dā" />
+	<char hz="耷" py="dā">
+		<phrase hz="耷拉" py="dā,la" />
+	</char>
+	<char hz="哒" py="dā" />
+	<char hz="搭" py="dā">
+		<phrase hz="搭载" py="dā,zài" />
+	</char>
+	<char hz="嗒" py="dā" multi="tà" main="1">
+		<definition id="二">
+			<item text="拟声词，马蹄声、机关枪声等（叠）。" />
+		</definition>
+	</char>
+	<char hz="鎝" py="dā" trans="1" />
+	<char hz="褡" py="dā" />
+	<char hz="答" py="dā" multi="dá">
+		<phrase hz="答理" py="dā,li" />
+		<phrase hz="答应" py="dā,ying" />
+		<definition id="二">
+			<item text="同“答(一)”，用于口语“答应”、“答理”等词。[答理](-li)打招呼，理睬。 [答应](-ying)1.应声回答。2.允许：我们坚决不~~." />
+		</definition>
+	</char>
+	<char hz="打" py="dá" multi="dǎ">
+		<definition id="二">
+			<item text="(外)量词，12个为1打。" />
+		</definition>
+	</char>
+	<char hz="达" py="dá" />
+	<char hz="荙" py="dá" />
+	<char hz="鞑" py="dá" />
+	<char hz="沓" py="dá" multi="tà">
+		<definition id="二">
+			<item text="（-子、-儿）量词，用于叠起来的纸张或其他薄的东西：一~子信纸." />
+		</definition>
+	</char>
+	<char hz="怛" py="dá" />
+	<char hz="妲" py="dá" />
+	<char hz="炟" py="dá" />
+	<char hz="笪" py="dá" />
+	<char hz="靼" py="dá" />
+	<char hz="答" py="dá" multi="dā" main="1">
+		<definition id="一">
+			<item id="1" text="回答，回复（(连)-复）：问~. ~话." />
+			<item id="2" text="还报：报~. ~谢. ~礼." />
+		</definition>
+	</char>
+	<char hz="瘩" py="dá" multi="da" main="1">
+		<definition id="一">
+			<item text="[瘩背]中医称生在背部的痈。也叫“搭手”。" />
+		</definition>
+	</char>
+	<char hz="打" py="dǎ" multi="dá" main="1">
+		<definition id="一">
+			<item id="1" text="击：~铁. ~门. ~鼓. ~靶. ~垮. (引)放射：~枪. ~闪. [打击]使受到挫折：~~侵略者." />
+			<item id="2" text="表示各种动作，代替许多有具体意义的动词。1.除去：~虫. ~沫（把液体上面的沫去掉）. ~食（服药帮助消化）. 2.毁坏，损伤，破碎：衣服被虫~了. 碗~了. 3.取，收，捕：~鱼. ~粮食. ~柴. ~水. 4. 购买：~车票. ~酒. 5.举：~伞. ~灯笼. ~旗子. 6.揭开，破开：~帐子. ~西瓜. ~鸡蛋. 7. 建造：~井. ~墙. 8.制作，编织：~镰刀. ~桌椅. ~毛衣. 9. 捆扎：~铺盖卷. ~裹腿. 10.涂抹：~蜡. ~桐油. 11.玩耍，做某种文体活动：~秋千. ~球. 12.通，发：~一个电报去. ~电话. 13.计算：精~细算. 设备费~二百元. 14.立，定：~下基础. ~主意. ~草稿. 15.从事或担任某些工作：~杂儿. ~前站. 16.表示身体上的某些动作：~手势. ~冷战. ~哈欠. ~前失（马前腿跌倒）. ~滚儿." />
+			<item id="3" text="与某些动词结合为一个动词：~扮. ~扫. ~搅. ~扰." />
+			<item id="4" text="介词，从，自：~去年起. ~哪里来？" />
+		</definition>
+	</char>
+	<char hz="大" py="dà" multi="dài" main="1">
+		<definition id="一">
+			<item id="1" text="跟“小”相对。1.占的空间较多，面积较广，容量较多：~山. ~树. 这间房比那间~. 2.数量较多：~众. ~量. 3.程度深，范围广：~冷天. ~干社会主义. ~快人心. 4.声音较响：~声说话. 5.年长，排行第一：~哥. 老~. 6.敬辞：~作. 尊姓~名. [大夫]古代官职名称。（另dàifu，见“大”dài） [大王]1.古代尊称国王. 2.指最长于某种事情的人：爆破~~. 3.指垄断某种行业的人：钢铁~~. （另dàiwang，见“大”dài）" />
+			<item id="2" text="时间更远：~前年. ~后天." />
+			<item id="3" text="不很详细，不很准确：~略. ~概. ~约." />
+			<item id="4" text="〈方〉称父亲或伯父。" />
+			<item text="[大黄](dà-)(dài-)(又) 又叫“川军”。多年生草本植物，夏季多数开黄白色小花，根及极好状茎粗壮，黄色，可入药。" />
+			<item text="〈古〉又同“太”、“泰”(tài)，如“大子”、“大山”等。" />
+		</definition>
+	</char>
+	<char hz="垯" py="da" />
+	<char hz="繨" py="da" trans="1" />
+	<char hz="跶" py="da" />
+	<char hz="瘩" py="da" multi="dá">
+		<phrase hz="疙瘩" py="gē,da" />
+		<definition id="二">
+			<item text="见“疙”字条“疙瘩”(gē-)。" />
+		</definition>
+	</char>
+</pinyin>

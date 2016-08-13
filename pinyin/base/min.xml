@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="民" py="mín" />
+	<char hz="苠" py="mín">
+		<phrase hz="苠子" py="mín,cǎn,zi" />
+	</char>
+	<char hz="岷" py="mín" />
+	<char hz="珉" py="mín" />
+	<char hz="缗" py="mín" />
+	<char hz="旻" py="mín" />
+	<char hz="皿" py="mǐn" />
+	<char hz="闵" py="mǐn" />
+	<char hz="悯" py="mǐn" />
+	<char hz="闽" py="mǐn" />
+	<char hz="抿" py="mǐn" />
+	<char hz="泯" py="mǐn" />
+	<char hz="湣" py="mǐn" />
+	<char hz="愍" py="mǐn" />
+	<char hz="黾" py="mǐn">
+		<phrase hz="黾勉" py="mǐn,miǎn" />
+	</char>
+	<char hz="敏" py="mǐn" />
+	<char hz="鳘" py="mǐn" />
+</pinyin>

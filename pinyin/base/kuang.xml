@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="匡" py="kuāng" />
+	<char hz="劻" py="kuāng">
+		<phrase hz="劻勷" py="kuāng,ráng" />
+	</char>
+	<char hz="诓" py="kuāng" />
+	<char hz="哐" py="kuāng">
+		<phrase hz="哐啷" py="kuāng,lāng" />
+	</char>
+	<char hz="洭" py="kuāng" />
+	<char hz="筐" py="kuāng" />
+	<char hz="狂" py="kuáng" />
+	<char hz="诳" py="kuáng" />
+	<char hz="夼" py="kuǎng" />
+	<char hz="邝" py="kuàng" />
+	<char hz="圹" py="kuàng">
+		<phrase hz="圹埌" py="kuàng,làng" />
+	</char>
+	<char hz="纩" py="kuàng" />
+	<char hz="旷" py="kuàng" />
+	<char hz="矿" py="kuàng" />
+	<char hz="况" py="kuàng" />
+	<char hz="贶" py="kuàng" />
+	<char hz="框" py="kuàng" />
+	<char hz="眶" py="kuàng" />
+</pinyin>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肓" py="huāng" />
+	<char hz="荒" py="huāng" />
+	<char hz="塃" py="huāng" />
+	<char hz="慌" py="huāng" />
+	<char hz="皇" py="huáng" />
+	<char hz="凰" py="huáng" />
+	<char hz="隍" py="huáng" />
+	<char hz="喤" py="huáng" />
+	<char hz="遑" py="huáng" />
+	<char hz="徨" py="huáng" />
+	<char hz="湟" py="huáng" />
+	<char hz="惶" py="huáng" />
+	<char hz="煌" py="huáng" />
+	<char hz="锽" py="huáng" />
+	<char hz="蝗" py="huáng">
+		<definition>
+			<item text="蝗虫，一种吃庄稼的害虫，常常成群飞翔。也叫“蚂蚱”(mǎzha)。"/>
+		</definition>
+	</char>
+	<char hz="篁" py="huáng" />
+	<char hz="艎" py="huáng" />
+	<char hz="鳇" py="huáng" />
+	<char hz="黄" py="huáng" />
+	<char hz="潢" py="huáng" />
+	<char hz="璜" py="huáng" />
+	<char hz="磺" py="huáng" />
+	<char hz="鐄" py="huáng" trans="1" />
+	<char hz="癀" py="huáng" />
+	<char hz="蟥" py="huáng" />
+	<char hz="簧" py="huáng" />
+	<char hz="恍" py="huǎng">
+		<phrase hz="恍惚" py="huǎng,hū" />
+	</char>
+	<char hz="晃" py="huǎng" multi="huàng" main="1">
+		<definition id="一">
+			<item id="1" text="明亮（叠）：明~~的刺刀." />
+			<item id="2" text="照耀：~眼（光线强烈刺激眼睛）." />
+			<item id="3" text="很快地闪过：窗户上有个人影，一~就不见了." />
+		</definition>
+	</char>
+	<char hz="幌" py="huǎng">
+		<phrase hz="幌子" py="huǎng,zi" />
+	</char>
+	<char hz="谎" py="huǎng" />
+	<char hz="晃" py="huàng" multi="huǎng">
+		<phrase hz="晃动" py="huàng,dòng" />
+		<definition id="二">
+			<item text="摇动，摆动（(连)摇-）：树枝来回~." />
+		</definition>
+	</char>
+	<char hz="滉" py="huàng">
+		<phrase hz="滉瀁" py="huàng,yǎng" />
+	</char>
+	<char hz="皝" py="huàng" />
+</pinyin>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肯" py="kěn">
+		<phrase hz="肯綮" py="kěn,qìng" />
+		<phrase hz="中肯" py="zhòng,kěn" />
+	</char>
+	<char hz="啃" py="kěn">
+		<definition>
+			<item text="用力从较硬的东西上一点一点地咬下来：~老玉米. 老鼠把抽屉~坏了." />
+		</definition>
+	</char>
+	<char hz="垦" py="kěn" />
+	<char hz="恳" py="kěn" />
+	<char hz="龈" py="kěn" multi="yín" main="1">
+		<definition id="二">
+			<item text="同“啃”。" />
+		</definition>
+	</char>
+	<char hz="掯" py="kěn">
+		<phrase hz="勒掯" py="lēi,kěn" />
+	</char>
+	<char hz="裉" py="kěn" />
+</pinyin>

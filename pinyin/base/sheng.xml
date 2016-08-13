@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="升" py="shēng" />
+	<char hz="生" py="shēng" />
+	<char hz="牲" py="shēng" />
+	<char hz="胜" py="shēng" multi="shèng">
+		<definition id="二">
+			<item text="“肽”的旧称。" />
+		</definition>
+	</char>
+	<char hz="笙" py="shēng" />
+	<char hz="甥" py="shēng" />
+	<char hz="声" py="shēng">
+		<phrase hz="声调" py="shēng,diào" />
+	</char>
+	<char hz="渑" py="shéng" multi="miǎn" main="1">
+		<definition id="二">
+			<item text="古水名，在今山东省淄博一带。" />
+		</definition>
+	</char>
+	<char hz="绳" py="shéng" />
+	<char hz="省" py="shěng" multi="xǐng" main="1">
+		<definition id="一">
+			<item id="1" text="行政区划单位，直属中央。" />
+			<item id="2" text="节约，不费：~钱. ~时间. ~事." />
+			<item id="3" text="简约（(连)-略）：~称. ~写." />
+		</definition>
+	</char>
+	<char hz="眚" py="shěng" />
+	<char hz="圣" py="shèng" />
+	<char hz="胜" py="shèng" multi="shēng" main="1">
+		<definition id="一">
+			<item id="1" text="赢，胜利，跟“败”相对：打~仗. 得~." />
+			<item id="2" text="打败（对方）：以少~多." />
+			<item id="3" text="超过：今~于昔. 一个~似一个." />
+			<item id="4" text="优美的：~地. ~景. (引)优美的地方或境界：名~. 引人入~." />
+			<item id="5" text="（旧读 shēng） 能担任，能承受：~任. 不~其烦." />
+			<item id="6" text="（旧读 shēng） 尽：不~感激. 不~枚举." />
+		</definition>
+	</char>
+	<char hz="晟" py="shèng" />
+	<char hz="盛" py="shèng" multi="chéng" main="1">
+		<definition id="一">
+			<item id="1" text="兴旺：旺~. 茂~. 繁荣昌~. 梅花~开." />
+			<item id="2" text="炽烈：年轻气~. 火势很~." />
+			<item id="3" text="丰富，华美：~宴. ~装." />
+			<item id="4" text="热烈，大规模的：~会. ~况." />
+			<item id="5" text="深厚：~意. ~情." />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+	<char hz="乘" py="shèng" multi="chéng">
+		<phrase hz="史乘" py="shǐ,shèng" />
+		<phrase hz="千乘之国" py="qiān,shèng,zhī,guó" />
+		<definition id="二">
+			<item id="1" text="春秋时晋国的史书叫乘，后因称一般的史书为乘：史~." />
+			<item id="2" text="量词，古代用于四匹马拉的兵车：千~之国." />
+		</definition>
+	</char>
+	<char hz="剩" py="shèng" />
+	<char hz="嵊" py="shèng" />
+</pinyin>

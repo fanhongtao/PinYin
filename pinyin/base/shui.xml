@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<!-- <char hz="谁" py="shuí" info="(又)shéi"/> -->
+	<char hz="水" py="shuǐ" />
+	<char hz="说" py="shuì" multi="shuō,yuè">
+		<phrase hz="游说" py="yóu,shuì" />
+		<definition id="二">
+			<item text="用话劝说别人，使他听从自己的意见：游~." />
+		</definition>
+	</char>
+	<char hz="帨" py="shuì" />
+	<char hz="税" py="shuì" />
+	<char hz="睡" py="shuì">
+		<phrase hz="睡着了" py="shuì,zháo,le" />
+	</char>
+</pinyin>

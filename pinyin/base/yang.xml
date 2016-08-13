@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="央" py="yāng" />
+	<char hz="泱" py="yāng" />
+	<char hz="殃" py="yāng" />
+	<char hz="鸯" py="yāng" />
+	<char hz="秧" py="yāng">
+		<phrase hz="秧歌" py="yāng,ge" />
+	</char>
+	<char hz="鞅" py="yāng" multi="yàng" main="1">
+		<definition id="一">
+			<item text="古代用马拉车时套在马颈上的皮子。" />
+		</definition>
+	</char>
+	<char hz="扬" py="yáng">
+		<phrase hz="扬扬止沸" py="yáng,yáng,zhǐ,fèi" />
+		<phrase hz="扬场" py="yáng,chǎng" />
+	</char>
+	<char hz="玚" py="yáng" />
+	<char hz="杨" py="yáng" />
+	<char hz="旸" py="yáng" />
+	<char hz="炀" py="yáng" />
+	<char hz="钖" py="yáng" />
+	<char hz="疡" py="yáng" />
+	<char hz="羊" py="yáng" />
+	<char hz="佯" py="yáng" />
+	<char hz="垟" py="yáng" />
+	<char hz="徉" py="yáng" />
+	<char hz="洋" py="yáng" />
+	<char hz="烊" py="yáng" multi="yàng" main="1">
+		<definition id="一">
+			<item text="熔化金属。 (引)〈方〉溶化：糖~了." />
+		</definition>
+	</char>
+	<char hz="蛘" py="yáng" />
+	<char hz="阳" py="yáng" />
+	<char hz="仰" py="yǎng" />
+	<char hz="养" py="yǎng" />
+	<char hz="氧" py="yǎng" />
+	<char hz="痒" py="yǎng" />
+	<char hz="瀁" py="yǎng" />
+	<char hz="怏" py="yàng" />
+	<char hz="鞅" py="yàng" multi="yāng" info="Word主音">
+		<phrase hz="牛鞅" py="niú,yàng" />
+		<definition id="二">
+			<item text="牛鞅，牛拉东西时架在脖子上的器具。" />
+		</definition>
+	</char>
+	<char hz="样" py="yàng" />
+	<char hz="恙" py="yàng" />
+	<char hz="烊" py="yàng" multi="yáng">
+		<phrase hz="打烊" py="dǎ,yàng" />
+		<definition id="二">
+			<item text="[打烊]〈方〉商店晚上关门停止营业。" />
+		</definition>
+	</char>
+	<char hz="羕" py="yàng" />
+	<char hz="漾" py="yàng" />
+</pinyin>

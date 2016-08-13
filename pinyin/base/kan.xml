@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刊" py="kān" />
+	<char hz="看" py="kān" multi="kàn">
+		<phrase hz="看门" py="kān,mén" />
+		<phrase hz="看家" py="kān,jiā" />
+		<phrase hz="看守" py="kān,shǒu" />
+		<phrase hz="看护" py="kān,hù" />
+		<definition id="二">
+			<item text="守护：~门. ~家. ~守. (转)监视：把他~起来. [看护]1.护理。 2.旧时称护士。" />
+		</definition>
+	</char>
+	<char hz="勘" py="kān" />
+	<char hz="堪" py="kān" />
+	<char hz="戡" py="kān" />
+	<char hz="龛" py="kān" />
+	<char hz="坎" py="kǎn">
+		<phrase hz="坎坷" py="kǎn,kě" />
+		<definition>
+			<item id="1" text="低陷不平的地方，坑穴。" />
+			<item id="2" text="八卦之一，符号是“☵”，代表水。" />
+			<item id="3" text="同“槛(二)”。" />
+			<item id="4" text="发光强度单位名坎德拉的简称，符号cd。" />
+			<item text="[坎坷](-kě)1.道路不平的样子。 2.比喻不得志。" />
+		</definition>
+	</char>
+	<char hz="砍" py="kǎn" />
+	<char hz="莰" py="kǎn" />
+	<char hz="侃" py="kǎn" />
+	<char hz="槛" py="kǎn" multi="jiàn">
+		<phrase hz="门槛" py="mén,kǎn" />
+		<definition id="二">
+			<item text="门槛，门限。" />
+		</definition>
+	</char>
+	<char hz="顑" py="kǎn" trans="1">
+		<phrase hz="顑颔" py="kǎn,hàn" />
+	</char>
+	<char hz="看" py="kàn" multi="kān" main="1">
+		<definition id="一">
+			<item id="1" text="瞧，瞅：~书. ~电影." />
+			<item id="2" text="观察（(连)察-）：~脉. ~透. (引)诊治：~病. 大夫把我的病~好了." />
+			<item id="3" text="访问，拜望（(连)-望）：到医院里去~病人." />
+			<item id="4" text="看待，照应，对待：另眼相~. ~重. 照~." />
+			<item id="5" text="想，以为：我~应该这么办." />
+			<item id="6" text="先试试以观察它的结果：问一声~. 做做~." />
+			<item id="7" text="提防，小心：别跑，~摔着." />
+		</definition>
+	</char>
+	<char hz="衎" py="kàn" />
+	<char hz="崁" py="kàn" />
+	<char hz="墈" py="kàn" />
+	<char hz="磡" py="kàn" />
+	<char hz="阚" py="kàn" multi="hǎn" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="瞰" py="kàn" />
+</pinyin>

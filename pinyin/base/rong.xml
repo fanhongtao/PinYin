@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="戎" py="róng" />
+	<char hz="狨" py="róng" />
+	<char hz="绒" py="róng" />
+	<char hz="茸" py="róng" />
+	<char hz="荣" py="róng" />
+	<char hz="嵘" py="róng" />
+	<char hz="蝾" py="róng">
+		<phrase hz="蝾螈" py="róng,yuán" />
+	</char>
+	<char hz="容" py="róng" />
+	<char hz="蓉" py="róng" />
+	<char hz="溶" py="róng" />
+	<char hz="瑢" py="róng" />
+	<char hz="榕" py="róng" />
+	<char hz="熔" py="róng" />
+	<char hz="镕" py="róng" />
+	<char hz="融" py="róng" />
+	<char hz="冗" py="rǒng" />
+	<char hz="氄" py="rǒng" trans="1" />
+</pinyin>

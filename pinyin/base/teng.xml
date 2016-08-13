@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="熥" py="tēng" />
+	<char hz="鼟" py="tēng" />
+	<char hz="疼" py="téng" />
+	<char hz="腾" py="téng">
+		<phrase hz="倒腾" py="dǎo,teng" />
+		<phrase hz="翻腾" py="fān,teng" />
+		<phrase hz="折腾" py="zhē,teng" />
+		<phrase hz="闹腾" py="nào,teng" />
+	</char>
+	<char hz="誊" py="téng" />
+	<char hz="滕" py="téng" />
+	<char hz="螣" py="téng" />
+	<char hz="縢" py="téng" />
+	<char hz="藤" py="téng" />
+	<char hz="" py="téng" />
+</pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="矻" py="kū" />
+	<char hz="刳" py="kū" />
+	<char hz="枯" py="kū" />
+	<char hz="骷" py="kū">
+		<phrase hz="骷髅" py="kū,lóu" />
+	</char>
+	<char hz="哭" py="kū" />
+	<char hz="圐" py="kū">
+		<phrase hz="圐圙" py="kū,lüè" />
+	</char>
+	<char hz="窟" py="kū">
+		<phrase hz="窟窿" py="kū,long" />
+	</char>
+	<char hz="苦" py="kǔ" />
+	<char hz="库" py="kù" />
+	<char hz="裤" py="kù" />
+	<char hz="绔" py="kù" />
+	<char hz="喾" py="kù" />
+	<char hz="酷" py="kù" />
+</pinyin>

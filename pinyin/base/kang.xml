@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="闶" py="kāng" multi="kàng">
+		<phrase hz="闶阆" py="kāng,láng" />
+		<definition id="一">
+			<item text="[闶阆](-láng)〈方〉建筑物中空旷的部分。也叫“闶阆子”。" />
+		</definition>
+	</char>
+	<char hz="康" py="kāng" />
+	<char hz="慷" py="kāng">
+		<phrase hz="慷慨" py="kāng,kǎi" />
+	</char>
+	<char hz="槺" py="kāng" />
+	<char hz="鱇" py="kāng" trans="1" />
+	<char hz="扛" py="káng" multi="gāng" main="1">
+		<definition id="一">
+			<item text="用肩膀承担：~粮食. ~着一杆枪. ~活（旧时指做长工）." />
+		</definition>
+	</char>
+	<char hz="亢" py="kàng" />
+	<char hz="伉" py="kàng">
+		<phrase hz="伉俪" py="kàng,lì" />
+	</char>
+	<char hz="抗" py="kàng" />
+	<char hz="闶" py="kàng" multi="kāng" main="1">
+		<definition id="二">
+			<item text="高大。" />
+		</definition>
+	</char>
+	<char hz="炕" py="kàng" />
+	<char hz="钪" py="kàng" />
+</pinyin>

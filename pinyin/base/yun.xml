@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="晕" py="yūn" multi="yùn" info="Word主音">
+		<phrase hz="晕倒" py="yūn,dǎo" />
+		<phrase hz="晕过去了" py="yūn,guò,qù,le" />
+		<phrase hz="头晕" py="tóu,yūn" />
+		<phrase hz="晕头转向" py="yūn,tóu,zhuàn,xiàng" />
+		<definition id="二">
+			<item text="昏迷：~倒. ~过去了. (引)头脑不清：头~. ~头转向." />
+		</definition>
+	</char>
+	<char hz="氲" py="yūn" />
+	<char hz="赟" py="yūn" />
+	<char hz="云" py="yún" />
+	<char hz="芸" py="yún">
+		<phrase hz="芸薹" py="yún,tái" />
+	</char>
+	<char hz="沄" py="yún" />
+	<char hz="纭" py="yún">
+		<phrase hz="纷纭" py="fēn,yún" />
+	</char>
+	<char hz="耘" py="yún" />
+	<char hz="匀" py="yún" />
+	<char hz="昀" py="yún" />
+	<char hz="畇" py="yún" />
+	<char hz="筠" py="yún" multi="jūn" main="1">
+		<definition id="一">
+			<item id="1" text="竹皮。" />
+			<item id="2" text="竹子。" />
+		</definition>
+	</char>
+	<char hz="鋆" py="yún" />
+	<char hz="员" py="yún" multi="yuán,yùn">
+		<phrase hz="伍员" py="wǔ,yún" />
+		<definition id="二">
+			<item text="用于人名。伍员（即伍子胥），春秋时人。" />
+		</definition>
+	</char>
+	<char hz="郧" py="yún" />
+	<char hz="涢" py="yún" />
+	<char hz="筼" py="yún">
+		<phrase hz="筼筜" py="yún,dāng" />
+	</char>
+	<char hz="允" py="yǔn" />
+	<char hz="狁" py="yǔn" />
+	<char hz="陨" py="yǔn" />
+	<char hz="殒" py="yǔn" />
+	<char hz="孕" py="yùn" />
+	<char hz="运" py="yùn" />
+	<char hz="酝" py="yùn">
+		<phrase hz="酝酿" py="yùn,niàng" />
+	</char>
+	<char hz="员" py="yùn" multi="yuán,yún">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="郓" py="yùn" />
+	<char hz="恽" py="yùn" />
+	<char hz="晕" py="yùn" multi="yūn" main="1">
+		<definition id="一">
+			<item id="1" text="日光或月光通过云层时因折射作用而在太阳或月亮周围形成的光圈：日~. 月~而风." />
+			<item id="2" text="头发昏：一坐船就~." />
+		</definition>
+	</char>
+	<char hz="愠" py="yùn" />
+	<char hz="缊" py="yùn" />
+	<char hz="韫" py="yùn" />
+	<char hz="蕴" py="yùn" />
+	<char hz="韵" py="yùn" />
+	<char hz="熨" py="yùn" multi="yù" main="1">
+		<phrase hz="熨斗" py="yùn,dǒu" />
+		<definition id="一">
+			<item text="用烙铁、熨斗把衣布等烫平。 [熨斗](-dǒu)加热后用来烫平衣服的金属器具。" />
+		</definition>
+	</char>
+</pinyin>

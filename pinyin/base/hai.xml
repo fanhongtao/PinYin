@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咳" py="hāi" multi="ké" main="1">
+		<definition id="二">
+			<item id="1" text="叹息：~声叹气." />
+			<item id="2" text="叹词。1.表示惋惜或后悔：~，我为什么这么糊涂！ 2.招呼人，提醒人注意：~，到这儿来." />
+		</definition>
+	</char>
+	<char hz="嗨" py="hāi" multi="hēi" main="1">
+		<definition id="一">
+			<item text="叹词，同“咳(二)(2)”。" />
+		</definition>
+	</char>
+	<char hz="还" py="hái" multi="huán" main="1">
+		<phrase hz="还是" py="hái,shi" />
+		<definition id="二">
+			<item id="1" text="仍旧，依然：你~是那样. 这件事~没有做完." />
+			<item id="2" text="更：今天比昨天~热." />
+			<item id="3" text="再，又：另外~有一件事要做. 提高产量，~要保证质量." />
+			<item id="4" text="尚，勉强过得去：身体~好. 工作进展得~不算慢." />
+			<item id="5" text="尚且：他那么大年经~这么干，咱们更应该加油干了. [还是](-shi)1.副词，表示这么办比较好：咱们~~出去吧. 2.连词，用在问句里表示选择：是你去呢，~~他来？" />
+			<item id="6" text="表示对某件事物，没想到如此，而居然如此：他~真有办法." />
+		</definition>
+	</char>
+	<char hz="孩" py="hái" />
+	<char hz="骸" py="hái" />
+	<char hz="胲" py="hǎi" />
+	<char hz="海" py="hǎi" />
+	<char hz="醢" py="hǎi" />
+	<char hz="亥" py="hài" />
+	<char hz="骇" py="hài" />
+	<char hz="氦" py="hài" />
+	<char hz="害" py="hài" />
+	<char hz="嗐" py="hài" />
+</pinyin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="收" py="shōu" />
+	<char hz="熟" py="shóu" multi="shú">
+		<definition id="二">
+			<item text="义同“熟”(shú)，用于口语。" />
+		</definition>
+	</char>
+	<char hz="手" py="shǒu" />
+	<char hz="守" py="shǒu" />
+	<char hz="首" py="shǒu" />
+	<char hz="寿" py="shòu" />
+	<char hz="受" py="shòu" />
+	<char hz="授" py="shòu" />
+	<char hz="绶" py="shòu" />
+	<char hz="狩" py="shòu" />
+	<char hz="售" py="shòu" />
+	<char hz="兽" py="shòu" />
+	<char hz="瘦" py="shòu" />
+</pinyin>

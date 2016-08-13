@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呷" py="xiā" />
+	<char hz="虾" py="xiā" multi="há" main="1">
+		<definition id="一">
+			<item text="节肢动物，身上有壳，腹部有很多环节。生活在水里，种类很多，可以吃。" />
+		</definition>
+	</char>
+	<char hz="瞎" py="xiā" />
+	<char hz="匣" py="xiá" />
+	<char hz="狎" py="xiá" />
+	<char hz="柙" py="xiá" />
+	<char hz="侠" py="xiá" />
+	<char hz="峡" py="xiá" />
+	<char hz="狭" py="xiá" />
+	<char hz="硖" py="xiá" />
+	<char hz="遐" py="xiá" />
+	<char hz="瑕" py="xiá" />
+	<char hz="暇" py="xiá" />
+	<char hz="霞" py="xiá">
+		<phrase hz="朝霞" py="zhāo,xiá" />
+	</char>
+	<char hz="辖" py="xiá" />
+	<char hz="黠" py="xiá" />
+	<char hz="下" py="xià">
+		<phrase hz="正中下怀" py="zhèng,zhòng,xià,huái" />
+	</char>
+	<char hz="吓" py="xià" multi="hè" main="1">
+		<phrase hz="吓唬" py="xià,hu" />
+		<definition id="一">
+			<item text="使害怕：困难~不倒英雄汉. [吓唬](-hu)使人害怕，威胁：你别~~人." />
+		</definition>
+	</char>
+	<char hz="夏" py="xiá" />
+	<char hz="厦" py="xià" multi="shà">
+		<phrase hz="厦门" py="xià,mén" />
+		<definition id="二">
+			<item text="[厦门]地名，在福建省。" />
+		</definition>
+	</char>
+	<char hz="唬" py="xià" multi="hǔ">
+		<definition id="二">
+			<item text="同“吓”。" />
+		</definition>
+	</char>
+	<char hz="罅" py="xià" />
+</pinyin>

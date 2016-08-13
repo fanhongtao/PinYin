@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="勒" py="lēi" multi="lè">
+		<phrase hz="勒紧" py="lēi,jǐn" />
+		<definition id="二">
+			<item text="用绳子等捆住或套住，再用力拉紧：~紧点，免得散(sǎn)了." />
+		</definition>
+	</char>
+	<char hz="累" py="léi" multi="lěi,lèi">
+		<phrase hz="果实累累" py="guǒ,shí,léi,léi" />
+		<phrase hz="累赘" py="léi,zhui" />
+		<definition id="三">
+			<item id="1" text="连缀或捆。 [累累]连续成串：果实~~. [累赘](-zhui)多余的负担，麻烦：这事多~~." />
+			<item id="2" text="绳索。" />
+			<item id="3" text="缠绕。" />
+		</definition>
+	</char>
+	<char hz="嫘" py="léi" />
+	<char hz="缧" py="léi">
+		<phrase hz="缧绁" py="léi,xiè" />
+	</char>
+	<char hz="雷" py="léi" />
+	<char hz="擂" py="léi" multi="lèi" main="1">
+		<definition id="一">
+			<item id="1" text="研磨：~钵（研东西的钵）." />
+			<item id="2" text="打：~鼓. 自吹自~（喻自我吹嘘）." />
+		</definition>
+	</char>
+	<char hz="檑" py="léi" />
+	<char hz="礌" py="léi" />
+	<char hz="羸" py="léi" />
+	<char hz="罍" py="léi" />
+	<char hz="耒" py="lěi">
+		<phrase hz="耒耜" py="lěi,sì" />
+	</char>
+	<char hz="诔" py="lěi" />
+	<char hz="垒" py="lěi" />
+	<char hz="累" py="lěi" multi="léi,lèi">
+		<phrase hz="危如累卵" py="wēi,rú,lěi,luǎn" />
+		<phrase hz="积年累月" py="jī,nián,lěi,yuè" />
+		<phrase hz="累累" py="lěi,lěi" />
+		<phrase hz="累进" py="lěi,jìn" />
+		<phrase hz="连累" py="lián,lěi" />
+		<phrase hz="累及" py="lěi,jí" />
+		<phrase hz="受累" py="shòu,lěi" />
+		<phrase hz="牵累" py="qiān,lěi" />
+		<definition id="一">
+			<item id="1" text="重叠，堆积：危如~卵. 积年~月. [累累]1.屡屡。 2.形容累积得多：罪行~~. [累进]照原数目多少而递增，如 2、4、8、16 等，原数越大，增加的数也越大：~~率. ~~税." />
+			<item id="2" text="连累：~及. 受~. 牵~. ~你操心." />
+		</definition>
+	</char>
+	<char hz="磊" py="lěi" />
+	<char hz="蕾" py="lěi" />
+	<char hz="儡" py="lěi" />
+	<char hz="肋" py="lèi" multi="lē" main="1">
+		<definition id="一">
+			<item text="胸部的两旁：两~. ~骨." />
+		</definition>
+	</char>
+	<char hz="泪" py="lèi" />
+	<char hz="类" py="lèi" />
+	<char hz="颣" py="lèi" />
+	<char hz="累" py="lèi" multi="léi,lěi" main="1">
+		<definition id="二">
+			<item id="1" text="疲乏，过劳：我今天~了！" />
+			<item id="2" text="使疲劳：别~着他." />
+		</definition>
+	</char>
+	<char hz="酹" py="lèi" />
+	<char hz="擂" py="lèi" multi="léi" info="Word主音">
+		<phrase hz="擂台" py="lèi,tái" />
+		<phrase hz="摆擂" py="bǎi,lèi" />
+		<phrase hz="打擂" py="dǎ,lèi" />
+		<definition id="二">
+			<item text="擂台，古时候比武的台子：摆~. 打~." />
+		</definition>
+	</char>
+	<char hz="嘞" py="lei" />
+</pinyin>

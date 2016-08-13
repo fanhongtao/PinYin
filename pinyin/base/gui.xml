@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="归" py="guī" />
+	<char hz="圭" py="guī">
+		<phrase hz="圭臬" py="guī,niè" />
+	</char>
+	<char hz="邽" py="guī" />
+	<char hz="闺" py="guī" />
+	<char hz="硅" py="guī" />
+	<char hz="鲑" py="guī" />
+	<char hz="龟" py="guī" multi="qiū,jūn" main="1">
+		<phrase hz="蓍龟" py="shī,guī" />
+		<definition id="一">
+			<item text="爬行动物，种类很多。腹背都有硬甲，头尾和脚能缩入甲中，能耐饥渴，寿命很长。龟甲也叫龟板，可以入药。古人用龟甲占卜（迷信）：~卜. 蓍(shī)龟. [龟鉴][龟镜]用龟卜，用镜照，比喻可资借鉴的事例或道理。" />
+		</definition>
+	</char>
+	<char hz="妫" py="guī" />
+	<char hz="规" py="guī">
+		<phrase hz="规矩" py="guī,ju" />
+	</char>
+	<char hz="鬹" py="guī" />
+	<char hz="皈" py="guī" />
+	<char hz="瑰" py="guī" />
+	<char hz="氿" py="guǐ" multi="jiǔ">
+		<phrase hz="氿泉" py="guǐ,quán" />
+		<definition id="一">
+			<item text="[氿泉]，从侧面喷出的泉。" />
+		</definition>
+	</char>
+	<char hz="宄" py="guǐ" />
+	<char hz="轨" py="guǐ" />
+	<char hz="匦" py="guǐ" />
+	<char hz="庋" py="guǐ" />
+	<char hz="诡" py="guǐ" />
+	<char hz="姽" py="guǐ">
+		<phrase hz="姽婳" py="guǐ,huà" />
+	</char>
+	<char hz="鬼" py="guǐ" />
+	<char hz="癸" py="guǐ" />
+	<char hz="晷" py="guǐ" />
+	<char hz="簋" py="guǐ" />
+	<char hz="柜" py="guì" multi="jǔ" main="1">
+		<definition id="一">
+			<item text="（-子）一种收藏东西用的器具，通常作长方形，有盖或有门：衣~. 保险~." />
+		</definition>
+	</char>
+	<char hz="炅" py="guì" multi="jiǒng" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="刿" py="guì" />
+	<char hz="刽" py="guì" />
+	<char hz="桧" py="guì" multi="huì" main="1">
+		<definition id="一">
+			<item text="植物学上叫“圆柏”。常绿乔木，幼树的叶子针状，大树的叶子鳞片状，果实球形，木材桃红色，有香气，可供建筑及制造铅笔杆等。" />
+		</definition>
+	</char>
+	<char hz="贵" py="guì" />
+	<char hz="桂" py="guì" />
+	<char hz="跪" py="guì" />
+	<char hz="鳜" py="guì" />
+</pinyin>

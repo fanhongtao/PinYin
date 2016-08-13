@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="轩" py="xuān">
+		<phrase hz="轩轾" py="xuān,zhì" />
+	</char>
+	<char hz="宣" py="xuān" />
+	<char hz="揎" py="xuān" />
+	<char hz="萱" py="xuān" />
+	<char hz="喧" py="xuān" />
+	<char hz="瑄" py="xuān" />
+	<char hz="暄" py="xuān" />
+	<char hz="煊" py="xuān" />
+	<char hz="谖" py="xuān" />
+	<char hz="儇" py="xuān" />
+	<char hz="翾" py="xuān" />
+	<char hz="禤" py="xuān" />
+	<char hz="玄" py="xuán" />
+	<char hz="痃" py="xuán" />
+	<char hz="悬" py="xuán" />
+	<char hz="旋" py="xuán" multi="xuàn" main="1">
+		<definition id="一">
+			<item id="1" text="旋转，转动：螺~. 回~." />
+			<item id="2" text="回，归：~里. 凯~." />
+			<item id="3" text="不久：~即离去." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="漩" py="xuán" />
+	<char hz="璇" py="xuán">
+		<phrase hz="璇玑" py="xuán,jī" />
+	</char>
+	<char hz="选" py="xuǎn">
+		<phrase hz="选种" py="xuǎn,zhǒng" />
+	</char>
+	<char hz="晅" py="xuǎn" />
+	<char hz="烜" py="xuǎn" />
+	<char hz="癣" py="xuǎn" />
+	<char hz="券" py="xuàn" multi="quàn">
+		<phrase hz="拱券" py="gǒng,xuàn" />
+		<definition id="二">
+			<item text="拱券，门窗、桥梁等建筑成弧形的部分。" />
+		</definition>
+	</char>
+	<char hz="泫" py="xuàn" />
+	<char hz="炫" py="xuàn" />
+	<char hz="眩" py="xuàn" />
+	<char hz="铉" py="xuàn" />
+	<char hz="绚" py="xuàn" />
+	<char hz="旋" py="xuàn" multi="xuán">
+		<phrase hz="旋风" py="xuàn,fēng" />
+		<phrase hz="旋吃旋做" py="xuàn,chī,xuàn,zuò" />
+		<phrase hz="旋子" py="xuàn,zi" />
+		<phrase hz="旋床" py="xuàn,chuáng" />
+		<definition id="二">
+			<item id="1" text="旋转的：~风." />
+			<item id="2" text="临时（做）：~吃~做." />
+			<item id="3" text="（-子）温酒的器具。" />
+			<item id="4" text="用车床或刀子转(zhuàn)着圈地削：用车床~零件. [旋床]把金属或木料切削成圆形或球形的机器。也叫“车床”。" />
+		</definition>
+	</char>
+	<char hz="䃠" py="xuàn" />
+	<char hz="渲" py="xuàn" />
+	<char hz="楦" py="xuàn" />
+	<char hz="碹" py="xuàn" />
+</pinyin>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="厾" py="dū" />
+	<char hz="都" py="dū" multi="dōu">
+		<phrase hz="首都" py="shǒu,dū" />
+		<phrase hz="建都" py="jiàn,dū" />
+		<phrase hz="都市" py="dū,shì" />
+		<phrase hz="通都大邑" py="tōng,dū,dà,yì" />
+		<definition id="一">
+			<item id="1" text="首都，全国最高领导机关所在的地方：建~." />
+			<item id="2" text="大城市（(连)-市）：通~大邑." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="阇" py="dū" multi="shé" main="1">
+		<definition id="一">
+			<item text="城门上的台。" />
+		</definition>
+	</char>
+	<char hz="嘟" py="dū">
+		<phrase hz="嘟囔" py="dū,nang" />
+		<phrase hz="嘟噜" py="dū,lu" />
+	</char>
+	<char hz="㞘" py="dū" />
+	<char hz="督" py="dū" />
+	<char hz="毒" py="dú">
+		<phrase hz="中毒" py="zhòng,dú" />
+	</char>
+	<char hz="独" py="dú" />
+	<char hz="顿" py="dú" multi="dùn">
+		<phrase hz="冒顿" py="mò,dú" />
+		<definition id="二">
+			<item text="见“冒”字条“冒顿”(mò-)。" />
+		</definition>
+	</char>
+	<char hz="读" py="dú" multi="dòu" main="1">
+		<definition id="一">
+			<item text="依照文字念：宣~. 朗~. ~报. (引)1.阅读，看书，阅览：~书. ~者. 2.求学：~大学." />
+		</definition>
+	</char>
+	<char hz="渎" py="dú" />
+	<char hz="椟" py="dú" />
+	<char hz="犊" py="dú" />
+	<char hz="牍" py="dú" />
+	<char hz="讟" py="dú" trans="1" />
+	<char hz="黩" py="dú" />
+	<char hz="髑" py="dú">
+		<phrase hz="髑髅" py="dú,lóu" />
+	</char>
+	<char hz="肚" py="dǔ" multi="dù">
+		<definition id="二">
+			<item text="（-子、-儿）动物的胃作食品时叫肚：猪~子. 羊~儿." />
+		</definition>
+	</char>
+	<char hz="笃" py="dǔ" />
+	<char hz="堵" py="dǔ">
+		<phrase hz="堵塞" py="dǔ,sè" />
+	</char>
+	<char hz="赌" py="dǔ" />
+	<char hz="睹" py="dǔ" />
+	<char hz="芏" py="dù">
+		<phrase hz="茳芏" py="jiāng,dù" />
+	</char>
+	<char hz="杜" py="dù">
+		<phrase hz="杜鹃" py="dù,juān" />
+		<phrase hz="杜撰" py="dù,zhuàn" />
+	</char>
+	<char hz="肚" py="dù" multi="dǔ" main="1">
+		<definition id="一">
+			<item id="1" text="（-子）腹部，胸下腿上的部分。(引)（-儿）器物中空的部分：大~儿坛子." />
+			<item id="2" text="（-子、-儿）圆而凸起像肚子的：腿~子. 手指头~儿." />
+		</definition>
+	</char>
+	<char hz="miss: 钅杜" py="dù" info="special" />
+	<char hz="妒" py="dù" />
+	<char hz="度" py="dù" multi="duó" main="1">
+		<phrase hz="度量衡" py="dù,liàng,héng" />
+		<definition id="一">
+			<item id="1" text="计算长短的器具或单位：~量(liàng)衡." />
+			<item id="2" text="依照计算的标准划分的单位：温~. 湿~. 经~. 用了20~电." />
+			<item id="3" text="事物所达到的程度：知名~. 高~的爱国热情." />
+			<item id="4" text="法则，应遵行的标准（(连)制-、法-）。" />
+			<item id="5" text="度量，能容受的量：气~. 适~. 过~." />
+			<item id="6" text="过，由此到彼：~日." />
+			<item id="7" text="所打算或考虑的：置之~外." />
+			<item id="8" text="量词，次：一~. 再~. 前~." />
+		</definition>
+	</char>
+	<char hz="渡" py="dù" />
+	<char hz="镀" py="dù" />
+	<char hz="蠹" py="dù" />
+</pinyin>

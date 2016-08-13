@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="捞" py="lāo" />
+	<char hz="劳" py="láo" />
+	<char hz="唠" py="láo" multi="lào">
+		<phrase hz="唠叨" py="láo,dao" />
+		<definition id="二">
+			<item text="[唠叨](-dao)没完没了地说，絮叨：人老了就爱~~." />
+		</definition>
+	</char>
+	<char hz="崂" py="láo" />
+	<char hz="铹" py="láo" />
+	<char hz="痨" py="láo" />
+	<char hz="牢" py="láo">
+		<phrase hz="牢骚" py="láo,sao" />
+	</char>
+	<char hz="醪" py="láo" />
+	<char hz="老" py="lǎo" />
+	<char hz="佬" py="lǎo" />
+	<char hz="荖" py="lǎo" />
+	<char hz="姥" py="lǎo" multi="mǔ" main="1">
+		<phrase hz="姥姥" py="lǎo,lao" />
+		<phrase hz="老老" py="lǎo,lao" />
+		<definition id="二">
+			<item text="[姥姥][老老](-lao)1.外祖母。 2.旧时接生的女人。" />
+		</definition>
+	</char>
+	<char hz="栳" py="lǎo" />
+	<char hz="铑" py="lǎo" />
+	<char hz="潦" py="lǎo" multi="liáo">
+		<definition id="一">
+			<item id="1" text="雨水大。" />
+			<item id="2" text="路上的流水，积水。" />
+		</definition>
+	</char>
+	<char hz="络" py="lào" multi="luò">
+		<phrase hz="络子" py="lào,zi" />
+		<definition id="二">
+			<item text="同“络(一)(1)”，用于一些口语词。 [络子](-zi)1.用线绳结成的网状袋子。 2.绕线等的器具。" />
+		</definition>
+	</char>
+	<char hz="烙" py="lào" multi="luò" main="1">
+		<phrase hz="烙铁" py="lào,tie" />
+		<definition id="一">
+			<item id="1" text="用器物烫、熨：~铁(tie). ~衣服. [烙印]在器物上烧成的做标记的印文。(喻)不易磨灭的痕迹：时代~~." />
+			<item id="2" text="放在器物上煮熟：~饼." />
+		</definition>
+	</char>
+	<char hz="落" py="lào" multi="là,luò">
+		<phrase hz="落炕" py="lào,kàng" />
+		<phrase hz="落枕" py="lào,zhěn" />
+		<definition id="二">
+			<item text="同“落(一)”，用于一些口语词，如“落炕”、“落枕”等。" />
+		</definition>
+	</char>
+	<char hz="酪" py="lào" />
+	<char hz="唠" py="lào" multi="láo" main="1">
+		<definition id="一">
+			<item text="〈方〉说话，闲谈：来，咱们~一~." />
+		</definition>
+	</char>
+	<char hz="涝" py="lào" />
+	<char hz="耢" py="lào" />
+	<char hz="嫪" py="lào" />
+</pinyin>

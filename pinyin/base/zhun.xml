@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="屯" py="zhūn" multi="tún">
+		<phrase hz="屯邅" py="zhūn,zhān" />
+		<definition id="二">
+			<item text="困难。 [屯邅](-zhān)同“迍邅”。" />
+		</definition>
+	</char>
+	<char hz="迍" py="zhūn">
+		<phrase hz="迍邅" py="zhūn,zhān" />
+		<definition>
+			<item text="[迍邅](-zhān) 1.迟迟不前。 2.处在困难中，十分不得志。" />
+		</definition>
+	</char>
+	<char hz="肫" py="zhūn" />
+	<char hz="窀" py="zhūn">
+		<phrase hz="窀穸" py="zhūn,xī" />
+	</char>
+	<char hz="谆" py="zhūn" />
+	<char hz="衠" py="zhūn" />
+	<char hz="准" py="zhǔn" />
+	<char hz="埻" py="zhǔn" />
+</pinyin>

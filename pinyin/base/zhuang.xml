@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="妆" py="zhuāng" />
+	<char hz="庄" py="zhuāng" />
+	<char hz="桩" py="zhuāng" />
+	<char hz="装" py="zhuāng" />
+	<char hz="奘" py="zhuǎng" multi="zàng">
+		<definition id="一">
+			<item text="粗大：这棵树很~." />
+		</definition>
+	</char>
+	<char hz="壮" py="zhuàng" />
+	<char hz="状" py="zhuàng" />
+	<char hz="僮" py="zhuàng" multi="tóng" info="Word主音">
+		<phrase hz="僮族" py="zhuàng,zú" />
+		<definition id="一">
+			<item text="我国少数民族的“壮”字旧作“僮”。" />
+		</definition>
+	</char>
+	<char hz="撞" py="zhuàng" />
+	<char hz="幢" py="zhuàng" multi="chuáng" info="Word主音">
+		<definition id="二">
+			<item text="〈方〉量词：用于房子：一~楼." />
+		</definition>
+	</char>
+	<char hz="戆" py="zhuàng" multi="gàng" main="1">
+		<definition id="一">
+			<item text="刚直：性情~直." />
+		</definition>
+	</char>
+</pinyin>

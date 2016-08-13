@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="三" py="sān" />
+	<char hz="叁" py="sān" />
+	<char hz="毵" py="sān" />
+	<char hz="伞" py="sǎn" />
+	<char hz="散" py="sǎn" multi="sàn">
+		<phrase hz="散居" py="sǎn,sǎn" />
+		<phrase hz="散漫" py="sǎn,màn" />
+		<phrase hz="散文" py="sǎn,wén" />
+		<phrase hz="散装" py="sǎn,zhuāng" />
+		<phrase hz="零零散散" py="líng,líng,sǎn,sǎn" />
+		<phrase hz="丸散膏丹" py="wán,sǎn,gāo,dān" />
+		<phrase hz="健胃散" py="jiàn,wèi,sǎn" />
+		<definition id="二">
+			<item id="1" text="没有约束，松开：披~着头发. 绳子~了. (引)分散(sàn)：~居. 把队伍~开. [散漫]随随便便，不守纪律：自由~~. 生活~~. [散文]文体的名称，对“韵文”而言，不用韵，字句不要求整齐。现多指杂文、随笔、特定等文学作品。" />
+			<item id="2" text="零碎的：~装. 零零~~." />
+			<item id="3" text="药末（多用于中药名）：丸~膏丹. 健胃~." />
+		</definition>
+	</char>
+	<char hz="馓" py="sǎn" />
+	<char hz="糁" py="sǎn" multi="shēn">
+		<definition id="二">
+			<item text="〈方〉米粒（指煮熟的）。" />
+		</definition>
+	</char>
+	<char hz="散" py="sàn" multi="sǎn" main="1">
+		<definition id="一">
+			<item id="1" text="分开，由聚焦而分离：~会. 云彩~了." />
+			<item id="2" text="分布，分给：~传单. 撒种(zhǒng)~粪." />
+			<item id="3" text="排遣：~心. ~闷." />
+			<item id="4" text="〈方〉解雇：过去资本家随便~工人." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="迂" py="yū" />
+	<char hz="纡" py="yū" />
+	<char hz="於" py="yū" multi="wū,yú" info="Word主音">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="淤" py="yū" />
+	<char hz="瘀" py="yū" />
+	<char hz="于" py="yú">
+		<definition>
+			<item id="1" text="介词。 1.在：写~北京. 生~1949年. 2.对于，对：~人民有益. 忠~祖国. 勇~负责. 3.给：勿诿过~人. 光荣归~党. 取之于民，用之~民. 4.自，由：出~自愿. 取之~民，用之于民. 5.向：问道~盲. 6.在形容词后，表示比较，跟“过”的意思相同：霜叶红~二月花. 人民的利益高~一切. 7.在动词后，表示被动：见笑~大方. [于是]连词，表示两件事前后紧接：他听完报告，~~就回去了." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="盂" py="yú" />
+	<char hz="竽" py="yú" />
+	<char hz="与" py="yú" multi="yǔ,yù">
+		<definition id="三">
+			<item text="同“欤”。" />
+		</definition>
+	</char>
+	<char hz="玙" py="yú">
+		<phrase hz="玙璠" py="yú,fán" />
+	</char>
+	<char hz="欤" py="yú">
+		<definition text="文言助词。">
+			<item id="1" text="表示疑问语气：在齐~？在鲁~？" />
+			<item id="2" text="表示感叹语气：论者之言，一倾管窥虎~！" />
+		</definition>
+	</char>
+	<char hz="予" py="yú" multi="yǔ" main="1">
+		<definition id="一">
+			<item text="文言代词，我。" />
+		</definition>
+	</char>
+	<char hz="妤" py="yú" />
+	<char hz="余" py="yú">
+		<phrase hz="余兴" py="yú,xìng" />
+	</char>
+	<char hz="馀" py="yú" />
+	<char hz="狳" py="yú" />
+	<char hz="畬" py="yú" multi="shē">
+		<definition id="一">
+			<item text="开垦过两年的地。" />
+		</definition>
+	</char>
+	<char hz="艅" py="yú">
+		<phrase hz="艅艎" py="yú,huáng" />
+	</char>
+	<char hz="臾" py="yú" />
+	<char hz="谀" py="yú" />
+	<char hz="萸" py="yú" />
+	<char hz="腴" py="yú" />
+	<char hz="鱼" py="yú" />
+	<char hz="渔" py="yú" />
+	<char hz="於" py="yú" multi="wū,yū" main="1">
+		<definition id="一">
+			<item text="同“于(1)”。" />
+		</definition>
+	</char>
+	<char hz="禺" py="yú" />
+	<char hz="隅" py="yú" />
+	<char hz="喁" py="yú" multi="yōng" info="Word主音">
+		<phrase hz="喁喁私语" py="yú,yú,sī,yǔ" />
+		<definition id="二">
+			<item text="[喁喁]形容低声细语：~~私语." />
+		</definition>
+	</char>
+	<char hz="嵎" py="yú" />
+	<char hz="愚" py="yú" />
+	<char hz="髃" py="yú" />
+	<char hz="舁" py="yú" />
+	<char hz="俞" py="yú" multi="shù" main="1">
+		<definition id="一">
+			<item id="1" text="文言叹词，表示允许。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="揄" py="yú" />
+	<char hz="嵛" py="yú" />
+	<char hz="逾" py="yú" />
+	<char hz="渝" py="yú" />
+	<char hz="愉" py="yú" />
+	<char hz="瑜" py="yú">
+		<phrase hz="瑕不掩瑜" py="xiá,bù,yǎn,yú" />
+	</char>
+	<char hz="榆" py="yú" />
+	<char hz="觎" py="yú" />
+	<char hz="窬" py="yú" />
+	<char hz="蝓" py="yú" />
+	<char hz="娱" py="yú" />
+	<char hz="虞" py="yú" />
+	<char hz="雩" py="yú" />
+	<char hz="舆" py="yú" />
+	<char hz="" py="yú" />
+	<char hz="与" py="yǔ" multi="yú,yù" main="1">
+		<definition id="一">
+			<item id="1" text="介词，跟：~疾病作斗争. ~虎谋皮." />
+			<item id="2" text="连词，和：批评~自我批评. 父亲~母亲都来." />
+			<item id="3" text="给：赠~. 交~本人. ~人方便." />
+			<item id="4" text="交往，交好：此人易~. 相~. ~国（相交好的国家）." />
+			<item id="5" text="赞助：~人为善（原指赞助人学好，后多指善意助人）." />
+			<item text="[与其]连词，常跟“宁”、“宁可”、“不如”、“不若”等连胜，表示比较：~~坐车，不如坐船." />
+		</definition>
+	</char>
+	<char hz="屿" py="yǔ" />
+	<char hz="予" py="yǔ" multi="yú">
+		<phrase hz="授予" py="shòu,yǔ" />
+		<phrase hz="予以" py="yǔ,yǐ" />
+		<definition id="二">
+			<item text="给予：授~奖状. ~以协助. ~以处分." />
+		</definition>
+	</char>
+	<char hz="伛" py="yǔ">
+		<phrase hz="伛偻" py="yǔ,lǚ" />
+	</char>
+	<char hz="宇" py="yǔ" />
+	<char hz="羽" py="yǔ" />
+	<char hz="雨" py="yǔ" multi="yù" main="1">
+		<definition id="一">
+			<item text="空气中的水蒸气上升到天空中遇冷凝成云，再遇冷聚集成大水点落下来就是雨。" />
+		</definition>
+	</char>
+	<char hz="俣" py="yǔ" />
+	<char hz="禹" py="yǔ" />
+	<char hz="瑀" py="yǔ" />
+	<char hz="语" py="yǔ" multi="yù" main="1">
+		<definition id="一">
+			<item id="1" text="话（(连)-言）：成~. ~文. 外国~." />
+			<item id="2" text="谚语或古语：~云." />
+			<item id="3" text="代替语言的动作或方式：手~. 旗~." />
+			<item id="4" text="说：不言不~. 默默不~." />
+		</definition>
+	</char>
+	<char hz="圄" py="yǔ" />
+	<char hz="敔" py="yǔ" />
+	<char hz="龉" py="yǔ" />
+	<char hz="圉" py="yǔ" />
+	<char hz="庾" py="yǔ" />
+	<char hz="瘐" py="yǔ" />
+	<char hz="㺄" py="yǔ" />
+	<char hz="窳" py="yǔ" />
+	<char hz="与" py="yù" multi="yú,yǔ">
+		<phrase hz="与会" py="yù,huì" />
+		<phrase hz="与闻此事" py="yù,wén,cǐ,shì" />
+		<definition id="二">
+			<item text="参与，参加：~会. ~闻此事（参与并且得知此事的内情）." />
+		</definition>
+	</char>
+	<char hz="玉" py="yù" />
+	<char hz="钰" py="yù" />
+	<char hz="驭" py="yù" />
+	<char hz="芋" py="yù" />
+	<char hz="吁" py="yù" multi="xū">
+		<phrase hz="吁请" py="yù,qǐng" />
+		<phrase hz="呼吁" py="hū,yù" />
+		<definition id="二">
+			<item text="为某种要求而呼喊：~请. 大声呼~." />
+		</definition>
+	</char>
+	<char hz="聿" py="yù" />
+	<char hz="谷" py="yù" multi="gǔ">
+		<phrase hz="吐谷浑" py="tǔ,yù,hún" />
+		<definition id="二">
+			<item text="[吐谷浑](tǔ-hún)我国古代西部民族名。" />
+		</definition>
+	</char>
+	<char hz="峪" py="yù" />
+	<char hz="浴" py="yù" />
+	<char hz="欲" py="yù" />
+	<char hz="鹆" py="yù" />
+	<char hz="裕" py="yù" />
+	<char hz="饫" py="yù" />
+	<char hz="妪" py="yù" />
+	<char hz="雨" py="yù" multi="yǔ">
+		<definition id="二">
+			<item text="下（雨雪）：~雪." />
+		</definition>
+	</char>
+	<char hz="郁" py="yù">
+		<phrase hz="馥郁" py="fù,yù" />
+	</char>
+	<char hz="育" py="yù" />
+	<char hz="堉" py="yù" />
+	<char hz="淯" py="yù" />
+	<char hz="昱" py="yù" />
+	<char hz="煜" py="yù" />
+	<char hz="狱" py="yù" />
+	<char hz="语" py="yù" multi="yǔ">
+		<phrase hz="不可语人" py="bù,kě,yù,rén" />
+		<definition id="二">
+			<item text="告诉：不以~人." />
+		</definition>
+	</char>
+	<char hz="彧" py="yù" />
+	<char hz="域" py="yù" />
+	<char hz="阈" py="yù" />
+	<char hz="棫" py="yù" />
+	<char hz="蜮" py="yù" />
+	<char hz="预" py="yù" />
+	<char hz="蓣" py="yù" />
+	<char hz="滪" py="yù" />
+	<char hz="豫" py="yù" />
+	<char hz="谕" py="yù" />
+	<char hz="喻" py="yù" />
+	<char hz="愈" py="yù" />
+	<char hz="尉" py="yù" multi="wèi">
+		<phrase hz="尉迟" py="yù,chí" />
+		<phrase hz="尉犁" py="yù,lí" />
+		<definition id="二">
+			<item text="[尉迟]复姓。 [尉犁]地名，在新疆维吾尔自治区。" />
+		</definition>
+	</char>
+	<char hz="蔚" py="yù" multi="wèi">
+		<phrase hz="蔚县" py="yù,xiàn" />
+		<definition id="二">
+			<item id="1" text="蔚县，在河北省。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="熨" py="yù" multi="yùn">
+		<phrase hz="熨帖" py="yù,tiē" />
+		<phrase hz="熨贴" py="yù,tiē" />
+		<definition id="二">
+			<item text="[熨帖][熨贴](-tiē)1.妥帖舒服。 2.〈方〉（事情）完全办妥。" />
+		</definition>
+	</char>
+	<char hz="遇" py="yù" />
+	<char hz="寓" py="yù" />
+	<char hz="御" py="yù" />
+	<char hz="矞" py="yù" />
+	<char hz="潏" py="yù" />
+	<char hz="遹" py="yù" />
+	<char hz="燏" py="yù" />
+	<char hz="鹬" py="yù" />
+	<char hz="誉" py="yù" />
+	<char hz="毓" py="yù" />
+	<char hz="燠" py="yù" />
+	<char hz="鬻" py="yù" />
+</pinyin>

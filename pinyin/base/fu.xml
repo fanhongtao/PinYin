@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="夫" py="fū" multi="fú" main="1">
+		<phrase hz="丈夫" py="zhàng,fu" />
+		<definition id="一">
+			<item id="1" text="成年男子的通称：农~. 渔~. (引)旧时称服劳役的人，也作“伕”（(连)-役）。" />
+			<item id="2" text="丈夫(fu)，跟“妻”、“妇”相对：~妻. ~妇. 姐~. 姑~." />
+			<item text="[夫人]对别人妻子的敬称。" />
+			<item text="[夫子]1.旧时尊称老师或学者。2.旧时妻称丈夫。" />
+		</definition>
+	</char>
+	<char hz="伕" py="fū" />
+	<char hz="呋" py="fū">
+		<phrase hz="呋喃" py="fū,nán" />
+	</char>
+	<char hz="肤" py="fū" />
+	<char hz="鈇" py="fū" trans="1" />
+	<char hz="麸" py="fū" />
+	<char hz="趺" py="fū" />
+	<char hz="跗" py="fū" />
+	<char hz="稃" py="fū" />
+	<char hz="孵" py="fū" />
+	<char hz="鄜" py="fū" />
+	<char hz="敷" py="fū">
+		<phrase hz="敷衍" py="fū,yǎn" />
+		<phrase hz="敷衍了事" py="fū,yǎn,liǎo,shì" />
+	</char>
+	<char hz="夫" py="fú" multi="fū">
+		<phrase hz="夫天地者" py="fú,tiān,dì,zhě" />
+		<phrase hz="逝者如斯夫" py="shì,zhě,rú,sī,fú" />
+		<definition id="二">
+			<item id="1" text="文言发语词：~天地者." />
+			<item id="2" text="文言助词：逝者如斯~." />
+		</definition>
+	</char>
+	<char hz="扶" py="fú" />
+	<char hz="芙" py="fú">
+		<phrase hz="芙蓉" py="fú,róng" />
+	</char>
+	<char hz="蚨" py="fú" />
+	<char hz="弗" py="fú" />
+	<char hz="佛" py="fú" multi="fó">
+		<phrase hz="仿佛" py="fǎng,fú" />
+		<definition id="二">
+			<item text="见“仿”字条“仿佛”(fǎng-)。" />
+		</definition>
+	</char>
+	<char hz="彿" py="fú" info="词组中使用到，所以补充" />
+	<char hz="拂" py="fú" />
+	<char hz="茀" py="fú" />
+	<char hz="怫" py="fú" info="(又)fèi" />
+	<char hz="绋" py="fú" />
+	<char hz="氟" py="fú" />
+	<char hz="艴" py="fú" />
+	<char hz="伏" py="fú" />
+	<char hz="茯" py="fú">
+		<phrase hz="茯苓" py="fú,líng" />
+	</char>
+	<char hz="洑" py="fú" multi="fù" main="1">
+		<definition id="一">
+			<item id="1" text="漩涡。" />
+			<item id="2" text="水在地下潜流。" />
+		</definition>
+	</char>
+	<char hz="柎" py="fú" />
+	<char hz="袱" py="fú">
+		<phrase hz="包袱" py="bāo,fu" />
+	</char>
+	<char hz="凫" py="fú" />
+	<char hz="芾" py="fú" multi="fèi">
+		<definition id="二">
+			<item id="1" text="草木茂盛。" />
+			<item id="2" text="同“黻”。宋代书画家米芾，也作米黻。" />
+		</definition>
+	</char>
+	<char hz="芣" py="fú">
+		<phrase hz="芣苢" py="fú,yǐ" />
+	</char>
+	<char hz="罘" py="fú">
+		<phrase hz="罘罳" py="fú,sī" />
+	</char>
+	<char hz="孚" py="fú" />
+	<char hz="俘" py="fú" />
+	<char hz="郛" py="fú" />
+	<char hz="莩" py="fú" multi="piǎo">
+		<definition id="一">
+			<item text="芦苇秆子里面的薄膜。" />
+		</definition>
+	</char>
+	<char hz="浮" py="fú" />
+	<char hz="桴" py="fú" />
+	<char hz="罦" py="fú">
+		<phrase hz="罦罳" py="fú,sī" />
+	</char>
+	<char hz="蜉" py="fú">
+		<phrase hz="蜉蝣" py="fú,yóu" />
+	</char>
+	<char hz="苻" py="fú" />
+	<char hz="符" py="fú" />
+	<char hz="服" py="fú" multi="fù" main="1">
+		<definition id="一">
+			<item id="1" text="衣服，衣裳（(连)-装）：制~. ~装整齐. 旧时特指丧服。" />
+			<item id="2" text="穿（衣裳）。" />
+			<item id="3" text="承当，担任：~刑. ~兵役." />
+			<item id="4" text="信服，顺从（(连)-从）：说~. 心悦诚~. 心里不~. ~软（认输，认错）. ~从党的领导." />
+			<item id="5" text="习惯，适应：水土不~." />
+			<item id="6" text="吃（药）：~药." />
+		</definition>
+	</char>
+	<char hz="菔" py="fú">
+		<phrase hz="莱菔" py="lái,fú" />
+	</char>
+	<char hz="箙" py="fú" />
+	<char hz="绂" py="fú">
+		<definition>
+			<item text="古代系(jì)印章或佩玉用的丝带。" />
+		</definition>
+	</char>
+	<char hz="韨" py="fú">
+		<definition>
+			<item id="1" text="古代朝见或祭祀时遮在衣前的一种服饰，用熟皮制成。" />
+			<item id="2" text="同“绂”。" />
+		</definition>
+	</char>
+	<char hz="祓" py="fú" />
+	<char hz="黻" py="fú">
+		<definition>
+			<item id="1" text="古代礼服上绣的半青半黑的花纹。" />
+			<item id="2" text="同“韨”。" />
+			<item id="3" text="同“绂”。" />
+		</definition>
+	</char>
+	<char hz="匐" py="fú">
+		<phrase hz="匍匐" py="pú,fú" />
+	</char>
+	<char hz="幅" py="fú" />
+	<char hz="辐" py="fú">
+		<phrase hz="辐辏" py="fú,còu" />
+	</char>
+	<char hz="福" py="fú" />
+	<char hz="蝠" py="fú">
+		<phrase hz="蝙蝠" py="biān,fú" />
+	</char>
+	<char hz="涪" py="fú" />
+	<char hz="幞" py="fú" />
+	<char hz="父" py="fǔ" multi="fù">
+		<phrase hz="田父" py="tián,fǔ" />
+		<phrase hz="渔父" py="yú,fǔ" />
+		<definition id="二">
+			<item id="1" text="老年人：田~. 渔~." />
+			<item id="2" text="同“甫(1)”。" />
+		</definition>
+	</char>
+	<char hz="斧" py="fǔ" />
+	<char hz="釜" py="fǔ" />
+	<char hz="滏" py="fǔ" />
+	<char hz="抚" py="fǔ">
+		<phrase hz="抚恤" py="fǔ,xù" />
+	</char>
+	<char hz="甫" py="fǔ">
+		<definition>
+			<item id="1" text="古代在男子名下加的美称。也作“父”。 [台甫]旧时询问别人名号的用语。" />
+			<item id="2" text="刚，才：~入门. 年~十岁." />
+		</definition>
+	</char>
+	<char hz="辅" py="fǔ" />
+	<char hz="脯" py="fǔ" multi="pú" main="1">
+		<definition id="一">
+			<item id="1" text="肉干：鹿~." />
+			<item id="2" text="果脯，蜜饯果干：桃~. 杏~." />
+		</definition>
+	</char>
+	<char hz="蜅" py="fǔ">
+		<phrase hz="螟蜅鲞" py="míng,fǔ,xiǎng" />
+	</char>
+	<char hz="簠" py="fǔ" />
+	<char hz="黼" py="fǔ" />
+	<char hz="拊" py="fǔ" />
+	<char hz="府" py="fǔ">
+		<phrase hz="相府" py="xiàng,fǔ" />
+		<phrase hz="府上" py="fǔ,shang" />
+	</char>
+	<char hz="俯" py="fǔ" />
+	<char hz="腑" py="fǔ">
+		<phrase hz="脏腑" py="zàng,fǔ" />
+	</char>
+	<char hz="腐" py="fǔ">
+		<phrase hz="豆腐" py="dòu,fu" />
+	</char>
+	<char hz="父" py="fù" multi="fǔ" main="1">
+		<definition id="一">
+			<item id="1" text="父亲，爸爸。" />
+			<item id="2" text="对男性长辈的称呼：叔~. 姨~. 师~. ~老." />
+		</definition>
+	</char>
+	<char hz="讣" py="fù" />
+	<char hz="赴" py="fù" />
+	<char hz="付" py="fù">
+		<definition>
+			<item id="1" text="交，给：~款. ~印. ~表决. ~诸实施. ~出了辛勤的劳动." />
+			<item id="2" text="量词。1.同“副(4)”：一~手套. 一~笑脸. 2.同“服(二)”。" />
+		</definition>
+	</char>
+	<char hz="附" py="fù">
+		<phrase hz="附和" py="fù,hè" />
+	</char>
+	<char hz="驸" py="fù" />
+	<char hz="鲋" py="fù">
+		<phrase hz="涸辙之鲋" py="hé,zhé,zhī,fù" />
+	</char>
+	<char hz="负" py="fù">
+		<phrase hz="负隅顽抗" py="fù,yú,wán,kàng" />
+	</char>
+	<char hz="妇" py="fù" />
+	<char hz="阜" py="fù" />
+	<char hz="服" py="fù" multi="fú">
+		<definition id="二">
+			<item text="量词，用于中药，也作“付”，吃~药就好了." />
+		</definition>
+	</char>
+	<char hz="复" py="fù" />
+	<char hz="腹" py="fù" />
+	<char hz="蝮" py="fù" />
+	<char hz="鳆" py="fù" />
+	<char hz="覆" py="fù">
+		<phrase hz="覆没" py="fù,mò" />
+	</char>
+	<char hz="馥" py="fù" />
+	<char hz="洑" py="fù" multi="fú">
+		<phrase hz="洑水" py="fù,shuǐ" />
+		<definition id="二">
+			<item text="在水里游：~水." />
+		</definition>
+	</char>
+	<char hz="副" py="fù">
+		<definition>
+			<item id="1" text="居第二位的，辅助的（区别于“正”或“主”）：~主席. ~排长." />
+			<item id="2" text="附带的或次要的：~食. ~业. ~作用. ~产品. [副本]1.书籍原稿以外的誊录本。2.重要的文件正式的、标准的一份以外的若干份。 [副词]修饰动词或形容词的词，如都、也、很、太、再三等。" />
+			<item id="3" text="相称(chèn)，符合：名不~实. 名实相~." />
+			<item id="4" text="量词。1.用于组成成套的东西：一~对联. 一~担架. 全~武装. 2.用于面部表情、态度等：一~笑容. 一~庄严而和蔼的面孔." />
+		</definition>
+	</char>
+	<char hz="富" py="fù" />
+	<char hz="赋" py="fù" />
+	<char hz="傅" py="fù" />
+	<char hz="缚" py="fù" />
+	<char hz="赙" py="fù" />
+	<char hz="咐" py="fu" />
+</pinyin>

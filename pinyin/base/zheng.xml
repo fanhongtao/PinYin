@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丁" py="zhēng" multi="dīng">
+		<definition id="二">
+			<item text="[丁丁]拟声词，形容伐木、弹琴等声音。" />
+		</definition>
+	</char>
+	<char hz="正" py="zhēng" multi="zhèng">
+		<phrase hz="正月" py="zhēng,yuè" />
+		<phrase hz="新正" py="xīn,zhēng" />
+		<definition id="二">
+			<item text="正月，夏历一年的第一个月：新~." />
+		</definition>
+	</char>
+	<char hz="征" py="zhēng">
+		<phrase hz="应征" py="yìng,zhēng" />
+		<definition>
+			<item id="1" text="远行：~帆（远行的船）. 踏上~途." />
+			<item id="2" text="用武力制裁：出~. ~讨. [征服]用力制服：~~自然." />
+			<item id="3" text="由国家召集或收用：应(yìng)~入伍. ~税." />
+			<item id="4" text="寻求，希望得到（(连)-求）：~稿. ~求群众的意见." />
+			<item id="5" text="证明，证验：有实物可~." />
+			<item id="6" text="现象，迹象：特~. ~兆." />
+		</definition>
+	</char>
+	<char hz="徵" py="zhēng" multi="zhǐ" main="1">
+		<definition id="二">
+			<item text="“征(3)~(6)”的异体字。" />
+		</definition>
+	</char>
+	<char hz="怔" py="zhēng">
+		<phrase hz="怔忡" py="zhēng,chōng" />
+		<phrase hz="怔忪" py="zhēng,zhōng" />
+	</char>
+	<char hz="钲" py="zhēng" multi="zhèng" main="1">
+		<definition id="一">
+			<item text="古代的一种打击乐器，用铜做成，在行军时敲打。" />
+		</definition>
+	</char>
+	<char hz="症" py="zhēng" multi="zhèng">
+		<phrase hz="症结" py="zhēng,jié" />
+		<definition id="二">
+			<item text="[症结]腹内结块的病。(喻)事情难解决的关键所在。" />
+		</definition>
+	</char>
+	<char hz="争" py="zhēng" />
+	<char hz="挣" py="zhēng" multi="zhèng">
+		<phrase hz="挣扎" py="zhēng,zhá" />
+		<definition id="二">
+			<item text="[挣扎](-zhá)尽力支撑或摆脱：垂死~~." />
+		</definition>
+	</char>
+	<char hz="峥" py="zhēng">
+		<phrase hz="峥嵘" py="zhēng,róng" />
+	</char>
+	<char hz="狰" py="zhēng">
+		<phrase hz="狰狞" py="zhēng,níng" />
+	</char>
+	<char hz="睁" py="zhēng" />
+	<char hz="铮" py="zhēng" />
+	<char hz="筝" py="zhēng">
+		<phrase hz="风筝" py="fēng,zheng" />
+	</char>
+	<char hz="烝" py="zhēng" />
+	<char hz="蒸" py="zhēng" />
+	<char hz="拯" py="zhěng" />
+	<char hz="整" py="zhěng" />
+	<char hz="正" py="zhèng" multi="zhēng" main="1">
+		<phrase hz="正经" py="zhèng,jing" />
+		<definition id="一">
+			<item id="1" text="不偏，不斜：~午. ~中. ~南~北. (引)1.合于法则、规矩的：~派. ~当. ~楷. 2.图形的各个边和各个角都相等的：~方形. [正经](-jing)1.端庄，正派：~~人. ~~话. 2.正当：~~事." />
+			<item id="2" text="副词，恰：你来得~好. 时钟~打十二下." />
+			<item id="3" text="副词，表示动作在进行中：现在~开着会. 我~出门，他来了." />
+			<item id="4" text="改去偏差或错误（(连)改-）：~误. 给他~音." />
+			<item id="5" text="纯，不杂（指色、味）：~黄. ~色. ~味." />
+			<item id="6" text="表示相对的两面的积极的一面。 1.跟“反”相对：~面. ~比. 2.跟“负”相对：~电. ~极. ~数. 3.跟“副”相对：~本. ~册." />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="证" py="zhèng" />
+	<char hz="政" py="zhèng" />
+	<char hz="钲" py="zhèng" multi="zhēng">
+		<definition id="二">
+			<item text="化学元素，镄(fèi)的旧称。" />
+		</definition>
+	</char>
+	<char hz="症" py="zhèng" multi="zhēng" main="1">
+		<definition id="一">
+			<item text="病：~候. 霍乱~. 急~. 不治之~. 对~下药." />
+		</definition>
+	</char>
+	<char hz="郑" py="zhèng">
+		<phrase hz="郑重" py="zhèng,zhòng" />
+	</char>
+	<char hz="诤" py="zhèng" />
+	<char hz="挣" py="zhèng" multi="zhēng" main="1">
+		<phrase hz="挣揣" py="zhèng,chuài" />
+		<definition id="一">
+			<item id="1" text="用力支撑或摆脱：~脱. ~开. [挣揣](-chuài)为保全性命而挣扎。" />
+			<item id="2" text="出力量而取得报酬：~钱." />
+		</definition>
+	</char>
+	<char hz="" py="zhèng">
+		<phrase hz="" py="zhèng,chuài" />
+	</char>
+</pinyin>

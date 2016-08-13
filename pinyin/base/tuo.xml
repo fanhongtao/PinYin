@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="托" py="tuō" />
+	<char hz="饦" py="tuō" />
+	<char hz="拖" py="tuō" />
+	<char hz="脱" py="tuō" />
+	<char hz="驮" py="tuó" multi="duò" main="1">
+		<definition id="一">
+			<item text="用背（多指牲口）负载人或物：那匹马~着两袋粮食." />
+		</definition>
+	</char>
+	<char hz="佗" py="tuó" />
+	<char hz="陀" py="tuó">
+		<phrase hz="陀螺" py="tuó,luó" />
+	</char>
+	<char hz="坨" py="tuó" />
+	<char hz="沱" py="tuó" />
+	<char hz="驼" py="tuó" />
+	<char hz="柁" py="tuó" multi="duò">
+		<phrase hz="房柁" py="fáng,tuó" />
+		<definition id="一">
+			<item text="房柁，房架前后两个柱子之间的大横梁。" />
+		</definition>
+	</char>
+	<char hz="砣" py="tuó">
+		<definition>
+			<item id="1" text="秤锤。" />
+			<item id="2" text="碾砣，碾子上的磙子。" />
+		</definition>
+	</char>
+	<char hz="铊" py="tuó" multi="tā">
+		<definition id="二">
+			<item text="同“砣(1)”。" />
+		</definition>
+	</char>
+	<char hz="鸵" py="tuó" />
+	<char hz="酡" py="tuó" />
+	<char hz="跎" py="tuó" />
+	<char hz="鼧" py="tuó">
+		<phrase hz="鼧鼥" py="tuó,bá" />
+	</char>
+	<char hz="橐" py="tuó" />
+	<char hz="鼍" py="tuó" />
+	<char hz="妥" py="tuǒ" />
+	<char hz="庹" py="tuǒ" />
+	<char hz="椭" py="tuǒ" />
+	<char hz="拓" py="tuò" multi="tà" main="1">
+		<definition id="一">
+			<item id="1" text="开辟，扩充。" />
+			<item id="2" text="姓。" />
+			<item id="3" text="见“落”字条“落拓”(luò-)。" />
+		</definition>
+	</char>
+	<char hz="柝" py="tuò" />
+	<char hz="跅" py="tuò">
+		<phrase hz="跅弛" py="tuò,chí" />
+	</char>
+	<char hz="萚" py="tuò" />
+	<char hz="箨" py="tuò" />
+	<char hz="唾" py="tuò" />
+	<char hz="魄" py="tuò" multi="bó,pò" suppress="1">
+		<definition id="二">
+			<item text="“落魄”(luòpò)的“魄”的又音。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丹" py="dān" />
+	<char hz="担" py="dān" multi="dǎn,dàn" main="1">
+		<definition id="一">
+			<item id="1" text="用肩膀挑：~水. ~着两筐青菜. [担心]忧虑，顾虑：我~~他身体受不了." />
+			<item id="2" text="担负，承当：~风险. ~责任." />
+		</definition>
+	</char>
+	<char hz="单" py="dān" multi="chán,shàn" main="1">
+		<phrase hz="单薄" py="dān,bó" />
+		<definition id="一">
+			<item id="1" text="种类少，不复杂：简~. ~纯. ~式簿记. (引)副词，只，仅：做事~靠热情不够. 不提别的，~说这件事. [单位]1.计算物体轻重、长短及数量的标准。 2.指机关、团体或属于一个机关、团体的各个部门：那里有五个直属~~." />
+			<item id="2" text="独，一：~身. ~打一. ~枪匹马. ~数（跟“复数”相对）." />
+			<item id="3" text="奇(jī)数的：~日. ~号. ~数（一、三、五、七等，跟“双数”相对）. [单薄](-bó)1.薄，少：穿得很~~. 2.弱：他身子骨太~~. 人力~~." />
+			<item id="4" text="（-子、-儿）记载事物用的纸片：~据. 传~. 账~儿. 清~. 药~." />
+			<item id="5" text="衣服被褥等只有一层的：~衣. ~裤." />
+			<item id="6" text="（-子、-儿）覆盖用的布：被~. 床~. 褥~儿." />
+		</definition>
+	</char>
+	<char hz="郸" py="dān" />
+	<char hz="殚" py="dān" />
+	<char hz="箪" py="dān" />
+	<char hz="眈" py="dān" />
+	<char hz="耽" py="dān">
+		<phrase hz="耽搁" py="dān,ge" />
+		<phrase hz="耽误" py="dān,wu" />
+		<phrase hz="耽乐" py="dān,lè" />
+		<definition>
+			<item id="1" text="迟延。[耽搁](-ge)迟延，停止没有进行：这件事~~了很久. [耽误](-wu)因耽搁或错过时机而误事：不能~~生产." />
+			<item id="2" text="沉溺，入迷：~乐(lè). ~于幻想." />
+		</definition>
+	</char>
+	<char hz="酖" py="dān" multi="zhèn" main="1">
+		<definition id="一">
+			<item text="同“耽(2)”" />
+		</definition>
+	</char>
+	<char hz="聃" py="dān" />
+	<char hz="儋" py="dān" />
+	<char hz="担" py="dǎn" multi="dān,dàn">
+		<definition id="三">
+			<item text="拂，拂拭。后作“掸”。" />
+		</definition>
+	</char>
+	<char hz="胆" py="dǎn" />
+	<char hz="疸" py="dǎn" />
+	<char hz="掸" py="dǎn" multi="shàn" main="1">
+		<definition id="一">
+			<item text="拂，打去尘土：~桌子. ~衣服." />
+		</definition>
+	</char>
+	<char hz="赕" py="dǎn" />
+	<char hz="亶" py="dǎn" />
+	<char hz="石" py="dàn" multi="shí">
+		<definition id="二">
+			<item text="市制容量单位，1石是10斗，合100升。（此义在古书中读shí，如“二千石”）" />
+		</definition>
+	</char>
+	<char hz="旦" py="dàn" />
+	<char hz="但" py="dàn" />
+	<char hz="担" py="dàn" multi="dān,dǎn">
+		<phrase hz="扁担" py="biǎn,dàn" />
+		<phrase hz="担子" py="dàn,zi" />
+		<phrase hz="货郎担" py="huò,láng,dàn" />
+		<phrase hz="重担" py="zhòng,dàn" />
+		<definition id="二">
+			<item id="1" text="扁担，挑东西的用具，多用竹、木做成。" />
+			<item id="2" text="（-子）一挑儿东西：货郎~. (喻)担负的责任：重~. 不怕~子重." />
+			<item id="3" text="市制重量单位，1担是100斤，合50千克。" />
+			<item id="4" text="量词：一~水。" />
+		</definition>
+	</char>
+	<char hz="疍" py="dàn" />
+	<char hz="诞" py="dàn" />
+	<char hz="萏" py="dàn" />
+	<char hz="啖" py="dàn" />
+	<char hz="淡" py="dàn" />
+	<char hz="氮" py="dàn" />
+	<char hz="惮" py="dàn" />
+	<char hz="弹" py="dàn" multi="tán" main="1">
+		<definition id="一">
+			<item id="1" text="可以用弹(tán)力发射出去的小丸：~丸." />
+			<item id="2" text="装有爆炸物可以击毁人、物的东西：炮~. 炸~. 手榴~." />
+		</definition>
+	</char>
+	<char hz="瘅" py="dàn" />
+	<char hz="蛋" py="dàn" />
+	<char hz="澹" py="dàn" multi="tán" main="1">
+		<definition id="一">
+			<item id="1" text="（叠）水波起伏的样子。" />
+			<item id="2" text="安静：恬~." />
+		</definition>
+	</char>
+</pinyin>

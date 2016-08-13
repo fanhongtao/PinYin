@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="疟" py="nüè" multi="yào" main="1">
+		<phrase hz="疟疾" py="nüè,ji" />
+		<definition id="一">
+			<item text="疟疾(ji)，又叫“疟子”(yàozi)。一种周期性发冷发烧的传染病。病原体是疟原虫，由疟蚊传染到人体血液中。发疟子，有的地区叫“打摆子”。" />
+		</definition>
+	</char>
+	<char hz="虐" py="nüè" />
+</pinyin>

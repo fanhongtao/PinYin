@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="关" py="guān" />
+	<char hz="观" py="guān" multi="guàn" main="1">
+		<definition id="一">
+			<item id="1" text="看（(连)-看）：坐井~天. ~摩. 走马~花. [观察]仔细考察：细心~~一切客观现象. [观光]参观别国或别处的文物、建设等。" />
+			<item id="2" text="看到的景象（(连)-瞻）：奇~. 壮~. " />
+			<item id="3" text="对事物的认识，看法：乐~. 人生~. 宇宙~. [观点]从某一角度或立场出发形成对事物的看法。 [观念]1.思想，理性认识。2.客观事物在意识中构成的形象。" />
+		</definition>
+	</char>
+	<char hz="纶" py="guān" multi="lún">
+		<phrase hz="纶巾" py="guān,jīn" />
+		<definition id="二">
+			<item text="青丝带。 [纶巾]古代配有青丝带的头巾。传说三国时诸葛亮平常戴这种头巾。" />
+		</definition>
+	</char>
+	<char hz="官" py="guān" />
+	<char hz="倌" py="guān" />
+	<char hz="棺" py="guān" />
+	<char hz="冠" py="guān" multi="guàn">
+		<phrase hz="衣冠" py="yī,guān" />
+		<phrase hz="冠子" py="guān,zi" />
+		<phrase hz="桂冠" py="guì,guān" />
+		<definition id="一">
+			<item id="1" text="帽子：衣~整齐." />
+			<item id="2" text="（-子）鸟类头上的肉瘤或高出的羽毛：鸡~子." />
+		</definition>
+	</char>
+	<char hz="矜" py="guān" multi="jīn,qín">
+		<definition id="二" text="〈古〉">
+			<item id="1" text="同“鳏”。" />
+			<item id="2" text="同“瘝”。" />
+		</definition>
+	</char>
+	<char hz="瘝" py="guān">
+		<definition>
+			<item text="病，痛苦。" />
+		</definition>
+	</char>
+	<char hz="鳏" py="guān">
+		<definition>
+			<item text="鳏夫，无妻或丧妻的男人：~寡孤独." />
+		</definition>
+	</char>
+	<char hz="莞" py="guǎn" multi="wǎn">
+		<phrase hz="东莞" py="dōng,guǎn" />
+		<definition id="一">
+			<item text="[东莞]地名，在广东省。" />
+		</definition>
+	</char>
+	<char hz="馆" py="guǎn" />
+	<char hz="琯" py="guǎn" />
+	<char hz="管" py="guǎn" />
+	<char hz="鳤" py="guǎn" />
+	<char hz="观" py="guàn" multi="guān">
+		<definition id="二">
+			<item text="道教的庙宇。" />
+		</definition>
+	</char>
+	<char hz="贯" py="guàn" />
+	<char hz="掼" py="guàn" />
+	<char hz="惯" py="guàn" />
+	<char hz="冠" py="guàn" multi="guān" main="1">
+		<definition id="二">
+			<item id="1" text="把帽子戴在头上。" />
+			<item id="2" text="超出众人，居第一位：勇~三军. [冠军](转)比赛的第一名。" />
+			<item id="3" text="在前面加上某种名号：~以诗人的桂冠(guān)." />
+		</definition>
+	</char>
+	<char hz="涫" py="guàn" />
+	<char hz="祼" py="guàn" />
+	<char hz="盥" py="guàn" />
+	<char hz="灌" py="guàn" />
+	<char hz="瓘" py="guàn" />
+	<char hz="鹳" py="guàn" />
+	<char hz="罐" py="guàn">
+		<phrase hz="罐头" py="guàn,tou" />
+	</char>
+</pinyin>

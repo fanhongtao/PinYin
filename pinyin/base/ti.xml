@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="体" py="tī" multi="tǐ">
+		<phrase hz="体己" py="tī,ji" />
+		<phrase hz="梯己" py="tī,ji" />
+		<definition id="二">
+			<item text="[体己][梯己](-ji)1.家庭成员个人积蓄的财物。 2.亲近的：~~话." />
+		</definition>
+	</char>
+	<char hz="剔" py="tī" />
+	<char hz="踢" py="tī" />
+	<char hz="梯" py="tī" />
+	<char hz="䏲" py="tī" />
+	<char hz="锑" py="tī" />
+	<char hz="" py="tī" />
+	<char hz="荑" py="tí" multi="yí">
+		<definition id="二">
+			<item id="1" text="草木初生的叶芽。" />
+			<item id="2" text="稗子一类的草。" />
+		</definition>
+	</char>
+	<char hz="绨" py="tí" multi="tì" main="1">
+		<definition id="一">
+			<item text="光滑厚实的丝织品。" />
+		</definition>
+	</char>
+	<char hz="鹈" py="tí">
+		<phrase hz="鹈鹕" py="tí,hú" />
+	</char>
+	<char hz="提" py="tí" multi="dī" main="1">
+		<definition id="一">
+			<item id="1" text="垂手拿着（有环、柄或绳套的东西）：~着一壶水. ~着一个篮子. ~心吊胆（喻害怕）. ~纲挈(qiè)领（喻扼要）." />
+			<item id="2" text="使事物由低往高、由后往前移动：~升. ~高. ~前. ~早." />
+			<item id="3" text="舀取油、酒等液体的工具：油~. 醋~." />
+			<item id="4" text="说起，举出：经他一~，大家都想起来了. ~意见. ~供材料. [提倡]说明某种事物的优点，鼓励大家使用或实行：要~~顾全大局. [提醒]从旁促使别人注意或指点别人：幸亏你~~，不然我就忘了. [提议]说出意见，供人讨论或采纳。" />
+			<item id="5" text="取出（(连)-取）：把款~出来. ~单（提取货物的凭单）." />
+			<item id="6" text="汉字的一种笔形，即“挑”(tiǎo)。" />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="騠" py="tí" trans="1">
+		<phrase hz="駃騠" py="jué,tí" />
+	</char>
+	<char hz="缇" py="tí" />
+	<char hz="题" py="tí" />
+	<char hz="醍" py="tí">
+		<phrase hz="醍醐" py="tí,hú" />
+	</char>
+	<char hz="鳀" py="tí" />
+	<char hz="啼" py="tí" />
+	<char hz="蹄" py="tí" />
+	<char hz="体" py="tǐ" multi="tī" main="1">
+		<phrase hz="体面" py="tǐ,mian" />
+		<definition id="一">
+			<item id="1" text="人、动物的全身（(连)身-）：~重. ~温（身体的温度）. (引)身体的一部分：四~. 上~. 肢~. [体面](-mian)1.身份。 2.光彩，光荣。 3.好看。 [体育]指锻炼身体增强体质的教育：~~课. 发展~~运动，增强人民体质." />
+			<item id="2" text="事物的本身或全部：物~. 全~. 个~. ~积." />
+			<item id="3" text="形式，规格：字~. 得~（合宜）." />
+			<item id="4" text="作品的体裁：文~. 骚~. 骈~. 古~." />
+			<item id="5" text="亲身，设身处地：~验. ~味. ~谅. [体会]领会，个人的理解：我~~到你的意思. 对这个文件，我的~~还很肤浅. [体贴]揣度别人的处境和心情，给予关心、照顾：~~入微." />
+		</definition>
+	</char>
+	<char hz="屉" py="tì" />
+	<char hz="剃" py="tì" />
+	<char hz="涕" py="tì" />
+	<char hz="悌" py="tì" />
+	<char hz="绨" py="tì" multi="tí" info="Word主音">
+		<definition id="二">
+			<item text="比绸子厚实、粗糙的纺织品，用丝做经，棉线做纬。" />
+		</definition>
+	</char>
+	<char hz="俶" py="tì" multi="chù">
+		<phrase hz="俶傥" py="tì,tǎng" />
+		<definition id="二">
+			<item text="[俶傥](-tǎng)同“倜傥”。" />
+		</definition>
+	</char>
+	<char hz="倜" py="tì">
+		<phrase hz="倜傥" py="tì,tǎng" />
+		<definition>
+			<item text="[倜傥](-tǎng)洒脱，不拘束：风流~~." />
+		</definition>
+	</char>
+	<char hz="逖" py="tì" />
+	<char hz="惕" py="tì" />
+	<char hz="裼" py="tì" multi="xī">
+		<definition id="二">
+			<item text="婴儿的包被。" />
+		</definition>
+	</char>
+	<char hz="替" py="tì" />
+	<char hz="殢" py="tì" trans="1" />
+	<char hz="薙" py="tì" />
+	<char hz="嚏" py="tì">
+		<phrase hz="喷嚏" py="pēn,tì" />
+		<phrase hz="嚏喷" py="tì,pen" />
+		<definition>
+			<item text="[嚏喷](-pen)因鼻黏膜受刺激而引起的一种猛烈带声的喷气现象。也叫“喷嚏”(pēn-)。" />
+		</definition>
+	</char>
+	<char hz="趯" py="tì" />
+</pinyin>

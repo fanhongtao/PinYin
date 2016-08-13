@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吞" py="tūn" />
+	<char hz="暾" py="tūn" />
+	<char hz="䵍" py="tūn" />
+	<char hz="屯" py="tún" multi="zhūn" main="1">
+		<definition id="一">
+			<item id="1" text="聚焦，储存：~粮. (引)（军队）驻扎：~兵." />
+			<item id="2" text="（-子、-儿）村庄：皇姑~." />
+		</definition>
+	</char>
+	<char hz="囤" py="tún" multi="dùn">
+		<phrase hz="囤积" py="tún,jī" />
+		<phrase hz="囤货" py="tún,huò" />
+		<definition id="二">
+			<item text="囤积，积存，存储货物、粮食：~货." />
+		</definition>
+	</char>
+	<char hz="饨" py="tún" />
+	<char hz="鲀" py="tún" />
+	<char hz="豚" py="tún" />
+	<char hz="臀" py="tún" />
+	<char hz="氽" py="tǔn" />
+	<char hz="褪" py="tùn" multi="tuì">
+		<definition id="一">
+			<item text="使穿着、套着的东西脱离：把袖子~下来. 狗~了套跑了. (引)向内移动而藏起来：把手~在袖子里. 袖子里~着一封信." />
+		</definition>
+	</char>
+</pinyin>

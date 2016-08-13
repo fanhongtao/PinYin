@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="端" py="duān">
+		<phrase hz="端的" py="duān,dì" />
+	</char>
+	<char hz="短" py="duǎn" />
+	<char hz="段" py="duàn" />
+	<char hz="塅" py="duàn" />
+	<char hz="缎" py="duàn" />
+	<char hz="椴" py="duàn" />
+	<char hz="煅" py="duàn" />
+	<char hz="锻" py="duàn" />
+	<char hz="断" py="duàn" />
+	<char hz="簖" py="duàn" />
+</pinyin>

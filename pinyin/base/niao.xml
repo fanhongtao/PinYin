@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鸟" py="niǎo" />
+	<char hz="茑" py="niǎo" />
+	<char hz="袅" py="niǎo">
+		<phrase hz="袅娜" py="niǎo,nuó" />
+		<definition>
+			<item text="[袅袅]1.烟气缭绕上腾的样子：炊烟~~. 2.细长柔软的东西随风摆样子：垂杨~~. 3.声音绵延不绝：余音~~. [袅娜](-nuó)1.形容草木柔软细长。 2.形容女子姿态美。" />
+		</definition>
+	</char>
+	<char hz="嬲" py="niǎo" />
+	<char hz="尿" py="niào" multi="suī" main="1">
+		<definition id="一">
+			<item id="1" text="小便，从肾脏滤出由尿道排泄出来的液体。" />
+			<item id="2" text="排泄小便。" />
+		</definition>
+	</char>
+	<char hz="脲" py="niào" />
+	<char hz="溺" py="niào" multi="nì">
+		<definition id="二">
+			<item text="同“尿”。" />
+		</definition>
+	</char>
+</pinyin>

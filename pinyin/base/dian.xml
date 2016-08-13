@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="敁" py="diān">
+		<phrase hz="敁敠" py="diān,duo" />
+	</char>
+	<char hz="掂" py="diān">
+		<phrase hz="掂掇" py="diān,duo" />
+	</char>
+	<char hz="滇" py="diān" />
+	<char hz="颠" py="diān">
+		<phrase hz="颠倒" py="diān,dǎo" />
+	</char>
+	<char hz="攧" py="diān" />
+	<char hz="巔" py="diān" />
+	<char hz="癫" py="diān" />
+	<char hz="典" py="diǎn">
+		<phrase hz="典当" py="diǎn,dàng" />
+	</char>
+	<char hz="碘" py="diǎn" />
+	<char hz="点" py="diǎn">
+		<phrase hz="点缀" py="diǎn,zhuì" />
+		<phrase hz="点数" py="diǎn,shù" />
+	</char>
+	<char hz="踮" py="diǎn" />
+	<char hz="电" py="diàn" />
+	<char hz="佃" py="diàn" multi="tián" main="1">
+		<definition id="一">
+			<item text="一般指旧社会无地或少地的农民，被迫向地主、富农租地耕种：~户. ~农." />
+		</definition>
+	</char>
+	<char hz="甸" py="diàn" />
+	<char hz="钿" py="diàn" multi="tián" main="1">
+		<definition id="一">
+			<item id="1" text="把金属、宝石等镶嵌(qiàn)在器物上作装饰：宝~. 螺~（一种手工艺，把贝壳镶嵌在器物上）." />
+			<item id="2" text="古代一种嵌金花的首饰。" />
+		</definition>
+	</char>
+	<char hz="阽" py="diàn" info="(又)yán" />
+	<char hz="坫" py="diàn" />
+	<char hz="玷" py="diàn" />
+	<char hz="店" py="diàn" />
+	<char hz="惦" py="diàn" />
+	<char hz="垫" py="diàn" />
+	<char hz="淀" py="diàn" />
+	<char hz="靛" py="diàn" />
+	<char hz="奠" py="diàn">
+		<phrase hz="奠都" py="diàn,dū" />
+	</char>
+	<char hz="殿" py="diàn" />
+	<char hz="癜" py="diàn" />
+	<char hz="簟" py="diàn" />
+</pinyin>

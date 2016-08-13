@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喵" py="miāo" />
+	<char hz="苗" py="miáo" />
+	<char hz="描" py="miáo" />
+	<char hz="鹋" py="miáo" />
+	<char hz="瞄" py="miáo" />
+	<char hz="杪" py="miǎo" />
+	<char hz="眇" py="miǎo" />
+	<char hz="秒" py="miǎo" />
+	<char hz="渺" py="miǎo" />
+	<char hz="淼" py="miǎo" />
+	<char hz="缈" py="miǎo" />
+	<char hz="藐" py="miǎo" />
+	<char hz="邈" py="miǎo" />
+	<char hz="妙" py="miào" />
+	<char hz="庙" py="miào" />
+	<char hz="缪" py="miào" multi="miù,móu" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
+</pinyin>

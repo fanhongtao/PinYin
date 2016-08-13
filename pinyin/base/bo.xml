@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拨" py="bō">
+		<phrase hz="拨冗" py="bō,rǒng" />
+	</char>
+	<char hz="波" py="bō" />
+	<char hz="玻" py="bō">
+		<phrase hz="玻璃" py="bō,li" />
+	</char>
+	<char hz="菠" py="bō" />
+	<char hz="miss: 钅波" py="bō" info="special" />
+	<char hz="钵" py="bō" />
+	<char hz="饽" py="bō">
+		<phrase hz="饽饽" py="bō,bo" />
+	</char>
+	<char hz="剥" py="bō" multi="bāo">
+		<phrase hz="剥夺" py="bō,duó" />
+		<phrase hz="剥削" py="bō,xuē" />
+		<definition id="一">
+			<item text="义同“剥(二)”，用于复合词。[剥夺]1.用强制的方法夺去。2.依照法律取消：~~政治权利. [剥削](-xuē)凭借生产资料的私人所有权、政治上的特权无偿地占有别人的劳动或产品。" />
+		</definition>
+	</char>
+	<char hz="播" py="bō" />
+	<char hz="嶓" py="bō">
+		<phrase hz="嶓冢" py="bō,zhǒng" />
+	</char>
+	<char hz="伯" py="bó" multi="bǎi" main="1">
+		<definition id="一">
+			<item id="1" text="兄弟排行(háng)常用“伯”、“仲”、“叔”、“季”做次序，伯是老大。 [伯仲] (转)不相上下，好坏差不多。" />
+			<item id="2" text="伯父，父亲的哥哥，大爷(ye)。又对年龄大、辈分高的人的尊称：老~." />
+			<item id="3" text="我国古代五等爵位（公、侯、伯、子、男）的第三等。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="帛" py="bó" />
+	<char hz="泊" py="bó" multi="pō" main="1">
+		<definition id="一">
+			<item id="1" text="停船靠岸（(连)停-）：~船." />
+			<item id="2" text="恬静。[淡泊]（*澹泊）不贪图功名利禄。" />
+		</definition>
+	</char>
+	<char hz="柏" py="bó" multi="bǎi,bò">
+		<phrase hz="柏林" py="bó,lín" />
+		<definition id="二">
+			<item text="[柏林] 德国的首都。" />
+		</definition>
+	</char>
+	<char hz="铂" py="bó" />
+	<char hz="舶" py="bó" />
+	<char hz="鲌" py="bó" multi="bà" main="1">
+		<definition id="一">
+			<item text="鱼名。身体侧扁，嘴向上翘，生活在淡水中。" />
+		</definition>
+	</char>
+	<char hz="箔" py="bó" />
+	<char hz="魄" py="bó" multi="pò,tuò" suppress="1">
+		<definition id="三">
+			<item text="“落魄”(luòpò)的“魄”的又音。" />
+		</definition>
+	</char>
+	<char hz="驳" py="bó" />
+	<char hz="勃" py="bó" />
+	<char hz="浡" py="bó" />
+	<char hz="脖" py="bó">
+		<phrase hz="脖子" py="bó,zi" />
+	</char>
+	<char hz="鹁" py="bó">
+		<phrase hz="鹁鸪" py="bó,gū" />
+	</char>
+	<char hz="渤" py="bó" />
+	<char hz="钹" py="bó" />
+	<char hz="亳" py="bó" />
+	<char hz="袯" py="bó">
+		<phrase hz="袯襫" py="bó,shì" />
+	</char>
+	<char hz="博" py="bó" />
+	<char hz="搏" py="bó" />
+	<char hz="馎" py="bó">
+		<phrase hz="馎饦" py="bó,tuō" />
+	</char>
+	<char hz="膊" py="bó">
+		<phrase hz="胳膊" py="gē,bo" />
+	</char>
+	<char hz="镈" py="bó" />
+	<char hz="薄" py="bó" multi="báo,bò" main="1">
+		<definition id="二">
+			<item id="1" text="同“薄(一)”。用于合成词或成语，如厚薄、单薄、淡薄、浅薄、薄田、薄弱、尖嘴薄舌、厚古薄今等。" />
+			<item id="2" text="轻微，少：~技，~酬." />
+			<item id="3" text="不庄重：轻~." />
+			<item id="4" text="看不起，轻视，慢待：鄙~. 厚此~彼. 不可妄自菲~." />
+			<item id="5" text="迫近：~暮（天快黑）. 日~西山." />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+	<char hz="礴" py="bó" />
+	<char hz="僰" py="bó" />
+	<char hz="踣" py="bó" />
+	<char hz="跛" py="bǒ" />
+	<char hz="簸" py="bǒ" multi="bò" main="1">
+		<definition id="一">
+			<item id="1" text="用簸(bò)箕颠动米粮，扬去糠秕和灰尘。" />
+			<item id="2" text="颠动得像米粮在簸箕里簸起来一样：船在海浪中颠~起伏." />
+		</definition>
+	</char>
+	<char hz="柏" py="bò" multi="bǎi,bó">
+		<phrase hz="黄柏" py="huáng,bò" />
+		<definition id="三">
+			<item text="[黄柏]即黄檗。" />
+		</definition>
+	</char>
+	<char hz="薄" py="bò" multi="báo,bó">
+		<phrase hz="薄荷" py="bò,he" />
+		<definition id="三">
+			<item text="[薄荷](-he)多年生草本植物，叶和茎有清凉香味，可入药。" />
+		</definition>
+	</char>
+	<char hz="檗" py="bò" />
+	<char hz="擘" py="bò" multi="bāi" main="1">
+		<definition id="一">
+			<item text="大拇指。[巨擘](喻)杰出的人物。" />
+		</definition>
+	</char>
+	<char hz="簸" py="bò" multi="bǒ" info="Word主音">
+		<phrase hz="簸箕" py="bò,ji" />
+		<definition id="二">
+			<item text="[簸箕](-ji)扬糠除秽的用具。" />
+		</definition>
+	</char>
+	<char hz="卜" py="bo" multi="bǔ" info="Word主音">
+		<phrase hz="萝卜" py="luó,bo" />
+		<definition id="二">
+			<item text="见“萝”字条“萝卜”。" />
+		</definition>
+	</char>
+	<char hz="啵" py="bo" />
+</pinyin>

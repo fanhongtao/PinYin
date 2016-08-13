@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仨" py="sā" />
+	<char hz="撒" py="sā" multi="sǎ" main="1">
+		<definition id="一">
+			<item id="1" text="放，放开：~网. ~手. ~腿跑." />
+			<item id="2" text="尽量施展或表现出来：~娇." />
+			<item text="[撒拉族]我国少数民族。" />
+		</definition>
+	</char>
+	<char hz="洒" py="sǎ">
+		<phrase hz="洒脱" py="sǎ,tuo" />
+	</char>
+	<char hz="靸" py="sǎ" />
+	<char hz="撒" py="sǎ" multi="sā" info="Word主音">
+		<phrase hz="撒种" py="sǎ,zhǒng" />
+		<definition id="二">
+			<item id="1" text="散播，散布：~种." />
+			<item id="2" text="散落，洒：小心点，别把汤~了." />
+		</definition>
+	</char>
+	<char hz="潵" py="sǎ" />
+	<char hz="卅" py="sà" />
+	<char hz="摋" py="sà" trans="1" />
+	<char hz="脎" py="sà" />
+	<char hz="飒" py="sà" />
+	<char hz="萨" py="sà" />
+	<char hz="挲" py="sa" multi="sha,suō">
+		<definition id="二">
+			<item text="见“摩”字条“摩挲”(mā-)。" />
+		</definition>
+	</char>
+</pinyin>

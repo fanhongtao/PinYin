@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="舟" py="zhōu">
+		<phrase hz="一叶扁舟" py="yí,yè,piān,zhōu" />
+	</char>
+	<char hz="侜" py="zhōu" />
+	<char hz="辀" py="zhōu" />
+	<char hz="鸼" py="zhōu">
+		<phrase hz="鹘鸼" py="gǔ,zhōu" />
+	</char>
+	<char hz="州" py="zhōu" />
+	<char hz="洲" py="zhōu" />
+	<char hz="诌" py="zhōu" />
+	<char hz="周" py="zhōu" />
+	<char hz="啁" py="zhōu" multi="zhāo" main="1">
+		<phrase hz="啁啾" py="zhōu,jiū" />
+		<definition id="一">
+			<item text="[啁啾](-jiū)拟声词，鸟叫的声音。" />
+		</definition>
+	</char>
+	<char hz="赒" py="zhōu" />
+	<char hz="粥" py="zhōu" />
+	<char hz="盩" py="zhōu">
+		<phrase hz="盩厔" py="zhōu,zhì" />
+	</char>
+	<char hz="妯" py="zhóu">
+		<phrase hz="妯娌" py="zhóu,li" />
+	</char>
+	<char hz="轴" py="zhóu" multi="zhòu" main="1">
+		<definition id="一">
+			<item id="1" text="穿在轮子中间的圆柱形物件。" />
+			<item id="2" text="（-儿）用来缠绕东西的像车轴的器物：线~儿. 画~. (引)量词：一~儿线." />
+			<item id="3" text="把平面或立体分成对称部分的直线。" />
+		</definition>
+	</char>
+	<char hz="肘" py="zhǒu" />
+	<char hz="帚" py="zhǒu" />
+	<char hz="纣" py="zhòu" />
+	<char hz="荮" py="zhòu" />
+	<char hz="酎" py="zhòu" />
+	<char hz="" py="zhòu" />
+	<char hz="" py="zhòu" />
+	<char hz="绉" py="zhòu" />
+	<char hz="皱" py="zhòu" />
+	<char hz="咒" py="zhòu" />
+	<char hz="宙" py="zhòu" />
+	<char hz="轴" py="zhòu" multi="zhóu">
+		<phrase hz="轴子" py="zhòu,zǐ" />
+		<definition id="二">
+			<item text="[（大）轴子]一次戏曲演出的节目中排在最末的一出戏：压~~（倒数第二出戏）." />
+		</definition>
+	</char>
+	<char hz="胄" py="zhòu" />
+	<char hz="咮" py="zhòu" />
+	<char hz="昼" py="zhòu" />
+	<char hz="甃" py="zhòu" />
+	<char hz="繇" py="zhòu" multi="yáo,yóu">
+		<definition id="三">
+			<item text="古时占卜用的文辞。" />
+		</definition>
+	</char>
+	<char hz="骤" py="zhòu" />
+	<char hz="籀" py="zhòu" />
+	<char hz="碡" py="zhòu" />
+</pinyin>

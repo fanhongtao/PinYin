@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="miss: 尸彳乔" py="juē" info="special" />
+	<char hz="撅" py="juē" />
+	<char hz="孓" py="jué">
+		<phrase hz="孑孓" py="jié,jué" />
+	</char>
+	<char hz="决" py="jué" />
+	<char hz="诀" py="jué" />
+	<char hz="抉" py="jué" />
+	<char hz="駃" py="jué" trans="1">
+		<phrase hz="駃騠" py="jué,tí" />
+	</char>
+	<char hz="玦" py="jué" />
+	<char hz="miss: 鸟夬" py="jué" info="special" />
+	<char hz="觖" py="jué" />
+	<char hz="角" py="jué" multi="jiǎo">
+		<phrase hz="角斗" py="jué,dòu" />
+		<phrase hz="角逐" py="jué,zhú" />
+		<phrase hz="口角" py="kǒu,jué" />
+		<phrase hz="主角" py="zhǔ,jué" />
+		<phrase hz="角色" py="jué,sè" />
+		<definition id="二">
+			<item id="1" text="竞争，争胜：~斗. ~逐. 口~（吵嘴）." />
+			<item id="2" text="（-儿）演员，角色：主~. 他演什么~儿？ [角色]（*脚色）1.戏曲演员按所分演人物的性别和性格等分的类型。如京剧的“生、旦、净、丑”。也叫“行当”。 2.戏剧或电影里演员所扮演的剧中人物。" />
+			<item id="3" text="古代五音“宫、商、角、徵(zhǐ)、羽”之一。" />
+			<item id="4" text="古代形状像爵的酒器。" />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="桷" py="jué" />
+	<char hz="珏" py="jué" />
+	<char hz="觉" py="jué" multi="jiào" main="1">
+		<definition id="一">
+			<item id="1" text="（人或动物的器官）对刺激的感受和辨别：视~. 听~. 他~得这本书很好. 不知不~." />
+			<item id="2" text="睡醒、醒悟：如梦初~. ~醒. ~悟." />
+		</definition>
+	</char>
+	<char hz="绝" py="jué" />
+	<char hz="倔" py="jué" multi="juè">
+		<phrase hz="倔强" py="jué,jiàng" />
+		<definition id="一">
+			<item text="义同“倔(二)”，只用于“倔强”。 [倔强](-jiàng)（性情）刚强不屈，固执：性格~~。" />
+		</definition>
+	</char>
+	<char hz="掘" py="jué" />
+	<char hz="崛" py="jué" />
+	<char hz="脚" py="jué" multi="jiǎo">
+		<definition id="二">
+			<item text="（-儿）同“角(二)(2)”。" />
+		</definition>
+	</char>
+	<char hz="厥" py="jué" />
+	<char hz="劂" py="jué" />
+	<char hz="蕨" py="jué" />
+	<char hz="獗" py="jué" />
+	<char hz="㵐" py="jué" />
+	<char hz="橛" py="jué" />
+	<char hz="镢" py="jué" />
+	<char hz="蹶" py="jué" multi="juě" main="1">
+		<definition id="一">
+			<item text="跌倒。 (喻)挫折，失败：一~不振." />
+		</definition>
+	</char>
+	<char hz="傕" py="jué" />
+	<char hz="谲" py="jué" />
+	<char hz="鐍" py="jué" trans="1" />
+	<char hz="噱" py="jué" multi="xué" main="1">
+		<definition id="一">
+			<item text="大笑。" />
+		</definition>
+	</char>
+	<char hz="爵" py="jué" />
+	<char hz="嚼" py="jué" multi="jiáo,jiào">
+		<phrase hz="咀嚼" py="jǔ,jué" />
+		<definition id="二">
+			<item text="义同“嚼(一)”，用于书面语复合词：咀(jǔ)~." />
+		</definition>
+	</char>
+	<char hz="爝" py="jué" info="(又)jiào" />
+	<char hz="矍" py="jué">
+		<phrase hz="矍铄" py="jué,shuò" />
+	</char>
+	<char hz="攫" py="jué" />
+	<char hz="" py="jué" />
+	<char hz="蹶" py="juě" multi="jué" info="Word主音">
+		<phrase hz="尥蹶子" py="liào,juě,zi" />
+		<definition id="二">
+			<item text="[尥蹶子](liào-zi)骡马等跳起来用后腿向后踢。" />
+		</definition>
+	</char>
+	<char hz="倔" py="juè" multi="jué" main="1">
+		<definition id="二">
+			<item text="言语直，态度生硬：那老头子真~." />
+		</definition>
+	</char>
+</pinyin>

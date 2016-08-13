@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哪" py="né" multi="nǎ,na,něi">
+		<phrase hz="哪吒" py="né,zhā" />
+		<definition id="四">
+			<item text="[哪吒](-zhā)神话里的神名。" />
+		</definition>
+	</char>
+	<char hz="讷" py="nè" />
+	<char hz="呢" py="ne" multi="ní" main="1">
+		<definition id="二">
+			<item text="助词。 1.表示疑问（句中含有疑问词）：你到哪儿去~？ 怎么办~？ 2.表示确定的语气：早着~. 还没有来~. 3.表示动作正在进行：他睡觉~. 4.用在句中表示略停一下：喜欢~，就买下；不喜欢~，就不买." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="飞" py="fēi">
+		<definition>
+			<item id="1" text="鸟类或虫类等用翅膀在空中往来活动：~行. ~鸟. ~虫. (引)物体在空中飘荡或行动：~沙走石. 飞机向东~." />
+			<item id="2" text="快，像飞似的：~奔. ~跑." />
+			<item id="3" text="极，特别地：这把刀~快." />
+			<item id="4" text="指无根据的，无缘无故的：~语. ~灾." />
+			<item id="5" text="(外)法定计量单位中十进分数单位词头之一，表示10^-15，符号f。" />
+		</definition>
+	</char>
+	<char hz="妃" py="fēi" />
+	<char hz="非" py="fēi">
+		<phrase hz="非难" py="fēi,nàn" />
+	</char>
+	<char hz="菲" py="fēi" multi="fěi" main="1">
+		<definition id="一">
+			<item text="花草茂盛：芳~." />
+		</definition>
+	</char>
+	<char hz="啡" py="fēi">
+		<phrase hz="吗啡" py="mǎ,fēi" />
+		<phrase hz="咖啡" py="kā,fēi" />
+	</char>
+	<char hz="騑" py="fēi" trans="1" />
+	<char hz="绯" py="fēi" />
+	<char hz="扉" py="fēi" />
+	<char hz="蜚" py="fēi" multi="fěi" main="1">
+		<definition id="一">
+			<item text="古同“飞”。" />
+		</definition>
+	</char>
+	<char hz="霏" py="fēi" />
+	<char hz="鲱" py="fēi" />
+	<char hz="肥" py="féi">
+		<phrase hz="肥差" py="féi,chāi" />
+	</char>
+	<char hz="淝" py="féi" />
+	<char hz="蜰" py="féi" />
+	<char hz="腓" py="féi" />
+	<char hz="匪" py="fěi" />
+	<char hz="诽" py="fěi" />
+	<char hz="菲" py="fěi" multi="fēi">
+		<phrase hz="菲薄" py="fěi,bó" />
+		<phrase hz="菲礼" py="fěi,lǐ" />
+		<phrase hz="菲材" py="fěi,cái" />
+		<definition id="二">
+			<item id="1" text="微，薄（(连)-薄）：~礼. ~材." />
+			<item id="2" text="古书上说的一种像蔓菁的菜。" />
+		</definition>
+	</char>
+	<char hz="悱" py="fěi" />
+	<char hz="棐" py="fěi" />
+	<char hz="斐" py="fěi" />
+	<char hz="榧" py="fěi" />
+	<char hz="蜚" py="fěi" multi="fēi" info="Word主音">
+		<phrase hz="蜚蠊" py="fěi,lián" />
+		<definition id="二">
+			<item text="[蜚蠊](-lián)蟑螂(zhāngláng)的别称。" />
+		</definition>
+	</char>
+	<char hz="翡" py="fěi">
+		<phrase hz="翡翠" py="fěi,cuì" />
+	</char>
+	<char hz="篚" py="fěi" />
+	<char hz="芾" py="fèi" multi="fú" main="1">
+		<phrase hz="蔽芾" py="bì,fèi" />
+		<definition id="一">
+			<item text="[蔽芾]形容树干及树叶小。" />
+		</definition>
+	</char>
+	<char hz="肺" py="fèi" />
+	<char hz="吠" py="fèi" />
+	<char hz="狒" py="fèi" />
+	<char hz="沸" py="fèi" />
+	<!-- <char hz="怫" py="fèi"/> -->
+	<char hz="费" py="fèi" />
+	<char hz="镄" py="fèi" />
+	<char hz="废" py="fèi" />
+	<char hz="剕" py="fèi" />
+	<char hz="痱" py="fèi" />
+</pinyin>

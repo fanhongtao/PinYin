@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="操" py="cāo" />
+	<char hz="糙" py="cāo" />
+	<char hz="曹" py="cáo" />
+	<char hz="嘈" py="cáo" />
+	<char hz="漕" py="cáo" />
+	<char hz="槽" py="cáo" />
+	<char hz="miss: 石曹" py="cáo" info="special" />
+	<char hz="螬" py="cáo" />
+	<char hz="艚" py="cáo" />
+	<char hz="草" py="cǎo" />
+</pinyin>

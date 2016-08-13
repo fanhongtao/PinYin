@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="巾" py="jīn" />
+	<char hz="斤" py="jīn" />
+	<char hz="今" py="jīn" />
+	<char hz="衿" py="jīn" />
+	<char hz="矜" py="jīn" multi="guān,qín" main="1">
+		<definition id="一">
+			<item id="1" text="怜悯，怜惜。" />
+			<item id="2" text="自尊自大，自夸：自~其功." />
+			<item id="3" text="慎重，拘谨：~持." />
+		</definition>
+	</char>
+	<char hz="金" py="jīn" />
+	<char hz="津" py="jīn" />
+	<char hz="筋" py="jīn" />
+	<char hz="禁" py="jīn" multi="jìn">
+		<phrase hz="禁受" py="jīn,shòu" />
+		<phrase hz="禁得起" py="jīn,de,qǐ" />
+		<phrase hz="禁穿" py="jīn,chuān" />
+		<phrase hz="不禁" py="bù,jīn" />
+		<definition id="二">
+			<item id="1" text="禁受，受得住，耐（用）：~得起考验. 这种布~穿." />
+			<item id="2" text="忍耐：他不~（忍不住）笑起来." />
+		</definition>
+	</char>
+	<char hz="襟" py="jīn" />
+	<char hz="仅" py="jǐn" multi="jìn" main="1">
+		<definition id="一">
+			<item text="副词，只（叠）：~~三个月就建成了. ~写过两篇短文. 这些意见~供参考." />
+		</definition>
+	</char>
+	<char hz="尽" py="jǐn" multi="jìn">
+		<phrase hz="尽底下" py="jǐn,dǐ,xià" />
+		<phrase hz="尽里头" py="jǐn,lǐ,tou" />
+		<phrase hz="尽先录用" py="jǐn,xiān,lù,yòng" />
+		<phrase hz="尽量" py="jǐn,liàng" />
+		<phrase hz="尽管" py="jǐn,guǎn" />
+		<phrase hz="尽着" py="jǐn,zhe" />
+		<definition id="二">
+			<item id="1" text="极，最：~底下. ~里头. ~先录用." />
+			<item id="2" text="有多少用多少：~量. ~着力气做. [尽管]1.连词，纵然，即使：~~他不接受这个意见，我还是要向他提. 2.只管，不必顾虑：有话~~说吧！" />
+			<item id="3" text="放在最先：座位先~着请来的客人坐. 先~着旧衣服穿." />
+		</definition>
+	</char>
+	<char hz="卺" py="jǐn" />
+	<char hz="紧" py="jǐn" />
+	<char hz="堇" py="jǐn" />
+	<char hz="谨" py="jǐn" />
+	<char hz="馑" py="jǐn" />
+	<char hz="瑾" py="jǐn" />
+	<char hz="槿" py="jǐn" />
+	<char hz="锦" py="jǐn" />
+	<char hz="仅" py="jìn" multi="jǐn">
+		<definition id="二">
+			<item text="将近，几乎（多见于唐人诗文）：山城~百层. 士卒~万人." />
+		</definition>
+	</char>
+	<char hz="尽" py="jìn" multi="jǐn" main="1">
+		<definition id="一">
+			<item id="1" text="完毕：用~力气. 说不~的好处. (引)达到极端：~善~美. ~头. [自尽]自杀。" />
+			<item id="2" text="全部用出：~心. ~力. 仁至义~. (引)竭力做到：~职." />
+			<item id="3" text="都，全：到会的~是战斗英雄." />
+		</definition>
+	</char>
+	<char hz="荩" py="jìn" />
+	<char hz="浕" py="jìn" />
+	<char hz="赆" py="jìn" />
+	<char hz="烬" py="jìn" />
+	<char hz="进" py="jìn" />
+	<char hz="琎" py="jìn" />
+	<char hz="近" py="jìn" />
+	<char hz="靳" py="jìn" />
+	<char hz="妗" py="jìn" />
+	<char hz="劲" py="jìn" multi="jìng" main="1">
+		<definition id="一">
+			<item text="（-儿）力气，力量：有多大~使多大~. (引)1.效力，作用：酒~儿上来了. 药~不够. 2.精神、情绪、兴趣等：干活儿起~. 一股子~头儿. 一个~儿地做. 老玩儿这个真没~. 3.指属性的程度：你瞧这块布这个白~儿. 咸~儿. 香~儿." />
+		</definition>
+	</char>
+	<char hz="晋" py="jìn" />
+	<char hz="搢" py="jìn" />
+	<char hz="缙" py="jìn" />
+	<char hz="浸" py="jìn" />
+	<char hz="祲" py="jìn" />
+	<char hz="禁" py="jìn" multi="jīn" main="1">
+		<definition id="一">
+			<item id="1" text="不许，制止：~止攀折花木. ~赛." />
+			<item id="2" text="法律或习惯上制止的事：入国问~. 犯~." />
+			<item id="3" text="拘押：~闭. 监~." />
+			<item id="4" text="旧时称皇帝居住的地方：~中. 紫~城. (引)不能随便通行的地方：~地." />
+			<item id="5" text="避忌：~忌." />
+		</definition>
+	</char>
+	<char hz="噤" py="jìn" />
+	<char hz="觐" py="jìn" />
+	<char hz="殣" py="jìn" />
+</pinyin>

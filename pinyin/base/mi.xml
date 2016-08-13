@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咪" py="mī" />
+	<char hz="眯" py="mī" multi="mí" main="1">
+		<definition id="二">
+			<item id="1" text="眼皮微微合拢：在床上~（合眼养神）一会儿." />
+			<item id="2" text="眯缝：~着眼笑. 他~起眼睛看了半天." />
+		</definition>
+	</char>
+	<char hz="弥" py="mí">
+		<phrase hz="弥漫" py="mí,màn" />
+	</char>
+	<char hz="祢" py="mí" />
+	<char hz="猕" py="mí" />
+	<char hz="迷" py="mí" />
+	<char hz="眯" py="mí" multi="mī">
+		<definition id="一">
+			<item text="尘土入眼，不能睁开看东西。" />
+		</definition>
+	</char>
+	<char hz="谜" py="mí" />
+	<char hz="醚" py="mí" />
+	<char hz="糜" py="mí" multi="méi" main="1">
+		<definition id="一">
+			<item id="1" text="粥。" />
+			<item id="2" text="糜烂，烂到难以收拾：~烂不堪." />
+			<item id="3" text="浪费：~财妨农." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="縻" py="mí" />
+	<char hz="靡" py="mí" multi="mǐ" main="1">
+		<definition id="一">
+			<item text="浪费（(连)奢-）：不要~费钱财." />
+		</definition>
+	</char>
+	<char hz="蘼" py="mí">
+		<phrase hz="蘼芜" py="mí,wú" />
+	</char>
+	<char hz="醾" py="mí">
+		<phrase hz="酴醾" py="tú,mí" />
+	</char>
+	<char hz="麋" py="mí" />
+	<char hz="米" py="mǐ" />
+	<char hz="洣" py="mǐ" />
+	<char hz="脒" py="mǐ" />
+	<char hz="敉" py="mǐ" />
+	<char hz="芈" py="mǐ" />
+	<char hz="弭" py="mǐ" />
+	<char hz="靡" py="mǐ" multi="mí">
+		<phrase hz="靡日不思" py="mǐ,rì,bù,sī" />
+		<phrase hz="望风披靡" py="wàng,fēng,pī,mǐ" />
+		<definition id="二">
+			<item id="1" text="无，没有：~日不思." />
+			<item id="2" text="倒下：望风披~." />
+		</definition>
+	</char>
+	<char hz="汨" py="mì" />
+	<char hz="觅" py="mì" />
+	<char hz="泌" py="mì" multi="bì" main="1">
+		<definition id="一">
+			<item text="分泌，从生物体里产生出某种物质：~尿." />
+		</definition>
+	</char>
+	<char hz="宓" py="mì" />
+	<char hz="秘" py="mì" multi="bì" main="1">
+		<definition id="一">
+			<item text="（旧读bì）不公开的，不让大家知道的（(连)-密）：~方. ~决. [秘书]掌管文书并协助负责人处理日常工作的人员。 [便秘]大便干燥、困难、次数少的症状。" />
+		</definition>
+	</char>
+	<char hz="密" py="mì" />
+	<char hz="谧" py="mì" />
+	<char hz="嘧" py="mì">
+		<phrase hz="嘧啶" py="mì,dìng" />
+	</char>
+	<char hz="蜜" py="mì" />
+	<char hz="幂" py="mì" />
+	<char hz="蓂" py="mì" multi="míng" main="1">
+		<phrase hz="菥蓂" py="xī,mì" />
+		<definition id="一">
+			<item text="见“菥”字条“菥蓂”(xī-)。" />
+		</definition>
+	</char>
+</pinyin>

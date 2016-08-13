@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="剖" py="pōu" />
+	<char hz="抔" py="póu" />
+	<char hz="裒" py="póu" />
+	<char hz="掊" py="pǒu" />
+</pinyin>

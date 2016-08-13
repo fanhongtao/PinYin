@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="空" py="kōng" multi="kòng" main="1">
+		<definition id="一">
+			<item id="1" text="里面没有东西或没有内容，不合实际的：~房子. ~碗. ~话. ~想. ~谈. [空洞]没有内容的：他说的话很~~. [空头]不发生作用的，有名无实的：~~支票. [凭空]无根据：~~捏造. [真空]没有空气的空间：~~管. ~~地带（战争时双方没有军队的地带）." />
+			<item id="2" text="无着落，无成效，无结果：~跑了一趟. ~忙一阵. 落~. 扑了个~." />
+			<item id="3" text="天空：~军. 航~. [空间]一切物质存在和运动所占的地方。 [空气]包围在地球表面，充满空间的气体。是氮、氧和少量惰性气体及其他气体的混合物。(喻)情势：~~紧张." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="崆" py="kōng">
+		<phrase hz="崆峒" py="kōng,tóng" />
+		<definition>
+			<item text="[崆峒](-tóng)1.山名，在甘肃省平凉。 2.岛名，在山东省烟台。"/>
+		</definition>
+	</char>
+	<char hz="箜" py="kōng">
+		<phrase hz="箜篌" py="kōng,hóu" />
+	</char>
+	<char hz="孔" py="kǒng" />
+	<char hz="恐" py="kǒng">
+		<phrase hz="恐吓" py="kǒng,hè" />
+	</char>
+	<char hz="倥" py="kǒng">
+		<phrase hz="倥偬" py="kǒng,zǒng" />
+	</char>
+	<char hz="空" py="kòng" multi="kōng">
+		<phrase hz="空儿" py="kòng,zi" />
+		<phrase hz="空子" py="kòng,zi" />
+		<phrase hz="亏空" py="kuī,kong" />
+		<definition id="二">
+			<item id="1" text="使空，腾出来：~一个格. ~出一间房子. 想法~出一些时间来." />
+			<item id="2" text="闲着，没被利用的：~房. ~地." />
+			<item id="3" text="（-儿）没被占用的时间或地方：有~儿再来. 屋子里满得连一点儿~儿都没有. [空子](-zi)1.同“空(二)(3)”。 2.可乘的机会：钻~~." />
+			<item id="4" text="亏空，亏欠。" />
+		</definition>
+	</char>
+	<char hz="控" py="kòng" />
+	<char hz="鞚" py="kòng" />
+</pinyin>

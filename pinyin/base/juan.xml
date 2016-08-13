@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="捐" py="juān" />
+	<char hz="涓" py="juān" />
+	<char hz="娟" py="juān" />
+	<char hz="鹃" py="juān" />
+	<char hz="圈" py="juān" multi="juàn,quān">
+		<definition id="三">
+			<item text="关闭起来，用栅栏等围起来：把小鸡~起来." />
+		</definition>
+	</char>
+	<char hz="朘" py="juān" />
+	<char hz="镌" py="juān" />
+	<char hz="蠲" py="juān" />
+	<char hz="卷" py="juǎn" multi="juàn" main="1">
+		<definition id="二">
+			<item id="1" text="把东西弯转裹成圆筒形：~行李. ~帘子." />
+			<item id="2" text="一种大的力量把东西撮(cuō)起或裹住：风~着雨点劈面打来. ~入旋涡（喻被牵连到不利的事件中）." />
+			<item id="3" text="（-儿）弯转裹成的筒形的东西：烟~儿. 行李~儿. 纸~儿." />
+			<item id="4" text="（-儿）量词，用于成卷儿的东西：一~胶布. 两~纸." />
+		</definition>
+	</char>
+	<char hz="锩" py="juǎn" />
+	<char hz="卷" py="juàn" multi="juǎn">
+		<phrase hz="手卷" py="shǒu,juàn" />
+		<phrase hz="长卷" py="cháng,juàn" />
+		<phrase hz="卷子" py="juàn,zi" />
+		<phrase hz="卷宗" py="juàn,zōng" />
+		<definition id="一">
+			<item id="1" text="可以舒卷(juǎn)的书画：手~. 长~." />
+			<item id="2" text="书籍的册本或篇章：第一~. 上~. ~二." />
+			<item id="3" text="（-子、-儿）考试写答案的纸：试~. 交~. 历史~子." />
+			<item id="4" text="案卷，机关里分类汇存的档案、文件：~宗. 查一查底~." />
+		</definition>
+	</char>
+	<char hz="倦" py="juàn" />
+	<char hz="圈" py="juàn" multi="juān,quān">
+		<phrase hz="猪圈" py="zhū,juàn" />
+		<phrase hz="羊圈" py="yáng,juàn" />
+		<definition id="二">
+			<item text="养家畜等的栅栏：猪~. 羊~." />
+		</definition>
+	</char>
+	<char hz="桊" py="juàn" />
+	<char hz="眷" py="juàn" />
+	<char hz="隽" py="juàn" multi="jùn">
+		<phrase hz="隽永" py="juàn,yǒng" />
+		<definition id="一">
+			<item text="肥肉。" />
+			<item text="[隽永]（言论、文章）意味深长。" />
+		</definition>
+	</char>
+	<char hz="狷" py="juàn" />
+	<char hz="绢" py="juàn" />
+	<char hz="罥" py="juàn" />
+	<char hz="鄄" py="juàn" />
+</pinyin>

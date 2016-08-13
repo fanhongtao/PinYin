@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刁" py="diāo">
+		<phrase hz="刁难" py="diàn,nàn" />
+	</char>
+	<char hz="叼" py="diāo" />
+	<char hz="汈" py="diāo" />
+	<char hz="凋" py="diāo" />
+	<char hz="碉" py="diāo" />
+	<char hz="雕" py="diāo" />
+	<char hz="鲷" py="diāo" />
+	<char hz="貂" py="diāo" />
+	<char hz="吊" py="diào">
+		<phrase hz="吊丧" py="diào,sāng" />
+	</char>
+	<char hz="铞" py="diào" />
+	<char hz="钓" py="diào" />
+	<char hz="蓧" py="diào" trans="1" />
+	<char hz="窎" py="diào" />
+	<char hz="调" py="diào" multi="tiáo" main="1">
+		<definition id="二">
+			<item id="1" text="调动，安排：~职. ~兵遣将." />
+			<item id="2" text="（-子）曲调，音乐上高、低、长、短配合和谐的一组音（(连)腔-）这个~子很好听." />
+			<item id="3" text="多指调式类别和调式主音高度：C大~." />
+			<item id="4" text="语言中字音的声调：~号. ~类。 [声调]1.字音的高低升降。古汉语的声调是平、上、去、入四声。普通话的声调是阴平、阳平、上声、去声。2.读书、说话、朗诵的腔调。" />
+		</definition>
+	</char>
+	<char hz="掉" py="diào" />
+	<char hz="铫" py="diào" multi="yáo" info="Word主音">
+		<phrase hz="铫子" py="diào,zi" />
+		<phrase hz="铫儿" py="diào,er" />
+		<phrase hz="沙铫" py="shā,diào" />
+		<definition id="一">
+			<item text="（-子、-儿）煮开水熬东西用的器具：药~儿. 沙~儿." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坤" py="kūn" />
+	<char hz="昆" py="kūn" />
+	<char hz="琨" py="kūn" />
+	<char hz="焜" py="kūn" />
+	<char hz="鹍" py="kūn" />
+	<char hz="锟" py="kūn">
+		<phrase hz="锟铻" py="kūn,wú" />
+	</char>
+	<char hz="醌" py="kūn" />
+	<char hz="鲲" py="kūn" />
+	<char hz="裈" py="kūn" />
+	<char hz="髡" py="kūn" />
+	<char hz="捆" py="kǔn" />
+	<char hz="阃" py="kǔn" />
+	<char hz="悃" py="kǔn" />
+	<char hz="壸" py="kǔn" />
+	<char hz="困" py="kùn" />
+</pinyin>

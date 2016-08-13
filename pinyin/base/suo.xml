@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="莎" py="suō" multi="shā">
+		<phrase hz="莎草" py="suō,cǎo" />
+		<definition id="一">
+			<item text="莎草，多年生草本植物，茎三棱形，开黄褐色小花。地下的块茎叫香附子，可入药。" />
+		</definition>
+	</char>
+	<char hz="娑" py="suō" />
+	<char hz="桫" py="suō">
+		<phrase hz="桫椤" py="suō,luó" />
+	</char>
+	<char hz="挲" py="suō" multi="sa,sha" main="1">
+		<definition id="一">
+			<item text="见“摩”字条“摩挲”(mó-)。" />
+		</definition>
+	</char>
+	<char hz="唆" py="suō" />
+	<char hz="梭" py="suō" />
+	<char hz="睃" py="suō" />
+	<char hz="羧" py="suō" />
+	<char hz="蓑" py="suō" />
+	<char hz="嗍" py="suō" />
+	<char hz="趖" py="suō" />
+	<char hz="缩" py="suō" multi="sù" main="1">
+		<definition id="一">
+			<item id="1" text="向后退：不要畏~. 遇到困难决不退~." />
+			<item id="2" text="由大变小，由长变短，由多变少：热胀冷~. ~了半尺. ~短战线. 节衣~食. 紧~开支. [缩影]比喻可以代表同一类型的具体而微的人或事物。" />
+		</definition>
+	</char>
+	<char hz="所" py="suǒ" />
+	<char hz="索" py="suǒ" />
+	<char hz="唢" py="suǒ">
+		<phrase hz="唢呐" py="suǒ,nà" />
+	</char>
+	<char hz="琐" py="suǒ" />
+	<char hz="锁" py="suǒ" />
+	<char hz="嗦" py="suo" />
+</pinyin>

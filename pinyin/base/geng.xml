@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="更" py="gēng" multi="gèng">
+		<phrase hz="更改" py="gēng,gǎi" />
+		<phrase hz="更换" py="gēng,huàn" />
+		<phrase hz="变更" py="biàn,gēng" />
+		<phrase hz="更动" py="gēng,dòng" />
+		<phrase hz="万象更新" py="wàn,xiàng,gēng,xīn" />
+		<phrase hz="更番" py="gēng,fān" />
+		<phrase hz="更正" py="gēng,zhèng" />
+		<phrase hz="少不更事" py="shào,bù,gēng,shì" />
+		<phrase hz="三更半夜" py="sān,gēng,bàn,yè" />
+		<phrase hz="打更" py="dǎ,gēng" />
+		<definition id="一">
+			<item id="1" text="改变，改换（(连)-改、-换、变-）：~动. 万象~新. ~番（轮流调换）. ~正错误." />
+			<item id="2" text="经历：少(shào)不更事." />
+			<item id="3" text="旧时一夜分五更：三~半夜. 打~（打梆敲锣报时巡夜）." />
+		</definition>
+	</char>
+	<char hz="庚" py="gēng" />
+	<char hz="赓" py="gēng" />
+	<char hz="鹒" py="gēng">
+		<phrase hz="鸧鹒" py="cāng,gēng" />
+	</char>
+	<char hz="耕" py="gēng" />
+	<char hz="羹" py="gēng">
+		<phrase hz="调羹" py="tiáo,gēng" />
+		<phrase hz="羹匙" py="gēng,chí" />
+	</char>
+	<char hz="埂" py="gěng" />
+	<char hz="哽" py="gěng">
+		<phrase hz="哽咽" py="gěng,yè" />
+	</char>
+	<char hz="绠" py="gěng" />
+	<char hz="梗" py="gěng" />
+	<char hz="鲠" py="gěng" />
+	<char hz="耿" py="gěng" />
+	<char hz="颈" py="gěng" multi="jǐng">
+		<phrase hz="脖颈子" py="bó,gěng,zi" />
+		<definition id="二">
+			<item text="义同“颈(一)”，用于“脖颈子”。" />
+		</definition>
+	</char>
+	<char hz="更" py="gèng" multi="gēng" main="1">
+		<phrase hz="更上一层楼" py="gèng,shàng,yì,céng,lóu" />
+		<phrase hz="更好" py="gèng,hǎo" />
+		<definition id="二" text="副词">
+			<item id="1" text="再，又：~上一层楼." />
+			<item id="2" text="越发，愈加：~好. ~明显了." />
+		</definition>
+	</char>
+	<char hz="暅" py="gèng" />
+</pinyin>

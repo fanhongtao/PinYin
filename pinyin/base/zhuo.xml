@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拙" py="zhuō" />
+	<char hz="捉" py="zhuō" />
+	<char hz="桌" py="zhuō" />
+	<char hz="倬" py="zhuō" />
+	<char hz="焯" py="zhuō" multi="chāo" main="1">
+		<definition id="一">
+			<item text="显明，明白。" />
+		</definition>
+	</char>
+	<char hz="棁" py="zhuō" />
+	<char hz="涿" py="zhuō" />
+	<char hz="" py="zhuō" />
+	<char hz="灼" py="zhuó" />
+	<char hz="酌" py="zhuó" />
+	<char hz="茁" py="zhuó" />
+	<char hz="卓" py="zhuó" />
+	<char hz="斫" py="zhuó">
+		<phrase hz="斫丧" py="zhuó,sàng" />
+	</char>
+	<char hz="浊" py="zhuó" />
+	<char hz="镯" py="zhuó" />
+	<char hz="浞" py="zhuó" />
+	<char hz="诼" py="zhuó" />
+	<char hz="啄" py="zhuó" />
+	<char hz="琢" py="zhuó" multi="zuó" main="1">
+		<definition id="一">
+			<item text="雕刻玉石，使成器物：精雕细~. [琢磨] 1.雕刻和打磨（玉石）。 2.加工使精美（指文章等）。" />
+		</definition>
+	</char>
+	<char hz="椓" py="zhuó" />
+	<char hz="著" py="zhuó" multi="zhù">
+		<definition id="二">
+			<item text="附着，穿着。 后作“着”(zhuó)。" />
+		</definition>
+	</char>
+	<char hz="着" py="zhuó" multi="zhāo,zháo,zhe" main="1">
+		<phrase hz="着落" py="zhuó,luò" />
+		<definition id="一">
+			<item id="1" text="穿（衣）：~衣." />
+			<item id="2" text="接触，挨上：附~. ~陆. 不~边际." />
+			<item id="3" text="使接触别的事物，使附着在别的物体上：~眼. ~手. ~色. 不~痕迹." />
+			<item id="4" text="着落：寻找无~. [着落](-luò)下落，来源：遗失的东西有了~~了. 这笔费用还没有~~." />
+			<item id="5" text="派遣：~人前来办理." />
+			<item id="6" text="公文用语，表示命令的语气：~即施行." />
+		</definition>
+	</char>
+	<char hz="禚" py="zhuó" />
+	<char hz="鷟" py="zhuó" trans="1" />
+	<char hz="缴" py="zhuó" multi="jiǎo">
+		<definition id="二">
+			<item text="系在箭上的绳。" />
+		</definition>
+	</char>
+	<char hz="擢" py="zhuó" />
+	<char hz="濯" py="zhuó" />
+</pinyin>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="则" py="zé" />
+	<char hz="责" py="zé" />
+	<char hz="啧" py="zé" />
+	<char hz="帻" py="zé" />
+	<char hz="箦" py="zé" />
+	<char hz="赜" py="zé" />
+	<char hz="咋" py="zé" multi="zǎ,zhā">
+		<phrase hz="咋舌" py="zé,shé" />
+		<definition id="一">
+			<item id="1" text="大声呼叫。" />
+			<item id="2" text="咬，啃。 [咋舌]形容因惊讶、害怕而说不出话来。" />
+		</definition>
+	</char>
+	<char hz="迮" py="zé" />
+	<char hz="笮" py="zé" multi="zuó">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="舴" py="zé">
+		<phrase hz="舴艋" py="zé,měng" />
+	</char>
+	<char hz="择" py="zé" multi="zhái" main="1">
+		<definition id="一">
+			<item text="挑拣，挑选（(连)选-）：不~手段. ~善而从. ~友. ~业." />
+		</definition>
+	</char>
+	<char hz="泽" py="zé" />
+	<char hz="仄" py="zè">
+		<definition>
+			<item id="1" text="倾斜。 [仄声]古汉语里上声、去声、入声的总称。" />
+			<item id="2" text="狭窄。" />
+			<item id="3" text="心里不安：歉~." />
+		</definition>
+	</char>
+	<char hz="昃" py="zè" />
+	<char hz="侧" py="zè" multi="cè,zhāi">
+		<phrase hz="侧声" py="zè,shēng" />
+		<definition id="三">
+			<item text="同“仄”。 [侧声]同“仄声”。" />
+		</definition>
+	</char>
+</pinyin>

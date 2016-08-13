@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="偲" py="cāi" multi="sī" main="1">
+		<definition id="一">
+			<item text="有才能。" />
+		</definition>
+	</char>
+	<char hz="猜" py="cāi" />
+	<char hz="才" py="cái">
+		<phrase hz="干才" py="gàn,cái" />
+	</char>
+	<char hz="材" py="cái" />
+	<char hz="财" py="cái" />
+	<char hz="裁" py="cái">
+		<phrase hz="裁缝" py="cái,feng" />
+	</char>
+	<char hz="采" py="cǎi" multi="cài" main="1">
+		<definition id="一">
+			<item id="1" text="摘取：~莲. ~茶." />
+			<item id="2" text="选取：~用. ~矿. [采访]搜集寻访，多指记者为搜集材料进行调查访问。 [采纳]接受（意见）：~~群众的意见." />
+			<item id="3" text="神采，神色，精神：兴高~烈." />
+			<item id="4" text="同“彩”。" />
+		</definition>
+	</char>
+	<char hz="彩" py="cǎi">
+		<definition>
+			<item id="1" text="各种颜色：~色影片. ~排（化装排演）. [挂彩](喻)在战斗中受伤。" />
+			<item id="2" text="彩色的绸子：悬灯结~." />
+			<item id="3" text="指赌博或某种竞赛中赢得的东西：得~. ~金." />
+			<item id="4" text="称赞、夸奖的欢呼声：喝(hè)~." />
+		</definition>
+	</char>
+	<char hz="睬" py="cǎi" />
+	<char hz="踩" py="cǎi" />
+	<char hz="采" py="cài" multi="cǎi">
+		<phrase hz="采地" py="cài,dì" />
+		<phrase hz="采邑" py="cài,yì" />
+		<definition id="二">
+			<item text="采地，采邑，古代卿大夫的封地。" />
+		</definition>
+	</char>
+	<char hz="菜" py="cài" />
+	<char hz="蔡" py="cài" />
+</pinyin>

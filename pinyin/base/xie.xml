@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="些" py="xiē">
+		<phrase hz="长些见识" py="zhǎng,xiē,jiàn,shi" />
+	</char>
+	<char hz="揳" py="xiē" />
+	<char hz="楔" py="xiē">
+		<phrase hz="楔子" py="xiē,zi" />
+	</char>
+	<char hz="歇" py="xiē" />
+	<char hz="蝎" py="xiē" />
+	<char hz="叶" py="xié" multi="yè">
+		<phrase hz="叶韵" py="xié,yùn" />
+		<definition id="二">
+			<item text="和洽，合：~韵." />
+		</definition>
+	</char>
+	<char hz="协" py="xié" />
+	<char hz="胁" py="xié" />
+	<char hz="邪" py="xié" multi="yé" main="1">
+		<definition id="一">
+			<item id="1" text="不正当：歪风~气. 改~归正. (引)奇怪，不正常：~门. 一股~劲." />
+			<item id="2" text="中医指引起疾病的环境因素：风~. 寒~. (转)迷信的人指鬼神给予的灾祸：驱~." />
+		</definition>
+	</char>
+	<char hz="挟" py="xié">
+		<phrase hz="要挟" py="yāo,xié" />
+	</char>
+	<char hz="斜" py="xié" />
+	<char hz="偕" py="xié" />
+	<char hz="谐" py="xié" />
+	<char hz="絜" py="xié" />
+	<char hz="颉" py="xié" multi="jié" main="1">
+		<phrase hz="颉颃" py="xié,háng" />
+		<definition id="二">
+			<item id="1" text="鸟往上飞。 [颉颃](-háng)1.鸟向上向下飞。 2.不相上下：他的书法与名家相~~. (转)对抗：~~作用." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="撷" py="xié" />
+	<char hz="缬" py="xié" />
+	<char hz="携" py="xié" />
+	<char hz="鞋" py="xié" />
+	<char hz="勰" py="xié" />
+	<char hz="写" py="xiě" />
+	<char hz="血" py="xiě" multi="xuè">
+		<definition id="二">
+			<item text="义同“血(一)”，用于口语。多单用，如“流了点儿血”。也用于口语常用词，如“鸡血”、“血块子”。" />
+		</definition>
+	</char>
+	<char hz="灺" py="xiè" />
+	<char hz="泄" py="xiè" />
+	<char hz="绁" py="xiè" />
+	<char hz="渫" py="xiè" />
+	<char hz="泻" py="xiè" />
+	<char hz="契" py="xiè" multi="qì">
+		<definition id="二">
+			<item text="商朝的祖先，传说是舜的臣。" />
+		</definition>
+	</char>
+	<char hz="卨" py="xiè" trans="1" />
+	<char hz="卸" py="xiè" />
+	<char hz="屑" py="xiè" />
+	<char hz="榍" py="xiè" />
+	<char hz="械" py="xiè" />
+	<char hz="亵" py="xiè" />
+	<char hz="谢" py="xiè" />
+	<char hz="塮" py="xiè" />
+	<char hz="榭" py="xiè" />
+	<char hz="解" py="xiè" multi="jiě,jiè">
+		<phrase hz="解县" py="xiè,xiàn" />
+		<definition id="三">
+			<item id="1" text="明白，懂得：~不开这个理." />
+			<item id="2" text="姓。" />
+			<item id="3" text="解县，旧县名，在山西省。" />
+		</definition>
+	</char>
+	<char hz="薢" py="xiè">
+		<phrase hz="薢茩" py="xiè,hòu" />
+	</char>
+	<char hz="獬" py="xiè">
+		<phrase hz="獬豸" py="xiè,zhì" />
+	</char>
+	<char hz="邂" py="xiè">
+		<phrase hz="邂逅" py="xiè,hòu" />
+	</char>
+	<char hz="廨" py="xiè" />
+	<char hz="澥" py="xiè" />
+	<char hz="懈" py="xiè" />
+	<char hz="蟹" py="xiè" />
+	<char hz="薤" py="xiè" />
+	<char hz="瀣" py="xiè" />
+	<char hz="燮" py="xiè" />
+	<char hz="躞" py="xiè" />
+</pinyin>

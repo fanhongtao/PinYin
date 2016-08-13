@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="他" py="tā" />
+	<char hz="她" py="tā" />
+	<char hz="它" py="tā" />
+	<char hz="铊" py="tā" multi="tuó" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Tl，银白色，质柔软。铊的化合物有毒。" />
+		</definition>
+	</char>
+	<char hz="趿" py="tā">
+		<phrase hz="趿拉" py="tā,la" />
+	</char>
+	<char hz="塌" py="tā" />
+	<char hz="溻" py="tā" />
+	<char hz="褟" py="tā" />
+	<char hz="踏" py="tā" multi="tà">
+		<phrase hz="踏实" py="tā,shi" />
+		<definition id="二">
+			<item text="[踏实](-shi)1.切实，不浮躁：他工作很~~. 2.（情绪）安定，安稳：事情办完就~~了." />
+		</definition>
+	</char>
+	<char hz="塔" py="tǎ" />
+	<char hz="溚" py="tǎ" />
+	<char hz="獭" py="tǎ" />
+	<char hz="鳎" py="tǎ" />
+	<char hz="拓" py="tà" multi="tuò">
+		<definition id="二">
+			<item text="在刻铸文字、图像的器物上，蒙一层纸，捶打后使凹凸分明，涂上墨，显出文字、图像来。" />
+		</definition>
+	</char>
+	<char hz="沓" py="tà" multi="dá" main="1">
+		<definition id="一">
+			<item text="多，重复：杂~. 纷至~来." />
+		</definition>
+	</char>
+	<char hz="踏" py="tà" multi="tā" main="1">
+		<definition id="一">
+			<item text="用脚踩：大~步地前进. (引)亲自到现场去：~看. ~勘." />
+		</definition>
+	</char>
+	<char hz="㒓" py="tà" trans="1" />
+	<char hz="挞" py="tà" />
+	<char hz="闼" py="tà" />
+	<char hz="" py="tà" />
+	<char hz="嗒" py="tà" multi="dā">
+		<phrase hz="嗒丧" py="tà,sàng" />
+		<phrase hz="嗒然" py="tà,rán" />
+		<definition id="一">
+			<item text="失意的样子：~丧. ~然若失." />
+		</definition>
+	</char>
+	<char hz="遝" py="tà" />
+	<char hz="阘" py="tà">
+		<phrase hz="阘茸" py="tà,róng" />
+	</char>
+	<char hz="榻" py="tà" />
+	<char hz="蹋" py="tà" />
+	<char hz="漯" py="tà" multi="luò">
+		<definition id="二">
+			<item text="漯河，古水名，在今山东省。" />
+		</definition>
+	</char>
+	<char hz="遢" py="ta" />
+</pinyin>

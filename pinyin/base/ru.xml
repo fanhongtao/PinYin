@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="如" py="rú" />
+	<char hz="茹" py="rú" />
+	<char hz="铷" py="rú" />
+	<char hz="儒" py="rú" />
+	<char hz="薷" py="rú" />
+	<char hz="嚅" py="rú" />
+	<char hz="濡" py="rú" />
+	<char hz="孺" py="rú" />
+	<char hz="襦" py="rú" />
+	<char hz="颥" py="rú" />
+	<char hz="蠕" py="rú" />
+	<char hz="汝" py="rǔ" />
+	<char hz="乳" py="rǔ" />
+	<char hz="辱" py="rǔ" />
+	<char hz="擩" py="rǔ" />
+	<char hz="入" py="rù" />
+	<char hz="洳" py="rù" />
+	<char hz="蓐" py="rù" />
+	<char hz="溽" py="rù" />
+	<char hz="缛" py="rù" />
+	<char hz="褥" py="rù" />
+</pinyin>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="枞" py="zōng" multi="cōng">
+		<phrase hz="枞阳" py="zōng,yáng" />
+		<definition id="二">
+			<item text="[枞阳]地名，在安徽省。" />
+		</definition>
+	</char>
+	<char hz="宗" py="zōng">
+		<phrase hz="禅宗" py="chán,zōng" />
+	</char>
+	<char hz="综" py="zōng" multi="zèng" main="1">
+		<definition id="一">
+			<item text="总合：错~（纵横交错）. [综合] 1.把各个独立而互相关联的事物或现象进行分析归纳整理。 2.不同种类、不同性质的事物组合在一起：~~利用. ~~大学." />
+		</definition>
+	</char>
+	<char hz="棕" py="zōng">
+		<phrase hz="棕榈" py="zōng,lǘ" />
+	</char>
+	<char hz="腙" py="zōng" />
+	<char hz="踪" py="zōng" />
+	<char hz="鬃" py="zōng" />
+	<char hz="总" py="zǒng" />
+	<char hz="偬" py="zǒng" />
+	<char hz="纵" py="zòng" />
+	<char hz="疭" py="zòng" />
+	<char hz="粽" py="zòng" />
+	<char hz="䝋" py="zòng" />
+</pinyin>

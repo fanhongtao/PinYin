@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="那" py="nā" multi="nà,nèi">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="拿" py="ná" />
+	<char hz="镎" py="ná" />
+	<char hz="哪" py="nǎ" multi="né,na,něi" main="1">
+		<definition id="一">
+			<item text="代词。1.表示疑问，后面跟量词或数量词，要求在所问范围中有所确定：你喜欢读~种书？ [哪儿][哪里]什么地方：你在~~住？ ~~有困难，就到~~去. (转)用于反问句：我~~知道？（我不知道） 他~~笨啊？（他不笨） 这项工作一个人~~能做好？（一个人做不好） 2.表示反问：没有耕耘，~有收获." />
+		</definition>
+	</char>
+	<char hz="那" py="nà" multi="nā,nèi" main="1">
+		<phrase hz="那么" py="nà,me" />
+		<definition id="一">
+			<item text="代词，指较远的时间、地方或事物，跟“这”相对：~时. ~里. ~个. ~样. ~些. [那么]（*那末）(-me)1.代词，那样：就~~办吧. 要不了~~多. ~~个人. ~~个脾气. 2.连词，跟前面“如果”、“若是”等相应：如果敌人不投降，~~就消灭他." />
+		</definition>
+	</char>
+	<char hz="娜" py="nà" multi="nuó" main="1">
+		<definition id="一">
+			<item text="用于人名。" />
+		</definition>
+	</char>
+	<char hz="呐" py="nà" />
+	<char hz="纳" py="nà" />
+	<char hz="肭" py="nà" />
+	<char hz="钠" py="nà" />
+	<char hz="衲" py="nà" />
+	<char hz="捺" py="nà" />
+	<char hz="哪" py="na" multi="nǎ,né,něi">
+		<definition id="三">
+			<item text="助词，“啊”受到前一字韵母n收音的影响而发生的变音：同志们，加油干~！" />
+		</definition>
+	</char>
+</pinyin>

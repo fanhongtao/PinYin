@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="参" py="cān" multi="cēn,shēn" main="1">
+		<definition id="一">
+			<item id="1" text="参加，加入：~军. ~战. [参半]占半数：疑信~~. [参观]实地观察（事业、设施、名胜等）。[参考]用有关的材料帮助了解、研究某事物。 [参天]高入云霄：古木~~." />
+			<item id="2" text="进见：~谒. ~拜." />
+			<item id="3" text="封建时代指弹劾(tánhé)：~他一本." />
+		</definition>
+	</char>
+	<char hz="骖" py="cān" />
+	<char hz="餐" py="cān" />
+	<char hz="残" py="cán" />
+	<char hz="蚕" py="cán" />
+	<char hz="惭" py="cán" />
+	<char hz="惨" py="cǎn" />
+	<char hz="" py="cǎn" />
+	<char hz="miss: 竹参" py="cǎn" info="special" />
+	<char hz="灿" py="càn" />
+	<char hz="孱" py="càn" multi="chán" info="Word主音">
+		<phrase hz="孱头" py="càn,tou" />
+		<definition id="二">
+			<item text="同“孱(一)”，只用于“孱头”。[孱头](-tou)〈方〉软弱无能的人。" />
+		</definition>
+	</char>
+	<char hz="粲" py="càn" />
+	<char hz="璨" py="càn" />
+</pinyin>

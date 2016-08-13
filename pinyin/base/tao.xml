@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="叨" py="tāo" multi="dāo">
+		<phrase hz="叨光" py="tāo,guāng" />
+		<phrase hz="叨教" py="tāo,jiào" />
+		<phrase hz="叨扰" py="tāo,rǎo" />
+		<definition id="一">
+			<item text="承受：~光. ~教(jiào). [叨扰]谢人款待的话。" />
+		</definition>
+	</char>
+	<char hz="涛" py="tāo" />
+	<!-- <char hz="焘" py="tāo" info="(又)dào"/> -->
+	<char hz="绦" py="tāo" />
+	<char hz="掏" py="tāo" />
+	<char hz="滔" py="tāo" />
+	<char hz="韬" py="tāo" />
+	<char hz="饕" py="tāo">
+		<phrase hz="饕餮" py="tāo,tiè" />
+	</char>
+	<char hz="逃" py="táo" />
+	<char hz="洮" py="táo" />
+	<char hz="桃" py="táo" />
+	<char hz="䄻" py="táo" />
+	<char hz="陶" py="táo" multi="yáo" main="1">
+		<definition id="一">
+			<item id="1" text="用黏土烧制的器物. [陶土]烧制陶器的黏土。" />
+			<item id="2" text="制造陶器：~铸. ~冶（制陶器和炼金属，喻造就良好的品格、情操等）." />
+			<item id="3" text="隐然，快乐的样子：~醉." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="萄" py="táo" />
+	<char hz="啕" py="táo" />
+	<char hz="咷" py="táo" info="词组中使用到，所以补充" />
+	<char hz="淘" py="táo" />
+	<char hz="绹" py="táo" />
+	<char hz="醄" py="táo" />
+	<char hz="梼" py="táo">
+		<phrase hz="梼杌" py="táo,wù" />
+	</char>
+	<char hz="鼗" py="táo" />
+	<char hz="讨" py="tǎo">
+		<phrase hz="讨教" py="tǎo,jiào" />
+	</char>
+	<char hz="䵚" py="tǎo" />
+	<char hz="套" py="tào" />
+</pinyin>

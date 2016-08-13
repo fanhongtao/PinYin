@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吨" py="dūn" />
+	<char hz="惇" py="dūn" />
+	<char hz="敦" py="dūn" multi="duì" main="1">
+		<definition id="一">
+			<item id="1" text="敦厚，厚道：~睦邦交." />
+			<item id="2" text="诚心诚意：~聘. ~请." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="墩" py="dūn" />
+	<char hz="撴" py="dūn" />
+	<char hz="礅" py="dūn" />
+	<char hz="镦" py="dūn" multi="duì" main="1">
+		<definition id="二">
+			<item text="冲压金属板，使其变形。不加热叫冷镦，加热叫热镦。" />
+		</definition>
+	</char>
+	<char hz="蹾" py="dūn" />
+	<char hz="蹲" py="dūn" multi="cún" main="1">
+		<definition id="一">
+			<item text="两腿尽量弯曲，像坐的样子，但臀部不着地：大家都~下. (转)闲居：不能再~在家里了. [蹲班]留级：~~生. [蹲点]深入到基层单位，参加实际工作，进行调查研究等。" />
+		</definition>
+	</char>
+	<char hz="miss: 一小" py="dǔn" info="special" />
+	<char hz="盹" py="dǔn" />
+	<char hz="趸" py="dǔn" />
+	<char hz="囤" py="dùn" multi="tún" main="1">
+		<definition id="一">
+			<item text="用竹篾、荆条等编成的或用席箔等围成的盛粮食等的器物：大~满，小~流." />
+		</definition>
+	</char>
+	<char hz="沌" py="dùn">
+		<phrase hz="混沌" py="hùn,dùn" />
+	</char>
+	<char hz="炖" py="dùn" />
+	<char hz="砘" py="dùn" />
+	<char hz="钝" py="dùn" />
+	<char hz="顿" py="dùn" multi="dú" main="1">
+		<definition id="一">
+			<item id="1" text="很短时间的停止（(连)停-）：抑扬~挫. 念到这个地方应该~一下." />
+			<item id="2" text="忽然，立刻，一下子：~悟. ~时紧张起来." />
+			<item id="3" text="叩，碰：~首. (转)跺：~足." />
+			<item id="4" text="处理，放置：整~. 安~." />
+			<item id="5" text="书法上指运笔用力向下而暂不移动。" />
+			<item id="6" text="疲乏：劳~. 困~." />
+			<item id="7" text="量词，次：一天三~饭. 说了一~. 打了他一~." />
+			<item id="8" text="姓。" />
+		</definition>
+	</char>
+	<char hz="盾" py="dùn">
+		<definition>
+			<item id="1" text="古代打仗时防护身体，挡住敌人刀、箭等的牌。 [后盾]指后方护卫、支援的力量。" />
+			<item id="2" text="盾形的东西：金~. 银~." />
+			<item id="3" text="越南等国的货币单位。" />
+		</definition>
+	</char>
+	<char hz="遁" py="dùn" />
+	<char hz="楯" py="dùn" multi="shǔn" main="1">
+		<definition id="二">
+			<item text="同“盾”。" />
+		</definition>
+	</char>
+</pinyin>

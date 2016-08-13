@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="江" py="jiāng" />
+	<char hz="茳" py="jiāng">
+		<phrase hz="茳芏" py="jiāng,dù" />
+	</char>
+	<char hz="豇" py="jiāng" />
+	<char hz="将" py="jiāng" multi="jiàng" main="1">
+		<phrase hz="将就" py="jiāng,jiu" />
+		<definition id="一">
+			<item id="1" text="副词，将要，快要：天~明. 后日~返京. [将来]未来：我们的劳动是为了更美好的~~." />
+			<item id="2" text="介词，把：~革命进行到底." />
+			<item id="3" text="下象棋时攻击对方的“将”或“帅”：~军（也比喻使人为难）." />
+			<item id="4" text="用言语刺激：别把他~急了." />
+			<item id="5" text="带，领，扶助：~雏. 扶~. [将军]对高级军官的称呼。" />
+			<item id="6" text="保养：~养. ~息." />
+			<item id="7" text="〈方〉兽类生子：~驹. ~小猪." />
+			<item id="8" text="助词，用在动词和“出来”、“起来”、“上去”等的中间：走~出来. 叫~起来. 赶~上去." />
+			<item id="9" text="姓。" />
+			<item text="[将就](-jiu)勉强适应，凑合：~~着用." />
+		</definition>
+	</char>
+	<char hz="浆" py="jiāng" multi="jiàng" main="1">
+		<definition id="一">
+			<item id="1" text="比较浓的液体：纸~. 豆~. 泥~." />
+			<item id="2" text="用米汤或粉浆等浸润纱、布、衣服等物：~衣裳." />
+		</definition>
+	</char>
+	<char hz="鳉" py="jiāng" />
+	<char hz="姜" py="jiāng" />
+	<char hz="僵" py="jiāng" />
+	<char hz="缰" py="jiāng" />
+	<char hz="礓" py="jiāng" />
+	<char hz="疆" py="jiāng">
+		<phrase hz="疆场" py="jiāng,chǎng" />
+		<phrase hz="疆埸" py="jiāng,yì" />
+	</char>
+	<char hz="讲" py="jiǎng">
+		<phrase hz="讲究" py="jiǎng,jiu" />
+	</char>
+	<char hz="奖" py="jiǎng" />
+	<char hz="桨" py="jiǎng" />
+	<char hz="蒋" py="jiǎng" />
+	<char hz="耩" py="jiǎng" />
+	<char hz="膙" py="jiǎng" />
+	<char hz="匠" py="jiàng" />
+	<char hz="降" py="jiàng" multi="xiáng" main="1">
+		<definition id="一">
+			<item id="1" text="下落，落下（(连)-落）：~雨. 温度下~. ~落伞." />
+			<item id="2" text="使下落：~级. ~格. ~低物价." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="洚" py="jiàng" />
+	<char hz="绛" py="jiàng" />
+	<char hz="虹" py="jiàng" multi="hóng">
+		<definition id="二">
+			<item text="义同“虹”(hóng)，限于单用。" />
+		</definition>
+	</char>
+	<char hz="将" py="jiàng" multi="jiāng">
+		<phrase hz="将领" py="jiàng,lǐng" />
+		<phrase hz="将兵" py="jiàng,bīng" />
+		<definition id="二">
+			<item id="1" text="军衔名。在校级之上。 [将领]较高级的军官。" />
+			<item id="2" text="统率指挥：~兵." />
+		</definition>
+	</char>
+	<char hz="浆" py="jiàng" multi="jiāng">
+		<phrase hz="浆糊" py="jiàng,hu" />
+		<phrase hz="浆子" py="jiàng,zi" />
+		<definition id="二">
+			<item text="[浆糊](-hu)[浆子](-zi)同“糨糊”、“糨子”。" />
+		</definition>
+	</char>
+	<char hz="酱" py="jiàng" />
+	<char hz="弶" py="jiàng" />
+	<char hz="强" py="jiàng" multi="qiáng,qiǎng">
+		<phrase hz="倔强" py="jué,jiàng" />
+		<phrase hz="强嘴" py="jiàng,zuǐ" />
+		<definition id="三">
+			<item id="1" text="强(qiáng)硬不屈：倔~." />
+			<item id="2" text="固执己见，不服劝导：你别~嘴." />
+		</definition>
+	</char>
+	<char hz="犟" py="jiàng" />
+	<char hz="糨" py="jiàng">
+		<phrase hz="糨糊" py="jiàng,hu" />
+		<phrase hz="糨子" py="jiàng,zi" />
+		<definition>
+			<item text="稠，浓：粥太~了. [糨糊](-hu)[糨子](-zi)用面等做成的可以粘贴东西的物品。" />
+		</definition>
+	</char>
+</pinyin>

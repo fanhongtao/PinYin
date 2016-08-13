@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="贞" py="zhēn" />
+	<char hz="侦" py="zhēn" />
+	<char hz="帧" py="zhēn" />
+	<char hz="浈" py="zhēn" />
+	<char hz="桢" py="zhēn">
+		<phrase hz="桢干" py="zhēn,gàn" />
+	</char>
+	<char hz="祯" py="zhēn" />
+	<char hz="针" py="zhēn" />
+	<char hz="珍" py="zhēn" />
+	<char hz="胗" py="zhēn" />
+	<char hz="真" py="zhēn" />
+	<char hz="砧" py="zhēn">
+		<definition>
+			<item text="捶、砸或切东西的时候，垫在底下的器具：铁~. ~板. [砧木]嫁接植物时把接穗接在另一个植物体上，这个植物体叫砧木。" />
+		</definition>
+	</char>
+	<char hz="蓁" py="zhēn" />
+	<char hz="獉" py="zhēn">
+		<phrase hz="獉狉" py="zhēn,pī" />
+	</char>
+	<char hz="溱" py="zhēn" multi="qín" main="1">
+		<definition id="一">
+			<item text="溱头河，水名，在河南省驻马店。今作“臻头河”。" />
+		</definition>
+	</char>
+	<char hz="榛" py="zhēn" />
+	<char hz="臻" py="zhēn" />
+	<char hz="斟" py="zhēn">
+		<phrase hz="斟酌" py="zhēn,zhuó" />
+	</char>
+	<char hz="椹" py="zhēn" multi="shèn" main="1">
+		<definition id="一">
+			<item text="同“砧”。" />
+		</definition>
+	</char>
+	<char hz="甄" py="zhēn" />
+	<char hz="箴" py="zhēn" />
+	<char hz="诊" py="zhěn" />
+	<char hz="轸" py="zhěn" />
+	<char hz="畛" py="zhěn" />
+	<char hz="疹" py="zhěn">
+		<phrase hz="疹子" py="zhěn,zi" />
+	</char>
+	<char hz="袗" py="zhěn" />
+	<char hz="枕" py="zhěn" />
+	<char hz="缜" py="zhěn" />
+	<char hz="稹" py="zhěn" />
+	<char hz="鬒" py="zhěn" />
+	<char hz="圳" py="zhèn" />
+	<char hz="阵" py="zhèn" />
+	<char hz="纼" py="zhèn" />
+	<char hz="鸩" py="zhèn">
+		<definition>
+			<item id="1" text="传说中的一种毒鸟，把它的羽毛泡在酒里，喝了可以毒死人。" />
+			<item id="2" text="用鸩的羽毛泡成的毒酒：饮~止渴（喻满足一时需要，不顾后果）." />
+			<item id="3" text="用毒酒害人。" />
+		</definition>
+	</char>
+	<char hz="酖" py="zhèn" multi="dān">
+		<definition id="二">
+			<item text="“鸩(2)(3)”的异体字。" />
+		</definition>
+	</char>
+	<char hz="振" py="zhèn" />
+	<char hz="赈" py="zhèn" />
+	<char hz="震" py="zhèn" />
+	<char hz="朕" py="zhèn" />
+	<char hz="瑱" py="zhèn" />
+	<char hz="镇" py="zhèn" />
+</pinyin>

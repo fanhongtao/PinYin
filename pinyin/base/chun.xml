@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="春" py="chūn" />
+	<char hz="椿" py="chūn" />
+	<char hz="蝽" py="chūn" />
+	<char hz="" py="chūn" />
+	<char hz="纯" py="chún">
+		<phrase hz="纯熟" py="chún,shú" />
+	</char>
+	<char hz="莼" py="chún" />
+	<char hz="唇" py="chún" />
+	<char hz="淳" py="chún" />
+	<char hz="鹑" py="chún" />
+	<char hz="醇" py="chún" />
+	<char hz="蠢" py="chǔn" />
+</pinyin>

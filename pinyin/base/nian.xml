@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拈" py="niān" />
+	<char hz="蔫" py="niān" />
+	<char hz="年" py="nián" />
+	<char hz="粘" py="nián" multi="zhān">
+		<definition id="二">
+			<item id="1" text="同“黏”。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="鲇" py="nián" />
+	<char hz="黏" py="nián">
+		<definition>
+			<item text="像胶水或糨糊所具有的能使物体粘(zhān)合的性质：~液. 这江米很~." />
+		</definition>
+	</char>
+	<char hz="鲶" py="nián" />
+	<char hz="捻" py="niǎn" />
+	<char hz="辇" py="niǎn" />
+	<char hz="撵" py="niǎn" />
+	<char hz="碾" py="niǎn" />
+	<char hz="蹍" py="niǎn" />
+	<char hz="廿" py="niàn" />
+	<char hz="念" py="niàn">
+		<phrase hz="念头" py="niàn,tou" />
+	</char>
+	<char hz="埝" py="niàn" />
+</pinyin>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="通" py="tōng" multi="tòng" main="1">
+		<definition id="一">
+			<item id="1" text="没有阻碍，可以穿过，能够达到：~行. 条条大路~北京. 四~八达. ~车. ~风. (引)1.顺，指文章合语法，合事理。 2.彻底明了(liǎo)，懂得：精~业务. 他~三国文字. 3.四通八达的，不闭塞的：~都大邑. [通过]1.穿过去，走过去：火车~~南京长江大桥. 2.介词，经过：~~学习提高了认识. 3.（提案）经过讨论大家同意：~~一项议案. [通货]在社会经济活动中作为流通手段的货币：~~膨胀. [通融]破例迁就。(引)适当互助，以有易无：新式农具不够，大家~~着用." />
+			<item id="2" text="传达：~报. ~告. ~信. [通知]1.传达使知道：~~他一声. 2.传达事项的文件：发~~. 开会~~." />
+			<item id="3" text="往来交接：~商. 互~情报." />
+			<item id="4" text="普遍，全：~病. ~共. ~盘计划. ~力合作. [通俗]浅显的，适合于一般文化程度的：~~读物." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="嗵" py="tōng" />
+	<char hz="樋" py="tōng" />
+	<char hz="痌" py="tōng">
+		<phrase hz="痌瘝在抱" py="tōng,guān,zài,bào" />
+	</char>
+	<char hz="仝" py="tóng" />
+	<char hz="砼" py="tóng" />
+	<char hz="同" py="tóng" multi="tòng" main="1">
+		<definition id="一">
+			<item id="1" text="一样，没有差异：~等. ~岁. ~感. 大~小异. [同化]1.生物休将从食物中摄取的养料转化成自身细胞的成分并储存能量。 2.使不同的事物变成相同或相近的事物。 [同情]对于别人的遭遇在感情上发生共鸣：我们~~并支持一切反殖民主义的斗争. [同时]1.在同一个时候。 2.表示进一层，并且：修好淮河可以防止水灾，~~还可以防止旱灾. [同志]一般指志同道合的人，为共同的理想、事业而奋斗的人。特指同一个政党的成员。" />
+			<item id="2" text="跟……相同：~上. ~前. “仝”~“同”." />
+			<item id="3" text="副词，共同，一起：~居. ~吃~住~劳动. 一路~行." />
+			<item id="4" text="介词，跟：他~哥哥一样勤奋. ~坏人作斗争." />
+			<item id="5" text="连词，和：我~你都去." />
+		</definition>
+	</char>
+	<char hz="侗" py="tóng" multi="dòng,tǒng">
+		<definition id="二">
+			<item text="旧指童蒙无知。" />
+		</definition>
+	</char>
+	<char hz="垌" py="tóng" multi="dòng" info="Word主音">
+		<phrase hz="垌冢" py="tóng,zhǒng" />
+		<definition id="二">
+			<item text="[垌冢](-zhǒng)地名，在湖北省汉川。" />
+		</definition>
+	</char>
+	<char hz="茼" py="tóng">
+		<phrase hz="茼蒿" py="tóng,hāo" />
+	</char>
+	<char hz="峒" py="tóng" multi="dòng">
+		<phrase hz="崆峒" py="kōng,tóng" />
+		<definition id="二">
+			<item text="见“崆”字条“崆峒”(kōng-)。" />
+		</definition>
+	</char>
+	<char hz="桐" py="tóng">
+		<phrase hz="泡桐" py="pāo,tóng" />
+	</char>
+	<char hz="烔" py="tóng">
+		<phrase hz="烔炀镇" py="tóng,yáng,zhèn" />
+	</char>
+	<char hz="铜" py="tóng" />
+	<char hz="酮" py="tóng" />
+	<char hz="鲖" py="tóng" />
+	<char hz="佟" py="tóng" />
+	<char hz="峂" py="tóng" />
+	<char hz="彤" py="tóng" />
+	<char hz="童" py="tóng">
+		<definition>
+			<item id="1" text="儿童，小孩子：~谣. (引)1.未长成的，幼：~牛（没有生角的小牛）. 2.未结婚的：~男. ~女. 3.秃的：~山（没有草木的山）. [童话]专给儿童编写的故事." />
+			<item id="2" text="旧时指未成年的男仆：家~." />
+		</definition>
+	</char>
+	<char hz="僮" py="tóng" multi="zhuàng" main="1">
+		<definition id="二">
+			<item id="1" text="封建时代受役使的未成年的人：书~." />
+			<item id="2" text="古同“童(1)”。" />
+		</definition>
+	</char>
+	<char hz="潼" py="tóng" />
+	<char hz="橦" py="tóng" />
+	<char hz="曈" py="tóng">
+		<phrase hz="曈昽" py="tóng,lóng" />
+	</char>
+	<char hz="瞳" py="tóng" />
+	<char hz="侗" py="tǒng" multi="dòng,tóng">
+		<phrase hz="儱侗" py="lǒng,tǒng" />
+		<definition id="三">
+			<item text="[儱侗](long-)同“笼统”。" />
+		</definition>
+	</char>
+	<char hz="筒" py="tǒng">
+		<phrase hz="烟筒" py="yān,tong" />
+	</char>
+	<char hz="统" py="tǒng" />
+	<char hz="捅" py="tǒng" />
+	<char hz="桶" py="tǒng" />
+	<char hz="同" py="tòng" multi="tóng">
+		<phrase hz="胡同" py="hú,tòng" />
+		<definition id="二">
+			<item text="[胡同]巷，较窄的街道。" />
+		</definition>
+	</char>
+	<char hz="恸" py="tòng" />
+	<char hz="通" py="tòng" multi="tōng">
+		<definition id="二">
+			<item text="量词：打了三~鼓. 说了一~." />
+		</definition>
+	</char>
+	<char hz="痛" py="tòng">
+		<phrase hz="痛快" py="tòng,kuai" />
+	</char>
+</pinyin>

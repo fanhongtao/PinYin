@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="开" py="kāi">
+		<phrase hz="开拓" py="kāi,tuò" />
+	</char>
+	<char hz="锎" py="kāi" />
+	<char hz="揩" py="kāi" />
+	<char hz="剀" py="kǎi">
+		<phrase hz="剀切" py="kǎi,qiè" />
+	</char>
+	<char hz="凯" py="kǎi" />
+	<char hz="垲" py="kǎi" />
+	<char hz="闿" py="kǎi" />
+	<char hz="恺" py="kǎi" />
+	<char hz="铠" py="kǎi" />
+	<char hz="蒈" py="kǎi" />
+	<char hz="楷" py="kǎi" multi="jiē" main="1">
+		<definition id="一">
+			<item id="1" text="法式，模范（(连)-模）。" />
+			<item id="2" text="楷书，现在通行的一种汉字字体，是由隶书演变而来的：小~. 正~." />
+		</definition>
+	</char>
+	<char hz="锴" py="kǎi" />
+	<char hz="慨" py="kǎi" />
+	<char hz="忾" py="kài" />
+	<char hz="欬" py="kài" />
+</pinyin>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="艽" py="jiāo" />
+	<char hz="交" py="jiāo">
+		<phrase hz="目不交睫" py="mù,bù,jiāo,jié" />
+	</char>
+	<char hz="郊" py="jiāo" />
+	<char hz="茭" py="jiāo" />
+	<char hz="峧" py="jiāo" />
+	<char hz="姣" py="jiāo" />
+	<char hz="胶" py="jiāo">
+		<phrase hz="鳔胶" py="biào,jiāo" />
+	</char>
+	<char hz="" py="jiāo">
+		<phrase hz="" py="jiāo,jīng" />
+	</char>
+	<char hz="蛟" py="jiāo" />
+	<char hz="跤" py="jiāo" />
+	<char hz="鲛" py="jiāo" />
+	<char hz="浇" py="jiāo" />
+	<char hz="娇" py="jiāo" />
+	<char hz="骄" py="jiāo" />
+	<char hz="教" py="jiāo" multi="jiào">
+		<phrase hz="教书" py="jiāo,shū" />
+		<definition id="二">
+			<item text="传授：~书. 我~历史. 我~给你做." />
+		</definition>
+	</char>
+	<char hz="椒" py="jiāo" />
+	<char hz="焦" py="jiāo" />
+	<char hz="僬" py="jiāo">
+		<phrase hz="僬侥" py="jiāo,yáo" />
+		<definition>
+			<item text="[僬侥](-yáo)古代传说中的矮人。"/>
+		</definition>
+	</char>
+	<char hz="蕉" py="jiāo" />
+	<char hz="礁" py="jiāo" />
+	<char hz="鹪" py="jiāo">
+		<phrase hz="鹪鹩" py="jiāo,liáo" />
+	</char>
+	<char hz="矫" py="jiáo" multi="jiǎo">
+		<phrase hz="矫情" py="jiáo,qing" />
+		<definition id="二">
+			<item text="[矫情](-qing)〈方〉指强词夺理：瞎~~." />
+		</definition>
+	</char>
+	<char hz="嚼" py="jiáo" multi="jiào,jué" main="1">
+		<definition id="一">
+			<item text="用牙齿磨碎食物。 [嚼舌]信口胡说，搬弄是非。" />
+		</definition>
+	</char>
+	<char hz="角" py="jiǎo" multi="jué" main="1">
+		<definition id="一">
+			<item id="1" text="牛、羊、鹿等头上长出的坚硬的东西。 [画角]古代军中吹的乐器。" />
+			<item id="2" text="形状像角的：菱~. 皂~." />
+			<item id="3" text="几何学上称自一点引两条射线所成的形状：直~. 锐~." />
+			<item id="4" text="（-儿）物体边沿相接的地方：桌子~儿. 墙~儿." />
+			<item id="5" text="突入海中的尖形陆地。多用于地名：成山~（在山东省荣成）." />
+			<item id="6" text="星宿名，二十八宿之一。" />
+			<item id="7" text="货币单位，一圆钱的十分之一。" />
+			<item id="8" text="量词。 1.从整块划分成角形的：一~饼. 2.旧时指公文的件数：一~公文." />
+		</definition>
+	</char>
+	<char hz="侥" py="jiǎo" multi="yáo" main="1">
+		<definition id="一">
+			<item text="[侥幸]（*徼倖）由于偶然的原因获得利益或免去不幸：怀着~~心理." />
+		</definition>
+	</char>
+	<char hz="佼" py="jiǎo" />
+	<char hz="狡" py="jiǎo" />
+	<char hz="饺" py="jiǎo" />
+	<char hz="绞" py="jiǎo" />
+	<char hz="铰" py="jiǎo" />
+	<char hz="皎" py="jiǎo" />
+	<char hz="筊" py="jiǎo" />
+	<char hz="挢" py="jiǎo">
+		<definition>
+			<item id="1" text="举，翘：舌~不下（形容惊讶得说不出话来）." />
+			<item id="2" text="纠正：~邪防非." />
+		</definition>
+	</char>
+	<char hz="矫" py="jiǎo" multi="jiáo" main="1">
+		<definition id="一">
+			<item id="1" text="纠正，把弯曲的弄直：~正. ~枉过正. ~揉造作（喻故意做作）. [矫情]故意违反常情，表示与众不同。" />
+			<item id="2" text="假托：~命." />
+			<item id="3" text="强健，勇武（(连)-健）：~捷." />
+			<item id="4" text="古同“挢”。" />
+		</definition>
+	</char>
+	<char hz="脚" py="jiǎo" multi="jué" main="1">
+		<definition id="一">
+			<item id="1" text="人和某些动物身体最下部接触地面的肢体。" />
+			<item id="2" text="最下部：山~. 墙~." />
+			<item text="[脚本]剧本，表演戏剧或拍电影等所根据的底本。" />
+		</definition>
+	</char>
+	<char hz="搅" py="jiǎo" />
+	<char hz="湫" py="jiǎo" multi="qiū">
+		<phrase hz="湫隘" py="jiǎo,ài" />
+		<definition id="二">
+			<item text="低洼。 [湫隘]低湿狭小。" />
+		</definition>
+	</char>
+	<char hz="敫" py="jiǎo" />
+	<char hz="徼" py="jiǎo" multi="jiào">
+		<phrase hz="徼倖" py="jiǎo,xìng" />
+		<definition id="一">
+			<item text="旧同“侥幸”。" />
+		</definition>
+	</char>
+	<char hz="缴" py="jiǎo" multi="zhuó" main="1">
+		<definition id="一">
+			<item id="1" text="交纳，交出（多指履行义务或被迫）：~公粮. ~纳税款." />
+			<item id="2" text="迫使交出：~了敌人的械." />
+		</definition>
+	</char>
+	<char hz="剿" py="jiǎo" multi="chāo" main="1">
+		<definition id="一">
+			<item text="讨伐，消灭：~匪. 围~." />
+		</definition>
+	</char>
+	<char hz="叫" py="jiào" />
+	<char hz="峤" py="jiào" multi="qiáo">
+		<definition id="一">
+			<item text="山道。" />
+		</definition>
+	</char>
+	<char hz="轿" py="jiào" />
+	<char hz="觉" py="jiào" multi="jué" info="Word主音">
+		<definition id="二">
+			<item text="睡眠。" />
+		</definition>
+	</char>
+	<char hz="校" py="jiào" multi="xiào">
+		<phrase hz="校场" py="jiào,chǎng" />
+		<phrase hz="校订" py="jiào,dìng" />
+		<phrase hz="校稿子" py="jiào,gǎo,zi" />
+		<definition id="二">
+			<item id="1" text="比较：~场（旧日演习武术的地方）." />
+			<item id="2" text="订正：~订. ~稿子." />
+		</definition>
+	</char>
+	<char hz="较" py="jiào" />
+	<char hz="教" py="jiào" multi="jiāo" main="1">
+		<definition id="一">
+			<item id="1" text="指导，教诲（(连)-导）：施~. 受~. 指~. [教育]1.教导和培养：~~干部. 2.教育事业。按一定要求培养人的事业，主要指各级学校的工作。" />
+			<item id="2" text="使，令：风能~船走." />
+			<item id="3" text="宗教：佛~. 道~. ~会. [宗教]一种社会意识形态，是对客观世界的虚幻的反映，这提倡对超自然神灵的信仰和崇拜。 [教条主义]主观主义的一种，不分析事物的变化、发展，不研究事物矛盾的特殊性，只是生搬硬套现成的原则、概念来处理问题。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="漖" py="jiào" />
+	<char hz="酵" py="jiào" />
+	<char hz="窖" py="jiào" />
+	<char hz="滘" py="jiào" />
+	<char hz="斠" py="jiào" />
+	<char hz="嘦" py="jiào" />
+	<char hz="噍" py="jiào" />
+	<char hz="醮" py="jiào" />
+	<char hz="徼" py="jiào" multi="jiǎo" main="1">
+		<definition id="二">
+			<item id="1" text="边界。" />
+			<item id="2" text="巡察。" />
+		</definition>
+	</char>
+	<char hz="蕌" py="jiào" />
+	<char hz="嚼" py="jiào" multi="jiáo,jué">
+		<phrase hz="倒嚼" py="dǎo,jiào" />
+		<definition id="三">
+			<item text="[倒嚼](dǎo-)反刍。" />
+		</definition>
+	</char>
+	<!-- <char hz="爝" py="jiào"/> -->
+</pinyin>

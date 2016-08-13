@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="搂" py="lōu" multi="lǒu">
+		<phrase hz="搂柴火" py="lōu,chái,huǒ" />
+		<phrase hz="搂钱" py="lōu,qián" />
+		<phrase hz="搂枪机" py="lōu,qiāng,jī" />
+		<definition id="二">
+			<item id="1" text="用手或工具把东西聚集起来：~柴火. (喻)搜刮：~钱." />
+			<item id="2" text="向着自己的方向拨：~枪机." />
+		</definition>
+	</char>
+	<char hz="" py="lōu" />
+	<char hz="剅" py="lóu" />
+	<char hz="娄" py="lóu" />
+	<char hz="偻" py="lóu" multi="lǚ">
+		<phrase hz="偻㑩" py="lóu,luo" />
+		<definition id="二">
+			<item text="[偻㑩](-luo)旧同“喽啰”。" />
+		</definition>
+	</char>
+	<char hz="蒌" py="lóu">
+		<phrase hz="蒌蒿" py="lóu,hāo" />
+	</char>
+	<char hz="喽" py="lóu" multi="lou">
+		<phrase hz="喽啰" py="lóu,luo" />
+		<definition id="二">
+			<item text="[喽啰]（*偻㑩）(-luo)旧时称盗贼的部下，现在多比喻追随恶人的人。" />
+		</definition>
+	</char>
+	<char hz="溇" py="lóu" />
+	<char hz="楼" py="lóu" />
+	<char hz="耧" py="lóu" />
+	<char hz="蝼" py="lóu">
+		<phrase hz="蝼蛄" py="lóu,gū" />
+	</char>
+	<char hz="髅" py="lóu" />
+	<char hz="搂" py="lǒu" multi="lōu" main="1">
+		<definition id="一">
+			<item id="1" text="两臂合抱，用手臂拢着（(连)-抱）：把孩子~在怀里." />
+			<item id="2" text="量词：一~粗的大树." />
+		</definition>
+	</char>
+	<char hz="嵝" py="lǒu" />
+	<char hz="篓" py="lǒu" />
+	<char hz="陋" py="lòu" />
+	<char hz="镂" py="lòu" />
+	<char hz="瘘" py="lòu" />
+	<char hz="漏" py="lòu" />
+	<char hz="露" py="lòu" multi="lù">
+		<phrase hz="露怯" py="lòu,qiè" />
+		<phrase hz="露马脚" py="lòu,mǎ,jiǎo" />
+		<definition id="二">
+			<item text="义同“露(一)(3)”，用于一些口语词语，如“露怯”，“露马脚”等。" />
+		</definition>
+	</char>
+	<char hz="喽" py="lou" multi="lóu" main="1">
+		<definition id="一">
+			<item text="助词，意思相当于“啦”：够~，别说~！" />
+		</definition>
+	</char>
+</pinyin>

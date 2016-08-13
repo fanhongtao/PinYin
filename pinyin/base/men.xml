@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="闷" py="mēn" multi="mèn">
+		<phrase hz="闷热" py="mēn,rè" />
+		<phrase hz="闷在家" py="mēn,zài,jiā" />
+		<phrase hz="闷一会儿" py="mēn,yí,huì,er" />
+		<definition id="二">
+			<item id="1" text="因气压低或空气不流通而引起的不舒服的感觉：天气~热. 这屋子矮，又没有窗子，太~了." />
+			<item id="2" text="呆在屋里不出门：一个人总~在家里，心胸就不开阔了." />
+			<item id="3" text="密闭：茶刚泡上，~一会儿再喝." />
+			<item id="4" text="〈方〉声音不响亮：这人说话~声~气." />
+		</definition>
+	</char>
+	<char hz="门" py="mén">
+		<phrase hz="长门长子" py="zhǎng,mén,zhǎng,zi" />
+	</char>
+	<char hz="扪" py="mén" />
+	<char hz="钔" py="mén" />
+	<char hz="亹" py="mén" />
+	<char hz="闷" py="mèn" multi="mēn" main="1">
+		<definition id="一">
+			<item id="1" text="心烦，不痛快：~得慌. ~~不乐." />
+			<item id="2" text="密闭，不透气：~子车." />
+		</definition>
+	</char>
+	<char hz="焖" py="mèn" />
+	<char hz="懑" py="mèn" />
+	<char hz="们" py="men" />
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="峦" py="luán" />
+	<char hz="孪" py="luán" />
+	<char hz="娈" py="luán" />
+	<char hz="栾" py="luán" />
+	<char hz="挛" py="luán" />
+	<char hz="鸾" py="luán" />
+	<char hz="脔" py="luán" />
+	<char hz="滦" py="luán" />
+	<char hz="銮" py="luán" />
+	<char hz="卵" py="luǎn" />
+	<char hz="乱" py="luàn" />
+</pinyin>

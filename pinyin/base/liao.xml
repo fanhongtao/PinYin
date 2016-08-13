@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="撩" py="liāo" multi="liáo">
+		<phrase hz="撩起" py="liāo,qǐ" />
+		<definition id="一">
+			<item id="1" text="提，掀起：~起长衫. 把帘子~起来." />
+			<item id="2" text="用手洒水：先~上点水再扫." />
+		</definition>
+	</char>
+	<char hz="蹽" py="liāo" />
+	<char hz="辽" py="liáo" />
+	<char hz="疗" py="liáo" />
+	<char hz="窌" py="liáo" />
+	<char hz="聊" py="liáo" />
+	<char hz="僚" py="liáo" />
+	<char hz="撩" py="liáo" multi="liāo" main="1">
+		<definition id="二">
+			<item text="挑弄，引逗：~拨. 景色~人。" />
+		</definition>
+	</char>
+	<char hz="嘹" py="liáo" />
+	<char hz="獠" py="liáo" />
+	<char hz="潦" py="liáo" multi="lǎo" main="1">
+		<phrase hz="潦倒" py="liáo,dǎo" />
+		<definition id="二">
+			<item text="[潦倒](-dǎo)颓丧，不得意：穷困~~. [潦草]草率，不精细：工作不能~~. 字写得太~~." />
+		</definition>
+	</char>
+	<char hz="寮" py="liáo" />
+	<char hz="缭" py="liáo">
+		<phrase hz="缭缝" py="liáo,fèng" />
+	</char>
+	<char hz="燎" py="liáo" multi="liǎo" main="1">
+		<definition id="一">
+			<item text="延烧：星星之火，可以~原." />
+		</definition>
+	</char>
+	<char hz="鹩" py="liáo" />
+	<char hz="寥" py="liáo" />
+	<char hz="飂" py="liáo" multi="liù" main="1" trans="1">
+		<definition id="二">
+			<item text="[飂戾](-lì)1.风声。 2.很快的样子." />
+		</definition>
+	</char>
+	<char hz="髎" py="liáo" />
+	<char hz="了" py="liǎo" multi="le">
+		<phrase hz="明了" py="míng,liǎo" />
+		<phrase hz="一目了然" py="yí,mù,liǎo,rán" />
+		<phrase hz="不甚了了" py="bù,shèn,liǎo,liǎo" />
+		<phrase hz="了解" py="liǎo,jiě" />
+		<phrase hz="未了" py="wèi,liǎo" />
+		<phrase hz="不了了之" py="bù,liǎo,liǎo,zhī" />
+		<phrase hz="没完没了" py="méi,wán,méi,liǎo" />
+		<phrase hz="敷衍了事" py="fū,yǎn,liǎo,shì" />
+		<phrase hz="了当" py="liǎo,dāng" />
+		<phrase hz="了不得" py="liǎo,bu,de" />
+		<phrase hz="了得" py="liǎo,de" />
+		<definition id="一">
+			<item id="1" text="明白：明~. 一目~然. 不甚~~. [了解]弄明白，懂得很清楚：~~情况." />
+			<item id="2" text="完了，结束：事情已经~了(le). 话犹未~. 不~~之. 没完没~. 不能敷衍~事. [了当]爽快：直截~~." />
+			<item id="3" text="在动词后，跟“不”、“得”连用，表示不可能或可能：这本书我看不~. 这事你办得~. [了不得](-bude)表示不平常，严重：他的本事真~~~. ~~~了，着了火了！ 疼得~~~. [了得](-de)1.有“能办、可以”的意思，多用于反诘语句中，表示不平常，严重：这还~~！ 2.能干，厉害：真~~." />
+		</definition>
+	</char>
+	<char hz="钌" py="liǎo" multi="liào" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Ru，银灰色，质坚而脆。纯钌可以做装饰品，三氯化钌可以做防腐剂、催化剂。" />
+		</definition>
+	</char>
+	<char hz="蓼" py="liǎo" />
+	<char hz="燎" py="liǎo" multi="liáo">
+		<definition id="二">
+			<item text="挨近了火而烧焦：把头发~了." />
+		</definition>
+	</char>
+	<char hz="尥" py="liào">
+		<phrase hz="尥蹶子" py="liào,juě,zi" />
+	</char>
+	<char hz="钌" py="liào" multi="liǎo">
+		<phrase hz="钌铞儿" py="liào,diào,r" />
+		<definition id="二">
+			<item text="[钌铞儿](-diàor)钉在门窗上可以把门窗扣住的东西：门~~~." />
+		</definition>
+	</char>
+	<char hz="料" py="liào" />
+	<char hz="撂" py="liào" />
+	<char hz="廖" py="liào" />
+	<char hz="瞭" py="liào" />
+	<char hz="镣" py="liào" />
+</pinyin>

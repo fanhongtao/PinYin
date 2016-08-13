@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乃" py="nǎi" />
+	<char hz="艿" py="nǎi" />
+	<char hz="奶" py="nǎi" />
+	<char hz="氖" py="nǎi" />
+	<char hz="奈" py="nài" />
+	<char hz="柰" py="nài" />
+	<char hz="萘" py="nài" />
+	<char hz="佴" py="nài" multi="èr">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="耐" py="nài" />
+	<char hz="鼐" py="nài" />
+	<char hz="褦" py="nài">
+		<phrase hz="褦襶" py="nài,dài" />
+	</char>
+</pinyin>

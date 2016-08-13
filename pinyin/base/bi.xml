@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="逼" py="bī" />
+	<char hz="鲾" py="bī" />
+	<char hz="荸" py="bí">
+		<phrase hz="荸荠" py="bí,qi" />
+		<definition>
+			<item text="[荸荠](-qi)多年生草本植物，生在池沼或栽培在水田里。地下茎也叫荸荠，球状，皮赤褐色，肉白色，可以吃。"/>
+		</definition>
+	</char>
+	<char hz="鼻" py="bí" />
+	<char hz="匕" py="bǐ" />
+	<char hz="比" py="bǐ" />
+	<char hz="吡" py="bǐ" />
+	<char hz="沘" py="bǐ" />
+	<char hz="妣" py="bǐ" />
+	<char hz="秕" py="bǐ">
+		<phrase hz="秕子" py="bǐ,zi" />
+	</char>
+	<char hz="彼" py="bǐ" />
+	<char hz="笔" py="bǐ" />
+	<char hz="俾" py="bǐ" />
+	<char hz="鄙" py="bǐ" />
+	<char hz="币" py="bì" />
+	<char hz="必" py="bì" />
+	<char hz="邲" py="bì" />
+	<char hz="苾" py="bì" />
+	<char hz="閟" py="bì" trans="1" />
+	<char hz="泌" py="bì" multi="mì">
+		<phrase hz="泌阳" py="bì,yáng" />
+		<definition id="二">
+			<item text="[泌阳]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="毖" py="bì" />
+	<char hz="铋" py="bì" />
+	<char hz="秘" py="bì" multi="mì">
+		<phrase hz="秘鲁" py="bì,lǔ" />
+		<definition id="二">
+			<item text="姓。 [秘鲁]国名，在南美洲。" />
+		</definition>
+	</char>
+	<char hz="毕" py="bì" />
+	<char hz="荜" py="bì" />
+	<char hz="哔" py="bì" />
+	<char hz="筚" py="bì" />
+	<char hz="跸" py="bì" />
+	<char hz="庇" py="bì" />
+	<char hz="陛" py="bì" />
+	<char hz="毙" py="bì" />
+	<char hz="狴" py="bì">
+		<phrase hz="狴犴" py="bì,àn" />
+		<definition>
+			<item text="[狴犴](-àn)传说中的一种走兽。古代牢狱门上常画着它的形状，因此又用为牢狱的代称。" />
+		</definition>
+	</char>
+	<char hz="梐" py="bì">
+		<phrase hz="梐枑" py="bì,hù" />
+	</char>
+	<char hz="闭" py="bì">
+		<phrase hz="闭塞" py="bì,sè" />
+	</char>
+	<char hz="诐" py="bì" />
+	<char hz="畀" py="bì" />
+	<char hz="痹" py="bì" />
+	<char hz="箅" py="bì" />
+	<char hz="贲" py="bì" multi="bēn">
+		<phrase hz="贲临" py="bì,lín" />
+		<definition id="一">
+			<item text="装饰得很好：~临（客人盛装光临）." />
+		</definition>
+	</char>
+	<char hz="庳" py="bì" info="字典中还有个 bēi 的音，但输入法中是 bì，所以放在这里" />
+	<char hz="婢" py="bì" />
+	<!-- 睥 读 pì -->
+	<char hz="裨" py="bì" multi="pí" main="1">
+		<definition id="一">
+			<item text="补益，益处：无~于事. 对工作大有~益." />
+		</definition>
+	</char>
+	<char hz="髀" py="bì" />
+	<char hz="敝" py="bì" />
+	<char hz="蔽" py="bì" />
+	<char hz="弊" py="bì" />
+	<char hz="皕" py="bì" />
+	<char hz="弼" py="bì" />
+	<char hz="赑" py="bì">
+		<phrase hz="赑屃" py="bì,xì" />
+	</char>
+	<char hz="愎" py="bì" />
+	<char hz="蓖" py="bì">
+		<phrase hz="蓖麻" py="bì,má" />
+	</char>
+	<char hz="篦" py="bì" />
+	<char hz="滗" py="bì" />
+	<char hz="辟" py="bì" multi="pì">
+		<phrase hz="复辟" py="fù,pì" />
+		<definition id="一">
+			<item id="1" text="君主。[复辟]失位的君主恢复君位。(引)被打垮的统治者恢复原有的统治地位或被推翻的制度复活。" />
+			<item id="2" text="旧指君主召见并授予官职。" />
+			<item id="3" text="古同“避”。" />
+		</definition>
+	</char>
+	<char hz="薜" py="bì">
+		<phrase hz="薜荔" py="bì,lì" />
+	</char>
+	<char hz="壁" py="bì" />
+	<char hz="避" py="bì">
+		<definition>
+			<item id="1" text="躲，设法躲开（(连)躲-）：~暑. ~雨. 不~艰险." />
+			<item id="2" text="防止：~孕. ~雷针." />
+		</definition>
+	</char>
+	<char hz="嬖" py="bì" />
+	<char hz="臂" py="bì" multi="bei" main="1">
+		<definition id="一">
+			<item text="胳膊，从肩到腕的部分：振~高呼. [臂助]1.帮助。2.助手。" />
+		</definition>
+	</char>
+	<char hz="璧" py="bì">
+		<phrase hz="璧还" py="bì,huán" />
+	</char>
+	<char hz="襞" py="bì" />
+	<char hz="躄" py="bì" />
+	<char hz="碧" py="bì" />
+	<char hz="觱" py="bì">
+		<phrase hz="觱篥" py="bì,lì" />
+	</char>
+	<char hz="濞" py="bì">
+		<phrase hz="漾濞" py="yàng,bì" />
+	</char>
+</pinyin>

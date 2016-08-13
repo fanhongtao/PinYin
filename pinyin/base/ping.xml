@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乒" py="pīng">
+		<phrase hz="乒乓" py="pīng,pāng" />
+	</char>
+	<char hz="俜" py="pīng">
+		<phrase hz="伶俜" py="líng,pīng" />
+	</char>
+	<char hz="娉" py="pīng">
+		<phrase hz="娉婷" py="pīng,tíng" />
+	</char>
+	<char hz="平" py="píng" />
+	<char hz="评" py="píng" />
+	<char hz="坪" py="píng" />
+	<char hz="苹" py="píng" />
+	<char hz="枰" py="píng" />
+	<char hz="萍" py="píng" />
+	<char hz="鲆" py="píng" />
+	<char hz="凭" py="píng">
+		<phrase hz="凭几" py="píng,jī" />
+	</char>
+	<char hz="帡" py="píng">
+		<phrase hz="帡幪" py="píng,méng" />
+	</char>
+	<char hz="洴" py="píng">
+		<phrase hz="洴澼" py="píng,pì" />
+	</char>
+	<char hz="屏" py="píng" multi="bǐng" main="1">
+		<definition id="一">
+			<item id="1" text="摭挡，摭挡物：~藩. ~蔽. ~风（挡风或阻隔视线用的家具）. 围~. [屏障]像屏风那样遮挡着的东西（多指山岭、岛屿）：天然~~." />
+			<item id="2" text="字画的条幅，通常以四幅或八幅为一组：四扇~." />
+		</definition>
+	</char>
+	<char hz="瓶" py="píng" />
+	<char hz="幈" py="píng" />
+</pinyin>

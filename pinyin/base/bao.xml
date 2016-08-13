@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="包" py="bāo" />
+	<char hz="苞" py="bāo" />
+	<char hz="孢" py="bāo" />
+	<char hz="胞" py="bāo" />
+	<char hz="炮" py="bāo" multi="páo,pào">
+		<phrase hz="炮干" py="bāo,gān" />
+		<phrase hz="炮羊肉" py="bāo,yáng,ròu" />
+		<definition id="二">
+			<item id="1" text="把物品放在器物上烘烤或焙：把湿衣服搁在热炕上~干." />
+			<item id="2" text="烹调方法，在旺火上急炒：~羊肉." />
+		</definition>
+	</char>
+	<char hz="龅" py="bāo" />
+	<char hz="剥" py="bāo" multi="bō" main="1">
+		<definition id="二">
+			<item text="去掉外面的皮、壳或其他东西（常用于口语）：~花生. ~皮." />
+		</definition>
+	</char>
+	<char hz="煲" py="bāo" />
+	<char hz="褒" py="bāo" />
+	<char hz="雹" py="báo" />
+	<char hz="薄" py="báo" multi="bó,bò" info="Word主音">
+		<phrase hz="薄片" py="báo,piàn" />
+		<phrase hz="薄饼" py="báo,bǐng" />
+		<phrase hz="薄纸" py="báo,zhǐ" />
+		<definition id="一">
+			<item id="1" text="厚度小的：~片. ~饼. ~纸. 这块布太~." />
+			<item id="2" text="（感情）冷淡。" />
+			<item id="3" text="（味道）淡：酒味很~." />
+			<item id="4" text="不肥沃：土地~." />
+		</definition>
+	</char>
+	<char hz="饱" py="bǎo" />
+	<char hz="宝" py="bǎo" />
+	<char hz="保" py="bǎo" />
+	<char hz="葆" py="bǎo" />
+	<char hz="堡" py="bǎo" multi="bǔ,pù" main="1">
+		<definition id="一">
+			<item id="1" text="堡垒：桥头~. [堡垒]军事上防守用的建筑物：打下敌人最坚固的~~. (喻)难于攻破的事物：攻克科学~~." />
+			<item id="2" text="小城。" />
+		</definition>
+	</char>
+	<char hz="褓" py="bǎo" />
+	<char hz="鸨" py="bǎo" />
+	<char hz="报" py="bào" />
+	<char hz="刨" py="bào" multi="páo" main="1">
+		<definition id="二">
+			<item id="1" text="（-子）推刮木料等使平滑的工具。[刨床]推刮金属制品使平滑的机器。" />
+			<item id="2" text="用刨子或刨床推刮：~得不光. ~平." />
+		</definition>
+	</char>
+	<char hz="抱" py="bào" />
+	<char hz="鲍" py="bào" />
+	<char hz="趵" py="bào" />
+	<char hz="豹" py="bào" />
+	<char hz="暴" py="bào" multi="pù" main="1">
+		<phrase hz="暴行" py="bào,xíng" />
+		<phrase hz="暴露" py="bào,lù" />
+		<definition id="一">
+			<item id="1" text="强大而突然来的，又猛又急的：~风雨. ~病. [暴动]为推翻原有的国家政权，破坏当时的政治制度和社会秩序而采取的集体武装行动。" />
+			<item id="2" text="过分急躁的，容易冲动的：这人脾气真~." />
+			<item id="3" text="凶恶残酷的：（(连)-虐、凶-）：~行（xíng）. ~徒. ~虐的行为." />
+			<item id="4" text="糟蹋，损害：自~自弃." />
+			<item id="5" text="姓" />
+		</definition>
+	</char>
+	<char hz="瀑" py="bào" multi="pù">
+		<phrase hz="瀑河" py="bào,hé" />
+		<definition id="二">
+			<item id="1" text="暴雨。" />
+			<item id="2" text="瀑河，水名，一在河北省东北部，一在河北省中部。" />
+		</definition>
+	</char>
+	<char hz="曝" py="bào" multi="pù">
+		<phrase hz="曝光" py="bào,guāng" />
+		<definition id="二">
+			<item text="[曝光]使感光纸或摄影胶片感光。(喻)隐蔽的事情暴露出来，被众人知道。" />
+		</definition>
+	</char>
+	<char hz="爆" py="bào" />
+</pinyin>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哞" py="mōu" />
+	<char hz="牟" py="móu" multi="mù" main="1">
+		<definition id="一">
+			<item text="贪取：投机商哄抬物价，借机~利." />
+		</definition>
+	</char>
+	<char hz="侔" py="móu" />
+	<char hz="眸" py="móu" />
+	<char hz="蛑" py="móu" />
+	<char hz="谋" py="móu" />
+	<char hz="缪" py="móu" multi="miào,miù">
+		<phrase hz="绸缪" py="chóu,móu" />
+		<definition id="二">
+			<item text="[绸缪](chóu-)1.修缮：未雨~~（喻事先做好准备）. 2.缠绵：情意~~." />
+		</definition>
+	</char>
+	<char hz="鍪" py="móu" />
+	<char hz="某" py="mǒu" />
+</pinyin>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="帖" py="tiē" multi="tiě,tiè">
+		<phrase hz="妥帖" py="tuǒ,tiē" />
+		<phrase hz="安帖" py="ān,tiē" />
+		<phrase hz="帖伏" py="tiē,fú" />
+		<phrase hz="俯首帖耳" py="fǔ,shǒu,tiē,ěr" />
+		<definition id="三">
+			<item id="1" text="妥适：妥~. 安~." />
+			<item id="2" text="顺从，驯服：~伏. 俯首~耳（含贬义）." />
+		</definition>
+	</char>
+	<char hz="怗" py="tiē" />
+	<char hz="贴" py="tiē" />
+	<char hz="萜" py="tiē" />
+	<char hz="帖" py="tiě" multi="tiē,tiè" main="1">
+		<definition id="二">
+			<item id="1" text="（-儿）便条：字~儿." />
+			<item id="2" text="（-儿）邀请客人的纸片：请~. 喜~." />
+			<item id="3" text="旧时写着生辰八字等内容的纸片：庚~. 换~." />
+		</definition>
+	</char>
+	<char hz="铁" py="tiě" />
+	<char hz="帖" py="tiè" multi="tiē,tiě" info="Word主音">
+		<phrase hz="碑帖" py="bēi,tiè" />
+		<phrase hz="字帖" py="zì,tiè" />
+		<definition id="一">
+			<item text="学习写字时模仿的样本：碑~. 字~." />
+		</definition>
+	</char>
+	<char hz="餮" py="tiè" />
+</pinyin>

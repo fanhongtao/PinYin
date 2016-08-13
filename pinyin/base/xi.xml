@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="夕" py="xī">
+		<phrase hz="朝夕" py="zhāo,xī" />
+	</char>
+	<char hz="汐" py="xī" />
+	<char hz="矽" py="xī" />
+	<char hz="穸" py="xī">
+		<phrase hz="窀穸" py="zhūn,xī" />
+	</char>
+	<char hz="兮" py="xī" />
+	<char hz="西" py="xī" />
+	<char hz="茜" py="xī" multi="qiàn">
+		<definition id="二">
+			<item text="多用于人名（人名中也有读 qiàn 的）。" />
+		</definition>
+	</char>
+	<char hz="恓" py="xī">
+		<phrase hz="恓惶" py="xī,huáng" />
+	</char>
+	<char hz="栖" py="xī" multi="qī">
+		<phrase hz="栖栖" py="xī,xī" />
+		<definition id="二">
+			<item text="[栖栖]忙碌不安定的样子。" />
+		</definition>
+	</char>
+	<char hz="氥" py="xī" />
+	<char hz="牺" py="xī" />
+	<char hz="硒" py="xī" />
+	<char hz="舾" py="xī" />
+	<char hz="粞" py="xī" />
+	<char hz="吸" py="xī" />
+	<char hz="希" py="xī" />
+	<char hz="郗" py="xī" />
+	<char hz="唏" py="xī" />
+	<char hz="浠" py="xī" />
+	<char hz="晞" py="xī" />
+	<char hz="欷" py="xī">
+		<phrase hz="欷歔" py="xī,xū" />
+	</char>
+	<char hz="烯" py="xī" />
+	<char hz="稀" py="xī" />
+	<char hz="豨" py="xī">
+		<phrase hz="豨莶" py="xī,xiān" />
+	</char>
+	<char hz="昔" py="xī" />
+	<char hz="惜" py="xī" />
+	<char hz="腊" py="xī" multi="là">
+		<definition id="二">
+			<item text="干肉。" />
+		</definition>
+	</char>
+	<char hz="析" py="xī" />
+	<char hz="菥" py="xī">
+		<phrase hz="菥蓂" py="xī,mì" />
+		<definition>
+			<item text="[菥蓂](-mì)又名“遏蓝菜”。一年生草本植物，叶匙形，花白色，果实扁圆形。叶可作蔬菜，种子可榨油。全草可入药。" />
+		</definition>
+	</char>
+	<char hz="淅" py="xī">
+		<phrase hz="淅沥" py="xī,lì" />
+	</char>
+	<char hz="晰" py="xī" />
+	<char hz="皙" py="xī" />
+	<char hz="蜥" py="xī">
+		<phrase hz="蜥蜴" py="xī,yì" />
+	</char>
+	<char hz="肸" py="xī" />
+	<char hz="饻" py="xī" />
+	<char hz="息" py="xī" />
+	<char hz="熄" py="xī" />
+	<char hz="螅" py="xī" />
+	<char hz="奚" py="xī" />
+	<char hz="傒" py="xī">
+		<phrase hz="傒倖" py="xī,xìng" />
+	</char>
+	<char hz="徯" py="xī" />
+	<char hz="溪" py="xī">
+		<phrase hz="溪卡" py="xī,kǎ" />
+	</char>
+	<char hz="蹊" py="xī" multi="qī" main="1">
+		<definition id="一">
+			<item text="小路（(连)-径）。" />
+		</definition>
+	</char>
+	<char hz="鸂" py="xī" trans="1" />
+	<char hz="鼷" py="xī" />
+	<char hz="悉" py="xī" />
+	<char hz="窸" py="xī">
+		<phrase hz="窸窣" py="xī,sū" />
+	</char>
+	<char hz="蟋" py="xī">
+		<phrase hz="蟋蟀" py="xī,shuài" />
+	</char>
+	<char hz="翕" py="xī" />
+	<char hz="噏" py="xī" />
+	<char hz="歙" py="xī" multi="shè" main="1">
+		<definition id="一">
+			<item text="吸气。" />
+		</definition>
+	</char>
+	<char hz="犀" py="xī">
+		<phrase hz="木犀" py="mù,xi" />
+	</char>
+	<char hz="樨" py="xī" />
+	<char hz="锡" py="xī">
+		<phrase hz="锡伯族" py="xī,bó,zú" />
+	</char>
+	<char hz="裼" py="xī" multi="tì" main="1">
+		<definition id="一">
+			<item text="敞开或脱去上衣，露出身体的一部分（(连)袒-）。" />
+		</definition>
+	</char>
+	<char hz="熙" py="xī">
+		<phrase hz="熙攘" py="xī,rǎng" />
+	</char>
+	<char hz="僖" py="xī" />
+	<char hz="嘻" py="xī" />
+	<char hz="嬉" py="xī" />
+	<char hz="熹" py="xī" />
+	<char hz="嶲" py="xī" />
+	<char hz="膝" py="xī" />
+	<char hz="羲" py="xī" />
+	<char hz="曦" py="xī" />
+	<char hz="爔" py="xī" />
+	<char hz="醯" py="xī" />
+	<char hz="巇" py="xī" />
+	<char hz="习" py="xí" />
+	<char hz="嶍" py="xí">
+		<phrase hz="嶍峨" py="xí,é" />
+	</char>
+	<char hz="鳛" py="xí" />
+	<char hz="席" py="xí" />
+	<char hz="觋" py="xí" />
+	<char hz="袭" py="xí" />
+	<char hz="媳" py="xí">
+		<phrase hz="媳妇儿" py="xí,fu,r" />
+	</char>
+	<char hz="隰" py="xí" />
+	<char hz="檄" py="xí" />
+	<char hz="洗" py="xǐ" multi="xiǎn" main="1">
+		<definition id="一">
+			<item id="1" text="用水去掉污垢（(连)-涤）：~衣服. ~脸. [洗礼]1.基督教接受人入教时所举行的一种仪式。 2.指经受的锻炼和考验：战斗的~~. [洗手]比喻盗贼等不再偷抢。" />
+			<item id="2" text="清除干净：清~." />
+			<item id="3" text="冲洗，照相的显影定影：~相片." />
+			<item id="4" text="洗雪：~冤." />
+			<item id="5" text="如水洗一样抢光，杀光：~城. ~劫一空." />
+			<item id="6" text="掺和整理：~牌." />
+		</definition>
+	</char>
+	<char hz="铣" py="xǐ" multi="xiǎn">
+		<phrase hz="铣床" py="xǐ,chuáng" />
+		<phrase hz="铣刀" py="xǐ,dāo" />
+		<definition id="二">
+			<item text="一种能旋转的多刃刀具切削金属工件：~床. ~刀." />
+		</definition>
+	</char>
+	<char hz="枲" py="xǐ" />
+	<char hz="玺" py="xǐ" />
+	<char hz="徙" py="xǐ" />
+	<char hz="蓰" py="xǐ" />
+	<char hz="屣" py="xǐ" />
+	<char hz="喜" py="xǐ" />
+	<char hz="禧" py="xǐ" />
+	<char hz="miss: 钅喜" py="xǐ" />
+	<char hz="蟢" py="xǐ">
+		<definition>
+			<item text="蟢子（也作“喜子”），又叫“喜蛛”或“蟏蛸”。一种长腿的小蜘蛛。" />
+		</definition>
+	</char>
+	<char hz="葸" py="xǐ" />
+	<char hz="戏" py="xì" multi="hū" main="1">
+		<definition id="一">
+			<item id="1" text="玩耍：集体游~. 不要当作儿~." />
+			<item id="2" text="嘲弄，开玩笑：~言." />
+			<item id="3" text="戏剧，也指杂技：看~. 唱~. 听~. 马~. 皮影~." />
+		</definition>
+	</char>
+	<char hz="饩" py="xì" />
+	<char hz="系" py="xì" multi="jì" main="1">
+		<definition id="一">
+			<item id="1" text="有连属关系的：~统. 一~列的事实. 水~. 世~." />
+			<item id="2" text="高等学校中按学科分的教学单位：中文~. 化学~." />
+			<item id="3" text="关联：干~." />
+			<item id="4" text="联结，拴：~马. (引)牵挂：~念. [联系]联络，接头：时常和他~~." />
+			<item id="5" text="是：确~实情." />
+			<item id="6" text="把人或东西捆住往上提或向下送：从房上把东西~下来." />
+			<item id="7" text="地层系统分类的第三级，在“界”之下，是地质年代“纪”的时间内形成的地层：第四~. 侏罗~. 寒武~." />
+		</definition>
+	</char>
+	<char hz="屃" py="xì" />
+	<char hz="细" py="xì" />
+	<char hz="盻" py="xì" />
+	<char hz="咥" py="xì" multi="dié">
+		<definition id="一">
+			<item text="大笑。" />
+		</definition>
+	</char>
+	<char hz="郤" py="xì" />
+	<char hz="绤" py="xì" />
+	<char hz="阋" py="xì" />
+	<char hz="舄" py="xì" />
+	<char hz="潟" py="xì" />
+	<char hz="隙" py="xì" />
+	<char hz="禊" py="xì" />
+	<char hz="潝" py="xì" />
+</pinyin>

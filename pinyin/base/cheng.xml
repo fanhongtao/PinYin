@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柽" py="chēng" />
+	<char hz="蛏" py="chēng" />
+	<char hz="琤" py="chēng" />
+	<char hz="称" py="chēng" multi="chèn,chèng" main="1">
+		<definition id="一">
+			<item id="1" text="量轻重：把这包米~-~." />
+			<item id="2" text="叫，叫作：自~. ~得起英雄." />
+			<item id="3" text="名称：简~. 别~." />
+			<item id="4" text="说：~病. 连声~好. 拍手~快." />
+			<item id="5" text="赞扬：~许. ~道." />
+			<item id="6" text="举事：~兵." />
+		</definition>
+	</char>
+	<char hz="铛" py="chēng" multi="dāng">
+		<phrase hz="饼铛" py="bǐng,chēng" />
+		<definition id="二">
+			<item text="烙饼或做菜用的平底浅锅：电饼~。" />
+		</definition>
+	</char>
+	<char hz="赪" py="chēng" />
+	<char hz="撑" py="chēng" />
+	<char hz="瞠" py="chēng" />
+	<char hz="成" py="chéng" />
+	<char hz="诚" py="chéng" />
+	<char hz="城" py="chéng" />
+	<char hz="宬" py="chéng" />
+	<char hz="盛" py="chéng" multi="shèng">
+		<phrase hz="盛饭" py="chéng,fàn" />
+		<definition id="二">
+			<item id="1" text="把东西放进去：~饭." />
+			<item id="2" text="容纳：这礼堂能~几千人." />
+		</definition>
+	</char>
+	<char hz="铖" py="chéng" />
+	<char hz="丞" py="chéng">
+		<phrase hz="丞相" py="chéng,xiàng" />
+	</char>
+	<char hz="呈" py="chéng" />
+	<char hz="埕" py="chéng" />
+	<char hz="程" py="chéng" />
+	<char hz="裎" py="chéng" />
+	<char hz="酲" py="chéng" />
+	<char hz="枨" py="chéng" />
+	<char hz="承" py="chéng">
+		<phrase hz="承应" py="chéng,yìng" />
+		<phrase hz="承教" py="chéng,jiào" />
+	</char>
+	<char hz="乘" py="chéng" multi="shèng" main="1">
+		<definition id="一">
+			<item id="1" text="骑，坐：~马. ~车. ~飞机." />
+			<item id="2" text="趁，就着：~便. ~机. ~势. ~兴(xìng)." />
+			<item id="3" text="算术中指一个数使另一个数变成若干倍：五~二等于十." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="惩" py="chéng" />
+	<char hz="塍" py="chéng" />
+	<char hz="澄" py="chéng" multi="dèng" main="1">
+		<definition id="一">
+			<item text="水清。[澄清]清澈，清亮：溪水~~. (喻)搞清楚，搞明白：把问题~~一下." />
+		</definition>
+	</char>
+	<char hz="橙" py="chéng" />
+	<char hz="逞" py="chěng" />
+	<char hz="骋" py="chěng" />
+	<char hz="秤" py="chèng">
+		<definition>
+			<item text="衡量轻重的器具。" />
+		</definition>
+	</char>
+	<char hz="称" py="chèng" multi="chèn,chēng">
+		<definition id="三">
+			<item text="同“秤”。" />
+		</definition>
+	</char>
+	<char hz="牚" py="chèng" />
+</pinyin>

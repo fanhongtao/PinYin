@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="分" py="fēn" multi="fèn" main="1">
+		<phrase hz="分寸" py="fēn,cun" />
+		<definition id="一">
+			<item id="1" text="分开，区划开，跟“合”相对：~离. ~类. ~工合作. ~别处理. (引)由整体中取一部分：他~到了一千斤粮食. 2.由机构分出的部分：~会. ~队. ~局. ~社. [分化]由一种事物演变成几种不同的事物：“他”字~~成“他”、“她”、“它”. [分解]1.一种化合物分成两种以上的元素或化合物。2.调解，排解：~~纠纷. 难以~~. 3.细说：且听下回~~. [分析]把事物、现象、概念等划分成简单的部分，找出它的本质、属性或相互联系：~~问题. 化学~~." />
+			<item id="2" text="分配：~粮食. ~工作." />
+			<item id="3" text="辨别（(连)-辨）：不~青红皂白. ~清是非." />
+			<item id="4" text="表示分数：二~之一. 百~之八. [分数]数学中表示除法的式子，画一道横线，把被除数写在线上面叫分子，把除数写在线下面叫分母。 [分子]1.物体分成的最细小而又不失原物性质的颗粒：水的一个~~，含有两个氢原子和一个氧原子. 2.见本字条“分数”。（另fènzǐ，见“分”fèn）" />
+			<item id="5" text="法定计量单位中十进分数单位词头之一，表示10^-1，符号d。" />
+			<item id="6" text="计量单位名。1.市制长度，10分是1寸，1分约合3.33毫米。2.市制地积，10分是1亩，1分约合66.67平方米。3.市制重量，10分是1钱，1分合0.5克。4.币制，10分是1角。5.时间，60分是1小时。6.圆周或角，60分是1度。7.（-儿）表示成绩：赛篮球赢了三~. 考试得了一百~. 8.利率，月利一分按百分之一计算，年利一分按十分之一计算。 [分寸](-cun)(喻)说话或办事的适当标准或限度：说话要有~~." />
+		</definition>
+	</char>
+	<char hz="芬" py="fēn" />
+	<char hz="吩" py="fēn">
+		<phrase hz="吩咐" py="fēn,fu" />
+	</char>
+	<char hz="纷" py="fēn" />
+	<char hz="玢" py="fēn" multi="bīn">
+		<phrase hz="赛璐玢" py="sài,lù,fēn" />
+		<definition id="二">
+			<item text="见“赛”字条“赛璐玢”。" />
+		</definition>
+	</char>
+	<char hz="氛" py="fēn" />
+	<char hz="棻" py="fēn" />
+	<char hz="酚" py="fēn" />
+	<char hz="雰" py="fēn" />
+	<char hz="朆" py="fēn" trans="1" />
+	<char hz="坟" py="fén" />
+	<char hz="汾" py="fén" />
+	<char hz="棼" py="fén" />
+	<char hz="鼢" py="fén" />
+	<char hz="焚" py="fén" />
+	<char hz="濆" py="fén" trans="1" />
+	<char hz="豮" py="fén" />
+	<char hz="粉" py="fěn" />
+	<char hz="分" py="fèn" multi="fēn">
+		<phrase hz="分所当然" py="fèn,suǒ,dāng,rán" />
+		<phrase hz="成分" py="chéng,fèn" />
+		<phrase hz="本分" py="běn,fèn" />
+		<phrase hz="水分" py="shuǐ,fèn" />
+		<phrase hz="糖分" py="táng,fèn" />
+		<phrase hz="养分" py="yǎng,fèn" />
+		<definition id="二">
+			<item id="1" text="名位、职责、权利的限度：~所当然. 本~." />
+			<item id="2" text="成分：水~. 糖~. 养~." />
+			<item id="3" text="同“份”。 [分子](-zǐ)属于一定阶级、阶层、集团或具有某种特征的人：积极~~.（另fēnzǐ见“分”fēn）" />
+		</definition>
+	</char>
+	<char hz="份" py="fèn">
+		<definition>
+			<item id="1" text="整体分成几部分，每一部分叫一份：分成三~. 每人一~. 股~." />
+			<item id="2" text="量词，用于成组成件的：一~报. 一~儿礼." />
+			<item id="3" text="用在“省、县、年、月”后面，表示划分的单位：省~. 年~." />
+			<item text="〈古〉又同“彬”(bīn)" />
+		</definition>
+	</char>
+	<char hz="忿" py="fèn" />
+	<char hz="奋" py="fèn" />
+	<char hz="偾" py="fèn" />
+	<char hz="愤" py="fèn" />
+	<char hz="鲼" py="fèn" />
+	<char hz="粪" py="fèn" />
+	<char hz="瀵" py="fèn" />
+</pinyin>

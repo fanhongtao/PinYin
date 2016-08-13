@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="糌" py="zān">
+		<phrase hz="糌粑" py="zān,ba" />
+	</char>
+	<char hz="簪" py="zān" />
+	<char hz="咱" py="zán" />
+	<char hz="拶" py="zǎn" multi="zā">
+		<phrase hz="拶指" py="zǎn,zhǐ" />
+		<phrase hz="拶子" py="zǎn,zi" />
+		<definition id="二">
+			<item text="压紧。 [拶指]旧时用拶子夹手指的酷刑。 [拶子]旧时夹手指的刑具。" />
+		</definition>
+	</char>
+	<char hz="昝" py="zǎn" />
+	<char hz="噆" py="zǎn" />
+	<char hz="攒" py="zǎn" multi="cuán" main="1">
+		<definition id="一">
+			<item text="积聚，积蓄（(连)积-）：~粪. ~钱." />
+		</definition>
+	</char>
+	<char hz="趱" py="zǎn" />
+	<char hz="暂" py="zàn" />
+	<char hz="錾" py="zàn" />
+	<char hz="赞" py="zàn" />
+	<char hz="瓒" py="zàn" />
+</pinyin>

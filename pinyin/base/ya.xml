@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丫" py="yā">
+		<phrase hz="丫头" py="yā,tou" />
+	</char>
+	<char hz="压" py="yā" multi="yà" main="1">
+		<definition id="一">
+			<item id="1" text="从上面加重力：~住. ~碎. (引)搁置不动：积~资金." />
+			<item id="2" text="用威力制服，镇服：镇~. ~制. (引)胜过，超过：~倒一切. 技~群芳." />
+			<item id="3" text="抑制，控制：~咳嗽. ~住气. ~不住火." />
+			<item id="4" text="逼近：~境. 太阳~树梢." />
+			<item id="5" text="赌博时在某一门上下注。" />
+		</definition>
+	</char>
+	<char hz="呀" py="yā" multi="ya" main="1">
+		<definition id="一">
+			<item id="1" text="叹词，表示惊疑：~，这怎么办！" />
+			<item id="2" text="拟声词：门~的一声开了." />
+		</definition>
+	</char>
+	<char hz="鸦" py="yā">
+		<phrase hz="鸦片" py="yā,piàn" />
+	</char>
+	<char hz="押" py="yā" />
+	<char hz="鸭" py="yā" />
+	<char hz="垭" py="yā" info="(又)yà">
+		<phrase hz="黄桷垭" py="huáng,jué,yā" />
+	</char>
+	<char hz="哑" py="yā" multi="yǎ">
+		<phrase hz="哑哑" py="yā,yā" />
+		<definition id="二">
+			<item text="同“呀”(yā)。 [哑哑]拟声词，乌鸦叫声或小儿学语声。" />
+		</definition>
+	</char>
+	<char hz="牙" py="yá">
+		<phrase hz="牙行" py="yá,háng" />
+	</char>
+	<char hz="伢" py="yá" />
+	<char hz="芽" py="yá" />
+	<char hz="岈" py="yá" />
+	<char hz="玡" py="yá">
+		<phrase hz="琅玡" py="láng,yá" />
+	</char>
+	<char hz="" py="yá" />
+	<char hz="蚜" py="yá" />
+	<char hz="崖" py="yá" />
+	<char hz="涯" py="yá" />
+	<char hz="睚" py="yá">
+		<phrase hz="睚眦" py="yá,zì" />
+	</char>
+	<char hz="衙" py="yá" />
+	<char hz="哑" py="yǎ" multi="yā" main="1">
+		<phrase hz="哑巴" py="yǎ,ba" />
+		<definition id="一">
+			<item id="1" text="由于生理缺陷或疾病而不能说话：聋~. ~口无言（喻无话可说）. [哑巴](-ba)1.同“哑(1)”。2.指不能说话的人。" />
+			<item id="2" text="嗓子干涩发音困难或不清楚：嗓子喊~了." />
+			<item id="3" text="无声的：~剧. ~铃（一种运动器械）." />
+			<item id="4" text="（旧读è）笑声：~然失笑（不由自主地笑出声来）." />
+		</definition>
+	</char>
+	<char hz="痖" py="yǎ" />
+	<char hz="雅" py="yǎ">
+		<phrase hz="雅教" py="yǎ,jiào" />
+	</char>
+	<char hz="轧" py="yà" multi="gá,zhá" main="1">
+		<definition id="一">
+			<item id="1" text="圆轴或轮子等压在东西上面转：把马路~平了. ~棉花. ~花机." />
+			<item id="2" text="排挤：倾~." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="亚" py="yà" />
+	<!-- <char hz="垭" py="yà" info="(又)yā"> -->
+	<char hz="挜" py="yà" />
+	<char hz="娅" py="yà" />
+	<char hz="氩" py="yà" />
+	<char hz="压" py="yà" multi="yā">
+		<phrase hz="压根儿" py="yà,gēn,er" />
+		<definition id="二">
+			<item text="[压根儿]副词，根本，从来（多用于否定句）：我~~~没去过那个地方." />
+		</definition>
+	</char>
+	<char hz="讶" py="yà" />
+	<char hz="迓" py="yà" />
+	<char hz="砑" py="yà" />
+	<char hz="揠" py="yà">
+		<phrase hz="揠苗助长" py="yà,miáo,zhù,zhǎng" />
+	</char>
+	<char hz="猰" py="yà" />
+	<char hz="呀" py="ya" multi="yā">
+		<definition id="二">
+			<item text="助词，“啊”受前一字韵母 a、e、i、o、ü 收音的影响而发生的变音：大家快来~！ 你怎么不学一学~？ 这个瓜~，甜得很！" />
+		</definition>
+	</char>
+</pinyin>

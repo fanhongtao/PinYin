@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="毪" py="mú">
+		<phrase hz="毪氇" py="mú,lu" />
+	</char>
+	<char hz="模" py="mú" multi="mó">
+		<phrase hz="模儿" py="mú,er" />
+		<phrase hz="模子" py="mú,zi" />
+		<phrase hz="模样" py="mú,yàng" />
+		<definition id="二">
+			<item text="（-儿）模子：字~儿. 铜~儿. [模子](-zi)用压制或浇灌的方法制造物品的工具。 [模样]形状，容貌。" />
+		</definition>
+	</char>
+	<char hz="母" py="mǔ" />
+	<char hz="拇" py="mǔ" />
+	<char hz="姆" py="mǔ" />
+	<char hz="牳" py="mǔ" />
+	<char hz="牡" py="mǔ" />
+	<char hz="亩" py="mǔ" />
+	<char hz="姥" py="mǔ" multi="lǎo">
+		<definition id="一">
+			<item text="年老的妇人。" />
+		</definition>
+	</char>
+	<char hz="木" py="mù" />
+	<char hz="沐" py="mù">
+		<phrase hz="栉风沐雨" py="zhì,fēng,mù,yǔ" />
+	</char>
+	<char hz="霂" py="mù" />
+	<char hz="目" py="mù" />
+	<char hz="苜" py="mù">
+		<phrase hz="苜蓿" py="mù,xu" />
+	</char>
+	<char hz="钼" py="mù" />
+	<char hz="仫" py="mù">
+		<phrase hz="仫佬族" py="mù,lǎo,zú" />
+	</char>
+	<char hz="牟" py="mù" multi="móu">
+		<phrase hz="牟平" py="mù,píng" />
+		<definition id="二">
+			<item text="[牟平]地名，在山东省烟台。" />
+		</definition>
+	</char>
+	<char hz="牧" py="mù" />
+	<char hz="募" py="mù" />
+	<char hz="墓" py="mù" />
+	<char hz="幕" py="mù" />
+	<char hz="暮" py="mù">
+		<phrase hz="朝暮" py="zhāo,mù" />
+	</char>
+	<char hz="慕" py="mù" />
+	<char hz="睦" py="mù" />
+	<char hz="穆" py="mù" />
+</pinyin>

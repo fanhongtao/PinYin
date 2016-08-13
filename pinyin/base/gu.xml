@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="估" py="gū" multi="gù" main="1">
+		<definition id="一">
+			<item text="揣测，大致地推算：~计. ~量. 不要低~了群众的力量. ~一~价钱." />
+		</definition>
+	</char>
+	<char hz="咕" py="gū">
+		<phrase hz="咕咚" py="gū,dōng" />
+		<!-- <phrase hz="咕嘟" py="gū,dū"/> -->
+		<phrase hz="咕唧" py="gū,ji" />
+		<phrase hz="咕噜" py="gū,lū" />
+		<phrase hz="咕哝" py="gū,nong" />
+	</char>
+	<char hz="沽" py="gū" />
+	<char hz="姑" py="gū" />
+	<char hz="轱" py="gū">
+		<phrase hz="轱辘" py="gū,lu" />
+	</char>
+	<char hz="鸪" py="gū" />
+	<char hz="菇" py="gū" />
+	<char hz="蛄" py="gū" />
+	<char hz="辜" py="gū" />
+	<char hz="酤" py="gū" />
+	<char hz="呱" py="gū" multi="guā,guǎ">
+		<phrase hz="呱呱" py="gū,gū" />
+		<definition id="二">
+			<item text="[呱呱]古书上指小儿哭声。" />
+		</definition>
+	</char>
+	<char hz="孤" py="gū" />
+	<char hz="軱" py="gū" trans="1" />
+	<char hz="菰" py="gū" />
+	<char hz="觚" py="gū" />
+	<char hz="骨" py="gū" multi="gǔ">
+		<phrase hz="骨朵" py="gū,duo" />
+		<phrase hz="骨碌" py="gū,lu" />
+		<definition id="二">
+			<item text="[骨朵](-duo)（-儿）没有开放的花朵。 [骨节](-jie)泛指长条形东西的一段。 [骨碌](-lu)滚动。" />
+		</definition>
+	</char>
+	<char hz="蓇" py="gū">
+		<phrase hz="蓇葖" py="gū,tū" />
+	</char>
+	<char hz="箍" py="gū" />
+	<char hz="古" py="gǔ" />
+	<char hz="诂" py="gǔ" />
+	<char hz="牯" py="gǔ" />
+	<char hz="罟" py="gǔ" />
+	<char hz="钴" py="gǔ" />
+	<char hz="嘏" py="gǔ" />
+	<char hz="䀇" py="gǔ" />
+	<char hz="谷" py="gǔ" multi="yù" main="1">
+		<phrase hz="粳谷" py="jīng,gǔ" />
+		<phrase hz="轧谷机" py="yà,gǔ,jī" />
+		<definition id="一">
+			<item id="1" text="山谷，两山中间的水道。又指两山之间：万丈深~." />
+			<item id="2" text="庄稼和粮食的总称：五~." />
+			<item id="3" text="（-子）一种禾本植物，子实碾去皮以后就成小米，供食用，茎可喂牲口。" />
+			<item id="4" text="〈方〉稻，也指稻的子实：糯~. 粳(jīng)~. 轧(yà)~机." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="汩" py="gǔ" />
+	<char hz="股" py="gǔ" />
+	<char hz="骨" py="gǔ" multi="gū" main="1">
+		<phrase hz="骨干" py="gǔ,gàn" />
+		<definition id="一">
+			<item id="1" text="骨头，脊椎动物身体里面支持身体的坚硬组织，脊椎~. [骨骼]全身骨头的总称。 [骨干](-gàn)(喻)中坚有力的：~~分子. ~~作用. [骨节]两骨（或更多）相连接的关节。 [骨肉](喻)最亲近的有血统关系的人，指父母、子女、兄弟、姊妹。" />
+			<item id="2" text="像骨的东西：钢~水泥." />
+			<item id="3" text="品格，气概：~气. 媚~." />
+		</definition>
+	</char>
+	<char hz="馉" py="gǔ">
+		<phrase hz="馉饳" py="gǔ,duò" />
+	</char>
+	<char hz="榾" py="gǔ">
+		<phrase hz="榾柮" py="gǔ,duò" />
+	</char>
+	<char hz="鹘" py="gǔ" multi="hú">
+		<phrase hz="鹘鸼" py="gǔ,zhōu" />
+		<definition id="二">
+			<item text="[鹘鸼](-zhōu)古书上说的一种鸟，羽毛青黑色，尾巴短。" />
+		</definition>
+	</char>
+	<char hz="贾" py="gǔ" multi="jiǎ">
+		<phrase hz="商贾" py="shāng,gǔ" />
+		<phrase hz="余勇可贾" py="yú,yǒng,kě,gǔ" />
+		<definition id="二">
+			<item id="1" text="商人（(连)商-）。古时特指坐商。" />
+			<item id="2" text="卖：余勇可~（喻还有多余的力量可以使出）." />
+		</definition>
+	</char>
+	<char hz="羖" py="gǔ" />
+	<char hz="蛊" py="gǔ" />
+	<char hz="鹄" py="gǔ" multi="hú" info="Word主音">
+		<phrase hz="鹄的" py="gǔ,dì" />
+		<definition id="一">
+			<item text="射箭的靶子。 [鹄的](-dì)箭靶子的中心，练习射击的目标。" />
+		</definition>
+	</char>
+	<char hz="鼓" py="gǔ" />
+	<char hz="臌" py="gǔ" />
+	<char hz="瞽" py="gǔ" />
+	<char hz="毂" py="gǔ" />
+	<char hz="穀" py="gǔ" />
+	<char hz="濲" py="gǔ" />
+	<char hz="估" py="gù" multi="gū">
+		<phrase hz="估衣" py="gù,yi" />
+		<definition id="二">
+			<item text="[估衣](-yì)旧指贩卖的旧衣服。贩卖旧衣的行业叫估衣业。" />
+		</definition>
+	</char>
+	<char hz="故" py="gù" />
+	<char hz="固" py="gù" />
+	<char hz="堌" py="gù" />
+	<char hz="崮" py="gù" />
+	<char hz="锢" py="gù" />
+	<char hz="痼" py="gù" />
+	<char hz="鲴" py="gù" />
+	<char hz="顾" py="gù" />
+	<char hz="梏" py="gù" />
+	<char hz="雇" py="gù" />
+</pinyin>

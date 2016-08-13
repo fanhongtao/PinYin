@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奁" py="lián" />
+	<char hz="连" py="lián">
+		<phrase hz="连耞" py="lián,jiā" />
+	</char>
+	<char hz="莲" py="lián" />
+	<char hz="涟" py="lián">
+		<phrase hz="涟漪" py="lián,yī" />
+		<phrase hz="涟洏" py="lián,ér" />
+	</char>
+	<char hz="鲢" py="lián" />
+	<char hz="怜" py="lián" />
+	<char hz="帘" py="lián" />
+	<char hz="联" py="lián" />
+	<char hz="廉" py="lián" />
+	<char hz="濂" py="lián" />
+	<char hz="臁" py="lián" />
+	<char hz="镰" py="lián" />
+	<char hz="蠊" py="lián" />
+	<char hz="琏" py="liǎn" />
+	<char hz="敛" py="liǎn" />
+	<char hz="脸" py="liǎn" />
+	<char hz="裣" py="liǎn">
+		<phrase hz="裣衽" py="liǎn,rèn" />
+	</char>
+	<char hz="蔹" py="liǎn" />
+	<char hz="练" py="liàn" />
+	<char hz="炼" py="liàn" />
+	<char hz="恋" py="liàn" />
+	<char hz="殓" py="liàn" />
+	<char hz="潋" py="liàn">
+		<phrase hz="潋滟" py="liàn,yàn" />
+	</char>
+	<char hz="链" py="liàn" />
+	<char hz="楝" py="liàn" />
+	<char hz="裢" py="lian" info="Word显示为lián" />
+</pinyin>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抽" py="chōu" />
+	<char hz="" py="chōu" multi="chóu">
+		<phrase hz="绎" py="chōu,yì" />
+		<definition id="一">
+			<item text="引出，缀辑。[绎][抽绎](-yì)引出头绪。" />
+		</definition>
+	</char>
+	<char hz="瘳" py="chōu" />
+	<char hz="犨" py="chōu" />
+	<char hz="仇" py="chóu" multi="qiú" main="1">
+		<definition id="一">
+			<item text="深切的怨恨：~人. 恩将~报. ~视侵略者." />
+		</definition>
+	</char>
+	<char hz="" py="chóu" multi="chōu" main="1">
+		<definition id="二">
+			<item text="同“绸”。" />
+		</definition>
+	</char>
+	<char hz="俦" py="chóu" />
+	<char hz="帱" py="chóu" multi="dào" main="1">
+		<definition id="一">
+			<item id="1" text="帐子。" />
+			<item id="2" text="车帷。" />
+		</definition>
+	</char>
+	<char hz="畴" py="chóu" />
+	<char hz="筹" py="chóu" />
+	<char hz="踌" py="chóu" />
+	<char hz="惆" py="chóu" />
+	<char hz="绸" py="chóu">
+		<definition>
+			<item text="（-子）一种薄而软的丝织品。" />
+		</definition>
+	</char>
+	<char hz="稠" py="chóu" />
+	<char hz="酬" py="chóu">
+		<phrase hz="酬酢" py="chóu,zuò" />
+		<phrase hz="应酬" py="yìng,chou" />
+	</char>
+	<char hz="愁" py="chóu" />
+	<char hz="雠" py="chóu">
+		<phrase hz="校雠" py="jiào,chóu" />
+	</char>
+	<char hz="丑" py="chǒu" />
+	<char hz="杻" py="chǒu" multi="niǔ" main="1">
+		<definition id="一">
+			<item text="古代刑具，手铐之类。" />
+		</definition>
+	</char>
+	<char hz="瞅" py="chǒu" />
+	<char hz="臭" py="chòu" multi="xiù" main="1">
+		<definition id="一">
+			<item id="1" text="气味难闻的，跟“香”相对：~气熏人. (喻)1.惹人厌恶的：遗~万年. 放下~架子. 2.低劣：~棋. 这球踢得真~." />
+			<item id="2" text="狠狠地：~骂." />
+		</definition>
+	</char>
+</pinyin>

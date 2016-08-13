@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="氕" py="piē" />
+	<char hz="撇" py="piē" multi="piě" main="1">
+		<definition id="一">
+			<item id="1" text="丢开，抛弃：~开. ~弃. [撇脱]〈方〉1.简便。 2.爽快，洒脱。" />
+			<item id="2" text="由液体表面舀取：~油." />
+		</definition>
+	</char>
+	<char hz="瞥" py="piē" />
+	<char hz="苤" py="piě">
+		<phrase hz="苤蓝" py="piě,lan" />
+	</char>
+	<char hz="撇" py="piě" multi="piē">
+		<phrase hz="撇砖头" py="piě,zhuān,tóu" />
+		<phrase hz="撇球" py="piě,qiú" />
+		<phrase hz="撇儿" py="piě,er" />
+		<definition id="二">
+			<item id="1" text="平着向前扔：~砖头. ~球." />
+			<item id="2" text="（-儿）汉字向左写的一种笔形（丿）：八字先写一~儿." />
+			<item id="3" text="（-儿）像汉字的撇形的：两~儿胡子." />
+		</definition>
+	</char>
+	<char hz="䥕" py="piě" trans="1" />
+</pinyin>

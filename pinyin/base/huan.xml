@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="欢" py="huān" />
+	<char hz="獾" py="huān" />
+	<char hz="还" py="huán" multi="hái">
+		<phrase hz="还家" py="huán,jiā" />
+		<phrase hz="还原" py="huán,yuán" />
+		<phrase hz="还礼" py="huán,lǐ" />
+		<phrase hz="还手" py="huán,shǒu" />
+		<phrase hz="以眼还眼" py="yǐ,yǎn,huán,yǎn" />
+		<phrase hz="以牙还牙" py="yǐ,yá,huán,yá" />
+		<phrase hz="归还" py="guī,huán" />
+		<phrase hz="偿还" py="cháng,huán" />
+		<phrase hz="还钱" py="huán,qián" />
+		<definition id="一">
+			<item id="1" text="回，归：~家. ~原（恢复原状）." />
+			<item id="2" text="回报：~礼. ~手. 以眼~眼，以牙~牙." />
+			<item id="3" text="归还（(连)偿-）：~钱." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="环" py="huán" />
+	<char hz="郇" py="huán" multi="xún" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="洹" py="huán" />
+	<char hz="桓" py="huán" />
+	<char hz="貆" py="huán" />
+	<char hz="萑" py="huán" />
+	<char hz="锾" py="huán" />
+	<char hz="圜" py="huán" multi="yuán" main="1">
+		<definition id="一">
+			<item text="围绕。" />
+		</definition>
+	</char>
+	<char hz="阛" py="huán">
+		<phrase hz="阛阓" py="huán,huì" />
+	</char>
+	<char hz="澴" py="huán" />
+	<char hz="寰" py="huán" />
+	<char hz="嬛" py="huán" />
+	<char hz="缳" py="huán" />
+	<char hz="鹮" py="huán" />
+	<char hz="镮" py="huán" />
+	<char hz="鬟" py="huán">
+		<phrase hz="丫鬟" py="yā,huan" />
+	</char>
+	<char hz="睆" py="huǎn" />
+	<char hz="缓" py="huǎn" />
+	<char hz="幻" py="huàn" />
+	<char hz="奂" py="huàn" />
+	<char hz="换" py="huàn" />
+	<char hz="唤" py="huàn" />
+	<char hz="涣" py="huàn" />
+	<char hz="焕" py="huàn" />
+	<char hz="痪" py="huàn" />
+	<char hz="宦" py="huàn" />
+	<char hz="浣" py="huàn" />
+	<char hz="鲩" py="huàn" />
+	<char hz="患" py="huàn" />
+	<char hz="漶" py="huàn" />
+	<char hz="逭" py="huàn" />
+	<char hz="豢" py="huàn" />
+	<char hz="擐" py="huàn" />
+	<char hz="轘" py="huàn" trans="1" />
+</pinyin>

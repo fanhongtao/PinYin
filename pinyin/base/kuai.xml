@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="" py="kuǎi" />
+	<char hz="蒯" py="kuǎi" />
+	<char hz="会" py="kuài" multi="huì">
+		<phrase hz="会计" py="kuài,jì" />
+		<definition id="二">
+			<item text="总计。 [会计]1.管理和计算财务的工作。 2.管理和计算财务的人。" />
+		</definition>
+	</char>
+	<char hz="侩" py="kuài" />
+	<char hz="郐" py="kuài" />
+	<char hz="哙" py="kuài" />
+	<char hz="狯" py="kuài" />
+	<char hz="浍" py="kuài" />
+	<char hz="脍" py="kuài" />
+	<char hz="鲙" py="kuài" />
+	<char hz="块" py="kuài" />
+	<char hz="快" py="kuài" />
+	<char hz="筷" py="kuài" />
+</pinyin>

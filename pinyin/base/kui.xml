@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="亏" py="kuī">
+		<phrase hz="亏空" py="kuī,kong" />
+	</char>
+	<char hz="刲" py="kuī" />
+	<char hz="岿" py="kuī" />
+	<char hz="悝" py="kuī" />
+	<char hz="盔" py="kuī" />
+	<char hz="窥" py="kuī" />
+	<char hz="奎" py="kuí" />
+	<char hz="喹" py="kuí">
+		<phrase hz="喹啉" py="kuí,lín" />
+	</char>
+	<char hz="蝰" py="kuí" />
+	<char hz="逵" py="kuí" />
+	<char hz="馗" py="kuí" />
+	<char hz="隗" py="kuí" multi="wěi">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="魁" py="kuí" />
+	<char hz="揆" py="kuí" />
+	<char hz="葵" py="kuí" />
+	<char hz="骙" py="kuí" />
+	<char hz="暌" py="kuí" />
+	<char hz="睽" py="kuí" />
+	<char hz="夔" py="kuí" />
+	<char hz="傀" py="kuǐ">
+		<phrase hz="傀儡" py="kuǐ,lěi" />
+	</char>
+	<char hz="跬" py="kuǐ" />
+	<char hz="匮" py="kuì" />
+	<char hz="蒉" py="kuì" />
+	<char hz="馈" py="kuì" />
+	<char hz="溃" py="kuì" multi="huì" main="1">
+		<phrase hz="溃疡" py="kuì,yáng" />
+		<definition id="一">
+			<item id="1" text="溃决，大水冲开堤岸。" />
+			<item id="2" text="散乱，垮台：~散. 敌军~败. ~不成军. 经济崩~. [溃围]突破包围。" />
+			<item id="3" text="肌肉组织腐烂：~烂. [溃疡](-yáng)黏膜或表皮坏死而形成的缺损。" />
+		</definition>
+	</char>
+	<char hz="愦" py="kuì" />
+	<char hz="" py="kuì" />
+	<char hz="聩" py="kuì" />
+	<char hz="篑" py="kuì" />
+	<char hz="喟" py="kuì" />
+	<char hz="愧" py="kuì" />
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抠" py="kōu" />
+	<char hz="眍" py="kōu">
+		<phrase hz="眍" py="kōu,lou" />
+	</char>
+	<char hz="芤" py="kōu" />
+	<char hz="口" py="kǒu" />
+	<char hz="叩" py="kòu" />
+	<char hz="扣" py="kòu" />
+	<char hz="筘" py="kòu" />
+	<char hz="寇" py="kòu" />
+	<char hz="蔻" py="kòu" />
+	<char hz="鷇" py="kòu" trans="1" />
+</pinyin>

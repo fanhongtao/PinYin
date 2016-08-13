@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尸" py="shī" />
+	<char hz="鸤" py="shī">
+		<phrase hz="鸤鸠" py="shī,jiū" />
+	</char>
+	<char hz="失" py="shī" />
+	<char hz="师" py="shī" />
+	<char hz="狮" py="shī" />
+	<char hz="浉" py="shī" />
+	<char hz="" py="shī" />
+	<char hz="诗" py="shī" />
+	<char hz="虱" py="shī">
+		<phrase hz="虱子" py="shī,zi" />
+	</char>
+	<char hz="鲺" py="shī" />
+	<char hz="絁" py="shī" trans="1" />
+	<char hz="施" py="shī" />
+	<char hz="湿" py="shī" />
+	<char hz="蓍" py="shī" />
+	<char hz="酾" py="shī" info="(又)shāi" />
+	<char hz="嘘" py="shī" multi="xū">
+		<definition id="二">
+			<item text="叹词，表示反对、制止、驱逐等。" />
+		</definition>
+	</char>
+	<char hz="十" py="shí">
+		<definition>
+			<item id="1" text="数目。" />
+			<item id="2" text="表示达到顶点：~足. ~分. ~全~美." />
+			<item id="3" text="法定计量单位中十进倍数单位词头之一，表示10^1，符号 da。" />
+		</definition>
+	</char>
+	<char hz="什" py="shí" multi="shén" main="1">
+		<definition id="一">
+			<item id="1" text="同“十(1)”（多用于分数或倍数）：~一（十分之一）. ~百（十倍或百倍）." />
+			<item id="2" text="各种的，杂样的：~物. 家~（家用杂物）. [什锦]各种各样东西凑成的（多指食品）：~~糖. 素~~." />
+		</definition>
+	</char>
+	<char hz="石" py="shí" multi="dàn" main="1">
+		<phrase hz="石头" py="shí,tou" />
+		<definition id="一">
+			<item id="1" text="（-头）(tou)构成地壳的坚硬物质，是由矿物集合而成的。" />
+			<item id="2" text="用石制成的：~砚. ~磨." />
+			<item id="3" text="指石刻：金~." />
+			<item id="4" text="古代容量单位，一石合十斗。" />
+			<item id="5" text="古代重量单位，一石合一百二十斤。" />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+	<char hz="炻" py="shí" />
+	<char hz="祏" py="shí" />
+	<char hz="鼫" py="shí" />
+	<char hz="时" py="shí" />
+	<char hz="埘" py="shí" />
+	<char hz="鲥" py="shí" />
+	<char hz="识" py="shí" multi="zhì" main="1">
+		<phrase hz="知识" py="zhī,shi" />
+		<definition id="一">
+			<item id="1" text="知道，认得，能辨别：~货. ~字. ~别真假." />
+			<item id="2" text="知识，所知道的道理：常~. 知~(shi)丰富." />
+			<item id="3" text="见识，辨别是非的能力：卓~." />
+		</definition>
+	</char>
+	<char hz="实" py="shí">
+		<phrase hz="老实" py="lǎo,shi" />
+	</char>
+	<char hz="拾" py="shí">
+		<phrase hz="拾掇" py="shí,duo" />
+	</char>
+	<char hz="食" py="shí" multi="sì" main="1">
+		<definition id="一">
+			<item id="1" text="吃：~肉. [食言]指失信：决不~~. [食指]即示指，手的第二指。(喻)家庭人口：~~众多." />
+			<item id="2" text="吃的东西：素~. 零~. 面~. 丰衣足~." />
+			<item id="3" text="日月亏缺或完全不见的现象：日~. 月~. 全~." />
+		</definition>
+	</char>
+	<char hz="蚀" py="shí" />
+	<char hz="湜" py="shí" />
+	<char hz="寔" py="shí" />
+	<char hz="史" py="shǐ" />
+	<char hz="驶" py="shǐ" />
+	<char hz="矢" py="shǐ">
+		<phrase hz="有的放矢" py="yǒu,dì,fàng,shǐ" />
+	</char>
+	<char hz="豕" py="shǐ" />
+	<char hz="使" py="shǐ" />
+	<char hz="始" py="shǐ" />
+	<char hz="屎" py="shǐ" />
+	<char hz="士" py="shì" />
+	<char hz="仕" py="shì" />
+	<char hz="氏" py="shì" multi="zhī" main="1">
+		<definition id="一">
+			<item id="1" text="姓。古代姓和氏有区别，氏从姓分出，后来姓和氏不分了，姓、氏可以混用。 [氏族]原始社会中由血统关系联系起来的人的集体，集体占有生产资料，集体生产，集体消费。" />
+			<item id="2" text="旧习惯对已婚妇女，通常在夫姓后再加父姓，父姓后加“氏”，作为称呼：张王~（夫姓张，父姓王）. " />
+			<item id="3" text="后世对有影响的人的称呼：神农~. 太史~. 摄~表." />
+		</definition>
+	</char>
+	<char hz="舐" py="shì" />
+	<char hz="示" py="shì" />
+	<char hz="䏡" py="shì" />
+	<char hz="世" py="shì" />
+	<char hz="贳" py="shì" />
+	<char hz="市" py="shì">
+		<phrase hz="沽酒市脯" py="gū,jiǔ,shì,fǔ" />
+	</char>
+	<char hz="柿" py="shì" />
+	<char hz="铈" py="shì" />
+	<char hz="式" py="shì" />
+	<char hz="试" py="shì" />
+	<char hz="拭" py="shì" />
+	<char hz="轼" py="shì" />
+	<char hz="弑" py="shì" />
+	<char hz="似" py="shì" multi="sì">
+		<phrase hz="似的" py="shì,de" />
+		<phrase hz="是的" py="shì,de" />
+		<definition id="二">
+			<item text="[似的][是的](-de)助词，跟某种事物或情况相似：雪~~那么白. 瓢泼~~大雨." />
+		</definition>
+	</char>
+	<char hz="势" py="shì" />
+	<char hz="事" py="shì" />
+	<char hz="侍" py="shì" />
+	<char hz="峙" py="shì" multi="zhì">
+		<phrase hz="繁峙" py="fán,shì" />
+		<definition id="二">
+			<item text="[繁峙]地名，在山西省。" />
+		</definition>
+	</char>
+	<char hz="恃" py="shì" />
+	<char hz="饰" py="shì" />
+	<char hz="视" py="shì" />
+	<char hz="是" py="shì" />
+	<char hz="适" py="shì" multi="kuò" main="1">
+		<definition id="一">
+			<item id="1" text="切合，相合（(连)-合）：~宜. ~意. ~用." />
+			<item id="2" text="舒服：稍觉不~." />
+			<item id="3" text="刚巧：~逢其会." />
+			<item id="4" text="刚才，方才：~从何处来？" />
+			<item id="5" text="往，到：无所~从. (引)旧指女子出嫁." />
+		</definition>
+	</char>
+	<char hz="室" py="shì" />
+	<char hz="逝" py="shì" />
+	<char hz="誓" py="shì" />
+	<char hz="莳" py="shì" />
+	<char hz="释" py="shì" />
+	<char hz="谥" py="shì" />
+	<char hz="嗜" py="shì">
+		<phrase hz="嗜好" py="shì,hào" />
+	</char>
+	<char hz="筮" py="shì" />
+	<char hz="噬" py="shì" />
+	<char hz="奭" py="shì" />
+	<char hz="襫" py="shì" />
+	<char hz="螫" py="shì" multi="zhē" main="1">
+		<definition id="一">
+			<item text="有毒腺的虫子刺人或牲畜。" />
+		</definition>
+	</char>
+	<char hz="匙" py="shi" multi="chí">
+		<phrase hz="钥匙" py="yào,shi" />
+		<definition id="二">
+			<item text="见“钥”字条“钥匙”(yào-)。" />
+		</definition>
+	</char>
+	<char hz="殖" py="shi" multi="zhí">
+		<phrase hz="骨殖" py="gǔ,shi" />
+		<definition id="二">
+			<item text="[骨殖](gǔ-)尸骨。" />
+		</definition>
+	</char>
+</pinyin>

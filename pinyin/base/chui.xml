@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吹" py="chuī" />
+	<char hz="炊" py="chuī">
+		<phrase hz="炊帚" py="chuī,zhou" />
+	</char>
+	<char hz="垂" py="chuí" />
+	<char hz="陲" py="chuí" />
+	<char hz="捶" py="chuí" />
+	<char hz="棰" py="chuí" />
+	<char hz="锤" py="chuí" />
+	<char hz="椎" py="chuí" multi="zhuī">
+		<phrase hz="铁椎" py="tiě,chuí" />
+		<phrase hz="椎鼓" py="chuí,gǔ" />
+		<phrase hz="椎鲁" py="chuí,lǔ" />
+		<definition id="二">
+			<item id="1" text="敲打东西的器具：铁~." />
+			<item id="2" text="敲打：~鼓." />
+			<item id="3" text="愚钝：~鲁." />
+		</definition>
+	</char>
+	<char hz="槌" py="chuí">
+		<phrase hz="棒槌" py="bàng,chui" />
+	</char>
+</pinyin>

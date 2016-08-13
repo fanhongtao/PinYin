@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="逋" py="bū" />
+	<char hz="晡" py="bū" />
+	<char hz="醭" py="bú" />
+	<char hz="卜" py="bǔ" multi="bo" main="1">
+		<definition id="一">
+			<item id="1" text="占卜，古时用龟甲、兽骨等预测吉凶的一种迷信活动。后泛指用其他方法预测吉凶。(转)料定，先知道：预~. 吉凶未~. [卜辞]商代刻在龟甲、兽骨上记录占卜事情的文字。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="卟" py="bǔ" />
+	<char hz="补" py="bǔ" />
+	<char hz="捕" py="bǔ" />
+	<char hz="哺" py="bǔ" />
+	<char hz="堡" py="bǔ" multi="bǎo,pù">
+		<phrase hz="堡子" py="bǔ,zi" />
+		<phrase hz="吴堡" py="wú,bǔ" />
+		<phrase hz="柴沟堡" py="chái,gōu,bǔ" />
+		<definition id="二">
+			<item text="堡子，有围墙的村镇。又多用于地名：吴~（在陕西省榆林）. 柴沟~（在河北省张家口）." />
+		</definition>
+	</char>
+	<char hz="不" py="bù">
+		<definition>
+			<item text="只有一个“不”字或“不”字后面紧接着的字为非第四声时，读音为四声bù；例如：不（bù）法（fǎ）之徒。但是如果后面的字也是四声，需要变调，变成bú。例如：不（bú）是；不（bú）对" />
+		</definition>
+	</char>
+	<char hz="吥" py="bù" />
+	<char hz="钚" py="bù" />
+	<char hz="布" py="bù" />
+	<char hz="㘵" py="bù" />
+	<char hz="怖" py="bù" />
+	<char hz="步" py="bù" />
+	<char hz="埔" py="bù" multi="pǔ">
+		<phrase hz="大埔" py="dà,bù" />
+		<definition id="二">
+			<item text="[大埔]地名，在广东省。" />
+		</definition>
+	</char>
+	<char hz="部" py="bù" />
+	<char hz="瓿" py="bù" />
+	<char hz="篰" py="bù" />
+	<char hz="埠" py="bù" />
+	<char hz="簿" py="bù" />
+</pinyin>

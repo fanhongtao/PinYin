@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="杀" py="shā">
+		<phrase hz="杀出重围" py="shā,chū,chóng,wéi" />
+		<definition>
+			<item id="1" text="使人或动物失去生命：~敌立功. ~虫药. ~鸡焉用牛刀." />
+			<item id="2" text="战斗：~出重(chóng)围." />
+			<item id="3" text="消减：~价. ~暑气. 拿别人~气." />
+			<item id="4" text="〈方〉药物等刺激身体感觉疼痛：这药上在疮口上~得慌." />
+			<item id="5" text="收束：~尾. ~账." />
+			<item id="6" text="勒紧，扣紧：~车（把车上装载的东西用绳勒紧）. ~一~腰带." />
+			<item id="7" text="在动词后，表示程度深：气~人. 笑~人." />
+		</definition>
+	</char>
+	<char hz="刹" py="shā" multi="chà" main="1">
+		<definition id="二">
+			<item text="止住（车、机器等）：~车." />
+		</definition>
+	</char>
+	<char hz="铩" py="shā" />
+	<char hz="杉" py="shā" multi="shān">
+		<phrase hz="杉木" py="shā,mù" />
+		<phrase hz="杉篙" py="shā,gāo" />
+		<definition id="二">
+			<item text="义同“杉(一)”，用于“杉木、杉篙”等。" />
+		</definition>
+	</char>
+	<char hz="沙" py="shā" multi="shà" main="1">
+		<definition id="一">
+			<item id="1" text="（-子）非常细碎的石粒：~土. ~滩." />
+			<item id="2" text="像沙子的：蚕~（桑蚕的粪）. 豆~. ~瓤西瓜." />
+			<item id="3" text="声音不清脆不响亮：~哑." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="莎" py="shā" multi="suō" main="1">
+		<definition id="二">
+			<item text="多用于人名、地名。 [莎车]地名，在新疆维吾尔自治区。" />
+		</definition>
+	</char>
+	<char hz="痧" py="shā" />
+	<char hz="裟" py="shā" />
+	<char hz="鲨" py="shā" />
+	<char hz="纱" py="shā" />
+	<char hz="砂" py="shā" />
+	<char hz="煞" py="shā" multi="shà">
+		<definition id="二">
+			<item id="1" text="同“杀(3)(5)(6)(7)”。" />
+			<item id="2" text="同“刹(二)”。" />
+		</definition>
+	</char>
+	<char hz="啥" py="shá" />
+	<char hz="傻" py="shǎ" />
+	<char hz="沙" py="shà" multi="shā">
+		<phrase hz="沙一沙" py="shà,yī,shà" />
+		<definition id="二">
+			<item text="经过摇动把东西里的杂物集中，以便清除：把小米里的沙子~一~." />
+		</definition>
+	</char>
+	<char hz="唼" py="shà">
+		<phrase hz="唼喋" py="shà,zhá" />
+		<definition>
+			<item text="[唼喋](-zhá)形容鱼、鸟等吃东西的声音。"/>
+		</definition>
+	</char>
+	<char hz="厦" py="shà" multi="xià" main="1">
+		<definition id="一">
+			<item id="1" text="大屋子：广~千万间. 高楼大~." />
+			<item id="2" text="房子后面突出的部分：前廊后~." />
+		</definition>
+	</char>
+	<char hz="嗄" py="shà" multi="á" main="1">
+		<definition id="二">
+			<item text="嗓音嘶哑。" />
+		</definition>
+	</char>
+	<char hz="歃" py="shà" />
+	<char hz="煞" py="shà" multi="shā" main="1">
+		<definition id="一">
+			<item id="1" text="极，很：~费苦心. 脸色~白." />
+			<item id="2" text="迷信的人指凶神：~气. 凶~." />
+		</definition>
+	</char>
+	<char hz="箑" py="shà" />
+	<char hz="霎" py="shà" />
+	<char hz="挲" py="sha" multi="sa,suō">
+		<phrase hz="挓挲" py="zhā,sha" />
+		<definition id="三">
+			<item text="见“挓”字条“挓挲”(zhā-)。" />
+		</definition>
+	</char>
+</pinyin>

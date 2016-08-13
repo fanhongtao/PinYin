@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="揌" py="sāi" />
+	<char hz="腮" py="sāi" />
+	<char hz="鳃" py="sāi" />
+	<char hz="塞" py="sāi" multi="sài,sè" main="1">
+		<definition id="一">
+			<item id="1" text="堵，填入：把窟窿~住. 往书包里~了一本书." />
+			<item id="2" text="（-子、-儿）堵住器物的东西：瓶子~儿. 软木~儿." />
+		</definition>
+	</char>
+	<char hz="噻" py="sāi">
+		<phrase hz="噻唑" py="sāi,zuò" />
+	</char>
+	<char hz="塞" py="sài" multi="sāi,sè">
+		<phrase hz="要塞" py="yào,sài" />
+		<phrase hz="塞外" py="sài,wài" />
+		<definition id="三">
+			<item text="边界上的险要地方：要~. ~外." />
+		</definition>
+	</char>
+	<char hz="僿" py="sài" />
+	<char hz="赛" py="sài">
+		<phrase hz="赛璐玢" py="sài,lù,fēn" />
+		<phrase hz="赛璐珞" py="sài,lù,luò" />
+		<definition>
+			<item id="1" text="比较好坏、强弱：~跑. ~歌会. 田径~." />
+			<item id="2" text="胜似：一个~一个. (转)比得上：~真的." />
+			<item id="3" text="旧时举行祭典酬报神灵：~神. ~会." />
+			<item text="[赛璐玢](-lùfēn)(外)玻璃纸的一种，可染成各种颜色，多用于包装。" />
+			<item text="[赛璐珞](-lùluò)(外)一种化学工业制品，无色透明的固体，质轻，易燃，可制胶卷、玩具、日用品等。" />
+		</definition>
+	</char>
+</pinyin>

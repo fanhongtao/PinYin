@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="猫" py="māo" multi="máo" main="1">
+		<definition id="一">
+			<item text="一种家畜，面呈圆形，脚有利爪，善跳跃，会捉老鼠。" />
+		</definition>
+	</char>
+	<char hz="毛" py="máo">
+		<phrase hz="毛毛腾腾" py="máo,mao,tēng,tēng" />
+		<phrase hz="毛南族" py="máo,nán,zú" />
+	</char>
+	<char hz="牦" py="máo" />
+	<char hz="旄" py="máo" />
+	<char hz="酕" py="máo">
+		<phrase hz="酕醄" py="máo,táo" />
+	</char>
+	<char hz="髦" py="máo" />
+	<char hz="矛" py="máo" />
+	<char hz="茅" py="máo" />
+	<char hz="蝥" py="máo" />
+	<char hz="蟊" py="máo" />
+	<char hz="茆" py="máo" />
+	<char hz="猫" py="máo" multi="māo">
+		<phrase hz="猫腰" py="máo,yāo" />
+		<definition id="二">
+			<item text="[猫腰]弯腰。" />
+		</definition>
+	</char>
+	<char hz="锚" py="máo" />
+	<char hz="冇" py="mǎo" />
+	<char hz="卯" py="mǎo" />
+	<char hz="峁" py="mǎo" />
+	<char hz="泖" py="mǎo" />
+	<char hz="昴" py="mǎo" />
+	<char hz="铆" py="mǎo" />
+	<char hz="芼" py="mào" />
+	<char hz="眊" py="mào" />
+	<char hz="耄" py="mào">
+		<phrase hz="耄耋" py="mào,dié" />
+	</char>
+	<char hz="茂" py="mào">
+		<phrase hz="茂盛" py="mào,shèng" />
+	</char>
+	<char hz="冒" py="mào" multi="mò" main="1">
+		<definition id="一">
+			<item id="1" text="向外透，往上升：~泡. ~烟. ~火." />
+			<item id="2" text="不顾（恶劣的环境或危险等）：~雨. ~险." />
+			<item id="3" text="不加小心，鲁莽，冲撞：~昧. ~犯. [冒进]不顾具体条件，急于进行。 [冒失]鲁莽，轻率。" />
+			<item id="4" text="用假的充当真的，假托：~牌. ~名." />
+			<item id="5" text="〈古〉贪婪。" />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+	<char hz="帽" py="mào" />
+	<char hz="瑁" py="mào" />
+	<char hz="贸" py="mào" />
+	<char hz="袤" py="mào" />
+	<char hz="瞀" py="mào" />
+	<char hz="懋" py="mào" />
+	<char hz="鄚" py="mào" />
+	<char hz="貌" py="mào" />
+</pinyin>

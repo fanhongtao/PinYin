@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呸" py="pēi" />
+	<char hz="胚" py="pēi" />
+	<char hz="衃" py="pēi" />
+	<char hz="醅" py="pēi" />
+	<char hz="陪" py="péi" />
+	<char hz="培" py="péi" />
+	<char hz="赔" py="péi" />
+	<char hz="锫" py="péi" />
+	<char hz="裴" py="péi" />
+	<char hz="沛" py="pèi" />
+	<char hz="旆" py="pèi" />
+	<char hz="霈" py="pèi" />
+	<char hz="帔" py="pèi" />
+	<char hz="佩" py="pèi" />
+	<char hz="配" py="pèi" />
+	<char hz="辔" py="pèi" />
+</pinyin>

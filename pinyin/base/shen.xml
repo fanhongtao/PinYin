@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="申" py="shēn" />
+	<char hz="伸" py="shēn" />
+	<char hz="呻" py="shēn">
+		<phrase hz="呻吟" py="shēn,yín" />
+	</char>
+	<char hz="绅" py="shēn" />
+	<char hz="珅" py="shēn" />
+	<char hz="砷" py="shēn" />
+	<char hz="身" py="shēn">
+		<phrase hz="身份" py="shēn,fen" />
+		<phrase hz="身分" py="shēn,fen" />
+	</char>
+	<char hz="诜" py="shēn" />
+	<char hz="参" py="shēn" multi="cān,cēn">
+		<phrase hz="参商" py="shēn,shāng" />
+		<phrase hz="人参" py="rén,shēn" />
+		<definition id="二">
+			<item id="1" text="星宿名，二十八宿之一。 [参商]参和商都是二十八宿之一，两者不同时在天空出现。(喻)1.分离不得相见。 2.不和睦。" />
+			<item id="2" text="人参，多年生草本植物。根肥大，略像人形，可入药。" />
+		</definition>
+	</char>
+	<char hz="糁" py="shēn" multi="sǎn" main="1">
+		<definition id="一">
+			<item text="（-儿）谷类制成的小渣：玉米~儿." />
+		</definition>
+	</char>
+	<char hz="鲹" py="shēn" />
+	<char hz="莘" py="shēn" multi="xīn" main="1">
+		<definition id="一">
+			<item id="1" text="莘县，在山东省。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="娠" py="shēn" />
+	<char hz="深" py="shēn" />
+	<char hz="燊" py="shēn" />
+	<char hz="什" py="shén" multi="shí" info="Word主音">
+		<phrase hz="什么" py="shén,me" />
+		<definition id="二">
+			<item text="[什么](-me)代词。 1.表示疑问：想~~？ ~~人？ 2.指不确定的或任何事物：我想吃点儿~~. ~~事都难不住他. 3.表示惊讶或不满：~~！明天就走？ 这是~~破东西！" />
+		</definition>
+	</char>
+	<char hz="甚" py="shén" multi="shèn">
+		<definition id="二">
+			<item text="同“什”(shén)。" />
+		</definition>
+	</char>
+	<char hz="神" py="shén" />
+	<char hz="沈" py="shěn" multi="chén" main="1">
+		<definition id="一">
+			<item id="1" text="姓。" />
+			<item id="2" text="汁：墨~未干." />
+			<item id="3" text="[沈阳]地名，在辽宁省。" />
+		</definition>
+	</char>
+	<char hz="审" py="shěn" />
+	<char hz="谉" py="shěn" />
+	<char hz="婶" py="shěn" />
+	<char hz="哂" py="shěn" />
+	<char hz="矧" py="shěn" />
+	<char hz="谂" py="shěn" />
+	<char hz="肾" py="shèn" />
+	<char hz="甚" py="shèn" multi="shén" main="1">
+		<definition id="一">
+			<item id="1" text="很，极：进步~快. 他说得未免过~. [甚至][甚至于]连词，表示更进一层：不学习就会落后，~~会犯错误. 这件事扰乱了他的生活，~~~影响了他的工作." />
+			<item id="2" text="超过，胜过：更有~者. 日~一日." />
+			<item id="3" text="〈方〉代词，什么：要它做~？ 姓~名谁？" />
+		</definition>
+	</char>
+	<char hz="葚" py="shèn" multi="rèn" main="1">
+		<phrase hz="桑葚" py="sāng,shèn" />
+		<definition id="一">
+			<item text="[桑葚]桑树结的果实。" />
+		</definition>
+	</char>
+	<char hz="椹" py="shèn" multi="zhēn" info="Word主音">
+		<definition id="二">
+			<item text="同“葚”。" />
+		</definition>
+	</char>
+	<char hz="胂" py="shèn" />
+	<char hz="渗" py="shèn" />
+	<char hz="瘆" py="shèn" />
+	<char hz="蜃" py="shèn" />
+	<char hz="慎" py="shèn" />
+</pinyin>

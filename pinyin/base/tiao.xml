@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="佻" py="tiāo" />
+	<char hz="挑" py="tiāo" multi="tiǎo" main="1">
+		<definition id="一">
+			<item id="1" text="用肩担着：~水. 别人~一担，他~两担." />
+			<item id="2" text="（-子、-儿）挑、担的东西：挑着空~子." />
+			<item id="3" text="（-儿）量词：一~儿水. 两~儿粪." />
+			<item id="4" text="选，拣（(连)-选、-拣）：~好的送给他. ~错. ~毛病. [挑剔]严格地拣选，把不合规格的除去。(转)故意找错。" />
+		</definition>
+	</char>
+	<char hz="祧" py="tiāo" />
+	<char hz="条" py="tiáo" />
+	<char hz="鲦" py="tiáo" />
+	<char hz="苕" py="tiáo" multi="sháo" main="1">
+		<definition id="一">
+			<item id="1" text="古书上指凌霄花，也叫“紫葳”。落叶藤本植物，开红花。" />
+			<item id="2" text="茹子，一年生草本植物，花紫色。可以做绿肥。" />
+			<item id="3" text="苇子的花。" />
+		</definition>
+	</char>
+	<char hz="岧" py="tiáo">
+		<phrase hz="岧峣" py="tiáo,yáo" />
+	</char>
+	<char hz="迢" py="tiáo" />
+	<char hz="笤" py="tiáo">
+		<phrase hz="笤帚" py="tiáo,zhou" />
+	</char>
+	<char hz="龆" py="tiáo" />
+	<char hz="髫" py="tiáo" />
+	<char hz="调" py="tiáo" multi="diào">
+		<phrase hz="调色" py="tiáo,sè" />
+		<phrase hz="调味" py="tiáo,wèi" />
+		<phrase hz="风调雨顺" py="fēng,tiáo,yǔ,shùn" />
+		<phrase hz="调解" py="tiáo,jiě" />
+		<phrase hz="调整" py="tiáo,zhěng" />
+		<phrase hz="调剂" py="tiáo,jì" />
+		<phrase hz="调停" py="tiáo,tíng" />
+		<phrase hz="调唆" py="tiáo,suō" />
+		<phrase hz="调嘴弄舌" py="tiáo,zuǐ,nòng,shé" />
+		<phrase hz="调笑" py="tiáo,xiào" />
+		<phrase hz="调戏" py="tiáo,xì" />
+		<phrase hz="调皮" py="tiáo,pí" />
+		<definition id="一">
+			<item id="1" text="配合均匀：~色. ~味. 风~雨顺. (引)使和谐：~解. ~整. [调剂]1.配药。 2.(-ji)调(diào)配，使均匀：组与组之间人力可以互相~~. [调停]使争端平息。" />
+			<item id="2" text="挑拨；挑逗（(连)-唆）：~嘴弄舌. ~笑. ~戏. [调皮]好开玩笑，顽皮。" />
+		</definition>
+	</char>
+	<char hz="蜩" py="tiáo" />
+	<char hz="蓨" py="tiáo" />
+	<char hz="挑" py="tiǎo" multi="tiāo">
+		<phrase hz="挑开" py="tiǎo,kāi" />
+		<phrase hz="挑刺" py="tiǎo,cì" />
+		<phrase hz="挑花" py="tiǎo,huā" />
+		<phrase hz="挑拨" py="tiǎo,bō" />
+		<phrase hz="挑衅" py="tiǎo,xìn" />
+		<phrase hz="挑战" py="tiǎo,zhàn" />
+		<definition id="二">
+			<item id="1" text="用竿子等把东西举起或支起：~起帘子来. 把旗子~起来." />
+			<item id="2" text="用条状物或有尖的东西拨开或弄出：把火~开. ~了~灯心. ~刺." />
+			<item id="3" text="一种刺绣的方法：~花." />
+			<item id="4" text="拨弄，引动（(连)-拨）：~衅. ~拨是非. [挑战]1.激怒敌人出来打仗。 2.鼓动对方和自己闺中竞赛：两个作业队互相~~." />
+			<item id="5" text="汉字由下斜着向上写的笔形。" />
+		</definition>
+	</char>
+	<char hz="朓" py="tiǎo" />
+	<char hz="窕" py="tiǎo" />
+	<char hz="眺" py="tiào" />
+	<char hz="跳" py="tiào" />
+	<char hz="粜" py="tiào" />
+</pinyin>

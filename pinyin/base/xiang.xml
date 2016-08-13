@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乡" py="xiāng" />
+	<char hz="芗" py="xiāng" />
+	<char hz="相" py="xiāng" multi="xiàng" main="1">
+		<definition id="一">
+			<item id="1" text="交互，动作由双方来（(连)互-）：~助. ~亲~爱. 言行~符. (引)动作由一方来而有一定对象的，常加在动词前面：~信. 好言~劝。 [相当]1.对等，等于：年纪~~. 2.副词，有一定程度的：这首诗写得~~好. [相对]依靠一定条件而存在，随着一定条件而变化的，跟“绝对”相对。" />
+			<item id="2" text="看：~中. 左~右看." />
+		</definition>
+	</char>
+	<char hz="厢" py="xiāng" />
+	<char hz="湘" py="xiāng" />
+	<char hz="缃" py="xiāng" />
+	<char hz="箱" py="xiāng" />
+	<char hz="香" py="xiāng" />
+	<char hz="襄" py="xiāng" />
+	<char hz="骧" py="xiāng" />
+	<char hz="瓖" py="xiāng" />
+	<char hz="镶" py="xiāng" />
+	<char hz="详" py="xiáng" />
+	<char hz="庠" py="xiáng" />
+	<char hz="祥" py="xiáng" />
+	<char hz="降" py="xiáng" multi="jiàng">
+		<phrase hz="投降" py="tóu,xiáng" />
+		<phrase hz="宁死不降" py="nìng,sǐ,bù,xiáng" />
+		<phrase hz="降龙伏虎" py="xiáng,lóng,fú,hǔ" />
+		<definition id="二">
+			<item id="1" text="投降，归顺：宁死不~." />
+			<item id="2" text="降服，使驯服：~龙伏虎." />
+		</definition>
+	</char>
+	<char hz="翔" py="xiáng" />
+	<char hz="享" py="xiǎng" />
+	<char hz="响" py="xiǎng">
+		<phrase hz="响应" py="xiǎng,yìng" />
+	</char>
+	<char hz="饷" py="xiǎng" />
+	<char hz="蚃" py="xiǎng" />
+	<char hz="飨" py="xiǎng" />
+	<char hz="想" py="xiǎng" />
+	<char hz="鲞" py="xiǎng" />
+	<char hz="向" py="xiàng" />
+	<char hz="项" py="xiàng" />
+	<char hz="巷" py="xiàng" multi="hàng" main="1">
+		<definition id="一">
+			<item text="较窄的街道：大街小~." />
+		</definition>
+	</char>
+	<char hz="相" py="xiàng" multi="xiāng">
+		<phrase hz="相貌" py="xiàng,mào" />
+		<phrase hz="狼狈相" py="láng,bèi,xiàng" />
+		<phrase hz="照相" py="zhào,xiàng" />
+		<phrase hz="相马" py="xiàng,mǎ" />
+		<phrase hz="相机行事" py="xiàng,jī,xíng,shì" />
+		<phrase hz="人不可貌相" py="rén,bù,kě,mào,xiàng" />
+		<phrase hz="宰相" py="zǎi,xiàng" />
+		<phrase hz="相声" py="xiàng,sheng" />
+		<definition id="二">
+			<item id="1" text="（-儿）样子，容貌（(连)-貌）：长(zhǎng)得很喜~(xiang). 狼狈~. 照~." />
+			<item id="2" text="察看：~马. ~机行事. 人不可貌~." />
+			<item id="3" text="辅助，也指辅佐的人，古代特指最高级的官：宰~." />
+			<item id="4" text="姓。" />
+			<item text="[相声](-sheng)曲艺的一种，以说、学、逗、唱，引人发笑为特色，盛行于华北地区。" />
+		</definition>
+	</char>
+	<char hz="象" py="xiàng" />
+	<char hz="像" py="xiàng" />
+	<char hz="橡" py="xiàng" />
+	<char hz="蟓" py="xiàng" />
+</pinyin>

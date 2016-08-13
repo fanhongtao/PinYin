@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="弯" py="wān" />
+	<char hz="塆" py="wān" />
+	<char hz="湾" py="wān" />
+	<char hz="剜" py="wān" />
+	<char hz="帵" py="wān" />
+	<char hz="蜿" py="wān">
+		<phrase hz="蜿蜒" py="wān,yán" />
+	</char>
+	<char hz="豌" py="wān" />
+	<char hz="丸" py="wán" />
+	<char hz="芄" py="wán" />
+	<char hz="汍" py="wán">
+		<phrase hz="汍澜" py="wán,lán" />
+	</char>
+	<char hz="纨" py="wán">
+		<phrase hz="纨绔" py="wán,kù" />
+	</char>
+	<char hz="完" py="wán" />
+	<char hz="玩" py="wán" />
+	<char hz="顽" py="wán" />
+	<char hz="烷" py="wán">
+		<phrase hz="烷烃" py="wán,tīng" />
+	</char>
+	<char hz="宛" py="wǎn" />
+	<char hz="菀" py="wǎn" />
+	<char hz="惋" py="wǎn" />
+	<char hz="婉" py="wǎn" />
+	<char hz="琬" py="wǎn" />
+	<char hz="碗" py="wǎn" />
+	<char hz="畹" py="wǎn">
+		<phrase hz="畹町" py="wǎn,dīng" />
+		<definition>
+			<item text="古代称三十亩为一畹。" />
+			<item text="[畹町](-dīng)地名，在云南省瑞丽。" />
+		</definition>
+	</char>
+	<char hz="莞" py="wǎn" multi="guǎn" main="1">
+		<definition id="二">
+			<item text="[莞尔]微笑的样子。" />
+		</definition>
+	</char>
+	<char hz="脘" py="wǎn" />
+	<char hz="皖" py="wǎn" />
+	<char hz="挽" py="wǎn" />
+	<char hz="晚" py="wǎn" />
+	<char hz="绾" py="wǎn" />
+	<char hz="万" py="wàn" multi="mò" main="1">
+		<definition id="一">
+			<item id="1" text="数目，十个一千。(喻)多：~物. 气象~千. ~能胶. [万岁]千秋万代永远存在（祝颂语）：人民~~. 祖国~~. [万一](转)意外，意外地：以防~~. ~~失败." />
+			<item id="2" text="极，很，绝对：~难. ~全. ~不得已." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="腕" py="wàn" />
+	<char hz="蔓" py="wàn" multi="mán,màn">
+		<phrase hz="蔓儿" py="wàn,er" />
+		<definition id="一">
+			<item text="（-儿）细长能缠绕的茎：瓜~儿. 扁豆爬~儿了." />
+		</definition>
+	</char>
+</pinyin>

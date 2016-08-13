@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="发" py="fā" multi="fà" main="1">
+		<phrase hz="打发" py="dǎ,fa" />
+		<definition id="一">
+			<item id="1" text="交付，送出，跟“收”相对：~选民证. ~货. 信已经~了. [发落]处理，处分：从轻~~. [打发](-fa)1.派遣：~~专人去办. 2.使离去：好不容易才把他~~走了. 3.消磨（时日）：病人们靠聊天儿~~时光." />
+			<item id="2" text="表达，说出：~言. ~问. ~誓. [发表]用文字或语言表达意见。" />
+			<item id="3" text="放射：~炮. ~光. (引)量词，枪弹、炮弹一枚称一发：五十~子弹." />
+			<item id="4" text="散开，分散：~汗. 挥~. 蒸~. [发挥]把意思尽量地说出，把力量尽量地用出：借题~~. ~~题意." />
+			<item id="5" text="开展，扩大，膨胀：~扬. ~展. ~海带. 面~了. [发达]兴旺，旺盛：工业~~. 交通~~. [发育]生物逐渐长成壮大：身体~~正常. [发展]事物内部的矛盾运动，通常指事物由小而大，由弱而强，由低级到高级，由简单到复杂的变化：形势迅速~~. ~~生产." />
+			<item id="6" text="因得到大量资财而兴旺：暴~户. 这几年他做买卖~了." />
+			<item id="7" text="打开，揭露：~掘潜力. 揭~阴谋. [发明]创造出以前没有的事物：印刷术是我国首先~~的. [发现]1.找出原先就存在而大家不知道的事物或道理：~~新油田. 2.发觉：~~问题就及时解决." />
+			<item id="8" text="显现，显出：脸上~黄." />
+			<item id="9" text="生产，发生：~芽. ~病." />
+			<item id="10" text="觉得：~麻. ~烧." />
+			<item id="11" text="开始动作，起程：~端. 朝~夕至. ~动机器. 队伍出~." />
+		</definition>
+	</char>
+	<char hz="乏" py="fá" />
+	<char hz="伐" py="fá" />
+	<char hz="垡" py="fá" />
+	<char hz="阀" py="fá" />
+	<char hz="筏" py="fá" />
+	<char hz="罚" py="fá" />
+	<char hz="法" py="fǎ" />
+	<char hz="砝" py="fǎ">
+		<phrase hz="砝码" py="fǎ,mǎ" />
+	</char>
+	<char hz="发" py="fà" multi="fā">
+		<phrase hz="理发" py="lǐ,fà" />
+		<phrase hz="脱发" py="tuō,fà" />
+		<phrase hz="令人发指" py="lìng,rén,fà,zhǐ" />
+		<definition id="二">
+			<item text="头发：理~. 脱~. 令人~指（喻使人非常气愤）." />
+		</definition>
+	</char>
+	<char hz="珐" py="fà">
+		<phrase hz="珐琅" py="fà,láng" />
+	</char>
+</pinyin>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吽" py="hōng" />
+	<char hz="轰" py="hōng" />
+	<char hz="哄" py="hōng" multi="hǒng,hòng">
+		<phrase hz="哄传" py="hōng,chuán" />
+		<phrase hz="哄堂大笑" py="hōng,táng,dà,xiào" />
+		<definition id="一">
+			<item text="好多人同时发声：~传(chuán). ~堂大笑." />
+		</definition>
+	</char>
+	<char hz="烘" py="hōng" />
+	<char hz="訇" py="hōng" />
+	<char hz="薨" py="hōng" />
+	<char hz="弘" py="hóng" />
+	<char hz="泓" py="hóng" />
+	<char hz="红" py="hóng" multi="gōng" main="1">
+		<definition id="一">
+			<item id="1" text="像鲜血那样的颜色。(转)1.喜庆：办~事. 2.革命的，觉悟高的：~军. ~色政权. 又~又专. 3.象征顺利、成功：开门~." />
+			<item id="2" text="指人受宠信：~人." />
+			<item id="3" text="红利：分~." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="荭" py="hóng" />
+	<char hz="虹" py="hóng" multi="jiàng" main="1">
+		<definition id="一">
+			<item text="雨后天空中出现的彩色圆弧，有红、橙、黄、绿、蓝、靛、紫七种颜色。是由大气中的小水珠经日光照射发生折射和反射作用而形成的。这种圆弧常出现两个，红色在外，紫色在内，颜色鲜艳的叫“虹”，也叫“正虹”；红色在内，紫色在外，颜色较淡的叫“霓”，也叫“副虹”。" />
+		</definition>
+	</char>
+	<char hz="鸿" py="hóng" />
+	<char hz="闳" py="hóng" />
+	<char hz="宏" py="hóng" />
+	<char hz="纮" py="hóng" />
+	<char hz="竑" py="hóng" />
+	<char hz="洪" py="hóng" />
+	<char hz="葓" py="hóng" />
+	<char hz="蕻" py="hóng" multi="hòng" info="Word主音">
+		<phrase hz="雪里蕻" py="xuě,lǐ,hóng" />
+		<definition id="二">
+			<item text="[雪里蕻]一种像芥菜的菜，茎叶可以吃。也叫作“雪里红”。" />
+		</definition>
+	</char>
+	<char hz="黉" py="hóng" />
+	<char hz="哄" py="hǒng" multi="hōng,hòng" main="1">
+		<definition id="二">
+			<item id="1" text="说假话骗人（(连)-骗）：你不要~我." />
+			<item id="2" text="用语言或行动使人欢喜：他很会~小孩儿." />
+		</definition>
+	</char>
+	<char hz="讧" py="hòng" />
+	<char hz="澒" py="hòng" trans="1" />
+	<char hz="哄" py="hòng" multi="hōng,hǒng">
+		<phrase hz="一哄而散" py="yī,hòng,ér,sàn" />
+		<phrase hz="起哄" py="qǐ,hòng" />
+		<definition id="三">
+			<item text="吵闹，搅扰：一~而散. 起~（故意吵闹扰乱）." />
+		</definition>
+	</char>
+	<char hz="蕻" py="hòng" multi="hóng" main="1">
+		<definition id="一">
+			<item id="1" text="茂盛。" />
+			<item id="2" text="〈方〉某些蔬菜的长茎：菜~." />
+		</definition>
+	</char>
+</pinyin>

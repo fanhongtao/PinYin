@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="勾" py="gōu" multi="gòu" main="1">
+		<definition id="一">
+			<item id="1" text="用笔画出符号，表示删除或截取：~了这笔账. 一笔~销. 把精彩的文句~出来." />
+			<item id="2" text="描画，用线条画出形象的边缘：~图样. (转)用灰涂抹建筑物上砖、瓦或石块间的缝：~墙缝. 用灰~抹房顶." />
+			<item id="3" text="招引，引（(连)-引）：~结. ~通. ~搭. 这一问~起他的话来了." />
+			<item id="4" text="我国古代称不等腰直角三角形中构成直角的较短的边。" />
+			<item text="[勾留]停留：在那里~~几天." />
+		</definition>
+	</char>
+	<char hz="沟" py="gōu" />
+	<char hz="钩" py="gōu" />
+	<char hz="句" py="gōu" multi="jù">
+		<phrase hz="高句丽" py="gāo,gōu,lí" />
+		<phrase hz="高句骊" py="gāo,gōu,lí" />
+		<phrase hz="勾践" py="gōu,jiàn" />
+		<definition id="二">
+			<item text="古同“勾”。" />
+			<item text="[高句丽][高句骊](--lí)古族名，古国名。" />
+			<item text="[勾践]春秋时越王名。" />
+		</definition>
+	</char>
+	<char hz="佝" py="gōu">
+		<phrase hz="佝偻" py="gōu,lóu" />
+	</char>
+	<char hz="枸" py="gōu" multi="gǒu,jǔ">
+		<phrase hz="枸橘" py="gōu,jú" />
+		<definition id="一">
+			<item text="[枸橘](-jú)就是枳(zhǐ)。参看“枳”。" />
+		</definition>
+	</char>
+	<char hz="缑" py="gōu" />
+	<char hz="韝" py="gōu" trans="1" />
+	<char hz="篝" py="gōu" />
+	<char hz="鞲" py="gōu">
+		<phrase hz="鞲鞴" py="gōu,bèi" />
+	</char>
+	<char hz="芶" py="gǒu" />
+	<char hz="苟" py="gǒu" />
+	<char hz="岣" py="gǒu">
+		<phrase hz="岣嵝" py="gǒu,lǒu" />
+	</char>
+	<char hz="狗" py="gǒu" />
+	<char hz="枸" py="gǒu" multi="gōu,jǔ">
+		<phrase hz="枸杞" py="gǒu,qǐ" />
+		<definition id="二">
+			<item text="[枸杞](-qǐ)落叶灌木，夏天开淡紫色花。果实红色，叫枸杞子，可入药。" />
+		</definition>
+	</char>
+	<char hz="笱" py="gǒu" />
+	<char hz="勾" py="gòu" multi="gōu">
+		<phrase hz="勾当" py="gòu,dang" />
+		<definition id="二">
+			<item id="1" text="勾当(dang)，事情（多指坏事）。" />
+			<item id="2" text="同“够”。" />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="构" py="gòu" />
+	<char hz="购" py="gòu" />
+	<char hz="诟" py="gòu" />
+	<char hz="垢" py="gòu" />
+	<char hz="够" py="gòu">
+		<definition>
+			<item id="1" text="足，满足一定的限度：~数. ~用. ~多. (转)腻，厌烦：这个话我真听~了." />
+			<item id="2" text="达到，及：~得着. ~格." />
+		</definition>
+	</char>
+	<char hz="遘" py="gòu" />
+	<char hz="媾" py="gòu" />
+	<char hz="觏" py="gòu" />
+	<char hz="彀" py="gòu">
+		<phrase hz="彀中" py="gòu,zhōng" />
+	</char>
+</pinyin>

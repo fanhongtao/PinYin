@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="租" py="zū" />
+	<char hz="菹" py="zū" />
+	<char hz="足" py="zú" />
+	<char hz="卒" py="zú" multi="cù" main="1">
+		<definition id="一">
+			<item id="1" text="古时指兵：小~. 士~." />
+			<item id="2" text="旧称差役：走~. 狱~." />
+			<item id="3" text="死亡：生~年月." />
+			<item id="4" text="完毕，终了：~业. (引)究竟，终于：~胜敌军." />
+		</definition>
+	</char>
+	<char hz="崒" py="zú" />
+	<char hz="族" py="zú" />
+	<char hz="䃚" py="zú" />
+	<char hz="镞" py="zú" />
+	<char hz="诅" py="zǔ" />
+	<char hz="阻" py="zǔ" />
+	<char hz="组" py="zǔ" />
+	<char hz="俎" py="zǔ" />
+	<char hz="祖" py="zǔ" />
+</pinyin>

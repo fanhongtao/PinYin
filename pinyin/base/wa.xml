@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挖" py="wā">
+		<phrase hz="挖苦" py="wā,ku" />
+	</char>
+	<char hz="哇" py="wā" multi="wa" main="1">
+		<definition id="一">
+			<item text="拟声词：哭得~~的. ~的一声吐了一地." />
+		</definition>
+	</char>
+	<char hz="洼" py="wā" />
+	<char hz="蛙" py="wā" />
+	<char hz="娲" py="wā" />
+	<char hz="娃" py="wá" />
+	<char hz="瓦" py="wǎ" multi="wà" main="1">
+		<definition id="一">
+			<item id="1" text="用陶土烧成的：~盆. ~器." />
+			<item id="2" text="用陶土烧成的覆盖房顶的东西：~房. [瓦解](喻)溃散：土崩~~." />
+			<item id="3" text="(外)功率单位名瓦特的简称，符号W。" />
+		</definition>
+	</char>
+	<char hz="佤" py="wǎ" />
+	<char hz="瓦" py="wà" multi="wǎ">
+		<phrase hz="瓦瓦" py="wà,wǎ" />
+		<phrase hz="瓦刀" py="wà,dāo" />
+		<definition id="二">
+			<item text="盖（瓦）：~瓦(wǎ). [瓦刀]瓦工用来砍断砖瓦并涂抹泥灰的工具。" />
+		</definition>
+	</char>
+	<char hz="袜" py="wà" />
+	<char hz="腽" py="wà">
+		<phrase hz="腽肭兽" py="wà,nà,shòu" />
+	</char>
+	<char hz="哇" py="wa" multi="wā">
+		<phrase hz="别哭哇" py="bié,kū,wa" />
+		<phrase hz="多好哇" py="duō,hǎo,wa" />
+		<phrase hz="快走哇" py="kuài,zǒu,wa" />
+		<definition id="二">
+			<item text="助词（前面紧挨着的音一定是 u、ao、ou等结尾的）：你别哭~. 多好~. 快走~." />
+		</definition>
+	</char>
+</pinyin>

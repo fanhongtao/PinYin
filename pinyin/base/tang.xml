@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="汤" py="tāng" multi="shāng" main="1">
+		<definition id="一">
+			<item id="1" text="热水：赴~蹈火." />
+			<item id="2" text="煮东西的汁液：米~. ~药." />
+			<item id="3" text="烹调后汁特别多的副食：白菜~." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="铴" py="tāng" />
+	<char hz="耥" py="tāng" info="(又)tǎng">
+		<phrase hz="耥耙" py="tāng,bà" />
+	</char>
+	<char hz="趟" py="tāng" multi="tàng">
+		<phrase hz="趟地" py="tāng,dì" />
+		<definition id="一">
+			<item id="1" text="从有水、草的地方走过去：他~着水过去了." />
+			<item id="2" text="用犁、锄等把土翻开，把草锄去：~地." />
+		</definition>
+	</char>
+	<char hz="嘡" py="tāng" />
+	<char hz="镗" py="tāng" multi="táng" main="1">
+		<definition id="一">
+			<item text="拟声词：~的一声，锣响了." />
+		</definition>
+	</char>
+	<char hz="羰" py="tāng" />
+	<char hz="唐" py="táng" />
+	<char hz="鄌" py="táng" />
+	<char hz="塘" py="táng" />
+	<char hz="搪" py="táng">
+		<phrase hz="搪塞" py="táng,sè" />
+		<definition>
+			<item id="1" text="挡，抵拒：~饥." />
+			<item id="2" text="支吾：~差事（敷衍了事）. [搪塞](-sè)敷衍塞(sè)责：做事情要认真，不要~~." />
+			<item id="3" text="用泥土或涂料抺上或涂上：~炉子. [搪瓷]用石英、长石等制成的一种像釉子的物质涂在金属器物上，经过烧制形成的薄层，可防锈又可作装饰。" />
+			<item id="4" text="加工切削机器零件的钻孔：~床." />
+		</definition>
+	</char>
+	<char hz="溏" py="táng" />
+	<char hz="瑭" py="táng" />
+	<char hz="螗" py="táng" />
+	<char hz="糖" py="táng" />
+	<char hz="赯" py="táng" />
+	<char hz="堂" py="táng" />
+	<char hz="棠" py="táng" />
+	<char hz="樘" py="táng" />
+	<char hz="膛" py="táng" />
+	<char hz="镗" py="táng" multi="tāng">
+		<definition id="二">
+			<item text="同“搪(4)”。" />
+		</definition>
+	</char>
+	<char hz="螳" py="táng">
+		<phrase hz="螳臂当车" py="táng,bì,dāng,chē" />
+	</char>
+	<char hz="帑" py="tǎng" />
+	<char hz="倘" py="tǎng" multi="cháng" main="1">
+		<definition id="一">
+			<item text="连词，假使，如果：~若. ~能努力，定可成功." />
+		</definition>
+	</char>
+	<char hz="淌" py="tǎng" />
+	<!-- <char hz="惝" py="tǎng" info="(又)chǎng" /> -->
+	<!-- <char hz="耥" py="tǎng" info="(又)tāng"/> -->
+	<char hz="躺" py="tǎng" />
+	<char hz="傥" py="tǎng" />
+	<char hz="镋" py="tǎng" />
+	<char hz="烫" py="tàng" />
+	<char hz="趟" py="tàng" multi="tāng" main="1">
+		<definition id="二">
+			<item text="量词。 1.来往的次数：他来了一~. 这~火车去上海. 2.（-儿）用于成行的东西：屋里摆着两~桌子. 用线把这件衣服缝上一~." />
+		</definition>
+	</char>
+</pinyin>

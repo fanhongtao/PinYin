@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="凶" py="xiōng" />
+	<char hz="匈" py="xiōng" />
+	<char hz="讻" py="xiōng" />
+	<char hz="汹" py="xiōng">
+		<phrase hz="汹涌" py="xiōng,yǒng" />
+	</char>
+	<char hz="胸" py="xiōng" />
+	<char hz="兄" py="xiōng" />
+	<char hz="芎" py="xiōng">
+		<phrase hz="芎" py="xiōng,qióng" />
+	</char>
+	<char hz="雄" py="xióng" />
+	<char hz="熊" py="xióng" />
+	<char hz="诇" py="xiòng" />
+	<char hz="夐" py="xiòng" />
+</pinyin>

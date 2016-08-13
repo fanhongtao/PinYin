@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蒿" py="hāo" />
+	<char hz="嚆" py="hāo" />
+	<char hz="薅" py="hāo" />
+	<char hz="号" py="háo" multi="hào">
+		<phrase hz="呼号" py="hū,háo" />
+		<phrase hz="号叫" py="háo,jiào" />
+		<phrase hz="号啕" py="háo,táo" />
+		<phrase hz="号咷" py="háo,táo" />
+		<definition id="二">
+			<item id="1" text="大声呼喊（(连)呼-）。 [号叫]大声叫。" />
+			<item id="2" text="大声哭：悲~. [号啕][号咷](-táo)大声哭喊。" />
+		</definition>
+	</char>
+	<char hz="蚝" py="háo" />
+	<char hz="毫" py="háo" />
+	<char hz="嗥" py="háo" />
+	<char hz="貉" py="háo" multi="hé">
+		<phrase hz="貉子" py="háo,zi" />
+		<phrase hz="貉绒" py="háo,róng" />
+		<definition id="二">
+			<item text="同“貉(一)”，用于“貉子、貉绒”。" />
+		</definition>
+	</char>
+	<char hz="豪" py="háo" />
+	<char hz="壕" py="háo" />
+	<char hz="嚎" py="háo" />
+	<char hz="濠" py="háo" />
+	<char hz="好" py="hǎo" multi="hào" main="1">
+		<definition id="一">
+			<item id="1" text="优点多的或使人满意的，跟“坏”相对：~人. ~汉. ~马. ~东西. ~事. (引)指生活幸福、身体健康或疾病消失：您~哇！他的病完全~了. [好手]擅长某种技艺的人，能力强的人。" />
+			<item id="2" text="友爱，和睦：相~. 我跟他~. 友~." />
+			<item id="3" text="易于，便于：这件事情~办. 请你闪开点，我~过去." />
+			<item id="4" text="完，完成：我们的计划已经订~了. 我穿~衣服就去. 预备~了没有？" />
+			<item id="5" text="副词，很，甚：~冷. ~快. ~大的风. [好不]副词，很：~~高兴." />
+			<item id="6" text="表示赞许、应允或结束等口气的词：~，你真不愧是劳动英雄！ ~，就照你的意见做吧！ ~，不要再讨论了！" />
+		</definition>
+	</char>
+	<char hz="郝" py="hǎo" />
+	<char hz="号" py="hào" multi="háo" main="1">
+		<phrase hz="号召" py="hào,zhào" />
+		<definition id="一">
+			<item id="1" text="名称，国~. 别~. 牌~. (转)商店：本~. 分~." />
+			<item id="2" text="记号，标志：暗~. 信~灯. 做记~." />
+			<item id="3" text="表示次第或等级：挂~. 第一~. 大~. 中~. [号码]代表事物次第的数目字。 [号外]报社报道重要消息临时印发的报纸。" />
+			<item id="4" text="指某种人：病~. 伤~." />
+			<item id="5" text="量词，用于人数：全队有几十~人." />
+			<item id="6" text="标上记号：把这件东西~上." />
+			<item id="7" text="号令，命令：发~施令. [号召](-zhào)召唤（群众共同去做某一件事）：坚决响应党的~~. [口号]号召群众或表示纪念等的语句。" />
+			<item id="8" text="军队或乐队里所用的西式喇叭：吹~. ~兵." />
+			<item id="9" text="用号吹出的表示一定意义的声音：熄灯~. 冲锋~." />
+		</definition>
+	</char>
+	<char hz="好" py="hào" multi="hǎo">
+		<phrase hz="爱好" py="ài,hào" />
+		<phrase hz="好学" py="hào,xué" />
+		<phrase hz="好哭" py="hào,kū" />
+		<definition id="二">
+			<item text="爱，喜欢（(连)爱-）：-学. ~劳动. 这孩子不~哭." />
+		</definition>
+	</char>
+	<char hz="昊" py="hào" />
+	<char hz="淏" py="hào" />
+	<char hz="耗" py="hào">
+		<phrase hz="噩耗" py="è,hào" />
+	</char>
+	<char hz="浩" py="hào" />
+	<char hz="皓" py="hào" />
+	<char hz="鄗" py="hào" />
+	<char hz="滈" py="hào" />
+	<char hz="镐" py="hào" multi="gǎo">
+		<definition id="二">
+			<item text="西周的国都，在今陕西长安西北。" />
+		</definition>
+	</char>
+	<char hz="暤" py="hào" />
+	<char hz="颢" py="hào" />
+	<char hz="灏" py="hào" />
+</pinyin>

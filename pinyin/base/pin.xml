@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拚" py="pīn" multi="pàn" main="1">
+		<definition id="二">
+			<item text="同“拼”。" />
+		</definition>
+	</char>
+	<char hz="拼" py="pīn">
+		<definition>
+			<item id="1" text="连合，凑合（(连)-凑）：~音. 东~西凑. 把两块板子~起来." />
+			<item id="2" text="不顾一切地干，豁(huō)出去：~命. ~到底." />
+		</definition>
+	</char>
+	<char hz="姘" py="pīn" />
+	<char hz="玭" py="pín" />
+	<char hz="贫" py="pín" />
+	<char hz="频" py="pín">
+		<phrase hz="频数" py="pín,shuò" />
+		<phrase hz="频率" py="pín,lǜ" />
+	</char>
+	<char hz="蘋" py="pín" />
+	<char hz="颦" py="pín" />
+	<char hz="嫔" py="pín" />
+	<char hz="品" py="pǐn" />
+	<char hz="榀" py="pǐn" />
+	<char hz="牝" py="pìn" />
+	<char hz="聘" py="pìn" />
+</pinyin>

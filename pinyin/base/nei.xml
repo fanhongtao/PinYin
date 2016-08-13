@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哪" py="něi" multi="nǎ,na,né">
+		<phrase hz="哪个" py="něi,gè" />
+		<phrase hz="哪些" py="něi,xiē" />
+		<phrase hz="哪年" py="něi,nián" />
+		<phrase hz="哪几年" py="něi,jǐ,nián" />
+		<definition id="二">
+			<item text="“哪”(nǎ)和“一”的合音，但指数量时不限于一：~个. ~些. ~年. ~几年." />
+		</definition>
+	</char>
+	<char hz="馁" py="nèi" />
+	<char hz="内" py="nèi">
+		<phrase hz="内行" py="nèi,háng" />
+	</char>
+	<char hz="那" py="nèi" multi="nā,nà">
+		<definition id="二">
+			<item text="“那”(nà)和“一”的合音，但指数量时不限于一：~个. ~些. ~年. ~三年." />
+		</definition>
+	</char>
+</pinyin>

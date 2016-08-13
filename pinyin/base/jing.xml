@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="茎" py="jīng" />
+	<char hz="泾" py="jīng" />
+	<char hz="经" py="jīng" />
+	<char hz="京" py="jīng" />
+	<char hz="猄" py="jīng" />
+	<char hz="惊" py="jīng" />
+	<char hz="鲸" py="jīng" />
+	<char hz="荆" py="jīng">
+		<phrase hz="荆棘" py="jīng,jí" />
+	</char>
+	<char hz="菁" py="jīng" />
+	<char hz="睛" py="jīng" />
+	<char hz="腈" py="jīng" />
+	<char hz="" py="jīng" />
+	<char hz="精" py="jīng" />
+	<char hz="鼱" py="jīng" />
+	<char hz="旌" py="jīng" />
+	<char hz="晶" py="jīng" />
+	<char hz="粳" py="jīng" />
+	<char hz="兢" py="jīng" />
+	<char hz="井" py="jǐng" />
+	<char hz="阱" py="jǐng" />
+	<char hz="肼" py="jǐng" />
+	<char hz="刭" py="jǐng" />
+	<char hz="颈" py="jǐng" multi="gěng" main="1">
+		<definition id="一">
+			<item text="脖子，头和躯干相连接的部分。" />
+		</definition>
+	</char>
+	<char hz="景" py="jǐng" />
+	<char hz="憬" py="jǐng" />
+	<char hz="璟" py="jǐng" />
+	<char hz="儆" py="jǐng">
+		<phrase hz="惩一儆百" py="chéng,yī,jǐng,bǎi" />
+	</char>
+	<char hz="警" py="jǐng" />
+	<char hz="劲" py="jìng" multi="jìn">
+		<phrase hz="劲旅" py="jìng,lǚ" />
+		<phrase hz="劲敌" py="jìng,dí" />
+		<phrase hz="刚劲" py="gāng,jìng" />
+		<phrase hz="疾风知劲草" py="jí,fēng,zhī,jìng,cǎo" />
+		<definition id="二">
+			<item text="坚强有力：~旅. ~敌. 刚~. 疾风知~草." />
+		</definition>
+	</char>
+	<char hz="径" py="jìng" />
+	<char hz="胫" py="jìng" />
+	<char hz="痉" py="jìng">
+		<phrase hz="痉挛" py="jìng,luán" />
+	</char>
+	<char hz="净" py="jìng" />
+	<char hz="静" py="jìng">
+		<phrase hz="更深夜静" py="gēng,shēn,yè,jìng" />
+	</char>
+	<char hz="倞" py="jìng" multi="liàng">
+		<definition id="一">
+			<item text="强，强劲。" />
+		</definition>
+	</char>
+	<char hz="竞" py="jìng" />
+	<char hz="竟" py="jìng" />
+	<char hz="境" py="jìng" />
+	<char hz="獍" py="jìng" />
+	<char hz="镜" py="jìng" />
+	<char hz="婧" py="jìng" />
+	<char hz="靓" py="jìng" multi="liàng" main="1">
+		<definition id="一">
+			<item text="妆饰，打扮。" />
+		</definition>
+	</char>
+	<char hz="靖" py="jìng" />
+	<char hz="敬" py="jìng" />
+</pinyin>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抛" py="pāo" />
+	<char hz="泡" py="pāo" multi="pào">
+		<definition id="二">
+			<item id="1" text="（-儿）鼓起而松软的东西：豆腐~儿." />
+			<item id="2" text="虚而松软，不坚硬：这块木料发~." />
+			<item id="3" text="同“脬(2)”。" />
+		</definition>
+	</char>
+	<char hz="脬" py="pāo">
+		<phrase hz="尿脬" py="suī,pāo" />
+		<definition>
+			<item id="1" text="尿(suī)脬，膀胱(pángguāng)。" />
+			<item id="2" text="量词，用于屎尿：一~屎." />
+		</definition>
+	</char>
+	<char hz="刨" py="páo" multi="bào" info="Word主音">
+		<phrase hz="刨花生" py="páo,huā,shēng" />
+		<phrase hz="刨去" py="páo,qù" />
+		<phrase hz="刨除" py="páo,chú" />
+		<definition id="一">
+			<item id="1" text="挖掘：~花生. ~坑." />
+			<item id="2" text="减，除去：~去他还有俩人. 十五天~去五天，只剩下十天了." />
+		</definition>
+	</char>
+	<char hz="咆" py="páo">
+		<phrase hz="咆哮" py="páo,xiào" />
+	</char>
+	<char hz="狍" py="páo" />
+	<char hz="庖" py="páo" />
+	<char hz="炮" py="páo" multi="bāo,pào">
+		<phrase hz="炮烙" py="páo,luò" />
+		<phrase hz="炮格" py="páo,gé" />
+		<phrase hz="炮制" py="páo,zhì" />
+		<definition id="一">
+			<item text="[炮烙](-luò，旧读-gé)[炮格]古代的一种酷刑。 [炮制]用烘、炒等方法把原料加工制成中药：如法~~（喻照样做）." />
+		</definition>
+	</char>
+	<char hz="袍" py="páo" />
+	<char hz="匏" py="páo" />
+	<char hz="跑" py="páo" multi="pǎo">
+		<phrase hz="跑槽" py="páo,cáo" />
+		<phrase hz="虎跑泉" py="hǔ,pǎo,quán" />
+		<definition id="二">
+			<item text="走兽用脚刨地：~槽（牲口刨槽根）. 虎~泉（在杭州）." />
+		</definition>
+	</char>
+	<char hz="跑" py="pǎo" multi="páo" main="1">
+		<definition id="一">
+			<item id="1" text="奔，两只脚或四条腿交互向前跃进：赛~. ~步. (引)很快地移动：汽车在公路上飞~." />
+			<item id="2" text="逃跑，逃走：鸟儿关在笼里~不了. (喻)漏出：~电. ~油." />
+			<item id="3" text="为某种事务而奔走：~外的. ~买卖. ~材料." />
+		</definition>
+	</char>
+	<char hz="奅" py="pào" />
+	<char hz="泡" py="pào" multi="pāo" main="1">
+		<definition id="一">
+			<item id="1" text="（-儿）气体在液体内使液体鼓起来形成的球状或半球状体（(连)-沫）：冒~儿." />
+			<item id="2" text="（-儿）像泡一样的东西：脚上起了一个~. 电灯~儿." />
+			<item id="3" text="用液体浸物品：~茶. ~饭." />
+		</definition>
+	</char>
+	<char hz="炮" py="pào" multi="bāo,páo" main="1">
+		<definition id="三">
+			<item id="1" text="武器的一类，有迫击炮、高射炮、火箭炮等。" />
+			<item id="2" text="爆竹：鞭~. ~仗(zhang)." />
+		</definition>
+	</char>
+	<char hz="疱" py="pào" />
+</pinyin>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="军" py="jūn" />
+	<char hz="皲" py="jūn">
+		<definition>
+			<item text="皮肤因寒冷或干燥而破裂。也作“龟”(jūn)。" />
+		</definition>
+	</char>
+	<char hz="均" py="jūn" />
+	<char hz="钧" py="jūn" />
+	<char hz="筠" py="jūn" multi="yún" info="Word主音">
+		<phrase hz="筠连" py="jūn,lián" />
+		<definition id="二">
+			<item text="[筠连]地名，在四川省。" />
+		</definition>
+	</char>
+	<char hz="龟" py="jūn" multi="guī,qiū">
+		<phrase hz="龟裂" py="jūn,liè" />
+		<definition id="二">
+			<item text="同“皲”。" />
+		</definition>
+	</char>
+	<char hz="君" py="jūn" />
+	<char hz="莙" py="jūn">
+		<phrase hz="莙荙菜" py="jūn,dá,cài" />
+	</char>
+	<char hz="鲪" py="jūn" />
+	<char hz="菌" py="jūn" multi="jùn" main="1">
+		<definition id="二">
+			<item text="低等生物名。 1.真菌，不开花，没有茎和叶子，不含叶绿素，不能自己制造养料，营寄生生活，种类很多。 2.细菌，一大类单细胞的微生物，特指能使人生病的病原细菌。" />
+		</definition>
+	</char>
+	<char hz="麇" py="jūn" multi="qún">
+		<definition id="一">
+			<item text="古书里指獐子。" />
+		</definition>
+	</char>
+	<char hz="俊" py="jùn">
+		<definition>
+			<item id="1" text="才智过人的：~杰. ~士." />
+			<item id="2" text="容貌美丽：那个小姑娘真~." />
+		</definition>
+	</char>
+	<char hz="峻" py="jùn" />
+	<char hz="馂" py="jùn" />
+	<char hz="浚" py="jùn" multi="xùn" main="1">
+		<definition id="一">
+			<item text="疏通，挖深：~井. ~河." />
+		</definition>
+	</char>
+	<char hz="骏" py="jùn" />
+	<char hz="焌" py="jùn" multi="qū" info="Word主音">
+		<definition id="二">
+			<item text="用火烧。" />
+		</definition>
+	</char>
+	<char hz="畯" py="jùn" />
+	<char hz="竣" py="jùn" />
+	<char hz="郡" py="jùn" />
+	<char hz="捃" py="jùn">
+		<phrase hz="捃摭" py="jùn,zhí" />
+	</char>
+	<char hz="珺" py="jùn" />
+	<char hz="隽" py="jùn" multi="juàn" main="1">
+		<definition id="二">
+			<item text="同“俊(1)”。" />
+		</definition>
+	</char>
+	<char hz="菌" py="jùn" multi="jūn">
+		<definition id="一">
+			<item text="就是蕈(xùn)。" />
+		</definition>
+	</char>
+</pinyin>

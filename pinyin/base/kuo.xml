@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="扩" py="kuò" />
+	<char hz="括" py="kuò" multi="guā" main="1">
+		<definition id="一">
+			<item id="1" text="扎，束：~发(fà). ~约肌（在肛门、尿道等靠近开口的地方，能收缩、扩张的肌肉）." />
+			<item id="2" text="包容（(连)包-）：总~." />
+		</definition>
+	</char>
+	<char hz="适" py="kuò" multi="shì">
+		<definition id="二">
+			<item text="古同“miss: 辶氏口”。" />
+		</definition>
+	</char>
+	<char hz="蛞" py="kuò">
+		<phrase hz="蛞蝼" py="kuò,lóu" />
+		<phrase hz="蛞蝓" py="kuò,yú" />
+	</char>
+	<char hz="miss: 辶氏口" py="kuò" info="special">
+		<definition>
+			<item text="疾速。多用于人名。" />
+		</definition>
+	</char>
+	<char hz="阔" py="kuò" />
+	<char hz="廓" py="kuò" />
+</pinyin>

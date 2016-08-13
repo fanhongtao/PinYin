@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="该" py="gāi" />
+	<char hz="陔" py="gāi" />
+	<char hz="垓" py="gāi" />
+	<char hz="荄" py="gāi" />
+	<char hz="赅" py="gāi" />
+	<char hz="改" py="gǎi" />
+	<char hz="丐" py="gài" />
+	<char hz="钙" py="gài" />
+	<char hz="芥" py="gài" multi="jiè" info="Word主音">
+		<phrase hz="芥蓝菜" py="gài,lán,cài" />
+		<definition id="二">
+			<item text="芥菜（也作“盖菜”），是芥(jiè)菜的变种。叶子大，表面多皱纹，是普通蔬菜。 [芥蓝菜]一种不结球的甘蓝，叶柄长，叶片短而宽，花白色或黄色。嫩叶和菜薹是普通蔬菜。" />
+		</definition>
+	</char>
+	<char hz="盖" py="gài" multi="gě" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）器物上部有遮蔽作用的东西：锅~. 瓶~." />
+			<item id="2" text="伞：华~（古代车上像伞的篷子）." />
+			<item id="3" text="由上向下覆（(连)覆~）：~上锅. ~被. (转)1.压倒：~世无双. 2.用印打上：~章. ~印." />
+			<item id="4" text="建造：~楼. ~房子." />
+			<item id="5" text="动物的甲壳：螃蟹~." />
+			<item id="6" text="文言虚词。1.发语词：~有年矣. 2.表示不能确信，大概如此：~近之矣. 3.连词，表原因：有所不知，~未学也." />
+			<item id="7" text="姓。" />
+			<item text="〈古〉又同“盍”(hé)。" />
+		</definition>
+	</char>
+	<char hz="溉" py="gài" />
+	<char hz="概" py="gài" />
+	<char hz="戤" py="gài" />
+</pinyin>

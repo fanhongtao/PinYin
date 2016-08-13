@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="忪" py="sōng" multi="zhōng" main="1">
+		<phrase hz="惺忪" py="xīng,sōng" />
+		<definition id="一">
+			<item text="见“惺”字条“惺忪”(xīng-)。" />
+		</definition>
+	</char>
+	<char hz="松" py="sōng" />
+	<char hz="凇" py="sōng" />
+	<char hz="菘" py="sōng" />
+	<char hz="淞" py="sōng" />
+	<char hz="嵩" py="sōng" />
+	<char hz="" py="sǒng" />
+	<char hz="怂" py="sǒng">
+		<phrase hz="怂恿" py="sǒng,yǒng" />
+	</char>
+	<char hz="耸" py="sǒng" />
+	<char hz="悚" py="sǒng" />
+	<char hz="竦" py="sǒng" />
+	<char hz="讼" py="sòng" />
+	<char hz="颂" py="sòng" />
+	<char hz="宋" py="sòng" />
+	<char hz="送" py="sòng" />
+	<char hz="诵" py="sòng" />
+</pinyin>

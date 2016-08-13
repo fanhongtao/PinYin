@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吮" py="shǔn" />
+	<char hz="楯" py="shǔn" multi="dùn">
+		<definition id="一">
+			<item text="阑干。" />
+		</definition>
+	</char>
+	<char hz="顺" py="shùn" />
+	<char hz="瞤" py="shùn" trans="1" />
+	<char hz="舜" py="shùn" />
+	<char hz="瞬" py="shùn" />
+</pinyin>

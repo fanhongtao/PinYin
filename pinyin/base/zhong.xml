@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="中" py="zhōng" multi="zhòng" main="1">
+		<definition id="一">
+			<item id="1" text="和四方、上下或两端距离同等的地位：~心. 路~. [中人]为双方介绍买卖、调解纠纷等并做见证的人。 [中央]1.中心的地方。 2.政党、国家等的最高领导机构：党~~. [人中]人的上唇正中凹下的地方。" />
+			<item id="2" text="在一定的范围内，里面：空~. 房~. 水~." />
+			<item id="3" text="性质、等级在两端之间的：~等. ~学. (转)不偏不倚：~庸. 适~. [中子]构成原子核的一种不带电荷的微粒。" />
+			<item id="4" text="用在动词后，表示动作正在进行：在研究~. 在印刷~. 前进~. 发展~." />
+			<item id="5" text="指中国：古今~外. ~文." />
+			<item id="6" text="适于，合于：~看. ~听. [中用]有用，有能力。" />
+			<item id="7" text="〈方〉成，行，好：~不？~." />
+		</definition>
+	</char>
+	<char hz="忠" py="zhōng" />
+	<char hz="盅" py="zhōng" />
+	<char hz="钟" py="zhōng" />
+	<char hz="衷" py="zhōng" />
+	<char hz="忪" py="zhōng" multi="sōng" info="Word主音">
+		<phrase hz="怔忪" py="zhēng,zhōng" />
+		<definition id="二">
+			<item text="[怔忪](zhēng-)惊惧。" />
+		</definition>
+	</char>
+	<char hz="终" py="zhōng" />
+	<char hz="螽" py="zhōng" />
+	<char hz="肿" py="zhǒng" />
+	<char hz="种" py="zhǒng" multi="chóng,zhòng" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）植物果实中能长(zhǎng)成新植物的部分：选~. 撒~. 泛指生物传代的东西：配~. 优良品~. [有种]有胆量或有骨气。" />
+			<item id="2" text="人种，具有共同起源和共同遗传特征的人群：黄~. 白~. ~族." />
+			<item id="3" text="事物的类别：~类. 工~. 军~. 剧~. 语~." />
+			<item id="4" text="生物的分类单位之一，在“属”之下，其下还可分出“亚种”、“变种”。" />
+			<item id="5" text="量词，表示种类，用于人和任何事物：两~面料. 各~东西." />
+		</definition>
+	</char>
+	<char hz="冢" py="zhǒng" />
+	<char hz="踵" py="zhǒng" />
+	<char hz="中" py="zhòng" multi="zhōng">
+		<phrase hz="中肯" py="zhòng,kěn" />
+		<phrase hz="中要害" py="zhòng,yào,hài" />
+		<phrase hz="中毒" py="zhòng,dú" />
+		<phrase hz="中暑" py="zhòng,shǔ" />
+		<phrase hz="中弹" py="zhòng,dàn" />
+		<definition id="二">
+			<item id="1" text="正对上，恰好合上：~的(dì). ~肯. ~要害." />
+			<item id="2" text="感受，受到：~毒. ~暑. ~弹(dàn)." />
+		</definition>
+	</char>
+	<char hz="仲" py="zhòng" />
+	<char hz="种" py="zhòng" multi="chóng,zhǒng">
+		<phrase hz="种庄稼" py="zhòng,zhuāng,jia" />
+		<phrase hz="种瓜得瓜" py="zhòng,guā,dé,guā" />
+		<phrase hz="种豆得豆" py="zhòng,dòu,dé,dòu" />
+		<definition id="二">
+			<item text="种植，把种子或幼苗等埋在泥土里使生长：~庄稼. ~瓜得瓜，~豆得豆." />
+		</definition>
+	</char>
+	<char hz="众" py="zhòng" />
+	<char hz="重" py="zhòng" multi="chóng" main="1">
+		<definition id="一">
+			<item id="1" text="分量较大，跟“轻”相对：铁很~. ~于泰山. [重工业]主要制造生产资料的工业，如冶金、电力、机械制造等工业。 [重力]物理学上称地球对物体的吸引力。也叫“地心吸引力”。 [重心]1.物体重量的集中作用点，不论物体的位置如何改变，物体的各部都围绕着这一点保持平衡。 2.事物的主要部分。" />
+			<item id="2" text="程度深：色~. ~病. ~伤." />
+			<item id="3" text="价格高：~金收买." />
+			<item id="4" text="数量多：眉毛~. 工作很~." />
+			<item id="5" text="主要，要紧：~镇. 军事~地. ~任." />
+			<item id="6" text="认为重要：~视. ~男轻女是错误的. (引)敬重，尊重，尊敬：人皆~之." />
+			<item id="7" text="言行不轻率：慎~." />
+		</definition>
+	</char>
+</pinyin>

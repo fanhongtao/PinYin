@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刺" py="cī" multi="cì">
+		<phrase hz="刺棱" py="cī,lēng" />
+		<phrase hz="刺溜" py="cī,liū" />
+		<definition id="二">
+			<item text="拟声词：~棱(-lēng)（动作迅速的声音）. ~溜(-liū)（脚底下滑动的声音）. ~~地冒火星儿." />
+		</definition>
+	</char>
+	<char hz="差" py="cī" multi="chā,chà,chāi">
+		<phrase hz="参差" py="cēn,cī" />
+		<definition id="四">
+			<item text="见“参”字条“参差”(cēn-)。" />
+		</definition>
+	</char>
+	<char hz="疵" py="cī" />
+	<char hz="跐" py="cī" multi="cǐ" main="1">
+		<definition id="二">
+			<item text="脚下滑动：登~了（脚没有踏稳）." />
+		</definition>
+	</char>
+	<char hz="词" py="cí" />
+	<char hz="祠" py="cí" />
+	<char hz="茈" py="cí" multi="zǐ">
+		<phrase hz="凫茈" py="fú,cí" />
+		<definition id="一">
+			<item text="[凫茈](fú-)古书上指荸荠。" />
+		</definition>
+	</char>
+	<char hz="雌" py="cí" />
+	<char hz="茨" py="cí" />
+	<char hz="瓷" py="cí" />
+	<char hz="兹" py="cí" multi="zī">
+		<phrase hz="龟兹" py="qiū,cí" />
+		<definition id="二">
+			<item text="见“龟”字条“龟兹”(qiū-)。" />
+		</definition>
+	</char>
+	<char hz="甆" py="cí" />
+	<char hz="慈" py="cí" />
+	<char hz="磁" py="cí" />
+	<char hz="鹚" py="cí" />
+	<char hz="糍" py="cí" />
+	<char hz="辞" py="cí" />
+	<char hz="此" py="cǐ" />
+	<char hz="泚" py="cǐ" />
+	<char hz="跐" py="cǐ" multi="cī" info="Word主音">
+		<phrase hz="脚跐两只船" py="jiǎo,cǐ,liǎng,zhī,chuán" />
+		<definition id="一">
+			<item text="踩，踏：脚~两只船." />
+		</definition>
+	</char>
+	<char hz="次" py="cì" />
+	<char hz="佽" py="cì" />
+	<char hz="伺" py="cì" multi="sì" info="Word主音">
+		<phrase hz="伺候" py="cì,hou" />
+		<definition id="二">
+			<item text="同“伺(一)”，用于“伺候”。 [伺候](-hou)1.旧指侍奉或受役使。2.照料：~~病人." />
+		</definition>
+	</char>
+	<char hz="刺" py="cì" multi="cī" main="1">
+		<definition id="一">
+			<item id="1" text="用有尖的东西穿进或杀伤：~绣. ~杀. [刺激]1.光、声、热等引起生物体活动或变化的作用。(引)一切使事物起变化的作用。2.精神上受到挫折、打击：这件事对他~~很大." />
+			<item id="2" text="暗杀：~客. 被~." />
+			<item id="3" text="打听，侦探：~探." />
+			<item id="4" text="用尖刻的话指摘、嘲笑：讽~." />
+			<item id="5" text="尖锐像针的东西：鱼~. ~猬. ~槐." />
+			<item id="6" text="名片：名~. [刺刺]说话没完没了：~~不休." />
+		</definition>
+	</char>
+	<char hz="赐" py="cì">
+		<phrase hz="赐教" py="cì,jiào" />
+	</char>
+</pinyin>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="捏" py="niē" />
+	<char hz="苶" py="nié" />
+	<char hz="乜" py="niè" multi="miē" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="陧" py="niè" />
+	<char hz="涅" py="niè" />
+	<char hz="聂" py="niè" />
+	<char hz="嗫" py="niè">
+		<phrase hz="嗫嚅" py="niè,rú" />
+	</char>
+	<char hz="镊" py="niè" />
+	<char hz="颞" py="niè">
+		<phrase hz="颞颥" py="niè,rú" />
+	</char>
+	<char hz="蹑" py="niè" />
+	<char hz="臬" py="niè" />
+	<char hz="嵲" py="niè" />
+	<char hz="镍" py="niè" />
+	<char hz="啮" py="niè" />
+	<char hz="孽" py="niè" />
+	<char hz="蘖" py="niè" />
+	<char hz="糵" py="niè" />
+</pinyin>

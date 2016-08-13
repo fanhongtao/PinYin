@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喷" py="pēn" multi="pèn" main="1">
+		<phrase hz="喷嚏" py="pēn,tì" />
+		<phrase hz="嚏喷" py="tì,pen" />
+		<definition id="一">
+			<item text="散着射出：~壶. ~泉. ~气式飞机. 火山~火. [喷嚏](-tì)嚏喷(tìpen)。参看“嚏”。" />
+		</definition>
+	</char>
+	<char hz="盆" py="pén" />
+	<char hz="湓" py="pén" />
+	<char hz="喷" py="pèn" multi="pēn">
+		<phrase hz="香喷喷" py="xiāng,pèn,pèn" />
+		<phrase hz="喷儿" py="pèn,er" />
+		<definition id="二">
+			<item id="1" text="香气扑鼻：~鼻儿香. 香~~." />
+			<item id="2" text="（-儿）蔬菜、鱼虾、瓜果等上市正盛的时期：西瓜~儿. 对虾正在~儿上." />
+			<item id="3" text="（-儿）开花结实的次数或成熟收割的次数：头~棉花. 二~棉花. 麦子开头~花儿了. 绿豆结二~角了." />
+		</definition>
+	</char>
+</pinyin>

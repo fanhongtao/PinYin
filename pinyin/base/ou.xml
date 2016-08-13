@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="区" py="ōu" multi="qū">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="讴" py="ōu" />
+	<char hz="沤" py="ōu" multi="òu">
+		<phrase hz="浮沤" py="fú,ōu" />
+		<definition id="二">
+			<item text="水泡：浮~." />
+		</definition>
+	</char>
+	<char hz="瓯" py="ōu" />
+	<char hz="欧" py="ōu" />
+	<char hz="殴" py="ōu" />
+	<char hz="鸥" py="ōu" />
+	<char hz="呕" py="ǒu">
+		<phrase hz="呕血" py="ǒu,xuè" />
+		<phrase hz="作呕" py="zuò,ǒu" />
+	</char>
+	<char hz="偶" py="ǒu" />
+	<char hz="耦" py="ǒu" />
+	<char hz="藕" py="ǒu" />
+	<char hz="沤" py="òu" multi="ōu" main="1">
+		<definition id="一">
+			<item text="长时间地浸泡：~麻." />
+		</definition>
+	</char>
+	<char hz="怄" py="òu" />
+</pinyin>

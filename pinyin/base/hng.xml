@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哼" py="hng" multi="hēng" info="h跟单纯的舌根鼻音拼合的音">
+		<definition id="二">
+			<item text="【h跟单纯的舌根鼻音接合的音】叹词，表示不满意或不信任：~，你信他的！" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肖" py="xiāo" multi="xiào" main="1">
+		<definition id="二">
+			<item text="“萧”（姓）俗作“肖”。" />
+		</definition>
+	</char>
+	<char hz="削" py="xiāo" multi="xuē" main="1">
+		<definition id="一">
+			<item text="用刀平着或斜着去掉外面的一层：~铅笔. 把梨皮~掉." />
+		</definition>
+	</char>
+	<char hz="逍" py="xiāo">
+		<phrase hz="逍遥" py="xiāo,yáo" />
+	</char>
+	<char hz="消" py="xiāo" />
+	<char hz="宵" py="xiāo" />
+	<char hz="绡" py="xiāo" />
+	<char hz="硝" py="xiāo" />
+	<char hz="销" py="xiāo">
+		<phrase hz="销假" py="xiāo,jià" />
+	</char>
+	<char hz="蛸" py="xiāo" multi="shāo" main="1">
+		<phrase hz="螵蛸" py="piāo,xiāo" />
+		<definition id="一">
+			<item text="[螵蛸](piāo-)螳螂的卵块。" />
+		</definition>
+	</char>
+	<char hz="霄" py="xiāo">
+		<phrase hz="重霄" py="chóng,xiāo" />
+	</char>
+	<char hz="魈" py="xiāo" />
+	<char hz="枭" py="xiāo" />
+	<char hz="枵" py="xiāo" />
+	<char hz="鸮" py="xiāo" />
+	<char hz="哓" py="xiāo" />
+	<char hz="骁" py="xiāo" />
+	<char hz="虓" py="xiāo" />
+	<char hz="猇" py="xiāo" />
+	<char hz="萧" py="xiāo" />
+	<char hz="潇" py="xiāo">
+		<phrase hz="潇洒" py="xiāo,sǎ" />
+	</char>
+	<char hz="蟏" py="xiāo">
+		<phrase hz="蟏蛸" py="xiāo,shāo" />
+		<definition>
+			<item text="[蟏蛸](-shāo)蟢子。参看“蟢”。" />
+		</definition>
+	</char>
+	<char hz="箫" py="xiāo" />
+	<char hz="翛" py="xiāo" />
+	<char hz="嚣" py="xiāo" />
+	<char hz="洨" py="xiáo" />
+	<char hz="崤" py="xiáo" />
+	<char hz="淆" py="xiáo" />
+	<char hz="小" py="xiǎo" />
+	<char hz="晓" py="xiǎo" />
+	<char hz="筱" py="xiǎo" />
+	<char hz="孝" py="xiào" />
+	<char hz="哮" py="xiào" />
+	<char hz="肖" py="xiào" multi="xiāo">
+		<phrase hz="子肖其父" py="zǐ,xiào,qí,fù" />
+		<phrase hz="肖像" py="xiào,xiàng" />
+		<definition id="一">
+			<item text="像，相似：子~其父. [肖像]画像，相片。" />
+		</definition>
+	</char>
+	<char hz="笑" py="xiào">
+		<phrase hz="笑话" py="xiào,hua" />
+	</char>
+	<char hz="校" py="xiào" multi="jiào" main="1">
+		<definition id="一">
+			<item id="1" text="学校。" />
+			<item id="2" text="军衔名，在尉和将之间。" />
+		</definition>
+	</char>
+	<char hz="效" py="xiào" />
+	<char hz="啸" py="xiào" />
+	<char hz="斅" py="xiào" trans="1" />
+</pinyin>

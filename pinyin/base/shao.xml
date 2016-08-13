@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="捎" py="shāo" />
+	<char hz="梢" py="shāo" />
+	<char hz="稍" py="shāo" multi="shào" main="1">
+		<definition id="一">
+			<item text="副词，略微（(连)-微）：~有不同. 请~等一下." />
+		</definition>
+	</char>
+	<char hz="蛸" py="shāo" multi="xiāo">
+		<phrase hz="蟏蛸" py="xiāo,shāo" />
+		<definition id="二">
+			<item text="见“蟏”字条“蟏蛸”(xiāo-)。" />
+		</definition>
+	</char>
+	<char hz="筲" py="shāo">
+		<phrase hz="筲箕" py="shāo,jī" />
+	</char>
+	<char hz="艄" py="shāo" />
+	<char hz="鞘" py="shāo" multi="qiào" info="Word主音">
+		<phrase hz="鞭鞘" py="biān,shāo" />
+		<phrase hz="乌鞘岭" py="wū,shāo,lǐng" />
+		<definition id="二">
+			<item text="鞭鞘，拴在鞭子头上的细皮条。" />
+			<item text="[乌鞘岭]岭名，在甘肃省天祝。" />
+		</definition>
+	</char>
+	<char hz="烧" py="shāo" />
+	<char hz="勺" py="sháo">
+		<definition>
+			<item id="1" text="（-子、-儿）一种有柄的可以舀(yǎo)取东西的器具：钣~. 铁~." />
+			<item id="2" text="市制容量单位，一升的百分之一。" />
+		</definition>
+	</char>
+	<char hz="芍" py="sháo">
+		<phrase hz="芍药" py="sháo,yao" />
+	</char>
+	<char hz="杓" py="sháo" multi="biāo" info="Word主音">
+		<definition id="二">
+			<item text="同“勺(1)”。" />
+		</definition>
+	</char>
+	<char hz="苕" py="sháo" multi="tiáo">
+		<phrase hz="红苕" py="hóng,sháo" />
+		<definition id="二">
+			<item text="〈方〉红苕，就是甘薯。" />
+		</definition>
+	</char>
+	<char hz="韶" py="sháo" />
+	<char hz="少" py="shǎo" multi="shào" main="1">
+		<definition id="一">
+			<item id="1" text="跟“多”相对。 1.数量小的：~数服从多数. 2.缺（(连)缺-）：文娱活动~不了他. 3.不经常的：~有. ~见." />
+			<item id="2" text="短暂：~等. ~待." />
+			<item id="3" text="丢，遗失：屋里~了东西." />
+		</definition>
+	</char>
+	<char hz="少" py="shào" multi="shǎo">
+		<phrase hz="少年" py="shào,nián" />
+		<phrase hz="少女" py="shào,nǚ" />
+		<phrase hz="男女老少" py="nán,nǚ,lǎo,shào" />
+		<definition id="二">
+			<item text="年纪轻，跟“老”相对：~年人. ~女. 男女老~." />
+		</definition>
+	</char>
+	<char hz="召" py="shào" multi="zhào">
+		<definition id="二">
+			<item id="1" text="周朝国名，在陕西省凤翔一带。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="邵" py="shào" />
+	<char hz="劭" py="shào" />
+	<char hz="绍" py="shào" />
+	<char hz="哨" py="shào" />
+	<char hz="稍" py="shào" multi="shāo">
+		<phrase hz="稍息" py="shào,xī" />
+		<definition id="二">
+			<item text="[稍息]军事或体操的口令，命令队伍从立正姿势变为休息的姿势。" />
+		</definition>
+	</char>
+	<char hz="潲" py="shào" />
+</pinyin>

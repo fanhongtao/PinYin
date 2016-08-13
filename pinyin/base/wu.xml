@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乌" py="wū" multi="wù" main="1">
+		<definition id="一">
+			<item id="1" text="乌鸦，鸟名，俗叫“老鸹”(gua)或“老鸦”。 [乌合](喻)无组织地聚集：~~之众." />
+			<item id="2" text="黑色：~云. ~木." />
+			<item id="3" text="〈古〉表示疑问，哪，何：~足道哉？" />
+			<item id="4" text="姓。" />
+			<item text="[乌呼]同“呜呼”。" />
+			<item text="[乌孜别克族]我国少数民族。" />
+		</definition>
+	</char>
+	<char hz="邬" py="wū" />
+	<char hz="呜" py="wū" />
+	<char hz="钨" py="wū" />
+	<char hz="圬" py="wū" />
+	<char hz="污" py="wū" />
+	<char hz="巫" py="wū" />
+	<char hz="诬" py="wū" />
+	<char hz="於" py="wū" multi="yū,yú">
+		<phrase hz="於乎" py="wū,hū" />
+		<phrase hz="於戏" py="wū,hū" />
+		<phrase hz="於菟" py="wū,tú" />
+		<definition id="三">
+			<item text="文言叹词。[於乎][於戏](-hū)同“呜呼”。" />
+			<item text="[於菟](-tú)〈古〉老虎的别称。" />
+		</definition>
+	</char>
+	<char hz="屋" py="wū" />
+	<char hz="恶" py="wū" multi="ě,è,wù">
+		<definition id="四" text="〈古〉">
+			<item id="1" text="同“乌(一)(3)”。" />
+			<item id="2" text="叹词，表示惊讶：~，是何言也！" />
+		</definition>
+	</char>
+	<char hz="亡" py="wú" multi="wáng">
+		<definition id="二">
+			<item text="古同“无”。" />
+		</definition>
+	</char>
+	<char hz="无" py="wú">
+		<definition>
+			<item id="1" text="没有，跟“有”相对：~产阶级. 从~到有." />
+			<item id="2" text="不：~须乎这样. ~妨试试. [无非]不过是，不外如此：他批评你，~~是想帮助你进步. [无论]连词，不拘，不管，常跟“都”连用：~~是谁都要遵守纪律." />
+		</definition>
+	</char>
+	<char hz="芜" py="wú" />
+	<char hz="毋" py="wú" />
+	<char hz="吾" py="wú" />
+	<char hz="郚" py="wú" />
+	<char hz="唔" py="wú" multi="ń,ńg" main="1">
+		<phrase hz="咿唔" py="yī,wú" />
+		<definition id="一">
+			<item text="见“咿”字条“咿唔”(yī-)。" />
+		</definition>
+	</char>
+	<char hz="浯" py="wú" />
+	<char hz="梧" py="wú" />
+	<char hz="铻" py="wú" />
+	<char hz="鼯" py="wú" />
+	<char hz="吴" py="wú" />
+	<char hz="蜈" py="wú">
+		<phrase hz="蜈蚣" py="wú,gong" />
+	</char>
+	<char hz="鹀" py="wú" />
+	<char hz="五" py="wǔ" />
+	<char hz="伍" py="wǔ" />
+	<char hz="午" py="wǔ" />
+	<char hz="仵" py="wǔ" />
+	<char hz="迕" py="wǔ" />
+	<char hz="忤" py="wǔ" />
+	<char hz="庑" py="wǔ" />
+	<char hz="潕" py="wǔ" trans="1" />
+	<char hz="怃" py="wǔ" />
+	<char hz="妩" py="wǔ" />
+	<char hz="武" py="wǔ" />
+	<char hz="鹉" py="wǔ" />
+	<char hz="侮" py="wǔ" />
+	<char hz="捂" py="wǔ" />
+	<char hz="牾" py="wǔ" />
+	<char hz="舞" py="wǔ" />
+	<char hz="兀" py="wù" />
+	<char hz="阢" py="wù">
+		<phrase hz="阢陧" py="wù,niè" />
+	</char>
+	<char hz="杌" py="wù">
+		<phrase hz="杌陧" py="wù,niè" />
+	</char>
+	<char hz="靰" py="wù">
+		<phrase hz="靰鞡" py="wù,la" />
+		<definition>
+			<item text="[靰鞡](-la)东北地区冬天穿的一种用皮革做的鞋，里面垫着靰鞡草。也作“乌拉”。" />
+		</definition>
+	</char>
+	<char hz="勿" py="wù" />
+	<char hz="芴" py="wù" />
+	<char hz="物" py="wù" />
+	<char hz="乌" py="wù" multi="wū">
+		<phrase hz="乌拉" py="wù,la" />
+		<definition id="二">
+			<item text="[乌拉](-la)同“靰鞡”。" />
+		</definition>
+	</char>
+	<char hz="坞" py="wù" />
+	<char hz="戊" py="wù" />
+	<char hz="务" py="wù">
+		<phrase hz="好高务远" py="hào,gāo,wù,yuǎn" />
+	</char>
+	<char hz="雾" py="wù" />
+	<char hz="误" py="wù" />
+	<char hz="恶" py="wù" multi="ě,è,wū">
+		<phrase hz="可恶" py="kě,wù" />
+		<phrase hz="深恶痛绝" py="shēn,wù,tòng,jué" />
+		<phrase hz="厌恶" py="yàn,wù" />
+		<definition id="二">
+			<item text="讨厌，憎恨：可~. 深~痛绝." />
+		</definition>
+	</char>
+	<char hz="悟" py="wù" />
+	<char hz="晤" py="wù" />
+	<char hz="焐" py="wù" />
+	<char hz="痦" py="wù" />
+	<char hz="寤" py="wù" />
+	<char hz="婺" py="wù" />
+	<char hz="骛" py="wù" />
+	<char hz="鹜" py="wù" />
+	<char hz="鋈" py="wù" />
+</pinyin>

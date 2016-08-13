@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="干" py="gān" multi="gàn" main="1">
+		<!-- <phrase hz="干将" py="gān,jiāng" /> -->
+		<definition id="一">
+			<item id="1" text="关联，涉及：不相~. 这事与你何~？" />
+			<item id="2" text="冒犯，触犯：~犯. 有~禁例. [干涉]过问或制止，常指不应管硬管：互不~~内政." />
+			<item id="3" text="追求，旧指追求职位俸禄：~禄." />
+			<item id="4" text="盾：动~戈（喻战乱）. [干城](转)捍卫者。" />
+			<item id="5" text="天干，历法中用的“甲、乙、丙、丁、戊、已、庚、辛、壬、癸”十个字，也作编排次序用。 [干支]天干和地支，历法上把这两组字结合起来，共配成六十组，表示日子或年份，周而复始，循环使用。" />
+			<item id="6" text="水边：江~. 河~." />
+			<item id="7" text="没有水分或水分少的，跟“湿”相对（(连)-燥）：~柴. ~粮. [干脆](喻)爽快，简捷：说话~~，做事也~~." />
+			<item id="8" text="（-儿）干的食品或其他东西：饼~. 豆腐~儿." />
+			<item id="9" text="枯竭，净尽，空虚：大河没水小河~. ~杯. 外强中~." />
+			<item id="10" text="空，徒然：~着急. ~等. ~看着." />
+			<item id="11" text="拜认的亲属关系：~娘." />
+			<item id="12" text="说怨恨、气愤的话使对方难堪：今天，我又~了他一顿." />
+			<item id="13" text="慢待，不理睬：没想到，他把咱们~起来了." />
+			<item id="14" text="量词，伙：一~人." />
+			<item id="15" text="姓。" />
+			<item text="[干将](-jiāng)古宝剑名。" />
+		</definition>
+	</char>
+	<char hz="玕" py="gān">
+		<phrase hz="琅玕" py="láng,gān" />
+	</char>
+	<char hz="杆" py="gān" multi="gǎn">
+		<phrase hz="旗杆" py="qí,gān" />
+		<phrase hz="电线杆" py="diàn,xiàn,gān" />
+		<phrase hz="栏杆" py="lán,gān" />
+		<definition id="一">
+			<item text="（-子、-儿）较长的木棍：旗~. 电线~子. 栏~儿." />
+		</definition>
+	</char>
+	<char hz="肝" py="gān" />
+	<char hz="矸" py="gān" />
+	<char hz="竿" py="gān" />
+	<char hz="酐" py="gān" />
+	<char hz="甘" py="gān" />
+	<char hz="坩" py="gān">
+		<phrase hz="坩埚" py="gān,guō" />
+	</char>
+	<char hz="苷" py="gān" />
+	<char hz="泔" py="gān" />
+	<char hz="柑" py="gān" />
+	<char hz="疳" py="gān" />
+	<char hz="尴" py="gān">
+		<phrase hz="尴尬" py="gān,gà" />
+	</char>
+	<char hz="杆" py="gǎn" multi="gān" main="1">
+		<definition id="二">
+			<item id="1" text="（-子、-儿）较小的圆木条或像本条的东西（指作为器物的把儿的）：笔~儿. 枪~儿. 烟袋~儿." />
+			<item id="2" text="量词，用于有杆的器物：一~枪. 一~笔." />
+		</definition>
+	</char>
+	<char hz="赶" py="gǎn" />
+	<char hz="擀" py="gǎn" />
+	<char hz="敢" py="gǎn">
+		<phrase hz="敢情" py="gǎn,qing" />
+		<phrase hz="敢自" py="gǎn,zi" />
+	</char>
+	<char hz="澉" py="gǎn" />
+	<char hz="橄" py="gǎn">
+		<phrase hz="橄榄" py="gǎn,lǎn" />
+	</char>
+	<char hz="感" py="gǎn" />
+	<char hz="鱤" py="gǎn" />
+	<char hz="干" py="gàn" multi="gān" info="Word主音">
+		<phrase hz="树干" py="shù,gàn" />
+		<phrase hz="躯干" py="qū,gàn" />
+		<phrase hz="干线" py="gàn,xiàn" />
+		<phrase hz="干部" py="gàn,bù" />
+		<phrase hz="干细胞" py="gàn,xì,bāo" />
+		<phrase hz="干才" py="gàn,cái" />
+		<phrase hz="干员" py="gàn,yuán" />
+		<phrase hz="干练" py="gàn,liàn" />
+		<phrase hz="干事" py="gàn,shi" />
+		<definition id="二">
+			<item id="1" text="事物的主体，重要的部分：树~. 躯~. ~线. [干部]1.指机关团体的领导或管理人员。2.指一般公职人员。 [干细胞]一类具有自我更新和分化潜能的细胞。按照生存阶段分为胚胎干细胞和成体干细胞。" />
+			<item id="2" text="做，搞：这件事我可以~. 你在~什么？ (转)有才能的，善于办事的：~才. ~员. [干练]办事能力强，很有经验。 [干事](-shi)负责某些事物的人：宣传~~." />
+			<item id="3" text="〈方〉坏，糟：事情要~. ~了." />
+		</definition>
+	</char>
+	<char hz="旰" py="gàn" />
+	<char hz="骭" py="gàn" />
+	<char hz="绀" py="gàn" />
+	<char hz="淦" py="gàn" />
+	<char hz="赣" py="gàn" />
+</pinyin>

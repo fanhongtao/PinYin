@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钦" py="qīn">
+		<phrase hz="钦差" py="qīn,chāi" />
+	</char>
+	<char hz="嵚" py="qīn">
+		<phrase hz="嵚崟" py="qīn,yín" />
+	</char>
+	<char hz="侵" py="qīn" />
+	<char hz="骎" py="qīn" />
+	<char hz="亲" py="qīn" multi="qìng" main="1">
+		<definition id="一">
+			<item id="1" text="亲属，有血统或夫妻关系的：~人. ~兄弟. 特指父母：双~. 养~." />
+			<item id="2" text="婚姻：定~. ~事." />
+			<item id="3" text="特指新妇：娶~." />
+			<item id="4" text="亲戚，因婚姻联成的亲属关系：姑表~." />
+			<item id="5" text="本身，自己的：~笔信. ~眼见的. ~手做的." />
+			<item id="6" text="感情好，关系密切：他们很~密. 兄弟相~." />
+			<item id="7" text="用嘴唇接触，表示喜爱：他~了~孩子的小脸蛋." />
+		</definition>
+	</char>
+	<char hz="衾" py="qīn" />
+	<char hz="芹" py="qín" />
+	<char hz="芩" py="qín" />
+	<char hz="矜" py="qín" multi="guān,jīn">
+		<definition id="三">
+			<item text="〈古〉矛柄。" />
+		</definition>
+	</char>
+	<char hz="琴" py="qín" />
+	<char hz="秦" py="qín" />
+	<char hz="嗪" py="qín" />
+	<char hz="溱" py="qín" multi="zhēn" info="Word主音">
+		<phrase hz="溱潼" py="qín,tóng" />
+		<definition id="二">
+			<item text="[溱潼](-tóng)地名，在江苏省泰州。" />
+		</definition>
+	</char>
+	<char hz="螓" py="qín" />
+	<char hz="覃" py="qín" multi="tán">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="禽" py="qín" />
+	<char hz="擒" py="qín" />
+	<char hz="噙" py="qín" />
+	<char hz="檎" py="qín" />
+	<char hz="勤" py="qín" />
+	<char hz="梫" py="qǐn" />
+	<char hz="锓" py="qǐn" />
+	<char hz="寝" py="qǐn" />
+	<char hz="吣" py="qìn" />
+	<char hz="沁" py="qìn" />
+	<char hz="揿" py="qìn" />
+</pinyin>

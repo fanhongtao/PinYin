@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="片" py="piān" multi="piàn">
+		<definition id="二">
+			<item text="（-子、-儿）同“片(一)(1)”，用于“相片儿、画片儿、唱片儿、电影片儿”等。" />
+		</definition>
+	</char>
+	<char hz="扁" py="piān" multi="biǎn">
+		<phrase hz="扁舟" py="piān,zhōu" />
+		<definition id="二">
+			<item text="[扁舟]小船：一叶~~." />
+		</definition>
+	</char>
+	<char hz="偏" py="piān">
+		<phrase hz="偏差" py="piān,chā" />
+	</char>
+	<char hz="犏" py="piān" />
+	<char hz="篇" py="piān" />
+	<char hz="翩" py="piān">
+		<phrase hz="翩跹" py="piān,xiān" />
+	</char>
+	<char hz="便" py="pián" multi="biàn">
+		<phrase hz="便便" py="pián,pián" />
+		<phrase hz="便宜" py="pián,yi" />
+		<definition id="二">
+			<item text="[便便]肚子肥大的样子：大腹~~. [便宜](-yi)物价较低：这些花布都很~~. (引)小利，私利：不要占~~.（另biànyí见“便”biàn）" />
+		</definition>
+	</char>
+	<char hz="骈" py="pián" />
+	<char hz="胼" py="pián">
+		<phrase hz="胼胝" py="pián,zhī" />
+	</char>
+	<char hz="蹁" py="pián">
+		<phrase hz="蹁跹" py="pián,xiān" />
+	</char>
+	<char hz="谝" py="piǎn" />
+	<char hz="片" py="piàn" multi="piān" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）平而薄的物体：明信~. 铁~子." />
+			<item id="2" text="切削成薄片：~肉片. 把豆腐干~一~." />
+			<item id="3" text="少，零星：~言（几句话）. ~纸只字. ~刻（短时间）. [片面]不全面，偏于一面的：观点~~. 不要~~看问题." />
+			<item id="4" text="指较大地区内划分较小地区：分~儿开会." />
+			<item id="5" text="量词，用于地面、水面、景色或成片的东西等：一大~绿油油的庄稼. 一~汪洋. 两~儿药. 一~好心." />
+		</definition>
+	</char>
+	<char hz="骗" py="piàn">
+		<phrase hz="骗子" py="piàn,zi" />
+	</char>
+</pinyin>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="削" py="xuē" multi="xiāo" info="Word主音">
+		<phrase hz="削除" py="xuē,chú" />
+		<phrase hz="削减" py="xuē,jiǎn" />
+		<phrase hz="削弱" py="xuē,ruò" />
+		<phrase hz="剥削" py="bō,xuē" />
+		<definition id="二">
+			<item text="义同“削(一)”，用于一些复合词：~除. ~减. ~弱. 剥~." />
+		</definition>
+	</char>
+	<char hz="靴" py="xuē" />
+	<char hz="薛" py="xuē" />
+	<char hz="穴" py="xué" />
+	<char hz="茓" py="xué" />
+	<char hz="峃" py="xué" />
+	<char hz="学" py="xué" />
+	<char hz="鸴" py="xué" />
+	<char hz="踅" py="xué">
+		<phrase hz="踅摸" py="xué,mo" />
+	</char>
+	<char hz="噱" py="xué" multi="jué">
+		<phrase hz="发噱" py="fā,xué" />
+		<phrase hz="噱头" py="xué,tóu" />
+		<definition id="二">
+			<item text="〈方〉笑：发~. [噱头]逗笑的话或举动。" />
+		</definition>
+	</char>
+	<char hz="雪" py="xuě" />
+	<char hz="鳕" py="xuě" />
+	<char hz="血" py="xuè" multi="xiě" main="1">
+		<phrase hz="血泊" py="xuè,pō" />
+		<definition id="一">
+			<item id="1" text="血液，人或高等动物体内的一种红色液体（由红细胞、白细胞、血小板和血浆组成），周身循环，分配养分给各组织，同时把废物带到排泄器官内：~压. ~泊(pō). 出~." />
+			<item id="2" text="同一祖先的：~统. ~族." />
+			<item id="3" text="比喻刚强热烈：~性.（读xuè时用于复音词及成语。如“贫血”、“呕心沥血”等。）" />
+		</definition>
+	</char>
+	<char hz="谑" py="xuè" />
+</pinyin>

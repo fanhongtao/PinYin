@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="诃" py="hē">
+		<phrase hz="诃子" py="hē,zǐ" />
+	</char>
+	<char hz="呵" py="hē" multi="ā,á,ǎ,à,a" main="1">
+		<phrase hz="呵斥" py="hē,chì" />
+		<phrase hz="呵禁" py="hē,jìn" />
+		<phrase hz="呵冻" py="hē,dòng" />
+		<phrase hz="呵气" py="hē,qì" />
+		<phrase hz="呵呵" py="hē,hē" />
+		<phrase hz="呵护" py="hē,hù" />
+		<phrase hz="呵欠" py="hē,qian" />
+		<phrase hz="一气呵成" py="yí,qì,hē,chéng" />
+		<definition id="六">
+			<item id="1" text="怒责（(连) -斥）：~禁" />
+			<item id="2" text="呼气：~冻. ~气. [呵呵]拟声词，笑声：笑~~. [呵护]爱护，保护。" />
+			<item id="3" text="同“嗬”" />
+		</definition>
+	</char>
+	<char hz="喝" py="hē" multi="hè" main="1">
+		<definition id="一">
+			<item text="吸食液体饮料或流质食物，饮：~水. ~酒. ~粥." />
+		</definition>
+	</char>
+	<char hz="嗬" py="hē">
+		<definition>
+			<item text="叹词，表示惊讶：~，真不得了！" />
+		</definition>
+	</char>
+	<char hz="蠚" py="hē" />
+	<char hz="禾" py="hé" />
+	<char hz="和" py="hé" multi="hè,hú,huó,huò" main="1">
+		<phrase hz="和气" py="hé,qi" />
+		<definition id="一">
+			<item id="1" text="相安，谐调：~睦. (引)平静，不猛烈：温~. 心平气~. 风~日暖. [和平]1.没有战争的状态：~~环境. 2.温和，不猛烈：药性~~. [和气](-qi)态度温和：他说话真~~." />
+			<item id="2" text="平息争端：讲~. ~解." />
+			<item id="3" text="数学上指两个或两个以上的数加起来的总数：2跟3的~是5." />
+			<item id="4" text="连带：~盘托出（完全说出来）. ~衣而卧." />
+			<item id="5" text="连词，跟，同：我~他都不同意." />
+			<item id="6" text="介词，对，向：你~孩子讲话要讲得通俗些." />
+			<item id="7" text="姓。" />
+			<item text="[和尚]佛教男性僧侣的通称。" />
+		</definition>
+	</char>
+	<char hz="盉" py="hé" />
+	<char hz="合" py="hé" multi="gě" main="1">
+		<definition id="一">
+			<item id="1" text="闭，对拢：~眼. ~抱. ~围（四面包围）. [合龙]修筑堤坝或桥梁时从两端施工，最后在中间接合。 [合口呼]u韵母和以u开头的韵母叫作“合口呼”。" />
+			<item id="2" text="聚，集：~力. ~办. ~唱. [合同]两方或多方为经营事业或在特定的工作中规定彼此权利和义务所订的共同遵守的条文：产销~~. [合作]同心协力做某事。 [合作社]根据互相合作的原则自愿建立起来的经济组织，按经营业务的不同，可以分为生产合作社、信用合作社等。" />
+			<item id="3" text="总共，全：~计. ~家." />
+			<item id="4" text="不违背，一事物与另一事物相应或相符：~格. ~法. ~理. (引)应该：理~声明." />
+			<item id="5" text="计，折算：这件衣服做成了~多少钱？ 一米~多少市尺？" />
+			<item id="6" text="旧时乐谱记音符号的一个，相当于简谱中的低音“5”。" />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="閤" py="hé" multi="gé" trans="1">
+		<definition id="二">
+			<item text="“合(3)”的繁体字。"/>
+		</definition>
+	</char>
+	<char hz="郃" py="hé" />
+	<char hz="饸" py="hé">
+		<phrase hz="饸饹" py="hé,le" />
+	</char>
+	<char hz="盒" py="hé" />
+	<char hz="颌" py="hé" multi="gé">
+		<phrase hz="上颌" py="shàng,hé" />
+		<phrase hz="下颌" py="xià,hé" />
+		<definition id="二">
+			<item text="构成口腔上部和下部的骨头和肌肉等组织叫作颌，上部的叫上颌，下部的叫下颌。" />
+		</definition>
+	</char>
+	<char hz="纥" py="hé" multi="gē">
+		<phrase hz="回纥" py="huí,hé" />
+		<definition id="一">
+			<item text="见“回”字条“回纥”。" />
+		</definition>
+	</char>
+	<char hz="龁" py="hé" />
+	<char hz="何" py="hé" />
+	<char hz="河" py="hé" />
+	<char hz="荷" py="hé" multi="hè" main="1">
+		<definition id="一">
+			<item text="莲。" />
+		</definition>
+	</char>
+	<char hz="菏" py="hé" />
+	<char hz="劾" py="hé" />
+	<char hz="阂" py="hé" />
+	<char hz="核" py="hé" multi="hú" main="1">
+		<definition id="一">
+			<item id="1" text="果实中坚硬并包含果仁的部分。" />
+			<item id="2" text="像核的东西：菌~. 细胞~. [核酸]存在于生物体中的有机化合物，是生命的基本物质之一，对生物的生长、遗传、变异等起决定作用。 [核心]中心，主要部分：领导~~. ~~作用. [结核]传染病名，病原体是结核杆菌。" />
+			<item id="3" text="指原子核、核能、核武器等：~潜艇. ~试验. ~战争." />
+			<item id="4" text="仔细地对照、考察：~算. ~实." />
+		</definition>
+	</char>
+	<char hz="曷" py="hé" />
+	<char hz="餲" py="hé" multi="ài" trans="1">
+		<definition id="二">
+			<item text="馓子，一种油炸的面食。" />
+		</definition>
+	</char>
+	<char hz="鹖" py="hé" />
+	<char hz="鞨" py="hé" />
+	<char hz="盍" py="hé">
+		<definition>
+			<item text="何不：~往观之." />
+		</definition>
+	</char>
+	<char hz="阖" py="hé" />
+	<char hz="涸" py="hé" />
+	<char hz="貉" py="hé" multi="háo" main="1">
+		<definition id="一">
+			<item text="野兽名。毛棕灰色，耳小，嘴尖，昼伏夜出，捕食虫类，皮很珍贵。" />
+			<item text="[一丘之貉](喻)彼此相似，没什么差别，指坏人。" />
+			<item text="〈古〉又同“貊”(mò)。" />
+		</definition>
+	</char>
+	<char hz="翮" py="hé" />
+	<char hz="吓" py="hè" multi="xià">
+		<phrase hz="恫吓" py="dòng,hè" />
+		<phrase hz="恐吓" py="kǒng,hè" />
+		<phrase hz="威吓" py="wēi,hè" />
+		<definition id="二">
+			<item id="1" text="恫吓，恐吓。" />
+			<item id="2" text="叹词，表示不满：~，怎么能这样呢！" />
+		</definition>
+	</char>
+	<char hz="和" py="hè" multi="hé,hú,huó,huò">
+		<phrase hz="和诗" py="hè,shī" />
+		<phrase hz="唱和" py="chàng,hè" />
+		<definition id="二">
+			<item text="声音相应。特指依照别人所做诗词的题材和体裁而写作：~诗. 唱~." />
+		</definition>
+	</char>
+	<char hz="贺" py="hè" />
+	<char hz="荷" py="hè" multi="hé">
+		<phrase hz="荷锄" py="hè,chú" />
+		<phrase hz="电荷" py="diàn,hè" />
+		<phrase hz="正荷" py="zhèng,hè" />
+		<phrase hz="负荷" py="fù,hè" />
+		<phrase hz="感荷" py="gǎn,hè" />
+		<phrase hz="为荷" py="wéi,hè" />
+		<definition id="二">
+			<item id="1" text="担，扛：~锄. [电荷]构成物质的许多基本粒子所带的电。有的带正电（如质子），有的带负电（如电子），习惯上也把物体所带的电叫电荷：正~. 负." />
+			<item id="2" text="承受恩惠（常用在书信里表示客气）：感~. 为~." />
+		</definition>
+	</char>
+	<char hz="喝" py="hè" multi="hē">
+		<phrase hz="喝令" py="hè,lìng" />
+		<phrase hz="呼喝" py="hū,hè" />
+		<phrase hz="大喝一声" py="dà,hè,yī,shēng" />
+		<phrase hz="喝彩" py="hè,cǎi" />
+		<definition id="二">
+			<item text="大声喊叫：~令. 呼~. 大~一声. [喝彩]大声叫好。" />
+		</definition>
+	</char>
+	<char hz="褐" py="hè" />
+	<char hz="赫" py="hè" />
+	<char hz="熇" py="hè" />
+	<char hz="翯" py="hè" />
+	<char hz="鹤" py="hè" />
+	<char hz="壑" py="hè" />
+</pinyin>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="掐" py="qiā" />
+	<char hz="袷" py="qiā" multi="jiá">
+		<phrase hz="袷袢" py="qiā,pàn" />
+		<definition id="一">
+			<item text="[袷袢](-pàn)(维)维吾尔、塔吉克等民族所穿的对襟长袍。" />
+		</definition>
+	</char>
+	<char hz="葜" py="qiā" />
+	<char hz="拤" py="qiá" />
+	<char hz="卡" py="qiǎ" multi="kǎ">
+		<phrase hz="卡子" py="qiǎ,zi" />
+		<phrase hz="关卡" py="guān,qiǎ" />
+		<phrase hz="发卡" py="fà,qiǎ" />
+		<definition id="一">
+			<item id="1" text="（-子）在交通要道设置的检查或收税的地方：关~." />
+			<item id="2" text="（-子）夹东西的器具：头发~子." />
+			<item id="3" text="夹在中间，堵塞：鱼刺~在嗓子里. ~在里边拿不出来了." />
+		</definition>
+	</char>
+	<char hz="洽" py="qià" />
+	<char hz="恰" py="qià">
+		<phrase hz="恰如其分" py="qià,rú,qí,fèn" />
+	</char>
+	<char hz="髂" py="qià" />
+</pinyin>

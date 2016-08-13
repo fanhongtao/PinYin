@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="驴" py="lǘ" />
+	<char hz="闾" py="lǘ" />
+	<char hz="榈" py="lǘ" />
+	<char hz="吕" py="lǚ" />
+	<char hz="侣" py="lǚ" />
+	<char hz="铝" py="lǚ" />
+	<char hz="稆" py="lǚ" />
+	<char hz="捋" py="lǚ" multi="luō">
+		<phrase hz="捋胡子" py="lǚ,hú,zi" />
+		<phrase hz="捋头发" py="lǚ,tóu,fà" />
+		<definition id="二">
+			<item text="用手指顺着抹过去，整理：~胡子. ~头发." />
+		</definition>
+	</char>
+	<char hz="旅" py="lǚ" />
+	<char hz="膂" py="lǚ" />
+	<char hz="偻" py="lǚ" multi="lóu" main="1">
+		<phrase hz="伛偻" py="yǔ,lǚ" />
+		<phrase hz="不能偻指" py="bù,néng,lǚ,zhǐ" />
+		<definition id="一">
+			<item id="1" text="脊背弯曲：伛(yǔ)~." />
+			<item id="2" text="迅速：不能~指（不能迅速指出来）." />
+		</definition>
+	</char>
+	<char hz="屡" py="lǚ" />
+	<char hz="缕" py="lǚ" />
+	<char hz="褛" py="lǚ" />
+	<char hz="履" py="lǚ" />
+	<char hz="律" py="lǜ" />
+	<char hz="葎" py="lǜ" />
+	<char hz="虑" py="lǜ" />
+	<char hz="滤" py="lǜ" />
+	<char hz="率" py="lǜ" multi="shuài">
+		<phrase hz="速率" py="sù,lǜ" />
+		<phrase hz="增长率" py="zēng,zhǎng,lǜ" />
+		<phrase hz="出勤率" py="chū,qín,lǜ" />
+		<definition id="二">
+			<item text="指两个相关的数在一定条件下的比值：速~. 增长~. 出勤~." />
+		</definition>
+	</char>
+	<char hz="绿" py="lǜ" multi="lù" main="1">
+		<definition id="一">
+			<item text="一般草和树叶的颜色，蓝和黄混合成的颜色：红花~叶. ~地. [绿色](转)无公害、无污染的：~~食品." />
+		</definition>
+	</char>
+	<char hz="氯" py="lǜ" />
+</pinyin>

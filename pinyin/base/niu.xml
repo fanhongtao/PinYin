@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="妞" py="niū" />
+	<char hz="牛" py="niú" />
+	<char hz="扭" py="niǔ" />
+	<char hz="狃" py="niǔ" />
+	<char hz="忸" py="niǔ">
+		<phrase hz="忸怩" py="niǔ,ní" />
+	</char>
+	<char hz="纽" py="niǔ" />
+	<char hz="杻" py="niǔ" multi="chǒu">
+		<definition id="二">
+			<item text="古书上说的一种树。" />
+		</definition>
+	</char>
+	<char hz="钮" py="niǔ" />
+	<char hz="拗" py="niù" multi="ǎo,ào" main="1">
+		<definition id="三">
+			<item text="固执，不驯顺：执~. 脾气很~." />
+		</definition>
+	</char>
+</pinyin>

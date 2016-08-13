@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="伥" py="chāng">
+		<phrase hz="为虎作伥" py="wèi,hǔ,zuò,chāng" />
+	</char>
+	<char hz="昌" py="chāng" />
+	<char hz="菖" py="chāng" />
+	<char hz="猖" py="chāng" />
+	<char hz="阊" py="chāng" />
+	<char hz="娼" py="chāng" />
+	<char hz="鲳" py="chāng" />
+	<char hz="长" py="cháng" multi="zhǎng" main="1">
+		<definition id="一">
+			<item id="1" text="长度，两端的距离：这块布3米~. 那张桌子~1米，宽70厘米." />
+			<item id="2" text="长度大，跟“短”相对。1.指空间：这条路很~. ~篇大论. 2.指时间：天~夜短. ~远利益. [长短]1.长度。2.意外的变故：万一有什么~~." />
+			<item id="3" text="长处，专精的技能，优点：特~. 一技之~." />
+			<item id="4" text="对某事做得特别好：他~于写作." />
+		</definition>
+	</char>
+	<char hz="苌" py="cháng" />
+	<char hz="场" py="cháng" multi="chǎng">
+		<phrase hz="打场" py="dǎ,cháng" />
+		<phrase hz="场院" py="cháng,yuàn" />
+		<definition id="一">
+			<item id="1" text="平坦的空地，多半用来打庄稼：打~. ~院里堆满了粮食." />
+			<item id="2" text="量词，常用于一件事情的经过：经历了一~激烈搏斗. 下了一~大雨." />
+		</definition>
+	</char>
+	<char hz="肠" py="cháng" />
+	<char hz="尝" py="cháng" />
+	<char hz="偿" py="cháng" />
+	<char hz="鲿" py="cháng" />
+	<char hz="倘" py="cháng" multi="tǎng">
+		<phrase hz="倘佯" py="cháng,yáng" />
+		<definition id="二">
+			<item text="[倘佯](-yáng)旧同“徜徉”。" />
+		</definition>
+	</char>
+	<char hz="徜" py="cháng">
+		<phrase hz="徜徉" py="cháng,yáng" />
+	</char>
+	<char hz="常" py="cháng" />
+	<char hz="嫦" py="cháng" />
+	<char hz="裳" py="cháng" multi="shang" main="1">
+		<definition id="一">
+			<item text="遮蔽下体的衣裙。" />
+		</definition>
+	</char>
+	<char hz="厂" py="chǎng" multi="ān" main="1">
+		<definition id="一">
+			<item id="1" text="工厂：机械~. 造纸~. 纱~." />
+			<item id="2" text="有空地可以存货或进行加工的场所：木~. 煤~." />
+			<item id="3" text="跟棚子类似的房屋。" />
+		</definition>
+	</char>
+	<char hz="场" py="chǎng" multi="cháng" main="1">
+		<definition id="二">
+			<item id="1" text="（-子、-儿）处所，能适应某种需要的较大地方：会~. 市~. 广~. 飞机~. (引)特定的地点或范围：当~. 现~. 情~. 生意~. [场合]某时某地或某种情况。" />
+			<item id="2" text="戏剧的一节：三幕五~." />
+			<item id="3" text="量词，用于文体活动：一~电影. 一~球赛." />
+			<item id="4" text="物质相互作用的范围：电~. 磁~. 引力~." />
+		</definition>
+	</char>
+	<char hz="昶" py="chǎng" />
+	<char hz="惝" py="chǎng" info="(又)tǎng" />
+	<char hz="敞" py="chǎng" />
+	<char hz="氅" py="chǎng" />
+	<char hz="怅" py="chàng" />
+	<char hz="韔" py="chàng" trans="1" />
+	<char hz="畅" py="chàng" />
+	<char hz="倡" py="chàng" />
+	<char hz="唱" py="chàng" />
+	<char hz="鬯" py="chàng" />
+</pinyin>

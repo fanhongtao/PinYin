@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="爹" py="diē" />
+	<char hz="跌" py="diē" />
+	<char hz="迭" py="dié" />
+	<char hz="昳" py="dié" multi="yì" main="1">
+		<definition id="一">
+			<item text="〈古〉日过午偏西。" />
+		</definition>
+	</char>
+	<char hz="瓞" py="dié" />
+	<char hz="垤" py="dié" />
+	<char hz="咥" py="dié" multi="xì" main="1">
+		<definition id="二">
+			<item text="咬。" />
+		</definition>
+	</char>
+	<char hz="绖" py="dié" />
+	<char hz="耋" py="dié" />
+	<char hz="谍" py="dié">
+		<phrase hz="间谍" py="jiàn,dié" />
+	</char>
+	<char hz="堞" py="dié" />
+	<char hz="喋" py="dié" multi="zhá" main="1">
+		<definition id="一">
+			<item text="[喋喋]啰唆，语言烦琐：~~不休. [喋血]流血满地。" />
+		</definition>
+	</char>
+	<char hz="牒" py="dié" />
+	<char hz="碟" py="dié" />
+	<char hz="蝶" py="dié" />
+	<char hz="蹀" py="dié" />
+	<char hz="鲽" py="dié" />
+	<char hz="嵽" py="dié" />
+	<char hz="叠" py="dié" />
+	<char hz="氎" py="dié" />
+</pinyin>

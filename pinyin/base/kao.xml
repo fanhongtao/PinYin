@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尻" py="kāo" />
+	<char hz="考" py="kǎo">
+		<phrase hz="考究" py="kǎo,jiu" />
+	</char>
+	<char hz="拷" py="kǎo" />
+	<char hz="栲" py="kǎo">
+		<phrase hz="栲栳" py="kǎo,lǎo" />
+	</char>
+	<char hz="烤" py="kǎo" />
+	<char hz="铐" py="kào" />
+	<char hz="犒" py="kào" />
+	<char hz="靠" py="kào">
+		<phrase hz="牢靠" py="láo,kao" />
+	</char>
+</pinyin>

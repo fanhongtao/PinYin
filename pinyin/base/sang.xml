@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丧" py="sāng" multi="sàng" main="1">
+		<definition id="一">
+			<item text="跟死了人有关的事：~事. 治~委员会." />
+		</definition>
+	</char>
+	<char hz="桑" py="sāng" />
+	<char hz="搡" py="sǎng" />
+	<char hz="嗓" py="sǎng" />
+	<char hz="磉" py="sǎng" />
+	<char hz="颡" py="sǎng" />
+	<char hz="丧" py="sàng" multi="sāng" info="Word主音">
+		<phrase hz="丧失" py="sàng,shī" />
+		<phrase hz="丧命" py="sàng,mìng" />
+		<phrase hz="丧气" py="sàng,qì" />
+		<definition id="二">
+			<item text="丢掉，失去（(连)-失）：~命. ~失立场. [丧气]1.情绪低落：灰心~~. 2.(-qi)不吉利（迷信），倒霉。" />
+		</definition>
+	</char>
+</pinyin>

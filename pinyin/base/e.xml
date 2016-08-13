@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<!-- e -->
 	<char hz="阿" py="ē" multi="ā">
 		<phrase hz="阿附" py="ē,fù" />
 		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
@@ -70,79 +69,4 @@
 	<char hz="遏" py="è" />
 	<char hz="頞" py="è" trans="1" />
 	<char hz="噩" py="è" />
-	<!-- ei -->
-	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī">
-		<definition id="一">
-			<item text="(又)同“欸(一)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1">
-		<definition id="一">
-			<item text="(又)叹词，表示招呼：~，你快来！" />
-		</definition>
-	</char>
-	<char hz="诶" py="éi" multi="ēi,ěi,èi">
-		<definition id="二">
-			<item text="(又)同“欸(二)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi">
-		<definition id="二">
-			<item text="(又)叹词，表示诧异：~，怎么回事！" />
-		</definition>
-	</char>
-	<char hz="诶" py="ěi" multi="ēi,éi,èi">
-		<definition id="三">
-			<item text="(又)同“欸(三)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi">
-		<definition id="三">
-			<item text="(又)叹词，表示不以为然：~，你这话可不对呀！" />
-		</definition>
-	</char>
-	<char hz="诶" py="èi" multi="ēi,éi,ěi">
-		<definition id="四">
-			<item text="(又)同“欸(四)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi">
-		<definition id="四">
-			<item text="(又)叹词，表示应声或同意：~，我这就来！ ~，就这么办！" />
-		</definition>
-	</char>
-	<!-- ei -->
-	<char hz="㗒" py="éi" info="《新华字典》上写的是“éi”，但由于“ei”被用作“Ê”的拼音输入，所以网络上显示拼音是“ài”" />
-	<!-- en -->
-	<char hz="奀" py="ēn" multi="dí" main="1">
-		<definition id="一">
-			<item text="〈方〉瘦小（多用于人名）。" />
-		</definition>
-	</char>
-	<char hz="恩" py="ēn" />
-	<char hz="蒽" py="ēn" />
-	<char hz="摁" py="èn" />
-	<!-- eng -->
-	<char hz="鞥" py="ēng" />
-	<!-- er -->
-	<char hz="儿" py="ér" />
-	<char hz="而" py="ér" />
-	<char hz="洏" py="ér" />
-	<char hz="鸸" py="ér">
-		<phrase hz="鸸鹋" py="ér,miáo" />
-	</char>
-	<char hz="尔" py="ěr" />
-	<char hz="迩" py="ěr" />
-	<char hz="耳" py="ěr" />
-	<char hz="饵" py="ěr" />
-	<char hz="洱" py="ěr" />
-	<char hz="珥" py="ěr" />
-	<char hz="铒" py="ěr" />
-	<char hz="二" py="èr" />
-	<char hz="贰" py="èr" />
-	<char hz="佴" py="èr" multi="nài" main="1">
-		<definition id="一">
-			<item text="置，停留。" />
-		</definition>
-	</char>
 </pinyin>

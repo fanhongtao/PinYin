@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="冲" py="chōng" multi="chòng" main="1">
+		<definition id="一">
+			<item id="1" text="用开水等浇，水流撞击：~茶. 用水~服. 这道堤不怕水~. [冲淡]加多液体，降低浓度。(喻)使某种效果、气氛等减弱。" />
+			<item id="2" text="向上钻：~入云霄." />
+			<item id="3" text="通行的大道：要~. 这是~要地方." />
+			<item id="4" text="快速向前闯：~锋. ~入敌阵. 横~直撞. [冲动]没经过仔细思考而突然产生的情绪或行动。 [冲突]1.互相撞击或争斗。2.意见不同，互相抵触。" />
+			<item id="5" text="互相抵消：~账." />
+		</definition>
+	</char>
+	<char hz="忡" py="chōng" />
+	<char hz="翀" py="chōng" />
+	<char hz="充" py="chōng" />
+	<char hz="茺" py="chōng">
+		<phrase hz="茺蔚" py="chōng,wèi" />
+	</char>
+	<char hz="舂" py="chōng" />
+	<char hz="憧" py="chōng" />
+	<char hz="艟" py="chōng" />
+	<char hz="虫" py="chōng" />
+	<char hz="种" py="chóng" multi="zhǒng,zhòng">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="重" py="chóng" multi="zhòng">
+		<phrase hz="重复" py="chóng,fù" />
+		<phrase hz="重游" py="chóng,yóu" />
+		<phrase hz="重整旗鼓" py="chóng,zhěng,qí,gǔ" />
+		<phrase hz="重来" py="chóng,lái" />
+		<phrase hz="重阳" py="chóng,yáng" />
+		<phrase hz="重九" py="chóng,jiǔ" />
+		<phrase hz="双重" py="shuāng,chóng" />
+		<definition id="二">
+			<item id="1" text="重复，再：书买~了. 旧地~游. ~整旗鼓. ~来一次. [重阳][重九]夏历九月九日。是我国传统节日。" />
+			<item id="2" text="层：双~领导. ~~围住." />
+		</definition>
+	</char>
+	<char hz="崇" py="chóng" />
+	<char hz="宠" py="chǒng" />
+	<char hz="冲" py="chòng" multi="chōng">
+		<phrase hz="冲着" py="chòng,zhe" />
+		<phrase hz="冲劲" py="chòng,jìn" />
+		<definition id="二">
+			<item id="1" text="对着，向：~南的大门. 别~着我说." />
+			<item id="2" text="猛烈：这小伙子有股~劲儿. 水流得真~. 大蒜气味~." />
+			<item id="3" text="介词，凭，根据：~他这股子钻劲儿，一定能完成这项技术革新任务." />
+		</definition>
+	</char>
+	<char hz="铳" py="chòng" />
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蕤" py="ruí" />
+	<char hz="蕊" py="ruǐ" />
+	<char hz="芮" py="ruì" />
+	<char hz="汭" py="ruì" />
+	<char hz="枘" py="ruì">
+		<phrase hz="枘凿" py="ruì,záo" />
+	</char>
+	<char hz="蚋" py="ruì" />
+	<char hz="锐" py="ruì" />
+	<char hz="瑞" py="ruì" />
+	<char hz="睿" py="ruì" />
+</pinyin>

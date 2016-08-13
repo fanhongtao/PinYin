@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="灰" py="huī" />
+	<char hz="诙" py="huī" />
+	<char hz="咴" py="huī" />
+	<char hz="恢" py="huī" />
+	<char hz="㧑" py="huī" />
+	<char hz="挥" py="huī">
+		<phrase hz="挥霍" py="huī,huò" />
+	</char>
+	<char hz="珲" py="huī" multi="hún">
+		<phrase hz="瑷珲" py="ài,huī" />
+		<definition id="二">
+			<item text="见“瑷”字条“瑷珲”(ài-)。" />
+		</definition>
+	</char>
+	<char hz="晖" py="huī" />
+	<char hz="辉" py="huī" />
+	<char hz="翚" py="huī" />
+	<char hz="袆" py="huī" />
+	<char hz="豗" py="huī" />
+	<char hz="麾" py="huī" />
+	<char hz="徽" py="huī" />
+	<char hz="隳" py="huī" />
+	<char hz="回" py="huī">
+		<phrase hz="回纥" py="huí,hé" />
+		<phrase hz="回鹘" py="huí,hú" />
+		<definition>
+			<item id="1" text="还，走向原来的地方：~家. ~国. ~到原单位工作." />
+			<item id="2" text="掉转：~过身来. [回头]1.把头转向后方：~~观望. 2.回归，返回：一去不~~. 3.等一会：~~再说吧. 4.改邪归正：现在~~还不晚." />
+			<item id="3" text="曲折，环绕，旋转：~形针. 巡~. [回避]避免，躲开。" />
+			<item id="4" text="答复，报答：~信. ~话. ~敬." />
+			<item id="5" text="量词，指事件的次数：两~. 他来过一~. (转)我国长篇小说分的章节：《红楼梦》一共一百二十~." />
+			<item text="[回纥](-hé)唐代西北的民族。也叫“回鹘”(hú)。" />
+			<item text="[回族]我国少数民族。" />
+		</definition>
+	</char>
+	<char hz="茴" py="huī" />
+	<char hz="洄" py="huī" />
+	<char hz="蛔" py="huī" />
+	<char hz="虺" py="huǐ" info="Word显示为huī" />
+	<char hz="悔" py="huǐ" />
+	<char hz="毁" py="huǐ" />
+	<char hz="卉" py="huì" />
+	<char hz="汇" py="huì" />
+	<char hz="会" py="huì" multi="kuài" main="1">
+		<phrase hz="都会" py="dū,huì" />
+		<definition id="一">
+			<item id="1" text="聚合，合拢，合在一起：在哪儿~合？就在这里~齐吧. ~审. ~话（对面说话）. [会师]从不同地方前进的军队，在某一个地方聚合在一起。" />
+			<item id="2" text="多数人的集合。 1.有一定目的的集会：纪念~. 群众大~. 开个~. 2.指某些团体：工~. 学生~." />
+			<item id="3" text="城市（通常指行政中心）：都(dū)~. 省~." />
+			<item id="4" text="彼此见面：~客. ~一~面. 你~过他没有？" />
+			<item id="5" text="付钱：~账. 饭钱我~过了." />
+			<item id="6" text="理解，领悟，懂：误~. ~意. 领~." />
+			<item id="7" text="能。 1.表示懂得怎样做或有能力做：他~游泳. 2.可能：我想他不~不懂. 3.能够：我们的理想一定~实现. 4.善于：能说~道." />
+			<item id="8" text="机会，时机，事情变化的一个时间：适逢其~. 趁着这个机~." />
+			<item id="9" text="一定，应当（(连)-当）：长风破浪~有时." />
+			<item id="10" text="恰好，正好：~天下雨，道不通." />
+			<item id="11" text="（-儿）一小段时间：一~儿. 这~儿. 那~儿. 多~儿. 用不了多大~儿." />
+		</definition>
+	</char>
+	<char hz="荟" py="huì">
+		<phrase hz="荟萃" py="huì,cuì" />
+	</char>
+	<char hz="绘" py="huì" />
+	<char hz="桧" py="huì" multi="guì">
+		<phrase hz="秦桧" py="qín,huì" />
+		<definition id="二">
+			<item text="用于人名。秦桧，南宋奸臣。" />
+		</definition>
+	</char>
+	<char hz="烩" py="huì" />
+	<char hz="讳" py="huì" />
+	<char hz="诲" py="huì" />
+	<char hz="晦" py="huì" />
+	<char hz="恚" py="huì" />
+	<char hz="贿" py="huì" />
+	<char hz="彗" py="huì" />
+	<char hz="蔧" py="huì" />
+	<char hz="槥" py="huì" />
+	<char hz="慧" py="huì" />
+	<char hz="硊" py="huì" />
+	<char hz="秽" py="huì" />
+	<char hz="翙" py="huì" />
+	<char hz="惠" py="huì" />
+	<char hz="僡" py="huì" />
+	<char hz="蕙" py="huì" />
+	<char hz="憓" py="huì" />
+	<char hz="蟪" py="huì">
+		<phrase hz="蟪蛄" py="huì,gū" />
+	</char>
+	<char hz="喙" py="huì" />
+	<char hz="阓" py="huì" />
+	<char hz="溃" py="huì" multi="kuì">
+		<phrase hz="溃脓" py="huì,nóng" />
+		<definition id="二">
+			<item text="疮溃(kuì)烂：~脓." />
+		</definition>
+	</char>
+	<char hz="缋" py="huì" />
+	<char hz="" py="huì" />
+</pinyin>

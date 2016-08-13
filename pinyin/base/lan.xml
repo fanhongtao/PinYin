@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="兰" py="lán" />
+	<char hz="拦" py="lán" />
+	<char hz="栏" py="lán" />
+	<char hz="岚" py="lán" />
+	<char hz="婪" py="lán" />
+	<char hz="阑" py="lán" />
+	<char hz="谰" py="lán" />
+	<char hz="澜" py="lán" />
+	<char hz="斓" py="lán" />
+	<char hz="镧" py="lán" />
+	<char hz="襕" py="lán" />
+	<char hz="蓝" py="lán" />
+	<char hz="褴" py="lán">
+		<phrase hz="褴褛" py="lán,lǚ" />
+	</char>
+	<char hz="篮" py="lán" />
+	<char hz="览" py="lǎn" />
+	<char hz="揽" py="lǎn" />
+	<char hz="缆" py="lǎn" />
+	<char hz="榄" py="lǎn" />
+	<char hz="罱" py="lǎn" />
+	<char hz="漤" py="lǎn" />
+	<char hz="miss: 土禀" py="lǎn" info="special" />
+	<char hz="懒" py="lǎn">
+		<phrase hz="懒得" py="lǎn,de" />
+	</char>
+	<char hz="烂" py="làn" />
+	<char hz="滥" py="làn">
+		<phrase hz="滥觞" py="làn,shāng" />
+	</char>
+</pinyin>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="侧" py="zhāi" multi="cè,zè">
+		<phrase hz="侧棱" py="zhāi,leng" />
+		<phrase hz="侧歪" py="zhāi,wai" />
+		<definition id="二">
+			<item text="[侧棱](-leng)向一边的倾斜：~~着身子睡觉. [侧歪](-wai)倾斜：车在山坡上~~着走." />
+		</definition>
+	</char>
+	<char hz="斋" py="zhāi" />
+	<char hz="摘" py="zhāi" />
+	<char hz="宅" py="zhái" />
+	<char hz="择" py="zhái" multi="zé">
+		<phrase hz="择菜" py="zhái,cài" />
+		<phrase hz="择床" py="zhái,chuáng" />
+		<definition id="二">
+			<item text="义同“择(一)”，用于口语：~菜. ~席（换个地方就睡不安稳）." />
+		</definition>
+	</char>
+	<char hz="翟" py="zhái" multi="dí" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="窄" py="zhǎi" />
+	<char hz="䍉" py="zhǎi" />
+	<char hz="债" py="zhài" />
+	<char hz="寨" py="zhài" />
+	<char hz="㩟" py="zhài" />
+	<char hz="瘵" py="zhài" />
+</pinyin>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="佣" py="yōng" multi="yòng" main="1">
+		<definition id="一">
+			<item id="1" text="被人雇用：~工." />
+			<item id="2" text="受雇用的人：女~." />
+		</definition>
+	</char>
+	<char hz="拥" py="yōng" />
+	<char hz="痈" py="yōng" />
+	<char hz="邕" py="yōng" />
+	<char hz="㴩" py="yōng" />
+	<char hz="庸" py="yōng" />
+	<char hz="鄘" py="yōng" />
+	<char hz="墉" py="yōng" />
+	<char hz="慵" py="yōng" />
+	<char hz="镛" py="yōng" />
+	<char hz="鳙" py="yōng" />
+	<char hz="雍" py="yōng" />
+	<char hz="壅" py="yōng">
+		<phrase hz="壅塞" py="yōng,sè" />
+	</char>
+	<char hz="臃" py="yōng">
+		<phrase hz="臃肿" py="yōng,zhǒng" />
+	</char>
+	<char hz="饔" py="yōng" />
+	<char hz="喁" py="yōng" multi="yú" main="1">
+		<definition id="一">
+			<item text="鱼口向上，露出水面。 [喁喁](喻)众人景仰归向的样子。" />
+		</definition>
+	</char>
+	<char hz="颙" py="yóng" />
+	<char hz="永" py="yǒng" />
+	<char hz="咏" py="yǒng" />
+	<char hz="泳" py="yǒng" />
+	<char hz="甬" py="yǒng" />
+	<char hz="俑" py="yǒng" />
+	<char hz="勇" py="yǒng" />
+	<char hz="涌" py="yǒng" />
+	<char hz="恿" py="yǒng" />
+	<char hz="蛹" py="yǒng" />
+	<char hz="踊" py="yǒng" />
+	<char hz="鲬" py="yǒng" />
+	<char hz="用" py="yòng" />
+	<char hz="佣" py="yòng" multi="yōng">
+		<phrase hz="佣金" py="yòng,jīn" />
+		<phrase hz="佣钱" py="yòng,qián" />
+		<definition id="二">
+			<item text="佣金，佣钱，买卖东西时给介绍人的钱。" />
+		</definition>
+	</char>
+</pinyin>

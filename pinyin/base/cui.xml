@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="衰" py="cuī" multi="shuāi">
+		<phrase hz="等衰" py="děng,cuī" />
+		<definition id="二" text="〈古〉">
+			<item id="1" text="等衰，等差，等次，等级。" />
+			<item id="2" text="同“缞”。" />
+		</definition>
+	</char>
+	<char hz="缞" py="cuī">
+		<definition>
+			<item text="古时用粗麻布制成的丧服。也作“衰”。" />
+		</definition>
+	</char>
+	<char hz="榱" py="cuī" />
+	<char hz="崔" py="cuī" />
+	<char hz="催" py="cuī" />
+	<char hz="摧" py="cuī" />
+	<char hz="璀" py="cuǐ" />
+	<char hz="脆" py="cuì" />
+	<char hz="萃" py="cuì" />
+	<char hz="啐" py="cuì" />
+	<char hz="淬" py="cuì" />
+	<char hz="悴" py="cuì" />
+	<char hz="瘁" py="cuì" />
+	<char hz="粹" py="cuì" />
+	<char hz="翠" py="cuì" />
+	<char hz="膵" py="cuì">
+		<phrase hz="膵脏" py="cuì,zàng" />
+	</char>
+	<char hz="毳" py="cuì" />
+</pinyin>

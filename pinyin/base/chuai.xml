@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="揣" py="chuāi" multi="chuǎi,chuài" main="1">
+		<definition id="二">
+			<item text="藏在衣服里：~手. ~在怀里." />
+		</definition>
+	</char>
+	<char hz="搋" py="chuāi" />
+	<char hz="膗" py="chuái" />
+	<char hz="揣" py="chuǎi" multi="chuāi,chuài">
+		<phrase hz="揣测" py="chuǎi,cè" />
+		<phrase hz="揣摩" py="chuǎi,mó" />
+		<definition id="一">
+			<item text="估量，忖度：我~测他不来了. 不~浅陋. [揣摩]1.研究，仔细琢磨：仔细~~写作的方法. 2.估量，推测：我~~你也能做." />
+		</definition>
+	</char>
+	<char hz="" py="chuài" />
+	<char hz="啜" py="chuài" multi="chuò">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="揣" py="chuài" multi="chuāi,chuǎi">
+		<phrase hz="挣揣" py="zhèng,chuài" />
+		<definition id="三">
+			<item text="[挣揣](zhèng-)挣扎。" />
+		</definition>
+	</char>
+	<char hz="踹" py="chuài" />
+	<char hz="嘬" py="chuài" multi="zuō">
+		<definition id="二">
+			<item text="咬，吃。" />
+		</definition>
+	</char>
+	<char hz="膪" py="chuài">
+		<phrase hz="囊膪" py="nāng,chuài" />
+		<definition>
+			<item text="[囊膪](nāng-)猪的胸腹部肥而松软的肉。"/>
+		</definition>
+	</char>
+</pinyin>

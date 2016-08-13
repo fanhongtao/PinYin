@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="厂" py="ān" multi="chǎng">
+		<definition id="二">
+			<item text="同“庵”（多用于人名）。" />
+		</definition>
+	</char>
+	<char hz="广" py="ān" multi="guǎng">
+		<definition id="二">
+			<item text="同“庵”（多用于人名）。" />
+		</definition>
+	</char>
+	<char hz="安" py="ān" />
+	<char hz="桉" py="ān" />
+	<char hz="氨" py="ān" />
+	<char hz="鮟" py="ān" trans="1" />
+	<char hz="鞍" py="ān" />
+	<char hz="庵" py="ān">
+		<definition>
+			<item id="1" text="圆形草屋。" />
+			<item id="2" text="小庙（多指尼姑住的）：~堂." />
+		</definition>
+	</char>
+	<char hz="鹌" py="ān" />
+	<char hz="谙" py="ān" />
+	<char hz="盦" py="ān" />
+	<char hz="垵" py="ǎn" />
+	<char hz="铵" py="ǎn" />
+	<char hz="俺" py="ǎn" />
+	<char hz="埯" py="ǎn" />
+	<char hz="唵" py="ǎn" />
+	<char hz="揞" py="ǎn" />
+	<char hz="犴" py="àn" multi="hān">
+		<phrase hz="狴犴" py="bì,àn" />
+		<definition id="二">
+			<item text="见“狴”字条“狴犴”（bì-）" />
+		</definition>
+	</char>
+	<char hz="岸" py="àn" />
+	<char hz="按" py="àn" />
+	<char hz="案" py="àn" />
+	<char hz="胺" py="àn" />
+	<char hz="暗" py="àn" />
+	<char hz="黯" py="àn" />
+</pinyin>

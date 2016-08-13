@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="悛" py="quān">
+		<phrase hz="怙恶不悛" py="hù,è,bù,quān" />
+	</char>
+	<char hz="圈" py="quān" multi="juān,juàn" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、儿）环形，环形的东西：画一个~儿. 铁~. (引)1.周、周遭：跑了一~儿. 兜了个大~子. 2.范围：这话说得出~儿了." />
+			<item id="2" text="画环形：~个红圈作记号." />
+			<item id="3" text="包围：打一道墙把这块地~起来." />
+		</definition>
+	</char>
+	<char hz="棬" py="quān" />
+	<char hz="权" py="quán" />
+	<char hz="全" py="quán" />
+	<char hz="佺" py="quán" />
+	<char hz="诠" py="quán" />
+	<char hz="荃" py="quán" />
+	<char hz="辁" py="quán" />
+	<char hz="牷" py="quán" />
+	<char hz="铨" py="quán" />
+	<char hz="痊" py="quán" />
+	<char hz="筌" py="quán" />
+	<char hz="醛" py="quán" />
+	<char hz="泉" py="quán" />
+	<char hz="鳈" py="quán" />
+	<char hz="拳" py="quán" />
+	<char hz="惓" py="quán" />
+	<char hz="蜷" py="quán" />
+	<char hz="鬈" py="quán" />
+	<char hz="颧" py="quán" />
+	<char hz="犬" py="quǎn" />
+	<char hz="畎" py="quǎn" />
+	<char hz="绻" py="quǎn" />
+	<char hz="劝" py="quàn" />
+	<char hz="券" py="quàn" multi="xuàn" main="1">
+		<definition id="一">
+			<item id="1" text="票据或作凭证的纸片：公债~. 入场~." />
+			<item id="2" text="“拱券”的“券”(xuàn)的又音。" />
+		</definition>
+	</char>
+</pinyin>

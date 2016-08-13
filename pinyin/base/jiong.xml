@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坰" py="jiōng" />
+	<char hz="扃" py="jiōng" />
+	<char hz="冏" py="jiōng" />
+	<char hz="迥" py="jiǒng" />
+	<char hz="泂" py="jiǒng" />
+	<char hz="䌹" py="jiǒng" />
+	<char hz="炯" py="jiǒng" />
+	<char hz="炅" py="jiǒng" multi="guì">
+		<definition id="一">
+			<item text="火光。" />
+		</definition>
+	</char>
+	<char hz="煚" py="jiǒng" />
+	<char hz="窘" py="jiǒng" />
+</pinyin>

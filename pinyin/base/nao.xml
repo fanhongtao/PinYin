@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="孬" py="nāo" />
+	<char hz="呶" py="náo" />
+	<char hz="挠" py="náo" />
+	<char hz="铙" py="náo" />
+	<char hz="蛲" py="náo" />
+	<char hz="憹" py="náo" trans="1" />
+	<char hz="峱" py="náo" />
+	<char hz="硇" py="náo" />
+	<char hz="猱" py="náo" />
+	<char hz="巎" py="náo" />
+	<char hz="垴" py="nǎo" />
+	<char hz="恼" py="nǎo" />
+	<char hz="脑" py="nǎo" />
+	<char hz="瑙" py="nǎo" />
+	<char hz="闹" py="nào" />
+	<char hz="淖" py="nào" />
+	<char hz="臑" py="nào" />
+</pinyin>

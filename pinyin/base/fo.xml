@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="佛" py="fó" multi="fú" main="1">
+		<definition id="一">
+			<item text="梵语“佛陀”的省称，是佛教徒对修行圆满的人的称呼。特指佛教的创始人释迦牟尼。[佛教]宗教名。相传公元前6世纪——公元前5世纪释迦牟尼所创。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="参" py="cēn" multi="cān,shēn">
+		<phrase hz="参差" py="cēn,cī" />
+		<definition id="三">
+			<item text="[参差](-cī)长短不齐：~~不齐." />
+		</definition>
+	</char>
+	<char hz="岑" py="cén" />
+	<char hz="涔" py="cén" />
+</pinyin>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="摸" py="mō" />
+	<char hz="谟" py="mó" />
+	<char hz="馍" py="mó" />
+	<char hz="嫫" py="mó" />
+	<char hz="摹" py="mó" />
+	<char hz="模" py="mó" multi="mú" main="1">
+		<phrase hz="模糊" py="mó,hu" />
+		<phrase hz="模棱" py="mó,léng" />
+		<definition id="一">
+			<item id="1" text="法式，规范：楷~. [模型]依照原物或计划中的事物（如建筑）的形式做成的物品。" />
+			<item id="2" text="仿效（(连)-仿）：儿童常~仿成人的举止动作." />
+			<item id="3" text="模范：劳~. 英~." />
+			<item text="[模糊](-hu)不分明，不清楚。" />
+			<item text="[模棱](-léng)意见或语言含糊，不肯定：~~两可." />
+			<item text="[模特儿](外)写生、雕塑时的描摹对象或参考对象，有时也指某些示范表演者：时装~~~." />
+		</definition>
+	</char>
+	<char hz="膜" py="mó" />
+	<char hz="麽" py="mó">
+		<phrase hz="幺麽" py="yāo,mó" />
+	</char>
+	<char hz="嬷" py="mó">
+		<phrase hz="嬷嬷" py="mó,mo" />
+	</char>
+	<char hz="摩" py="mó" multi="mā" main="1">
+		<phrase hz="摩挲" py="mó,suō" />
+		<definition id="一">
+			<item id="1" text="摩擦，蹭(cèng)：~拳擦掌." />
+			<item id="2" text="抚摩，摸：~弄. 按~. [摩挲](-suō)用手抚摩。" />
+			<item id="3" text="研究切磋。 [观摩]观察之后，加以研究，吸收别人的优点：~~教学." />
+			<item id="4" text="物质的量的单位摩尔的简称，符号mol。" />
+			<item text="[摩托](外)用汽油、柴油等发动的机器：~~车. ~~艇. ~~化部队." />
+		</definition>
+	</char>
+	<char hz="磨" py="mó" multi="mò" main="1">
+		<phrase hz="好事多磨" py="hǎo,shì,duō,mó" />
+		<definition id="一">
+			<item id="1" text="摩擦：~刀. ~墨. [磨合]新组装的机器经过一定时期的使用，把摩擦面上的加工痕迹磨光而变得更加密合。 [磨炼][磨练]锻炼，下工夫。" />
+			<item id="2" text="阻碍，困难（(连)-难、折-）：好(hǎo)事多~. (引)纠缠：小孩子~人." />
+			<item id="3" text="拖延，耗时间：~工夫." />
+			<item id="4" text="逐渐消失，消灭：百世不~. 这是永不~灭的真理. [消磨]1.使精力等逐渐消失：~~志气. 2.消耗：大好光阴不能白白~~掉." />
+		</definition>
+	</char>
+	<char hz="蘑" py="mó" />
+	<char hz="魔" py="mó" />
+	<char hz="劘" py="mó" />
+	<char hz="抹" py="mǒ" multi="mā,mò" main="1">
+		<definition id="一">
+			<item id="1" text="涂（(连)涂-）：伤口上~点药." />
+			<item id="2" text="揩，擦：~眼泪. 一~一手黑." />
+			<item id="3" text="除去：~零儿（不计算尾数）. ~掉几个字. [抹杀][抹煞]一概不计，勾销：一笔~~." />
+		</definition>
+	</char>
+	<char hz="万" py="mò" multi="wàn">
+		<phrase hz="万俟" py="mò,qí" />
+		<definition id="二">
+			<item text="[万俟](-qí)复姓。" />
+		</definition>
+	</char>
+	<char hz="末" py="mò" />
+	<char hz="抹" py="mò" multi="mā,mǒ">
+		<phrase hz="抹石灰" py="mò,shí,huī" />
+		<definition id="二">
+			<item text="涂抹，泥(nì)：他正在往墙上~石灰." />
+		</definition>
+	</char>
+	<char hz="茉" py="mò">
+		<phrase hz="茉莉" py="mò,li" />
+	</char>
+	<char hz="沫" py="mò">
+		<phrase hz="唾沫" py="tuò,mo" />
+	</char>
+	<char hz="妺" py="mò" />
+	<char hz="秣" py="mò" />
+	<char hz="靺" py="mò">
+		<phrase hz="靺鞨" py="mò,hé" />
+	</char>
+	<char hz="没" py="mò" multi="méi">
+		<phrase hz="没入水中" py="mò,rù,shuǐ,zhōng" />
+		<phrase hz="出没" py="chū,mò" />
+		<phrase hz="没落" py="mò,luò" />
+		<phrase hz="没收" py="mò,shōu" />
+		<phrase hz="没世" py="mò,shì" />
+		<definition id="二">
+			<item id="1" text="隐在水中：~入水中. (引)隐藏：深山有猛虎出~. [没落]衰落，趋向灭亡：~~阶级." />
+			<item id="2" text="漫过，高过：水~了头顶. 庄稼都长得~人了." />
+			<item id="3" text="把财物扣下：~收赃款." />
+			<item id="4" text="终，尽：~世（指终身，一辈子）." />
+			<item id="5" text="同“殁”。" />
+		</definition>
+	</char>
+	<char hz="殁" py="mò">
+		<definition>
+			<item text="死。也作“没”。" />
+		</definition>
+	</char>
+	<char hz="陌" py="mò" />
+	<char hz="貊" py="mò">
+		<definition>
+			<item text="哺乳类动物。像猪而略大，鼻子圆而长，能伸缩。产于热带，善游泳。" />
+		</definition>
+	</char>
+	<char hz="冒" py="mò" multi="mào">
+		<phrase hz="冒顿" py="mò,dú" />
+		<definition id="二">
+			<item text="[冒顿](-dú)汉初匈奴的一个首领名。" />
+		</definition>
+	</char>
+	<char hz="脉" py="mò" multi="mài">
+		<phrase hz="脉脉" py="mò,mò" />
+		<definition id="二">
+			<item text="[脉脉]形容眼神表达爱慕的情意：~~含情." />
+		</definition>
+	</char>
+	<char hz="莫" py="mò">
+		<phrase hz="莫邪" py="mò,yé" />
+		<definition>
+			<item id="1" text="不要，闲人~入."/>
+			<item id="2" text="没有，无：~不欣喜. ~大的光荣. [莫非]副词，难道：~~是他回来了吗？ [莫逆]朋友之间感情非常好：~~之交. [莫须有]也许有吧。后用来表示凭空捏造。"/>
+			<item id="3" text="不：变化~测."/>
+			<item text="[莫邪](-yé)古宝剑名。"/>
+		</definition>
+	</char>
+	<char hz="蓦" py="mò" />
+	<char hz="漠" py="mò" />
+	<char hz="寞" py="mò" />
+	<char hz="镆" py="mò">
+		<phrase hz="镆铘" py="mò,yé" />
+	</char>
+	<char hz="瘼" py="mò" />
+	<char hz="貘" py="mò" />
+	<char hz="嘿" py="mò" multi="hēi">
+		<definition id="二">
+			<item text="闭口不说话。同“默”。" />
+		</definition>
+	</char>
+	<char hz="墨" py="mò" />
+	<char hz="默" py="mò">
+		<definition>
+			<item text="不说话，不出声（叠）：沉~. ~~不语. ~读. ~写（凭记忆写出）. ~认（心里承认）." />
+		</definition>
+	</char>
+	<char hz="磨" py="mò" multi="mó">
+		<phrase hz="石磨" py="shí,mò" />
+		<phrase hz="电磨" py="diàn,mò" />
+		<phrase hz="磨豆腐" py="mò,dòu,fu" />
+		<phrase hz="磨面" py="mò,miàn" />
+		<definition id="二">
+			<item id="1" text="把粮食弄碎的工具：石~. 电~." />
+			<item id="2" text="用磨把粮食弄碎：~豆腐. ~面." />
+			<item id="3" text="掉转：小胡同不能~车." />
+		</definition>
+	</char>
+	<char hz="礳" py="mò" />
+	<char hz="耱" py="mò" />
+</pinyin>

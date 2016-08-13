@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="都" py="dōu" multi="dū" main="1">
+		<definition id="二" text="副词。">
+			<item id="1" text="全，完全：事情不论大小，~要做好." />
+			<item id="2" text="表示语气的加重：~十二点了还一睡. 连孩子~搬得动." />
+		</definition>
+	</char>
+	<char hz="唗" py="dōu" />
+	<char hz="兜" py="dōu" />
+	<char hz="蔸" py="dōu" />
+	<char hz="篼" py="dōu" />
+	<char hz="斗" py="dǒu" multi="dòu" main="1">
+		<phrase hz="斗拱" py="dǒu,gǒng" />
+		<definition id="一">
+			<item id="1" text="市制容量单位，1斗是10升。" />
+			<item id="2" text="量(liáng)粮食的器具，容量是1斗，多为方形。(喻)1.形容小东西的大：~胆. 2.形容大东西的小：~室. ~城." />
+			<item id="3" text="像斗的东西：漏~. 熨~. [斗拱]（*枓栱）(-gǒng)拱是建筑上弧形承重结构，斗是垫拱的方木块，全称斗拱。" />
+			<item id="4" text="呈圆形的指纹。" />
+			<item id="5" text="星宿名，二十八宿之一。" />
+		</definition>
+	</char>
+	<char hz="抖" py="dǒu">
+		<phrase hz="抖搂" py="dǒu,lou" />
+	</char>
+	<char hz="枓" py="dǒu">
+		<phrase hz="枓栱" py="dǒu,gǒng" />
+	</char>
+	<char hz="钭" py="dǒu" info="(又)tǒu" />
+	<char hz="蚪" py="dǒu" />
+	<char hz="陡" py="dǒu" />
+	<char hz="斗" py="dòu" multi="dǒu" info="Word主音">
+		<phrase hz="战斗" py="zhàn,dòu" />
+		<phrase hz="搏斗" py="bó,dòu" />
+		<phrase hz="斗争" py="dòu,zhēng" />
+		<phrase hz="奋斗" py="fèn,dòu" />
+		<phrase hz="斗智" py="dòu,zhì" />
+		<phrase hz="斗力" py="dòu,lì" />
+		<definition id="二">
+			<item id="1" text="对打（(连)战-）：搏~. [斗争]1.矛盾的双方互相冲突，一方力求战胜另一方：思想~~. 2.用说理、揭露、控诉等方式打击：开~~会. 3.奋斗：为了实现四个现代化而~~. [奋斗]为了达到一定的目的而努力干。" />
+			<item id="2" text="比赛胜负：~智. ~力." />
+			<item id="3" text="〈方〉拼合，凑近：那条桌子腿还没有~榫(sǔn). 用碎布~成一个口袋." />
+		</definition>
+	</char>
+	<char hz="豆" py="dòu" />
+	<char hz="逗" py="dòu" />
+	<char hz="饾" py="dòu">
+		<phrase hz="饾饤" py="dòu,dìng" />
+	</char>
+	<char hz="脰" py="dòu" />
+	<char hz="痘" py="dòu" />
+	<char hz="读" py="dòu" multi="dú">
+		<phrase hz="句读" py="jù,dòu" />
+		<definition id="二">
+			<item text="旧指文章里一句话中间念起来要稍稍停顿的地方：句~." />
+		</definition>
+	</char>
+	<char hz="窦" py="dòu" />
+</pinyin>

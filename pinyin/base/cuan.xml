@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="汆" py="cuān" />
+	<char hz="撺" py="cuān">
+		<phrase hz="撺掇" py="cuān,duo" />
+	</char>
+	<char hz="镩" py="cuān" />
+	<char hz="蹿" py="cuān" />
+	<char hz="攒" py="cuán" multi="zǎn">
+		<phrase hz="攒凑" py="cuán,còu" />
+		<definition id="二">
+			<item text="聚，凑集，拼凑：~凑. ~钱. ~电视机." />
+		</definition>
+	</char>
+	<char hz="窜" py="cuàn" />
+	<char hz="篡" py="cuàn" />
+	<char hz="爨" py="cuàn" />
+</pinyin>

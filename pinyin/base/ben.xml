@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奔" py="bēn" multi="bèn" info="Word主音">
+		<phrase hz="奔跑" py="bēn,pǎo" />
+		<phrase hz="狂奔" py="kuáng,bēn" />
+		<phrase hz="奔驰" py="bēn,chí" />
+		<phrase hz="东奔西走" py="dōng,bēn,xī,zǒu" />
+		<phrase hz="奔波" py="bēn,bō" />
+		<definition id="一">
+			<item text="急走，跑（(连)-跑）：狂~. ~驰. 东~西跑. [奔波]劳苦奔走。" />
+		</definition>
+	</char>
+	<char hz="锛" py="bēn" />
+	<char hz="贲" py="bēn" multi="bì" main="1">
+		<phrase hz="虎贲" py="hǔ,bēn" />
+		<phrase hz="贲门" py="bēn,mén" />
+		<definition id="二">
+			<item id="1" text="奔走，快跑。[虎贲]古时指勇士。" />
+			<item id="2" text="姓" />
+		</definition>
+	</char>
+	<char hz="栟" py="bēn" multi="bīng">
+		<phrase hz="栟茶" py="bēn,chá" />
+		<definition id="一">
+			<item text="[栟茶]地名，在江苏省如东。" />
+		</definition>
+	</char>
+	<char hz="本" py="běn" />
+	<char hz="苯" py="běn" />
+	<char hz="畚" py="běn" />
+	<char hz="夯" py="bèn" multi="hāng">
+		<definition id="二">
+			<item text="同“笨”（见于《西游记》、《红楼梦》等书）。" />
+		</definition>
+	</char>
+	<char hz="坌" py="bèn" />
+	<char hz="奔" py="bèn" multi="bēn" main="1">
+		<phrase hz="投奔" py="tóu,bèn" />
+		<phrase hz="直奔" py="zhí,bèn" />
+		<definition id="二">
+			<item id="1" text="直往，投向：投~. 直~工厂. 党指向哪里，就~向哪里. (引)接近（某年龄段）：他是~惹七十的人了." />
+			<item id="2" text="为某种目的而尽力去做：~材料. ~命." />
+		</definition>
+	</char>
+	<char hz="倴" py="bèn" />
+	<char hz="笨" py="bèn">
+		<definition>
+			<item id="1" text="不聪明（(连)愚-）。" />
+			<item id="2" text="不灵巧：嘴~. ~手~脚." />
+			<item id="3" text="粗重，费力气的：箱子太~. ~活." />
+		</definition>
+	</char>
+</pinyin>

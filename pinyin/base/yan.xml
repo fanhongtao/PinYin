@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咽" py="yān" multi="yàn,yè" main="1">
+		<definition id="一">
+			<item text="咽头，食物和气体共同通道，位于鼻腔、口腔和喉腔的后方，通常混称咽喉。" />
+		</definition>
+	</char>
+	<char hz="胭" py="yān">
+		<phrase hz="胭脂" py="yān,zhi" />
+	</char>
+	<char hz="烟" py="yān" />
+	<char hz="恹" py="yān" />
+	<char hz="殷" py="yān" multi="yīn">
+		<phrase hz="殷红" py="yān,hóng" />
+		<phrase hz="朱殷" py="zhū,yān" />
+		<definition id="二">
+			<item text="黑红色：~红. 朱~." />
+		</definition>
+	</char>
+	<char hz="焉" py="yān" />
+	<char hz="鄢" py="yān" />
+	<char hz="嫣" py="yān" />
+	<char hz="阏" py="yān">
+		<phrase hz="阏氏" py="yān,zhī" />
+		<definition>
+			<item text="[阏氏](-zhī)汉代匈奴称君主的正妻。"/>
+		</definition>
+	</char>
+	<char hz="崦" py="yān">
+		<phrase hz="崦嵫" py="yān,zī" />
+	</char>
+	<char hz="阉" py="yān" />
+	<char hz="淹" py="yān" />
+	<char hz="腌" py="yān" multi="ā" main="1">
+		<definition id="一">
+			<item text="用盐等浸渍食品：~肉. ~咸菜." />
+		</definition>
+	</char>
+	<char hz="湮" py="yān" multi="yīn" main="1">
+		<phrase hz="湮没" py="yān,mò" />
+		<definition id="一">
+			<item text="埋没（(连)-没）：有的古迹已经~~没了." />
+		</definition>
+	</char>
+	<char hz="燕" py="yān" multi="yàn">
+		<definition id="二">
+			<item id="1" text="周代诸侯国名，在今河北省北部和辽宁省南部。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="延" py="yán">
+		<phrase hz="蔓延" py="màn,yán" />
+	</char>
+	<char hz="埏" py="yán" multi="shān">
+		<definition id="二">
+			<item id="1" text="大地的边沿。" />
+			<item id="2" text="墓道。" />
+		</definition>
+	</char>
+	<char hz="蜒" py="yán" />
+	<char hz="筵" py="yán" />
+	<char hz="闫" py="yán" />
+	<char hz="芫" py="yán" multi="yuán">
+		<phrase hz="芫荽" py="yán,sui" />
+		<phrase hz="胡荽" py="yán,suī" />
+		<definition id="二">
+			<item text="[芫荽](-sui)俗叫“香菜”，又叫“胡荽”(-suī)。一年生或二年生草本植物，花白色。果实球形，有香气，可以制药和香料。茎、叶可以吃。" />
+		</definition>
+	</char>
+	<char hz="严" py="yán" />
+	<char hz="言" py="yán" />
+	<!-- <char hz="阽" py="yán" info="(又)diàn" /> -->
+	<char hz="妍" py="yán" />
+	<char hz="研" py="yán" />
+	<char hz="岩" py="yán" />
+	<char hz="炎" py="yán" />
+	<char hz="沿" py="yán" />
+	<char hz="铅" py="yán" multi="qiān">
+		<phrase hz="铅山" py="yán,shān" />
+		<definition id="二">
+			<item text="[铅山]地名，在江西省。" />
+		</definition>
+	</char>
+	<char hz="盐" py="yán" />
+	<char hz="阎" py="yán" />
+	<char hz="颜" py="yán" />
+	<char hz="檐" py="yán" />
+	<char hz="奄" py="yǎn" />
+	<char hz="掩" py="yǎn" />
+	<char hz="罨" py="yǎn" />
+	<char hz="兖" py="yǎn" />
+	<char hz="" py="yǎn" />
+	<char hz="俨" py="yǎn" />
+	<char hz="衍" py="yǎn" />
+	<char hz="弇" py="yǎn" />
+	<char hz="渰" py="yǎn" />
+	<char hz="剡" py="yǎn" multi="shàn" main="1">
+		<definition id="一" text="〈古〉">
+			<item id="1" text="尖，锐利。" />
+			<item id="2" text="削，刮。" />
+		</definition>
+	</char>
+	<char hz="琰" py="yǎn" />
+	<char hz="扊" py="yǎn">
+		<phrase hz="扊扅" py="yǎn,yí" />
+	</char>
+	<char hz="厣" py="yǎn" />
+	<char hz="魇" py="yǎn" />
+	<char hz="黡" py="yǎn" />
+	<char hz="郾" py="yǎn" />
+	<char hz="偃" py="yǎn" />
+	<char hz="蝘" py="yǎn">
+		<phrase hz="蝘蜓" py="yǎn,tíng" />
+	</char>
+	<char hz="眼" py="yǎn" />
+	<char hz="演" py="yǎn" />
+	<char hz="縯" py="yǎn" trans="1" />
+	<char hz="巘" py="yǎn" trans="1" />
+	<char hz="甗" py="yǎn" />
+	<char hz="鼹" py="yǎn" />
+	<char hz="厌" py="yàn" />
+	<char hz="餍" py="yàn" />
+	<char hz="觃" py="yàn" />
+	<char hz="砚" py="yàn" />
+	<char hz="咽" py="yàn" multi="yān,yè">
+		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
+		<phrase hz="狼吞虎咽" py="láng,tūn,hǔ,yàn" />
+		<phrase hz="咽气" py="yàn,qì" />
+		<definition id="二">
+			<item text="使嘴里的食物等通过咽喉到食道里去：细嚼慢~. 狼吞虎~. [咽气]人死时断气。" />
+		</definition>
+	</char>
+	<char hz="唁" py="yàn" />
+	<char hz="彦" py="yàn" />
+	<char hz="谚" py="yàn" />
+	<char hz="艳" py="yàn" />
+	<char hz="滟" py="yàn">
+		<phrase hz="滟滪堆" py="yàn,yù,duī" />
+	</char>
+	<char hz="晏" py="yàn" />
+	<char hz="鷃" py="yàn" trans="1" />
+	<char hz="宴" py="yàn">
+		<phrase hz="宴安鸩毒" py="yàn,ān,zhèn,dú" />
+		<definition>
+			<item id="1" text="用酒饭招待：~客." />
+			<item id="2" text="聚会在一起吃酒饭：~会." />
+			<item id="3" text="酒席：设~." />
+			<item id="4" text="安乐：~安鸩(zhèn)毒（贪图享受等于喝毒酒自杀）." />
+		</definition>
+	</char>
+	<char hz="堰" py="yàn" />
+	<char hz="验" py="yàn" />
+	<char hz="雁" py="yàn" />
+	<char hz="赝" py="yàn" />
+	<char hz="焰" py="yàn" />
+	<char hz="焱" py="yàn" />
+	<char hz="酽" py="yàn" />
+	<char hz="谳" py="yàn" />
+	<char hz="燕" py="yàn" multi="yān" main="1">
+		<definition id="一">
+			<item id="1" text="（-子）鸟名。翅膀很长，尾巴像张开的剪刀，背部黑色，肚皮白色，常在人家屋内或屋檐下用泥做巢居住，捕食昆虫。是候鸟。" />
+			<item id="2" text="古书里有时用作“宴”：~居. ~好. ~乐." />
+		</definition>
+	</char>
+	<char hz="" py="yàn" />
+</pinyin>

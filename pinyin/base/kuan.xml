@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="宽" py="kuān">
+		<phrase hz="宽绰" py="kuān,chuo" />
+	</char>
+	<char hz="髋" py="kuān" />
+	<char hz="款" py="kuǎn">
+		<phrase hz="钟鼎款识" py="zhōng,dǐng,kuǎn,zhì" />
+	</char>
+	<char hz="窾" py="kuǎn" />
+</pinyin>

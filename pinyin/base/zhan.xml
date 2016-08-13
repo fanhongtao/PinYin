@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="占" py="zhān" multi="zhàn">
+		<phrase hz="占卦" py="zhān,guà" />
+		<phrase hz="占课" py="zhān,kè" />
+		<definition id="一">
+			<item text="古代用龟甲、蓍(shī)草等，后世用铜钱或牙牌等判断吉凶：~卦. ~课." />
+		</definition>
+	</char>
+	<char hz="沾" py="zhān" />
+	<char hz="毡" py="zhān" />
+	<char hz="粘" py="zhān" multi="nián" main="1">
+		<definition id="一">
+			<item id="1" text="黏的东西互相连接或附着在别的东西上：几块糖都~在一起了. 不~锅." />
+			<item id="2" text="用胶水或糨糊等把一种东西胶合在另一种东西上：~贴标语." />
+		</definition>
+	</char>
+	<char hz="旃" py="zhān" />
+	<char hz="詹" py="zhān" />
+	<char hz="谵" py="zhān" />
+	<char hz="瞻" py="zhān" />
+	<char hz="邅" py="zhān" />
+	<char hz="鹯" py="zhān" />
+	<char hz="鳣" py="zhān" />
+	<char hz="斩" py="zhǎn" />
+	<char hz="崭" py="zhǎn" />
+	<char hz="䁪" py="zhǎn" trans="1" />
+	<char hz="飐" py="zhǎn" />
+	<char hz="盏" py="zhǎn" />
+	<char hz="展" py="zhǎn" />
+	<char hz="搌" py="zhǎn" />
+	<char hz="辗" py="zhǎn">
+		<phrase hz="辗转" py="zhǎn,zhuǎn" />
+	</char>
+	<char hz="黵" py="zhǎn">
+		<phrase hz="禁黵" py="jīn,zhuǎn" />
+	</char>
+	<char hz="占" py="zhàn" multi="zhān" main="1">
+		<definition id="二">
+			<item id="1" text="据有，用强力取得（(连)-据）：~领. 攻~敌军据点." />
+			<item id="2" text="处于某种地位或情势：~上风. ~优势. 优等生~多数." />
+		</definition>
+	</char>
+	<char hz="战" py="zhàn">
+		<definition>
+			<item id="1" text="战争，通常指打仗（(连)-斗）：宣~. ~时. 百~百胜. [战略]1.指导战争全局的计划和策略。 2.比喻决定全局的策略。 [战术]进行战斗的原则和方法。(喻)解决局部问题的方法。 [战役]战争的一个段落。为实现一定的战略目的，在一定的方向上和一定的时间内进行的一系列战斗的总和：淮海~~. [战争]就是打仗，它是政治的继续，是民族和民族、国家和国家、阶级和阶级、政治集团和政治集团之间互相斗争的最高形式。" />
+			<item id="2" text="发抖：~栗（害怕发抖）. 打冷~. 寒~." />
+		</definition>
+	</char>
+	<char hz="站" py="zhàn" />
+	<char hz="栈" py="zhàn" />
+	<char hz="绽" py="zhàn" />
+	<char hz="湛" py="zhàn" />
+	<char hz="颤" py="zhàn" multi="chàn">
+		<definition id="二">
+			<item text="同“战(2)”。" />
+		</definition>
+	</char>
+	<char hz="蘸" py="zhàn" />
+</pinyin>

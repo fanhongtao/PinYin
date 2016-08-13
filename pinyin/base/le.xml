@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肋" py="lē" multi="lèi">
+		<phrase hz="肋脦" py="lē,de" />
+		<definition id="二">
+			<item text="[肋脦](-de)(-te)(又)衣裳肥大，不整洁：瞧你穿得这个~~！" />
+		</definition>
+	</char>
+	<char hz="仂" py="lè" />
+	<char hz="叻" py="lè" />
+	<char hz="泐" py="lè" />
+	<char hz="竻" py="lè" />
+	<char hz="勒" py="lè" multi="lēi" main="1">
+		<definition id="一">
+			<item id="1" text="套在牲畜头上带嚼子的笼头。" />
+			<item id="2" text="收住缰绳不使前进：悬崖~马." />
+			<item id="3" text="强制：~令. ~索." />
+			<item id="4" text="刻：~石. ~碑." />
+		</definition>
+	</char>
+	<char hz="簕" py="lè" />
+	<char hz="鳓" py="lè" />
+	<char hz="乐" py="lè" multi="yuè" main="1">
+		<definition id="一">
+			<item id="1" text="快乐，欢喜，快活：~趣. ~事. ~而忘返." />
+			<item id="2" text="乐于：~此不疲. [乐得]正好，正合心愿：~~这样做." />
+			<item id="3" text="(-子、-儿)使人快乐的事情：取~. 逗~儿." />
+			<item id="4" text="笑：可~. 把一屋子人都逗~了. 你~什么？" />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="了" py="le" multi="liǎo" main="1">
+		<definition id="二" text="助词。">
+			<item id="1" text="放在动词或形容词后，表示动作或变化已经完成：买~一本书. 水位低~两尺." />
+			<item id="2" text="用在句子末尾或句中停顿的地方，表示变化或出现新的情况。 1.指明已经出现或将要出现某种情况：下雨~. 明天就是星期日~. 2.认识、想法、主张、行动等有变化：我现在明白他的意思~. 他今年暑假不回家~. 我本来没打算去，后来还是去~. 3.随假设的条件转移：你早来一天就见着他~. 4.催促或劝止：走~，走~，不能再等~！ 算~，不要老说这些事~！" />
+		</definition>
+	</char>
+	<char hz="饹" py="le" />
+</pinyin>

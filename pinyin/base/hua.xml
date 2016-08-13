@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="化" py="huā" multi="huà">
+		<definition id="二">
+			<item text="同“花(7)”。" />
+		</definition>
+	</char>
+	<char hz="华" py="huā" multi="huá,huà">
+		<definition id="三">
+			<item text="〈古〉同“花”。" />
+		</definition>
+	</char>
+	<char hz="哗" py="huā" multi="huá">
+		<phrase hz="哗哗" py="huā,huā" />
+		<definition id="二">
+			<item text="拟声词：水~~地流." />
+		</definition>
+	</char>
+	<char hz="花" py="huā">
+		<phrase hz="花哨" py="huā,shao" />
+		<phrase hz="花消" py="huā,xiao" />
+		<phrase hz="花销" py="huā,xiao" />
+		<definition>
+			<item id="1" text="（-儿）种子植物的有性生殖器官，有各种形状和颜色，一般花谢后结成果实。(引)供观赏的植物。" />
+			<item id="2" text="（-儿）样子或形状像花的：雪~儿. 浪~. 火~儿. 葱~儿. 印~. [天花]一种急性传染病，病原体是病毒，又叫“痘”或“痘疮”，也省称“花”。结痂后留下的疤痕就是麻子。 [挂花]战士在战斗中受了伤。" />
+			<item id="3" text="错杂的颜色或花样：~布. 头发~白. ~边. 那只猫是~的. [花哨](-shao)颜色鲜艳，花样多，变化多：这块布真~~." />
+			<item id="4" text="混杂的，不单纯的：粗粮细粮~搭着吃. [花甲]天干地支配合用来纪年，从甲子起，六十年成一周，因称六十岁为花甲。" />
+			<item id="5" text="虚伪的、用来迷惑人的：耍~招. ~言巧语." />
+			<item id="6" text="模糊不清：~眼. 眼~了." />
+			<item id="7" text="用掉：~钱. ~一年工夫. [花消](-xiao)费用。也作“花销”。" />
+		</definition>
+	</char>
+	<char hz="砉" py="huā" multi="xū">
+		<definition id="二">
+			<item text="拟声词，迅速动作的声音：乌鸦~的一声飞了." />
+		</definition>
+	</char>
+	<char hz="划" py="huá" multi="huà,huai" main="1">
+		<phrase hz="划子" py="huá,zi" />
+		<definition id="二">
+			<item id="1" text="用刀或其他东西把别的东西分开或从上面擦过：把这个瓜用刀~开. ~了一道口子. ~火柴." />
+			<item id="2" text="用桨拨水使船行动：~船. [划子](-zi)用桨拨水行驶的小船。" />
+			<item id="3" text="合算，按利益情况来计较相宜不相宜：~不来." />
+		</definition>
+	</char>
+	<char hz="华" py="huá" multi="huā,huà" main="1">
+		<phrase hz="华发" py="huá,fà" />
+		<definition id="一">
+			<item id="1" text="美丽有光彩的（(连)-丽）：~灯. 光~. 敬辞：~诞（生日）. ~翰（书信）." />
+			<item id="2" text="繁荣昌盛：繁~." />
+			<item id="3" text="事物最好的部分：精~. 英~." />
+			<item id="4" text="指时光，岁月：韶~. 似水年~." />
+			<item id="5" text="（头发）花白：~发(fà)." />
+			<item id="6" text="指中华民族或中国：~夏. ~侨. ~北." />
+		</definition>
+	</char>
+	<char hz="哗" py="huá" multi="huā" main="1">
+		<definition id="一">
+			<item text="人多声杂，乱吵（(连)喧-）：全体大~. ~众取宠（在别人前面夸耀自己，骗取别人称赞）." />
+		</definition>
+	</char>
+	<char hz="骅" py="huá">
+		<phrase hz="骅骝" py="huá,liú" />
+	</char>
+	<char hz="铧" py="huá" />
+	<char hz="猾" py="huá" />
+	<char hz="滑" py="huá">
+		<phrase hz="滑稽" py="huá,ji" />
+	</char>
+	<char hz="搳" py="huá" />
+	<char hz="化" py="huà" multi="huā" main="1">
+		<definition id="一">
+			<item id="1" text="性质或形态改变：~整为零. 变~. 开~. 冰都~了. [化合]两种或两种以上的物质互相结合变成一种性质跟原来物质都不相同的新物质。 [化石]埋藏在地下的古代生物的遗骸变成的石块，或带着古代生物遗迹的石块。 [化学]研究物质的结构、组成、性质、应用及其变化规律的科学。" />
+			<item id="2" text="使思想、行为等有所转变：感~. 教~. 潜移默~." />
+			<item id="3" text="指化学：~工. ~肥." />
+			<item id="4" text="佛教道教徒募集财物：~缘. ~斋（乞食）." />
+			<item id="5" text="词尾，放在名词或形容词后，表示转变成某种性质或状态：革命~. 农业机械~. 工业现代~. 科学~. 绿~." />
+		</definition>
+	</char>
+	<char hz="华" py="huà" multi="huā,huá">
+		<phrase hz="华山" py="huà,shān" />
+		<definition id="二">
+			<item id="1" text="华山，五岳中的西岳，在陕西省华阴。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="桦" py="huà" />
+	<char hz="划" py="huà" multi="huá,huai">
+		<phrase hz="划分" py="huà,fēn" />
+		<phrase hz="划清" py="huà,qīng" />
+		<phrase hz="划时代" py="huà,shí,dài" />
+		<phrase hz="计划" py="jì,huà" />
+		<phrase hz="筹划" py="chóu,huà" />
+		<phrase hz="划一" py="huà,yī" />
+		<definition id="一">
+			<item id="1" text="分开：~分区域. ~清界限. [划时代]由于出现了具有伟大意义的新事物，在历史上开辟一个新的时代。" />
+			<item id="2" text="设计（(连)计-、筹-）：工作计~. 你去筹~筹~这件事. [划一]使一致：~~制度." />
+		</definition>
+	</char>
+	<char hz="画" py="huà" />
+	<char hz="婳" py="huà" />
+	<char hz="话" py="huà" />
+</pinyin>

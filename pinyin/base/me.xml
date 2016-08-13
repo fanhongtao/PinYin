@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="么" py="me" multi="ma,yāo" main="1">
+		<definition id="一">
+			<item id="1" text="词尾：怎~. 那~. 多~. 这~. 什~." />
+			<item id="2" text="助词，表有含蓄的语气，用在前半句末了：不让你去~，你又要去." />
+		</definition>
+	</char>
+	<char hz="嚜" py="me" />
+</pinyin>

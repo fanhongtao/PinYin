@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刀" py="dāo" />
+	<char hz="叨" py="dāo" multi="tāo" main="1">
+		<phrase hz="叨叨" py="dāo,dao" />
+		<phrase hz="叨唠" py="dāo,lao" />
+		<definition id="二">
+			<item text="[叨叨](-dao)话多。 [叨唠](-lao)翻来覆去地说。" />
+		</definition>
+	</char>
+	<char hz="忉" py="dāo" />
+	<char hz="鱽" py="dāo" />
+	<char hz="氘" py="dāo" />
+	<char hz="捯" py="dáo">
+		<phrase hz="捯饬" py="dáo,chi" />
+	</char>
+	<char hz="导" py="dǎo" />
+	<char hz="岛" py="dǎo" />
+	<char hz="捣" py="dǎo" />
+	<char hz="倒" py="dǎo" multi="dào" main="1">
+		<definition id="一">
+			<item id="1" text="竖立的东西躺下来：墙~了. 摔~了. (引)指工商业因亏累而关门：~闭. [倒霉]（*倒楣）事情不顺利，受挫折。" />
+			<item id="2" text="转移，更换：~手. ~车. ~换." />
+			<item id="3" text="倒买倒卖，进行投机活动：~汇. ~邮票." />
+			<item id="4" text="指食欲变得不好：老吃白菜，真~胃口." />
+		</definition>
+	</char>
+	<char hz="祷" py="dǎo" />
+	<char hz="蹈" py="dǎo" />
+	<char hz="到" py="dào" />
+	<char hz="倒" py="dào" multi="dǎo">
+		<phrase hz="倒数" py="dào,shǔ" />
+		<phrase hz="倒粪" py="dào,fèn" />
+		<phrase hz="倒茶" py="dào,chá" />
+		<phrase hz="倒水" py="dào,shuǐ" />
+		<phrase hz="倒退" py="dào,tuì" />
+		<phrase hz="倒车" py="dào,chē" />
+		<definition id="二">
+			<item id="1" text="上下或前后颠倒：这面镜子挂~了. 把那几本书~过来. ~数第一. [倒粪]把堆着的粪来回翻动弄碎。" />
+			<item id="2" text="把容器反转或倾斜使里面的东西出来：~茶. ~水." />
+			<item id="3" text="向后，往回退：~退. ~车（车向后退）." />
+			<item id="4" text="副词，反而，却，相反：这~好了. 跑了一天，~不觉得累." />
+		</definition>
+	</char>
+	<char hz="帱" py="dào" multi="chóu">
+		<definition id="二">
+			<item text="覆盖。" />
+		</definition>
+	</char>
+	<char hz="焘" py="dào" info="(又)tāo" />
+	<char hz="盗" py="dào" />
+	<char hz="悼" py="dào" />
+	<char hz="道" py="dào">
+		<phrase hz="道观" py="dào,guàn" />
+	</char>
+	<char hz="稻" py="dào" />
+	<char hz="纛" py="dào" />
+</pinyin>

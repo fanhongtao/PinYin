@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="齁" py="hōu" />
+	<char hz="侯" py="hóu" multi="hòu" main="1">
+		<definition id="一">
+			<item id="1" text="我国古代五等爵位（公、侯、伯、子、男）的第二等：封~." />
+			<item id="2" text="泛指达官贵人：~门." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="喉" py="hóu" />
+	<char hz="猴" py="hóu" />
+	<char hz="瘊" py="hóu" />
+	<char hz="篌" py="hóu" />
+	<char hz="糇" py="hóu" />
+	<char hz="骺" py="hóu" />
+	<char hz="吼" py="hǒu" />
+	<char hz="后" py="hòu" />
+	<char hz="郈" py="hòu" />
+	<char hz="茩" py="hòu" />
+	<char hz="垕" py="hòu" info="字典中的字，撇（丿）在“土”上面" />
+	<char hz="逅" py="hòu" />
+	<char hz="厚" py="hòu" />
+	<char hz="侯" py="hòu" multi="hóu">
+		<phrase hz="闽侯" py="mǐn,hòu" />
+		<definition id="二">
+			<item text="[闽侯]地名，在福建省。" />
+		</definition>
+	</char>
+	<char hz="候" py="hòu" />
+	<char hz="堠" py="hòu" />
+	<char hz="鲎" py="hòu" />
+</pinyin>

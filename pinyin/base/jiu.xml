@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="纠" py="jiū" />
+	<char hz="赳" py="jiū" />
+	<char hz="鸠" py="jiū" />
+	<char hz="究" py="jiū" />
+	<char hz="阄" py="jiū" />
+	<char hz="揪" py="jiū" />
+	<char hz="啾" py="jiū" />
+	<char hz="鬏" py="jiū" />
+	<char hz="九" py="jiǔ" />
+	<char hz="氿" py="jiǔ" multi="guǐ" main="1">
+		<definition id="二">
+			<item text="湖名，在江苏省宜兴，分东氿、西氿。" />
+		</definition>
+	</char>
+	<char hz="久" py="jiǔ" />
+	<char hz="玖" py="jiǔ" />
+	<char hz="灸" py="jiǔ" />
+	<char hz="韭" py="jiǔ" />
+	<char hz="酒" py="jiǔ" />
+	<char hz="旧" py="jiù" />
+	<char hz="臼" py="jiù" />
+	<char hz="桕" py="jiù" />
+	<char hz="舅" py="jiù" />
+	<char hz="咎" py="jiù" />
+	<char hz="疚" py="jiù" />
+	<char hz="柩" py="jiù" />
+	<char hz="救" py="jiù" />
+	<char hz="厩" py="jiù" />
+	<char hz="就" py="jiù" />
+	<char hz="僦" py="jiù" />
+	<char hz="鹫" py="jiù" />
+</pinyin>

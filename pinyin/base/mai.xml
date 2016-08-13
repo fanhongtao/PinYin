@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="埋" py="mái" multi="mán" main="1">
+		<phrase hz="埋没" py="mái,mò" />
+		<definition id="一">
+			<item text="把东西放在坑里用土盖上：掩~. ~地雷. (引)隐藏，使不显露：隐姓~名. [埋伏]在敌人将要经过的地方布置下军队，准备袭击。 [埋没](-mò)使人才、功绩、作用等显露不出来 ：不要~~人才. [埋头](喻)专心，下功夫：~~苦干." />
+		</definition>
+	</char>
+	<char hz="霾" py="mái" />
+	<char hz="买" py="mǎi">
+		<phrase hz="买卖" py="mǎi,mai" />
+	</char>
+	<char hz="荬" py="mǎi" />
+	<char hz="劢" py="mài" />
+	<char hz="迈" py="mài" />
+	<char hz="麦" py="mài" />
+	<char hz="唛" py="mài" />
+	<char hz="miss: 钅麦" py="mài" />
+	<char hz="卖" py="mài" />
+	<char hz="脉" py="mài" multi="mò" main="1">
+		<definition id="一">
+			<item id="1" text="分布在人和动物周身内的血管：动~. 静~." />
+			<item id="2" text="脉搏，动脉的跳动：诊~." />
+			<item id="3" text="像血管那样分布的东西：山~. 矿~. 叶~." />
+		</definition>
+	</char>
+	<char hz="霡" py="mài">
+		<phrase hz="霡霂" py="mài,mù" />
+	</char>
+</pinyin>

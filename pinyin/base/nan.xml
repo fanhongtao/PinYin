@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="囝" py="nān" multi="jiǎn">
+		<definition id="二">
+			<item text="〈方〉同“囡”。" />
+		</definition>
+	</char>
+	<char hz="囡" py="nān">
+		<definition>
+			<item text="〈方〉小孩儿。" />
+		</definition>
+	</char>
+	<char hz="男" py="nán">
+		<phrase hz="长男" py="zhǎng,nán" />
+	</char>
+	<char hz="南" py="nán" />
+	<char hz="喃" py="nán" />
+	<char hz="楠" py="nán" />
+	<char hz="难" py="nán" multi="nàn" main="1">
+		<phrase hz="难为" py="nán,wei" />
+		<definition id="一">
+			<item id="1" text="不容易（(连)艰-）：~事. ~题. ~写. ~产. ~得." />
+			<item id="2" text="不大可能：~免. ~保. [难道]副词，加强反问语气：河水~~会倒流吗？ 他们能完成任务，~~我们就不能吗？" />
+			<item id="3" text="使人不好办：这可真~住他了. [难为](-wei)1.令人为难：他不会跳舞，就别~~他了. 2.亏得，表示感谢：这么冷天~~你还来看我. ~~你把机器修好了." />
+			<item id="4" text="不好：~听. ~看." />
+		</definition>
+	</char>
+	<char hz="赧" py="nǎn" />
+	<char hz="腩" py="nǎn" />
+	<char hz="蝻" py="nǎn" />
+	<char hz="难" py="nàn" multi="nán">
+		<phrase hz="灾难" py="zāi,nàn" />
+		<phrase hz="患难" py="huàn,nàn" />
+		<phrase hz="难民" py="nàn,mín" />
+		<phrase hz="遭难" py="zāo,nàn" />
+		<phrase hz="逃难" py="táo,nàn" />
+		<phrase hz="非难" py="fēi,nàn" />
+		<phrase hz="责难" py="zé,nàn" />
+		<definition id="二">
+			<item id="1" text="灾患，困苦（(连)灾-、患-）：~民. 遭~. 逃~." />
+			<item id="2" text="诘责：非~. 责~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="加" py="jiā" />
+	<char hz="伽" py="jiā" multi="gā,qié">
+		<phrase hz="伽倻" py="jiā,yē" />
+		<phrase hz="伽利略" py="jiā,lì,lüè" />
+		<definition id="二">
+			<item text="[伽倻](-yē)伽倻琴，朝鲜族弦乐器。 [伽利略]意大利天文学家、物理学家。" />
+		</definition>
+	</char>
+	<char hz="茄" py="jiā" multi="qié">
+		<phrase hz="雪茄" py="xuě,jiā" />
+		<definition id="二">
+			<item text="〈古〉荷茎。" />
+			<item text="[雪茄]（外）一种较粗较长用烟叶卷成的卷烟。" />
+		</definition>
+	</char>
+	<char hz="迦" py="jiā" />
+	<char hz="珈" py="jiā" />
+	<char hz="枷" py="jiā" />
+	<char hz="痂" py="jiā" />
+	<char hz="耞" py="jiā" />
+	<char hz="笳" py="jiā" />
+	<char hz="袈" py="jiā">
+		<phrase hz="袈裟" py="jiā,shā" />
+	</char>
+	<char hz="跏" py="jiā">
+		<phrase hz="跏趺" py="jiā,fū" />
+	</char>
+	<char hz="嘉" py="jiā" />
+	<char hz="夹" py="jiā" multi="gā,jiá" main="1">
+		<definition id="一">
+			<item id="1" text="从东西的两旁钳住：书里~着一张纸. (引)1.两旁有东西限制住：~道. 两山~一水. 2.从两面来的：~攻." />
+			<item id="2" text="胳膊向胁部用力，使腋下放着的东西不掉下：~着书包." />
+			<item id="3" text="掺杂（(连)-杂）：~七杂八. ~生." />
+			<item id="4" text="（-子、-儿）夹东西的器具，文件~. 皮~儿." />
+		</definition>
+	</char>
+	<char hz="浃" py="jiā" />
+	<char hz="佳" py="jiā" />
+	<char hz="家" py="jiā" multi="jie" main="1">
+		<phrase hz="家畜" py="jiā,chù" />
+		<phrase hz="家伙" py="jiā,huo" />
+		<phrase hz="家什" py="jiā,shi" />
+		<definition id="一">
+			<item id="1" text="家庭，人家：勤俭持~. 张~有五口人. 谦辞，用于对别人称自己亲属中比自己年纪大或辈分高的：~兄. ~父. [家常]家庭日常生活：~~便饭. 叙~~. [家畜](-chù)由人喂养的禽兽，如马、牛、羊、鸡、猪等。 [家伙](-huo)1.一般的用具、工具。 2.指武器。 3.指牲畜或人（轻视或玩笑）。 [家具]家庭用具，主要指床、柜、桌、椅等。 [家什](-shi)用具，器物：厨房里的~~擦得干干净净." />
+			<item id="2" text="家庭的住所：回~. 这儿就是我的~." />
+			<item id="3" text="指经营某种行业或有某种身份的人家：农~. 酒~." />
+			<item id="4" text="掌握某种专门学识或有丰富实践经验以及从事某种专门活动的人：科学~. 水稻专~. 政治~." />
+			<item id="5" text="学术流派：儒~. 道~. 百~争鸣." />
+			<item id="6" text="指相对各方中的一方：上~. 下~." />
+			<item id="7" text="(jia)词尾，指一类的人（多按年龄或性别分）：姑娘~. 孩子~." />
+			<item id="8" text="量词：一~人家. 两~饭馆." />
+			<item id="9" text="姓。" />
+		</definition>
+	</char>
+	<char hz="傢" py="jiā" />
+	<char hz="镓" py="jiā" />
+	<char hz="葭" py="jiā">
+		<phrase hz="葭莩" py="jiā,fú" />
+	</char>
+	<char hz="豭" py="jiā" />
+	<char hz="夹" py="jiá" multi="gā,jiā" info="Word主音">
+		<phrase hz="夹裤" py="jiá,kù" />
+		<phrase hz="夹被" py="jiá,bèi" />
+		<definition id="二">
+			<item text="两层的衣物：~裤. ~被." />
+		</definition>
+	</char>
+	<char hz="袷" py="jiá" multi="qiā" main="1">
+		<definition id="二">
+			<item text="“夹”的异体字。" />
+		</definition>
+	</char>
+	<char hz="郏" py="jiá" />
+	<char hz="荚" py="jiá" />
+	<char hz="铗" py="jiá" />
+	<char hz="颊" py="jiá" />
+	<char hz="蛱" py="jiá">
+		<phrase hz="蛱蝶" py="jiá,dié" />
+	</char>
+	<char hz="恝" py="jiá" />
+	<char hz="戛" py="jiá" />
+	<char hz="甲" py="jiǎ" />
+	<char hz="岬" py="jiǎ" />
+	<char hz="胛" py="jiǎ" />
+	<char hz="钾" py="jiǎ" />
+	<char hz="䖬" py="jiǎ" />
+	<char hz="贾" py="jiǎ" multi="gǔ" main="1">
+		<definition id="一">
+			<item id="1" text="姓。" />
+			<item id="2" text="古多用于人名。" />
+			<item text="〈古〉又同“价（價）”(jià)。" />
+		</definition>
+	</char>
+	<char hz="槚" py="jiǎ" />
+	<char hz="假" py="jiǎ" multi="jià" main="1">
+		<definition id="一">
+			<item id="1" text="不真实的，不是本来的，跟“真”相对：~头发. ~话. [假如][假使]连词，如果。" />
+			<item id="2" text="借用，利用（(连)-借）：~手于人. ~公济私." />
+			<item id="3" text="据理推断，有待验证的：~设. ~说." />
+		</definition>
+	</char>
+	<!-- <char hz="嘏" py="jiǎ"/> -->
+	<char hz="瘕" py="jiǎ" />
+	<char hz="斝" py="jiǎ" />
+	<char hz="价" py="jià" multi="jiè,jie" main="1">
+		<definition id="一">
+			<item text="价钱，商品所值的钱数：~目. 物~稳定. 减~. [价格]用货币表现出来的商品的价值。 [价值]1.政治经济学上指凝结在商品中的生产者的社会必要劳动。 2.通常指用途或重要性：有~~. [原子价]化学上称能跟某元素一个原子直接或间接相化合或替代的氢原子数为这个元素的原子价。也省称“价”。" />
+		</definition>
+	</char>
+	<char hz="驾" py="jià">
+		<phrase hz="驾驭" py="jià,yù" />
+	</char>
+	<char hz="架" py="jià" />
+	<char hz="假" py="jià" multi="jiǎ">
+		<phrase hz="放假" py="fàng,jià" />
+		<phrase hz="寒假" py="hán,jià" />
+		<phrase hz="假期" py="jià,qī" />
+		<phrase hz="请假" py="qǐng,jià" />
+		<definition id="二">
+			<item text="照规定或经过批准暂时离开工作、学习场所的时间：放~. 寒~. ~期. 请~." />
+		</definition>
+	</char>
+	<char hz="嫁" py="jià" />
+	<char hz="稼" py="jià">
+		<phrase hz="稼穑" py="jià,sè" />
+	</char>
+</pinyin>

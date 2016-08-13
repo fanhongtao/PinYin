@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="曰" py="yuē" />
+	<char hz="约" py="yuē" multi="yāo" main="1">
+		<definition id="一">
+			<item id="1" text="拘束，限制（(连)-束）。" />
+			<item id="2" text="共同议定的要遵守的条款：条~. 立~. 爱国公~." />
+			<item id="3" text="预先说定：预~. 和他~好了." />
+			<item id="4" text="请：~他来. 特~记者." />
+			<item id="5" text="算术上指用公因数去除分子和分母使分数重简化：5/10可以~成1/2." />
+			<item id="6" text="俭省：节~." />
+			<item id="7" text="简单，简要：简~. 由博返~." />
+			<item id="8" text="大约，大概，不十分确定的：~计. ~数. 大~有五十人." />
+		</definition>
+	</char>
+	<char hz="矱" py="yuē" />
+	<char hz="彟" py="yuē" />
+	<char hz="哕" py="yuě">
+		<phrase hz="干哕" py="gān,yue" />
+	</char>
+	<char hz="月" py="yuè">
+		<phrase hz="月子" py="yuè,zi" />
+		<phrase hz="月氏" py="yuè,zhī" />
+		<definition>
+			<item id="1" text="月亮，地球的卫星，本身不发光，它的光是反射太阳的光。 [月食]（*月蚀）地球在日、月中间成一条直线，遮住太阳照到月亮上的光。"/>
+			<item id="2" text="计时单位，一年分十二个月。 [月子](-zi)指妇女生产后的一个月内的时间：坐~~."/>
+			<item id="3" text="形状像月亮的，圆的：~饼. ~琴."/>
+			<item id="4" text="按月出现或完成的：~经. ~刊. ~票. ~报表."/>
+			<item text="[月氏](-zhī)我国古代西部民族名。"/>
+		</definition>
+	</char>
+	<char hz="刖" py="yuè" />
+	<char hz="玥" py="yuè" />
+	<char hz="钥" py="yuè" multi="yào" main="1">
+		<phrase hz="锁钥" py="suǒ,yuè" />
+		<definition id="一">
+			<item text="锁。 [锁钥](喻) 1.重要关键。 2.边防要地：北门~~." />
+		</definition>
+	</char>
+	<char hz="乐" py="yuè" multi="lè">
+		<phrase hz="音乐" py="yīn,yuè" />
+		<phrase hz="奏乐" py="zòu,yuè" />
+		<phrase hz="乐清" py="yuè,qīng" />
+		<definition id="二">
+			<item id="1" text="音乐：奏~. [乐清]地名，在浙江省。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="栎" py="yuè" multi="lì">
+		<phrase hz="栎阳" py="yuè,yáng" />
+		<definition id="二">
+			<item text="[栎阳]古地名，在今陕西省临潼。" />
+		</definition>
+	</char>
+	<char hz="岳" py="yuè" />
+	<char hz="说" py="yuè" multi="shuì,shuō">
+		<definition id="三">
+			<item text="古同“悦”。" />
+		</definition>
+	</char>
+	<char hz="阅" py="yuè" />
+	<char hz="悦" py="yuè">
+		<definition>
+			<item id="1" text="高兴，愉快（(连)喜-）：和颜~色. 心~诚服." />
+			<item id="2" text="使愉快：~耳. 赏心~目." />
+		</definition>
+	</char>
+	<char hz="钺" py="yuè" />
+	<char hz="越" py="yuè">
+		<phrase hz="越俎代庖" py="yuè,zǔ,dài,páo" />
+	</char>
+	<char hz="樾" py="yuè" />
+	<char hz="跃" py="yuè" />
+	<char hz="粤" py="yuè" />
+	<char hz="鸑" py="yuè" trans="1" />
+	<char hz="龠" py="yuè" />
+	<char hz="瀹" py="yuè" />
+	<char hz="籥" py="yuè" />
+	<char hz="籰" py="yuè" />
+</pinyin>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="耠" py="huō" />
+	<char hz="騞" py="huō" />
+	<char hz="锪" py="huō" />
+	<char hz="劐" py="huō" />
+	<char hz="嚄" py="huō" multi="ǒ" main="1">
+		<definition id="一">
+			<item text="叹词，表示惊讶：~，好大的水库！" />
+		</definition>
+	</char>
+	<char hz="豁" py="huō" multi="huò" main="1">
+		<phrase hz="豁子" py="huō,zi" />
+		<definition id="一">
+			<item id="1" text="残缺，裂开：~口. ~了一个口子. ~唇. [豁子](-zi)残缺的口子：碗上有个~~. 城墙拆了一个~~." />
+			<item id="2" text="舍弃，狠心付出高代价：~出性命. ~出几天时间." />
+		</definition>
+	</char>
+	<char hz="攉" py="huō" />
+	<char hz="和" py="huó" multi="hé,hè,hú,huò">
+		<phrase hz="和面" py="huó,miàn" />
+		<phrase hz="和泥" py="huó,ní" />
+		<definition id="三">
+			<item text="在粉状物中加水搅拌或揉弄使粘在一起：~面. ~泥." />
+		</definition>
+	</char>
+	<char hz="活" py="huó" />
+	<char hz="火" py="huǒ" />
+	<char hz="伙" py="huǒ" />
+	<char hz="钬" py="huǒ" />
+	<char hz="漷" py="huǒ" />
+	<char hz="夥" py="huǒ" />
+	<char hz="或" py="huò" />
+	<char hz="惑" py="huò" />
+	<char hz="和" py="huò" multi="hé,hè,hú,huó">
+		<phrase hz="和药" py="huò,yào" />
+		<definition id="四">
+			<item id="1" text="粉状或粒状物掺和在一起，或加水搅拌：~药." />
+			<item id="2" text="量词，洗衣物换水的次数：衣裳已经洗了两~." />
+			<item id="3" text="量词，煎药加水的次数：头~药. 二~药." />
+		</definition>
+	</char>
+	<char hz="货" py="huò" />
+	<char hz="获" py="huò" />
+	<char hz="祸" py="huò" />
+	<char hz="謋" py="huò" trans="1" />
+	<char hz="霍" py="huò" />
+	<char hz="藿" py="huò" />
+	<char hz="嚯" py="huò" />
+	<char hz="豁" py="huò" multi="huō">
+		<phrase hz="豁达" py="huò,dá" />
+		<phrase hz="豁然开朗" py="huò,rán,kāi,lǎng" />
+		<phrase hz="豁免" py="huò,miǎn" />
+		<definition id="二">
+			<item id="1" text="开通，敞亮：~达. ~然开朗." />
+			<item id="2" text="免除（(连)-免）。" />
+		</definition>
+	</char>
+	<char hz="镬" py="huò" />
+	<char hz="蠖" py="huò" />
+</pinyin>

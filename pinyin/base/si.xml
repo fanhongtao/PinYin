@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="厶" py="sī" />
+	<char hz="私" py="sī" />
+	<char hz="司" py="sī" />
+	<char hz="丝" py="sī" />
+	<char hz="咝" py="sī" />
+	<char hz="鸶" py="sī" />
+	<char hz="思" py="sī" />
+	<char hz="偲" py="sī" multi="cāi">
+		<phrase hz="偲偲" py="sī,sī" />
+		<definition id="二">
+			<item text="[偲偲]互相切磋，互相督促。" />
+		</definition>
+	</char>
+	<char hz="缌" py="sī" />
+	<char hz="飔" py="sī" />
+	<char hz="罳" py="sī" />
+	<char hz="锶" py="sī" />
+	<char hz="虒" py="sī" />
+	<char hz="斯" py="sī" />
+	<char hz="厮" py="sī">
+		<phrase hz="厮混" py="sī,hùn" />
+	</char>
+	<char hz="凘" py="sī" />
+	<char hz="撕" py="sī" />
+	<char hz="嘶" py="sī" />
+	<char hz="澌" py="sī" />
+	<char hz="蛳" py="sī">
+		<phrase hz="螺蛳" py="luó,sī" />
+	</char>
+	<char hz="死" py="sǐ" />
+	<char hz="巳" py="sì" />
+	<char hz="汜" py="sì" />
+	<char hz="祀" py="sì" />
+	<char hz="四" py="sì" />
+	<char hz="泗" py="sì" />
+	<char hz="驷" py="sì" />
+	<char hz="寺" py="sì" />
+	<char hz="似" py="sì" multi="shì" main="1">
+		<definition id="一">
+			<item id="1" text="像，相类（(连)类-）相~. ~是而非." />
+			<item id="2" text="副词，似乎，好像，表示不确定：~应再行研究. 这个建议~欠妥当." />
+			<item id="3" text="表示比较，有超过的意思：一个高~一个. 人民生活一天好~一天." />
+		</definition>
+	</char>
+	<char hz="姒" py="sì" />
+	<char hz="兕" py="sì" />
+	<char hz="伺" py="sì" multi="cì" main="1">
+		<definition id="一">
+			<item text="守候，观察：~敌. ~隙进击敌人." />
+		</definition>
+	</char>
+	<char hz="饲" py="sì" />
+	<char hz="覗" py="sì" />
+	<char hz="笥" py="sì" />
+	<char hz="嗣" py="sì" />
+	<char hz="俟" py="sì" multi="qí" main="1">
+		<definition id="一">
+			<item text="等待：~机. ~该书出版后即寄去." />
+		</definition>
+	</char>
+	<char hz="涘" py="sì" />
+	<char hz="食" py="sì" multi="shí">
+		<definition id="二">
+			<item text="拿东西给人吃。" />
+		</definition>
+	</char>
+	<char hz="耜" py="sì" />
+	<char hz="肆" py="sì" />
+</pinyin>

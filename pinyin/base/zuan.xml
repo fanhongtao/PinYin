@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钻" py="zuān" multi="zuàn" main="1">
+		<phrase hz="钻空子" py="zuān,kòng,zi" />
+		<definition id="一">
+			<item id="1" text="用锥状的物体在另一个物体上转动穿孔：~个眼儿. 地质~探. (引)进入：~山洞. ~到水里. ~空(kòng)子. [钻营]指攀附权势取得个人好处。" />
+			<item id="2" text="钻研，仔细深入研究：~书本. 他肯~，学得快." />
+		</definition>
+	</char>
+	<char hz="躜" py="zuān" />
+	<char hz="缵" py="zuǎn" />
+	<char hz="纂" py="zuǎn" />
+	<char hz="钻" py="zuàn" multi="zuān">
+		<phrase hz="钻床" py="zuàn,chuáng" />
+		<phrase hz="电钻" py="diàn,zuàn" />
+		<phrase hz="风钻" py="fēng,zuàn" />
+		<phrase hz="钻石" py="zuàn,shí" />
+		<phrase hz="钻戒" py="zuàn,jiè" />
+		<definition id="二">
+			<item id="1" text="穿孔洞的用具：~床. 电~. 风~." />
+			<item id="2" text="钻石，即金刚石，硬度很高：~戒. 十七~的手表." />
+			<item id="3" text="义同“钻(一)(1)”。" />
+		</definition>
+	</char>
+	<char hz="赚" py="zuàn" multi="zhuàn">
+		<phrase hz="赚人" py="zuàn,rén" />
+		<definition id="二">
+			<item text="骗：~人." />
+		</definition>
+	</char>
+	<char hz="攥" py="zuàn" />
+</pinyin>

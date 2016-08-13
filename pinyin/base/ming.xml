@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="名" py="míng" />
+	<char hz="茗" py="míng" />
+	<char hz="洺" py="míng" />
+	<char hz="铭" py="míng" />
+	<char hz="明" py="míng" />
+	<char hz="鸣" py="míng" />
+	<char hz="冥" py="míng">
+		<phrase hz="冥蒙" py="míng,méng" />
+		<phrase hz="溟濛" py="míng,méng" />
+	</char>
+	<char hz="蓂" py="míng" multi="mì">
+		<phrase hz="蓂荚" py="míng,jiá" />
+		<definition id="二">
+			<item text="[蓂荚](-jiá)传说中尧时的一种瑞草。" />
+		</definition>
+	</char>
+	<char hz="溟" py="míng" />
+	<char hz="暝" py="míng" />
+	<char hz="瞑" py="míng" />
+	<char hz="螟" py="míng">
+		<phrase hz="螟蛉" py="míng,líng" />
+	</char>
+	<char hz="酩" py="mǐng">
+		<phrase hz="酩酊" py="mǐng,dǐng" />
+		<definition>
+			<item text="[酩酊](-dǐng)醉得迷迷糊糊的：~~大醉." />
+		</definition>
+	</char>
+	<char hz="命" py="mìng">
+		<phrase hz="命中" py="mìng,zhòng" />
+	</char>
+</pinyin>

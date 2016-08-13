@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="青" py="qīng">
+		<phrase hz="看青" py="kān,qīng" />
+	</char>
+	<char hz="圊" py="qīng" />
+	<char hz="清" py="qīng" />
+	<char hz="蜻" py="qīng">
+		<phrase hz="蜻蜓" py="qīng,tíng" />
+	</char>
+	<char hz="鲭" py="qīng" />
+	<char hz="轻" py="qīng">
+		<phrase hz="轻薄" py="qīng,bó" />
+		<phrase hz="轻率" py="qīng,shuài" />
+		<phrase hz="轻易" py="qīng,yì" />
+	</char>
+	<char hz="氢" py="qīng" />
+	<char hz="倾" py="qīng">
+		<phrase hz="倾轧" py="qīng,yà" />
+		<phrase hz="倾吐" py="qīng,tǔ" />
+	</char>
+	<char hz="卿" py="qīng" />
+	<char hz="勍" py="qíng" />
+	<char hz="黥" py="qíng" />
+	<char hz="情" py="qíng" />
+	<char hz="晴" py="qíng" />
+	<char hz="" py="qíng" />
+	<char hz="氰" py="qíng" />
+	<char hz="檠" py="qíng" />
+	<char hz="擎" py="qíng" />
+	<char hz="苘" py="qǐng" />
+	<char hz="顷" py="qǐng" />
+	<char hz="庼" py="qǐng" />
+	<char hz="请" py="qǐng" />
+	<char hz="謦" py="qǐng">
+		<phrase hz="謦欬" py="qǐng,kài" />
+	</char>
+	<char hz="庆" py="qìng" />
+	<char hz="亲" py="qìng" multi="qīn">
+		<phrase hz="亲家" py="qìng,qìng" />
+		<definition id="二">
+			<item text="[亲家]夫妻双方的父母彼此的关系或称呼。" />
+		</definition>
+	</char>
+	<char hz="箐" py="qìng" />
+	<char hz="綮" py="qìng" />
+	<char hz="磬" py="qìng" />
+	<char hz="罄" py="qìng" />
+</pinyin>

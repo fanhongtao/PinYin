@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="邛" py="qióng">
+		<phrase hz="邛崃" py="qióng,lái" />
+	</char>
+	<char hz="筇" py="qióng" />
+	<char hz="穷" py="qióng" />
+	<char hz="" py="qióng" />
+	<char hz="茕" py="qióng" />
+	<char hz="穹" py="qióng" />
+	<char hz="琼" py="qióng" />
+	<char hz="蛩" py="qióng" />
+	<char hz="跫" py="qióng" />
+	<char hz="銎" py="qióng" />
+</pinyin>

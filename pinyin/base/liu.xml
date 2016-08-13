@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溜" py="liū" multi="liù" main="1">
+		<definition id="一">
+			<item id="1" text="滑行：~冰. 从滑梯上~下来. (引)滑溜，平滑，无阻碍：这块石头很滑~." />
+			<item id="2" text="溜走，趁人不见走开：一眼不见他就~了." />
+			<item id="3" text="沿着，顺着：~边儿. ~着墙根儿走." />
+			<item id="4" text="同“熘”。" />
+			<item text="[溜达]（*蹓跶）散步，随便走走。" />
+		</definition>
+	</char>
+	<char hz="熘" py="liū">
+		<definition>
+			<item text="一种烹调法，跟炒相似，作料里掺淀粉，也作“溜”：~肉片." />
+		</definition>
+	</char>
+	<char hz="蹓" py="liū" multi="liù" main="1">
+		<phrase hz="蹓冰" py="liū,bīng" />
+		<definition id="一">
+			<item id="1" text="滑行：~冰." />
+			<item id="2" text="悄悄走开。" />
+		</definition>
+	</char>
+	<char hz="刘" py="liú" />
+	<char hz="浏" py="liú" />
+	<char hz="留" py="liú">
+		<phrase hz="留难" py="liú,nàn" />
+	</char>
+	<char hz="馏" py="liú" multi="liù">
+		<phrase hz="蒸馏" py="zhēng,liú" />
+		<definition id="二">
+			<item text="蒸馏，加热使液体变成蒸气后再凝成纯净的液体。" />
+		</definition>
+	</char>
+	<char hz="骝" py="liú" />
+	<char hz="榴" py="liú" />
+	<char hz="飗" py="liú" />
+	<char hz="镏" py="liú" multi="liù" main="1">
+		<definition id="一">
+			<item text="我国特有的镀金法，把溶解在水银里的金子用刷子涂在器物表面作装饰，所镏的金层经久不退。" />
+		</definition>
+	</char>
+	<char hz="鹠" py="liú">
+		<phrase hz="鸺鹠" py="xiū,liú" />
+	</char>
+	<char hz="瘤" py="liú" />
+	<char hz="流" py="liú" />
+	<char hz="琉" py="liú" />
+	<char hz="硫" py="liú" />
+	<char hz="旒" py="liú" />
+	<char hz="鎏" py="liú" />
+	<char hz="镠" py="liú" />
+	<char hz="柳" py="liǔ" />
+	<char hz="绺" py="liǔ" />
+	<char hz="锍" py="liǔ" />
+	<char hz="六" py="liù" multi="lù" main="1">
+		<definition id="一">
+			<item id="1" text="数目字。" />
+			<item id="2" text="旧时乐谱记音符号的一个，相当于简谱的“5”。" />
+		</definition>
+	</char>
+	<char hz="陆" py="liù" multi="lù">
+		<definition id="二">
+			<item text="“六”的大写。" />
+		</definition>
+	</char>
+	<char hz="碌" py="liù" multi="lù">
+		<phrase hz="碌碡" py="liù,zhou" />
+		<definition id="二">
+			<item text="[碌碡](-zhou)农具名。圆柱形，用石头做成，用来轧脱谷粒或轧平场院。" />
+		</definition>
+	</char>
+	<char hz="遛" py="liù">
+		<definition>
+			<item id="1" text="散步，慢慢走，随便走走。" />
+			<item id="2" text="牵着牲畜或带着鸟慢慢走：~马. ~鸟." />
+		</definition>
+	</char>
+	<char hz="馏" py="liù" multi="liú" main="1">
+		<definition id="一">
+			<item text="把凉了的熟食品再蒸热：把馒头~一~." />
+		</definition>
+	</char>
+	<char hz="溜" py="liù" multi="liū">
+		<phrase hz="大溜" py="dà,liù" />
+		<phrase hz="檐溜" py="yán,liù" />
+		<phrase hz="水溜" py="shuǐ,liù" />
+		<definition id="二">
+			<item id="1" text="急流：大~. 今天河水~很大." />
+			<item id="2" text="顺房檐滴下来的水：檐~." />
+			<item id="3" text="屋檐上安的接雨水用的长水槽：水~." />
+			<item id="4" text="（-儿）量词，用于成行(háng)列的事物：一~三间房." />
+		</definition>
+	</char>
+	<char hz="镏" py="liù" multi="liú">
+		<phrase hz="镏子" py="liù,zi" />
+		<definition id="二">
+			<item text="[镏子]〈方〉戒指：金~~." />
+		</definition>
+	</char>
+	<char hz="蹓" py="liù" multi="liū">
+		<definition id="二">
+			<item text="同“遛(1)”" />
+		</definition>
+	</char>
+	<char hz="飂" py="liù" multi="liáo" trans="1">
+		<definition id="一">
+			<item text="西风。" />
+		</definition>
+	</char>
+	<char hz="鹨" py="liù" />
+</pinyin>

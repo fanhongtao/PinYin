@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="皋" py="gāo" />
+	<char hz="槔" py="gāo">
+		<phrase hz="桔槔" py="jié,gāo" />
+	</char>
+	<char hz="高" py="gāo" />
+	<char hz="膏" py="gāo" multi="gào" main="1">
+		<phrase hz="膏腴" py="gāo,yú" />
+		<definition id="一">
+			<item id="1" text="肥或肥肉：~粱（肥肉和细粮）. [膏腴](-yú)土地肥沃。" />
+			<item id="2" text="脂，油。" />
+			<item id="3" text="很稠的、糊状的东西：梨~. 牙~. ~药." />
+		</definition>
+	</char>
+	<char hz="篙" py="gāo" />
+	<char hz="羔" py="gāo" />
+	<char hz="糕" py="gāo" />
+	<char hz="睾" py="gāo" />
+	<char hz="杲" py="gǎo" />
+	<char hz="搞" py="gǎo" />
+	<char hz="缟" py="gǎo" />
+	<char hz="槁" py="gǎo" />
+	<char hz="镐" py="gǎo" multi="hào" main="1">
+		<definition id="一">
+			<item text="刨土的工具。" />
+		</definition>
+	</char>
+	<char hz="稿" py="gǎo" />
+	<char hz="藁" py="gǎo" />
+	<char hz="告" py="gào" />
+	<char hz="郜" py="gào" />
+	<char hz="诰" py="gào" />
+	<char hz="锆" py="gào" />
+	<char hz="膏" py="gào" multi="gāo">
+		<phrase hz="膏油" py="gào,yóu" />
+		<phrase hz="膏车" py="gào,chē" />
+		<phrase hz="膏笔" py="gào,bǐ" />
+		<phrase hz="膏墨" py="gào,mò" />
+		<definition id="二">
+			<item id="1" text="把油加在车轴或机械上：~油. ~车." />
+			<item id="2" text="把毛笔蘸上墨汁在砚台边上掭：~笔. ~墨." />
+		</definition>
+	</char>
+</pinyin>

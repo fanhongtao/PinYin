@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="谬" py="miù" />
+	<char hz="缪" py="miù" multi="miào,móu">
+		<phrase hz="纰缪" py="pī,miù" />
+		<definition id="三">
+			<item text="见“纰”字条“纰缪”(pī-)。" />
+		</definition>
+	</char>
+</pinyin>

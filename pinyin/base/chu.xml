@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="出" py="chū">
+		<phrase hz="出色" py="chū,sè" />
+	</char>
+	<char hz="初" py="chū" />
+	<char hz="樗" py="chū" />
+	<char hz="刍" py="chú" />
+	<char hz="鶵" py="chú" trans="1" />
+	<char hz="雏" py="chú" />
+	<char hz="除" py="chú" />
+	<char hz="滁" py="chú" />
+	<char hz="蜍" py="chú" />
+	<char hz="篨" py="chú" />
+	<char hz="厨" py="chú" />
+	<char hz="橱" py="chú" />
+	<char hz="蹰" py="chú" />
+	<char hz="锄" py="chú" />
+	<char hz="躇" py="chú" />
+	<char hz="处" py="chǔ" multi="chù">
+		<phrase hz="处女" py="chǔ,nǚ" />
+		<phrase hz="设身处地" py="shè,shēn,chǔ,dì" />
+		<phrase hz="处在" py="chǔ,zài" />
+		<phrase hz="相处" py="xiāng,chǔ" />
+		<phrase hz="处分" py="chǔ,fèn" />
+		<phrase hz="处理" py="chǔ,lǐ" />
+		<definition id="二">
+			<item id="1" text="居住：穴居野~. [处女]没有发生过性行为的女子。 [处女地]未开垦的土地。 [处女作]作者的最初的作品。" />
+			<item id="2" text="存在，置身：设身~地. ~在有利位置." />
+			<item id="3" text="跟别人一起生活，交往：他们相~得很好." />
+			<item id="4" text="决定，决断。[处分](-fèn)对犯错误或有罪过的人给予相当的惩戒。 [处理]办理，解决：这事情难~~." />
+		</definition>
+	</char>
+	<char hz="杵" py="chǔ" />
+	<char hz="础" py="chǔ" />
+	<char hz="楮" py="chǔ" />
+	<char hz="储" py="chǔ" />
+	<char hz="褚" py="chǔ" multi="zhǔ" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="楚" py="chǔ" />
+	<char hz="亍" py="chù" />
+	<char hz="处" py="chù" multi="chǔ" main="1">
+		<phrase hz="长处" py="cháng,chù" />
+		<definition id="一">
+			<item id="1" text="地方：住~. 各~. (引)部分，点：长(cháng)~. 好~. 益~." />
+			<item id="2" text="机关，或机关、团体里的部门：办事~. 总务~." />
+		</definition>
+	</char>
+	<char hz="怵" py="chù" />
+	<char hz="绌" py="chù" />
+	<char hz="黜" py="chù" />
+	<char hz="俶" py="chù" multi="tì" main="1">
+		<definition id="一">
+			<item text="〈古〉开始。[俶尔]忽然：~~远逝." />
+		</definition>
+	</char>
+	<char hz="畜" py="chù" multi="xù" main="1">
+		<definition id="二">
+			<item text="禽兽，有时专指家养的兽类：家~. 牲~. 幼~. ~力." />
+		</definition>
+	</char>
+	<char hz="搐" py="chù" />
+	<char hz="滀" py="chù" />
+	<char hz="触" py="chù">
+		<phrase hz="触觉" py="chù,jué" />
+	</char>
+	<char hz="憷" py="chù" />
+	<char hz="矗" py="chù" />
+</pinyin>

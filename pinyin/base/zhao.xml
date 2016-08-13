@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钊" py="zhāo" />
+	<char hz="招" py="zhāo" />
+	<char hz="昭" py="zhāo" />
+	<char hz="啁" py="zhāo" multi="zhōu">
+		<phrase hz="啁哳" py="zhāo,zhā" />
+		<definition id="二">
+			<item text="[啁哳][嘲哳](-zhā)形容声音杂乱细碎。" />
+		</definition>
+	</char>
+	<char hz="着" py="zhāo" multi="zháo,zhe,zhuó">
+		<phrase hz="着儿" py="zhāo,er" />
+		<definition id="三">
+			<item id="1" text="（-儿）下棋时下一子或走一步叫一着。(喻)计策，办法：你出个高~儿. 我没~儿了." />
+			<item id="2" text="〈方〉放，搁进去：~点儿盐." />
+			<item id="3" text="〈方〉用于应答，表示同意：~，你说得真对." />
+		</definition>
+	</char>
+	<char hz="朝" py="zhāo" multi="cháo">
+		<phrase hz="朝夕" py="zhāo,xī" />
+		<phrase hz="朝思暮想" py="zhāo,sī,mù,xiǎng" />
+		<phrase hz="今朝" py="jīn,zhāo" />
+		<phrase hz="朝气" py="zhāo,qì" />
+		<definition id="二">
+			<item text="早晨：只争~夕. ~思暮想. (引)日，天：今~. [朝气](喻)向上发展的气概：~~蓬勃." />
+		</definition>
+	</char>
+	<char hz="嘲" py="zhāo" multi="cháo">
+		<phrase hz="嘲哳" py="zhāo,zhā" />
+		<definition id="二">
+			<item text="[嘲哳](-zhā)同“啁哳”。" />
+		</definition>
+	</char>
+	<char hz="着" py="zháo" multi="zhāo,zhe,zhuó">
+		<phrase hz="上不着天" py="shàng,bù,zháo,tiān" />
+		<phrase hz="下不着地" py="xià,bù,zháo,dì" />
+		<phrase hz="着慌" py="zháo,huāng" />
+		<phrase hz="着凉" py="zháo,liáng" />
+		<phrase hz="着急" py="zháo,jí" />
+		<phrase hz="着火" py="zháo,huǒ" />
+		<phrase hz="着了" py="zháo,le" />
+		<definition id="二">
+			<item id="1" text="接触，挨上：上不~天，下不~地." />
+			<item id="2" text="感受，受到：~慌. ~凉. ~急." />
+			<item id="3" text="燃烧，也指灯发光：~火. 柴火~了. 天黑了，路灯都~了." />
+			<item id="4" text="入睡，睡着：躺下就~了." />
+			<item id="5" text="用在动词后表示达到目的或有结果：猜~了. 打~了." />
+		</definition>
+	</char>
+	<char hz="爪" py="zhǎo" multi="zhuǎ" main="1">
+		<definition id="一">
+			<item id="1" text="指甲或趾甲：手~." />
+			<item id="2" text="鸟兽的脚指：鹰~. [爪牙](喻)党羽，狗腿子。" />
+		</definition>
+	</char>
+	<char hz="找" py="zhǎo" />
+	<char hz="沼" py="zhǎo" />
+	<char hz="召" py="zhào" multi="shào" main="1">
+		<definition id="一">
+			<item id="1" text="呼唤，招呼：号~. ~见. ~唤. ~集. ~开会议." />
+			<item id="2" text="傣族姓。" />
+		</definition>
+	</char>
+	<char hz="诏" py="zhào" />
+	<char hz="照" py="zhào" />
+	<char hz="兆" py="zhào" />
+	<char hz="赵" py="zhào" />
+	<char hz="笊" py="zhào">
+		<phrase hz="笊篱" py="zhào,lí" />
+	</char>
+	<char hz="棹" py="zhào" />
+	<char hz="罩" py="zhào" />
+	<char hz="肇" py="zhào" />
+	<char hz="曌" py="zhào" />
+</pinyin>

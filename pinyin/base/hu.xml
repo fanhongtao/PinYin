@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乎" py="hū" />
+	<char hz="呼" py="hū">
+		<phrase hz="呼应" py="hū,yìng" />
+		<phrase hz="呼吁" py="hū,yù" />
+	</char>
+	<char hz="轷" py="hū" />
+	<char hz="烀" py="hū" />
+	<char hz="滹" py="hū" />
+	<char hz="戏" py="hū" multi="xì">
+		<phrase hz="於戏" py="wū,hū" />
+		<definition id="二">
+			<item text="见“於”字条“於戏”(wū-)。" />
+		</definition>
+	</char>
+	<char hz="昒" py="hū">
+		<phrase hz="昒昕" py="hū,xīn" />
+	</char>
+	<char hz="曶" py="hū" />
+	<char hz="忽" py="hū" />
+	<char hz="唿" py="hū" />
+	<char hz="淴" py="hū" />
+	<char hz="惚" py="hū" />
+	<char hz="糊" py="hū" multi="hú,hù">
+		<definition id="三">
+			<item text="涂抹或粘合使封闭起来：用泥把墙缝~上。" />
+		</definition>
+	</char>
+	<char hz="囫" py="hú">
+		<phrase hz="囫囵" py="hú,lún" />
+	</char>
+	<char hz="和" py="hú" multi="hé,hè,huó,huò">
+		<definition id="五">
+			<item text="打麻将或斗纸牌用语，表示赢了。" />
+		</definition>
+	</char>
+	<char hz="狐" py="hú">
+		<phrase hz="狐肷" py="hú,qiǎn" />
+	</char>
+	<char hz="弧" py="hú" />
+	<char hz="胡" py="hú">
+		<phrase hz="胡萝卜" py="hú,luó,bo" />
+		<phrase hz="胡琴" py="hú,qin" />
+		<phrase hz="胡同" py="hú,tòng" />
+	</char>
+	<char hz="葫" py="hú">
+		<phrase hz="葫芦" py="hú,lu" />
+	</char>
+	<char hz="猢" py="hú">
+		<phrase hz="猢狲" py="hú,sūn" />
+	</char>
+	<char hz="湖" py="hú" />
+	<char hz="瑚" py="hú" />
+	<char hz="煳" py="hú" />
+	<char hz="鹕" py="hú" />
+	<char hz="蝴" py="hú" />
+	<char hz="糊" py="hú" multi="hū,hù" main="1">
+		<phrase hz="裱糊" py="biǎo,hú" />
+		<phrase hz="糊涂" py="hú,tu" />
+		<definition id="一">
+			<item id="1" text="黏合，粘贴：拿纸~窗户. 裱(biǎo)~. [糊涂](-tu)不清楚，不明事理。" />
+			<item id="2" text="粥类。 [糊口]旧指勉强维持生活。" />
+			<item id="3" text="同“糊”。" />
+		</definition>
+	</char>
+	<char hz="醐" py="hú" />
+	<char hz="壶" py="hú" />
+	<char hz="核" py="hú" multi="hé">
+		<definition id="二">
+			<item text="（-儿）义同“核(一)(1)(2)”，用于某些口语词，如杏核儿、煤核儿等。" />
+		</definition>
+	</char>
+	<char hz="斛" py="hú" />
+	<char hz="槲" py="hú" />
+	<char hz="鹄" py="hú" multi="gǔ" main="1">
+		<definition id="二">
+			<item text="鸟名，也叫“天鹅”，形状像鹅而较大，羽毛白色，飞得高而快，生活在海滨或湖边：~立（静静地站着等候）." />
+		</definition>
+	</char>
+	<char hz="鹘" py="hú" multi="gǔ" main="1">
+		<definition id="一">
+			<item text="隼(sǔn)。" />
+		</definition>
+	</char>
+	<char hz="縠" py="hú" />
+	<char hz="觳" py="hú">
+		<phrase hz="觳觫" py="hú,sù" />
+	</char>
+	<char hz="虎" py="hǔ" />
+	<char hz="唬" py="hǔ" multi="xià" main="1">
+		<definition id="一">
+			<item text="威吓(hè)或蒙混：你别~人了." />
+		</definition>
+	</char>
+	<char hz="琥" py="hǔ">
+		<phrase hz="琥珀" py="hǔ,pò" />
+	</char>
+	<char hz="浒" py="hǔ" multi="xǔ" main="1">
+		<definition id="一">
+			<item text="水边。" />
+		</definition>
+	</char>
+	<char hz="互" py="hù" />
+	<char hz="冱" py="hù" />
+	<char hz="枑" py="hù" />
+	<char hz="户" py="hù" />
+	<char hz="护" py="hù" />
+	<char hz="沪" py="hù" />
+	<char hz="戽" py="hù" />
+	<char hz="扈" py="hù" />
+	<char hz="岵" py="hù" />
+	<char hz="怙" py="hù" />
+	<char hz="祜" py="hù" />
+	<char hz="糊" py="hù" multi="hū,hú">
+		<phrase hz="辣椒糊" py="là,jiāo,hù" />
+		<phrase hz="糊弄" py="hù,nong" />
+		<definition id="二">
+			<item text="像粥一样的食物：辣椒~. [糊弄](-nong)1.敷衍，不认真做：做事不应该~~. 2.蒙混，欺骗：你不要~~人." />
+		</definition>
+	</char>
+	<char hz="笏" py="hù" />
+	<char hz="瓠" py="hù" />
+	<char hz="鄠" py="hù" />
+	<char hz="鹱" py="hù" />
+</pinyin>

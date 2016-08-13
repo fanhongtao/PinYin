@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="良" py="liáng" />
+	<char hz="粮" py="liáng" />
+	<char hz="踉" py="liáng" multi="liàng" main="1">
+		<phrase hz="跳踉" py="tiào,liáng" />
+		<definition id="一">
+			<item text="[跳踉]跳跃。" />
+		</definition>
+	</char>
+	<char hz="凉" py="liáng" multi="liàng" main="1">
+		<phrase hz="晾快" py="liáng,kuai" />
+		<definition id="一">
+			<item text="温度低（若指天气，比“冷”和程度浅）：饭~了. 立秋之后天气~了. (喻)灰心或失望：听到这消息，我心里就~了. [凉快](-kuai)1.清凉爽快。 2.乘凉：到外头~~~~去." />
+		</definition>
+	</char>
+	<char hz="椋" py="liáng" />
+	<char hz="辌" py="liáng" />
+	<char hz="梁" py="liáng" />
+	<char hz="粱" py="liáng" />
+	<char hz="量" py="liáng" multi="liàng">
+		<phrase hz="用斗量米" py="yòng,dǒu,liáng,mǐ" />
+		<phrase hz="用尺量布" py="yòng,chǐ,liáng,bù" />
+		<phrase hz="思量" py="sī,liang" />
+		<phrase hz="思量" py="sī,liang" />
+		<phrase hz="打量" py="dǎ,liang" />
+		<definition id="一">
+			<item id="1" text="用器物计算东西的多少或长短：用斗~米. 用尺~布." />
+			<item id="2" text="估量：思~(liang). 打~(liang)." />
+		</definition>
+	</char>
+	<char hz="两" py="liǎng" />
+	<char hz="俩" py="liǎng" multi="liǎ" info="Word主音">
+		<phrase hz="伎俩" py="jì,liǎng" />
+		<definition id="二">
+			<item text="[伎俩](jì-)手段，花招。" />
+		</definition>
+	</char>
+	<char hz="唡" py="liǎng" />
+	<char hz="緉" py="liǎng" trans="1" />
+	<char hz="魉" py="liǎng" />
+	<char hz="亮" py="liàng" />
+	<char hz="喨" py="liàng" />
+	<char hz="倞" py="liàng" multi="jìng" main="1">
+		<definition id="二">
+			<item text="求索。" />
+		</definition>
+	</char>
+	<char hz="凉" py="liàng" multi="liáng">
+		<definition id="二">
+			<item text="放一会儿，使温度降低。" />
+		</definition>
+	</char>
+	<char hz="谅" py="liàng" />
+	<char hz="晾" py="liàng" />
+	<char hz="悢" py="liàng" />
+	<char hz="踉" py="liàng" multi="liáng">
+		<phrase hz="踉跄" py="liàng,qiàng" />
+		<definition id="二">
+			<item text="[踉跄](-qiàng)走路不稳。" />
+		</definition>
+	</char>
+	<char hz="辆" py="liàng" />
+	<char hz="靓" py="liàng" multi="jìng">
+		<phrase hz="靓女" py="liàng,nǚ" />
+		<definition id="二">
+			<item text="〈方〉漂亮，好看：~女." />
+		</definition>
+	</char>
+	<char hz="量" py="liàng" multi="liáng" main="1">
+		<phrase hz="分量" py="fèn,liang" />
+		<definition id="二">
+			<item id="1" text="计算东西体积多少的器具的总称。 [量词]表示事物或行动单位的词，如张、条、个、只、遍等。" />
+			<item id="2" text="限度：酒~. 气~. 饭~. 胆~." />
+			<item id="3" text="数量，数的多少：质~并重. 大~生产新式农具. [分量](fènliang)重量：不够~~. 称称~~." />
+			<item id="4" text="估计，审度(duó)：~力而行. ~入为出." />
+		</definition>
+	</char>
+</pinyin>

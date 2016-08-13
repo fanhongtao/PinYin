@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坷" py="kē" multi="kě" main="1">
+		<phrase hz="坷垃" py="kē,la" />
+		<definition id="一">
+			<item text="[坷垃](-la)土块。" />
+		</definition>
+	</char>
+	<char hz="苛" py="kē" />
+	<char hz="珂" py="kē" />
+	<char hz="柯" py="kē" />
+	<char hz="轲" py="kē" />
+	<char hz="牁" py="kē">
+		<phrase hz="牂牁" py="zāng,kē" />
+	</char>
+	<char hz="砢" py="kē" />
+	<char hz="钶" py="kē" />
+	<char hz="疴" py="kē" />
+	<char hz="匼" py="kē" />
+	<char hz="科" py="kē" />
+	<char hz="蝌" py="kē">
+		<phrase hz="蝌蚪" py="kē,dǒu" />
+	</char>
+	<char hz="棵" py="kē" />
+	<char hz="稞" py="kē" />
+	<char hz="窠" py="kē" />
+	<char hz="颗" py="kē" />
+	<char hz="髁" py="kē" />
+	<char hz="颏" py="kē" />
+	<char hz="搕" py="kē" />
+	<char hz="榼" py="kē" />
+	<char hz="磕" py="kē" />
+	<char hz="瞌" py="kē" />
+	<char hz="壳" py="ké" multi="qiào" main="1">
+		<definition id="一">
+			<item text="（-儿）坚硬的外皮：核桃~儿. 鸡蛋~儿. 贝~儿." />
+		</definition>
+	</char>
+	<char hz="咳" py="ké" multi="hāi">
+		<phrase hz="咳嗽" py="ké,sou" />
+		<definition id="一">
+			<item text="咳嗽，呼吸器官受刺激而起一种反射作用，把吸入的气急急呼出，声带振动发声。" />
+		</definition>
+	</char>
+	<char hz="揢" py="ké" />
+	<char hz="可" py="kě" multi="kè" main="1">
+		<phrase hz="可恶" py="kě,wù" />
+		<definition id="一">
+			<item id="1" text="是，对，表示准许：许~. 认~. 不加~否. [可以]1.表示允许：~~，你去吧！ 2.适宜，能：现在~~穿棉衣了. 马铃薯~~当饭吃. 3.过甚，程度深：这几天冷得真~~. 4.还好，差不多：这篇文章还~~. [小可]1.寻常：不同~~. 2.旧时谦称自己为小可。" />
+			<item id="2" text="能够：牢不~破的友谊. ~大~小. [可能]能够，有实现的条件：这个计划~~提前实现." />
+			<item id="3" text="值得，够得上（用在动词前）：~怜. ~爱. ~恶(wù)." />
+			<item id="4" text="适合：~心. 饭菜~口. (引)尽(jǐn)，就某种范围不加增减：~着钱花. ~着脑袋做帽子." />
+			<item id="5" text="连词，可是，但，却：大家很累(lèi)，~都很愉快." />
+			<item id="6" text="副词。 1.加强语气：这工具使着~得劲了. 他写字~快了. 这篇文章~写完了. 2.表示疑问：你~知道？ 这话~是真的？ 3.和“岂”字义近：~不是吗！ ~不就糟了吗！ 4.大约：年~三十许. 长~六米." />
+			<item id="7" text="义同“可以 2”：根~食." />
+			<item id="8" text="义同“可以 4”：尚可." />
+		</definition>
+	</char>
+	<char hz="坷" py="kě" multi="kē">
+		<phrase hz="坎坷" py="kǎn,kě" />
+		<definition id="二">
+			<item text="见“坎”字条“坎坷”(kǎn-)。" />
+		</definition>
+	</char>
+	<char hz="岢" py="kě">
+		<phrase hz="岢岚" py="kě,lán" />
+	</char>
+	<char hz="渴" py="kě" />
+	<char hz="可" py="kè" multi="kě">
+		<phrase hz="可汗" py="kè,hán" />
+		<definition id="二">
+			<item text="[可汗](-hán)古代鲜卑、突厥、回紇、蒙古等族君主的称号。" />
+		</definition>
+	</char>
+	<char hz="克" py="kè" />
+	<char hz="氪" py="kè" />
+	<char hz="刻" py="kè" />
+	<char hz="恪" py="kè" />
+	<char hz="客" py="kè" />
+	<char hz="课" py="kè" />
+	<char hz="骒" py="kè" />
+	<char hz="锞" py="kè" />
+	<char hz="缂" py="kè" />
+	<char hz="嗑" py="kè" />
+	<char hz="溘" py="kè" />
+</pinyin>

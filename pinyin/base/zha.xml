@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="扎" py="zhā" multi="zā,zhá" info="Word主音">
+		<phrase hz="扎针" py="zhā,zhēn" />
+		<phrase hz="扎花" py="zhā,huā" />
+		<phrase hz="扎营" py="zhā,yíng" />
+		<phrase hz="扎猛子" py="zhā,měng,zi" />
+		<phrase hz="扎煞" py="zhā,sha" />
+		<definition id="一">
+			<item id="1" text="刺：~针. ~花（刺绣）." />
+			<item id="2" text="驻扎：~营." />
+			<item id="3" text="钻：~猛子（游泳时头朝下钻入水中）." />
+			<item text="[扎煞](-sha)同“挓挲”。" />
+		</definition>
+	</char>
+	<char hz="吒" py="zhā" multi="zhà" main="1">
+		<definition id="一">
+			<item text="用于神话中的人名，如金吒、木吒。" />
+		</definition>
+	</char>
+	<char hz="挓" py="zhā">
+		<phrase hz="挓挲" py="zhā,sha" />
+		<definition>
+			<item text="[挓挲](-sha)张开：~~着手." />
+		</definition>
+	</char>
+	<char hz="咋" py="zhā" multi="zǎ,zé">
+		<phrase hz="咋呼" py="zhā,hu" />
+		<definition id="三">
+			<item text="[咋呼](-hu)〈方〉1.吆喝。 2.炫耀。" />
+		</definition>
+	</char>
+	<char hz="哳" py="zhā" />
+	<char hz="查" py="zhā" multi="chá">
+		<definition id="二">
+			<item id="1" text="同“楂(一)”。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="揸" py="zhā" />
+	<char hz="喳" py="zhā" multi="chā" main="1">
+		<definition id="一">
+			<item text="[喳喳]拟声词：叽叽~~. 喜鹊~~叫." />
+		</definition>
+	</char>
+	<char hz="渣" py="zhā" />
+	<char hz="楂" py="zhā" multi="chá">
+		<phrase hz="山楂" py="shān,zhā" />
+		<definition id="一">
+			<item text="[山楂]（*山查）落叶乔木，开白花。果实也叫山楂，红色有白点，味酸，可以吃，也可入药。" />
+		</definition>
+	</char>
+	<char hz="奓" py="zhā" multi="zhà">
+		<phrase hz="奓山" py="zhā,shān" />
+		<definition id="二">
+			<item text="奓山，地名，在湖北省武汉。" />
+		</definition>
+	</char>
+	<char hz="齇" py="zhā" />
+	<char hz="扎" py="zhá" multi="zā,zhā">
+		<phrase hz="扎挣" py="zhá,zheng" />
+		<definition id="二">
+			<item text="[扎挣](-zheng)〈方〉勉强支持。" />
+		</definition>
+	</char>
+	<char hz="札" py="zhá" />
+	<char hz="轧" py="zhá" multi="gá,yà" info="Word主音">
+		<phrase hz="轧钢" py="zhá,gāng" />
+		<phrase hz="轧辊" py="zhá,gǔn" />
+		<definition id="二">
+			<item text="义同“轧(一)”，用于轧辊、轧钢、轧钢机等。 [轧钢]把钢坯压成一定形状的钢材。 [轧辊](-gǔn)轧钢机中最主要的、直接完成轧制工作的部件。" />
+		</definition>
+	</char>
+	<char hz="闸" py="zhá" />
+	<char hz="炸" py="zhá" multi="zhà">
+		<phrase hz="炸糕" py="zhá,gāo" />
+		<phrase hz="炸鱼" py="zhá,yú" />
+		<definition id="二">
+			<item text="把食物放在煮沸的油或水里弄熟：~糕. ~鱼. 把菠菜~一~." />
+		</definition>
+	</char>
+	<char hz="铡" py="zhá" />
+	<char hz="喋" py="zhá" multi="dié">
+		<phrase hz="唼喋" py="shà,zhá" />
+		<definition id="二">
+			<item text="见“唼”字条“唼喋”(shà-)" />
+		</definition>
+	</char>
+	<char hz="牐" py="zhá" />
+	<char hz="拃" py="zhǎ" />
+	<char hz="苲" py="zhǎ" />
+	<char hz="砟" py="zhǎ" />
+	<char hz="鲊" py="zhǎ" />
+	<char hz="眨" py="zhǎ" />
+	<char hz="鲝" py="zhǎ" />
+	<char hz="乍" py="zhà" />
+	<char hz="诈" py="zhà" />
+	<char hz="柞" py="zhà" multi="zuò">
+		<phrase hz="柞水" py="zhà,shuǐ" />
+		<definition id="二">
+			<item text="[柞水]地名，在陕西省。" />
+		</definition>
+	</char>
+	<char hz="炸" py="zhà" multi="zhá" main="1">
+		<definition id="一">
+			<item id="1" text="突然破裂（(连)爆-）：~弹. 玻璃杯~了." />
+			<item id="2" text="用炸药、炸弹爆破：~碉堡." />
+			<item id="3" text="发怒：他一听就~了." />
+			<item id="4" text="因受惊而四处逃散：~市. ~窝." />
+		</definition>
+	</char>
+	<char hz="痄" py="zhà">
+		<phrase hz="痄腮" py="zhà,sai" />
+	</char>
+	<char hz="蚱" py="zhà">
+		<phrase hz="蚱蜢" py="zhà,měng" />
+	</char>
+	<char hz="榨" py="zhà" />
+	<char hz="栅" py="zhà" multi="shān" main="1">
+		<definition id="一">
+			<item text="栅栏，用竹、木、铁条等做成的阻拦物：篱笆~. 铁~栏." />
+		</definition>
+	</char>
+	<char hz="奓" py="zhà" multi="zhā" main="1">
+		<definition id="一">
+			<item text="张开：头发~着. 这件衣服下面太~了." />
+		</definition>
+	</char>
+	<char hz="䃎" py="zhà" />
+	<char hz="咤" py="zhà">
+		<definition>
+			<item text="生气时对人大声嚷。" />
+		</definition>
+	</char>
+	<char hz="吒" py="zhà" multi="zhā">
+		<definition id="二">
+			<item text="“咤”的异体字。" />
+		</definition>
+	</char>
+	<char hz="䖳" py="zhà" />
+	<char hz="溠" py="zhà" />
+	<char hz="蜡" py="zhà" multi="là">
+		<definition id="二">
+			<item text="古代年终的一种祭祀名。" />
+		</definition>
+	</char>
+	<char hz="霅" py="zhà" />
+</pinyin>

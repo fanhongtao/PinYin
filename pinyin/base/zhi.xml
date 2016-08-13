@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="之" py="zhī" />
+	<char hz="芝" py="zhī" />
+	<char hz="支" py="zhī" />
+	<char hz="吱" py="zhī" multi="zī" main="1">
+		<definition id="一">
+			<item text="拟声词（叠）：车轮~~地响." />
+		</definition>
+	</char>
+	<char hz="枝" py="zhī" />
+	<char hz="肢" py="zhī" />
+	<char hz="氏" py="zhī" multi="shì">
+		<phrase hz="阏氏" py="yān,zhī" />
+		<phrase hz="月氏" py="yuè,zhī" />
+		<definition id="二">
+			<item text="见“阏”字条“阏氏”(yān-)、“月”字条“月氏”(yuè-)。" />
+		</definition>
+	</char>
+	<char hz="泜" py="zhī" />
+	<char hz="胝" py="zhī" />
+	<char hz="祗" py="zhī" />
+	<char hz="只" py="zhī" multi="zhǐ" main="1">
+		<definition id="二">
+			<item id="1" text="量词：一~鸡. 两~手." />
+			<item id="2" text="单独的，极少的：~身（一个人）. 片纸~字. [只眼](转)特别见解：独具~~." />
+		</definition>
+	</char>
+	<char hz="织" py="zhī" />
+	<char hz="卮" py="zhī" />
+	<char hz="栀" py="zhī" />
+	<char hz="汁" py="zhī" />
+	<char hz="知" py="zhī" />
+	<char hz="椥" py="zhī">
+		<phrase hz="槟椥" py="bīn,zhī" />
+	</char>
+	<char hz="蜘" py="zhī" />
+	<char hz="脂" py="zhī" />
+	<char hz="稙" py="zhī" />
+	<char hz="执" py="zhí" />
+	<char hz="絷" py="zhí" />
+	<char hz="直" py="zhí" />
+	<char hz="值" py="zhí" />
+	<char hz="埴" py="zhí" />
+	<char hz="植" py="zhí" />
+	<char hz="殖" py="zhí" multi="shi" main="1">
+		<definition id="一">
+			<item text="生息，滋生（(连)生-）：繁~. [殖民地]被帝国主义国家剥夺了政治、经济的独立权力，并受它控制和掠夺的国家和地区。" />
+		</definition>
+	</char>
+	<char hz="侄" py="zhí" />
+	<char hz="职" py="zhí" />
+	<char hz="跖" py="zhí" />
+	<char hz="摭" py="zhí" />
+	<char hz="踯" py="zhí">
+		<phrase hz="踯躅" py="zhí,zhú" />
+		<definition>
+			<item text="[踯躅](-zhú)徘徊不进：~~街头." />
+		</definition>
+	</char>
+	<char hz="蹢" py="zhí" multi="dí">
+		<phrase hz="蹢躅" py="zhí,zhú" />
+		<definition id="二">
+			<item text="[蹢躅](-zhú)同“踯躅”。" />
+		</definition>
+	</char>
+	<char hz="止" py="zhǐ" />
+	<char hz="址" py="zhǐ" />
+	<char hz="芷" py="zhǐ" />
+	<char hz="沚" py="zhǐ" />
+	<char hz="祉" py="zhǐ" />
+	<char hz="趾" py="zhǐ" />
+	<char hz="只" py="zhǐ" multi="zhī">
+		<phrase hz="只知其一" py="zhǐ,zhī,qí,yī" />
+		<phrase hz="只欠东风" py="zhǐ,qiàn,dōng,fēng" />
+		<phrase hz="只是" py="zhǐ,shì" />
+		<definition id="一" text="副词。">
+			<item id="1" text="表示限于某个范围：~知其一，不知其二. 万事俱备，~欠东风." />
+			<item id="2" text="唯一，仅有：家里~我一个人. [只是]1.连词，但是：我很想看戏，~~没时间. 2.副词，就是：人家问他，他~~不开口. 3.仅仅是：对抗~~矛盾斗争的一种形式." />
+		</definition>
+	</char>
+	<char hz="祇" py="zhǐ" multi="qí">
+		<definition id="二">
+			<item text="“只”的异体字。" />
+		</definition>
+	</char>
+	<char hz="枳" py="zhǐ">
+		<definition>
+			<item text="落叶灌木或小乔木，通称“枸橘”。小枝多硬刺，叶为三小叶的复叶，果实球形，果实及叶可入药。 [枳壳]中药上指枳、香橼等成熟的果实。 [枳实]中药上指枳、香橼等幼小的果实。" />
+		</definition>
+	</char>
+	<char hz="轵" py="zhǐ" />
+	<char hz="咫" py="zhǐ" />
+	<char hz="疻" py="zhǐ" />
+	<char hz="旨" py="zhǐ" />
+	<char hz="指" py="zhǐ">
+		<phrase hz="令人发指" py="lìng,rén,fà,zhǐ" />
+	</char>
+	<char hz="酯" py="zhǐ" />
+	<char hz="扺" py="zhǐ" />
+	<char hz="纸" py="zhǐ" />
+	<char hz="黹" py="zhǐ" />
+	<char hz="徵" py="zhǐ" multi="zhēng">
+		<definition id="一">
+			<item text="古代五音“宫、商、角、徵、羽”之一。" />
+		</definition>
+	</char>
+	<char hz="至" py="zhì" />
+	<char hz="厔" py="zhì" />
+	<char hz="郅" py="zhì" />
+	<char hz="桎" py="zhì">
+		<phrase hz="桎梏" py="zhì,gù" />
+	</char>
+	<char hz="轾" py="zhì" />
+	<char hz="致" py="zhì" />
+	<char hz="铚" py="zhì" />
+	<char hz="窒" py="zhì" />
+	<char hz="蛭" py="zhì">
+		<definition>
+			<item id="1" text="一类环节动物，俗称“蚂蟥”。大都吸其他动物的血或体液，生活在水里或山上，有的在医学上用来吸血治病。" />
+			<item id="2" text="肝蛭，肝脏里的一种寄生虫，通常由螺蛳和鱼等传到人体内。" />
+		</definition>
+	</char>
+	<char hz="膣" py="zhì" />
+	<char hz="志" py="zhì" />
+	<char hz="梽" py="zhì" />
+	<char hz="痣" py="zhì" />
+	<char hz="豸" py="zhì" />
+	<char hz="忮" py="zhì" />
+	<char hz="识" py="zhì" multi="shí">
+		<phrase hz="博闻强识" py="bó,wén,qiáng,zhì" />
+		<phrase hz="款识" py="kuǎn,zhì" />
+		<definition id="二">
+			<item id="1" text="记住：博闻强~." />
+			<item id="2" text="标志，记号：款~." />
+		</definition>
+	</char>
+	<char hz="帜" py="zhì" />
+	<char hz="帙" py="zhì" />
+	<char hz="秩" py="zhì" />
+	<char hz="制" py="zhì" />
+	<char hz="质" py="zhì" />
+	<char hz="锧" py="zhì" />
+	<char hz="踬" py="zhì" />
+	<char hz="炙" py="zhì">
+		<phrase hz="脍炙人口" py="kuài,zhì,rén,kǒu" />
+	</char>
+	<char hz="治" py="zhì">
+		<phrase hz="治丧" py="zhì,sāng" />
+		<phrase hz="处治" py="chǔ,zhì" />
+	</char>
+	<char hz="栉" py="zhì" />
+	<char hz="峙" py="zhì" multi="shì" main="1">
+		<definition id="一">
+			<item text="直立，耸立：两峰相~." />
+		</definition>
+	</char>
+	<char hz="庤" py="zhì" />
+	<char hz="畤" py="zhì" />
+	<char hz="痔" py="zhì" />
+	<char hz="陟" py="zhì" />
+	<char hz="骘" py="zhì" />
+	<char hz="贽" py="zhì" />
+	<char hz="鸷" py="zhì" />
+	<char hz="掷" py="zhì" />
+	<char hz="智" py="zhì">
+		<phrase hz="不长一智" py="bù,zhǎng,yí,zhì" />
+	</char>
+	<char hz="滞" py="zhì" />
+	<char hz="彘" py="zhì" />
+	<char hz="置" py="zhì" />
+	<char hz="雉" py="zhì" />
+	<char hz="稚" py="zhì" />
+	<char hz="滍" py="zhì" />
+	<char hz="疐" py="zhì" />
+	<char hz="瘈" py="zhì" multi="chì">
+		<definition id="一">
+			<item text="疯狂（特指狗）。" />
+		</definition>
+	</char>
+	<char hz="觯" py="zhì" />
+</pinyin>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="凑" py="còu">
+		<phrase hz="凑合" py="còu,he" />
+	</char>
+	<char hz="辏" py="còu" />
+	<char hz="腠" py="còu" />
+</pinyin>

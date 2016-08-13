@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="凹" py="āo" />
+	<char hz="熬" py="āo" multi="áo">
+		<phrase hz="熬菜" py="āo,cài" />
+		<definition id="二">
+			<item text="幺煮：~菜." />
+		</definition>
+	</char>
+	<char hz="敖" py="áo" />
+	<char hz="嶅" py="áo" />
+	<char hz="遨" py="áo" />
+	<char hz="嗷" py="áo" />
+	<char hz="廒" py="áo" />
+	<char hz="璈" py="áo" />
+	<char hz="獒" py="áo" />
+	<char hz="熬" py="áo" multi="āo" main="1">
+		<definition id="一">
+			<item id="1" text="久煮：~粥. ~药." />
+			<item id="2" text="忍受，耐苦支撑：~夜. ~红了眼睛." />
+		</definition>
+	</char>
+	<char hz="聱" py="áo" />
+	<char hz="螯" py="áo" />
+	<char hz="謷" py="áo">
+		<phrase hz="訾謷" py="zǐ,áo" />
+	</char>
+	<char hz="鳌" py="áo" />
+	<char hz="翱" py="áo" />
+	<char hz="鏖" py="áo" />
+	<char hz="拗" py="ǎo" multi="ào,niù">
+		<phrase hz="拗断" py="ǎo,duàn" />
+		<definition id="一">
+			<item text="〈方〉弯曲使断，折：竹竿~断了." />
+		</definition>
+	</char>
+	<char hz="袄" py="ǎo" />
+	<char hz="媪" py="ǎo" />
+	<char hz="岙" py="ào" />
+	<char hz="垇" py="ào" />
+	<char hz="坳" py="ào" />
+	<char hz="拗" py="ào" multi="ǎo,niù">
+		<phrase hz="拗口" py="ào,kǒu" />
+		<definition id="二">
+			<item text="不顺，不顺从。[拗口令]用声、韵、调相近的字编成的话，说快了容易错。也叫“绕口令”。" />
+		</definition>
+	</char>
+	<char hz="奡" py="ào" />
+	<char hz="傲" py="ào" />
+	<char hz="骜" py="ào" />
+	<char hz="鏊" py="ào" />
+	<char hz="奥" py="ào" />
+	<char hz="墺" py="ào" />
+	<char hz="澳" py="ào" />
+	<char hz="懊" py="ào">
+		<phrase hz="懊丧" py="ào,sàng" />
+	</char>
+</pinyin>

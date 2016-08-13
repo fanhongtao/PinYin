@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="圩" py="xū" multi="wéi">
+		<definition id="二">
+			<item text="闽粤等地区称集市。古书里作“虚”。" />
+		</definition>
+	</char>
+	<char hz="吁" py="xū" multi="yù" main="1">
+		<definition id="一">
+			<item id="1" text="叹息：长~短叹." />
+			<item id="2" text="文言叹词，表示惊疑：~，是何言欤！" />
+		</definition>
+	</char>
+	<char hz="盱" py="xū">
+		<phrase hz="盱眙" py="xū,yí" />
+	</char>
+	<char hz="戌" py="xū" />
+	<char hz="砉" py="xū" multi="huā" main="1">
+		<definition id="一">
+			<item text="皮骨相离声。" />
+		</definition>
+	</char>
+	<char hz="须" py="xū">
+		<phrase hz="须臾" py="xū,yú" />
+	</char>
+	<char hz="媭" py="xū" />
+	<char hz="胥" py="xū" />
+	<char hz="谞" py="xū" />
+	<char hz="顼" py="xū" />
+	<char hz="虚" py="xū" />
+	<char hz="墟" py="xū" />
+	<char hz="嘘" py="xū" multi="shī" main="1">
+		<definition id="一">
+			<item id="1" text="从嘴里慢慢地吐气，呵气。" />
+			<item id="2" text="叹词：仰天而~." />
+			<item id="3" text="火或汽的热力熏炙：小心别~着手. 把馒头放在锅里~一~." />
+			<item text="[嘘唏]同“歔欷”。" />
+		</definition>
+	</char>
+	<char hz="歔" py="xū">
+		<phrase hz="歔欷" py="xū,xī" />
+		<definition>
+			<item text="[歔欷](-xī)哭泣时抽噎。" />
+		</definition>
+	</char>
+	<char hz="欻" py="xū" multi="chuā">
+		<definition id="二">
+			<item text="忽然：风雨~至." />
+		</definition>
+	</char>
+	<char hz="需" py="xū" />
+	<char hz="繻" py="xū" trans="1" />
+	<char hz="魆" py="xū" />
+	<char hz="徐" py="xú" />
+	<char hz="许" py="xǔ" />
+	<char hz="浒" py="xǔ" multi="hǔ">
+		<phrase hz="浒墅关" py="xǔ,shù,guān" />
+		<phrase hz="浒浦" py="xǔ,pǔ" />
+		<definition id="二">
+			<item text="[浒墅关]地名，在江苏省苏州。 [浒浦]地名，在江苏省常熟。" />
+		</definition>
+	</char>
+	<char hz="诩" py="xǔ" />
+	<char hz="栩" py="xǔ" />
+	<char hz="姁" py="xǔ" />
+	<char hz="湑" py="xǔ" multi="xù" main="1">
+		<definition id="一">
+			<item id="1" text="滤过的酒。(引)清。" />
+			<item id="2" text="茂盛。" />
+		</definition>
+	</char>
+	<char hz="糈" py="xǔ" />
+	<char hz="醑" py="xǔ" />
+	<char hz="旭" py="xù" />
+	<char hz="序" py="xù" />
+	<char hz="叙" py="xù" />
+	<char hz="溆" py="xù" />
+	<char hz="洫" py="xù" />
+	<char hz="恤" py="xù" />
+	<char hz="畜" py="xù" multi="chù">
+		<phrase hz="畜产" py="xù,chǎn" />
+		<phrase hz="畜牧" py="xù,mù" />
+		<phrase hz="畜养" py="xù,yǎng" />
+		<definition id="一">
+			<item text="饲养：~产. ~牧业." />
+		</definition>
+	</char>
+	<char hz="蓄" py="xù" />
+	<char hz="酗" py="xù" />
+	<char hz="勖" py="xù" />
+	<char hz="绪" py="xù" />
+	<char hz="续" py="xù">
+		<phrase hz="续假" py="xù,jià" />
+	</char>
+	<char hz="絮" py="xù">
+		<phrase hz="絮叨" py="xù,dao" />
+	</char>
+	<char hz="湑" py="xù" multi="xǔ">
+		<phrase hz="湑水河" py="xù,shuǐ,hé" />
+		<definition id="二">
+			<item text="湑水河，水名，在陕西省汉中。" />
+		</definition>
+	</char>
+	<char hz="婿" py="xù" />
+	<char hz="煦" py="xù" />
+	<char hz="蓿" py="xù" />
+</pinyin>

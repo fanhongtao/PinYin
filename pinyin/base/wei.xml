@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="危" py="wēi" />
+	<char hz="委" py="wēi" multi="wěi">
+		<phrase hz="委蛇" py="wēi,yí" />
+		<definition id="二">
+			<item text="[委蛇](-yí)1.敷衍，应付：虚与~~. 2.同“逶迤”。" />
+		</definition>
+	</char>
+	<char hz="逶" py="wēi">
+		<phrase hz="逶迤" py="wēi,yí" />
+		<definition>
+			<item text="[逶迤](-yí)道路、河道等弯曲而长：山路~~." />
+		</definition>
+	</char>
+	<char hz="巍" py="wēi" />
+	<char hz="威" py="wēi" />
+	<char hz="葳" py="wēi">
+		<phrase hz="葳蕤" py="wēi,ruí" />
+	</char>
+	<char hz="崴" py="wēi" multi="wǎi">
+		<phrase hz="崴嵬" py="wēi,wéi" />
+		<definition id="二">
+			<item text="[崴嵬](-wéi)山高的样子。" />
+		</definition>
+	</char>
+	<char hz="偎" py="wēi" />
+	<char hz="隈" py="wēi" />
+	<char hz="煨" py="wēi" />
+	<char hz="鳂" py="wēi" />
+	<char hz="微" py="wēi" />
+	<char hz="溦" py="wēi" />
+	<char hz="薇" py="wēi" />
+	<char hz="韦" py="wéi" />
+	<char hz="违" py="wéi" />
+	<char hz="围" py="wéi" />
+	<char hz="帏" py="wéi" />
+	<char hz="闱" py="wéi" />
+	<char hz="涠" py="wéi" />
+	<char hz="为" py="wéi" multi="wèi" main="1">
+		<definition id="一">
+			<item id="1" text="做，行：事在人~. 所作所~. (引)作为，作事的能力：年轻有~." />
+			<item id="2" text="做，当：他被选~人大代表. 拜他~师." />
+			<item id="3" text="成为，变成：一分~二. 高岸~谷. 深谷~陵." />
+			<item id="4" text="是：十二个~一打." />
+			<item id="5" text="介词，被：~人所笑." />
+			<item id="6" text="助词，常跟“何”相应，表疑问：何以家~？" />
+			<item id="7" text="附于单音形容词后，表程度、范围：大~增色. 广~传播." />
+			<item id="8" text="附于表程度的单音副词后，加强语气：极~重要. 尤~出色." />
+		</definition>
+	</char>
+	<char hz="沩" py="wéi" />
+	<char hz="圩" py="wéi" multi="xū" main="1">
+		<definition id="一">
+			<item id="1" text="低洼地区周围防水的堤。" />
+			<item id="2" text="有圩围住的地区：~田. 盐~." />
+			<item id="3" text="（-子）围绕村落四周的障碍物，也作“围子”：土~子. 树~子." />
+		</definition>
+	</char>
+	<char hz="桅" py="wéi" />
+	<char hz="硙" py="wéi" multi="wèi" main="1">
+		<definition id="一">
+			<item text="[硙硙]形容很高的样子。" />
+		</definition>
+	</char>
+	<char hz="唯" py="wéi" />
+	<char hz="帷" py="wéi" />
+	<char hz="惟" py="wéi" />
+	<char hz="维" py="wéi" />
+	<char hz="潍" py="wéi" />
+	<char hz="嵬" py="wéi" />
+	<char hz="伟" py="wěi" />
+	<char hz="苇" py="wěi" />
+	<char hz="纬" py="wěi" />
+	<char hz="玮" py="wěi" />
+	<char hz="炜" py="wěi" />
+	<char hz="韡" py="wěi" />
+	<char hz="韪" py="wěi" />
+	<char hz="伪" py="wěi" />
+	<char hz="尾" py="wěi" multi="yǐ" main="1">
+		<definition id="一">
+			<item id="1" text="（-巴）鸟、兽、虫、鱼等身体末端突出的部分：猪~巴. [交尾]动物交配。" />
+			<item id="2" text="末端：排~." />
+			<item id="3" text="尾随，在后面跟：~其后." />
+			<item id="4" text="量词，用于鱼。" />
+			<item id="5" text="星宿名，二十八宿之一。" />
+		</definition>
+	</char>
+	<char hz="娓" py="wěi" />
+	<char hz="委" py="wěi" multi="wēi" main="1">
+		<phrase hz="委屈" py="wěi,qu" />
+		<phrase hz="委靡" py="wěi,mǐ" />
+		<phrase hz="萎靡" py="wěi,mǐ" />
+		<definition id="一">
+			<item id="1" text="任，派，把事交给人办（(连)-任）：~以重任." />
+			<item id="2" text="抛弃，舍弃（(连)-）：~之于地." />
+			<item id="3" text="推诿。" />
+			<item id="4" text="曲折，婉转：话说得很~婉. [委屈](-qu)含冤受屈或心里苦闷：心里有~~，又不肯说." />
+			<item id="5" text="末，尾：原~." />
+			<item id="6" text="确实：~系实情. ~实不错." />
+			<item id="7" text="委员或委员会的简称：编~. 体~. 市~." />
+			<item text="[委靡][萎靡](-mǐ)颓丧，不振作：精神~~." />
+		</definition>
+	</char>
+	<char hz="诿" py="wěi" />
+	<char hz="萎" py="wěi" />
+	<char hz="痿" py="wěi" />
+	<char hz="洧" py="wěi" />
+	<char hz="痏" py="wěi" />
+	<char hz="鲔" py="wěi" />
+	<char hz="隗" py="wěi" multi="kuí" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="頠" py="wěi" trans="1" />
+	<char hz="猥" py="wěi">
+		<phrase hz="猥亵" py="wěi,xiè" />
+	</char>
+	<char hz="卫" py="wèi" />
+	<char hz="为" py="wèi" multi="wéi">
+		<phrase hz="为人民服务" py="wèi,rén,mín,fú,wù" />
+		<phrase hz="为了" py="wèi,le" />
+		<definition id="二">
+			<item id="1" text="介词，替，给：~人民服务." />
+			<item id="2" text="介词，表目的（可以和“了”连用）~早日实现四化而斗争. ~了美好的明天而努力." />
+			<item id="3" text="介词，对，向：且~诸君言之." />
+			<item id="4" text="帮助，卫护。" />
+		</definition>
+	</char>
+	<char hz="未" py="wèi" />
+	<char hz="味" py="wèi" />
+	<char hz="位" py="wèi" />
+	<char hz="畏" py="wèi" />
+	<char hz="喂" py="wèi" />
+	<char hz="碨" py="wèi">
+		<definition>
+			<item text="〈方〉石磨(mò)。" />
+		</definition>
+	</char>
+	<char hz="硙" py="wèi" multi="wéi">
+		<definition id="二">
+			<item text="同“碨”。" />
+		</definition>
+	</char>
+	<char hz="胃" py="wèi" />
+	<char hz="谓" py="wèi" />
+	<char hz="猬" py="wèi" />
+	<char hz="渭" py="wèi" />
+	<char hz="尉" py="wèi" multi="yù" main="1">
+		<definition id="一">
+			<item id="1" text="古官名：太~." />
+			<item id="2" text="军衔名：上~." />
+			<item text="[尉氏]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="蔚" py="wèi" multi="yù" main="1">
+		<definition id="一">
+			<item id="1" text="草木茂盛。(引)盛大：~为大观. [蔚蓝]晴天天空的颜色：~~的天空." />
+			<item id="2" text="文采华美：云蒸霞~." />
+		</definition>
+	</char>
+	<char hz="慰" py="wèi">
+		<phrase hz="慰藉" py="wèi,jiè" />
+	</char>
+	<char hz="鳚" py="wèi" />
+	<char hz="遗" py="wèi" multi="yí">
+		<phrase hz="遗之千金" py="wèi,zhī,qiān,jīn" />
+		<definition id="二">
+			<item text="赠与：~之千金." />
+		</definition>
+	</char>
+	<char hz="魏" py="wèi" />
+</pinyin>

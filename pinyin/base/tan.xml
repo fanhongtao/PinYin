@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坍" py="tān" />
+	<char hz="贪" py="tān">
+		<phrase hz="贪便宜" py="tān,pián,yi" />
+	</char>
+	<char hz="怹" py="tān" />
+	<char hz="啴" py="tān" multi="chǎn" main="1">
+		<definition id="二">
+			<item text="[啴啴]形容牲畜喘息的样子。" />
+		</definition>
+	</char>
+	<char hz="摊" py="tān">
+		<phrase hz="摊场" py="tān,cháng" />
+	</char>
+	<char hz="滩" py="tān" />
+	<char hz="瘫" py="tān">
+		<phrase hz="瘫痪" py="tān,huàn" />
+	</char>
+	<char hz="坛" py="tán" />
+	<char hz="昙" py="tán" />
+	<char hz="倓" py="tán" />
+	<char hz="郯" py="tán" />
+	<char hz="谈" py="tán" />
+	<char hz="锬" py="tán" />
+	<char hz="痰" py="tán" />
+	<char hz="弹" py="tán" multi="dàn">
+		<phrase hz="弹弦子" py="tán,xián,zi" />
+		<phrase hz="弹琵琶" py="tán,pí,pá" />
+		<phrase hz="弹棉花" py="tán,mián,huā" />
+		<phrase hz="弹词" py="tán,cí" />
+		<phrase hz="弹射" py="tán,shè" />
+		<phrase hz="弹性" py="tán,xìng" />
+		<phrase hz="弹劾" py="tán,hé" />
+		<definition id="二">
+			<item id="1" text="被其他手指压住的手指用力伸开：用手指~他一下. 把帽子上的土~下去." />
+			<item id="2" text="使弦振动：~弦子. ~琵琶. ~棉花. [弹词]曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />
+			<item id="3" text="利用一个物体的弹性把另一个物体放射出去：~射. [弹性]物体因受外力暂变形状，外力一去即恢复原状的性质。" />
+			<item id="4" text="指检举违法失职的官吏（(连)-劾）。" />
+			<item text="" />
+		</definition>
+	</char>
+	<char hz="覃" py="tán" multi="qín" main="1">
+		<definition id="一">
+			<item id="1" text="深：~思." />
+			<item id="2" text="延伸：葛之~兮." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="谭" py="tán" />
+	<char hz="潭" py="tán" />
+	<char hz="榃" py="tán" />
+	<char hz="澹" py="tán" multi="dàn">
+		<phrase hz="澹台" py="tán,tái" />
+		<definition id="二">
+			<item text="[澹台](-tái)复姓。" />
+		</definition>
+	</char>
+	<char hz="檀" py="tán" />
+	<char hz="忐" py="tǎn">
+		<phrase hz="忐忑" py="tǎn,tè" />
+	</char>
+	<char hz="坦" py="tǎn" />
+	<char hz="钽" py="tǎn" />
+	<char hz="袒" py="tǎn" />
+	<char hz="菼" py="tǎn" />
+	<char hz="毯" py="tǎn" />
+	<char hz="黮" py="tǎn" />
+	<char hz="叹" py="tàn" />
+	<char hz="炭" py="tàn" />
+	<char hz="碳" py="tàn" />
+	<char hz="探" py="tàn" />
+</pinyin>

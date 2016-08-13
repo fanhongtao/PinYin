@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="匆" py="cōng" />
+	<char hz="葱" py="cōng" />
+	<char hz="苁" py="cōng" />
+	<char hz="瑽" py="cōng" trans="1" />
+	<char hz="枞" py="cōng" multi="zōng" main="1">
+		<definition id="一">
+			<item text="又叫“冷杉”。常绿乔木，果实椭圆形，暗紫色。木材供制器具，又可用作建筑材料。" />
+		</definition>
+	</char>
+	<char hz="囱" py="cōng" />
+	<char hz="骢" py="cōng" />
+	<char hz="璁" py="cōng" />
+	<char hz="熜" py="cōng" />
+	<char hz="聪" py="cōng" />
+	<char hz="从" py="cóng" />
+	<char hz="丛" py="cóng" />
+	<char hz="淙" py="cóng" />
+	<char hz="悰" py="cóng" />
+	<char hz="琮" py="cóng" />
+	<char hz="賨" py="cóng" trans="1" />
+	<char hz="灇" py="cóng" />
+</pinyin>

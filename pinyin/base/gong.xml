@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="工" py="gōng">
+		<phrase hz="工尺" py="gōng,chě" />
+		<phrase hz="工夫" py="gōng,fu" />
+	</char>
+	<char hz="功" py="gōng">
+		<phrase hz="功夫" py="gōng,fu" />
+	</char>
+	<char hz="红" py="gōng" multi="hóng">
+		<phrase hz="女红" py="nǚ,gōng" />
+		<definition id="二">
+			<item text="[女红]旧指女子所做的缝纫、刺绣等工作。也作“女工”。" />
+		</definition>
+	</char>
+	<char hz="攻" py="gōng" />
+	<char hz="弓" py="gōng">
+		<phrase hz="弹弓" py="dàn,gōng" />
+	</char>
+	<char hz="躬" py="gōng" />
+	<char hz="公" py="gōng" />
+	<char hz="蚣" py="gōng">
+		<phrase hz="蜈蚣" py="wú,gong" />
+	</char>
+	<char hz="供" py="gōng" multi="gòng">
+		<phrase hz="供给" py="gōng,jǐ" />
+		<phrase hz="供养" py="gōng,yǎng" />
+		<phrase hz="提供" py="tí,gōng" />
+		<phrase hz="供销" py="gōng,xiāo" />
+		<phrase hz="供求" py="gōng,qiú" />
+		<phrase hz="供不应求" py="gōng,bù,yìng,qiú" />
+		<phrase hz="供参考" py="gōng,cān,kǎo" />
+		<phrase hz="供给制" py="gōng,jǐ,zhì" />
+		<definition id="一">
+			<item text="供给(jǐ)，准备着东西给需要的人应用：~养. 提~. ~销. ~求相应. ~参考. [供给制]对工作人员不给工资，只供给生活必需品的一种制度。" />
+		</definition>
+	</char>
+	<char hz="龚" py="gōng" />
+	<char hz="肱" py="gōng" />
+	<char hz="宫" py="gōng" />
+	<char hz="恭" py="gōng" />
+	<char hz="塨" py="gōng" />
+	<char hz="觥" py="gōng" />
+	<char hz="巩" py="gǒng" />
+	<char hz="汞" py="gǒng">
+		<phrase hz="汞溴红" py="gǒng,xiù,hóng" />
+	</char>
+	<char hz="拱" py="gǒng" />
+	<char hz="珙" py="gǒng" />
+	<char hz="栱" py="gǒng">
+		<phrase hz="枓栱" py="dǒu,gǒng" />
+	</char>
+	<char hz="共" py="gòng" />
+	<char hz="供" py="gòng" multi="gōng" main="1">
+		<definition id="二">
+			<item id="1" text="向神佛或死者奉献祭品：~佛." />
+			<item id="2" text="指奉献的祭品：上~." />
+			<item id="3" text="被审问时在法庭上述说事实：招~. 口~. ~状. ~认." />
+		</definition>
+	</char>
+	<char hz="贡" py="gòng" />
+	<char hz="唝" py="gòng">
+		<phrase hz="唝吥" py="gòng,bù" />
+	</char>
+</pinyin>

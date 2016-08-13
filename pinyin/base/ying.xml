@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="应" py="yīng" multi="yìng">
+		<phrase hz="应当" py="yīng,dāng" />
+		<phrase hz="应该" py="yīng,gāi" />
+		<phrase hz="应有尽有" py="yīng,yǒu,jìn,yǒu" />
+		<phrase hz="应许" py="yīng,xǔ" />
+		<phrase hz="应允" py="yīng,yǔn" />
+		<definition id="一">
+			<item id="1" text="该，当（(连)-当、-该）：~有尽有." />
+			<item id="2" text="答应，应承（(连)-许、-允）：我喊他喊不~. ~他十天之内完工." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="英" py="yīng" />
+	<char hz="瑛" py="yīng" />
+	<char hz="莺" py="yīng" />
+	<char hz="婴" py="yīng" />
+	<char hz="撄" py="yīng" />
+	<char hz="嘤" py="yīng" />
+	<char hz="缨" py="yīng" />
+	<char hz="璎" py="yīng">
+		<phrase hz="璎珞" py="yīng,luò" />
+	</char>
+	<char hz="樱" py="yīng" />
+	<char hz="鹦" py="yīng">
+		<phrase hz="鹦鹉" py="yīng,wǔ" />
+	</char>
+	<char hz="罂" py="yīng" />
+	<char hz="膺" py="yīng" />
+	<char hz="鹰" py="yīng" />
+	<char hz="迎" py="yíng" />
+	<char hz="茔" py="yíng" />
+	<char hz="荥" py="yíng" multi="xíng">
+		<phrase hz="荥经" py="yíng,jīng" />
+		<definition id="二">
+			<item text="[荥经]地名，在四川省。" />
+		</definition>
+	</char>
+	<char hz="荧" py="yíng" />
+	<char hz="莹" py="yíng" />
+	<char hz="萤" py="yíng" />
+	<char hz="营" py="yíng">
+		<phrase hz="露营" py="lù,yíng" />
+	</char>
+	<char hz="萦" py="yíng" />
+	<char hz="溁" py="yíng" />
+	<char hz="蓥" py="yíng" />
+	<char hz="滢" py="yíng" />
+	<char hz="㼆" py="yíng" trans="1" />
+	<char hz="潆" py="yíng" />
+	<char hz="盈" py="yíng" />
+	<char hz="楹" py="yíng" />
+	<char hz="蝇" py="yíng" />
+	<char hz="嬴" py="yíng" />
+	<char hz="瀛" py="yíng" />
+	<char hz="籝" py="yíng" />
+	<char hz="赢" py="yíng" />
+	<char hz="郢" py="yǐng" />
+	<char hz="颍" py="yǐng" />
+	<char hz="颖" py="yǐng" />
+	<char hz="影" py="yǐng" />
+	<char hz="瘿" py="yǐng" />
+	<char hz="应" py="yìng" multi="yīng" main="1">
+		<definition id="二">
+			<item id="1" text="回答和随声相和：~声虫. 山鸣谷~. 呼~. [反应]1.化学上指物质发生化学变化，产生性质和成分与原来不同的新物质。也叫“化学反应”。 2.人及动植物有机体受到刺激而发生的活动和变化。 3.回响，反响。" />
+			<item id="2" text="应付，对待：~战. 随机~变. ~接不暇. [供应]供给。" />
+			<item id="3" text="适合，配合（(连)适~）：~时. 得心~手." />
+			<item id="4" text="接受，答应：~承. ~征. ~邀. 有求必~." />
+		</definition>
+	</char>
+	<char hz="映" py="yìng" />
+	<char hz="硬" py="yìng" />
+	<char hz="媵" py="yìng" />
+</pinyin>

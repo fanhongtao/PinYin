@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="儿" py="ér" />
+	<char hz="而" py="ér" />
+	<char hz="洏" py="ér" />
+	<char hz="鸸" py="ér">
+		<phrase hz="鸸鹋" py="ér,miáo" />
+	</char>
+	<char hz="尔" py="ěr" />
+	<char hz="迩" py="ěr" />
+	<char hz="耳" py="ěr" />
+	<char hz="饵" py="ěr" />
+	<char hz="洱" py="ěr" />
+	<char hz="珥" py="ěr" />
+	<char hz="铒" py="ěr" />
+	<char hz="二" py="èr" />
+	<char hz="贰" py="èr" />
+	<char hz="佴" py="èr" multi="nài" main="1">
+		<definition id="一">
+			<item text="置，停留。" />
+		</definition>
+	</char>
+</pinyin>

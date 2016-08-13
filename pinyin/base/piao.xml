@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="剽" py="piāo" />
+	<char hz="漂" py="piāo" multi="piǎo,piào" main="1">
+		<phrase hz="漂泊" py="piāo,bó" />
+		<definition id="一">
+			<item text="浮在液体上面不沉下去：树叶在水上~着. [漂泊](-bó)(喻)为了生活、职业而流浪奔走：~~在外." />
+		</definition>
+	</char>
+	<char hz="缥" py="piāo" multi="piǎo">
+		<phrase hz="缥缈" py="piāo,miǎo" />
+		<definition id="二">
+			<item text="[缥缈][飘渺](-miǎo)形容隐隐约约，若有若无：山在虚无~~间." />
+		</definition>
+	</char>
+	<char hz="飘" py="piāo">
+		<phrase hz="飘摇" py="piāo,yáo" />
+		<phrase hz="飘飖" py="piāo,yáo" />
+	</char>
+	<!-- <char hz="薸" py="piāo" info="(又)piáo"/> -->
+	<char hz="螵" py="piāo">
+		<phrase hz="螵蛸" py="piāo,xiāo" />
+	</char>
+	<char hz="朴" py="piáo" multi="pō,pò,pǔ">
+		<definition id="四">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="嫖" py="piáo" />
+	<char hz="瓢" py="piáo" />
+	<char hz="薸" py="piáo" info="(又)piāo" />
+	<char hz="莩" py="piǎo" multi="fú" main="1">
+		<definition id="二">
+			<item text="同“殍”。" />
+		</definition>
+	</char>
+	<char hz="殍" py="piǎo">
+		<definition>
+			<item text="饿死的人。也作“莩”。" />
+		</definition>
+	</char>
+	<char hz="漂" py="piǎo" multi="piāo,piào">
+		<phrase hz="漂白" py="piǎo,bái" />
+		<definition id="二">
+			<item id="1" text="用水加药品使东西退去颜色或变白：~白." />
+			<item id="2" text="用水淘去杂质：用水~一~. ~朱砂." />
+		</definition>
+	</char>
+	<char hz="缥" py="piǎo" multi="piāo" main="1">
+		<definition id="一">
+			<item id="1" text="青白色。" />
+			<item id="2" text="青白色丝织品。" />
+		</definition>
+	</char>
+	<char hz="瞟" py="piǎo" />
+	<char hz="票" py="piào" />
+	<char hz="嘌" py="piào">
+		<phrase hz="嘌呤" py="piào,lìng" />
+	</char>
+	<char hz="漂" py="piào" multi="piāo,piǎo">
+		<phrase hz="漂亮" py="piào,liang" />
+		<definition id="三">
+			<item text="[漂亮](-liang)1.美，好看。 2.出色：活儿干得很~~." />
+		</definition>
+	</char>
+	<char hz="骠" py="piào" multi="biāo" main="1">
+		<definition id="一">
+			<item id="1" text="勇猛：~勇." />
+			<item id="2" text="马快跑的样子。" />
+			<item text="[骠骑]古代将军的名号：~~将军." />
+		</definition>
+	</char>
+</pinyin>

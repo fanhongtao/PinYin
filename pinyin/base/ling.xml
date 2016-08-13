@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="〇" py="líng" />
+	<char hz="伶" py="líng">
+		<phrase hz="伶仃" py="líng,dīng" />
+		<phrase hz="零丁" py="líng,dīng" />
+		<phrase hz="伶俐" py="líng,lì" />
+		<phrase hz="伶俜" py="líng,pīng" />
+	</char>
+	<char hz="苓" py="líng">
+		<phrase hz="茯苓" py="fú,líng" />
+	</char>
+	<char hz="囹" py="líng">
+		<phrase hz="囹圄" py="líng,yǔ" />
+	</char>
+	<char hz="泠" py="líng" />
+	<char hz="玲" py="líng">
+		<phrase hz="玲珑" py="líng,lóng" />
+	</char>
+	<char hz="柃" py="líng" />
+	<char hz="瓴" py="líng" />
+	<char hz="铃" py="líng" />
+	<char hz="鸰" py="líng" />
+	<char hz="聆" py="líng" />
+	<char hz="蛉" py="líng" />
+	<char hz="笭" py="líng">
+		<phrase hz="笭箵" py="líng,xīng" />
+	</char>
+	<char hz="翎" py="líng" />
+	<char hz="羚" py="líng" />
+	<char hz="零" py="líng" />
+	<char hz="龄" py="líng" />
+	<char hz="灵" py="líng" />
+	<char hz="棂" py="líng" />
+	<char hz="凌" py="líng" />
+	<char hz="陵" py="líng" />
+	<char hz="菱" py="líng" />
+	<!-- <char hz="崚" py="líng"> -->
+	<char hz="淩" py="líng" />
+	<char hz="绫" py="líng" />
+	<char hz="棱" py="líng" multi="léng">
+		<phrase hz="穆棱" py="mù,líng" />
+		<definition id="二">
+			<item text="[穆棱]地名，在黑龙江省。" />
+		</definition>
+	</char>
+	<char hz="祾" py="líng" />
+	<char hz="鲮" py="líng" />
+	<char hz="酃" py="líng" />
+	<char hz="醽" py="líng">
+		<phrase hz="醽醁" py="líng,lù" />
+	</char>
+	<char hz="令" py="lǐng" multi="lìng">
+		<definition id="二">
+			<item text="(外)量词，原张的纸500张为1令。" />
+		</definition>
+	</char>
+	<char hz="岭" py="lǐng" />
+	<char hz="领" py="lǐng" />
+	<char hz="另" py="lìng" />
+	<char hz="令" py="lìng" multi="lǐng" main="1">
+		<definition id="一">
+			<item id="1" text="上级对下级的指示：明~规定. 遵守法~." />
+			<item id="2" text="上级指示下级：~全体官兵遵照执行." />
+			<item id="3" text="古代官名：县~." />
+			<item id="4" text="使，使得：~人起敬. ~人兴奋." />
+			<item id="5" text="时令，时节：月~. 夏~." />
+			<item id="6" text="美好，善：~名. 敬辞：~兄. ~尊（称对方的父亲）." />
+			<item id="7" text="词之短小者叫令：调笑~. 十六字~." />
+		</definition>
+	</char>
+	<char hz="呤" py="lìng" />
+</pinyin>

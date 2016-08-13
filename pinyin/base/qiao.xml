@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="悄" py="qiāo" multi="qiǎo" info="Word主音">
+		<phrase hz="悄悄" py="qiāo,qiāo" />
+		<definition id="二">
+			<item text="[悄悄]没有声音或声音很低：静~~. 部队~~地出动." />
+		</definition>
+	</char>
+	<char hz="硗" py="qiāo" />
+	<char hz="跷" py="qiāo">
+		<phrase hz="跷蹊" py="qiāo,qi" />
+		<phrase hz="蹊跷" py="qī,qiāo" />
+	</char>
+	<char hz="雀" py="qiāo" multi="qiǎo,què">
+		<phrase hz="雀子" py="qiāo,zi" />
+		<definition id="二">
+			<item text="雀子，雀(què)斑。" />
+		</definition>
+	</char>
+	<char hz="锹" py="qiāo" />
+	<char hz="劁" py="qiāo" />
+	<char hz="敲" py="qiāo" />
+	<char hz="橇" py="qiāo" />
+	<char hz="缲" py="qiāo" multi="sāo" main="1">
+		<definition id="一">
+			<item text="做衣服边儿或带子时藏着针脚的缝法：~一根带子. ~边." />
+		</definition>
+	</char>
+	<char hz="乔" py="qiáo" />
+	<char hz="侨" py="qiáo" />
+	<char hz="荞" py="qiáo" />
+	<char hz="峤" py="qiáo" multi="jiào" main="1">
+		<definition id="二">
+			<item text="山尖而高。" />
+		</definition>
+	</char>
+	<char hz="桥" py="qiáo" />
+	<char hz="硚" py="qiáo" />
+	<char hz="鞒" py="qiáo" />
+	<char hz="荍" py="qiáo" />
+	<char hz="翘" py="qiáo" multi="qiào" main="1">
+		<phrase hz="翘棱" py="qiáo,leng" />
+		<definition id="一">
+			<item id="1" text="举起，抬起，向上：~首. ~望." />
+			<item id="2" text="翘棱(leng)，板状物体因由湿变干而弯曲不平：桌面~棱了." />
+		</definition>
+	</char>
+	<char hz="谯" py="qiáo" />
+	<char hz="憔" py="qiáo">
+		<phrase hz="憔悴" py="qiáo,cuì" />
+	</char>
+	<char hz="樵" py="qiáo" />
+	<char hz="瞧" py="qiáo" />
+	<char hz="巧" py="qiǎo" />
+	<char hz="悄" py="qiǎo" multi="qiāo" main="1">
+		<phrase hz="忧心悄悄" py="yōu,xīn,qiǎo,qiǎo" />
+		<phrase hz="悄然无声" py="qiǎo,rán,wú,shēng" />
+		<definition id="一">
+			<item id="1" text="忧愁（叠）：忧心~~." />
+			<item id="2" text="寂静无声或声音很低：~然无声. 低声~语." />
+		</definition>
+	</char>
+	<char hz="雀" py="qiǎo" multi="qiāo,què">
+		<phrase hz="家雀儿" py="jiā,qiǎo,er" />
+		<definition id="三">
+			<item text="义同“雀(一)”，用于“家雀儿”等口语词。" />
+		</definition>
+	</char>
+	<char hz="愀" py="qiǎo" />
+	<char hz="壳" py="qiào" multi="ké">
+		<phrase hz="甲壳" py="jiǎ,qiào" />
+		<phrase hz="地壳" py="dì,qiào" />
+		<definition id="二">
+			<item text="坚硬的外皮：甲~. 地~." />
+		</definition>
+	</char>
+	<char hz="俏" py="qiào" />
+	<char hz="诮" py="qiào" />
+	<char hz="峭" py="qiào" />
+	<char hz="鞘" py="qiào" multi="shāo" main="1">
+		<definition id="一">
+			<item text="装刀、剑的套子：刀~." />
+		</definition>
+	</char>
+	<char hz="窍" py="qiào" />
+	<char hz="翘" py="qiào" multi="qiáo" info="Word主音">
+		<phrase hz="翘尾巴" py="qiào,wěi,ba" />
+		<definition id="二">
+			<item text="一头向上仰起：板凳~起来了. [翘尾巴](喻)傲慢或自鸣得意。" />
+		</definition>
+	</char>
+	<char hz="撬" py="qiào" />
+</pinyin>

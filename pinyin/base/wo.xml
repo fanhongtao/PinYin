@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挝" py="wō" multi="zhuā">
+		<phrase hz="老挝" py="lǎo,wō" />
+		<definition id="二">
+			<item text="[老挝]国名，在中南半岛。" />
+		</definition>
+	</char>
+	<char hz="莴" py="wō">
+		<phrase hz="莴苣" py="wō,ju" />
+		<definition>
+			<item text="[莴苣](-ju)一年或二年生草本植物，叶多长形，花黄色，分叶用和茎用两种。叶用的叫莴苣菜或生菜，茎用的叫莴笋。" />
+		</definition>
+	</char>
+	<char hz="涡" py="wō" multi="guō" main="1">
+		<definition id="一">
+			<item text="旋涡，水流旋转形成中间低洼的地方：卷入旋~（喻被牵入纠纷里）." />
+		</definition>
+	</char>
+	<char hz="窝" py="wō" />
+	<char hz="蜗" py="wō" />
+	<char hz="倭" py="wō" />
+	<char hz="踒" py="wō" />
+	<char hz="喔" py="wō" />
+	<char hz="我" py="wǒ" />
+	<char hz="肟" py="wò" />
+	<char hz="沃" py="wò" />
+	<char hz="卧" py="wò" />
+	<char hz="偓" py="wò">
+		<phrase hz="偓佺" py="wò,quán" />
+	</char>
+	<char hz="握" py="wò" />
+	<char hz="幄" py="wò" />
+	<char hz="渥" py="wò" />
+	<char hz="龌" py="wò">
+		<phrase hz="龌龊" py="wò,chuò" />
+	</char>
+	<char hz="涴" py="wò" />
+	<char hz="硪" py="wò" />
+	<char hz="斡" py="wò" />
+</pinyin>

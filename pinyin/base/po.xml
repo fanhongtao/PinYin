@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="朴" py="pō" multi="piáo,pò,pǔ">
+		<phrase hz="朴刀" py="pō,dāo" />
+		<definition id="三">
+			<item text="[朴刀]旧式武器，一种窄长有短把的刀。" />
+		</definition>
+	</char>
+	<char hz="钋" py="pō" />
+	<char hz="陂" py="pō" multi="bēi,pí">
+		<phrase hz="陂陀" py="pō,tuó" />
+		<definition id="三">
+			<item text="[陂陀](-tuó)不平坦。" />
+		</definition>
+	</char>
+	<char hz="坡" py="pō" />
+	<char hz="颇" py="pō" />
+	<char hz="泊" py="pō" multi="bó">
+		<phrase hz="湖泊" py="hú,pō" />
+		<phrase hz="血泊" py="xuè,pō" />
+		<phrase hz="梁山泊" py="liáng,shān,pō" />
+		<definition id="二">
+			<item text="湖：湖~. 血~（一大摊血）. [梁山泊]古湖泊名，在今山东省西南部。" />
+		</definition>
+	</char>
+	<char hz="泺" py="pō" multi="luò">
+		<definition id="二">
+			<item text="同“泊”(pō)，湖泊。" />
+		</definition>
+	</char>
+	<char hz="泼" py="pō">
+		<phrase hz="撒泼" py="sā,pō" />
+	</char>
+	<char hz="" py="pō" />
+	<char hz="酦" py="pō" />
+	<char hz="婆" py="pó">
+		<phrase hz="婆娑" py="pó,suō" />
+	</char>
+	<char hz="鄱" py="pó" />
+	<char hz="皤" py="pó" />
+	<char hz="繁" py="pó" multi="fán">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="叵" py="pǒ" />
+	<char hz="钷" py="pǒ" />
+	<char hz="笸" py="pǒ">
+		<phrase hz="笸箩" py="pǒ,luo" />
+	</char>
+	<char hz="朴" py="pò" multi="piáo,pō,pǔ">
+		<phrase hz="朴树" py="pò,shù" />
+		<phrase hz="厚朴" py="hòu,pò" />
+		<definition id="一">
+			<item text="朴树，落叶乔木，花淡黄色，果实黑色。木材供制家具。 [厚朴]落叶乔木，花大，白色，树皮可入药。" />
+		</definition>
+	</char>
+	<char hz="迫" py="pò" multi="pǎi" main="1">
+		<definition id="一">
+			<item id="1" text="用强力压制，硬逼（(连)逼-）：~害. 饥寒交~. ~使对方同意." />
+			<item id="2" text="急促（(连)急-）：~切需要. 从容不~. ~不及待." />
+			<item id="3" text="接近：~近." />
+		</definition>
+	</char>
+	<char hz="珀" py="pò" />
+	<char hz="粕" py="pò" />
+	<char hz="魄" py="pò" multi="bó,tuò" main="1">
+		<definition id="一">
+			<item id="1" text="迷信指依附形体而存在的精神（(连)魂-）：失魂落~." />
+			<item id="2" text="精神，精力：气~. 体~健全. 做工作要有~力." />
+		</definition>
+	</char>
+	<char hz="破" py="pò">
+		<phrase hz="破绽" py="pò,zhàn" />
+	</char>
+	<char hz="桲" py="po" />
+</pinyin>

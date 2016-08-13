@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柔" py="róu" />
+	<char hz="揉" py="róu" />
+	<char hz="輮" py="róu" trans="1" />
+	<char hz="煣" py="róu" />
+	<char hz="糅" py="róu" />
+	<char hz="蹂" py="róu">
+		<phrase hz="蹂躏" py="róu,lìn" />
+	</char>
+	<char hz="鞣" py="róu" />
+	<char hz="肉" py="ròu" />
+</pinyin>

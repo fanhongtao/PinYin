@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="农" py="nóng" />
+	<char hz="侬" py="nóng" />
+	<char hz="哝" py="nóng">
+		<phrase hz="哝哝" py="nóng,nong" />
+	</char>
+	<char hz="浓" py="nóng" />
+	<char hz="脓" py="nóng" />
+	<char hz="秾" py="nóng" />
+	<char hz="弄" py="nòng" multi="lòng" main="1">
+		<definition id="一">
+			<item id="1" text="拿着玩，戏耍（(连)玩-、戏-）：不要~火." />
+			<item id="2" text="搞、做：~好. ~点水喝. ~饭." />
+			<item id="3" text="搅扰：这消息~得人心不安." />
+			<item id="4" text="耍，炫耀：~手段. 舞文~墨." />
+		</definition>
+	</char>
+</pinyin>

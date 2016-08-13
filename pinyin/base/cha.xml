@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="叉" py="chā" multi="chá,chǎ" main="1">
+		<definition id="一">
+			<item id="1" text="（-子）一头有两个以上长齿便于扎取东西的器具：鱼~. 三齿~. 粪~子." />
+			<item id="2" text="用叉子扎取：~鱼." />
+			<item id="3" text="交错：~着手站着." />
+		</definition>
+	</char>
+	<char hz="杈" py="chā" multi="chà" info="Word主音">
+		<definition id="一">
+			<item text="一种用来挑(tiǎo)柴草等的农具。" />
+		</definition>
+	</char>
+	<char hz="差" py="chā" multi="chà,chāi,cī">
+		<phrase hz="差别" py="chā,bié" />
+		<phrase hz="差异" py="chā,yì" />
+		<phrase hz="偏差" py="piān,chā" />
+		<phrase hz="差强人意" py="chā,qiáng,rén,yì" />
+		<phrase hz="差错" py="chā,cuò" />
+		<phrase hz="阴错阳差" py="yīn,cuò,yáng,chā" />
+		<phrase hz="阴差阳错" py="yīn,chā,yáng,cuò" />
+		<phrase hz="差数" py="chā,shù" />
+		<definition id="二">
+			<item id="1" text="不同，不同之点（(连)-别、-异、偏-）。" />
+			<item id="2" text="大致还可以：~强人意." />
+			<item id="3" text="错误：~错. 阴错阳~." />
+			<item id="4" text="差数，两数相减的余数。" />
+		</definition>
+	</char>
+	<char hz="插" py="chā" />
+	<char hz="锸" py="chā" />
+	<char hz="喳" py="chā" multi="zhā">
+		<phrase hz="喳喳" py="chā,cha" />
+		<definition id="二">
+			<item text="[喳喳](-cha)拟声词：打~~（低声说话）." />
+		</definition>
+	</char>
+	<char hz="馇" py="chā" />
+	<char hz="嚓" py="chā" multi="cā">
+		<phrase hz="喀嚓" py="kā,chā" />
+		<definition id="二">
+			<item text="见“喀”字条“喀嚓”(kā-)。" />
+		</definition>
+	</char>
+	<char hz="叉" py="chá" multi="chā,chǎ">
+		<definition id="二">
+			<item text="挡住，堵塞住，互相卡住：车把路口~住了." />
+		</definition>
+	</char>
+	<char hz="垞" py="chá" />
+	<char hz="茬" py="chá">
+		<definition>
+			<item id="1" text="（-儿）庄稼收割后余留在地上的短根和茎：麦~儿. 豆~儿." />
+			<item id="2" text="（-儿）在同一块土地上庄稼种植或收割的次数：换~. 头~. 二~." />
+			<item id="3" text="短而硬的头发、胡子。" />
+		</definition>
+	</char>
+	<char hz="茶" py="chá" />
+	<char hz="搽" py="chá" />
+	<char hz="查" py="chá" multi="zhā" main="1">
+		<definition id="一">
+			<item id="1" text="检查：~账." />
+			<item id="2" text="翻检着看：~地图. ~字典." />
+		</definition>
+	</char>
+	<char hz="嵖" py="chá">
+		<phrase hz="嵖岈山" py="chá,yá,shān" />
+	</char>
+	<char hz="猹" py="chá" />
+	<char hz="楂" py="chá" multi="zhā" main="1">
+		<definition id="二">
+			<item text="同“茬”。" />
+		</definition>
+	</char>
+	<char hz="碴" py="chá" />
+	<char hz="槎" py="chá" />
+	<char hz="察" py="chá" />
+	<char hz="檫" py="chá" />
+	<char hz="叉" py="chǎ" multi="chā,chá">
+		<phrase hz="叉腿" py="chǎ,tuǐ" />
+		<definition id="三">
+			<item text="分开，张开：~腿." />
+		</definition>
+	</char>
+	<char hz="衩" py="chǎ" multi="chà" info="Word主音">
+		<phrase hz="裤衩" py="kù,chǎ" />
+		<definition id="二">
+			<item text="[裤衩]短裤：三角~~." />
+		</definition>
+	</char>
+	<char hz="蹅" py="chǎ" />
+	<char hz="镲" py="chǎ" />
+	<char hz="汊" py="chà" />
+	<char hz="杈" py="chà" multi="chā" main="1">
+		<definition id="二">
+			<item text="（-子、-儿）植物的分枝：树~儿，打棉花~." />
+		</definition>
+	</char>
+	<char hz="衩" py="chà" multi="chǎ" main="1">
+		<definition id="一">
+			<item text="衣服旁边开口的地方。" />
+		</definition>
+	</char>
+	<char hz="岔" py="chà" />
+	<char hz="侘" py="chà">
+		<phrase hz="侘傺" py="chà,chì" />
+	</char>
+	<char hz="诧" py="chà" />
+	<char hz="姹" py="chà" />
+	<char hz="刹" py="chà" multi="shā">
+		<phrase hz="宝刹" py="bǎo,chà" />
+		<phrase hz="古刹" py="gǔ,chà" />
+		<phrase hz="刹那" py="chà,nà" />
+		<definition id="一">
+			<item text="梵语，原义是土或田，转为佛寺：宝~. 古~. [刹那]梵语，极短的时间。" />
+		</definition>
+	</char>
+	<char hz="差" py="chà" multi="chā,chāi,cī" main="1">
+		<definition id="一">
+			<item id="1" text="错误：说~了." />
+			<item id="2" text="不相当，不相合：~得远. ~不多." />
+			<item id="3" text="缺欠：~一道手续. 还~一个人." />
+			<item id="4" text="不好，不够标准：成绩~." />
+		</definition>
+	</char>
+</pinyin>

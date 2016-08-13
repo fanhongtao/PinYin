@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哩" py="lī" multi="lǐ,li">
+		<phrase hz="哩哩啦啦" py="lī,lī,lā,lā" />
+		<definition id="三">
+			<item text="[哩哩啦啦]形容零零散散或断断续续的样子：瓶子漏了，~~~~地洒了一地. 雨~~~~下了一天." />
+		</definition>
+	</char>
+	<char hz="丽" py="lí" multi="lì">
+		<phrase hz="高丽" py="gāo,lí" />
+		<phrase hz="高句丽" py="gāo,gōu,lí" />
+		<phrase hz="丽水" py="lí,shuǐ" />
+		<definition id="二">
+			<item text="[高丽]1.我国古族名，古国名。又称“高句(gōu)丽”。 2.朝鲜半岛历史上的王朝，即王氏高丽。 [丽水]地名，在浙江省。" />
+		</definition>
+	</char>
+	<char hz="骊" py="lí" />
+	<char hz="鹂" py="lí" />
+	<char hz="鲡" py="lí" />
+	<char hz="厘" py="lí" />
+	<char hz="喱" py="lí" />
+	<char hz="狸" py="lí" />
+	<char hz="离" py="lí">
+		<phrase hz="离间" py="lí,jiàn" />
+	</char>
+	<char hz="蓠" py="lí" />
+	<char hz="漓" py="lí" />
+	<char hz="缡" py="lí" />
+	<char hz="篱" py="lí" />
+	<char hz="醨" py="lí" />
+	<char hz="梨" py="lí" />
+	<char hz="犁" py="lí" />
+	<char hz="嫠" py="lí" />
+	<!-- <char hz="漦" py="lí"/> -->
+	<char hz="黎" py="lí" />
+	<char hz="藜" py="lí" />
+	<char hz="黧" py="lí" />
+	<char hz="罹" py="lí">
+		<phrase hz="罹难" py="lí,nàn" />
+	</char>
+	<char hz="蠡" py="lí" multi="lǐ" info="Word主音">
+		<phrase hz="以蠡测海" py="yǐ,lí,cè,hǎi" />
+		<definition id="二">
+			<item text="贝壳做的瓢：以~测海（喻见识浅薄）." />
+		</definition>
+	</char>
+	<char hz="劙" py="lí" />
+	<char hz="礼" py="lǐ" />
+	<char hz="李" py="lǐ" />
+	<char hz="里" py="lǐ" />
+	<char hz="俚" py="lǐ" />
+	<char hz="哩" py="lǐ" multi="lī,li" info="Word主音">
+		<definition id="二">
+			<item text="也读作yīnglǐ。英美制长度单位名，1哩等于5280呎，合1609米，现写作“英里”。" />
+		</definition>
+	</char>
+	<char hz="浬" py="lǐ" />
+	<char hz="娌" py="lǐ" />
+	<char hz="理" py="lǐ">
+		<phrase hz="理会" py="lǐ,huì" />
+	</char>
+	<char hz="锂" py="lǐ" />
+	<char hz="鲤" py="lǐ" />
+	<char hz="逦" py="lǐ" />
+	<char hz="澧" py="lǐ" />
+	<char hz="醴" py="lǐ" />
+	<char hz="蠡" py="lǐ" multi="lí" main="1">
+		<definition id="一">
+			<item text="蠡县，地名，在河北省。" />
+		</definition>
+	</char>
+	<char hz="力" py="lì" />
+	<char hz="荔" py="lì" />
+	<char hz="历" py="lì" />
+	<char hz="坜" py="lì" />
+	<char hz="苈" py="lì" />
+	<char hz="呖" py="lì" />
+	<char hz="㠣" py="lì" trans="1" />
+	<char hz="沥" py="lì" />
+	<char hz="枥" py="lì" />
+	<char hz="疬" py="lì" />
+	<char hz="雳" py="lì" />
+	<char hz="厉" py="lì">
+		<phrase hz="厉害" py="lì,hai" />
+	</char>
+	<char hz="励" py="lì" />
+	<char hz="砺" py="lì" />
+	<char hz="蛎" py="lì">
+		<phrase hz="牡蛎" py="mǔ,lì" />
+	</char>
+	<char hz="粝" py="lì" />
+	<char hz="疠" py="lì" />
+	<char hz="立" py="lì" />
+	<char hz="莅" py="lì" />
+	<char hz="粒" py="lì" />
+	<char hz="笠" py="lì" />
+	<char hz="吏" py="lì" />
+	<char hz="丽" py="lì" multi="lí" main="1">
+		<definition id="一">
+			<item id="1" text="好看，漂亮：美~. 秀~. 壮~. 富~. 风和日~." />
+			<item id="2" text="附着（(连)附-）。" />
+		</definition>
+	</char>
+	<char hz="郦" py="lì" />
+	<char hz="俪" py="lì" />
+	<char hz="利" py="lì">
+		<phrase hz="利害" py="lì,hài" />
+		<phrase hz="利落" py="lì,luo" />
+		<phrase hz="利索" py="lì,suo" />
+	</char>
+	<char hz="俐" py="lì" />
+	<char hz="莉" py="lì" />
+	<char hz="猁" py="lì" />
+	<char hz="痢" py="lì" />
+	<char hz="例" py="lì" />
+	<char hz="戾" py="lì">
+		<phrase hz="鸢飞戾天" py="yuān,fēi,lì,tiān" />
+	</char>
+	<char hz="唳" py="lì" />
+	<char hz="隶" py="lì" />
+	<char hz="栎" py="lì" multi="yuè" main="1">
+		<definition id="一">
+			<item text="俗叫“柞(zuò)树”或“麻栎”。落叶乔木，花黄褐色，果实叫橡子或橡斗。木材坚硬，可制家具，供建筑用。树皮可鞣皮或做染料。叶子可喂蚕。另有一种栓皮栎，树皮质地轻软，富有弹性，是制造软木器物的主要原料。" />
+		</definition>
+	</char>
+	<char hz="轹" py="lì" />
+	<char hz="砾" py="lì" />
+	<char hz="跞" py="lì" multi="luò" main="1">
+		<definition id="一">
+			<item text="走、跨越：骐骥一~，不能千里." />
+		</definition>
+	</char>
+	<char hz="鬲" py="lì" multi="gé">
+		<definition id="一">
+			<item text="古代炊具，形状像鼎而足部中空。" />
+		</definition>
+	</char>
+	<char hz="栗" py="lì" />
+	<char hz="傈" py="lì">
+		<phrase hz="傈僳族" py="lì,sù,zú" />
+	</char>
+	<char hz="溧" py="lì" />
+	<char hz="篥" py="lì" />
+	<char hz="詈" py="lì" />
+	<char hz="哩" py="li" multi="lī,lǐ" main="1">
+		<definition id="一">
+			<item text="助词，同“呢(二)”。" />
+		</definition>
+	</char>
+	<char hz="蜊" py="li" />
+	<char hz="璃" py="li" />
+</pinyin>

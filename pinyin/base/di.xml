@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="氐" py="dī" multi="dǐ" main="1">
+		<definition id="二">
+			<item id="1" text="我国古代西部的少数民族名。" />
+			<item id="2" text="星宿名，二十八宿之一。" />
+		</definition>
+	</char>
+	<char hz="低" py="dī" />
+	<char hz="羝" py="dī" />
+	<char hz="堤" py="dī" />
+	<char hz="提" py="dī" multi="tí">
+		<phrase hz="提防" py="dī,fang" />
+		<phrase hz="提溜" py="dī,liu" />
+		<definition id="二">
+			<item text="[提防](-fang)小心防备。 [提溜](-liu)手提(tí)。" />
+		</definition>
+	</char>
+	<char hz="鞮" py="dī" />
+	<char hz="磾" py="dī" trans="1" />
+	<char hz="滴" py="dī">
+		<phrase hz="滴溜" py="dī,liū" />
+	</char>
+	<char hz="镝" py="dī" multi="dí" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Dy，用于原子能工业等。" />
+		</definition>
+	</char>
+	<char hz="奀" py="dí" multi="ēn">
+		<definition id="二">
+			<item text="〈方〉小。" />
+		</definition>
+	</char>
+	<char hz="狄" py="dí" />
+	<char hz="荻" py="dí" />
+	<char hz="迪" py="dí" />
+	<char hz="笛" py="dí" />
+	<char hz="的" py="dí" multi="de,dì">
+		<phrase hz="的当" py="dí,dàng" />
+		<phrase hz="的确如此" py="dí,què,rú,cǐ" />
+		<definition id="二">
+			<item text="真实，实在：~当(dàng). ~确如此." />
+		</definition>
+	</char>
+	<char hz="籴" py="dí" />
+	<char hz="敌" py="dí" />
+	<char hz="涤" py="dí" />
+	<char hz="觌" py="dí" />
+	<char hz="髢" py="dí" />
+	<char hz="嘀" py="dí">
+		<phrase hz="嘀咕" py="dí,gu" />
+	</char>
+	<char hz="嫡" py="dí" />
+	<char hz="镝" py="dí" multi="dī">
+		<phrase hz="锋镝" py="fēng,dí" />
+		<phrase hz="鸣镝" py="míng,dí" />
+		<definition id="二">
+			<item text="箭头：锋~. 鸣~（响箭）." />
+		</definition>
+	</char>
+	<char hz="蹢" py="dí" multi="zhí" main="1">
+		<definition id="一">
+			<item text="〈古〉蹄子。" />
+		</definition>
+	</char>
+	<char hz="翟" py="dí" multi="zhái">
+		<phrase hz="墨翟" py="mò,dí" />
+		<definition id="一">
+			<item id="1" text="长尾山雉。" />
+			<item id="2" text="古代哲学家墨子名翟。" />
+		</definition>
+	</char>
+	<char hz="氐" py="dǐ" multi="dī">
+		<definition id="一">
+			<item text="根本。" />
+		</definition>
+	</char>
+	<char hz="邸" py="dǐ" />
+	<char hz="诋" py="dǐ" />
+	<char hz="坻" py="dǐ" multi="chí" main="1">
+		<definition id="二">
+			<item text="山坡。" />
+			<item text="[宝坻]地名，在天津市。" />
+		</definition>
+	</char>
+	<char hz="抵" py="dǐ" />
+	<char hz="底" py="dǐ" multi="de" main="1">
+		<phrase hz="刨根问底" py="páo,gēn,wèn,dǐ" />
+		<definition id="一">
+			<item id="1" text="（-子、-儿）最下面的部分：锅~. 鞋~儿. 海~. (引)末了：月~. 年~." />
+			<item id="2" text="（-子、-儿）根基，基础，留作根据的：~稿. ~账. 刨(páo)根问~. 那文件要留个~儿. [底细]内情，详情，事件的根底。" />
+			<item id="3" text="（-儿）图案的底子：白~儿红花碗." />
+			<item id="4" text="达到：终~于成." />
+			<item id="5" text="何，什么：~事. ~处." />
+		</definition>
+	</char>
+	<char hz="柢" py="dǐ" />
+	<char hz="砥" py="dǐ" />
+	<char hz="骶" py="dǐ" />
+	<char hz="地" py="dì" multi="de" main="1">
+		<definition id="一">
+			<item id="1" text="地球，太阳第九大行星之一，人类居住的星球：天~. ~心. ~层. (引)1.指土地、地面：~大物博. 草~. 两亩~. 2.指某一地区，地点：此~. 华东各~. 目的~. 3.指路程，用在里数或站数后：三十里~. 两站~. [地道]1.地下挖成的隧道：~~战. 2.(-dao)有名产地出产的，也说“道地”：~~药材. (转)真正的，纯粹：一口~~北京话. [地方]1.各省、市、县，对全国和中央说：~~各级人民代表大会. ~~服从中央. 2.(-fang)区域：飞机在什么~~飞？那~~出高粱. 3.(-fang)点，部分：他这话有的~~很对. [地位]人在社会关系中所处的位置。 [地下]1.地面下，土里：~~铁道. (喻)秘密的，不公开的：~~工作. 2.(-xia)地面上：掉在~~了." />
+			<item id="2" text="表示思想活动的领域：见~. 心~." />
+			<item id="3" text="底子（(连)质-）：蓝~白花布." />
+		</definition>
+	</char>
+	<char hz="弟" py="dì">
+		<phrase hz="弟兄" py="dì,xiong" />
+		<phrase hz="兄弟" py="xiōng,di" />
+	</char>
+	<char hz="递" py="dì" />
+	<char hz="娣" py="dì" />
+	<char hz="睇" py="dì" />
+	<char hz="第" py="dì" />
+	<char hz="的" py="dì" multi="de,dí">
+		<!-- <phrase hz="中的" py="zhòng,dì"/> -->
+		<phrase hz="有的放矢" py="yǒu,dì,fàng,shǐ" />
+		<phrase hz="目的" py="mù,dì" />
+		<definition id="一">
+			<item text="箭靶的中心：中(zhòng)~. 有~放矢. [目的]要达到的目标、境地：我们的~~一定能够达到." />
+		</definition>
+	</char>
+	<char hz="菂" py="dì" />
+	<char hz="帝" py="dì" />
+	<char hz="谛" py="dì" />
+	<char hz="蒂" py="dì" />
+	<char hz="缔" py="dì" />
+	<char hz="禘" py="dì" />
+	<char hz="碲" py="dì" />
+	<char hz="棣" py="dì" />
+	<char hz="踶" py="dì" />
+</pinyin>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="陂" py="bēi" multi="pí,pō" main="1">
+		<definition id="一">
+			<item id="1" text="池塘：~塘. ~池." />
+			<item id="2" text="池塘的岸。" />
+			<item id="3" text="山坡。" />
+		</definition>
+	</char>
+	<char hz="杯" py="bēi" />
+	<char hz="卑" py="bēi" />
+	<!-- 庳 读 bì -->
+	<char hz="椑" py="bēi" />
+	<char hz="碑" py="bēi" />
+	<char hz="鹎" py="bēi" />
+	<char hz="背" py="bēi" multi="bèi">
+		<phrase hz="背包袱" py="bēi,bāo,fu" />
+		<phrase hz="背枪" py="bēi,qiāng" />
+		<definition id="二">
+			<item text="人用背（bèi）驮（tuó）东西：把小孩儿~起来. ~包袱. ~枪." />
+		</definition>
+	</char>
+	<char hz="悲" py="bēi" />
+	<char hz="北" py="běi" />
+	<char hz="贝" py="bèi" />
+	<char hz="狈" py="bèi" />
+	<char hz="钡" py="bèi" />
+	<char hz="孛" py="bèi" />
+	<char hz="悖" py="bèi" />
+	<char hz="邶" py="bèi" />
+	<char hz="背" py="bèi" multi="bēi" main="1">
+		<definition id="一">
+			<item id="1" text="背脊，脊梁，自肩至后腰的部分。 [背地]不当人面：不要当面不说，~~乱说. [背景]1.舞台上的布景。2.图画上或摄影时衬托主体事物的景物。(喻)对人物、事件起作用的环境或关系：政治~~. 历史~~. [背心]没有袖子和领子的短上衣。" />
+			<item id="2" text="物体的反面或后面：~面. 手背. 刀~." />
+			<item id="3" text="用背部对着，跟“向”相对：~水作战. ~光. ~灯. (引)1.向相反的方向：~道而驰. ~地性（植物向上生长的性质）. 2.避：~着他说话. 3.离开：离乡~井." />
+			<item id="4" text="凭记忆读出：~诵. ~书." />
+			<item id="5" text="违背，违反：~约. ~信弃义. [背叛]投向敌对方面，反对原来所在的方面。" />
+			<item id="6" text="不顺：~时." />
+			<item id="7" text="偏僻，冷淡：这条胡同太~. ~月（生意清淡的季节）." />
+			<item id="8" text="听觉不灵：耳朵有点儿~." />
+		</definition>
+	</char>
+	<char hz="褙" py="bèi" />
+	<char hz="备" py="bèi" />
+	<char hz="惫" py="bèi" />
+	<char hz="糒" py="bèi" />
+	<char hz="鞴" py="bèi" />
+	<char hz="倍" py="bèi" />
+	<char hz="焙" py="bèi" />
+	<char hz="蓓" py="bèi" />
+	<char hz="碚" py="bèi" />
+	<char hz="被" py="bèi" />
+	<char hz="鞁" py="bèi" />
+	<char hz="琲" py="bèi" />
+	<char hz="辈" py="bèi">
+		<phrase hz="辈子" py="bèi,zi" />
+	</char>
+	<char hz="鐾" py="bèi" />
+	<char hz="呗" py="bei" multi="bài" main="1">
+		<definition id="一">
+			<item text="助词。1.表示“罢了”、“不过如此”的意思：这就行了~. 2.表示勉强同意的语气，跟“吧”相近：你愿意去就去~." />
+		</definition>
+	</char>
+	<char hz="臂" py="bei" multi="bì">
+		<phrase hz="胳臂" py="gē,bei" />
+		<definition id="二">
+			<item text="见“胳”字条“胳臂”（gē-）" />
+		</definition>
+	</char>
+</pinyin>

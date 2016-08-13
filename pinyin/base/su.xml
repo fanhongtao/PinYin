@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="苏" py="sū" />
+	<char hz="酥" py="sū" />
+	<char hz="稣" py="sū" />
+	<char hz="窣" py="sū" />
+	<char hz="俗" py="sú" />
+	<char hz="夙" py="sù" />
+	<char hz="诉" py="sù" />
+	<char hz="肃" py="sù" />
+	<char hz="骕" py="sù">
+		<phrase hz="骕骦" py="sù,shuāng" />
+	</char>
+	<char hz="鹔" py="sù">
+		<phrase hz="鹔鹴" py="sù,shuāng" />
+	</char>
+	<char hz="素" py="sù" />
+	<char hz="嗉" py="sù" />
+	<char hz="愫" py="sù" />
+	<char hz="速" py="sù" />
+	<char hz="涑" py="sù" />
+	<char hz="觫" py="sù" />
+	<char hz="宿" py="sù" multi="xiǔ,xiù" main="1">
+		<definition id="一">
+			<item id="1" text="住，过夜，夜里睡觉：住~. ~舍." />
+			<item id="2" text="年老的，长久从事某种工作的：~将（经历多，老练的指挥官）." />
+			<item id="3" text="平素，素有的：~愿得偿." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="缩" py="sù" multi="suō">
+		<phrase hz="缩砂密" py="sù,shā,mì" />
+		<definition id="二">
+			<item text="[缩砂密]多年生草本植物，种子可入药，叫砂仁。" />
+		</definition>
+	</char>
+	<char hz="蹜" py="sù" />
+	<char hz="粟" py="sù" />
+	<char hz="僳" py="sù" />
+	<char hz="谡" py="sù" />
+	<char hz="塑" py="sù" />
+	<char hz="溯" py="sù" />
+	<char hz="蔌" py="sù" />
+	<char hz="簌" py="sù" />
+</pinyin>

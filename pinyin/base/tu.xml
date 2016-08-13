@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="凸" py="tū" />
+	<char hz="秃" py="tū" />
+	<char hz="突" py="tū" />
+	<char hz="葖" py="tū" />
+	<char hz="图" py="tú" />
+	<char hz="荼" py="tú" />
+	<char hz="途" py="tú" />
+	<char hz="涂" py="tú" />
+	<char hz="酴" py="tú" />
+	<char hz="徒" py="tú" />
+	<char hz="菟" py="tú" multi="tù">
+		<phrase hz="於菟" py="wū,tú" />
+		<definition id="二">
+			<item text="[於菟](wū-)〈古〉老虎的别称。" />
+		</definition>
+	</char>
+	<char hz="屠" py="tú" />
+	<char hz="腯" py="tú" />
+	<char hz="土" py="tǔ" />
+	<char hz="吐" py="tǔ" multi="tù" main="1">
+		<phrase hz="吐露实情" py="tǔ,lù,shí,qíng" />
+		<definition id="一">
+			<item text="使东西从嘴里出来：不要随地~痰. (引)1.说出：~露(lù)实情. 坚不~实. 2.露出，放出：高粱~穗了. 蚕~丝." />
+		</definition>
+	</char>
+	<char hz="钍" py="tǔ" />
+	<char hz="吐" py="tù" multi="tǔ">
+		<phrase hz="呕吐" py="ǒu,tù" />
+		<phrase hz="上吐下泻" py="shàng,tù,xià,xiè" />
+		<phrase hz="吐血" py="tù,xiě" />
+		<phrase hz="吐出赃款" py="tù,chū,zāng,kuǎn" />
+		<definition id="二">
+			<item text="消化道或呼吸道里的东西从嘴里涌出（(连)呕-）：上~下泻. ~血. (喻)退还（侵吞的财物）：~出赃款." />
+		</definition>
+	</char>
+	<char hz="兔" py="tù" />
+	<char hz="堍" py="tù" />
+	<char hz="菟" py="tù" multi="tú" main="1">
+		<definition id="一">
+			<item text="植物名。 1.菟丝子，寄生的蔓草，茎细长，常缠绕在别的植物上，对农作物有害。秋初开小花，子实可入药。 2.菟葵，多年生草本植物，花淡紫红色，多生在山地树丛里。" />
+		</definition>
+	</char>
+</pinyin>

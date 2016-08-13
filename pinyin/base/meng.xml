@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蒙" py="mēng" multi="méng,měng">
+		<phrase hz="别蒙人" py="bié,mēng,rén" />
+		<phrase hz="蒙对了" py="mēng,duì,le" />
+		<phrase hz="打蒙了" py="dǎ,mēng,le" />
+		<definition id="二">
+			<item id="1" text="欺骗（(连)-骗）：别~人. 谁也~不住他." />
+			<item id="2" text="胡乱猜测：这回叫你~对了." />
+			<item id="3" text="昏迷：他被球打~了." />
+		</definition>
+	</char>
+	<char hz="氓" py="méng" multi="máng" main="1">
+		<definition id="一">
+			<item text="〈古〉民（特指外来的）。也作“萌”。" />
+		</definition>
+	</char>
+	<char hz="虻" py="méng" />
+	<char hz="萌" py="méng">
+		<definition>
+			<item id="1" text="植物的芽。" />
+			<item id="2" text="萌芽，植物生芽。 (引)开始发生：知者（有见识的人）见于未~. 故态复~（多用于贬义）." />
+		</definition>
+	</char>
+	<char hz="盟" py="méng" />
+	<char hz="蒙" py="méng" multi="mēng,měng" main="1">
+		<definition id="一">
+			<item id="1" text="没有知识，愚昧：启~. 发~. ~昧." />
+			<item id="2" text="覆盖：~头盖脑. ~上一张纸. [蒙蔽]隐瞒事实，欺骗。" />
+			<item id="3" text="受：~难(nàn). 承~招待，感谢之至." />
+			<item id="4" text="形容雨点细小（叠）：~~细雨. [空蒙]形容景色迷茫：山色~~." />
+			<item id="5" text="眼睛失明。 [蒙眬]目不明：睡眼~~." />
+			<item id="6" text="朴实敦厚。" />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="濛" py="méng" info="词组中使用到，所以补充">
+		<definition>
+			<item text="“蒙(一)(4)”的繁体字。"/>
+		</definition>
+	</char>
+	<char hz="幪" py="méng" />
+	<char hz="獴" py="méng" info="(又)měng" />
+	<char hz="檬" py="méng" />
+	<char hz="曚" py="méng">
+		<phrase hz="曚昽" py="méng,lóng" />
+	</char>
+	<char hz="朦" py="méng">
+		<phrase hz="朦胧" py="méng,lóng" />
+	</char>
+	<char hz="鹲" py="méng" />
+	<char hz="礞" py="méng" />
+	<char hz="艨" py="méng" />
+	<char hz="甍" py="méng" />
+	<char hz="瞢" py="méng" />
+	<char hz="勐" py="měng" />
+	<char hz="猛" py="měng" />
+	<char hz="锰" py="měng" />
+	<char hz="蜢" py="měng" />
+	<char hz="艋" py="měng">
+		<phrase hz="舴艋" py="zé,měng" />
+	</char>
+	<char hz="蒙" py="měng" multi="mēng,méng">
+		<phrase hz="蒙古" py="měng,gǔ" />
+		<phrase hz="内蒙" py="nèi,měng" />
+		<definition id="三">
+			<item text="[蒙古族]1.我国少数民族。 2.蒙古国的主要民族。 [内蒙古]我国少数民族自治区，1947年5月建立。" />
+		</definition>
+	</char>
+	<!-- <char hz="獴" py="měng" info="(又)méng"/> -->
+	<char hz="蠓" py="měng" />
+	<char hz="懵" py="měng">
+		<phrase hz="懵懂" py="měng,dǒng" />
+	</char>
+	<char hz="孟" py="mèng" />
+	<char hz="梦" py="mèng" />
+</pinyin>

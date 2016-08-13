@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嚷" py="rāng" multi="rǎng">
+		<phrase hz="嚷嚷" py="rāng,rang" />
+		<definition id="二">
+			<item text="[嚷嚷](-rang)1.吵闹：大家别乱~~. 2.声张：这事先别~~出去." />
+		</definition>
+	</char>
+	<char hz="勷" py="ráng" />
+	<char hz="蘘" py="ráng" />
+	<char hz="禳" py="ráng" />
+	<char hz="穰" py="ráng" />
+	<char hz="瓤" py="ráng" />
+	<char hz="miss: 衤襄" py="ráng" info="special" />
+	<char hz="壤" py="rǎng" />
+	<char hz="攘" py="rǎng" />
+	<char hz="嚷" py="rǎng" multi="rāng" main="1">
+		<definition id="一">
+			<item text="大声喊叫：大~大叫. 你别~了，大家都睡觉了." />
+		</definition>
+	</char>
+	<char hz="让" py="ràng" />
+</pinyin>

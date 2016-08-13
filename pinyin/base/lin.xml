@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拎" py="līn" />
+	<char hz="邻" py="lín" />
+	<char hz="林" py="lín" />
+	<char hz="啉" py="lín" />
+	<char hz="淋" py="lín" multi="lìn" main="1">
+		<phrase hz="淋漓" py="lín,lí" />
+		<definition id="一">
+			<item text="浇：花蔫了，~上点水吧." />
+			<item text="[淋巴](外)即淋巴液，人身体里的一种无色透明液体，起血液和细胞之间的物质交换作用。" />
+			<item text="[淋漓](-lí)湿淋淋往下滴落：墨迹~~. 大汗~~. (转)畅达：~~尽致. 痛快~~." />
+		</definition>
+	</char>
+	<char hz="琳" py="lín">
+		<phrase hz="琳琅" py="lín,láng" />
+	</char>
+	<char hz="霖" py="lín" />
+	<char hz="临" py="lín" />
+	<char hz="粼" py="lín" />
+	<char hz="嶙" py="lín">
+		<phrase hz="嶙峋" py="lín,xún" />
+	</char>
+	<char hz="遴" py="lín" />
+	<char hz="璘" py="lín" />
+	<char hz="辚" py="lín" />
+	<char hz="磷" py="lín" />
+	<char hz="瞵" py="lín" />
+	<char hz="鳞" py="lín">
+		<phrase hz="鳞爪" py="lín,zhǎo" />
+	</char>
+	<char hz="麟" py="lín" />
+	<char hz="凛" py="lǐn" />
+	<char hz="廪" py="lǐn" />
+	<char hz="懔" py="lǐn" />
+	<char hz="檩" py="lǐn" />
+	<char hz="吝" py="lìn" />
+	<char hz="赁" py="lìn" />
+	<char hz="淋" py="lìn" multi="lín">
+		<phrase hz="淋盐" py="lìn,yán" />
+		<phrase hz="淋硝" py="lìn,xiāo" />
+		<phrase hz="淋病" py="lìn,bìng" />
+		<definition id="二">
+			<item id="1" text="过滤：~盐. ~硝." />
+			<item id="2" text="淋病，一种性病，病原体是淋病球菌，病人尿道红肿溃烂，重的尿里夹带脓血。也叫“白浊”。" />
+		</definition>
+	</char>
+	<char hz="蔺" py="lìn" />
+	<char hz="躏" py="lìn" />
+	<char hz="膦" py="lìn" />
+</pinyin>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丕" py="pī" />
+	<char hz="伾" py="pī" />
+	<char hz="邳" py="pī" />
+	<char hz="坯" py="pī" />
+	<char hz="狉" py="pī" />
+	<char hz="批" py="pī" />
+	<char hz="纰" py="pī">
+		<phrase hz="纰缪" py="pī,miù" />
+		<definition>
+			<item text="布帛、丝缕等破坏散开。 [纰漏]因疏忽而引起的错误。 [纰缪](-miù)错误。" />
+		</definition>
+	</char>
+	<char hz="砒" py="pī" />
+	<char hz="鈚" py="pī" trans="1" />
+	<char hz="披" py="pī">
+		<phrase hz="披卷" py="pī,juàn" />
+		<phrase hz="披露" py="pī,lù" />
+		<phrase hz="披靡" py="pī,mǐ" />
+	</char>
+	<char hz="劈" py="pī" multi="pǐ" main="1">
+		<definition id="一">
+			<item id="1" text="用刀斧等破开：~木头." />
+			<item id="2" text="冲着，正对着：~脸. 大雨~头浇下来." />
+			<item id="3" text="雷电毁坏或击毙：大树让雷~了." />
+			<item id="4" text="尖劈，物理学上两斜面合成的助力器械，刀斧等都属于这一类。" />
+			<item text="[劈啪]拟声词。" />
+		</definition>
+	</char>
+	<char hz="噼" py="pī" />
+	<char hz="霹" py="pī">
+		<phrase hz="霹雳" py="pī,lì" />
+	</char>
+	<char hz="皮" py="pí" />
+	<char hz="陂" py="pí" multi="bēi,pō">
+		<phrase hz="黄陂" py="huáng,pí" />
+		<definition id="二">
+			<item text="[黄陂]地名，在湖北省武汉。" />
+		</definition>
+	</char>
+	<char hz="铍" py="pí" />
+	<char hz="疲" py="pí">
+		<phrase hz="疲癃" py="pí,lóng" />
+		<phrase hz="疲沓" py="pí,ta" />
+		<phrase hz="疲塌" py="pí,ta" />
+	</char>
+	<char hz="鲏" py="pí" />
+	<char hz="枇" py="pí">
+		<phrase hz="枇杷" py="pí,pa" />
+	</char>
+	<char hz="毗" py="pí" />
+	<char hz="蚍" py="pí">
+		<phrase hz="蚍蜉" py="pí,fú" />
+	</char>
+	<char hz="琵" py="pí">
+		<phrase hz="琵琶" py="pí,pa" />
+	</char>
+	<char hz="貔" py="pí">
+		<phrase hz="貔貅" py="pí,xiū" />
+	</char>
+	<char hz="郫" py="pí" />
+	<char hz="陴" py="pí" />
+	<char hz="埤" py="pí" />
+	<char hz="啤" py="pí" />
+	<char hz="脾" py="pí">
+		<phrase hz="脾气" py="pí,qi" />
+	</char>
+	<char hz="裨" py="pí" multi="bì">
+		<phrase hz="偏裨" py="piān,pí" />
+		<phrase hz="裨将" py="pí,jiàng" />
+		<definition id="二">
+			<item text="副，辅佐的（(连)偏-）：~将." />
+		</definition>
+	</char>
+	<char hz="蜱" py="pí" />
+	<char hz="鼙" py="pí" />
+	<char hz="罴" py="pí" />
+	<char hz="匹" py="pǐ" />
+	<char hz="苉" py="pǐ" />
+	<char hz="庀" py="pǐ" />
+	<char hz="圮" py="pǐ" />
+	<char hz="仳" py="pǐ" />
+	<char hz="否" py="pǐ" multi="fǒu">
+		<phrase hz="否极泰来" py="pǐ,jí,tài,lái" />
+		<phrase hz="臧否" py="zāng,pǐ" />
+		<definition id="二">
+			<item id="1" text="恶，坏：~极泰来（坏的到了尽头，好的就来了。否和泰都是《周易》六十四卦中的卦名，分别代表坏和好的事情）." />
+			<item id="2" text="贬斥：臧~人物（评论人物的优劣）." />
+		</definition>
+	</char>
+	<char hz="痞" py="pǐ" />
+	<char hz="嚭" py="pǐ" />
+	<char hz="劈" py="pǐ" multi="pī">
+		<definition id="二">
+			<item text="分开：~柴. ~成两份儿. ~一半给你." />
+		</definition>
+	</char>
+	<char hz="擗" py="pǐ" />
+	<char hz="癖" py="pǐ" />
+	<char hz="屁" py="pì" />
+	<char hz="媲" py="pì" />
+	<char hz="淠" py="pì" />
+	<char hz="睥" py="pì">
+		<phrase hz="睥睨" py="pì,nì" />
+	</char>
+	<char hz="辟" py="pì" multi="bì" main="1">
+		<definition id="二">
+			<item id="1" text="开辟，从无到有地开发建设：开天~地. 在那里开~一片新园地." />
+			<item id="2" text="驳斥，排除：~谣. ~邪说." />
+			<item id="3" text="透彻：精~." />
+			<item id="4" text="法，法律。" />
+			<item text="[大辟]古代指死刑。" />
+		</definition>
+	</char>
+	<char hz="僻" py="pì" />
+	<char hz="澼" py="pì" />
+	<char hz="甓" py="pì" />
+	<char hz="" py="pì">
+		<phrase hz="" py="pì,tī" />
+	</char>
+	<char hz="譬" py="pì" />
+</pinyin>

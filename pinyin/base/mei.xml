@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="没" py="méi" multi="mò" main="1">
+		<definition id="一">
+			<item id="1" text="没有，无：他~哥哥. 我~那本书. 2.表示估量或比较，不够，不如：他~（不够）一米八高. 汽车~（不如）飞机快." />
+			<item id="2" text="副词，没有，不曾，未：他们~做完. 衣服~干." />
+		</definition>
+	</char>
+	<char hz="玫" py="méi">
+		<phrase hz="玫瑰" py="méi,gui" />
+	</char>
+	<char hz="枚" py="méi" />
+	<char hz="眉" py="méi" />
+	<char hz="郿" py="méi" />
+	<char hz="嵋" py="méi" />
+	<char hz="猸" py="méi" />
+	<char hz="湄" py="méi" />
+	<char hz="楣" py="méi" />
+	<char hz="镅" py="méi" />
+	<char hz="鹛" py="méi" />
+	<char hz="莓" py="méi" />
+	<char hz="梅" py="méi" />
+	<char hz="脢" py="méi" />
+	<char hz="酶" py="méi" />
+	<char hz="霉" py="méi" />
+	<char hz="媒" py="méi">
+		<phrase hz="媒妁" py="méi,shuò" />
+	</char>
+	<char hz="煤" py="méi" />
+	<char hz="糜" py="méi" multi="mí">
+		<phrase hz="糜子" py="méi,zi" />
+		<definition id="二">
+			<item text="（-子）就穄。参看“穄”(jì)。" />
+		</definition>
+	</char>
+	<char hz="每" py="měi" />
+	<char hz="美" py="měi" />
+	<char hz="镁" py="měi" />
+	<char hz="浼" py="měi" />
+	<char hz="妹" py="mèi" />
+	<char hz="昧" py="mèi" />
+	<char hz="寐" py="mèi" />
+	<char hz="魅" py="mèi" />
+	<char hz="袂" py="mèi" />
+	<char hz="媚" py="mèi" />
+</pinyin>

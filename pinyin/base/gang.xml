@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="冈" py="gāng">
+		<definition>
+			<item text="山脊：山~. 景阳~. 井~山." />
+		</definition>
+	</char>
+	<char hz="刚" py="gāng" />
+	<char hz="" py="gāng" />
+	<char hz="岗" py="gāng" multi="gǎng">
+		<definition id="二">
+			<item text="同“冈”。" />
+		</definition>
+	</char>
+	<char hz="纲" py="gāng" />
+	<char hz="" py="gāng" />
+	<char hz="钢" py="gāng" multi="gàng" main="1">
+		<phrase hz="钢种" py="gāng,zhǒng" />
+		<definition id="一">
+			<item text="经过精练，不含磷、硫等杂质的铁，含碳量低于2%，比熟铁更坚硬、更富于弹性，是工业上极重要的原料。 [钢精][钢种](-zhǒng)指制造日用器皿的铝。 [钢铁](喻)坚强，坚定不移：~~的意志." />
+		</definition>
+	</char>
+	<char hz="扛" py="gāng" multi="káng">
+		<phrase hz="扛鼎" py="gāng,dǐng" />
+		<definition id="二">
+			<item id="1" text="两手举东西：~鼎." />
+			<item id="2" text="〈方〉抬东西。" />
+		</definition>
+	</char>
+	<char hz="肛" py="gāng" />
+	<char hz="缸" py="gāng" />
+	<char hz="罡" py="gāng" />
+	<char hz="堽" py="gāng" />
+	<char hz="岗" py="gǎng" multi="gāng" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）高起的土坡：黄土~儿." />
+			<item id="2" text="（-子、-儿）平面上凸起的一长道：肉~子." />
+			<item id="3" text="守卫的位置：站~. 门~. 布~. [岗位]守卫、值勤的地方。也指职位：工作~~." />
+		</definition>
+	</char>
+	<char hz="港" py="gǎng" />
+	<char hz="杠" py="gàng">
+		<phrase hz="杠杆" py="gàng,gǎn" />
+	</char>
+	<char hz="钢" py="gàng" multi="gāng">
+		<definition id="二">
+			<item text="把刀在布、皮、石或缸沿上用力摩擦几下使它锋利：这把刀钝了，要~一~." />
+		</definition>
+	</char>
+	<char hz="筻" py="gàng" />
+	<char hz="戆" py="gàng" multi="zhuàng">
+		<phrase hz="戆头戆脑" py="gàng,tóu,gàng,nǎo" />
+		<definition id="二">
+			<item text="〈方〉鲁莽：~头~脑." />
+		</definition>
+	</char>
+</pinyin>

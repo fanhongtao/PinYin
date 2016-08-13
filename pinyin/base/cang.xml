@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仓" py="cāng" />
+	<char hz="伧" py="cāng" multi="chen" main="1">
+		<definition id="一">
+			<item text="古代讥人粗俗，鄙贱：~俗." />
+		</definition>
+	</char>
+	<char hz="苍" py="cāng" />
+	<char hz="沧" py="cāng" />
+	<char hz="鸧" py="cāng" />
+	<char hz="舱" py="cāng" />
+	<char hz="藏" py="cáng" multi="zàng" main="1">
+		<definition id="一">
+			<item id="1" text="隐避：埋~. 他~在树后头." />
+			<item id="2" text="收存：~书处. 储~室. 把这些东西收~起来." />
+		</definition>
+	</char>
+</pinyin>

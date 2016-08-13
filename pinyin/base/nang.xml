@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="囊" py="nāng" multi="náng">
+		<phrase hz="囊膪" py="nāng,chuài" />
+		<definition id="一">
+			<item text="[囊膪](-chuài)见“膪”字条。" />
+		</definition>
+	</char>
+	<char hz="囔" py="nāng">
+		<phrase hz="囔囔" py="nāng,nang" />
+	</char>
+	<char hz="囊" py="náng" multi="nāng" main="1">
+		<definition id="二">
+			<item text="口袋：探~取物（喻极容易）. [囊括]全部包罗：~~四海. ~~本次比赛全部金牌." />
+		</definition>
+	</char>
+	<char hz="馕" py="náng" multi="nǎng" main="1">
+		<definition id="二">
+			<item text="(维)一种烤制成的面饼。" />
+		</definition>
+	</char>
+	<char hz="曩" py="nǎng" />
+	<char hz="攮" py="nǎng">
+		<phrase hz="攮子" py="nǎng,zi" />
+	</char>
+	<char hz="馕" py="nǎng" multi="náng" info="Word主音">
+		<definition id="一">
+			<item text="拼命地往嘴里塞食物。" />
+		</definition>
+	</char>
+	<char hz="齉" py="nàng" />
+</pinyin>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拆" py="cā" multi="chāi">
+		<phrase hz="拆烂污" py="cā,làn,wū" />
+		<definition id="二">
+			<item text="〈方〉排泄（大小便）：~烂污（喻不负责任，以致把事情弄糟）." />
+		</definition>
+	</char>
+	<char hz="擦" py="cā" />
+	<char hz="嚓" py="cā" multi="chā" main="1">
+		<definition id="一">
+			<item text="拟声词：摩托车~的一声停住了." />
+		</definition>
+	</char>
+	<char hz="䃰" py="cā" />
+	<char hz="礤" py="cā" />
+</pinyin>

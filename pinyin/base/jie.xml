@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="节" py="jiē" multi="jié">
+		<phrase hz="节骨眼儿" py="jiē,gu,yǎn,er" />
+		<definition id="二">
+			<item text="[节骨眼儿](-gu-)〈方〉(喻)紧要的、能起决定作用的环节或时机。" />
+		</definition>
+	</char>
+	<char hz="疖" py="jiē" />
+	<char hz="阶" py="jiē" />
+	<char hz="皆" py="jiē" />
+	<char hz="喈" py="jiē" />
+	<char hz="湝" py="jiē" />
+	<char hz="楷" py="jiē" multi="kǎi">
+		<phrase hz="楷树" py="jiē,shù" />
+		<definition id="二">
+			<item text="楷树，落叶乔木，果实长圆形，红色。木材可制器具。也叫“黄连木”。" />
+		</definition>
+	</char>
+	<char hz="结" py="jiē" multi="jié">
+		<phrase hz="结实" py="jiē,shi" />
+		<phrase hz="结巴" py="jiē,ba" />
+		<definition id="二">
+			<item text="植物长果实：树上~了许多苹果. [结实]1.植物长(zhǎng)果实：开花~~. 2.(-shi)坚固耐用：这双鞋很~~. 3.(-shi)健壮：他的身体很~~." />
+			<item text="[结巴](-ba)1.口吃。 2.口吃的人。" />
+		</definition>
+	</char>
+	<char hz="秸" py="jiē" />
+	<char hz="接" py="jiē" />
+	<char hz="痎" py="jiē" />
+	<char hz="揭" py="jiē" />
+	<char hz="嗟" py="jiē" />
+	<char hz="街" py="jiē">
+		<phrase hz="街坊" py="jiē,fang" />
+	</char>
+	<char hz="孑" py="jiē" />
+	<char hz="节" py="jié" multi="jiē" main="1">
+		<definition id="一">
+			<item id="1" text="（-儿）植物学上称茎上长叶的部位。" />
+			<item id="2" text="（-儿）物体的分段或两段之间连接的地方：骨~. 两~火车." />
+			<item id="3" text="段落：季~. 时~. 章~. [节气]我国历法把一年分为二十四段，每段的开始叫作一个节气，如立春、雨水等，共有二十四个节气。也省称“节”。" />
+			<item id="4" text="节日，纪念日或庆祝的日子：五一国际劳动~. 春~." />
+			<item id="5" text="礼度：礼~." />
+			<item id="6" text="音调高低缓急的限度：~奏. ~拍." />
+			<item id="7" text="省减，限制（(连)-省、-约）：~制. 开源~流. ~衣缩食. (引)扼要摘取：~录. ~译." />
+			<item id="8" text="操守（(连)-操）：保持晚~. 守~（封建礼教称夫死不再嫁人）." />
+			<item id="9" text="事项：情~. 细~." />
+			<item id="10" text="古代出使外国所持的凭证。 [使节]派到外国的外交官员。" />
+			<item id="11" text="航海速度单位名，每小时航行1海里的速度为1节。符号kn。" />
+		</definition>
+	</char>
+	<char hz="讦" py="jié" />
+	<char hz="劫" py="jié" />
+	<char hz="杰" py="jié" />
+	<char hz="桀" py="jié" />
+	<char hz="劼" py="jié" />
+	<char hz="诘" py="jié" multi="jí" main="1">
+		<definition id="一">
+			<item text="追问：反~. 盘~." />
+		</definition>
+	</char>
+	<char hz="拮" py="jié">
+		<phrase hz="拮据" py="jié,jū" />
+		<definition>
+			<item text="[拮据](-jū)经济境况不好，困窘。" />
+		</definition>
+	</char>
+	<char hz="洁" py="jié" />
+	<char hz="结" py="jié" multi="jiē" main="1">
+		<definition id="一">
+			<item id="1" text="系(jì)，绾(wǎn)：~网. ~绳. 张灯~彩. [结构]1.各组成部分的搭配和排列：文章的~~. 2.建筑上指承重的部分：钢筋混凝土~~. [结舌]因害怕或理屈说不出话来：问得他张口~~." />
+			<item id="2" text="（-子）用绳、线或布条等绾成的扣：打~. 活." />
+			<item id="3" text="聚，合。 1.凝聚：~冰. ~晶. 2.联合，发生关系：~婚. ~交. 集合~社." />
+			<item id="4" text="收束，完了(liǎo)：~账. ~局. [结论]对人或事物所下的总结性的论断。" />
+			<item id="5" text="一种保证负责的字据：具~." />
+		</definition>
+	</char>
+	<char hz="桔" py="jié" multi="jú">
+		<phrase hz="桔梗" py="jié,gěng" />
+		<phrase hz="桔槔" py="jié,gāo" />
+		<definition id="一">
+			<item id="1" text="[桔梗](-gěng)多年生草本植物，花紫色，根可以入药。" />
+			<item id="2" text="[桔槔](-gāo)一种汲水的设备。" />
+		</definition>
+	</char>
+	<char hz="袺" py="jié" />
+	<char hz="颉" py="jié" multi="xié">
+		<phrase hz="仓颉" py="cāng,jié" />
+		<definition id="一">
+			<item text="[仓颉]上古人名，传说是黄帝的史官，汉字的创造者。" />
+		</definition>
+	</char>
+	<char hz="鲒" py="jié">
+		<phrase hz="鲒埼" py="jié,qí" />
+	</char>
+	<char hz="㛃" py="jié" />
+	<char hz="捷" py="jié" />
+	<char hz="婕" py="jié">
+		<phrase hz="婕妤" py="jié,yú" />
+	</char>
+	<char hz="睫" py="jié" />
+	<char hz="偈" py="jié" multi="jì">
+		<definition id="二">
+			<item id="1" text="勇武。" />
+			<item id="2" text="跑得快。" />
+		</definition>
+	</char>
+	<char hz="楬" py="jié">
+		<phrase hz="楬橥" py="jié,zhū" />
+	</char>
+	<char hz="碣" py="jié" />
+	<char hz="竭" py="jié" />
+	<char hz="羯" py="jié" />
+	<char hz="截" py="jié" />
+	<char hz="姐" py="jiě" />
+	<char hz="毑" py="jiě" />
+	<char hz="解" py="jiě" multi="jiè,xiè" main="1">
+		<definition id="一">
+			<item id="1" text="剖开，分开（(连)分-）：尸体~剖. 难~难分. 瓦~." />
+			<item id="2" text="把束缚着、系(jì)着的东西打开：~扣. ~衣服. [解放]1.推翻反动政权，使广大人民群众脱离压迫，获得自由。 2.解除束缚，得到自由或发展：~~生产力." />
+			<item id="3" text="除去。 1.消除：~恨. ~渴. 2.废除，停止：~职. ~约." />
+			<item id="4" text="讲明白，分析说明（(连)-释、注-）：~答. ~劝." />
+			<item id="5" text="懂，明白：令人不~. 通俗易~." />
+			<item id="6" text="代数方程中未知数的值。" />
+			<item id="7" text="演算：~方程." />
+			<item id="8" text="解手儿，大小便：大~. 小~." />
+		</definition>
+	</char>
+	<char hz="檞" py="jiè" />
+	<char hz="介" py="jiè" />
+	<char hz="价" py="jiè" multi="jià,jie">
+		<definition id="二">
+			<item text="旧时称派遣传送东西或传达事情的人。" />
+		</definition>
+	</char>
+	<char hz="芥" py="jiè" multi="gài" main="1">
+		<definition id="一">
+			<item text="芥菜，一年或二年生草本植物，开黄花，茎叶及块根可吃。种子味辛辣，研成细末，可调味。" />
+		</definition>
+	</char>
+	<char hz="玠" py="jiè" />
+	<char hz="界" py="jiè" />
+	<char hz="疥" py="jiè" />
+	<char hz="蚧" py="jiè" />
+	<char hz="戒" py="jiè" />
+	<char hz="诫" py="jiè" />
+	<char hz="届" py="jiè">
+		<phrase hz="应届" py="yīng,jiè" />
+	</char>
+	<char hz="借" py="jiè">
+		<definition>
+			<item id="1" text="暂时使用别人的财物等：~钱. ~车. ~用. [借光]请人让路或问事的客气话。" />
+			<item id="2" text="暂时把财物等给别人使用：~给他几块钱." />
+			<item id="3" text="假托：~端. ~故. ~口. ~题发挥." />
+			<item id="4" text="凭借，依靠：~助." />
+		</definition>
+	</char>
+	<char hz="唶" py="jiè" />
+	<char hz="藉" py="jiè" multi="jí" main="1">
+		<definition id="一">
+			<item id="1" text="垫在下面的东西。" />
+			<item id="2" text="垫衬：枕~." />
+			<item id="3" text="同“借(3)(4)”。" />
+		</definition>
+	</char>
+	<char hz="解" py="jiè" multi="jiě,xiè">
+		<phrase hz="解款" py="jiè,kuǎn" />
+		<phrase hz="起解" py="qǐ,jiè" />
+		<phrase hz="解元" py="jiè,yuán" />
+		<definition id="二">
+			<item text="指押送财物或犯人：~款. 起~. [解元]明、清两代称乡试考取第一名的人。" />
+		</definition>
+	</char>
+	<char hz="犗" py="jiè" />
+	<char hz="褯" py="jiè" />
+	<char hz="价" py="jie" multi="jià,jiè">
+		<phrase hz="震天价响" py="zhèn,tiān,jie,xiǎng" />
+		<phrase hz="成天价闹" py="chéng,tiān,jie,nào" />
+		<definition id="三">
+			<item text="词尾：震天~响. 成天~闹." />
+		</definition>
+	</char>
+	<char hz="家" py="jie" multi="jiā">
+		<definition id="二">
+			<item text="词尾：整天~. 成年~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="过" py="guō" multi="guò">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="彍" py="guō" trans="1" />
+	<char hz="呙" py="guō" />
+	<char hz="埚" py="guō" />
+	<char hz="涡" py="guō" multi="wō">
+		<phrase hz="涡水" py="guō,shuǐ" />
+		<definition id="二">
+			<item text="涡水，水名，发源于河南省，流至安徽省注入淮河。" />
+		</definition>
+	</char>
+	<char hz="锅" py="guō" />
+	<char hz="郭" py="guō" />
+	<char hz="崞" py="guō" />
+	<char hz="啯" py="guō" />
+	<char hz="蝈" py="guō">
+		<phrase hz="蝈蝈儿" py="guō,guo,r" />
+	</char>
+	<char hz="聒" py="guō" />
+	<char hz="国" py="guó" />
+	<char hz="掴" py="guó" info="(又)guāi" />
+	<char hz="帼" py="guó" />
+	<char hz="漍" py="guó" trans="1" />
+	<char hz="腘" py="guó" />
+	<char hz="虢" py="guó" />
+	<char hz="馘" py="guó" />
+	<char hz="果" py="guǒ" />
+	<char hz="馃" py="guǒ" />
+	<char hz="蜾" py="guǒ">
+		<phrase hz="蜾蠃" py="guǒ,luǒ" />
+	</char>
+	<char hz="裹" py="guǒ" />
+	<char hz="椁" py="guǒ" />
+	<char hz="过" py="guò" multi="guō" main="1">
+		<phrase hz="过去" py="guò,qu" />
+		<phrase hz="过年" py="guò,nian" />
+		<phrase hz="过分" py="guò,fèn" />
+		<phrase hz="过逾" py="guò,yu" />
+		<definition id="一">
+			<item id="1" text="从这儿到那儿，从甲方到乙方：~江. 没有~不去的河. ~户. ~账. (引)1.传：~电. 2.交往：~从. [过去]1.已经经历了的时间。2.(-qu)从这儿到那儿去。" />
+			<item id="2" text="经过，度过：~冬. ~节. 日子越~越好. (引)使经过某种处理：~秤. ~目. ~一~数. 把菜~一~油. [过年]1.度过新年。2.(-nian)明年，指说话时候以后的一个年头。" />
+			<item id="3" text="超出。1.数量：~半数. ~了一百. 2.程度：~分(fèn). ~火. 未免太~." />
+			<item id="4" text="超越。[过费](-fei)〈方〉1.花费过多。2.辜负。 [过逾](-yu)过分：小心没~~." />
+			<item id="5" text="（-儿）量词，次，回，遍：衣服洗了好几~儿." />
+			<item id="6" text="错误（(连)-错）：改~自新. 知~必改." />
+			<item id="7" text="(guo)放在动词后。1.助词，表示曾经或已经：看~. 听~. 用~了. 你见~他吗？2.跟“来”、“去”连用，表示趋向：拿~来. 转~去." />
+		</definition>
+	</char>
+</pinyin>

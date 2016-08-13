@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="搓" py="cuō" />
+	<char hz="磋" py="cuō" />
+	<char hz="蹉" py="cuō" />
+	<char hz="撮" py="cuō" multi="zuǒ" main="1">
+		<definition id="一">
+			<item id="1" text="聚起，现多指把聚拢的东西用簸箕等物铲起：~成一堆. 把土~起来. [撮合]给双方拉关系。 [撮口呼]ü韵母和拿ü开关的韵母叫作“撮口呼”。" />
+			<item id="2" text="取，摘取：~要（摘取要点）." />
+			<item id="3" text="市制容量单位，一升的千分之一。" />
+			<item id="4" text="（-儿）量词：一~米. 一~儿土." />
+		</definition>
+	</char>
+	<char hz="嵯" py="cuō" />
+	<char hz="瘥" py="cuó" multi="chài">
+		<definition id="二">
+			<item text="病。" />
+		</definition>
+	</char>
+	<char hz="鹾" py="cuó" />
+	<char hz="矬" py="cuó" />
+	<char hz="痤" py="cuó" />
+	<char hz="酂" py="cuó" />
+	<char hz="脞" py="cuǒ" />
+	<char hz="挫" py="cuò" />
+	<char hz="莝" py="cuò" />
+	<char hz="锉" py="cuò" />
+	<char hz="厝" py="cuò" />
+	<char hz="措" py="cuò" />
+	<char hz="错" py="cuò">
+		<phrase hz="错觉" py="cuò,jué" />
+	</char>
+</pinyin>

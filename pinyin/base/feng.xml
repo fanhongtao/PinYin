@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="丰" py="fēng" />
+	<char hz="沣" py="fēng" />
+	<char hz="风" py="fēng">
+		<phrase hz="旋风" py="xuàn,fēng" />
+		<phrase hz="风头" py="fēng,tou" />
+	</char>
+	<char hz="沨" py="fēng" />
+	<char hz="枫" py="fēng" />
+	<char hz="砜" py="fēng" />
+	<char hz="疯" py="fēng" />
+	<char hz="封" py="fēng" />
+	<char hz="葑" py="fēng" multi="fèng" main="1">
+		<definition id="一">
+			<item text="即芜菁。也叫“蔓(mán)菁”。" />
+		</definition>
+	</char>
+	<char hz="犎" py="fēng" />
+	<char hz="峰" py="fēng" />
+	<char hz="烽" py="fēng" />
+	<char hz="锋" py="fēng" />
+	<char hz="蜂" py="fēng" />
+	<char hz="酆" py="fēng" />
+	<char hz="冯" py="féng" />
+	<char hz="逢" py="féng" />
+	<char hz="缝" py="féng" multi="fèng" main="1">
+		<definition id="一">
+			<item text="用针线连缀：把衣服的破口~上. [缝纫]裁制服装：学习~~." />
+		</definition>
+	</char>
+	<char hz="讽" py="fěng" />
+	<char hz="唪" py="fěng" />
+	<char hz="凤" py="fèng" />
+	<char hz="奉" py="fèng" />
+	<char hz="俸" py="fèng" />
+	<char hz="甮" py="fèng" />
+	<char hz="葑" py="fèng" multi="fēng">
+		<definition id="二">
+			<item text="古书上指菰的根。" />
+		</definition>
+	</char>
+	<char hz="赗" py="fèng">
+		<phrase hz="赙赗" py="fù,fèng" />
+	</char>
+	<char hz="缝" py="fèng" multi="féng">
+		<phrase hz="缝子" py="fèng,zi" />
+		<phrase hz="缝儿" py="fèng,er" />
+		<definition id="二">
+			<item id="1" text="（-子、-儿）缝隙，裂开或自然露出的窄长口子：裂~. 墙~." />
+			<item id="2" text="（-儿）接合处的痕迹：这道~儿不直." />
+		</definition>
+	</char>
+</pinyin>

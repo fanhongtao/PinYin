@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咖" py="kā" multi="gā">
+		<phrase hz="咖啡" py="kā,fēi" />
+		<definition id="二">
+			<item text="[咖啡](-fēi)(外)常绿灌木或小乔木，产在热带，花白色，果实红色，种子可制饮料。也指这种饮料。" />
+		</definition>
+	</char>
+	<char hz="喀" py="kā">
+		<phrase hz="喀嚓" py="kā,chā" />
+	</char>
+	<char hz="擖" py="kā" />
+	<char hz="卡" py="kǎ" multi="qiǎ" main="1">
+		<definition id="二">
+			<item id="1" text="卡车，载重的大汽车：十轮~." />
+			<item id="2" text="卡片，小的纸片（一般是比较硬的纸）：资料~. 贺年~. [绿卡]某些国家发给外国侨民的长期居留证的俗称。" />
+			<item id="3" text="卡路里，热量的非法定计量单位，1克纯水的温度升高1摄氏度所需的热量为1卡，合4.1868焦。" />
+			<item text="[卡通](外)1.动画片。 2.漫画。" />
+		</definition>
+	</char>
+	<char hz="佧" py="kǎ">
+		<phrase hz="佧佤族" py="kǎ,wǎ,zú" />
+	</char>
+	<char hz="咔" py="kǎ">
+		<phrase hz="咔叽" py="kǎ,jī" />
+	</char>
+	<char hz="胩" py="kǎ" />
+	<char hz="咯" py="kǎ" multi="gē,lo">
+		<phrase hz="咯出来" py="kǎ,chū,lái" />
+		<phrase hz="咯血" py="kǎ,xiě" />
+		<phrase hz="咯痰" py="kǎ,tán" />
+		<definition id="一">
+			<item text="用力使东西从食道或气管里出来：把鱼剌~出来. ~血. ~痰." />
+		</definition>
+	</char>
+</pinyin>

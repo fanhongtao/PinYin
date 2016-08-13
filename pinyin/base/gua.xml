@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瓜" py="guā">
+		<phrase hz="瓜葛" py="guā,gé" />
+	</char>
+	<char hz="呱" py="guā" multi="gū,guǎ" main="1">
+		<phrase hz="呱哒" py="guā,dā" />
+		<definition id="一">
+			<item text="[呱哒](-dā)拟声词。 [呱哒板儿]1.唱莲花落(lào)等打拍子的器具。2.木拖鞋。 [呱呱]拟声词，鸭子、青蛙等的响亮叫声。(转)形容好：~~叫. 顶~~." />
+		</definition>
+	</char>
+	<char hz="胍" py="guā" />
+	<char hz="刮" py="guā" />
+	<char hz="括" py="guā" multi="kuò">
+		<phrase hz="挺括" py="tǐng,guā" />
+		<phrase hz="一塌括子" py="yī,tā,guā,zi" />
+		<definition id="二">
+			<item text="[挺括]〈方〉（衣服、纸张等）较硬而平整。 [一塌括子]〈方〉一股脑儿，全部。" />
+		</definition>
+	</char>
+	<char hz="䒷" py="guā" />
+	<char hz="栝" py="guā">
+		<phrase hz="栝楼" py="guā,lóu" />
+	</char>
+	<char hz="鸹" py="guā" />
+	<char hz="䯄" py="guā" />
+	<char hz="緺" py="guā" trans="1" />
+	<char hz="呱" py="guǎ" multi="gū,guā">
+		<phrase hz="拉呱儿" py="lā,guǎ,r" />
+		<definition id="三">
+			<item text="[拉呱儿](lāguǎr)〈方〉聊天。" />
+		</definition>
+	</char>
+	<char hz="剐" py="guǎ" />
+	<char hz="寡" py="guǎ" />
+	<char hz="卦" py="guà" />
+	<char hz="诖" py="guà" />
+	<char hz="挂" py="guà" />
+	<char hz="褂" py="guà" />
+</pinyin>

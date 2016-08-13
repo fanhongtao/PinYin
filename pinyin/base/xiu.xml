@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="休" py="xiū" />
+	<char hz="咻" py="xiū" />
+	<char hz="庥" py="xiū" />
+	<char hz="鸺" py="xiū" />
+	<char hz="貅" py="xiū" />
+	<char hz="髹" py="xiū" />
+	<char hz="修" py="xiū">
+		<phrase hz="修长" py="xiū,cháng" />
+	</char>
+	<char hz="脩" py="xiū" />
+	<char hz="羞" py="xiū" />
+	<char hz="馐" py="xiū" />
+	<char hz="朽" py="xiū" />
+	<char hz="宿" py="xiǔ" multi="sù,xiù">
+		<definition id="二">
+			<item text="夜：住了一~. 谈了半~." />
+		</definition>
+	</char>
+	<char hz="滫" py="xiǔ" />
+	<char hz="秀" py="xiù">
+		<phrase hz="秀才" py="xiù,cai" />
+		<phrase hz="秀气" py="xiù,qi" />
+	</char>
+	<char hz="绣" py="xiù" />
+	<char hz="琇" py="xiù" />
+	<char hz="锈" py="xiù">
+		<phrase hz="长锈" py="zhǎng,xiù" />
+	</char>
+	<char hz="岫" py="xiù" />
+	<char hz="袖" py="xiù" />
+	<char hz="臭" py="xiù" multi="chòu">
+		<phrase hz="无色无臭" py="wú,sè,wú,xiù" />
+		<definition id="二">
+			<item id="1" text="气味：空气是无色无~的." />
+			<item id="2" text="同“嗅”。" />
+		</definition>
+	</char>
+	<char hz="嗅" py="xiù">
+		<definition>
+			<item text="用鼻子辨别气味：~觉." />
+		</definition>
+	</char>
+	<char hz="溴" py="xiù" />
+	<char hz="宿" py="xiù" multi="sù,xiǔ">
+		<phrase hz="星宿" py="xīng,xiù" />
+		<phrase hz="二十八宿" py="èr,shí,bā,xiù" />
+		<definition id="三">
+			<item text="我国古代的天文学家把天上某些星的集合体叫作宿：星~. 二十八~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嘚" py="dē" info="Word显示为dēi">
+		<phrase hz="嘚啵" py="dē,bo" />
+	</char>
+	<char hz="得" py="dē" multi="de,děi" main="1">
+		<phrase hz="得空" py="dē,kòng" />
+		<phrase hz="得当" py="dē,dàng" />
+		<definition id="一">
+			<item id="1" text="得到（(连)获-）：大~人心. ~奖. ~胜. (引)遇到：~空(kòng). ~便." />
+			<item id="2" text="适合：~当(dàng). ~法. ~手（顺利）. ~劲." />
+			<item id="3" text="得意，满意：扬扬自~." />
+			<item id="4" text="完成：衣服做~了. 饭~了." />
+			<item id="5" text="用于某种语气。1.表示禁止：~了，别说了. 2.表示同意：~，就这么办. 3.表示无可奈何：~，今天又迟到了." />
+			<item id="6" text="可以，许可：不~随地吐痰. 正式代表均~参加表决." />
+		</definition>
+	</char>
+	<char hz="锝" py="dé" />
+	<char hz="德" py="dé" />
+	<char hz="地" py="de" multi="dì">
+		<definition id="二">
+			<item text="助词，用在状语后，主要修饰动词、形容词：胜利~完成任务. 天色渐渐~黑了." />
+		</definition>
+	</char>
+	<char hz="的" py="de" multi="dí,dì" main="1">
+		<definition id="三" text="助词。">
+			<item id="1" text="用在定语后。1.主要修饰名词：美丽~风光. 宏伟~建筑. 光荣而艰巨~任务. 2.表示所属的关系，旧时也写作“底”：我~书. 社会~性质." />
+			<item id="2" text="用在词或词组后，表示人或事物：吃~. 穿~. 红~. 卖菜~." />
+			<item id="3" text="用在句末，表示肯定的语气，常跟“是”相应：他是刚从北京来~." />
+		</definition>
+	</char>
+	<char hz="底" py="de" multi="dǐ">
+		<definition id="二">
+			<item text="助词，同“的(三)(1)2”。" />
+		</definition>
+	</char>
+	<char hz="得" py="de" multi="dē,děi">
+		<definition id="三" text="助词。">
+			<item id="1" text="在动词后表可能。1.再接别的词：冲~出去. 拿~起来. 2.不再接别的证书：要~. 要不~. 说不~." />
+			<item id="2" text="用在动词或形容词后连接表结果或程度的补语：跑~快. 急~满脸通红. 香~很." />
+		</definition>
+	</char>
+	<char hz="脦" py="de" info="(又)te" />
+</pinyin>

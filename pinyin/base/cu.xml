@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="粗" py="cū" />
+	<char hz="徂" py="cú" />
+	<char hz="殂" py="cú" />
+	<char hz="卒" py="cù" multi="zú">
+		<definition id="二">
+			<item text="同“猝”。" />
+		</definition>
+	</char>
+	<char hz="猝" py="cù">
+		<definition>
+			<item text="忽然：~生变化. ~不及防." />
+		</definition>
+	</char>
+	<char hz="促" py="cù" />
+	<char hz="酢" py="cù" multi="zuò" main="1">
+		<definition id="二">
+			<item text="同“醋”。 [酢浆草]多年生草本植物，匍匐茎，掌状复叶，茎、叶有酸味，开黄色小花，结蒴果，圆柱形。全草可入药。" />
+		</definition>
+	</char>
+	<char hz="醋" py="cù">
+		<definition>
+			<item text="一种调味用的液体，味酸，用酒或酒糟发酵制成，也可用米、麦、高粱等直接配制。" />
+		</definition>
+	</char>
+	<char hz="蔟" py="cù" />
+	<char hz="簇" py="cù" />
+	<char hz="踧" py="cù" />
+	<char hz="蹙" py="cù" />
+	<char hz="蹴" py="cù" />
+</pinyin>

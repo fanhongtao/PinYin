@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="龙" py="lóng" />
+	<char hz="茏" py="lóng" />
+	<char hz="咙" py="lóng" />
+	<char hz="泷" py="lóng" multi="shuāng" main="1">
+		<definition id="一">
+			<item text="急流的水。 [七里泷]地名，在浙江省桐庐。" />
+		</definition>
+	</char>
+	<char hz="珑" py="lóng" />
+	<char hz="栊" py="lóng" />
+	<char hz="昽" py="lóng" />
+	<char hz="胧" py="lóng" />
+	<char hz="砻" py="lóng" />
+	<char hz="眬" py="lóng" />
+	<char hz="聋" py="lóng" />
+	<char hz="笼" py="lóng" multi="lǒng" main="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）养鸟、虫的器具，用竹、木条或金属丝等编插而成：鸟~子. 鸡~. 蝈蝈~. (引)旧时囚禁犯人的东西：囚~. 牢~." />
+			<item id="2" text="用竹、木等材料制成的有盖的蒸东西的器具：蒸~. ~屉." />
+		</definition>
+	</char>
+	<char hz="隆" py="lóng" />
+	<char hz="癃" py="lóng" />
+	<char hz="窿" py="lóng" />
+	<char hz="儱" py="lǒng" trans="1">
+		<phrase hz="儱侗" py="lǒng,tǒng" />
+	</char>
+	<char hz="陇" py="lǒng" />
+	<char hz="垅" py="lǒng" />
+	<char hz="拢" py="lǒng" />
+	<char hz="垄" py="lǒng" />
+	<char hz="笼" py="lǒng" multi="lóng">
+		<phrase hz="笼罩" py="lǒng,zhào" />
+		<phrase hz="笼络" py="lǒng,luò" />
+		<phrase hz="箱笼" py="xiāng,lǒng" />
+		<phrase hz="笼统" py="lǒng,tǒng" />
+		<definition id="二">
+			<item id="1" text="遮盖，罩住：黑云~罩着天空. [笼络]用手段拉拢人：~~人心." />
+			<item id="2" text="比较大的箱子：箱~." />
+			<item text="[笼统](-tǒng)概括而不分明，不具体：话太~~了，不能表明确切的意思." />
+		</definition>
+	</char>
+	<char hz="弄" py="lòng" multi="nòng">
+		<phrase hz="弄堂" py="lòng,táng" />
+		<definition id="二">
+			<item text="〈方〉弄堂，小巷，小胡同。" />
+		</definition>
+	</char>
+	<char hz="㟖" py="lòng" />
+</pinyin>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="灾" py="zāi" />
+	<char hz="甾" py="zāi" />
+	<char hz="哉" py="zāi" />
+	<char hz="栽" py="zāi" />
+	<char hz="仔" py="zǎi" multi="zī,zǐ" main="1">
+		<definition id="二">
+			<item text="〈方〉同“崽”。" />
+		</definition>
+	</char>
+	<char hz="载" py="zǎi" multi="zài" info="Word主音">
+		<phrase hz="一年半载" py="yì,nián,bàn,zǎi" />
+		<phrase hz="记载" py="jì,zǎi" />
+		<phrase hz="登载" py="dēng,zǎi" />
+		<phrase hz="刊载" py="kān,zǎi" />
+		<phrase hz="转载" py="zhuǎn,zǎi" />
+		<definition id="二">
+			<item id="1" text="年：一年半~." />
+			<item id="2" text="记在书报上（(连)记-）：历史记~. 登~. 刊~. 转~." />
+		</definition>
+	</char>
+	<char hz="宰" py="zǎi" />
+	<char hz="崽" py="zǎi">
+		<definition>
+			<item id="1" text="〈方〉小孩子。" />
+			<item id="2" text="（-子、-儿）幼小的动物。" />
+		</definition>
+	</char>
+	<char hz="再" py="zài" />
+	<char hz="在" py="zài" />
+	<char hz="载" py="zài" multi="zǎi" main="1">
+		<definition id="一">
+			<item id="1" text="用交通工具装：装~. ~货. ~重汽车. 满~而归." />
+			<item id="2" text="充满：怨声~道. 风雨~途." />
+			<item id="3" text="载……载……，用在动词前，表示两个动作同时进行：~歌~舞." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

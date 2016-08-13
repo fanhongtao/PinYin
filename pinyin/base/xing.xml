@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="兴" py="xīng" multi="xìng" main="1">
+		<definition id="一">
+			<item id="1" text="举办，发动：~工. ~利除弊. ~修水利." />
+			<item id="2" text="起来：夙~夜寐（早起晚睡）. 闻风~起." />
+			<item id="3" text="旺盛（(连)-盛、-旺）。 [兴奋]精神振作或激动。" />
+			<item id="4" text="流行，盛行：时~." />
+			<item id="5" text="准许：不~胡闹." />
+			<item id="6" text="〈方〉或许：他~来，~不来." />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+	<char hz="星" py="xīng" />
+	<char hz="猩" py="xīng" />
+	<char hz="惺" py="xīng">
+		<phrase hz="惺忪" py="xīng,sōng" />
+		<definition>
+			<item text="醒悟。 [惺惺]1.清醒，聪明。 2.聪明的人：~~惜~~（喻指同类的人互相怜惜）. [假惺惺]虚情假意的样子。" />
+			<item text="[惺忪]（*惺松）1.苏醒。 2.刚睡醒尚未清醒。" />
+		</definition>
+	</char>
+	<char hz="腥" py="xīng">
+		<phrase hz="腥膻" py="xīng,shān" />
+	</char>
+	<char hz="骍" py="xīng" />
+	<char hz="箵" py="xīng" />
+	<char hz="刑" py="xíng" />
+	<char hz="邢" py="xíng" />
+	<char hz="形" py="xíng">
+		<phrase hz="相形见绌" py="xiāng,xíng,jiàn,chù" />
+	</char>
+	<char hz="型" py="xíng" />
+	<char hz="钘" py="xíng" />
+	<char hz="硎" py="xíng" />
+	<char hz="铏" py="xíng" />
+	<char hz="行" py="xíng" multi="háng">
+		<phrase hz="日行千里" py="rì,xíng,qiān,lǐ" />
+		<phrase hz="步行" py="bù,xíng" />
+		<phrase hz="行书" py="xíng,shū" />
+		<phrase hz="行装" py="xíng,zhuāng" />
+		<phrase hz="行箧" py="xíng,qiè" />
+		<phrase hz="行李" py="xíng,li" />
+		<phrase hz="行头" py="xíng,tou" />
+		<phrase hz="行销" py="xíng,xiāo" />
+		<phrase hz="通行" py="xíng,xíng" />
+		<phrase hz="发行" py="fā,xíng" />
+		<phrase hz="行灶" py="xíng,zào" />
+		<phrase hz="行商" py="xíng,shāng" />
+		<phrase hz="行营" py="xíng,yíng" />
+		<phrase hz="另行" py="lìng,xíng" />
+		<phrase hz="即行" py="jí,xíng" />
+		<phrase hz="行礼" py="xíng,lǐ" />
+		<phrase hz="举行" py="jǔ,xíng" />
+		<phrase hz="实行" py="shí,xíng" />
+		<phrase hz="言行" py="yán,xíng" />
+		<phrase hz="品行" py="pǐn,xíng" />
+		<phrase hz="德行" py="dé,xíng" />
+		<phrase hz="操行" py="cāo,xíng" />
+		<phrase hz="罪行" py="zuì,xíng" />
+		<phrase hz="不行" py="bù,xíng" />
+		<phrase hz="真行" py="zhēn,xíng" />
+		<phrase hz="行将" py="xíng,jiāng" />
+		<definition id="一">
+			<item id="1" text="走：日~千里. 步~. [行书]汉字的一种字体，形体和笔势介于草书和楷书之间。(引)出外时用的：~装. ~箧(qiè). [行李](-li)出外时所带的包裹、箱子等。 [行头](-tou)演戏时穿戴的衣物。 [一行]一组（指同行的人）。" />
+			<item id="2" text="流通，传递：~销. 通~全国. 发~报刊、书籍." />
+			<item id="3" text="流动性的，临时性的：~灶. ~商. ~营." />
+			<item id="4" text="进行：另~通知. 即~查处." />
+			<item id="5" text="实做，办：~礼. 举~. 实~." />
+			<item id="6" text="（旧读xìng）足以表明品质的举止行为：言~. 品~. 德~. 操~. 罪~." />
+			<item id="7" text="可以：不学习不~." />
+			<item id="8" text="能干：你真~." />
+			<item id="9" text="将要：~将毕业." />
+			<item id="10" text="乐府和古诗的一种体裁。" />
+			<item id="11" text="姓。" />
+		</definition>
+	</char>
+	<char hz="饧" py="xíng" />
+	<char hz="陉" py="xíng" />
+	<char hz="荥" py="xíng" multi="yíng" main="1">
+		<definition id="一">
+			<item text="[荥阳]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="省" py="xǐng" multi="shěng">
+		<phrase hz="反省" py="fǎn,xǐng" />
+		<phrase hz="不省人事" py="bù,xǐng,rén,shì" />
+		<phrase hz="省悟" py="xǐng,wù" />
+		<phrase hz="猛省前非" py="měng,xǐng,qián,fēi" />
+		<phrase hz="省亲" py="xǐng,qīn" />
+		<definition id="二">
+			<item id="1" text="检查自己：反~." />
+			<item id="2" text="知觉：不~人事." />
+			<item id="3" text="省悟，觉悟：猛~前非." />
+			<item id="4" text="看望，问候（父母、尊长）：~亲." />
+		</definition>
+	</char>
+	<char hz="醒" py="xǐng" />
+	<char hz="擤" py="xǐng" />
+	<char hz="兴" py="xìng" multi="xīng" info="Word主音">
+		<phrase hz="游兴" py="yóu,xìng" />
+		<phrase hz="助兴" py="zhù,xìng" />
+		<phrase hz="兴高采烈" py="xìng,gāo,cǎi,liè" />
+		<phrase hz="高兴" py="gāo,xìng" />
+		<definition id="二">
+			<item text="兴趣，对事物喜爱的情绪：游~. 助~. ~高采烈. [高兴]愉快，喜欢。" />
+		</definition>
+	</char>
+	<char hz="杏" py="xìng" />
+	<char hz="幸" py="xìng">
+		<phrase hz="幸免于难" py="xìng,miǎn,yú,nàn" />
+	</char>
+	<char hz="倖" py="xìng" info="词组中使用到，所以补充" />
+	<char hz="悻" py="xìng" />
+	<char hz="婞" py="xìng" />
+	<char hz="性" py="xìng">
+		<phrase hz="弹性" py="tán,xìng" />
+		<phrase hz="性子" py="xìng,zi" />
+	</char>
+	<char hz="姓" py="xìng" />
+	<char hz="荇" py="xìng" />
+</pinyin>

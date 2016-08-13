@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="怀" py="huái">
+		<phrase hz="正中下怀" py="zhèng,zhòng,xià,huái" />
+	</char>
+	<char hz="徊" py="huái" />
+	<char hz="淮" py="huái" />
+	<char hz="槐" py="huái" />
+	<char hz="踝" py="huái" />
+	<char hz="耲" py="huái">
+		<phrase hz="耲耙" py="huái,bà" />
+	</char>
+	<char hz="坏" py="huài" />
+	<char hz="划" py="huai" multi="huá,huà">
+		<phrase hz="㓦划" py="bāi,huai" />
+		<definition id="三">
+			<item text="见“㓦”字条“㓦划”(bāi-)。" />
+		</definition>
+	</char>
+</pinyin>

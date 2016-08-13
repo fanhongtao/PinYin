@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="朱" py="zhū" />
+	<char hz="邾" py="zhū" />
+	<char hz="侏" py="zhū" />
+	<char hz="诛" py="zhū" />
+	<char hz="茱" py="zhū">
+		<phrase hz="茱萸" py="zhū,yú" />
+	</char>
+	<char hz="洙" py="zhū" />
+	<char hz="珠" py="zhū" />
+	<char hz="株" py="zhū" />
+	<char hz="铢" py="zhū">
+		<phrase hz="铢积寸累" py="zhū,jī,cùn,lěi" />
+	</char>
+	<char hz="蛛" py="zhū" />
+	<char hz="诸" py="zhū" />
+	<char hz="猪" py="zhū" />
+	<char hz="槠" py="zhū" />
+	<char hz="潴" py="zhū" />
+	<char hz="橥" py="zhū" />
+	<char hz="术" py="zhú" multi="shù">
+		<phrase hz="白术" py="bái,zhú" />
+		<phrase hz="苍术" py="cāng,zhú" />
+		<definition id="二">
+			<item text="植物名。 1.白术，多年生草本植物，秋天开紫花。要状茎有香气，可入药。 2.苍术，多年生草本植物，秋天开白花，根状茎有香气，可入药。" />
+		</definition>
+	</char>
+	<char hz="竹" py="zhú" />
+	<char hz="竺" py="zhú" />
+	<char hz="逐" py="zhú" />
+	<char hz="瘃" py="zhú" />
+	<char hz="烛" py="zhú" />
+	<char hz="蠋" py="zhú" />
+	<char hz="躅" py="zhú" />
+	<char hz="舳" py="zhú">
+		<phrase hz="舳舻" py="zhú,lú" />
+	</char>
+	<char hz="主" py="zhǔ" />
+	<char hz="拄" py="zhǔ" />
+	<char hz="渚" py="zhǔ" />
+	<char hz="煮" py="zhǔ" />
+	<char hz="褚" py="zhǔ" multi="chǔ">
+		<definition id="一">
+			<item id="1" text="在衣服里铺丝绵。" />
+			<item id="2" text="囊，口袋。" />
+		</definition>
+	</char>
+	<char hz="属" py="zhǔ" multi="shǔ">
+		<phrase hz="属文" py="zhǔ,wén" />
+		<phrase hz="前后相属" py="qián,hòu,xiāng,zhǔ" />
+		<phrase hz="属意" py="zhǔ,yì" />
+		<phrase hz="属望" py="zhǔ,wàng" />
+		<definition id="二">
+			<item id="1" text="连缀：~文. 前后相~." />
+			<item id="2" text="（意念）集中在一点：~意. ~望." />
+			<item id="3" text="古同“嘱”。" />
+		</definition>
+	</char>
+	<char hz="嘱" py="zhǔ">
+		<definition>
+			<item text="托付：以事相~. 遗~. [嘱咐]告诫：母亲~~他好好学习." />
+		</definition>
+	</char>
+	<char hz="瞩" py="zhǔ" />
+	<char hz="麈" py="zhǔ" />
+	<char hz="伫" py="zhù" />
+	<char hz="苎" py="zhù" />
+	<char hz="纻" py="zhù" />
+	<char hz="贮" py="zhù" />
+	<char hz="助" py="zhù" />
+	<char hz="住" py="zhù" />
+	<char hz="注" py="zhù" />
+	<char hz="驻" py="zhù" />
+	<char hz="柱" py="zhù" />
+	<char hz="炷" py="zhù" />
+	<char hz="砫" py="zhù" />
+	<char hz="疰" py="zhù" />
+	<char hz="蛀" py="zhù" />
+	<char hz="杼" py="zhù" />
+	<char hz="祝" py="zhù" />
+	<char hz="著" py="zhù" multi="zhuó" main="1">
+		<definition id="一">
+			<item id="1" text="显明，显出（(连)显-、昭-）：卓~. ~名. 颇~成效." />
+			<item id="2" text="写文章，写书：~书立说." />
+			<item id="3" text="著作，写出来的文章或书：名~. 大~. 译~." />
+			<item text="[土著]1.世代居住在一定的地方。 2.世居本地的人。" />
+		</definition>
+	</char>
+	<char hz="翥" py="zhù" />
+	<char hz="箸" py="zhù" />
+	<char hz="铸" py="zhù" />
+	<char hz="筑" py="zhù" />
+</pinyin>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="天" py="tiān" />
+	<char hz="添" py="tiān" />
+	<char hz="黇" py="tiān" />
+	<char hz="田" py="tián" />
+	<char hz="佃" py="tián" multi="diàn">
+		<phrase hz="佃作" py="tián,zuò" />
+		<definition id="二">
+			<item text="佃作，耕种田地。" />
+		</definition>
+	</char>
+	<char hz="畋" py="tián" />
+	<char hz="畑" py="tián" />
+	<char hz="钿" py="tián" multi="diàn">
+		<phrase hz="铜钿" py="tóng,tián" />
+		<phrase hz="洋钿" py="yáng,tián" />
+		<definition id="二">
+			<item text="〈方〉钱，硬币：铜~. 洋~." />
+		</definition>
+	</char>
+	<char hz="恬" py="tián" />
+	<char hz="甜" py="tián" />
+	<char hz="湉" py="tián" />
+	<char hz="菾" py="tián" />
+	<char hz="填" py="tián" />
+	<char hz="阗" py="tián" />
+	<char hz="忝" py="tiǎn" />
+	<char hz="舔" py="tiǎn" />
+	<char hz="殄" py="tiǎn" />
+	<char hz="㥏" py="tiǎn" />
+	<char hz="觍" py="tiǎn">
+		<definition>
+			<item id="1" text="形容惭愧：~颜." />
+			<item id="2" text="厚着脸皮：~着脸（不知羞）." />
+			<item id="3" text="见“䩄”字条“䩄觍”(miǎn-)。" />
+		</definition>
+	</char>
+	<char hz="腆" py="tiǎn" />
+	<char hz="䩄" py="tiǎn" multi="miǎn" main="1">
+		<definition id="二">
+			<item id="1" text="同“觍”。" />
+			<item id="2" text="〈古〉形容人脸的样子：~然人面." />
+		</definition>
+	</char>
+	<char hz="掭" py="tiàn" />
+</pinyin>

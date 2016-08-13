@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="八" py="bā" />
+	<char hz="扒" py="bā" multi="pá" main="1">
+		<phrase hz="扒拉" py="bā,la" />
+		<definition id="一">
+			<item id="1" text="抓住，把着：~着栏杆. ~着树枝." />
+			<item id="2" text="刨开，挖：城墙~了个豁口. [扒拉]（-la）拨动：~~算盘. ~~开众人." />
+			<item id="3" text="剥，脱：~皮. ~下衣裳." />
+		</definition>
+	</char>
+	<char hz="叭" py="bā">
+		<definition>
+			<item text="拟声词：~的一声，弦断了." />
+		</definition>
+	</char>
+	<char hz="朳" py="bā" />
+	<char hz="巴" py="bā">
+		<phrase hz="巴结" py="bā,jie" />
+		<phrase hz="尾巴" py="wěi,ba" />
+		<phrase hz="干巴" py="gān,ba" />
+		<phrase hz="皱巴" py="zhòu,ba" />
+	</char>
+	<char hz="芭" py="bā" />
+	<char hz="吧" py="bā" multi="ba">
+		<phrase hz="吧嗒" py="bā,dā" />
+		<phrase hz="吧唧" py="bā,jī" />
+		<phrase hz="酒吧" py="jiǔ,bā" />
+		<phrase hz="网吧" py="wǎng,bā" />
+		<phrase hz="氧吧" py="yǎng,bā" />
+		<phrase hz="吧台" py="bā,tái" />
+		<definition id="一">
+			<item id="1" text="拟声词，同“叭”：~嗒（dā）. ~唧（jī）. ~的一声." />
+			<item id="2" text="（外）具备特定功能或设施的休闲场所：酒~. 网~. 氧~. ~台." />
+		</definition>
+	</char>
+	<char hz="岜" py="bā" />
+	<char hz="疤" py="bā">
+		<phrase hz="疤瘌" py="bā,la" />
+	</char>
+	<char hz="笆" py="bā" />
+	<char hz="粑" py="bā" />
+	<char hz="鲃" py="bā" />
+	<char hz="捌" py="bā" />
+	<char hz="拔" py="bá" />
+	<char hz="茇" py="bá" />
+	<char hz="胈" py="bá" />
+	<char hz="菝" py="bá">
+		<phrase hz="菝葜" py="bá,qiā" />
+	</char>
+	<char hz="跋" py="bá">
+		<phrase hz="跋扈" py="bá,hù" />
+	</char>
+	<char hz="魃" py="bá" />
+	<char hz="鼥" py="bá" />
+	<char hz="把" py="bǎ" multi="bà" main="1">
+		<phrase hz="把势" py="bǎ,shi" />
+		<phrase hz="把式" py="bǎ,shi" />
+		<phrase hz="把头" py="bǎ,tóu" />
+		<phrase hz="把戏" py="bǎ,xì" />
+		<definition id="一">
+			<item id="1" text="拿，抓住：~盏. 两手~住门." />
+			<item id="2" text="控制，掌握：~舵. ~犁. [把持]专权，一手独揽，不让他人参与：~~财权. [把握]1.掌握，控制，有效地处理：~~时机. 2.事情成功的可靠性：这次试验，他很有~~." />
+			<item id="3" text="把守，看守：~门. ~风（守候，防有人来）." />
+			<item id="4" text="手推车、自行车等的柄：车~." />
+			<item id="5" text="（-儿）可以用手拿的小捆：草~儿." />
+			<item id="6" text="介词，和“将”相当：~一生献给党. ~更多的工业品供应给农民." />
+			<item id="7" text="量词。1.用于有柄的：一~刀. 一~扇子. 2.用于可以一手抓的：一~粮食一~汗. 3.用于某些抽象的事物：一~年纪. 努~力." />
+			<item id="8" text="放在量词或“百、千、万”等数词的后面，表示约略估计：丈~高的树，个~月以前. 有百~人." />
+			<item id="9" text="指拜把子（结为异姓兄弟）的关系：~兄." />
+		</definition>
+	</char>
+	<char hz="钯" py="bǎ" multi="pá" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Pd，银白色，富延展性，能吸收多量的氢，可以用来提取纯粹的氢气。又可制催化剂。它的合金可制电器仪表等。" />
+		</definition>
+	</char>
+	<char hz="靶" py="bǎ" />
+	<char hz="坝" py="bà" />
+	<char hz="把" py="bà" multi="bǎ">
+		<phrase hz="把儿" py="bà,er" />
+		<definition id="二">
+			<item text="（~儿）物体上便于手拿的部分，柄：刀~儿，茶壶~儿. [话把儿]被人作为谈笑资料的言论或行为。" />
+		</definition>
+	</char>
+	<char hz="爸" py="bà" />
+	<char hz="耙" py="bà" multi="pá" main="1">
+		<definition id="一">
+			<item id="1" text="把土块弄碎的农具。" />
+			<item id="2" text="用耙弄碎土块：地已经~过了." />
+		</definition>
+	</char>
+	<char hz="miss: 齿巴" py="bà" info="special" />
+	<char hz="罢" py="bà" multi="ba" main="1">
+		<definition id="一">
+			<item id="1" text="停，歇（(连)-休）：~工. ~手. 欲~不能." />
+			<item id="2" text="免去（官职）（(连)-免）：~官. ~职." />
+			<item id="3" text="完了，毕：吃~饭." />
+		</definition>
+	</char>
+	<char hz="" py="bà" />
+	<char hz="鲅" py="bà">
+		<definition>
+			<item text="鲅鱼，鱼名。背部黑蓝色，腹部两侧银灰色，生活在海洋中。" />
+		</definition>
+	</char>
+	<char hz="鲌" py="bà" multi="bó">
+		<definition id="二">
+			<item text="同“鲅”" />
+		</definition>
+	</char>
+	<char hz="霸" py="bà" />
+	<char hz="灞" py="bà" />
+	<char hz="吧" py="ba" multi="bā" main="1">
+		<definition id="二">
+			<item text="助词，用在句末，也作“罢”。1.表示可以，允许：好~，就这么办~. 2.表示推测，估量：今天不会下雨~. 3.表示命令，请求：快出去~！还是你去~！ 4.用于停顿处：说~，不好意思；不说~，问题又不能解决." />
+		</definition>
+	</char>
+	<char hz="罢" py="ba" multi="bà">
+		<definition id="二">
+			<item text="同“吧(二)”" />
+		</definition>
+	</char>
+</pinyin>

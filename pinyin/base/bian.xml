@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="边" py="biān" />
+	<char hz="笾" py="biān" />
+	<char hz="砭" py="biān" />
+	<char hz="萹" py="biān">
+		<phrase hz="萹蓄" py="biān,xù" />
+	</char>
+	<char hz="编" py="biān" />
+	<char hz="煸" py="biān" />
+	<char hz="蝙" py="biān">
+		<phrase hz="蝙蝠" py="biān,fú" />
+	</char>
+	<char hz="鳊" py="biān" />
+	<char hz="鞭" py="biān" />
+	<char hz="贬" py="biǎn" />
+	<char hz="窆" py="biǎn" />
+	<char hz="扁" py="biǎn" multi="piān" main="1">
+		<definition id="一">
+			<item text="物体平而薄：鸭子嘴~." />
+		</definition>
+	</char>
+	<char hz="匾" py="biǎn" />
+	<char hz="碥" py="biǎn" />
+	<char hz="褊" py="biǎn" />
+	<char hz="藊" py="biǎn" />
+	<char hz="卞" py="biàn" />
+	<char hz="抃" py="biàn" />
+	<char hz="苄" py="biàn" />
+	<char hz="汴" py="biàn" />
+	<char hz="忭" py="biàn" />
+	<char hz="弁" py="biàn" />
+	<char hz="昪" py="biàn" />
+	<char hz="变" py="biàn" />
+	<char hz="便" py="biàn" multi="pián" main="1">
+		<phrase hz="便宜行事" py="biàn,yí,xíng,shì" />
+		<definition id="一">
+			<item id="1" text="方便，顺利，没有困难或阻碍（(连)-利）：行人称~. ~于携带." />
+			<item id="2" text="简单的，非正式的：家常~饭. ~衣. ~条. [便宜]根据实际需要而灵活、适当地：~~行事. （另 piányi，见“便”pián） [随便]不勉强，不拘束。" />
+			<item id="3" text="便利的时候：~中请来信. 得~就送去." />
+			<item id="4" text="屎尿或排泄屎尿：粪~. 小~." />
+			<item id="5" text="副词，就：没有一个人民的军队，~没有人民的一切." />
+		</definition>
+	</char>
+	<char hz="缏" py="biàn" />
+	<char hz="遍" py="biàn" />
+	<char hz="辨" py="biàn" />
+	<char hz="辩" py="biàn" />
+	<char hz="辫" py="biàn" />
+</pinyin>

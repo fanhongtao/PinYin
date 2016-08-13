@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="㓦" py="bāi">
+		<phrase hz="㓦划" py="bāi,huai" />
+		<definition>
+			<item text="[㓦划](-huai)〈方〉1.处置，安排：这件事让他~~吧. 2.修理，整治：这孩子把闹钟~~坏了."/>
+		</definition>
+	</char>
+	<char hz="掰" py="bāi">
+		<definition>
+			<item text="用手把东西分开或折断：~月饼. ~老玉米. 把这个蛤蜊~开." />
+		</definition>
+	</char>
+	<char hz="擘" py="bāi" multi="bò">
+		<definition id="二">
+			<item text="同“掰”" />
+		</definition>
+	</char>
+	<char hz="白" py="bái">
+		<phrase hz="白卷" py="bái,juàn" />
+	</char>
+	<char hz="百" py="bǎi">
+		<phrase hz="百分率" py="bǎi,fēn,lǜ" />
+	</char>
+	<char hz="佰" py="bǎi" />
+	<char hz="伯" py="bǎi" multi="bó">
+		<phrase hz="大伯子" py="dà,bǎi,zi" />
+		<definition id="二">
+			<item text="[大伯子]（--zi）丈夫的哥哥。" />
+		</definition>
+	</char>
+	<char hz="柏" py="bǎi" multi="bó,bò" main="1">
+		<definition id="一">
+			<item id="1" text="常绿乔木，有侧柏、圆柏、罗汉柏等多种。木质坚硬，纹理致密，可供建筑及制造器物之用。" />
+			<item id="2" text="姓" />
+		</definition>
+	</char>
+	<char hz="捭" py="bǎi">
+		<phrase hz="捭阖" py="bǎi,hé" />
+	</char>
+	<char hz="摆" py="bǎi" />
+	<char hz="呗" py="bài" multi="bei">
+		<phrase hz="梵呗" py="fàn,bài" />
+		<definition id="二">
+			<item text="[梵呗]（fàn-）佛教徒念经的声音。" />
+		</definition>
+	</char>
+	<char hz="败" py="bài">
+		<phrase hz="败兴" py="bài,xìng" />
+	</char>
+	<char hz="拜" py="bài">
+		<phrase hz="拜将" py="bài,jiàng" />
+	</char>
+	<char hz="稗" py="bài" />
+	<char hz="韛" py="bài" trans="1" />
+	<char hz="㗑" py="bai" />
+</pinyin>

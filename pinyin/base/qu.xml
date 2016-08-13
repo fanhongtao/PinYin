@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="区" py="qū" multi="ōu" main="1">
+		<definition id="一">
+			<item id="1" text="分别（(连)-别、-分）。" />
+			<item id="2" text="地域：工业~. 开发~. 自然保护~." />
+			<item id="3" text="行政区划单位，有跟省平行的自治区和比市低一级的市辖区等。" />
+			<item text="[区区]小，细微。" />
+		</definition>
+	</char>
+	<char hz="岖" py="qū" />
+	<char hz="驱" py="qū" />
+	<char hz="躯" py="qū" />
+	<char hz="曲" py="qū" multi="qǔ" main="1">
+		<definition id="一">
+			<item id="1" text="弯，跟“直”相对（(连)弯-）：~线. ~径通幽. 山间小路~~弯弯. (喻)不公正，不合理：~解. 是非~直." />
+			<item id="2" text="弯曲的地方：河~." />
+			<item id="3" text="偏僻的地方：乡~." />
+			<item id="4" text="酿酒或制酱时引起发酵的块状物，用某种霉菌和大麦、大豆、麸皮等制成：酒~. 中~发酵饲料." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="蛐" py="qū">
+		<phrase hz="蛐蛐儿" py="qū,qu,r" />
+		<phrase hz="蛐蟮" py="qū,shan" />
+	</char>
+	<char hz="诎" py="qū" />
+	<char hz="屈" py="qū">
+		<phrase hz="屈戌" py="qū,xū" />
+		<phrase hz="屈戌儿" py="qū,xu,r" />
+	</char>
+	<char hz="胠" py="qū" />
+	<char hz="祛" py="qū" />
+	<char hz="袪" py="qū" />
+	<char hz="蛆" py="qū" />
+	<char hz="焌" py="qū" multi="jùn" main="1">
+		<definition id="一">
+			<item id="1" text="把燃烧着的东西弄灭。" />
+			<item id="2" text="用不带火苗的火烧烫。" />
+			<item id="3" text="烹饪法，在热锅里加油，油热后先放作料，然后放菜：~锅儿." />
+		</definition>
+	</char>
+	<char hz="黢" py="qū" />
+	<char hz="趋" py="qū" />
+	<char hz="麹" py="qū" />
+	<char hz="劬" py="qú" />
+	<char hz="朐" py="qú" />
+	<char hz="鸲" py="qú">
+		<phrase hz="鸲鹆" py="qǔ,yù" />
+	</char>
+	<char hz="鼩" py="qú" />
+	<char hz="渠" py="qú" />
+	<char hz="蕖" py="qú">
+		<phrase hz="芙蕖" py="fú,qú" />
+	</char>
+	<char hz="磲" py="qú" />
+	<char hz="璩" py="qú" />
+	<char hz="蘧" py="qú" />
+	<char hz="籧" py="qú">
+		<phrase hz="籧篨" py="qú,chú" />
+	</char>
+	<char hz="瞿" py="qú" />
+	<char hz="氍" py="qú">
+		<phrase hz="氍毹" py="qú,shū" />
+	</char>
+	<char hz="臞" py="qú" />
+	<char hz="癯" py="qú" />
+	<char hz="衢" py="qú" />
+	<char hz="蠷" py="qú">
+		<phrase hz="蠷螋" py="qú,sōu" />
+	</char>
+	<char hz="曲" py="qǔ" multi="qū" info="Word主音">
+		<phrase hz="曲子" py="qǔ,zi" />
+		<phrase hz="曲儿" py="qǔ,er" />
+		<phrase hz="歌曲" py="gē,qǔ" />
+		<phrase hz="戏曲" py="xì,qǔ" />
+		<phrase hz="小曲儿" py="xiǎo,qǔ,er" />
+		<phrase hz="唱曲儿" py="chàng,qǔ,er" />
+		<phrase hz="乐调" py="yuè,diào" />
+		<definition id="二" text="（-子、-儿）">
+			<item id="1" text="歌，能唱的文辞（(连)歌-）：戏~. 小~儿. 唱~儿." />
+			<item id="2" text="歌的乐调(yuèdiào)：这支歌是他作的曲." />
+			<item id="3" text="元代盛行的一种韵文体裁，可以入乐。" />
+		</definition>
+	</char>
+	<char hz="苣" py="qǔ" multi="jù">
+		<phrase hz="苣荬菜" py="qǔ,mǎi,cài" />
+		<definition id="二">
+			<item text="[苣荬菜](-mǎi-)多年生草本植物，花黄色。茎叶嫩时可以吃。" />
+		</definition>
+	</char>
+	<char hz="取" py="qǔ" />
+	<char hz="娶" py="qǔ" />
+	<char hz="龋" py="qǔ" />
+	<char hz="去" py="qù" />
+	<char hz="阒" py="qù" />
+	<char hz="趣" py="qù" />
+	<char hz="觑" py="qù" />
+</pinyin>

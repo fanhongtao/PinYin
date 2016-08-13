@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="俩" py="liǎ" multi="liǎng" main="1">
+		<definition id="一">
+			<item text="两个（本字后面不能再用“个”字或其他量词）：夫妇~. 买~馒头." />
+		</definition>
+	</char>
+</pinyin>

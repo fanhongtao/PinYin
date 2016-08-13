@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="衰" py="shuāi" multi="cuī" main="1">
+		<definition id="一">
+			<item text="事物发展转向微弱（(连)-微）：~败. ~老. 神经~弱. [衰变]化学上指放射性元素放射出粒子后变成另一种元素。" />
+		</definition>
+	</char>
+	<char hz="摔" py="shuāi" />
+	<char hz="甩" py="shuǎi" />
+	<char hz="帅" py="shuài">
+		<definition>
+			<item id="1" text="军队中最高级的指挥官：元~. 统~." />
+			<item id="2" text="英俊，潇洒，漂亮：这个小伙儿很~. 他的动作~极了. 字写得~." />
+		</definition>
+	</char>
+	<char hz="率" py="shuài" multi="lǜ" main="1">
+		<definition id="一">
+			<item id="1" text="带领，统领（(连)-领）：~队. ~师." />
+			<item id="2" text="轻易地，不细想，不慎重（(连)轻-、草-）：不要轻~地处理问题." />
+			<item id="3" text="爽直坦白（(连)直-）。" />
+			<item id="4" text="大率，大概，大略：~皆如此." />
+			<item id="5" text="遵循：~由旧章." />
+			<item id="6" text="模范：一方表~." />
+			<item id="7" text="同“帅(2)”。" />
+		</definition>
+	</char>
+	<char hz="蟀" py="shuài" />
+</pinyin>

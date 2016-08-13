@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="来" py="lái">
+		<phrase hz="来着" py="lái,zhe" />
+	</char>
+	<char hz="莱" py="lái">
+		<phrase hz="莱菔" py="lái,fú" />
+	</char>
+	<char hz="崃" py="lái" />
+	<char hz="徕" py="lái" />
+	<char hz="涞" py="lái" />
+	<char hz="梾" py="lái" />
+	<char hz="铼" py="lái" />
+	<char hz="赉" py="lài" />
+	<char hz="睐" py="lài" />
+	<char hz="赖" py="lài" />
+	<char hz="濑" py="lài" />
+	<char hz="癞" py="lài" />
+	<char hz="籁" py="lài" />
+</pinyin>

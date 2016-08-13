@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="逴" py="chuō" />
+	<char hz="踔" py="chuō" />
+	<char hz="戳" py="chuō" />
+	<char hz="娖" py="chuò" />
+	<char hz="龊" py="chuò" />
+	<char hz="啜" py="chuò" multi="chuài" main="1">
+		<definition id="一">
+			<item id="1" text="饮，吃：~茗（喝茶）. ~粥." />
+			<item id="2" text="哭泣的时候抽噎的样子：~泣." />
+		</definition>
+	</char>
+	<char hz="惙" py="chuò" />
+	<char hz="辍" py="chuò" />
+	<char hz="绰" py="chuò" multi="chāo" main="1">
+		<phrase hz="宽绰" py="kuān,chuo" />
+		<definition id="一">
+			<item text="宽裕：~~有余. 这间屋子很宽~(chuo)." />
+			<item text="[绰号]外号。" />
+		</definition>
+	</char>
+	<char hz="歠" py="chuò" />
+</pinyin>

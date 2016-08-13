@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="灯" py="dēng" />
+	<char hz="登" py="dēng">
+		<definition>
+			<item id="1" text="上，升：~山. ~高. ~峰造极（喻达到顶峰）." />
+			<item id="2" text="踩，践踏，也作“蹬”：~在凳子上. (引)脚向下用力：~三轮车. ~水车." />
+			<item id="3" text="刊载，记载：~报. 把这几项~在簿子上. [登记]为了特定的目的，向主管机关按表填写事项：~~买票." />
+			<item id="4" text="（谷物）成熟：五谷丰~." />
+			<item text="[登时]即时，立刻。" />
+		</definition>
+	</char>
+	<char hz="噔" py="dēng" />
+	<char hz="簦" py="dēng" />
+	<char hz="蹬" py="dēng" multi="dèng" main="1">
+		<definition id="一">
+			<item text="同“登(2)”。" />
+		</definition>
+	</char>
+	<char hz="等" py="děng" />
+	<char hz="戥" py="děng" />
+	<char hz="邓" py="dèng" />
+	<char hz="僜" py="dèng" />
+	<char hz="凳" py="dèng" />
+	<char hz="嶝" py="dèng" />
+	<char hz="澄" py="dèng" multi="chéng">
+		<definition id="二">
+			<item text="让液体里的杂质沉下去：水~清了再喝." />
+		</definition>
+	</char>
+	<char hz="磴" py="dèng" />
+	<char hz="瞪" py="dèng" />
+	<char hz="镫" py="dèng" />
+	<char hz="蹬" py="dèng" multi="dēng">
+		<phrase hz="蹭蹬" py="cèng,dèng" />
+		<definition id="二">
+			<item text="见“蹭”字条“蹭蹬”(cèng-)。" />
+		</definition>
+	</char>
+</pinyin>
