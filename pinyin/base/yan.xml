@@ -23,7 +23,7 @@
 	<char hz="阏" py="yān">
 		<phrase hz="阏氏" py="yān,zhī" />
 		<definition>
-			<item text="[阏氏](-zhī)汉代匈奴称君主的正妻。"/>
+			<item text="[阏氏](-zhī)汉代匈奴称君主的正妻。" />
 		</definition>
 	</char>
 	<char hz="崦" py="yān">
@@ -32,6 +32,11 @@
 	<char hz="阉" py="yān" />
 	<char hz="淹" py="yān" />
 	<char hz="腌" py="yān" multi="ā" main="1">
+		<phrase hz="腌菜" py="yān,cài" />
+		<phrase hz="腌肉" py="yān,ròu" />
+		<phrase hz="腌咸菜" py="yān,xián,cài" />
+		<phrase hz="腌制" py="yān,zhì" />
+		<phrase hz="腌渍" py="yān,zì" />
 		<definition id="一">
 			<item text="用盐等浸渍食品：~肉. ~咸菜." />
 		</definition>

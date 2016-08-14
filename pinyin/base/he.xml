@@ -5,8 +5,8 @@
 	</char>
 	<char hz="呵" py="hē" multi="ā,á,ǎ,à,a" main="1">
 		<phrase hz="呵斥" py="hē,chì" />
-		<phrase hz="呵禁" py="hē,jìn" />
-		<phrase hz="呵冻" py="hē,dòng" />
+		<phrase hz="呵禁" py="hē,jìn" info="大声喝斥制止" />
+		<phrase hz="呵冻" py="hē,dòng" info="哈气使暧" />
 		<phrase hz="呵气" py="hē,qì" />
 		<phrase hz="呵呵" py="hē,hē" />
 		<phrase hz="呵护" py="hē,hù" />

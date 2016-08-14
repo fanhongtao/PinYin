@@ -1,14 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="阿" py="ē" multi="ā">
+		<phrase hz="东阿" py="dōng,ē" info="山东省聊城市东阿县" />
+		<phrase hz="阿堵" py="ē,dǔ" />
 		<phrase hz="阿附" py="ē,fù" />
-		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
-		<phrase hz="阿谀" py="ē,yú" />
-		<phrase hz="山阿" py="shān,ē" />
 		<phrase hz="阿胶" py="ē,jiāo" />
 		<phrase hz="阿房宫" py="ē,páng,gōng" />
+		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
+		<phrase hz="阿其那" py="ē,qí,nà" info="满语“akina”的音译。旧说是狗的意思。" />
+		<phrase hz="阿谀" py="ē,yú" />
 		<phrase hz="刚正不阿" py="gāng,zhèng,bù,ē" />
-		<phrase hz="阿堵" py="ē,dǔ" />
+		<phrase hz="山阿" py="shān,ē" />
 		<definition id="二">
 			<item id="1" text="迎合，偏袒：~附. ~其所好. ~谀逢迎." />
 			<item id="2" text="凹曲处：山~" />

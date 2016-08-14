@@ -69,7 +69,10 @@
 			<item id="2" text="房子后面突出的部分：前廊后~." />
 		</definition>
 	</char>
-	<char hz="嗄" py="shà" multi="á" main="1">
+	<char hz="嗄" py="shà" multi="á">
+		<phrase hz="沙嗄" py="shā,shà" />
+		<phrase hz="嗄嘶" py="shà,sī" />
+		<phrase hz="嗄哑" py="shà,yǎ" />
 		<definition id="二">
 			<item text="嗓音嘶哑。" />
 		</definition>
