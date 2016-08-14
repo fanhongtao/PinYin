@@ -9,16 +9,22 @@
 	<char hz="哀" py="āi" />
 	<char hz="锿" py="āi" />
 	<char hz="埃" py="āi" />
-	<char hz="挨" py="āi" multi="ái">
-		<phrase hz="挨着" py="āi,zhe" />
-		<phrase hz="挨家" py="āi,jiā" />
+	<char hz="挨" py="āi" multi="ái" main="1">
+		<phrase hz="挨擦" py="āi,cā" />
+		<phrase hz="挨次" py="āi,cì" />
+		<phrase hz="挨个" py="āi,gè" />
 		<phrase hz="挨户" py="āi,hù" />
+		<phrase hz="挨家" py="āi,jiā" />
+		<phrase hz="挨肩儿" py="āi,jiānr," />
+		<phrase hz="挨近" py="āi,jìn" />
+		<phrase hz="挨着" py="āi,zhe" />
 		<definition id="一">
 			<item id="1" text="靠近：居民区~着一条河." />
 			<item id="2" text="顺着（一定次序）：~家查问. ~着号叫." />
 		</definition>
 	</char>
 	<char hz="唉" py="āi" multi="ài" main="1">
+		<phrase hz="唉声叹气" py="āi,shēng,tàn,qì" />
 		<definition id="一">
 			<item text="叹词。1.表示答应：~，听见了. 2.表示叹息：~，一天的工夫又白费了. 3.表示招呼：~，你来一下." />
 		</definition>
@@ -31,11 +37,23 @@
 			<item text="同“哎”" />
 		</definition>
 	</char>
-	<char hz="挨" py="ái" multi="āi" main="1">
-		<phrase hz="挨饿" py="ái,è" />
+	<char hz="挨" py="ái" multi="āi">
+		<phrase hz="挨板子" py="ái,bǎn,zi" />
+		<phrase hz="挨呲儿" py="ái,cīr," />
 		<phrase hz="挨打" py="ái,dǎ" />
+		<phrase hz="挨冻" py="ái,dòng" />
+		<phrase hz="挨斗" py="ái,dòu" />
+		<phrase hz="挨饿" py="ái,è" />
+		<phrase hz="挨挤" py="ái,jǐ" />
+		<phrase hz="挨剋" py="ái,kēi" />
 		<phrase hz="挨骂" py="ái,mà" />
+		<phrase hz="挨批" py="ái,pī" />
 		<phrase hz="挨日子" py="ái,rì,zi" />
+		<phrase hz="挨时间" py="ái,shí,jiān" />
+		<phrase hz="挨头子" py="ái,tóu,zi" />
+		<phrase hz="挨延" py="ái,yán" />
+		<phrase hz="挨整" py="ái,zhěng" />
+		<phrase hz="挨揍" py="ái,zòu" />
 		<definition id="二">
 			<item id="1" text="遭受，亲身受到：~饿. ~打. ~骂." />
 			<item id="2" text="困难地度过（岁月）：~日子." />
@@ -52,7 +70,8 @@
 			<item text="[欸乃]（-nǎi）拟声词，摇橹声：~~一声山水绿." />
 		</definition>
 	</char>
-	<char hz="嗳" py="ǎi" multi="āi,ài">
+	<char hz="嗳" py="ǎi" multi="āi,ài" main="1">
+		<phrase hz="嗳酸" py="ǎi,suān" />
 		<definition id="一">
 			<item text="叹词，表示否定或不同意：~，别那么说. ~，不是这样放." />
 		</definition>
@@ -61,9 +80,19 @@
 	<char hz="蔼" py="ǎi" />
 	<char hz="霭" py="ǎi" />
 	<char hz="艾" py="ài" multi="yì" main="1">
+		<phrase hz="艾艾" py="ài,ài" />
+		<phrase hz="艾草" py="ài,cǎo" />
+		<phrase hz="艾蒿" py="ài,hāo" />
+		<phrase hz="艾灸" py="ài,jiǔ" info="中医针灸疗法中的灸法。" />
+		<phrase hz="艾绒" py="ài,róng" />
+		<phrase hz="艾青" py="ài,qīng" />
+		<phrase hz="艾条" py="ài,tiáo" info="用棉纸包裹艾绒制成的圆柱形长卷，艾条主要用于艾灸" />
+		<phrase hz="艾森豪威尔" py="ài,sēn,háo,wēi,ěr" />
+		<phrase hz="艾席" py="ài,xí" info="用艾草作席子。言生活极清贫。" />
+		<phrase hz="艾滋病" py="ài,zī,bìng" />
 		<phrase hz="方兴未艾" py="fāng,xīng,wèi,ài" />
 		<phrase hz="少艾" py="shào,ài" />
-		<phrase hz="艾滋病" py="ài,zī,bìng" />
+		<phrase hz="灼艾" py="zhuó,ài" info="中医疗法之一。燃烧艾绒熏灸人体一定的穴位。" />
 		<definition id="一">
 			<item id="1" text="多年生草本植物，开黄色小花，叶制成艾绒，可供灸病使用。" />
 			<item id="2" text="止，绝：方兴未~." />
@@ -78,7 +107,7 @@
 		</definition>
 	</char>
 	<char hz="爱" py="ài" />
-	<char hz="嗳" py="ài" multi="āi,ǎi" main="1">
+	<char hz="嗳" py="ài" multi="āi,ǎi">
 		<definition id="二">
 			<item text="叹词，表示懊恼、悔恨：~，早知道是这样，我就不来了." />
 		</definition>
@@ -87,7 +116,7 @@
 	<char hz="瑷" py="ài">
 		<phrase hz="瑷珲" py="ài,huī" />
 		<definition>
-			<item text="[瑷珲](-huī)地名，在黑龙江省。今作“爱辉”。"/>
+			<item text="[瑷珲](-huī)地名，在黑龙江省。今作“爱辉”。" />
 		</definition>
 	</char>
 	<char hz="叆" py="ài">
@@ -101,6 +130,7 @@
 	</char>
 	<char hz="隘" py="ài" />
 	<char hz="嗌" py="ài" multi="yì">
+		<phrase hz="嗌喉" py="ài,hóu" />
 		<definition id="一">
 			<item text="噎，食物塞住嗓子。" />
 		</definition>

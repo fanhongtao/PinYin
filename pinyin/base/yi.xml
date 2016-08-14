@@ -132,6 +132,7 @@
 	<char hz="乂" py="yì" />
 	<char hz="刈" py="yì" />
 	<char hz="艾" py="yì" multi="ài">
+		<phrase hz="怨艾" py="yuàn,yì" />
 		<phrase hz="自怨自艾" py="zì,yuàn,zì,yì" />
 		<definition id="二">
 			<item text="治理。 [自怨自艾]本义是悔恨自己的错误，自己改正。现在只指悔恨。" />
