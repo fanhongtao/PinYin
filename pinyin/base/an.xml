@@ -31,7 +31,15 @@
 	<char hz="唵" py="ǎn" />
 	<char hz="揞" py="ǎn" />
 	<char hz="犴" py="àn" multi="hān">
+		<phrase hz="犴狴" py="àn,bì" />
+		<phrase hz="犴户" py="àn,hù" />
+		<phrase hz="犴噬" py="àn,shì" />
+		<phrase hz="犴讼" py="àn,sòng" />
+		<phrase hz="犴庭" py="àn,tíng" />
+		<phrase hz="犴圄" py="àn,yǔ" />
+		<phrase hz="犴狱" py="àn,yù" />
 		<phrase hz="狴犴" py="bì,àn" />
+		<phrase hz="亡犴" py="wáng,àn" />
 		<definition id="二">
 			<item text="见“狴”字条“狴犴”（bì-）" />
 		</definition>

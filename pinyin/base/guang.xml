@@ -14,7 +14,7 @@
 	<char hz="胱" py="guāng">
 		<phrase hz="膀胱" py="páng,guāng" />
 	</char>
-	<char hz="广" py="guǎng" multi="ān" main="1">
+	<char hz="广" py="guǎng" multi="ān" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="宽度：长五十米，~三十米. [广袤](-mào)东西叫广，南北叫袤，指土地的面积。" />
 			<item id="2" text="宽，大：~场. 我国地~人多. [广泛]范围大，普遍：~~宣传. 意义~~." />
