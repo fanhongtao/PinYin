@@ -58,7 +58,7 @@
 	<char hz="萚" py="tuò" />
 	<char hz="箨" py="tuò" />
 	<char hz="唾" py="tuò" />
-	<char hz="魄" py="tuò" multi="bó,pò" suppress="1">
+	<char hz="魄" py="tuò" multi="bó,pò">
 		<definition id="二">
 			<item text="“落魄”(luòpò)的“魄”的又音。" />
 		</definition>

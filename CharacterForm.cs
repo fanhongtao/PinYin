@@ -81,7 +81,11 @@ namespace PinYin
 		// 显示一个字的解释
 		private void showCharacter(CharInfo charInfo)
 		{
-			outputText.AppendText(charInfo.hanzi + "\n");
+			outputText.AppendText(charInfo.hanzi);
+			if (charInfo.suppressLog) {
+				outputText.AppendText("\t(单独匹配时不提示)");
+			}
+			outputText.AppendText("\n");
 			for (int i = 0; i < charInfo.pinyins.Count; i++) {
 				outputText.AppendText("\t" + charInfo.pinyins[i]);
 				if (charInfo.definitions[i] == null) {

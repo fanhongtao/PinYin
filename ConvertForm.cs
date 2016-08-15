@@ -325,7 +325,7 @@ namespace PinYin
 			}
 			
 			output.AppendCharacter(ch, charInfo.pinyins[0]);
-			if (charInfo.multi && multiSet.Add(ch)) {
+			if (charInfo.multi && (!charInfo.suppressLog) && multiSet.Add(ch)) {
 				Logger.debug("Meet polyphone [" + ch + "]");
 			}
 			return 1;

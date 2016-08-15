@@ -27,6 +27,11 @@ namespace PinYin
 		public bool   multi { get; set; }
 		
 		/// <summary>
+		/// 当多音字单独出现时，是否不用给出提示。 true: 不用提示; false: 需要给出提示
+		/// </summary>
+		public bool   suppressLog { get; set; }
+		
+		/// <summary>
 		/// 是否是繁体字（异休字）。 true: 是繁体字（异休字）;  false: 不是繁体字（异休字），也就是说，是普通的简体字
 		/// </summary>
 		public bool   trans { get; set; }
@@ -64,6 +69,7 @@ namespace PinYin
 			definitions = new List<DefinitionInfo>();
 			phrases = new List<PhraseInfo>();
 			multi = false;
+			suppressLog = false;
 			trans = false;
 		}
 	}

@@ -53,7 +53,7 @@
 		</definition>
 	</char>
 	<char hz="箔" py="bó" />
-	<char hz="魄" py="bó" multi="pò,tuò" suppress="1">
+	<char hz="魄" py="bó" multi="pò,tuò">
 		<definition id="三">
 			<item text="“落魄”(luòpò)的“魄”的又音。" />
 		</definition>

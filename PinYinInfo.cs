@@ -25,6 +25,7 @@ namespace PinYin
 		const string PY = "py";
 		const string MULTI = "multi";
 		const string MAIN = "main";
+		const string SUPPRESSLOG = "suppressLog"; 
 		const string TRANS = "trans";
 		const string DEFINITION = "definition";
 		const string ID = "id";
@@ -146,6 +147,11 @@ namespace PinYin
 				charInfo.main = py;
 				charInfo.pinyins.Insert(0, py);
 				charInfo.definitions.Insert(0, definition);
+				
+				// 只支持在主音设置 suppressLog 属性
+				if (element.HasAttribute(SUPPRESSLOG)) {
+					charInfo.suppressLog = StringTools.ToBoolean(element.GetAttribute(SUPPRESSLOG));
+				}
 			} else {
 				charInfo.pinyins.Add(py);
 				charInfo.definitions.Add(definition);
