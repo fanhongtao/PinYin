@@ -14,7 +14,16 @@
 		</definition>
 	</char>
 	<char hz="钮" py="niǔ" />
-	<char hz="拗" py="niù" multi="ǎo,ào" main="1">
+	<char hz="拗" py="niù" multi="ǎo,ào">
+		<phrase hz="别拗" py="biè,niù" />
+		<phrase hz="拗别" py="niù,bié" />
+		<phrase hz="拗不过" py="niù,bú,guò" />
+		<phrase hz="拗劲" py="niù,jìn" />
+		<phrase hz="拗抗" py="niù,kàng" />
+		<phrase hz="拗性" py="niù,xìng" />
+		<phrase hz="拗执" py="niù,zhí" />
+		<phrase hz="执拗" py="zhí,niù" />
+		<phrase hz="直拗" py="zhí,niù" />
 		<definition id="三">
 			<item text="固执，不驯顺：执~. 脾气很~." />
 		</definition>
