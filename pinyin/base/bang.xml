@@ -7,15 +7,29 @@
 	<char hz="浜" py="bāng" />
 	<char hz="绑" py="bǎng" />
 	<char hz="榜" py="bǎng" />
-	<char hz="膀" py="bǎng" multi="pāng,páng">
+	<char hz="膀" py="bǎng" multi="pāng,páng" main="1">
 		<phrase hz="膀子" py="bǎng,zi" />
+		<phrase hz="膀臂" py="bǎng,bì" />
+		<phrase hz="膀大腰圆" py="bǎng,dà,yāo,yuán" />
+		<phrase hz="膀浪" py="bǎng,làng" info="宋 代口语。形容说话不着边际。" />
+		<phrase hz="臂膀" py="bì,bǎng" />
+		<phrase hz="并膀" py="bìng,bǎng" info="方言。差不多。" />
 		<phrase hz="翅膀" py="chì,bǎng" />
+		<phrase hz="肩膀" py="jiān,bǎng" />
+		<phrase hz="脚膀" py="jiǎo,bǎng" info="方言。指腿。" />
+		<phrase hz="蹄膀" py="tí,bǎng" />
+		<phrase hz="翼膀" py="yì,bǎng" info="翅膀。" />
+		<phrase hz="涨膀" py="zhàng,bǎng" info="方言。物浸水而膨胀。" />
+		<phrase hz="左膀右臂" py="zuǒ,bǎng,yòu,bì" />
 		<definition id="一">
 			<item id="1" text="（-子）胳膊上部靠肩的部分：他的两~真有劲." />
 			<item id="2" text="（-儿）鸟类等的翅膀。" />
 		</definition>
 	</char>
-	<char hz="蚌" py="bàng" multi="bèng" main="1">
+	<char hz="蚌" py="bàng" multi="bèng" main="1" suppressLog="1">
+		<phrase hz="蚌壳" py="bàng,ké" />
+		<phrase hz="蚌舞" py="bàng,wǔ" />
+		<phrase hz="蛤蚌" py="gé,bàng" />
 		<definition id="一">
 			<item text="生活在淡水里的一类软体动物，贝壳长圆形，黑褐色，壳内有珍珠层，有的可以产出珍珠。" />
 		</definition>
@@ -32,6 +46,13 @@
 	</char>
 	<char hz="蒡" py="bàng" />
 	<char hz="磅" py="bàng" multi="páng" main="1">
+		<phrase hz="磅秤" py="bàng,chèng" />
+		<phrase hz="磅刷" py="bàng,shuā" info="最大号的家用油漆刷" />
+		<phrase hz="磅纸" py="bàng,zhǐ" info="一种比较高级的纸。" />
+		<phrase hz="地磅" py="dì,bàng" />
+		<phrase hz="过磅" py="guò,bàng" />
+		<phrase hz="殷磅" py="yīn,bàng" info="形容声音轰响。" />
+		<phrase hz="砰磅" py="pēng,bàng" info="象声词。形容水流激荡等声。" />
 		<definition id="一">
 			<item id="1" text="英美制重量单位。1磅等于453.6克。" />
 			<item id="2" text="磅秤：过~." />

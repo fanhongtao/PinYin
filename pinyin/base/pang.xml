@@ -6,7 +6,7 @@
 		<phrase hz="滂湃" py="pāng,pài" />
 		<phrase hz="滂沱" py="pāng,tuó" />
 	</char>
-	<char hz="膀" py="pāng" multi="bǎng,páng" main="1">
+	<char hz="膀" py="pāng" multi="bǎng,páng">
 		<definition id="二">
 			<item text="浮肿：他肾脏有病，脸有点~." />
 		</definition>

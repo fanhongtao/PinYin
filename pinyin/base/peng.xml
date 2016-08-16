@@ -34,6 +34,16 @@
 		<phrase hz="蟛蜞" py="péng,qí" />
 	</char>
 	<char hz="搒" py="péng" multi="bàng">
+		<phrase hz="摽搒" py="biāo,péng" />
+		<phrase hz="笞搒" py="chī,péng" />
+		<phrase hz="棰搒" py="chuí,péng" />
+		<phrase hz="击搒" py="jī,péng" />
+		<phrase hz="搒楚" py="péng,chǔ" />
+		<phrase hz="搒捶" py="péng,chuí" />
+		<phrase hz="搒掠" py="péng,lüě" />
+		<phrase hz="搒挞" py="péng,tà" />
+		<phrase hz="搒械" py="péng,xiè" />
+		<phrase hz="敲搒" py="qiāo,péng" />
 		<definition id="二">
 			<item text="用棍子或竹板子打。" />
 		</definition>
