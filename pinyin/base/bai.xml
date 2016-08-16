@@ -3,7 +3,7 @@
 	<char hz="㓦" py="bāi">
 		<phrase hz="㓦划" py="bāi,huai" />
 		<definition>
-			<item text="[㓦划](-huai)〈方〉1.处置，安排：这件事让他~~吧. 2.修理，整治：这孩子把闹钟~~坏了."/>
+			<item text="[㓦划](-huai)〈方〉1.处置，安排：这件事让他~~吧. 2.修理，整治：这孩子把闹钟~~坏了." />
 		</definition>
 	</char>
 	<char hz="掰" py="bāi">
@@ -30,6 +30,13 @@
 		</definition>
 	</char>
 	<char hz="柏" py="bǎi" multi="bó,bò" main="1">
+		<phrase hz="柏树" py="bǎi,shù" />
+		<phrase hz="柏油" py="bǎi,yóu" />
+		<phrase hz="扁柏" py="biǎn,bǎi" />
+		<phrase hz="刺柏" py="cì,bǎi" />
+		<phrase hz="罗汉柏" py="luó,hàn,bǎi" />
+		<phrase hz="圆柏" py="yuán,bǎi" />
+		<phrase hz="松柏" py="sōng,bǎi" />
 		<definition id="一">
 			<item id="1" text="常绿乔木，有侧柏、圆柏、罗汉柏等多种。木质坚硬，纹理致密，可供建筑及制造器物之用。" />
 			<item id="2" text="姓" />
@@ -40,7 +47,24 @@
 	</char>
 	<char hz="摆" py="bǎi" />
 	<char hz="呗" py="bài" multi="bei">
+		<phrase hz="呗唱" py="bài,chàng" info="和尚诵经。" />
+		<phrase hz="呗佛" py="bài,fó" info="诵经礼佛。" />
+		<phrase hz="呗偈" py="bài,jì" info="赞唱颂偈。" />
+		<phrase hz="呗声" py="bài,shēng" info="诵经唱偈声。" />
+		<phrase hz="呗音" py="bài,yīn" info="诵经声。" />
+		<phrase hz="呗赞" py="bài,zàn" info="佛教徒赞颂佛的功德叫“呗赞”。" />
 		<phrase hz="梵呗" py="fàn,bài" />
+		<phrase hz="讽呗" py="fàn,bài" info="诵念佛经。" />
+		<phrase hz="歌呗" py="gē,bài" info="佛教语。谓赞唱经咒、偈颂。" />
+		<phrase hz="螺呗" py="luó,bài" info="指寺庙中作法事时的法螺、梵呗之声。" />
+		<phrase hz="膜呗" py="mó,bài" info="边膜拜边歌颂佛的功德。" />
+		<phrase hz="清呗" py="qīng,bài" info="佛教徒念经诵偈的声音。" />
+		<phrase hz="诵呗" py="sòng,bài" info="唱诵(佛经)。" />
+		<phrase hz="仙呗" py="xiān,bài" info="佛徒唱诵经文的声音。" />
+		<phrase hz="吟呗" py="yín,bài" info="吟唱偈颂。" />
+		<phrase hz="鱼呗" py="yú,bài" info="谓诵经念佛。" />
+		<phrase hz="赞呗" py="zàn,bài" info="赞呗，又称梵呗，是用以歌咏译本经典中赞叹三宝的声调。" />
+		<phrase hz="钟呗" py="zhōng,bài" info="撞钟和唱诵经文声。" />
 		<definition id="二">
 			<item text="[梵呗]（fàn-）佛教徒念经的声音。" />
 		</definition>

@@ -24,7 +24,9 @@
 	<char hz="嶓" py="bō">
 		<phrase hz="嶓冢" py="bō,zhǒng" />
 	</char>
-	<char hz="伯" py="bó" multi="bǎi" main="1">
+	<char hz="伯" py="bó" multi="bǎi" main="1" suppressLog="1">
+		<phrase hz="伯伯" py="bó,bo" />
+		<phrase hz="伯劳飞燕" py="bó,láo,fēi,yàn" />
 		<definition id="一">
 			<item id="1" text="兄弟排行(háng)常用“伯”、“仲”、“叔”、“季”做次序，伯是老大。 [伯仲] (转)不相上下，好坏差不多。" />
 			<item id="2" text="伯父，父亲的哥哥，大爷(ye)。又对年龄大、辈分高的人的尊称：老~." />
@@ -41,6 +43,8 @@
 	</char>
 	<char hz="柏" py="bó" multi="bǎi,bò">
 		<phrase hz="柏林" py="bó,lín" />
+		<phrase hz="柏辽兹" py="bó,liáo,zī" info="埃克托·柏辽兹(1803-1869)法国作曲家"/>
+		<phrase hz="柏拉图" py="bó,lā,tú" info="(前427-前347)古希腊哲学家"/>
 		<definition id="二">
 			<item text="[柏林] 德国的首都。" />
 		</definition>
@@ -118,6 +122,18 @@
 	</char>
 	<char hz="檗" py="bò" />
 	<char hz="擘" py="bò" multi="bāi" main="1">
+		<phrase hz="擘画" py="bò,huà" />
+		<phrase hz="擘划" py="bò,huà" />
+		<phrase hz="擘肌分理" py="bò,jī,fēn,lǐ" />
+		<phrase hz="擘笺" py="bò,jiān" />
+		<phrase hz="擘开" py="bò,kāi" />
+		<phrase hz="擘窠" py="bò,kē" />
+		<phrase hz="擘蓝" py="bò,lán" />
+		<phrase hz="擘啮" py="bò,niè" />
+		<phrase hz="擘析" py="bò,xī" />
+		<phrase hz="擘张" py="bò,zhāng" />
+		<phrase hz="分擘" py="fēn,bò" />
+		<phrase hz="巨擘" py="jù,bò" />
 		<definition id="一">
 			<item text="大拇指。[巨擘](喻)杰出的人物。" />
 		</definition>
