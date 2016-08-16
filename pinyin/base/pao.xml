@@ -15,10 +15,21 @@
 			<item id="2" text="量词，用于屎尿：一~屎." />
 		</definition>
 	</char>
-	<char hz="刨" py="páo" multi="bào" info="Word主音">
-		<phrase hz="刨花生" py="páo,huā,shēng" />
-		<phrase hz="刨去" py="páo,qù" />
+	<char hz="刨" py="páo" multi="bào" main="1">
+		<phrase hz="镑刨" py="bàng,páo" />
 		<phrase hz="刨除" py="páo,chú" />
+		<phrase hz="刨根究底" py="páo,gēn,jiū,dǐ" />
+		<phrase hz="刨根问底" py="páo,gēn,wèn,dǐ" />
+		<phrase hz="刨工" py="páo,gōng" />
+		<phrase hz="刨花生" py="páo,huā,shēng" />
+		<phrase hz="刨坑" py="páo,kēng" />
+		<phrase hz="刨去" py="páo,qù" />
+		<phrase hz="刨梢" py="páo,shāo" info="方言。砍柴。" />
+		<phrase hz="刨食" py="páo,shí" />
+		<phrase hz="刨土" py="páo,tǔ" />
+		<phrase hz="刨削" py="páo,xuē" />
+		<phrase hz="刨治" py="páo,zhì" />
+		<phrase hz="刨祖坟" py="páo,zǔ,fén" />
 		<definition id="一">
 			<item id="1" text="挖掘：~花生. ~坑." />
 			<item id="2" text="减，除去：~去他还有俩人. 十五天~去五天，只剩下十天了." />
@@ -30,8 +41,10 @@
 	<char hz="狍" py="páo" />
 	<char hz="庖" py="páo" />
 	<char hz="炮" py="páo" multi="bāo,pào">
-		<phrase hz="炮烙" py="páo,luò" />
 		<phrase hz="炮格" py="páo,gé" />
+		<phrase hz="炮炼" py="páo,liàn" />
+		<phrase hz="炮烙" py="páo,luò" />
+		<phrase hz="炮炙" py="páo,zhì" />
 		<phrase hz="炮制" py="páo,zhì" />
 		<definition id="一">
 			<item text="[炮烙](-luò，旧读-gé)[炮格]古代的一种酷刑。 [炮制]用烘、炒等方法把原料加工制成中药：如法~~（喻照样做）." />
@@ -61,7 +74,38 @@
 			<item id="3" text="用液体浸物品：~茶. ~饭." />
 		</definition>
 	</char>
-	<char hz="炮" py="pào" multi="bāo,páo" main="1">
+	<char hz="炮" py="pào" multi="bāo,páo" main="1" suppressLog="1">
+		<phrase hz="鞭炮" py="biān,pào" />
+		<phrase hz="打炮" py="dǎ,pào" />
+		<phrase hz="大炮" py="dà,pào" />
+		<phrase hz="放空炮" py="fàng,kōng,pào" />
+		<phrase hz="放炮" py="fàng,pào" />
+		<phrase hz="高射炮" py="gāo,shè,pào" />
+		<phrase hz="花炮" py="huā,pào" />
+		<phrase hz="火箭炮" py="huǒ,jiàn,pào" />
+		<phrase hz="火炮" py="huǒ,pào" />
+		<phrase hz="礼炮" py="lǐ,pào" />
+		<phrase hz="连珠炮" py="lián,zhū,pào" />
+		<phrase hz="马后炮" py="mǎ,hòu,pào" />
+		<phrase hz="排炮" py="pái,pào" />
+		<phrase hz="炮兵" py="pào,bīng" />
+		<phrase hz="炮车" py="pào,chē" />
+		<phrase hz="炮铳" py="pào,chòng" />
+		<phrase hz="炮灰" py="pào,huī" />
+		<phrase hz="炮火" py="pào,huǒ" />
+		<phrase hz="炮击" py="pào,jī" />
+		<phrase hz="炮口" py="pào,kǒu" />
+		<phrase hz="炮楼" py="pào,lóu" />
+		<phrase hz="炮塔" py="pào,tǎ" />
+		<phrase hz="炮台" py="pào,tái" />
+		<phrase hz="炮艇" py="pào,tǐng" />
+		<phrase hz="炮位" py="pào,wèi" />
+		<phrase hz="炮仗" py="pào,zhang" />
+		<phrase hz="炮竹" py="pào,zhú" />
+		<phrase hz="曲射炮" py="qǔ,shè,pào" />
+		<phrase hz="瞎炮" py="xiā,pào" />
+		<phrase hz="哑炮" py="yǎ,pào" />
+		<phrase hz="重炮" py="zhòng,pào" />
 		<definition id="三">
 			<item id="1" text="武器的一类，有迫击炮、高射炮、火箭炮等。" />
 			<item id="2" text="爆竹：鞭~. ~仗(zhang)." />

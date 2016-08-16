@@ -13,7 +13,21 @@
 		</definition>
 	</char>
 	<char hz="龅" py="bāo" />
-	<char hz="剥" py="bāo" multi="bō" main="1">
+	<char hz="剥" py="bāo" multi="bō">
+		<phrase hz="剥皮" py="bāo,pí" />
+		<phrase hz="剥辱" py="bāo,rǔ" info="谓革职之辱。" />
+		<phrase hz="剥啄" py="bāo,zhuó" />
+		<phrase hz="剥坐" py="bāo,zuò" info="革职治罪。" />
+		<phrase hz="毕剥" py="bì,bāo" />
+		<phrase hz="哔剥" py="bì,bāo" />
+		<phrase hz="必必剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="毕毕剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="哔哔剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="残剥" py="cán,bāo" info="1.残害剥夺。2.残缺剥蚀。" />
+		<phrase hz="抽丝剥茧" py="chōu,sī,bāo,jiǎn" />
+		<phrase hz="摧剥" py="cuī,bāo" />
+		<phrase hz="凋剥" py="diāo,bāo" info="损伤。" />
+		<phrase hz="劫剥" py="jié,bāo" />
 		<definition id="二">
 			<item text="去掉外面的皮、壳或其他东西（常用于口语）：~花生. ~皮." />
 		</definition>
@@ -21,9 +35,12 @@
 	<char hz="煲" py="bāo" />
 	<char hz="褒" py="bāo" />
 	<char hz="雹" py="báo" />
-	<char hz="薄" py="báo" multi="bó,bò" info="Word主音">
-		<phrase hz="薄片" py="báo,piàn" />
+	<char hz="薄" py="báo" multi="bó,bò" main="1">
 		<phrase hz="薄饼" py="báo,bǐng" />
+		<phrase hz="薄膜" py="báo,báo" />
+		<phrase hz="薄片" py="báo,piàn" />
+		<phrase hz="薄纱" py="báo,shā" />
+		<phrase hz="薄透镜" py="báo,tòu,jìng" />
 		<phrase hz="薄纸" py="báo,zhǐ" />
 		<definition id="一">
 			<item id="1" text="厚度小的：~片. ~饼. ~纸. 这块布太~." />
@@ -37,15 +54,29 @@
 	<char hz="保" py="bǎo" />
 	<char hz="葆" py="bǎo" />
 	<char hz="堡" py="bǎo" multi="bǔ,pù" main="1">
+		<phrase hz="堡垒" py="bǎo,lěi" />
+		<phrase hz="城堡" py="chéng,bǎo" />
+		<phrase hz="碉堡" py="diāo,bǎo" />
+		<phrase hz="汉堡" py="hàn,bǎo" />
+		<phrase hz="桥头垒" py="qiáo,tóu,bǎo" />
 		<definition id="一">
-			<item id="1" text="堡垒：桥头~. [堡垒]军事上防守用的建筑物：打下敌人最坚固的~~. (喻)难于攻破的事物：攻克科学~~." />
+			<item id="1" text="堡垒：~. [堡垒]军事上防守用的建筑物：打下敌人最坚固的~~. (喻)难于攻破的事物：攻克科学~~." />
 			<item id="2" text="小城。" />
 		</definition>
 	</char>
 	<char hz="褓" py="bǎo" />
 	<char hz="鸨" py="bǎo" />
 	<char hz="报" py="bào" />
-	<char hz="刨" py="bào" multi="páo" main="1">
+	<char hz="刨" py="bào" multi="páo">
+		<phrase hz="刨冰" py="bào,bīng" />
+		<phrase hz="刨床" py="bào,chuáng" />
+		<phrase hz="刨刀" py="bào,dāo" />
+		<phrase hz="刨花" py="bào,huā" />
+		<phrase hz="刨光" py="bào,guāng" />
+		<phrase hz="刨平" py="bào,píng" />
+		<phrase hz="刨身" py="bào,shēn" />
+		<phrase hz="刨子" py="bào,zi" />
+		<phrase hz="龙门刨" py="lóng,mén,bào" />
 		<definition id="二">
 			<item id="1" text="（-子）推刮木料等使平滑的工具。[刨床]推刮金属制品使平滑的机器。" />
 			<item id="2" text="用刨子或刨床推刮：~得不光. ~平." />
@@ -55,9 +86,43 @@
 	<char hz="鲍" py="bào" />
 	<char hz="趵" py="bào" />
 	<char hz="豹" py="bào" />
-	<char hz="暴" py="bào" multi="pù" main="1">
-		<phrase hz="暴行" py="bào,xíng" />
+	<char hz="暴" py="bào" multi="pù" main="1" suppressLog="1">
+		<phrase hz="暴病" py="bào,bìng" />
+		<phrase hz="暴跌" py="bào,diē" />
+		<phrase hz="暴动" py="bào,dòng" />
+		<phrase hz="暴发" py="bào,fā" />
+		<phrase hz="暴风" py="bào,fēng" />
+		<phrase hz="暴光" py="bào,guāng" />
+		<phrase hz="暴君" py="bào,jūn" />
+		<phrase hz="暴利" py="bào,lì" />
+		<phrase hz="暴力" py="bào,lì" />
+		<phrase hz="暴戾" py="bào,lì" />
+		<phrase hz="暴烈" py="bào,liè" />
 		<phrase hz="暴露" py="bào,lù" />
+		<phrase hz="暴乱" py="bào,luàn" />
+		<phrase hz="暴民" py="bào,mín" />
+		<phrase hz="暴怒" py="bào,nù" />
+		<phrase hz="暴虐" py="bào,nüè" />
+		<phrase hz="暴殄天物" py="bào,tiǎn,tiān,wù" />
+		<phrase hz="暴起" py="bào,qǐ" />
+		<phrase hz="暴跳" py="bào,tiào" />
+		<phrase hz="暴徒" py="bào,tú" />
+		<phrase hz="暴行" py="bào,xíng" />
+		<phrase hz="暴雨" py="bào,yǔ" />
+		<phrase hz="暴躁" py="bào,zào" />
+		<phrase hz="暴涨" py="bào,zhǎng" />
+		<phrase hz="暴政" py="bào,zhèng" />
+		<phrase hz="暴卒" py="bào,zú" />
+		<phrase hz="粗暴" py="cū,bào" />
+		<phrase hz="防暴" py="fáng,bào" />
+		<phrase hz="风暴" py="fēng,bào" />
+		<phrase hz="横征暴敛" py="héng,zhēng,bào,liǎn" />
+		<phrase hz="火暴" py="huǒ,bào" />
+		<phrase hz="强暴" py="qiáng,bào" />
+		<phrase hz="沙暴" py="shā,bào" />
+		<phrase hz="以暴易暴" py="yǐ,bào,yì,bào" />
+		<phrase hz="凶暴" py="xiōng,bào" />
+		<phrase hz="自暴自弃" py="zì,bào,zì,qì" />
 		<definition id="一">
 			<item id="1" text="强大而突然来的，又猛又急的：~风雨. ~病. [暴动]为推翻原有的国家政权，破坏当时的政治制度和社会秩序而采取的集体武装行动。" />
 			<item id="2" text="过分急躁的，容易冲动的：这人脾气真~." />

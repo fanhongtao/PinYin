@@ -15,8 +15,8 @@
 	<char hz="哺" py="bǔ" />
 	<char hz="堡" py="bǔ" multi="bǎo,pù">
 		<phrase hz="堡子" py="bǔ,zi" />
-		<phrase hz="吴堡" py="wú,bǔ" />
 		<phrase hz="柴沟堡" py="chái,gōu,bǔ" />
+		<phrase hz="吴堡" py="wú,bǔ" />
 		<definition id="二">
 			<item text="堡子，有围墙的村镇。又多用于地名：吴~（在陕西省榆林）. 柴沟~（在河北省张家口）." />
 		</definition>
