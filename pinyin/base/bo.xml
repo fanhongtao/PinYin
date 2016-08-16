@@ -48,6 +48,8 @@
 	<char hz="铂" py="bó" />
 	<char hz="舶" py="bó" />
 	<char hz="鲌" py="bó" multi="bà" main="1">
+		<phrase hz="翘嘴红鲌" py="qiào,zuǐ,hóng,bó" />
+		<phrase hz="短尾鲌" py="duǎn,wěi,bó" />
 		<definition id="一">
 			<item text="鱼名。身体侧扁，嘴向上翘，生活在淡水中。" />
 		</definition>

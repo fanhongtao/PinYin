@@ -2,7 +2,11 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="八" py="bā" />
 	<char hz="扒" py="bā" multi="pá" main="1">
+		<phrase hz="扒开" py="bā,kāi" />
 		<phrase hz="扒拉" py="bā,la" />
+		<phrase hz="扒皮" py="bā,pí" />
+		<phrase hz="扒瞎" py="bā,xiā" />
+		<phrase hz="牛扒" py="niú,bā" />
 		<definition id="一">
 			<item id="1" text="抓住，把着：~着栏杆. ~着树枝." />
 			<item id="2" text="刨开，挖：城墙~了个豁口. [扒拉]（-la）拨动：~~算盘. ~~开众人." />
@@ -17,18 +21,20 @@
 	<char hz="朳" py="bā" />
 	<char hz="巴" py="bā">
 		<phrase hz="巴结" py="bā,jie" />
-		<phrase hz="尾巴" py="wěi,ba" />
 		<phrase hz="干巴" py="gān,ba" />
+		<phrase hz="尾巴" py="wěi,ba" />
 		<phrase hz="皱巴" py="zhòu,ba" />
 	</char>
 	<char hz="芭" py="bā" />
-	<char hz="吧" py="bā" multi="ba">
+	<char hz="吧" py="bā" multi="ba" main="1">
+		<phrase hz="吧吧" py="bā,bā" />
 		<phrase hz="吧嗒" py="bā,dā" />
 		<phrase hz="吧唧" py="bā,jī" />
+		<phrase hz="吧女" py="bā,nǚ" />
+		<phrase hz="吧台" py="bā,tái" />
 		<phrase hz="酒吧" py="jiǔ,bā" />
 		<phrase hz="网吧" py="wǎng,bā" />
 		<phrase hz="氧吧" py="yǎng,bā" />
-		<phrase hz="吧台" py="bā,tái" />
 		<definition id="一">
 			<item id="1" text="拟声词，同“叭”：~嗒（dā）. ~唧（jī）. ~的一声." />
 			<item id="2" text="（外）具备特定功能或设施的休闲场所：酒~. 网~. 氧~. ~台." />
@@ -54,10 +60,23 @@
 	<char hz="魃" py="bá" />
 	<char hz="鼥" py="bá" />
 	<char hz="把" py="bǎ" multi="bà" main="1">
+		<phrase hz="把柄" py="bǎ,bǐng" />
+		<phrase hz="把持" py="bǎ,chí" />
+		<phrase hz="把舵" py="bǎ,duò" />
+		<phrase hz="把风" py="bǎ,fēng" />
+		<phrase hz="把犁" py="bǎ,lí" />
+		<phrase hz="把酒" py="bǎ,jiǔ" />
+		<phrase hz="把门" py="bǎ,mén" />
 		<phrase hz="把势" py="bǎ,shi" />
 		<phrase hz="把式" py="bǎ,shi" />
 		<phrase hz="把头" py="bǎ,tóu" />
+		<phrase hz="把玩" py="bǎ,wán" />
+		<phrase hz="把握" py="bǎ,wò" />
 		<phrase hz="把戏" py="bǎ,xì" />
+		<phrase hz="把兄" py="bǎ,xiōng" />
+		<phrase hz="把盏" py="bǎ,zhǎn" />
+		<phrase hz="投机倒把" py="tóu,jī,dǎo,bǎ" />
+		<phrase hz="一把手" py="yī,bǎ,shǒu" />
 		<definition id="一">
 			<item id="1" text="拿，抓住：~盏. 两手~住门." />
 			<item id="2" text="控制，掌握：~舵. ~犁. [把持]专权，一手独揽，不让他人参与：~~财权. [把握]1.掌握，控制，有效地处理：~~时机. 2.事情成功的可靠性：这次试验，他很有~~." />
@@ -92,6 +111,20 @@
 	</char>
 	<char hz="miss: 齿巴" py="bà" info="special" />
 	<char hz="罢" py="bà" multi="ba" main="1">
+		<phrase hz="罢黜" py="bà,chù" />
+		<phrase hz="罢了" py="bà,le" />
+		<phrase hz="罢工" py="bà,gōng" />
+		<phrase hz="罢官" py="bà,guān" />
+		<phrase hz="罢课" py="bà,kè" />
+		<phrase hz="罢论" py="bà,lùn" />
+		<phrase hz="罢免" py="bà,miǎn" />
+		<phrase hz="罢市" py="bà,shì" />
+		<phrase hz="罢手" py="bà,shǒu" />
+		<phrase hz="罢休" py="bà,xiū" />
+		<phrase hz="罢职" py="bà,zhí" />
+		<phrase hz="善罢甘休" py="shàn,bà,gān,xiū" />
+		<phrase hz="欲罢不能" py="yù,bà,bù,néng" />
+		<phrase hz="作罢" py="zuò,bà" />
 		<definition id="一">
 			<item id="1" text="停，歇（(连)-休）：~工. ~手. 欲~不能." />
 			<item id="2" text="免去（官职）（(连)-免）：~官. ~职." />
@@ -105,13 +138,15 @@
 		</definition>
 	</char>
 	<char hz="鲌" py="bà" multi="bó">
+		<phrase hz="鲌鲜" py="bà,xiān" />
 		<definition id="二">
 			<item text="同“鲅”" />
 		</definition>
 	</char>
 	<char hz="霸" py="bà" />
 	<char hz="灞" py="bà" />
-	<char hz="吧" py="ba" multi="bā" main="1">
+	<char hz="吧" py="ba" multi="bā">
+		<phrase hz="好吧" py="hǎo,ba" />
 		<definition id="二">
 			<item text="助词，用在句末，也作“罢”。1.表示可以，允许：好~，就这么办~. 2.表示推测，估量：今天不会下雨~. 3.表示命令，请求：快出去~！还是你去~！ 4.用于停顿处：说~，不好意思；不说~，问题又不能解决." />
 		</definition>
