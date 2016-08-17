@@ -5,7 +5,7 @@
 	<char hz="荸" py="bí">
 		<phrase hz="荸荠" py="bí,qi" />
 		<definition>
-			<item text="[荸荠](-qi)多年生草本植物，生在池沼或栽培在水田里。地下茎也叫荸荠，球状，皮赤褐色，肉白色，可以吃。"/>
+			<item text="[荸荠](-qi)多年生草本植物，生在池沼或栽培在水田里。地下茎也叫荸荠，球状，皮赤褐色，肉白色，可以吃。" />
 		</definition>
 	</char>
 	<char hz="鼻" py="bí" />
@@ -37,7 +37,8 @@
 	<char hz="秘" py="bì" multi="mì">
 		<phrase hz="秘鲁" py="bì,lǔ" />
 		<definition id="二">
-			<item text="姓。 [秘鲁]国名，在南美洲。" />
+			<item text="姓。" />
+			<item text="[秘鲁]国名，在南美洲。" />
 		</definition>
 	</char>
 	<char hz="毕" py="bì" />
@@ -74,6 +75,8 @@
 	<char hz="婢" py="bì" />
 	<!-- 睥 读 pì -->
 	<char hz="裨" py="bì" multi="pí" main="1">
+		<phrase hz="裨益" py="bì,yì" />
+		<phrase hz="无裨" py="wú,bì" />
 		<definition id="一">
 			<item text="补益，益处：无~于事. 对工作大有~益." />
 		</definition>
@@ -94,7 +97,10 @@
 	<char hz="篦" py="bì" />
 	<char hz="滗" py="bì" />
 	<char hz="辟" py="bì" multi="pì">
-		<phrase hz="复辟" py="fù,pì" />
+		<phrase hz="辟谷" py="bì,gǔ" />
+		<phrase hz="辟邪" py="bì,xié" />
+		<phrase hz="辟易" py="bì,yì" />
+		<phrase hz="复辟" py="fù,bì" />
 		<definition id="一">
 			<item id="1" text="君主。[复辟]失位的君主恢复君位。(引)被打垮的统治者恢复原有的统治地位或被推翻的制度复活。" />
 			<item id="2" text="旧指君主召见并授予官职。" />
