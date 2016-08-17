@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="分" py="fēn" multi="fèn" main="1">
+		<phrase hz="分别" py="fēn,bié" />
 		<phrase hz="分寸" py="fēn,cun" />
 		<definition id="一">
 			<item id="1" text="分开，区划开，跟“合”相对：~离. ~类. ~工合作. ~别处理. (引)由整体中取一部分：他~到了一千斤粮食. 2.由机构分出的部分：~会. ~队. ~局. ~社. [分化]由一种事物演变成几种不同的事物：“他”字~~成“他”、“她”、“它”. [分解]1.一种化合物分成两种以上的元素或化合物。2.调解，排解：~~纠纷. 难以~~. 3.细说：且听下回~~. [分析]把事物、现象、概念等划分成简单的部分，找出它的本质、属性或相互联系：~~问题. 化学~~." />

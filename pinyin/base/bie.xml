@@ -10,7 +10,7 @@
 		<phrase hz="憋闷" py="biē,men" />
 	</char>
 	<char hz="鳖" py="biē" />
-	<char hz="别" py="bié" multi="biè" main="1">
+	<char hz="别" py="bié" multi="biè" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="分离（(连)分-、离-）：告~. 临~赠言." />
 			<item id="2" text="分辨，区分（(连)辨-）：分门~类. 分~清楚. (引)差别，差异：天渊之~. [区别]1.划分：正确~~和处理敌我矛盾和人民内部矛盾. 2.差异：~~不大." />
@@ -22,7 +22,7 @@
 		</definition>
 	</char>
 	<char hz="蹩" py="biě" />
-	<char hz="瘪" py="biě" multi="biē" main="1">
+	<char hz="瘪" py="biě" multi="biē" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="不饱满，凹下：~花生. 干~. 车带~了." />
 		</definition>
