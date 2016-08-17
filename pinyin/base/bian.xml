@@ -15,7 +15,7 @@
 	<char hz="鞭" py="biān" />
 	<char hz="贬" py="biǎn" />
 	<char hz="窆" py="biǎn" />
-	<char hz="扁" py="biǎn" multi="piān" main="1">
+	<char hz="扁" py="biǎn" multi="piān" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="物体平而薄：鸭子嘴~." />
 		</definition>
@@ -32,8 +32,15 @@
 	<char hz="弁" py="biàn" />
 	<char hz="昪" py="biàn" />
 	<char hz="变" py="biàn" />
-	<char hz="便" py="biàn" multi="pián" main="1">
+	<char hz="便" py="biàn" multi="pián" main="1" suppressLog="1">
+		<phrase hz="便饭" py="biàn,fàn" />
+		<phrase hz="便利" py="biàn,lì" />
+		<phrase hz="便条" py="biàn,tiáo" />
+		<phrase hz="便衣" py="biàn,yī" />
+		<phrase hz="便于" py="biàn,yú" />
 		<phrase hz="便宜行事" py="biàn,yí,xíng,shì" />
+		<phrase hz="方便" py="fāng,biàn" />
+		<phrase hz="随便" py="suí,biàn" />
 		<definition id="一">
 			<item id="1" text="方便，顺利，没有困难或阻碍（(连)-利）：行人称~. ~于携带." />
 			<item id="2" text="简单的，非正式的：家常~饭. ~衣. ~条. [便宜]根据实际需要而灵活、适当地：~~行事. （另 piányi，见“便”pián） [随便]不勉强，不拘束。" />
