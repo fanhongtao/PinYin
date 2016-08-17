@@ -36,6 +36,14 @@
 		<phrase hz="芍药" py="sháo,yao" />
 	</char>
 	<char hz="杓" py="sháo" multi="biāo" info="Word主音">
+		<phrase hz="杯杓" py="bēi,sháo" info="亦作“杯勺”。酒杯和杓子。借指饮酒。" />
+		<phrase hz="斗杓" py="dǒu,sháo" />
+		<phrase hz="脑杓" py="nǎo,sháo" info="头的后部。" />
+		<phrase hz="杓风" py="sháo,fēng" info="指两湖一带夏季的一种大风。" />
+		<phrase hz="杓建" py="sháo,jiàn" info="谓以北斗星斗柄所指方向确定四时、节气。" />
+		<phrase hz="星杓" py="xīng,fēng" info="指北斗的玉衡、开阳、摇光三星。也称斗杓、斗柄。" />
+		<phrase hz="柘杓" py="zhè,sháo" info="用柘木制的杓子。" />
+		<phrase hz="樽杓" py="zūn,sháo" info="指饮酒之器。" />
 		<definition id="二">
 			<item text="同“勺(1)”。" />
 		</definition>

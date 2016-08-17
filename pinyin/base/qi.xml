@@ -96,7 +96,13 @@
 	<char hz="崎" py="qí">
 		<phrase hz="崎岖" py="qí,qū" />
 	</char>
-	<char hz="骑" py="qí" />
+	<char hz="骑" py="qí">
+		<definition>
+			<item id="1" text="跨坐在牲畜或其他东西上：~马. ~自行车. (引)兼跨两边：~缝盖章." />
+			<item id="2" text="（旧读jì）骑兵，也泛指骑马的人：车~. 轻~. 铁~." />
+			<item id="3" text="骑的马：坐~." />
+		</definition>
+	</char>
 	<char hz="琦" py="qí" />
 	<char hz="锜" py="qí" />
 	<char hz="俟" py="qí" multi="sì">
