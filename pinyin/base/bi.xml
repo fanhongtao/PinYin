@@ -64,7 +64,7 @@
 	<char hz="畀" py="bì" />
 	<char hz="痹" py="bì" />
 	<char hz="箅" py="bì" />
-	<char hz="贲" py="bì" multi="bēn">
+	<char hz="贲" py="bì" multi="bēn" main="1">
 		<phrase hz="贲临" py="bì,lín" />
 		<definition id="一">
 			<item text="装饰得很好：~临（客人盛装光临）." />

@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="夯" py="hāng" multi="bèn" main="1">
+		<phrase hz="粗夯" py="cū,hāng" />
+		<phrase hz="打夯" py="dǎ,hāng" />
+		<phrase hz="夯地" py="hāng,dì" />
+		<phrase hz="夯歌" py="hāng,gē" />
+		<phrase hz="夯汉" py="hāng,hàn" />
+		<phrase hz="夯具" py="hāng,jù" />
+		<phrase hz="夯实" py="hāng,shí" />
 		<definition id="一">
 			<item id="1" text="砸地基的工具。" />
 			<item id="2" text="用夯砸：~地." />

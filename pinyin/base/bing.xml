@@ -7,7 +7,7 @@
 			<item text="并州，山西太原的别称。" />
 		</definition>
 	</char>
-	<char hz="栟" py="bīng" multi="bēn" main="1">
+	<char hz="栟" py="bīng" multi="bēn">
 		<phrase hz="栟榈" py="bīng,lǘ" />
 		<definition id="二">
 			<item text="[栟榈](-lǘ)古书上指棕榈。" />
