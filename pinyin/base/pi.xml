@@ -105,6 +105,13 @@
 		<phrase hz="睥睨" py="pì,nì" />
 	</char>
 	<char hz="辟" py="pì" multi="bì" main="1">
+		<phrase hz="鞭辟入里" py="biān,pì,rù,lǐ" />
+		<phrase hz="大辟" py="dà,pì" />
+		<phrase hz="精辟" py="jīng,pì" />
+		<phrase hz="开辟" py="kāi,pì" />
+		<phrase hz="开天辟地" py="kāi,tiān,pì,dì" />
+		<phrase hz="辟谣" py="pì,yáo" />
+		<phrase hz="辟支佛" py="pì,zhī,fó" />
 		<definition id="二">
 			<item id="1" text="开辟，从无到有地开发建设：开天~地. 在那里开~一片新园地." />
 			<item id="2" text="驳斥，排除：~谣. ~邪说." />

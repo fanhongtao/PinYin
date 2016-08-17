@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="陂" py="bēi" multi="pí,pō" main="1">
+		<phrase hz="陂池" py="bēi,chí" />
+		<phrase hz="陂塘" py="bēi,táng" />
+		<phrase hz="陂湖禀量" py="bēi,hú,bǐng,liáng" info="比喻度量宽广恢弘。" />
 		<definition id="一">
 			<item id="1" text="池塘：~塘. ~池." />
 			<item id="2" text="池塘的岸。" />
@@ -15,7 +18,11 @@
 	<char hz="鹎" py="bēi" />
 	<char hz="背" py="bēi" multi="bèi">
 		<phrase hz="背包袱" py="bēi,bāo,fu" />
+		<phrase hz="背柴" py="bēi,chái" />
+		<phrase hz="背负" py="bēi,fù" />
 		<phrase hz="背枪" py="bēi,qiāng" />
+		<phrase hz="背债" py="bēi,zhài" />
+		<phrase hz="背子" py="bēi,zi" />
 		<definition id="二">
 			<item text="人用背（bèi）驮（tuó）东西：把小孩儿~起来. ~包袱. ~枪." />
 		</definition>
@@ -29,6 +36,52 @@
 	<char hz="悖" py="bèi" />
 	<char hz="邶" py="bèi" />
 	<char hz="背" py="bèi" multi="bēi" main="1">
+		<phrase hz="挨肩搭背" py="āi,jiān,dā,bèi" />
+		<phrase hz="背道而驰" py="bèi,dào,ér,chí" />
+		<phrase hz="背灯" py="bèi,dēng" />
+		<phrase hz="背地" py="bèi,dì" />
+		<phrase hz="背篼" py="bèi,dōu" />
+		<phrase hz="背光" py="bèi,guāng" />
+		<phrase hz="背后" py="bèi,hòu" />
+		<phrase hz="背离" py="bèi,lí" />
+		<phrase hz="背脊" py="bèi,jǐ" />
+		<phrase hz="背街" py="bèi,jiē" />
+		<phrase hz="背景" py="bèi,jǐng" />
+		<phrase hz="背井离乡" py="bèi,jǐng,lí,xiāng" />
+		<phrase hz="背面" py="bèi,miàn" />
+		<phrase hz="背谬" py="bèi,miù" />
+		<phrase hz="背叛" py="bèi,pàn" />
+		<phrase hz="背鳍" py="bèi,qí" />
+		<phrase hz="背山面海" py="bèi,shān,miàn,hǎi" />
+		<phrase hz="背时" py="bèi,shí" />
+		<phrase hz="背书" py="bèi,shū" />
+		<phrase hz="背诵" py="bèi,sòng" />
+		<phrase hz="背台词" py="bèi,tái,cí" />
+		<phrase hz="背心" py="bèi,xīn" />
+		<phrase hz="背信弃义" py="bèi,xìn,qì,yì" />
+		<phrase hz="背阴" py="bèi,yīn" />
+		<phrase hz="背约" py="bèi,yuē" />
+		<phrase hz="背月" py="bèi,yuè" />
+		<phrase hz="背运" py="bèi,yùn" />
+		<phrase hz="背着" py="bèi,zhe" />
+		<phrase hz="背水一战" py="bèi,shuǐ,yī,zhàn" />
+		<phrase hz="捶背" py="chuí,bèi" />
+		<phrase hz="刀背" py="dāo,bèi" />
+		<phrase hz="垫背" py="diàn,bèi" />
+		<phrase hz="耳背" py="ěr,bèi" />
+		<phrase hz="腹背" py="fù,bèi" />
+		<phrase hz="勾肩搭背" py="gōu,jiān,dā,bèi" />
+		<phrase hz="汗流浃背" py="hàn,liú,jiā,bèi" />
+		<phrase hz="力透纸背" py="lì,tòu,zhǐ,bèi" />
+		<phrase hz="人心向背" py="rén,xīn,xiàng,bèi" />
+		<phrase hz="手背" py="shǒu,bèi" />
+		<phrase hz="死背" py="sǐ,bèi" />
+		<phrase hz="死记硬背" py="sǐ,jì,yìng,bèi" />
+		<phrase hz="推背图" py="tuī,bèi,tú" />
+		<phrase hz="望其项背" py="wàng,qí,xiàng,bèi" />
+		<phrase hz="违背" py="wéi,bèi" />
+		<phrase hz="椅背" py="yǐ,bèi" />
+		<phrase hz="转背" py="zhuǎn,bèi" info="〈方〉∶转身,形容时间极短" />
 		<definition id="一">
 			<item id="1" text="背脊，脊梁，自肩至后腰的部分。 [背地]不当人面：不要当面不说，~~乱说. [背景]1.舞台上的布景。2.图画上或摄影时衬托主体事物的景物。(喻)对人物、事件起作用的环境或关系：政治~~. 历史~~. [背心]没有袖子和领子的短上衣。" />
 			<item id="2" text="物体的反面或后面：~面. 手背. 刀~." />

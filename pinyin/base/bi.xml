@@ -112,7 +112,15 @@
 		</definition>
 	</char>
 	<char hz="嬖" py="bì" />
-	<char hz="臂" py="bì" multi="bei" main="1">
+	<char hz="臂" py="bì" multi="bei" main="1" suppressLog="1">
+		<phrase hz="臂长" py="bì,cháng" />
+		<phrase hz="臂助" py="bì,zhù" />
+		<phrase hz="长臂猿" py="cháng,bì,yuán" />
+		<phrase hz="三头六臂" py="sān,tóu,liù,bì" />
+		<phrase hz="失之交臂" py="shī,zhī,jiāo,bì" />
+		<phrase hz="通臂猿" py="tōng,bì,yuán" />
+		<phrase hz="一臂之力" py="yī,bì,zhī,lì" />
+		<phrase hz="振臂" py="zhèn,bì" />
 		<definition id="一">
 			<item text="胳膊，从肩到腕的部分：振~高呼. [臂助]1.帮助。2.助手。" />
 		</definition>
