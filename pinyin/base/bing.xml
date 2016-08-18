@@ -41,7 +41,12 @@
 	</char>
 	<char hz="禀" py="bǐng" />
 	<char hz="鞞" py="bǐng" />
-	<char hz="并" py="bìng" multi="bīng" main="1">
+	<char hz="并" py="bìng" multi="bīng" main="1" suppressLog="1">
+		<phrase hz="合发" py="bìng,fā" />
+		<phrase hz="并行" py="bìng,xíng" />
+		<phrase hz="并且" py="bìng,qiě" />
+		<phrase hz="并重" py="bìng,zhòng" />
+		<phrase hz="合并" py="hé,bìng" />
 		<definition id="一">
 			<item id="1" text="合在一起（(连)合-）：~案办理." />
 			<item id="2" text="一齐，平排着：~驾齐驱. ~肩作战. ~排坐着." />
