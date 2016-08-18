@@ -2,6 +2,9 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="邠" py="bīn" />
 	<char hz="玢" py="bīn" multi="fēn" main="1">
+		<phrase hz="玢豳" py="bīn,bīn" />
+		<phrase hz="玢璘" py="bīn,lín" />
+		<phrase hz="璘玢" py="lín,bīn" />
 		<definition id="一">
 			<item text="玉名。" />
 		</definition>
@@ -13,6 +16,10 @@
 	<char hz="滨" py="bīn" />
 	<char hz="缤" py="bīn" />
 	<char hz="槟" py="bīn" multi="bīng" main="1">
+		<phrase hz="槟树" py="bīn,shù" />
+		<phrase hz="槟椥" py="bīn,zhī" info="越南 地名。" />
+		<phrase hz="槟子" py="bīn,zǐ" />
+		<phrase hz="香槟" py="xiāng,bīn" />
 		<definition id="一">
 			<item text="槟子，苹果树的一种，果实也叫槟子，比苹果小，熟的时候紫红色，味酸甜。" />
 		</definition>

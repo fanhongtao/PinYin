@@ -16,6 +16,8 @@
 	<char hz="兵" py="bīng" />
 	<char hz="槟" py="bīng" multi="bīn">
 		<phrase hz="槟榔" py="bīng,lang" />
+		<phrase hz="槟榔屿" py="bīng,láng,yǔ" info="槟城亦称“槟州”，马来西亚十三个联邦州之一" />
+		<phrase hz="马槟榔" py="mǎ,bīng,láng" info="果实名。色紫味甘，可食用，亦供药用。" />
 		<definition id="二">
 			<item text="[槟榔](-lang)常绿乔木，生长在热带、亚热带。果实也叫槟榔，可以吃，也可入药。" />
 		</definition>
@@ -29,8 +31,8 @@
 	<char hz="屏" py="bǐng" multi="píng">
 		<phrase hz="屏除" py="bǐng,chú" />
 		<phrase hz="屏弃" py="bǐng,qì" />
-		<phrase hz="屏退" py="bǐng,tuì" />
 		<phrase hz="屏气" py="bǐng,qì" />
+		<phrase hz="屏退" py="bǐng,tuì" />
 		<phrase hz="屏息" py="bǐng,xī" />
 		<definition id="二">
 			<item id="1" text="除去，排除（(连)-除）：~弃不用. ~退左右." />
