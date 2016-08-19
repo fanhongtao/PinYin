@@ -42,6 +42,20 @@
 	</char>
 	<char hz="帛" py="bó" />
 	<char hz="泊" py="bó" multi="pō" main="1">
+		<phrase hz="泊车" py="bó,chē" />
+		<phrase hz="泊船" py="bó,chuán" />
+		<phrase hz="泊位" py="bó,wèi" info="港区内能停靠船舶的位置" />
+		<phrase hz="淡泊" py="dàn,bó" />
+		<phrase hz="澹泊" py="dàn,bó" />
+		<phrase hz="河泊所" py="hé,bó,suǒ" info="古代掌收鱼税的官署" />
+		<phrase hz="鸾飘凤泊" py="luán,piāo,fèng,bó" />
+		<phrase hz="落泊" py="luò,bó" />
+		<phrase hz="马泊六" py="mǎ,bó,liù" />
+		<phrase hz="锚泊" py="máo,bó" info="[船舶]抛锚停泊" />
+		<phrase hz="漂泊" py="piāo,bó" />
+		<phrase hz="飘泊" py="piāo,bó" />
+		<phrase hz="恬泊" py="tián,bó" />
+		<phrase hz="停泊" py="tíng,bó" />
 		<definition id="一">
 			<item id="1" text="停船靠岸（(连)停-）：~船." />
 			<item id="2" text="恬静。[淡泊]（*澹泊）不贪图功名利禄。" />
@@ -49,8 +63,8 @@
 	</char>
 	<char hz="柏" py="bó" multi="bǎi,bò">
 		<phrase hz="柏林" py="bó,lín" />
-		<phrase hz="柏辽兹" py="bó,liáo,zī" info="埃克托·柏辽兹(1803-1869)法国作曲家"/>
-		<phrase hz="柏拉图" py="bó,lā,tú" info="(前427-前347)古希腊哲学家"/>
+		<phrase hz="柏辽兹" py="bó,liáo,zī" info="埃克托·柏辽兹(1803-1869)法国作曲家" />
+		<phrase hz="柏拉图" py="bó,lā,tú" info="(前427-前347)古希腊哲学家" />
 		<definition id="二">
 			<item text="[柏林] 德国的首都。" />
 		</definition>
@@ -143,6 +157,10 @@
 	<char hz="踣" py="bó" />
 	<char hz="跛" py="bǒ" />
 	<char hz="簸" py="bǒ" multi="bò" main="1">
+		<phrase hz="簸荡" py="bǒ,dàng" />
+		<phrase hz="簸动" py="bǒ,dòng" />
+		<phrase hz="簸谷" py="bǒ,gǔ" />
+		<phrase hz="颠簸" py="diān,bǒ" />
 		<definition id="一">
 			<item id="1" text="用簸(bò)箕颠动米粮，扬去糠秕和灰尘。" />
 			<item id="2" text="颠动得像米粮在簸箕里簸起来一样：船在海浪中颠~起伏." />

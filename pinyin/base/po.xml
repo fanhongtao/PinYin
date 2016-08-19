@@ -17,8 +17,9 @@
 	<char hz="颇" py="pō" />
 	<char hz="泊" py="pō" multi="bó">
 		<phrase hz="湖泊" py="hú,pō" />
-		<phrase hz="血泊" py="xuè,pō" />
 		<phrase hz="梁山泊" py="liáng,shān,pō" />
+		<phrase hz="泊地" py="pō,dì" info="湖边的田地" />
+		<phrase hz="血泊" py="xuè,pō" />
 		<definition id="二">
 			<item text="湖：湖~. 血~（一大摊血）. [梁山泊]古湖泊名，在今山东省西南部。" />
 		</definition>
