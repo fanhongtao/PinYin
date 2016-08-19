@@ -62,6 +62,23 @@ namespace PinYin
 		}
 		
 		/// <summary>
+		/// 根据输入的字符串，获取对应的词组信息
+		/// </summary>
+		/// <param name="str">等查询的字符串</param>
+		/// <returns>如果该字符串是一个完整的词，则返回对应的词组信息。 如果不是，则返回 null</returns>
+		public PhraseInfo GetPhraseInfo(string str)
+		{
+			PhraseInfo ret = null;
+			foreach (PhraseInfo phraseInfo in allPhrases) {
+				if (phraseInfo.hanzi.Equals(str)) {
+					ret = phraseInfo;
+					break;
+				}
+			}
+			return ret;
+		}
+		
+		/// <summary>
 		/// 向字符中添加一个词组：
 		/// <para>  1. 添加前，会对重复的词组进行过滤</para>
 		/// <para>  2. 添加时，会按照词组的长度降序排序（长的词在前面）</para>

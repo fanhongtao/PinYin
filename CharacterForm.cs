@@ -52,6 +52,9 @@ namespace PinYin
 			inputComboBox.Text = line;
 			inputComboBox.SelectionStart = inputComboBox.Text.Length;
 			
+			// 显示可能的词组
+			tryShowPhrase(line);
+			
 			// 逐个显示每个字的信息
 			PinYinInfo info = PinYinInfo.Instance;
 			for (int i = 0; i < line.Length; i++) {
@@ -66,6 +69,23 @@ namespace PinYin
 					continue;
 				}
 				showCharacter(charInfo);
+			}
+		}
+		
+		// 试图将输入的内容当成一个词组来显示
+		private void tryShowPhrase(string line)
+		{
+			PinYinInfo info = PinYinInfo.Instance;
+			PhraseInfo phraseInfo = info.GetPhraseInfo(line);
+			if (phraseInfo != null) {
+				outputText.AppendText("已有词组： ");
+				int start = outputText.Text.Length;
+				outputText.AppendText(phraseInfo.hanzi + " - ");
+				outputText.AppendText(string.Join(",", phraseInfo.pinyin));
+				outputText.AppendText("\n");
+				outputText.Select(start, outputText.Text.Length - start);
+				outputText.SelectionFont = new Font("宋体", 20F, FontStyle.Italic, GraphicsUnit.Point);
+				outputText.AppendText("\n");
 			}
 		}
 		
