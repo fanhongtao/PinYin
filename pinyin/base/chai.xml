@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="拆" py="chāi" multi="cā" main="1">
+	<char hz="拆" py="chāi" multi="cā" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="把合在一起的弄开，卸下来：~信. ~卸机器." />
 		</definition>

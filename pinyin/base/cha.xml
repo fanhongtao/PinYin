@@ -38,7 +38,14 @@
 	</char>
 	<char hz="馇" py="chā" />
 	<char hz="嚓" py="chā" multi="cā">
-		<phrase hz="喀嚓" py="kā,chā" />
+		<phrase hz="叭嚓" py="bā,chā" info="象声词。" />
+		<phrase hz="吧嚓" py="bā,chā" info="象声词。形容打击的声音。" />
+		<phrase hz="咯嚓" py="gē,chā" info="象声词。" />
+		<phrase hz="霍嚓" py="huò,chā" info="象声词。" />
+		<phrase hz="咔嚓" py="kā,chā" />
+		<phrase hz="喀嚓" py="kā,chā" info="即咔嚓，象声词。断开的声音" />
+		<phrase hz="啪嚓" py="pā,chā" info="象声词，形容东西掉在地上、器物破碎或撞击的声音" />
+		<phrase hz="嘁嘁嚓嚓" py="qī,qī,chā,chā" info="同“嘁嘁喳喳”，形容悄悄地小声说话。也指说长道短，搬弄是非。" />
 		<definition id="二">
 			<item text="见“喀”字条“喀嚓”(kā-)。" />
 		</definition>
