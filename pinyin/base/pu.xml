@@ -51,6 +51,8 @@
 		</definition>
 	</char>
 	<char hz="埔" py="pǔ" multi="bù" main="1">
+		<phrase hz="黄埔" py="huáng,pǔ" />
+		<phrase hz="埔头" py="pǔ,tóu" info="方言。码头；交通便利的商业城市。" />
 		<definition id="一">
 			<item text="[黄埔]地名，在广东省广州。" />
 		</definition>
