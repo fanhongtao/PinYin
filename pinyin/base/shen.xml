@@ -14,8 +14,21 @@
 	</char>
 	<char hz="诜" py="shēn" />
 	<char hz="参" py="shēn" multi="cān,cēn">
-		<phrase hz="参商" py="shēn,shāng" />
+		<phrase hz="岑参" py="cén,shēn" info="岑参（约715-770年），唐代边塞诗人，南阳人" />
+		<phrase hz="丹参" py="dān,shēn" info="多年生草本植物,俗称红根" />
+		<phrase hz="党参" py="dǎng,shēn" info="多年生草本植物,根可入药。过去多产于山西上党地区" />
+		<phrase hz="东洋参" py="dōng,yáng,shēn" />
+		<phrase hz="斗转参横" py="dǒu,zhuǎn,shēn,héng" />
+		<phrase hz="花旗参" py="huā,qí,shēn" />
 		<phrase hz="人参" py="rén,shēn" />
+		<phrase hz="参辰卯酉" py="shēn,chén,mǎo,yǒu" />
+		<phrase hz="参横斗转" py="shēn,héng,dǒu,zhuǎn" info="北斗转向，参星打横。指天快峦的时候。" />
+		<phrase hz="参回斗转" py="shēn,huí,dǒu,zhuǎn" info="指夜深。参，参星；斗，北斗星。" />
+		<phrase hz="参商" py="shēn,shāng" />
+		<phrase hz="西洋参" py="xī,yáng,shēn" />
+		<phrase hz="洋参" py="yáng,shēn" />
+		<phrase hz="月落参横" py="yuè,luò,shēn,héng" />
+		<phrase hz="曾参杀人" py="zēng,shēn,shā,rén" />
 		<definition id="二">
 			<item id="1" text="星宿名，二十八宿之一。 [参商]参和商都是二十八宿之一，两者不同时在天空出现。(喻)1.分离不得相见。 2.不和睦。" />
 			<item id="2" text="人参，多年生草本植物。根肥大，略像人形，可入药。" />
