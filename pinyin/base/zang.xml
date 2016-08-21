@@ -29,9 +29,32 @@
 	<char hz="葬" py="zàng" />
 	<char hz="藏" py="zàng" multi="cāng">
 		<phrase hz="宝藏" py="bǎo,zàng" />
+		<phrase hz="川藏" py="chuān,zàng" info="四川、西藏" />
 		<phrase hz="大藏经" py="dà,zàng,jīng" />
 		<phrase hz="道藏" py="dào,zàng" />
+		<phrase hz="汉藏" py="hàn,zàng" />
+		<phrase hz="后藏" py="hòu,zàng" info="拉萨、山南地区称为“前藏”，日喀则地区则称为“后藏”" />
+		<phrase hz="进藏" py="jìn,zàng" info="进入西藏" />
+		<phrase hz="康藏" py="kāng,zàng" />
+		<phrase hz="前藏" py="qián,zàng" info="拉萨、山南地区称为“前藏”，日喀则地区则称为“后藏”" />
+		<phrase hz="青藏" py="qīng,zàng" info="青海、西藏" />
+		<phrase hz="入藏" py="rù,zàng" info="进入西藏" />
 		<phrase hz="三藏" py="sān,zàng" />
+		<phrase hz="卫藏" py="wèi,zàng" />
+		<phrase hz="西藏" py="xī,zàng" />
+		<phrase hz="雅鲁藏布江" py="yǎ,lǔ,zàng,bù,jiāng" />
+		<phrase hz="藏传" py="zàng,chuán" />
+		<phrase hz="藏府" py="zàng,fǔ" />
+		<phrase hz="藏红花" py="zàng,hóng,huā" />
+		<phrase hz="藏剧" py="zàng,jù" />
+		<phrase hz="藏蓝" py="zàng,lán" info="蓝里略透红色" />
+		<phrase hz="藏历" py="zàng,lì" />
+		<phrase hz="藏羚" py="zàng,líng" />
+		<phrase hz="藏民" py="zàng,mín" />
+		<phrase hz="藏青" py="zàng,qīng" info="颜色名。蓝而近黑" />
+		<phrase hz="藏区" py="zàng,qū" />
+		<phrase hz="藏文" py="zàng,wén" />
+		<phrase hz="藏语" py="zàng,yǔ" />
 		<phrase hz="藏族" py="zàng,zú" />
 		<definition id="二">
 			<item id="1" text="储放东西的地方：宝~." />
