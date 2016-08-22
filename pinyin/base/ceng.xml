@@ -3,10 +3,12 @@
 	<char hz="噌" py="cēng" />
 	<char hz="层" py="céng" />
 	<char hz="曾" py="céng" multi="zēng" info="Word主音">
-		<phrase hz="曾经" py="céng,jīng" />
-		<phrase hz="未曾" py="wèi,céng" />
-		<phrase hz="何曾" py="hé,céng" />
+		<phrase hz="不曾" py="bù,céng" />
 		<phrase hz="曾几何时" py="céng,jǐ,hé,shí" />
+		<phrase hz="曾经" py="céng,jīng" />
+		<phrase hz="何曾" py="hé,céng" />
+		<phrase hz="似曾" py="sì,céng" />
+		<phrase hz="未曾" py="wèi,céng" />
 		<definition id="二">
 			<item text="曾经，表示以前经历过：未~. 何~. 他~去北京两次. ~几何时（表示时间过去没多久）." />
 		</definition>
