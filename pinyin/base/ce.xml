@@ -2,7 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="册" py="cè" />
 	<char hz="厕" py="cè" />
-	<char hz="侧" py="cè" multi="zè,zhāi" main="1">
+	<char hz="侧" py="cè" multi="zè,zhāi" main="1" suppressLog="1">
 		<phrase hz="侧重" py="cè,zhòng" />
 		<definition id="一">
 			<item id="1" text="旁：楼~. ~面." />
