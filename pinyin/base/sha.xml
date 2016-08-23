@@ -12,7 +12,8 @@
 			<item id="7" text="在动词后，表示程度深：气~人. 笑~人." />
 		</definition>
 	</char>
-	<char hz="刹" py="shā" multi="chà" main="1">
+	<char hz="刹" py="shā" multi="chà">
+		<phrase hz="刹车" py="shā,chē" />
 		<definition id="二">
 			<item text="止住（车、机器等）：~车." />
 		</definition>
@@ -60,7 +61,7 @@
 	<char hz="唼" py="shà">
 		<phrase hz="唼喋" py="shà,zhá" />
 		<definition>
-			<item text="[唼喋](-zhá)形容鱼、鸟等吃东西的声音。"/>
+			<item text="[唼喋](-zhá)形容鱼、鸟等吃东西的声音。" />
 		</definition>
 	</char>
 	<char hz="厦" py="shà" multi="xià" main="1">

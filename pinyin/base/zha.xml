@@ -32,6 +32,9 @@
 	</char>
 	<char hz="哳" py="zhā" />
 	<char hz="查" py="zhā" multi="chá">
+		<phrase hz="不卖查梨" py="bù,mài,zhā,lí" info="元 无名氏《百花亭》第三折有卖查梨条的小贩夸张地叫卖自己的货物。后以“不卖查梨”指不空口说大话。" />
+		<phrase hz="梦梦查查" py="mèng,mèng,zhā,zhā" info="犹迷迷糊糊。" />
+		<phrase hz="生查子" py="shēng,zhā,zǐ" info="原唐教坊曲，后用为词调。" />
 		<definition id="二">
 			<item id="1" text="同“楂(一)”。" />
 			<item id="2" text="姓。" />
@@ -39,6 +42,8 @@
 	</char>
 	<char hz="揸" py="zhā" />
 	<char hz="喳" py="zhā" multi="chā" main="1">
+		<phrase hz="叽叽喳喳" py="jī,jī,zhā,zhā" />
+		<phrase hz="喳喳" py="zhā,zhā" />
 		<definition id="一">
 			<item text="[喳喳]拟声词：叽叽~~. 喜鹊~~叫." />
 		</definition>
@@ -46,6 +51,7 @@
 	<char hz="渣" py="zhā" />
 	<char hz="楂" py="zhā" multi="chá">
 		<phrase hz="山楂" py="shān,zhā" />
+		<phrase hz="山查" py="shān,zhā" />
 		<definition id="一">
 			<item text="[山楂]（*山查）落叶乔木，开白花。果实也叫山楂，红色有白点，味酸，可以吃，也可入药。" />
 		</definition>
