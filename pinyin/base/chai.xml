@@ -35,6 +35,7 @@
 	<char hz="䜺" py="chǎi" />
 	<char hz="虿" py="chài" />
 	<char hz="瘥" py="chài" multi="cuó" main="1">
+		<phrase hz="久病初瘥" py="jiǔ,bìng,chū,chài" />
 		<definition id="一">
 			<item text="病愈：久病初~." />
 		</definition>
