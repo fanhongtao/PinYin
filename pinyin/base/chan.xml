@@ -11,7 +11,7 @@
 		</definition>
 	</char>
 	<char hz="婵" py="chān" />
-	<char hz="禅" py="chán" multi="shàn" main="1">
+	<char hz="禅" py="chán" multi="shàn" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="梵语“禅那”的省称，佛教指静思：坐~." />
 			<item id="2" text="关于佛教的：~杖. ~师." />
@@ -23,7 +23,7 @@
 	<char hz="馋" py="chán" />
 	<char hz="巉" py="chán" />
 	<char hz="鑱" py="chán" />
-	<char hz="孱" py="chán" multi="càn" main="1">
+	<char hz="孱" py="chán" multi="càn" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="懦弱，弱小（(连)-弱）。" />
 		</definition>
@@ -48,7 +48,9 @@
 			<item text="同“铲(2)”" />
 		</definition>
 	</char>
-	<char hz="谄" py="chǎn" />
+	<char hz="谄" py="chǎn">
+		<phrase hz="谄曲" py="chǎn,qǔ" />
+	</char>
 	<char hz="啴" py="chǎn" multi="tān">
 		<phrase hz="啴缓" py="chǎn,huǎn" />
 		<definition id="一">
@@ -67,6 +69,10 @@
 		</definition>
 	</char>
 	<char hz="颤" py="chàn" multi="zhàn" main="1">
+		<phrase hz="颤动" py="chàn,dòng" />
+		<phrase hz="颤抖" py="chàn,dǒu" />
+		<phrase hz="颤悠" py="chàn,yōu" />
+		<phrase hz="悸颤" py="jì,chàn" />
 		<definition id="一">
 			<item text="物体振动：这条扁担(dan)担上五六十斤就~了. ~动." />
 		</definition>

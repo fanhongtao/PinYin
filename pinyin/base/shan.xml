@@ -92,6 +92,7 @@
 		</definition>
 	</char>
 	<char hz="禅" py="shàn" multi="chán">
+		<phrase hz="封禅" py="fēng,shàn" />
 		<phrase hz="禅让" py="shàn,ràng" />
 		<definition id="二">
 			<item text="禅让，指古代帝王让位给别人，如尧让位给舜，舜让位给禹。" />

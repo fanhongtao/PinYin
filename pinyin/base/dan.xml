@@ -7,7 +7,7 @@
 			<item id="2" text="担负，承当：~风险. ~责任." />
 		</definition>
 	</char>
-	<char hz="单" py="dān" multi="chán,shàn" main="1">
+	<char hz="单" py="dān" multi="chán,shàn" main="1" suppressLog="1">
 		<phrase hz="单薄" py="dān,bó" />
 		<definition id="一">
 			<item id="1" text="种类少，不复杂：简~. ~纯. ~式簿记. (引)副词，只，仅：做事~靠热情不够. 不提别的，~说这件事. [单位]1.计算物体轻重、长短及数量的标准。 2.指机关、团体或属于一个机关、团体的各个部门：那里有五个直属~~." />
