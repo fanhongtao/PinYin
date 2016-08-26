@@ -31,7 +31,7 @@
 			<item text="使害怕：困难~不倒英雄汉. [吓唬](-hu)使人害怕，威胁：你别~~人." />
 		</definition>
 	</char>
-	<char hz="夏" py="xiá" />
+	<char hz="夏" py="xià" />
 	<char hz="厦" py="xià" multi="shà">
 		<phrase hz="厦门" py="xià,mén" />
 		<definition id="二">

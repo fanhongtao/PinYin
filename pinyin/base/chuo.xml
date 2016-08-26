@@ -14,7 +14,14 @@
 	<char hz="惙" py="chuò" />
 	<char hz="辍" py="chuò" />
 	<char hz="绰" py="chuò" multi="chāo" main="1">
+		<phrase hz="绰绰有余" py="chuò,chuò,yǒu,yú" />
+		<phrase hz="绰号" py="chuò,hào" />
+		<phrase hz="绰有余裕" py="chuò,yǒu,yú,yù" />
+		<phrase hz="绰约" py="chuò,yuē" />
 		<phrase hz="宽绰" py="kuān,chuo" />
+		<phrase hz="阔绰" py="kuò,chuò" />
+		<phrase hz="柔情绰态" py="róu,qíng,chuò,tài" />
+		<phrase hz="影影绰绰" py="yǐng,yǐng,chuò,chuò" />
 		<definition id="一">
 			<item text="宽裕：~~有余. 这间屋子很宽~(chuo)." />
 			<item text="[绰号]外号。" />

@@ -31,7 +31,7 @@
 	<char hz="僬" py="jiāo">
 		<phrase hz="僬侥" py="jiāo,yáo" />
 		<definition>
-			<item text="[僬侥](-yáo)古代传说中的矮人。"/>
+			<item text="[僬侥](-yáo)古代传说中的矮人。" />
 		</definition>
 	</char>
 	<char hz="蕉" py="jiāo" />
@@ -116,6 +116,14 @@
 		</definition>
 	</char>
 	<char hz="剿" py="jiǎo" multi="chāo" main="1">
+		<phrase hz="剿除" py="jiǎo,chú" />
+		<phrase hz="剿匪" py="jiǎo,fěi" />
+		<phrase hz="剿灭" py="jiǎo,miè" />
+		<phrase hz="剿杀" py="jiǎo,shā" />
+		<phrase hz="清剿" py="qīng,jiǎo" />
+		<phrase hz="围剿" py="wéi,jiǎo" />
+		<phrase hz="驻剿" py="zhù,jiǎo" />
+		<phrase hz="追剿" py="zhuī,jiǎo" />
 		<definition id="一">
 			<item text="讨伐，消灭：~匪. 围~." />
 		</definition>

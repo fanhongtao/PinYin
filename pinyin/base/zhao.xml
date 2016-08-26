@@ -18,10 +18,29 @@
 		</definition>
 	</char>
 	<char hz="朝" py="zhāo" multi="cháo">
-		<phrase hz="朝夕" py="zhāo,xī" />
-		<phrase hz="朝思暮想" py="zhāo,sī,mù,xiǎng" />
 		<phrase hz="今朝" py="jīn,zhāo" />
+		<phrase hz="一朝" py="yī,zhāo" />
+		<phrase hz="朝不保暮" py="zhāo,bù,bǎo,mù" />
+		<phrase hz="朝发夕至" py="zhāo,fā,xī,zhì" />
+		<phrase hz="朝更暮改" py="zhāo,gèng,mù,gǎi" />
+		<phrase hz="朝晖" py="zhāo,huī" />
+		<phrase hz="朝露" py="zhāo,lù" />
+		<phrase hz="朝令暮改" py="zhāo,lìng,mù,gǎi" />
+		<phrase hz="朝令夕改" py="zhāo,lìng,xī,gǎi" />
 		<phrase hz="朝气" py="zhāo,qì" />
+		<phrase hz="朝乾夕惕" py="zhāo,qián,xī,tì" />
+		<phrase hz="朝秦暮楚" py="zhāo,qín,mù,chǔ" />
+		<phrase hz="朝三暮四" py="zhāo,sān,mù,sì" />
+		<phrase hz="朝生暮死" py="zhāo,shēng,mù,sǐ" />
+		<phrase hz="朝思暮想" py="zhāo,sī,mù,xiǎng" />
+		<phrase hz="朝暾" py="zhāo,tūn" info="初升的太阳" />
+		<phrase hz="朝闻夕死" py="zhāo,wén,xī,sǐ" />
+		<phrase hz="朝夕" py="zhāo,xī" />
+		<phrase hz="朝霞" py="zhāo,xiá" />
+		<phrase hz="朝阳" py="zhāo,yáng" info="早晨刚刚升起的太阳。如果意为“向着太阳”，则发音为“cháo,yáng”" />
+		<phrase hz="朝朝暮暮" py="zhāo,zhāo,mù,mù" />
+		<phrase hz="朝钟暮鼓" py="zhāo,zhōng,mù,gǔ" />
+		<phrase hz="只争朝夕" py="zhǐ,zhēng,zhāo,xī" />
 		<definition id="二">
 			<item text="早晨：只争~夕. ~思暮想. (引)日，天：今~. [朝气](喻)向上发展的气概：~~蓬勃." />
 		</definition>

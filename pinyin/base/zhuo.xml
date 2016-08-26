@@ -5,6 +5,7 @@
 	<char hz="桌" py="zhuō" />
 	<char hz="倬" py="zhuō" />
 	<char hz="焯" py="zhuō" multi="chāo" main="1">
+		<phrase hz="焯见" py="zhuō,jiàn" info="同“灼见”" />
 		<definition id="一">
 			<item text="显明，明白。" />
 		</definition>
