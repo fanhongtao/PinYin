@@ -204,9 +204,7 @@
 	<char hz="伎" py="jì">
 		<phrase hz="伎俩" py="jì,liǎng" />
 	</char>
-	<char hz="技" py="jì">
-		<phrase hz="一技之长" py="yí,jì,zhī,cháng" />
-	</char>
+	<char hz="技" py="jì" />
 	<char hz="芰" py="jì" />
 	<char hz="妓" py="jì" />
 	<char hz="系" py="jì" multi="xì">

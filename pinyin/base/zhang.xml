@@ -20,18 +20,51 @@
 		<phrase hz="蟑螂" py="zhāng,láng" />
 	</char>
 	<char hz="长" py="zhǎng" multi="cháng">
-		<phrase hz="长疮" py="zhǎng,chuāng" />
-		<phrase hz="长见识" py="zhǎng,jiàn,shi" />
-		<phrase hz="增长" py="zēng,zhǎng" />
-		<phrase hz="长兄" py="zhǎng,xiōng" />
-		<phrase hz="长孙" py="zhǎng,sūn" />
-		<phrase hz="长子" py="zhǎng,zǐ" />
-		<phrase hz="师长" py="shī,zhǎng" />
-		<phrase hz="长者" py="zhǎng,zhě" />
-		<phrase hz="长辈" py="zhǎng,bèi" />
-		<phrase hz="学长" py="xué,zhǎng" />
+		<phrase hz="班长" py="bān,zhǎng" />
 		<phrase hz="部长" py="bù,zhǎng" />
+		<phrase hz="厂长" py="chǎng,zhǎng" />
+		<phrase hz="成长" py="chéng,zhǎng" />
+		<phrase hz="队长" py="duì,zhǎng" />
+		<phrase hz="连长" py="lián,zhǎng" />
+		<phrase hz="旅长" py="lǚ,zhǎng" />
+		<phrase hz="年长" py="nián,zhǎng" />
+		<phrase hz="家长" py="jiā,zhǎng" />
+		<phrase hz="军长" py="jūn,zhǎng" />
+		<phrase hz="排长" py="pái,zhǎng" />
+		<phrase hz="生长" py="shēng,zhǎng" />
+		<phrase hz="师长" py="shī,zhǎng" />
+		<phrase hz="首长" py="shǒu,zhǎng" />
+		<phrase hz="所长" py="suǒ,zhǎng" />
+		<phrase hz="团长" py="tuán,zhǎng" />
 		<phrase hz="校长" py="xiào,zhǎng" />
+		<phrase hz="乡长" py="xiāng,zhǎng" />
+		<phrase hz="兄长" py="xiōng,zhǎng" />
+		<phrase hz="学长" py="xué,zhǎng" />
+		<phrase hz="营长" py="yíng,zhǎng" />
+		<phrase hz="增长" py="zēng,zhǎng" />
+		<phrase hz="长辈" py="zhǎng,bèi" />
+		<phrase hz="长疮" py="zhǎng,chuāng" />
+		<phrase hz="长房" py="zhǎng,fáng" />
+		<phrase hz="长官" py="zhǎng,guān" />
+		<phrase hz="长公主" py="zhǎng,gōng,zhǔ" />
+		<phrase hz="长机" py="zhǎng,jī" info="编队飞行中，率领、指挥机群或僚机执行任务的战斗机。也叫主机。" />
+		<phrase hz="长见识" py="zhǎng,jiàn,shi" />
+		<phrase hz="长老" py="zhǎng,lǎo" />
+		<phrase hz="长男" py="zhǎng,nán" />
+		<phrase hz="长上" py="zhǎng,shàng" info="对老年人或长辈的敬称" />
+		<phrase hz="长势" py="zhǎng,shì" info="（植物）生长的状况。" />
+		<phrase hz="长史" py="zhǎng,shǐ" info="官名。秦置。西汉时丞相、太尉、御史大夫属官均设长史,后历代相沿" />
+		<phrase hz="长孙" py="zhǎng,sūn" />
+		<phrase hz="长他人志气" py="zhǎng,tā,rén,zhì,qì" />
+		<phrase hz="长相" py="zhǎng,xiàng" />
+		<phrase hz="长兄" py="zhǎng,xiōng" />
+		<phrase hz="长一智" py="zhǎng,yī,zhì" info="吃一堑，长一智" />
+		<phrase hz="长幼" py="zhǎng,yòu" />
+		<phrase hz="长者" py="zhǎng,zhě" />
+		<phrase hz="长志气" py="zhǎng,zhì,qì" />
+		<phrase hz="长子" py="zhǎng,zǐ" />
+		<phrase hz="助长" py="zhù,zhǎng" />
+		<phrase hz="滋长" py="zī,zhǎng" />
 		<definition id="二">
 			<item id="1" text="生，发育：~疮. 庄稼~得很旺." />
 			<item id="2" text="增加：~见识. 在实践中增~才干." />
