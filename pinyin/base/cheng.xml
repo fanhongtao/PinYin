@@ -4,6 +4,48 @@
 	<char hz="蛏" py="chēng" />
 	<char hz="琤" py="chēng" />
 	<char hz="称" py="chēng" multi="chèn,chèng" main="1">
+		<phrase hz="爱称" py="ài,chēng" />
+		<phrase hz="贬称" py="biǎn,chēng" />
+		<phrase hz="别称" py="bié,chēng" />
+		<phrase hz="称霸" py="chēng,bà" />
+		<phrase hz="称兵" py="chēng,bīng" />
+		<phrase hz="称病" py="chēng,bìng" />
+		<phrase hz="称道" py="chēng,dào" />
+		<phrase hz="称贷" py="chēng,dài" />
+		<phrase hz="称孤道寡" py="chēng,gū,dào,guǎ" />
+		<phrase hz="称号" py="chēng,hào" />
+		<phrase hz="称贺" py="chēng,hè" />
+		<phrase hz="称呼" py="chēng,hū" />
+		<phrase hz="称快" py="chēng,kuài" />
+		<phrase hz="称说" py="chēng,shuō" />
+		<phrase hz="称颂" py="chēng,sòng" />
+		<phrase hz="称谓" py="chēng,wèi" />
+		<phrase hz="称王称霸" py="chēng,wáng,chēng,bà" />
+		<phrase hz="称兄道弟" py="chēng,xiōng,dào,dì" />
+		<phrase hz="称雄" py="chēng,xióng" />
+		<phrase hz="称许" py="chēng,xǔ" />
+		<phrase hz="称扬" py="chēng,yáng" />
+		<phrase hz="称引" py="chēng,yǐn" />
+		<phrase hz="称誉" py="chēng,yù" />
+		<phrase hz="称赞" py="chēng,zàn" />
+		<phrase hz="改称" py="gǎi,chēng" />
+		<phrase hz="号称" py="hào,chēng" />
+		<phrase hz="简称" py="jiǎn,chēng" />
+		<phrase hz="堪称" py="kān,chēng" />
+		<phrase hz="口称" py="kǒu,chēng" />
+		<phrase hz="略称" py="lüè,chēng" />
+		<phrase hz="冒称" py="mào,chēng" />
+		<phrase hz="美称" py="měi,chēng" />
+		<phrase hz="名称" py="míng,chēng" />
+		<phrase hz="昵称" py="nì,chēng" />
+		<phrase hz="谦称" py="qiān,chēng" />
+		<phrase hz="人称" py="rén,chēng" />
+		<phrase hz="俗称" py="sú,chēng" />
+		<phrase hz="统称" py="tǒng,chēng" />
+		<phrase hz="妄称" py="wàng,chēng" />
+		<phrase hz="自称" py="zì,chēng" />
+		<phrase hz="总称" py="zǒng,chēng" />
+		<phrase hz="尊称" py="zūn,chēng" />
 		<definition id="一">
 			<item id="1" text="量轻重：把这包米~-~." />
 			<item id="2" text="叫，叫作：自~. ~得起英雄." />
@@ -44,8 +86,8 @@
 	<char hz="酲" py="chéng" />
 	<char hz="枨" py="chéng" />
 	<char hz="承" py="chéng">
-		<phrase hz="承应" py="chéng,yìng" />
 		<phrase hz="承教" py="chéng,jiào" />
+		<phrase hz="承应" py="chéng,yìng" />
 	</char>
 	<char hz="乘" py="chéng" multi="shèng" main="1">
 		<definition id="一">
