@@ -19,6 +19,7 @@
 	</char>
 	<char hz="朝" py="zhāo" multi="cháo">
 		<phrase hz="今朝" py="jīn,zhāo" />
+		<!-- <phrase hz="明朝" py="míng,zhāo" duoyin="míng,cháo" info="明天。" /> -->
 		<phrase hz="一朝" py="yī,zhāo" />
 		<phrase hz="朝不保暮" py="zhāo,bù,bǎo,mù" />
 		<phrase hz="朝发夕至" py="zhāo,fā,xī,zhì" />
@@ -37,7 +38,7 @@
 		<phrase hz="朝闻夕死" py="zhāo,wén,xī,sǐ" />
 		<phrase hz="朝夕" py="zhāo,xī" />
 		<phrase hz="朝霞" py="zhāo,xiá" />
-		<phrase hz="朝阳" py="zhāo,yáng" info="早晨刚刚升起的太阳。如果意为“向着太阳”，则发音为“cháo,yáng”" />
+		<phrase hz="朝阳" py="zhāo,yáng" duoyin="cháo,yáng" info="早晨刚刚升起的太阳。" />
 		<phrase hz="朝朝暮暮" py="zhāo,zhāo,mù,mù" />
 		<phrase hz="朝钟暮鼓" py="zhāo,zhōng,mù,gǔ" />
 		<phrase hz="只争朝夕" py="zhǐ,zhēng,zhāo,xī" />

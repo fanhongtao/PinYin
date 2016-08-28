@@ -53,6 +53,7 @@
 		<phrase hz="朝廷" py="cháo,tíng" />
 		<phrase hz="朝鲜" py="cháo,xiǎn" />
 		<phrase hz="朝向" py="cháo,xiàng" />
+		<!-- <phrase hz="朝阳" py="cháo,yáng" duoyin="zhāo,yáng" info="向着太阳。" /> -->
 		<phrase hz="朝阳区" py="cháo,yáng,qū" info="朝阳区位于北京市的东部" />
 		<phrase hz="朝阳群众" py="cháo,yáng,qún,zhòng" info="北京朝阳区的居民h" />
 		<phrase hz="朝野" py="cháo,yě" />
@@ -68,7 +69,7 @@
 		<phrase hz="回朝" py="huí,cháo" />
 		<phrase hz="金朝" py="jīn,cháo" />
 		<phrase hz="晋朝" py="jìn,cháo" info="公元265-420年" />
-		<phrase hz="明朝" py="míng,cháo" info="公元1368-1644年。 如果意为“明天”，则发音为“míng,zhāo”" />
+		<phrase hz="明朝" py="míng,cháo" duoyin="míng,zhāo" info="公元1368-1644年。" />
 		<phrase hz="历朝" py="lì,cháo" info="所经过的各帝王或朝代" />
 		<phrase hz="辽朝" py="liáo,cháo" info="916年-1125年" />
 		<phrase hz="六朝" py="liù,cháo" />
