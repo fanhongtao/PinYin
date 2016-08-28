@@ -29,6 +29,7 @@
 	<char hz="眚" py="shěng" />
 	<char hz="圣" py="shèng" />
 	<char hz="胜" py="shèng" multi="shēng" main="1">
+		<phrase hz="哀兵必胜" py="āi,bīng,bì,shèng" />
 		<definition id="一">
 			<item id="1" text="赢，胜利，跟“败”相对：打~仗. 得~." />
 			<item id="2" text="打败（对方）：以少~多." />
@@ -40,6 +41,49 @@
 	</char>
 	<char hz="晟" py="shèng" />
 	<char hz="盛" py="shèng" multi="chéng" main="1">
+		<phrase hz="昌盛" py="chāng,shèng" />
+		<phrase hz="鼎盛" py="dǐng,shèng" />
+		<phrase hz="繁盛" py="fán,shèng" />
+		<phrase hz="丰盛" py="fēng,shèng" />
+		<phrase hz="阜盛" py="fù,shèng" />
+		<phrase hz="很盛" py="hěn,shèng" info="自定义词" />
+		<phrase hz="隆盛" py="lóng,shèng" />
+		<phrase hz="茂盛" py="mào,shèng" />
+		<phrase hz="气盛" py="qì,shèng" />
+		<phrase hz="强盛" py="qiáng,shèng" />
+		<phrase hz="全盛" py="quán,shèng" />
+		<phrase hz="盛产" py="shèng,chǎn" />
+		<phrase hz="盛传" py="shèng,chuán" />
+		<phrase hz="盛大" py="shèng,dà" />
+		<phrase hz="盛德" py="shèng,dé" />
+		<phrase hz="盛典" py="shèng,diǎn" />
+		<phrase hz="盛冬" py="shèng,dōng" />
+		<phrase hz="盛极一时" py="shèng,jí,yī,shí" />
+		<phrase hz="盛京" py="shèng,jīng" info="清朝的留都。即今沈阳。" />
+		<phrase hz="盛举" py="shèng,jǔ" />
+		<phrase hz="盛会" py="shèng,huì" />
+		<phrase hz="盛开" py="shèng,kāi" />
+		<phrase hz="盛况" py="shèng,kuàng" />
+		<phrase hz="盛名" py="shèng,míng" />
+		<phrase hz="盛年" py="shèng,nián" />
+		<phrase hz="盛怒" py="shèng,nù" />
+		<phrase hz="盛气" py="shèng,qì" />
+		<phrase hz="盛情" py="shèng,qíng" />
+		<phrase hz="盛事" py="shèng,shì" />
+		<phrase hz="盛世" py="shèng,shì" />
+		<phrase hz="盛暑" py="shèng,shǔ" />
+		<phrase hz="盛衰" py="shèng,shuāi" />
+		<phrase hz="盛田昭夫" py="shèng,tián,zhāo,fū" info="日本索尼公司创始人" />
+		<phrase hz="盛夏" py="shèng,xià" />
+		<phrase hz="盛行" py="shèng,xíng" />
+		<phrase hz="盛筵" py="shèng,yán" />
+		<phrase hz="盛宴" py="shèng,yàn" />
+		<phrase hz="盛意" py="shèng,yì" />
+		<phrase hz="盛誉" py="shèng,yù" />
+		<phrase hz="盛赞" py="shèng,zàn" />
+		<phrase hz="盛装" py="shèng,zhuāng" />
+		<phrase hz="旺盛" py="wàng,shèng" />
+		<phrase hz="兴盛" py="xīng,shèng" />
 		<definition id="一">
 			<item id="1" text="兴旺：旺~. 茂~. 繁荣昌~. 梅花~开." />
 			<item id="2" text="炽烈：年轻气~. 火势很~." />
@@ -50,8 +94,12 @@
 		</definition>
 	</char>
 	<char hz="乘" py="shèng" multi="chéng">
-		<phrase hz="史乘" py="shǐ,shèng" />
 		<phrase hz="千乘之国" py="qiān,shèng,zhī,guó" />
+		<phrase hz="千乘万骑" py="qiān,shèng,wàn,jì" />
+		<!-- <phrase hz="上乘" py="shàng,shèng" duoyin="shàng,chéng" info="四马共驾一车 或 上等的好马。" /> -->
+		<phrase hz="史乘" py="shǐ,shèng" />
+		<phrase hz="万乘" py="wàn,shèng" info="指天子。周制,天子地方千里,出兵车万乘,诸侯地方百里,出兵车千乘,故称天子为“万乘”" />
+		<phrase hz="野乘" py="yě,shèng" info="野史" />
 		<definition id="二">
 			<item id="1" text="春秋时晋国的史书叫乘，后因称一般的史书为乘：史~." />
 			<item id="2" text="量词，古代用于四匹马拉的兵车：千~之国." />
