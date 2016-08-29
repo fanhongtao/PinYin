@@ -1,6 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="冲" py="chōng" multi="chòng" main="1">
+		<phrase hz="冲茶" py="chōng,chá" />
+		<phrase hz="冲冲" py="chōng,chōng" info="情绪激动、高涨的样子" />
+		<phrase hz="冲刺" py="chōng,cì" />
+		<phrase hz="冲淡" py="chōng,dàn" />
+		<phrase hz="冲动" py="chōng,dòng" />
+		<phrase hz="冲犯" py="chōng,fàn" />
+		<phrase hz="冲锋" py="chōng,fēng" />
+		<phrase hz="冲服" py="chōng,fú" />
+		<phrase hz="冲击" py="chōng,jī" />
+		<phrase hz="冲积" py="chōng,jī" />
+		<phrase hz="冲剂" py="chōng,jì" />
+		<phrase hz="冲决" py="chōng,jué" info="反复冲刷，形成决口" />
+		<phrase hz="冲浪" py="chōng,làng" />
+		<phrase hz="冲力" py="chōng,lì" />
+		<phrase hz="冲凉" py="chōng,liáng" info="〈方〉洗澡" />
+		<phrase hz="冲量" py="chōng,liàng" info="作用在物体上的力和作用时间的乘积。" />
+		<phrase hz="冲破" py="chōng,pò" />
+		<phrase hz="冲入" py="chōng,rù" />
+		<phrase hz="冲散" py="chōng,sàn" />
+		<phrase hz="冲刷" py="chōng,shuā" />
+		<phrase hz="冲腾" py="chōng,téng" />
+		<phrase hz="冲天" py="chōng,tiān" />
+		<phrase hz="冲突" py="chōng,tū" />
+		<phrase hz="冲喜" py="chōng,xǐ" />
+		<phrase hz="冲洗" py="chōng,xǐ" />
+		<phrase hz="冲销" py="chōng,xiāo" />
+		<phrase hz="冲要" py="chōng,yào" info="军事上或交通上重要的地方。同“要冲”" />
+		<phrase hz="冲账" py="chōng,zhàng" />
+		<phrase hz="冲撞" py="chōng,zhuàng" />
+		<phrase hz="俯冲" py="fǔ,chōng" />
+		<phrase hz="横冲直撞" py="héng,chōng,zhí,zhuàng" />
+		<phrase hz="缓冲" py="huǎn,chōng" />
+		<phrase hz="回冲" py="huí,chōng" info="被冲击或被抛到后面的水或波浪的运动" />
+		<phrase hz="脉冲" py="mài,chōng" info="电流、电压或某些其他物理量的瞬态改变" />
+		<phrase hz="蒙冲" py="méng,chōng" info="一种古代战船" />
+		<phrase hz="首当其冲" py="shǒu,dāng,qí,chōng" />
+		<phrase hz="要冲" py="yào,chōng" />
+		<phrase hz="折冲" py="zhé,chōng" info="克敌制胜" />
 		<definition id="一">
 			<item id="1" text="用开水等浇，水流撞击：~茶. 用水~服. 这道堤不怕水~. [冲淡]加多液体，降低浓度。(喻)使某种效果、气氛等减弱。" />
 			<item id="2" text="向上钻：~入云霄." />
@@ -25,13 +63,73 @@
 		</definition>
 	</char>
 	<char hz="重" py="chóng" multi="zhòng">
+		<phrase hz="重版" py="chóng,bǎn" />
+		<phrase hz="重播" py="chóng,bō" />
+		<phrase hz="重操旧业" py="chóng,cāo,jiù,yè" />
+		<phrase hz="重茬" py="chóng,chá" info="连作。" />
+		<phrase hz="重唱" py="chóng,chàng" />
+		<phrase hz="重重" py="chóng,chóng" />
+		<phrase hz="重出" py="chóng,chū" />
+		<phrase hz="重蹈覆辙" py="chóng,dǎo,fù,zhé" />
+		<phrase hz="重叠" py="chóng,dié" />
+		<phrase hz="重迭" py="chóng,dié" />
+		<phrase hz="重读" py="chóng,dú" duoyin="zhòng,dú" info="重新再读" />
+		<phrase hz="重返" py="chóng,fǎn" />
+		<phrase hz="重犯" py="chóng,fàn" duoyin="zhòng,fàn" info="第二次犯罪或出错" />
+		<phrase hz="重逢" py="chóng,féng" />
 		<phrase hz="重复" py="chóng,fù" />
-		<phrase hz="重游" py="chóng,yóu" />
-		<phrase hz="重整旗鼓" py="chóng,zhěng,qí,gǔ" />
-		<phrase hz="重来" py="chóng,lái" />
-		<phrase hz="重阳" py="chóng,yáng" />
+		<phrase hz="重规" py="chóng,guī" info="自定义词。如：重规迭矩、重规袭矩、重规累矩" />
+		<phrase hz="重合" py="chóng,hé" />
+		<phrase hz="重婚" py="chóng,hūn" />
+		<phrase hz="重茧" py="chóng,jiǎn" info="1.厚的丝棉衣。2.同“重趼”" />
+		<phrase hz="重趼" py="chóng,jiǎn" info="手上脚上磨的厚趼子。" />
+		<phrase hz="重建" py="chóng,jiàn" />
+		<phrase hz="重见天日" py="chóng,jiàn,tiān,rì" />
+		<phrase hz="重结晶" py="chóng,jié,jīng" info="已生成的晶体重新溶解（或熔融），然后从溶液（或熔体）中重新析出而再呈结晶状态的过程。" />
 		<phrase hz="重九" py="chóng,jiǔ" />
+		<phrase hz="重聚" py="chóng,jù" />
+		<phrase hz="重来" py="chóng,lái" />
+		<phrase hz="重楼" py="chóng,lóu" info="道教语。喉咙的别名" />
+		<phrase hz="重峦迭嶂" py="chóng,luán,dié,zhàng" />
+		<phrase hz="重名" py="chóng,míng" duoyin="zhòng,míng" info="同名" />
+		<phrase hz="重拍" py="chóng,pāi" />
+		<phrase hz="重庆" py="chóng,qìng" />
+		<phrase hz="重三迭四" py="chóng,sān,dié,sì" />
+		<phrase hz="重申" py="chóng,shēn" />
+		<phrase hz="重审" py="chóng,shěn" />
+		<phrase hz="重生" py="chóng,shēng" />
+		<phrase hz="重施故伎" py="chóng,shī,gù,jì" />
+		<phrase hz="重述" py="chóng,shù" />
+		<phrase hz="重孙" py="chóng,sūn" />
+		<phrase hz="重起炉灶" py="chóng,qǐ,lú,zào" />
+		<phrase hz="重沓" py="chóng,tà" info="1.重复繁冗; 2.重叠堆积" />
+		<phrase hz="重弹" py="chóng,tán" />
+		<phrase hz="重提" py="chóng,tí" />
+		<phrase hz="重围" py="chóng,wéi" />
+		<phrase hz="重温" py="chóng,wēn" />
+		<phrase hz="重现" py="chóng,xiàn" />
+		<phrase hz="重霄" py="chóng,xiāo" info="指极高的天空。古代传说天有九重。也叫“九重霄”" />
+		<phrase hz="重新" py="chóng,xīn" />
+		<phrase hz="重修" py="chóng,xiū" />
+		<phrase hz="重言" py="chóng,yán" info="修辞方式。重叠单字，借以加强描写效果。" />
+		<phrase hz="重演" py="chóng,yǎn" />
+		<phrase hz="重阳" py="chóng,yáng" />
+		<phrase hz="重洋" py="chóng,yáng" />
+		<phrase hz="重译" py="chóng,yì" />
+		<phrase hz="重茵" py="chóng,yīn" info="厚而软的坐褥。" />
+		<phrase hz="重映" py="chóng,yìng" />
+		<phrase hz="重游" py="chóng,yóu" />
+		<phrase hz="重渊" py="chóng,yuān" info="水深的地方。" />
+		<phrase hz="重张" py="chóng,zhāng" info="指商店重新开业。" />
+		<phrase hz="重振旗鼓" py="chóng,zhèn,qí,gǔ" />
+		<phrase hz="重整旗鼓" py="chóng,zhěng,qí,gǔ" />
+		<phrase hz="重置" py="chóng,zhì" />
+		<phrase hz="重奏" py="chóng,zòu" info="两个或两个以上的人，各按所担任的声部同时用不同的乐器或同一种乐器演奏同一乐曲。" />
+		<phrase hz="重足而立" py="chóng,zú,ér,lì" info="两脚叠起，不敢迈步。" />
+		<phrase hz="重组" py="chóng,zǔ" info="重新组合。" />
+		<phrase hz="重作冯妇" py="chóng,zuò,féng,fù" />
 		<phrase hz="双重" py="shuāng,chóng" />
+		<phrase hz="万重山" py="wàn,chóng,shān" />
 		<definition id="二">
 			<item id="1" text="重复，再：书买~了. 旧地~游. ~整旗鼓. ~来一次. [重阳][重九]夏历九月九日。是我国传统节日。" />
 			<item id="2" text="层：双~领导. ~~围住." />
@@ -40,8 +138,10 @@
 	<char hz="崇" py="chóng" />
 	<char hz="宠" py="chǒng" />
 	<char hz="冲" py="chòng" multi="chōng">
-		<phrase hz="冲着" py="chòng,zhe" />
+		<phrase hz="冲床" py="chòng,chuáng" />
 		<phrase hz="冲劲" py="chòng,jìn" />
+		<phrase hz="冲模" py="chòng,jìn" />
+		<phrase hz="冲着" py="chòng,zhe" />
 		<definition id="二">
 			<item id="1" text="对着，向：~南的大门. 别~着我说." />
 			<item id="2" text="猛烈：这小伙子有股~劲儿. 水流得真~. 大蒜气味~." />

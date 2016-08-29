@@ -25,6 +25,71 @@
 	<char hz="螽" py="zhōng" />
 	<char hz="肿" py="zhǒng" />
 	<char hz="种" py="zhǒng" multi="chóng,zhòng" main="1">
+		<phrase hz="白种" py="bái,zhǒng" />
+		<phrase hz="拌种" py="bàn,zhǒng" info="将杀菌剂、杀虫剂或刺激素等拌入种子(后进行播种)" />
+		<phrase hz="变种" py="biàn,zhǒng" />
+		<phrase hz="兵种" py="bīng,zhǒng" />
+		<phrase hz="播种" py="bō,zhǒng" duoyin="bō,zhòng" info="把种子植入土中" />
+		<phrase hz="采种" py="chuán,zhǒng" info="采集种子" />
+		<phrase hz="传种" py="chuán,zhǒng" />
+		<phrase hz="纯种" py="chún,zhǒng" />
+		<phrase hz="刀耕火种" py="dāo,gēng,huǒ,zhòng" />
+		<phrase hz="各种" py="gè,zhǒng" />
+		<phrase hz="工种" py="gōng,zhǒng" />
+		<phrase hz="黑种" py="hēi,zhǒng" />
+		<phrase hz="黄种" py="huáng,zhǒng" />
+		<phrase hz="火种" py="huǒ,zhǒng" />
+		<phrase hz="祸种" py="huò,zhǒng" />
+		<phrase hz="警种" py="jǐng,zhǒng" />
+		<phrase hz="剧种" py="jù,zhǒng" />
+		<phrase hz="绝种" py="jué,zhǒng" />
+		<phrase hz="军种" py="jūn,zhǒng" />
+		<phrase hz="良种" py="liáng,zhǒng" />
+		<phrase hz="劣种" py="liè,zhǒng" />
+		<phrase hz="留种" py="liú,zhǒng" />
+		<phrase hz="龙种" py="lóng,zhǒng" />
+		<phrase hz="龙生九种" py="lóng,shēng,jiǔ,zhǒng" info="比喻同胞兄弟品质、爱好各不相同。" />
+		<phrase hz="名种" py="míng,zhǒng" />
+		<phrase hz="谬种" py="miù,zhǒng" />
+		<phrase hz="孬种" py="nāo,zhǒng" />
+		<phrase hz="孽种" py="niè,zhǒng" />
+		<phrase hz="配种" py="pèi,zhǒng" />
+		<phrase hz="品种" py="pǐn,zhǒng" />
+		<phrase hz="情种" py="qíng,zhǒng" />
+		<phrase hz="人种" py="rén,zhǒng" />
+		<phrase hz="书种" py="shū,zhǒng" />
+		<phrase hz="树种" py="shù,zhǒng" />
+		<phrase hz="税种" py="shuì,zhǒng" />
+		<phrase hz="特种" py="tè,zhǒng" />
+		<phrase hz="同种" py="tóng,zhǒng" />
+		<phrase hz="物种" py="wù,zhǒng" />
+		<phrase hz="选种" py="xuǎn,zhǒng" />
+		<phrase hz="亚种" py="yà,zhǒng" />
+		<phrase hz="野种" py="yě,zhǒng" />
+		<phrase hz="业种" py="yè,zhǒng" />
+		<phrase hz="一种" py="yī,zhǒng" />
+		<phrase hz="异种" py="yì,zhǒng" />
+		<phrase hz="引种" py="yǐn,zhǒng" />
+		<phrase hz="有种" py="yǒu,zhǒng" />
+		<phrase hz="语种" py="yǔ,zhǒng" />
+		<phrase hz="育种" py="yù,zhǒng" />
+		<phrase hz="杂种" py="zá,zhǒng" />
+		<phrase hz="种别" py="zhǒng,bié" />
+		<phrase hz="种差" py="zhǒng,chā" info="把隶属一个更一般的概念的某个类区别出来的标志或属性" />
+		<phrase hz="种畜" py="zhǒng,chù" />
+		<phrase hz="种蛋" py="zhǒng,dàn" info="可用于孵育繁衍幼禽的各种禽蛋" />
+		<phrase hz="种类" py="zhǒng,lèi" />
+		<phrase hz="种块" py="zhǒng,kuài" info="植物繁殖时,从根或茎中择取作种的部分" />
+		<phrase hz="种马" py="zhǒng,mǎ" info="专门为配种而饲养的公马" />
+		<phrase hz="种禽" py="zhǒng,qín" info="配种用的雄性家禽" />
+		<phrase hz="种群" py="zhǒng,qún" info="指生活在同一地点、属于同一物种的生物群" />
+		<phrase hz="种系" py="zhǒng,xì" info="假定有共同起源的关系密切的一小群物种" />
+		<phrase hz="种姓" py="zhǒng,xìng" />
+		<phrase hz="种玉蓝田" py="zhǒng,yù,lán,tián" info="原指杨伯雍在蓝田的无终山种出玉来，得到美好的婚配。后用来比喻男女获得了称心如意的美好姻缘。" />
+		<phrase hz="种种" py="zhǒng,zhǒng" />
+		<phrase hz="种子" py="zhǒng,zi" />
+		<phrase hz="种族" py="zhǒng,zú" />
+		<phrase hz="籽种" py="zǐ,zhǒng" info="〈方〉种子" />
 		<definition id="一">
 			<item id="1" text="（-子、-儿）植物果实中能长(zhǎng)成新植物的部分：选~. 撒~. 泛指生物传代的东西：配~. 优良品~. [有种]有胆量或有骨气。" />
 			<item id="2" text="人种，具有共同起源和共同遗传特征的人群：黄~. 白~. ~族." />
@@ -36,11 +101,11 @@
 	<char hz="冢" py="zhǒng" />
 	<char hz="踵" py="zhǒng" />
 	<char hz="中" py="zhòng" multi="zhōng">
-		<phrase hz="中肯" py="zhòng,kěn" />
-		<phrase hz="中要害" py="zhòng,yào,hài" />
-		<phrase hz="中毒" py="zhòng,dú" />
-		<phrase hz="中暑" py="zhòng,shǔ" />
 		<phrase hz="中弹" py="zhòng,dàn" />
+		<phrase hz="中毒" py="zhòng,dú" />
+		<phrase hz="中肯" py="zhòng,kěn" />
+		<phrase hz="中暑" py="zhòng,shǔ" />
+		<phrase hz="中要害" py="zhòng,yào,hài" />
 		<definition id="二">
 			<item id="1" text="正对上，恰好合上：~的(dì). ~肯. ~要害." />
 			<item id="2" text="感受，受到：~毒. ~暑. ~弹(dàn)." />
@@ -48,15 +113,152 @@
 	</char>
 	<char hz="仲" py="zhòng" />
 	<char hz="种" py="zhòng" multi="chóng,zhǒng">
-		<phrase hz="种庄稼" py="zhòng,zhuāng,jia" />
-		<phrase hz="种瓜得瓜" py="zhòng,guā,dé,guā" />
+		<!-- <phrase hz="播种" py="bō,zhòng" duoyin="bō,zhǒng" info="用播种(zhǒng)的方式种植。" /> -->
+		<phrase hz="补种" py="bǔ,zhòng" info="在出现缺苗的农作物中,重新种植" />
+		<phrase hz="春种" py="chūn,zhòng" info="春天种植" />
+		<phrase hz="耕种" py="gēng,zhòng" />
+		<phrase hz="伙种" py="huǒ,zhòng" info="伙耕" />
+		<phrase hz="家种" py="jiā,zhòng" info="人工培植;自家种植的" />
+		<phrase hz="间种" py="jiàn,zhòng" info="在同一块地同一生长 季或同一时间生长二种或二种以上的作物" />
+		<phrase hz="接种" py="jiē,zhòng" info="注射疫苗以预防疾病" />
+		<phrase hz="垦种" py="kěn,zhòng" info="开垦种植" />
+		<phrase hz="轮种" py="lún,zhòng" info="轮换种植" />
+		<phrase hz="芒种" py="máng,zhòng" info="二十四节气之一,在6月5、6或7日" />
+		<phrase hz="抢种" py="qiǎng,zhòng" info="抢时间突击种植" />
+		<phrase hz="试种" py="shì,zhòng" info="试验性地种植,以检验某个新品种的生长情况" />
+		<phrase hz="栽种" py="zāi,zhòng" />
+		<phrase hz="种菜" py="zhòng,cài" />
+		<phrase hz="种地" py="zhòng,dì" />
+		<phrase hz="种痘" py="zhòng,dòu" info="把痘苗接种在人体上,使人体对天花产生免疫作用" />
 		<phrase hz="种豆得豆" py="zhòng,dòu,dé,dòu" />
+		<phrase hz="种瓜得瓜" py="zhòng,guā,dé,guā" />
+		<phrase hz="种花" py="zhòng,huā" />
+		<phrase hz="种民" py="zhòng,mín" info="佃民,租田种的人" />
+		<phrase hz="种牛痘" py="zhòng,niú,dòu" info="把痘苗接种在人体上,使人体对天花产生免疫作用" />
+		<phrase hz="种田" py="zhòng,tián" />
+		<phrase hz="种庄稼" py="zhòng,zhuāng,jia" />
+		<phrase hz="种植" py="zhòng,zhí" />
 		<definition id="二">
 			<item text="种植，把种子或幼苗等埋在泥土里使生长：~庄稼. ~瓜得瓜，~豆得豆." />
 		</definition>
 	</char>
 	<char hz="众" py="zhòng" />
 	<char hz="重" py="zhòng" multi="chóng" main="1">
+		<phrase hz="爱重" py="ài,zhòng" info="喜爱重视" />
+		<phrase hz="保重" py="bǎo,zhòng" />
+		<phrase hz="笨重" py="bèn,zhòng" />
+		<phrase hz="比重" py="bǐ,zhòng" />
+		<phrase hz="并重" py="bìng,zhòng" />
+		<phrase hz="病重" py="bìng,zhòng" />
+		<phrase hz="惨重" py="cǎn,zhòng" />
+		<phrase hz="侧重" py="cè,zhòng" />
+		<phrase hz="超重" py="chāo,zhòng" />
+		<phrase hz="沉重" py="chén,zhòng" />
+		<phrase hz="承重" py="chéng,zhòng" />
+		<phrase hz="吃重" py="chī,zhòng" />
+		<phrase hz="持重" py="chí,zhòng" />
+		<phrase hz="粗重" py="cū,zhòng" />
+		<phrase hz="繁重" py="fán,zhòng" />
+		<phrase hz="负重" py="fù,zhòng" />
+		<phrase hz="高爵重禄" py="gāo,jué,zhòng,lù" />
+		<phrase hz="贵重" py="guì,zhòng" />
+		<phrase hz="过重" py="guò,zhòng" />
+		<phrase hz="厚重" py="hòu,zhòng" />
+		<phrase hz="借重" py="jiè,zhòng" />
+		<phrase hz="净重" py="jìng,zhòng" />
+		<phrase hz="敬重" py="jìng,zhòng" />
+		<phrase hz="举重" py="jǔ,zhòng" />
+		<phrase hz="看重" py="kàn,zhòng" />
+		<phrase hz="苛重" py="kàn,zhòng" info="[捐税等]苛刻繁重" />
+		<phrase hz="口重" py="kǒu,zhòng" info="指人爱吃咸一点的味道" />
+		<phrase hz="隆重" py="lóng,zhòng" />
+		<phrase hz="毛重" py="máo,zhòng" />
+		<phrase hz="拈轻怕重" py="niān,qīng,pà,zhòng" />
+		<phrase hz="凝重" py="níng,zhòng" />
+		<phrase hz="浓重" py="nóng,zhòng" />
+		<phrase hz="稳重" py="wěn,zhòng" />
+		<phrase hz="皮重" py="pí,zhòng" info="空车或空容器法定的重量" />
+		<phrase hz="配重" py="pèi,zhòng" />
+		<phrase hz="偏重" py="piān,zhòng" />
+		<phrase hz="器重" py="qì,zhòng" />
+		<phrase hz="轻重" py="qīng,zhòng" />
+		<phrase hz="情深义重" py="qíng,shēn,yì,zhòng" />
+		<phrase hz="任重" py="rèn,zhòng" />
+		<phrase hz="深重" py="shēn,zhòng" />
+		<phrase hz="身重" py="shēn,zhòng" info="1.有身孕;2.中医称感觉肢体沉重,行动不便的症状" />
+		<phrase hz="慎重" py="shèn,zhòng" />
+		<phrase hz="失重" py="shī,zhòng" info=" 物体向地心方向作加速运动或是远离地球,使所受的地心引力减小而失去重量的现象" />
+		<phrase hz="体重" py="tǐ,zhòng" />
+		<phrase hz="头重" py="tóu,zhòng" info="病症名。指头部自觉重坠或如被捆裹的感觉" />
+		<phrase hz="推重" py="tuī,zhòng" info="对某人的思想、行为、成就等给予很高的评价，表示十分重视" />
+		<phrase hz="望重" py="wàng,zhòng" info="自定义词。如：德高望重" />
+		<phrase hz="危重" py="wēi,zhòng" />
+		<phrase hz="严重" py="yán,zhòng" />
+		<phrase hz="言重" py="yán,zhòng" info="话说得过重" />
+		<phrase hz="语重心长" py="yǔ,zhòng,xīn,cháng" />
+		<phrase hz="载重" py="zài,zhòng" />
+		<phrase hz="珍重" py="zhēn,zhòng" />
+		<phrase hz="郑重" py="zhèng,zhòng" />
+		<phrase hz="重宝" py="zhòng,bǎo" />
+		<phrase hz="重兵" py="zhòng,bīng" />
+		<phrase hz="重彩" py="zhòng,cǎi" info="中国画设色的一种技法" />
+		<phrase hz="重臣" py="zhòng,chén" />
+		<phrase hz="重处" py="zhòng,chǔ" info="从重处罚" />
+		<phrase hz="重创" py="zhòng,chuāng" />
+		<phrase hz="重大" py="zhòng,dà" />
+		<phrase hz="重担" py="zhòng,dàn" />
+		<phrase hz="重地" py="zhòng,dì" />
+		<phrase hz="重点" py="zhòng,diǎn" />
+		<!-- <phrase hz="重读" py="zhòng,dú" duoyin="chóng,dú" info="把一个词或词组里的某个音节或语句里的某几个音节读得重些、强些" /> -->
+		<phrase hz="重罚" py="zhòng,fá" />
+		<!-- <phrase hz="重犯" py="zhòng,fàn" duoyin="chóng,fàn" info="犯有严重罪行的犯人;重要的罪犯" /> -->
+		<phrase hz="重负" py="zhòng,fù" info="繁重的负荷" />
+		<phrase hz="重工业" py="zhòng,gōng,yè" />
+		<phrase hz="重话" py="zhòng,huà" />
+		<phrase hz="重荷" py="zhòng,hè" />
+		<phrase hz="重机枪" py="zhòng,jī,qiāng" />
+		<phrase hz="重价" py="zhòng,jià" info="比一般标准高得多的价钱" />
+		<phrase hz="重金" py="zhòng,jīn" />
+		<phrase hz="重金属" py="zhòng,jīn,shǔ" />
+		<phrase hz="重巨" py="zhòng,jù" info="巨大，昂贵。" />
+		<phrase hz="重礼" py="zhòng,lǐ" />
+		<phrase hz="重利" py="zhòng,lì" />
+		<phrase hz="重量" py="zhòng,liàng" />
+		<!-- <phrase hz="重名" py="zhòng,míng" duoyin="chóng,míng" info="很大的名望" /> -->
+		<phrase hz="重男轻女" py="zhòng,nán,qīng,nǚ" />
+		<phrase hz="重器" py="zhòng,qì" />
+		<phrase hz="重氢" py="zhòng,qīng" info="氢的一种质量数大于1的同位素" />
+		<phrase hz="重任" py="zhòng,rèn" />
+		<phrase hz="重伤" py="zhòng,shāng" />
+		<phrase hz="重赏" py="zhòng,shǎng" />
+		<phrase hz="重视" py="zhòng,shì" />
+		<phrase hz="重水" py="zhòng,shuǐ" info="氘和氧的化合物,比一般水重" />
+		<phrase hz="重听" py="zhòng,tīng" info="听觉不灵敏" />
+		<phrase hz="重头戏" py="zhòng,tóu,xì" />
+		<phrase hz="重托" py="zhòng,tuō" />
+		<phrase hz="重望" py="zhòng,wàng" />
+		<phrase hz="重文轻武" py="zhòng,wén,qīng,wǔ" />
+		<phrase hz="重武器" py="zhòng,wǔ,qì" />
+		<phrase hz="重武轻文" py="zhòng,wǔ,qīng,wén" />
+		<phrase hz="重孝" py="zhòng,xīn" info="最重的孝服，如父母去世后子女所穿的孝服" />
+		<phrase hz="重心" py="zhòng,xīn" />
+		<phrase hz="重型" py="zhòng,xíng" />
+		<phrase hz="重压" py="zhòng,yā" />
+		<phrase hz="重义轻生" py="zhòng,yì,qīng,shēng" />
+		<phrase hz="重音" py="zhòng,yīn" />
+		<phrase hz="重油" py="zhòng,yóu" info="比重的油;特指由焦油蒸馏出的高沸点蒸馏物" />
+		<phrase hz="重于泰山" py="zhòng,yú,tài,shān" />
+		<phrase hz="重元素" py="zhòng,yuán,sù" />
+		<phrase hz="重责" py="zhòng,zé" />
+		<phrase hz="重镇" py="zhòng,zhèn" />
+		<phrase hz="重子" py="zhòng,zǐ" info="质子与质量比质子大的、参与强相互作用的粒子的统称。属于强子的一类。" />
+		<phrase hz="重罪" py="zhòng,zuì" />
+		<phrase hz="注重" py="zhù,zhòng" />
+		<phrase hz="庄重" py="zhuāng,zhòng" />
+		<phrase hz="着重" py="zhuó,zhòng" />
+		<phrase hz="辎重" py="zī,zhòng" info="行军时由运输部队搬运的物资" />
+		<phrase hz="自重" py="zì,zhòng" />
+		<phrase hz="尊重" py="zūn,zhòng" />
 		<definition id="一">
 			<item id="1" text="分量较大，跟“轻”相对：铁很~. ~于泰山. [重工业]主要制造生产资料的工业，如冶金、电力、机械制造等工业。 [重力]物理学上称地球对物体的吸引力。也叫“地心吸引力”。 [重心]1.物体重量的集中作用点，不论物体的位置如何改变，物体的各部都围绕着这一点保持平衡。 2.事物的主要部分。" />
 			<item id="2" text="程度深：色~. ~病. ~伤." />
