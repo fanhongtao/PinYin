@@ -159,6 +159,7 @@
 		</definition>
 	</char>
 	<char hz="匙" py="shi" multi="chí">
+		<phrase hz="锁匙" py="suǒ,shi" />
 		<phrase hz="钥匙" py="yào,shi" />
 		<definition id="二">
 			<item text="见“钥”字条“钥匙”(yào-)。" />

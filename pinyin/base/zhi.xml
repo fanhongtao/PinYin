@@ -173,7 +173,9 @@
 	<char hz="稚" py="zhì" />
 	<char hz="滍" py="zhì" />
 	<char hz="疐" py="zhì" />
-	<char hz="瘈" py="zhì" multi="chì">
+	<char hz="瘈" py="zhì" multi="chì" main="1">
+		<phrase hz="狂瘈" py="kuáng,zhì" info="狂犬。喻恶人。" />
+		<phrase hz="瘈狗" py="zhì,gǒu" info="1.疯狗。2.指暴乱之人。" />
 		<definition id="一">
 			<item text="疯狂（特指狗）。" />
 		</definition>

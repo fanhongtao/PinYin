@@ -24,7 +24,9 @@
 	</char>
 	<char hz="茌" py="chí" />
 	<char hz="持" py="chí" />
-	<char hz="匙" py="chí" multi="shi" main="1">
+	<char hz="匙" py="chí" multi="shi" main="1" suppressLog="1">
+		<phrase hz="茶匙" py="chá,chí" />
+		<phrase hz="汤匙" py="tāng,chí" />
 		<definition id="一">
 			<item text="舀(yǎo)汤用的小勺子。也叫“调羹”(tiáogēng)。" />
 		</definition>
@@ -60,7 +62,8 @@
 	<char hz="鶒" py="chì" trans="1" />
 	<char hz="啻" py="chì" />
 	<char hz="傺" py="chì" />
-	<char hz="瘈" py="chì" multi="zhì" main="1">
+	<char hz="瘈" py="chì" multi="zhì">
+		<phrase hz="瘈疭" py="chì,zòng" info="痉挛，抽搐" />
 		<definition id="二">
 			<item text="同“瘛”。" />
 		</definition>

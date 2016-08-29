@@ -78,6 +78,19 @@
 	<char hz="邸" py="dǐ" />
 	<char hz="诋" py="dǐ" />
 	<char hz="坻" py="dǐ" multi="chí" main="1">
+		<phrase hz="坂坻" py="bǎn,dǐ" info="坡岸。" />
+		<phrase hz="宝坻" py="bǎo,dǐ" />
+		<phrase hz="川坻" py="chuān,dǐ" info="河岸。" />
+		<phrase hz="京坻" py="jīng,dǐ" info="形容丰收" />
+		<phrase hz="隆坻" py="lóng,dǐ" info="水边高地。" />
+		<phrase hz="陇坻" py="lǒng,dǐ" info="即 陇山 。" />
+		<phrase hz="青坻" py="qīng,dǐ" info="指青坛之台阶。" />
+		<phrase hz="秋坻" py="qiū,dǐ" info="田陇中的秋收。" />
+		<phrase hz="沙坻" py="shā,dǐ" info="犹沙堤。" />
+		<phrase hz="山坻" py="shān,dǐ" info="山丘，高地。" />
+		<phrase hz="鼠坻" py="shǔ,dǐ" info="鼠穴外的积土。" />
+		<phrase hz="岩坻" py="yán,dǐ" info="崖岸。" />
+		<phrase hz="鱼坻" py="yú,dǐ" info="可供钓鱼用的水中小洲。" />
 		<definition id="二">
 			<item text="山坡。" />
 			<item text="[宝坻]地名，在天津市。" />
