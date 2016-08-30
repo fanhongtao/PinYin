@@ -24,6 +24,7 @@
 	<char hz="凳" py="dèng" />
 	<char hz="嶝" py="dèng" />
 	<char hz="澄" py="dèng" multi="chéng">
+		<!-- <phrase hz="澄清" py="dèng,qīng" duoyin="chéng,qīng" info="杂质沉淀下来,液体变清。" /> -->
 		<definition id="二">
 			<item text="让液体里的杂质沉下去：水~清了再喝." />
 		</definition>

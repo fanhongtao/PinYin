@@ -31,6 +31,9 @@
 	<char hz="岫" py="xiù" />
 	<char hz="袖" py="xiù" />
 	<char hz="臭" py="xiù" multi="chòu">
+		<phrase hz="口尚乳臭" py="kǒu,shàng,rǔ,xiù" />
+		<phrase hz="乳臭未除" py="rǔ,xiù,wèi,chú" />
+		<phrase hz="乳臭未干" py="rǔ,xiù,wèi,gān" />
 		<phrase hz="无色无臭" py="wú,sè,wú,xiù" />
 		<definition id="二">
 			<item id="1" text="气味：空气是无色无~的." />
@@ -44,8 +47,8 @@
 	</char>
 	<char hz="溴" py="xiù" />
 	<char hz="宿" py="xiù" multi="sù,xiǔ">
-		<phrase hz="星宿" py="xīng,xiù" />
 		<phrase hz="二十八宿" py="èr,shí,bā,xiù" />
+		<phrase hz="星宿" py="xīng,xiù" />
 		<definition id="三">
 			<item text="我国古代的天文学家把天上某些星的集合体叫作宿：星~. 二十八~." />
 		</definition>

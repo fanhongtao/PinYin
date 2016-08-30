@@ -26,6 +26,7 @@
 	<char hz="" py="qiū" />
 	<char hz="鞧" py="qiū" />
 	<char hz="仇" py="qiú" multi="chóu">
+		<phrase hz="仇英" py="qiú,yīng" info="（约1502-1552）明代画家。" />
 		<definition id="二">
 			<item text="姓。" />
 		</definition>
