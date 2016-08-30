@@ -18,12 +18,49 @@
 	<char hz="锄" py="chú" />
 	<char hz="躇" py="chú" />
 	<char hz="处" py="chǔ" multi="chù">
-		<phrase hz="处女" py="chǔ,nǚ" />
-		<phrase hz="设身处地" py="shè,shēn,chǔ,dì" />
-		<phrase hz="处在" py="chǔ,zài" />
-		<phrase hz="相处" py="xiāng,chǔ" />
+		<phrase hz="惩处" py="chéng,chǔ" />
+		<!-- <phrase hz="出处" py="chū,chǔ" duoyin="chū,chù" info="旧指士大夫官僚出来做官和在家等待时机。" /> -->
+		<phrase hz="处安思危" py="chǔ,ān,sī,wēi" />
+		<phrase hz="处变不惊" py="chǔ,biàn,bù,jīng" />
+		<phrase hz="处尊居显" py="chǔ,zūn,jū,xiǎn" info="显：显要，显赫。指有声望有地位。形容职位高，权势大。" />
+		<phrase hz="处罚" py="chǔ,fá" />
+		<phrase hz="处方" py="chǔ,fāng" />
 		<phrase hz="处分" py="chǔ,fèn" />
+		<phrase hz="处境" py="chǔ,jìng" />
+		<phrase hz="处决" py="chǔ,jìng" info="1.依法依照命令执行死刑; 2.处理决断" />
 		<phrase hz="处理" py="chǔ,lǐ" />
+		<phrase hz="处女" py="chǔ,nǚ" />
+		<phrase hz="处事" py="chǔ,shì" />
+		<phrase hz="处世" py="chǔ,shì" info="待人接物,应付世情;与世人相处交往" />
+		<phrase hz="处士" py="chǔ,shì" info="1.本指有才德而隐居不仕的人，后亦泛指未做过官的士人。2.星名。即少微星。" />
+		<phrase hz="处暑" py="chǔ,shǔ" info="我国二十四节气中居于立秋之后、白露之前的一个节气名，在8月22、23或24日" />
+		<phrase hz="处死" py="chǔ,sǐ" />
+		<phrase hz="处心积虑" py="chǔ,xīn,jī,lǜ" />
+		<phrase hz="处刑" py="chǔ,xíng" info="依法对罪犯判处相当的刑罚" />
+		<phrase hz="处于" py="chǔ,yú" />
+		<phrase hz="处在" py="chǔ,zài" />
+		<phrase hz="处斩" py="chǔ,zhǎn" info="指斩首处死。" />
+		<phrase hz="处之泰然" py="chǔ,zhī,tài,rán" info="形容自理事情沉着镇定。也指对待问题毫不在意。" />
+		<phrase hz="处置" py="chǔ,zhì" />
+		<phrase hz="处治" py="chǔ,zhì" info="1.处理、解决；2.惩治、处分" />
+		<phrase hz="处子" py="chǔ,zǐ" info="1.处女;2.有德才而隐居不愿做官的人(同“处士”)" />
+		<phrase hz="独处" py="dú,chǔ" info="独居" />
+		<phrase hz="共处" py="gòng,chǔ" />
+		<phrase hz="混处" py="hùn,chǔ" info="混杂在一起居住﹑生活。" />
+		<phrase hz="论处" py="lùn,chǔ" info="判定处罚。即为某些过失犯罪犯法或犯规而加以惩罚" />
+		<!-- <phrase hz="难处" py="nán,chǔ" duoyin="nán,chù" info="不好相处" /> -->
+		<phrase hz="善处" py="shàn,chǔ" info="1.妥当、周到地解决处理(问题); 2.友好相处" />
+		<phrase hz="设身处地" py="shè,shēn,chǔ,dì" />
+		<phrase hz="审处" py="shěn,chǔ" info="1.审判罪犯并加以处理; 2.对事情进行审查并加以处理" />
+		<!-- <phrase hz="私处" py="sī,chǔ" duoyin="sī,chù" info="独自居住" /> -->
+		<phrase hz="调处" py="tiáo,chǔ" info="1.调停；2.对[争端] 进行仲裁" />
+		<phrase hz="无地自处" py="wú,dì,zì,chǔ" info="无处可以躲藏。形容羞愧至极。" />
+		<phrase hz="相处" py="xiāng,chǔ" />
+		<phrase hz="穴居野处" py="xué,jū,yě,chǔ" info="指人类没有房屋以前的生活状态" />
+		<phrase hz="严处" py="yán,chǔ" info="从严处理。" />
+		<phrase hz="杂处" py="zá,chǔ" info="混杂而居；共处。" />
+		<phrase hz="重处" py="zhòng,chǔ" info="从重处罚。" />
+		<phrase hz="自处" py="zì,chǔ" />
 		<definition id="二">
 			<item id="1" text="居住：穴居野~. [处女]没有发生过性行为的女子。 [处女地]未开垦的土地。 [处女作]作者的最初的作品。" />
 			<item id="2" text="存在，置身：设身~地. ~在有利位置." />
@@ -36,6 +73,7 @@
 	<char hz="楮" py="chǔ" />
 	<char hz="储" py="chǔ" />
 	<char hz="褚" py="chǔ" multi="zhǔ" main="1">
+		<phrase hz="褚师" py="chǔ,shī" info="1.古代管理市场的官吏。2.复姓。" />
 		<definition id="二">
 			<item text="姓。" />
 		</definition>
@@ -43,7 +81,60 @@
 	<char hz="楚" py="chǔ" />
 	<char hz="亍" py="chù" />
 	<char hz="处" py="chù" multi="chǔ" main="1">
+		<phrase hz="暗处" py="àn,chù" />
+		<phrase hz="拗处" py="ào,chù" info="偏僻的地方。" />
+		<phrase hz="办事处" py="bàn,shì,chù" />
+		<phrase hz="本处" py="běn,chù" info="1.当事人陈述己身所在的地区。2.本籍。" />
+		<phrase hz="鄙处" py="bǐ,chù" />
+		<phrase hz="遍处" py="biàn,chù" info="各处，到处" />
+		<phrase hz="别处" py="bié,chù" info="另外的地方" />
 		<phrase hz="长处" py="cháng,chù" />
+		<phrase hz="筹备处" py="chóu,bèi,chù" />
+		<phrase hz="出处" py="chū,chù" duoyin="chū,chǔ" info="词语、引文、成语或典故的来源。" />
+		<phrase hz="处处" py="chù,chù" />
+		<phrase hz="处所" py="chù,suǒ" info="居住的地方;地点" />
+		<phrase hz="此处" py="cǐ,chù" />
+		<phrase hz="存车处" py="cún,chē,chù" />
+		<phrase hz="大处" py="dà,chù" info="1.很大的地方；2.主要的、关键的地方。" />
+		<phrase hz="到处" py="dào,chù" />
+		<phrase hz="低处" py="dī,chù" />
+		<phrase hz="短处" py="duǎn,chù" />
+		<phrase hz="分理处" py="fēn,lǐ,chù" info="银行的小支行" />
+		<phrase hz="逢处" py="féng,chù" info="到处，随处" />
+		<phrase hz="高处" py="gāo,chù" />
+		<phrase hz="各处" py="gè,chù" />
+		<phrase hz="贵处" py="guì,chù" info="询问他人籍贯的敬词。" />
+		<phrase hz="何处" py="hé,chù" />
+		<phrase hz="害处" py="hài,chù" />
+		<phrase hz="好处" py="hǎo,chù" />
+		<phrase hz="坏处" py="huài,chù" />
+		<phrase hz="寄存处" py="jì,cún,chù" />
+		<phrase hz="近处" py="jìn,chù" />
+		<phrase hz="军机处" py="jūn,jī,chù" info="清代辅助皇帝办理重大事宜的机构" />
+		<phrase hz="来处" py="lái,chù" info="来源，出处。" />
+		<phrase hz="每处" py="měi,chù" />
+		<phrase hz="妙处" py="miào,chù" />
+		<phrase hz="明处" py="míng,chù" />
+		<phrase hz="难处" py="nán,chù" duoyin="nán,chǔ" info="困难的地方" />
+		<phrase hz="去处" py="qù,chù" />
+		<phrase hz="入口处" py="rù,kǒu,chù" />
+		<phrase hz="深处" py="shēn,chù" info="1.很深的地方; 2.内部" />
+		<phrase hz="是处" py="shì,chù" />
+		<phrase hz="私处" py="sī,chù" duoyin="sī,chǔ" info="男女的阴部" />
+		<phrase hz="四处" py="sì,chù" />
+		<phrase hz="随处" py="suí,chù" />
+		<phrase hz="他处" py="tā,chù" />
+		<phrase hz="痛处" py="tòng,chù" info="感到痛苦或疼痛的地方" />
+		<phrase hz="小处" py="xiǎo,chù" />
+		<phrase hz="益处" py="yì,chù" />
+		<phrase hz="用处" py="yòng,chù" />
+		<phrase hz="原处" py="yuán,chù" />
+		<phrase hz="远处" py="yuǎn,chù" />
+		<phrase hz="之处" py="zhī,chù" info="自定义词。如：细微之处" />
+		<phrase hz="住处" py="zhù,chù" />
+		<phrase hz="着处" py="zhuó,chù" info="到处;随处" />
+		<phrase hz="自有留人处" py="zì,yǒu,liú,rén,chǔ" />
+		<phrase hz="总务处" py="zǒng,wù,chù" />
 		<definition id="一">
 			<item id="1" text="地方：住~. 各~. (引)部分，点：长(cháng)~. 好~. 益~." />
 			<item id="2" text="机关，或机关、团体里的部门：办事~. 总务~." />
@@ -53,11 +144,36 @@
 	<char hz="绌" py="chù" />
 	<char hz="黜" py="chù" />
 	<char hz="俶" py="chù" multi="tì" main="1">
+		<phrase hz="俶尔" py="chù,ěr" />
 		<definition id="一">
 			<item text="〈古〉开始。[俶尔]忽然：~~远逝." />
 		</definition>
 	</char>
 	<char hz="畜" py="chù" multi="xù" main="1">
+		<phrase hz="畜肥" py="chù,féi" info="以动物粪尿为主构成的肥料" />
+		<phrase hz="畜力" py="chù,lì" />
+		<phrase hz="畜栏" py="chù,lán" info="用来圈住或捕捉牲畜的栅栏或围栏" />
+		<phrase hz="畜生" py="chù,shēng" />
+		<phrase hz="畜牲" py="chù,shēng" />
+		<phrase hz="畜疫" py="chù,yì" info="能在家畜中进行传染的病疫，如马鼻疽、猪瘟、牛瘟等" />
+		<phrase hz="耕畜" py="gēng,chù" info="耕地用的牲畜,如牛、马、骡子等" />
+		<phrase hz="公畜" py="gōng,chù" info="雄性牲畜,种畜,为配种而饲养的雄性动物" />
+		<phrase hz="家畜" py="jiā,chù" />
+		<phrase hz="六畜" py="liù,chù" info="猪、牛、羊、马、鸡、狗六种禽畜;泛指家畜" />
+		<phrase hz="母畜" py="mǔ,chù" info="雌性牲畜" />
+		<phrase hz="孽畜" py="niè,chù" info="作孽的畜生，是骂人的话。亦作「业畜」。" />
+		<phrase hz="乳畜" py="rǔ,chù" info="主要用于提供乳汁的畜类,如乳牛或乳羊" />
+		<phrase hz="肉畜" py="ròu,chù" info="供宰杀食用的牲畜" />
+		<phrase hz="牲畜" py="shēng,chù" />
+		<phrase hz="五畜" py="wǔ,chù" info="牛、羊、鸡、狗、猪。" />
+		<phrase hz="业畜" py="yè,chù" info="作孽的畜生，是骂人的话。亦作「孽畜」。" />
+		<phrase hz="孕畜" py="yùn,chù" info="怀孕的牲畜。" />
+		<phrase hz="役畜" py="yì,chù" info="专门用来耕地或运输的家畜、力畜,如牛、马、骡子、驴、骆驼等" />
+		<phrase hz="幼畜" py="yòu,chù" />
+		<phrase hz="子畜" py="zǐ,chù" info="幼小的牲畜" />
+		<phrase hz="仔畜" py="zǐ,chù" info="幼小的牲畜" />
+		<phrase hz="自留畜" py="zì,liú,chù" info="留给农民个人养的牲畜,产品归个人所有" />
+		<phrase hz="种畜" py="zhǒng,chù" info="专供繁殖配种的牲畜;尤指公畜" />
 		<definition id="二">
 			<item text="禽兽，有时专指家养的兽类：家~. 牲~. 幼~. ~力." />
 		</definition>

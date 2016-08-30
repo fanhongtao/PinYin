@@ -41,16 +41,18 @@
 	<char hz="渚" py="zhǔ" />
 	<char hz="煮" py="zhǔ" />
 	<char hz="褚" py="zhǔ" multi="chǔ">
+		<phrase hz="褚小怀大" py="zhǔ,xiǎo,huái,dà" info="用小口袋装大东西。比喻能力不能胜任。" />
+		<phrase hz="褚衣" py="zhǔ,yī" info="绵衣。" />
 		<definition id="一">
 			<item id="1" text="在衣服里铺丝绵。" />
 			<item id="2" text="囊，口袋。" />
 		</definition>
 	</char>
 	<char hz="属" py="zhǔ" multi="shǔ">
-		<phrase hz="属文" py="zhǔ,wén" />
 		<phrase hz="前后相属" py="qián,hòu,xiāng,zhǔ" />
-		<phrase hz="属意" py="zhǔ,yì" />
 		<phrase hz="属望" py="zhǔ,wàng" />
+		<phrase hz="属文" py="zhǔ,wén" />
+		<phrase hz="属意" py="zhǔ,yì" />
 		<definition id="二">
 			<item id="1" text="连缀：~文. 前后相~." />
 			<item id="2" text="（意念）集中在一点：~意. ~望." />
