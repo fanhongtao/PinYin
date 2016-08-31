@@ -44,6 +44,9 @@
 		</definition>
 	</char>
 	<char hz="欻" py="xū" multi="chuā">
+		<phrase hz="欻疾" py="xū,jí" info="迅速。" />
+		<phrase hz="欻然" py="xū,rán" info="忽然。" />
+		<phrase hz="欻至" py="xū,zhì" info="自定义词" />
 		<definition id="二">
 			<item text="忽然：风雨~至." />
 		</definition>
