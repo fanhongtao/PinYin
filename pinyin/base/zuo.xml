@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="作" py="zuō" multi="zuò">
-		<phrase hz="作坊" py="zuō,fang" />
-		<phrase hz="油漆作" py="yóu,qī,zuō" />
 		<phrase hz="洗衣作" py="xǐ,yī,zuō" />
+		<phrase hz="油漆作" py="yóu,qī,zuō" />
+		<phrase hz="作坊" py="zuō,fang" />
 		<definition id="二">
 			<item text="作坊(fang)，旧时手工业制造或加工的地方：油漆~. 洗衣~." />
 		</definition>
 	</char>
-	<char hz="嘬" py="zuō" multi="chuài" main="1">
+	<char hz="嘬" py="zuō" multi="chuài" main="1" suppressLog="1">
+		<phrase hz="吮嘬" py="shǔn,zuō" info="犹吮吸。" />
 		<definition id="一">
 			<item text="聚缩嘴唇吸取：小孩~奶." />
 		</definition>

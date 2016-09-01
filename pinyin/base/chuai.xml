@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="揣" py="chuāi" multi="chuǎi,chuài" main="1">
+		<phrase hz="揣骨" py="chuāi,gǔ" info="旧时相术的一种。揣摸人的骨骼，据其高低、大小、长短等以推断人的贫富、智愚、贵贱、寿夭。" />
+		<phrase hz="揣手" py="chuāi,shǒu" />
+		<phrase hz="揣歪捏怪" py="chuāi,wāi,niē,guài" info="出坏点子，捣鬼。" />
+		<phrase hz="揣在" py="chuāi,zài" info="自定义词" />
+		<phrase hz="怀揣" py="huái,chuāi" />
+		<phrase hz="软揣" py="ruǎn,chuāi" info="同“软揣揣”。" />
+		<phrase hz="软揣揣" py="ruǎn,chuāi,chuāi" info="犹软弱。" />
 		<definition id="二">
 			<item text="藏在衣服里：~手. ~在怀里." />
 		</definition>
@@ -8,19 +15,33 @@
 	<char hz="搋" py="chuāi" />
 	<char hz="膗" py="chuái" />
 	<char hz="揣" py="chuǎi" multi="chuāi,chuài">
+		<phrase hz="不揣" py="bù,chuǎi" info="不自量。" />
 		<phrase hz="揣测" py="chuǎi,cè" />
+		<phrase hz="揣度" py="chuǎi,duó" />
+		<phrase hz="揣夺" py="chuǎi,duó" />
+		<phrase hz="揣合逢迎" py="chuǎi,hé,féng,yíng" info="揣摩、迎合权贵的心意，以谋求私利。" />
+		<phrase hz="揣摸" py="chuǎi,mō" info="揣测、捉摸。" />
 		<phrase hz="揣摩" py="chuǎi,mó" />
+		<phrase hz="揣摹" py="chuǎi,mó" info="反复推求、思考。" />
+		<phrase hz="揣时度力" py="chuǎi,shí,duó,lì" info="揣度形势，估量自己的能力。" />
+		<phrase hz="揣想" py="chuǎi,xiǎng" info="猜测，推想" />
+		<phrase hz="没揣" py="méi,chuǎi" info="没想到、突然的。" />
+		<phrase hz="侔色揣称" py="móu,sè,chuǎi,chèn" info="侔：相等；揣：估量；称：好。形容描写景物，恰到好处。" />
+		<phrase hz="剔抽秃揣" py="tī,chōu,tū,chuǎi" info="形容着急时眼睛迅速转动，或仔细打量别人的样子。" />
+		<phrase hz="悬揣" py="xuán,chuǎi" info="凭空揣测、猜想。" />
 		<definition id="一">
 			<item text="估量，忖度：我~测他不来了. 不~浅陋. [揣摩]1.研究，仔细琢磨：仔细~~写作的方法. 2.估量，推测：我~~你也能做." />
 		</definition>
 	</char>
 	<char hz="" py="chuài" />
 	<char hz="啜" py="chuài" multi="chuò">
+		<phrase hz="啜喇" py="chuài,lǎ" info="复姓" />
 		<definition id="二">
 			<item text="姓。" />
 		</definition>
 	</char>
 	<char hz="揣" py="chuài" multi="chuāi,chuǎi">
+		<phrase hz="囊揣" py="nāng,chuài" info="1.懦弱，虚弱; 2.同“囊膪”" />
 		<phrase hz="挣揣" py="zhèng,chuài" />
 		<definition id="三">
 			<item text="[挣揣](zhèng-)挣扎。" />
@@ -35,7 +56,7 @@
 	<char hz="膪" py="chuài">
 		<phrase hz="囊膪" py="nāng,chuài" />
 		<definition>
-			<item text="[囊膪](nāng-)猪的胸腹部肥而松软的肉。"/>
+			<item text="[囊膪](nāng-)猪的胸腹部肥而松软的肉。" />
 		</definition>
 	</char>
 </pinyin>
