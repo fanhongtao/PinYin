@@ -50,7 +50,7 @@
 	<char hz="蓨" py="tiáo" />
 	<char hz="挑" py="tiǎo" multi="tiāo">
 		<phrase hz="挑开" py="tiǎo,kāi" />
-		<phrase hz="挑刺" py="tiǎo,cì" />
+		<!-- <phrase hz="挑刺" py="tiǎo,cì" duoyin="tiāo,cì" info="把刺挑开" /> -->
 		<phrase hz="挑花" py="tiǎo,huā" />
 		<phrase hz="挑拨" py="tiǎo,bō" />
 		<phrase hz="挑衅" py="tiǎo,xìn" />
