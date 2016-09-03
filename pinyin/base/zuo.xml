@@ -53,7 +53,8 @@
 	</char>
 	<char hz="胙" py="zuò" />
 	<char hz="祚" py="zuò" />
-	<char hz="酢" py="zuò" multi="cù" info="酬(chóu)酢">
+	<char hz="酢" py="zuò" multi="cù" main="1">
+		<phrase hz="酬酢" py="chóu,zuò" />
 		<definition id="一">
 			<item text="客人用酒回敬主人。" />
 		</definition>

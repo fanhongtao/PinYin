@@ -4,6 +4,8 @@
 	<char hz="徂" py="cú" />
 	<char hz="殂" py="cú" />
 	<char hz="卒" py="cù" multi="zú">
+		<phrase hz="仓卒" py="cāng,cù" info="1.亦作“仓猝”。匆忙急迫。2.非常事变。" />
+		<phrase hz="卒然" py="cù,rán" info="突然。" />
 		<definition id="二">
 			<item text="同“猝”。" />
 		</definition>
@@ -14,7 +16,9 @@
 		</definition>
 	</char>
 	<char hz="促" py="cù" />
-	<char hz="酢" py="cù" multi="zuò" main="1">
+	<char hz="酢" py="cù" multi="zuò">
+		<phrase hz="酢浆草" py="cù,jiāng,cǎo" info="多年生草本植物。" />
+		<phrase hz="酢酒" py="cù,jiǔ" info="即醋酒，苦酒。" />
 		<definition id="二">
 			<item text="同“醋”。 [酢浆草]多年生草本植物，匍匐茎，掌状复叶，茎、叶有酸味，开黄色小花，结蒴果，圆柱形。全草可入药。" />
 		</definition>

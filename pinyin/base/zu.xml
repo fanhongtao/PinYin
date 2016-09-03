@@ -3,7 +3,30 @@
 	<char hz="租" py="zū" />
 	<char hz="菹" py="zū" />
 	<char hz="足" py="zú" />
-	<char hz="卒" py="zú" multi="cù" main="1">
+	<char hz="卒" py="zú" multi="cù" main="1" suppressLog="1">
+		<phrase hz="暴卒" py="bào,zú" info="得急病突然去世" />
+		<phrase hz="兵卒" py="bīng,zú" info="士兵的旧称" />
+		<phrase hz="步卒" py="bù,zú" info="步兵。" />
+		<phrase hz="部卒" py="bù,zú" info="士兵、随从。" />
+		<phrase hz="鬼卒" py="guǐ,zú" info="1.鬼兵中之士卒。2.汉张鲁五斗米道初级道徒的称谓。" />
+		<phrase hz="悍卒" py="hàn,zú" info="强悍的士兵。" />
+		<phrase hz="禁卒" py="jìn,zú" info="牢房看守。" />
+		<phrase hz="隶卒" py="lì,zú" info="衙门里的差役或衙役" />
+		<phrase hz="马前卒" py="mǎ,qián,zú" info="旧指在车马前奔走的仆役,现指为人效劳、跑腿、供人差遣的人" />
+		<phrase hz="生卒年月" py="shēng,zú,nián,yuè" />
+		<phrase hz="士卒" py="shì,zú" info="旧称士兵" />
+		<phrase hz="戍卒" py="shù,zú" info="防守的士兵" />
+		<phrase hz="卫卒" py="wèi,zú" info="护卫的兵卒。" />
+		<phrase hz="小卒" py="xiǎo,zú" info="1.小兵；2.戏称隶属于人下的人。" />
+		<phrase hz="凶卒" py="xiōng,zú" info="犹悍卒。" />
+		<phrase hz="驿卒" py="yì,zú" info="在驿站供差遣的士卒" />
+		<phrase hz="狱卒" py="yù,zú" info="旧时在监狱里看管囚犯的差役" />
+		<phrase hz="走卒" py="zǒu,zú" info="差役,比喻受人豢养而帮助作恶的人,被利用来为他人目的效劳的人" />
+		<phrase hz="卒乘" py="zú,shèng" info="士兵与战车。后多泛指军队。" />
+		<phrase hz="卒岁" py="zú,suì" info="1.度过一年; 2.全年" />
+		<phrase hz="卒业" py="zú,yè" info="毕业" />
+		<phrase hz="卒伍" py="zú,wǔ" info="1、古代军队编制，五人为伍，百人为卒。2.泛指军队，行伍。3、指士兵。" />
+		<phrase hz="卒子" py="zú,zǐ" info="旧指兵士" />
 		<definition id="一">
 			<item id="1" text="古时指兵：小~. 士~." />
 			<item id="2" text="旧称差役：走~. 狱~." />
