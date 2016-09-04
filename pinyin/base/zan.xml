@@ -15,6 +15,10 @@
 	<char hz="昝" py="zǎn" />
 	<char hz="噆" py="zǎn" />
 	<char hz="攒" py="zǎn" multi="cuán" main="1">
+		<phrase hz="积攒" py="jī,zǎn" info="积蓄；积聚。" />
+		<phrase hz="攒积" py="zǎn,jī" info="积聚。" />
+		<phrase hz="攒劲" py="zǎn,jìn" info="集中力气。" />
+		<phrase hz="攒钱" py="zǎn,qián" duoyin="cuán,qián" info="积蓄钱" />
 		<definition id="一">
 			<item text="积聚，积蓄（(连)积-）：~粪. ~钱." />
 		</definition>
