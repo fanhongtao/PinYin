@@ -43,9 +43,9 @@
 	<char hz="挞" py="tà" />
 	<char hz="闼" py="tà" />
 	<char hz="" py="tà" />
-	<char hz="嗒" py="tà" multi="dā">
+	<char hz="嗒" py="tà" multi="dā" main="1">
 		<phrase hz="嗒丧" py="tà,sàng" />
-		<phrase hz="嗒然" py="tà,rán" />
+		<phrase hz="嗒然" py="tà,rán" info="形容懊丧的神情" />
 		<definition id="一">
 			<item text="失意的样子：~丧. ~然若失." />
 		</definition>

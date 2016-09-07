@@ -8,7 +8,15 @@
 	<char hz="搭" py="dā">
 		<phrase hz="搭载" py="dā,zài" />
 	</char>
-	<char hz="嗒" py="dā" multi="tà" main="1">
+	<char hz="嗒" py="dā" multi="tà">
+		<phrase hz="吧嗒" py="bā,dā" info="1.象声词，表示一种双音的声响。2.嘴唇开闭作声--用于表示惊奇、警告等。3.〈方〉抽[旱烟]" />
+		<phrase hz="嗒嗒" py="dā,dā" />
+		<phrase hz="嘀嗒" py="dī,dā" info="象声词。形容水滴落下或钟表摆动的声音。" />
+		<phrase hz="噶嗒" py="gá,dā" info="象声词。" />
+		<phrase hz="咕嗒" py="gū,dā" info="象声词。大口喝水或酒的声音" />
+		<phrase hz="呱嗒" py="guā,dā" info="1.短促而尖锐的清脆声。2.因不高兴而板起脸。3.说话--含贬义。4.[以不入耳的语言]讽刺、挖苦" />
+		<phrase hz="咔嗒" py="kā,dā" info="1.轻脆尖锐的响声(如扣手枪扳机或锁门发出的响声)。2.尤指坚硬物体碰撞时产生的格格、咔嗒响声" />
+		<phrase hz="啪嗒" py="pā,dā" info="形容东西落地或互相撞击的声音" />
 		<definition id="二">
 			<item text="拟声词，马蹄声、机关枪声等（叠）。" />
 		</definition>
@@ -16,8 +24,10 @@
 	<char hz="鎝" py="dā" trans="1" />
 	<char hz="褡" py="dā" />
 	<char hz="答" py="dā" multi="dá">
+		<phrase hz="答答" py="dā,dā" info="自定义词。如：羞答答" />
 		<phrase hz="答理" py="dā,li" />
 		<phrase hz="答应" py="dā,ying" />
+		<phrase hz="滴答" py="dī,dā" />
 		<definition id="二">
 			<item text="同“答(一)”，用于口语“答应”、“答理”等词。[答理](-li)打招呼，理睬。 [答应](-ying)1.应声回答。2.允许：我们坚决不~~." />
 		</definition>
@@ -40,7 +50,23 @@
 	<char hz="炟" py="dá" />
 	<char hz="笪" py="dá" />
 	<char hz="靼" py="dá" />
-	<char hz="答" py="dá" multi="dā" main="1">
+	<char hz="答" py="dá" multi="dā" main="1" suppressLog="1">
+		<phrase hz="报答" py="bào,dá" />
+		<phrase hz="笔答" py="bǐ,dá" info="书面回答问题" />
+		<phrase hz="答案" py="dá,àn" />
+		<phrase hz="答辩" py="dá,biàn" info="1.应答别人的提问;进行辩解。2.特指在法庭上为答复一种陈述、告发或起诉所作的辩护" />
+		<phrase hz="答词" py="dá,cí" info="表示感谢或回答在场人的致辞" />
+		<phrase hz="答非所问" py="dá,fēi,suǒ,wèn" />
+		<phrase hz="答复" py="dá,fù" />
+		<phrase hz="答话" py="dá,huà" />
+		<phrase hz="答卷" py="dá,juàn" />
+		<phrase hz="答谢" py="dá,xiè" />
+		<phrase hz="答数" py="dá,shù" info="算术运算的得数" />
+		<phrase hz="对答" py="duì,dá" />
+		<phrase hz="回答" py="huí,dá" />
+		<phrase hz="问答" py="wèn,dá" />
+		<phrase hz="赠答" py="zèng,dá" info="互赠礼物、诗歌等" />
+		<phrase hz="作答" py="zuò,dá" info="1.做出回答。2.指复信。" />
 		<definition id="一">
 			<item id="1" text="回答，回复（(连)-复）：问~. ~话." />
 			<item id="2" text="还报：报~. ~谢. ~礼." />
@@ -51,7 +77,7 @@
 			<item text="[瘩背]中医称生在背部的痈。也叫“搭手”。" />
 		</definition>
 	</char>
-	<char hz="打" py="dǎ" multi="dá" main="1">
+	<char hz="打" py="dǎ" multi="dá" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="击：~铁. ~门. ~鼓. ~靶. ~垮. (引)放射：~枪. ~闪. [打击]使受到挫折：~~侵略者." />
 			<item id="2" text="表示各种动作，代替许多有具体意义的动词。1.除去：~虫. ~沫（把液体上面的沫去掉）. ~食（服药帮助消化）. 2.毁坏，损伤，破碎：衣服被虫~了. 碗~了. 3.取，收，捕：~鱼. ~粮食. ~柴. ~水. 4. 购买：~车票. ~酒. 5.举：~伞. ~灯笼. ~旗子. 6.揭开，破开：~帐子. ~西瓜. ~鸡蛋. 7. 建造：~井. ~墙. 8.制作，编织：~镰刀. ~桌椅. ~毛衣. 9. 捆扎：~铺盖卷. ~裹腿. 10.涂抹：~蜡. ~桐油. 11.玩耍，做某种文体活动：~秋千. ~球. 12.通，发：~一个电报去. ~电话. 13.计算：精~细算. 设备费~二百元. 14.立，定：~下基础. ~主意. ~草稿. 15.从事或担任某些工作：~杂儿. ~前站. 16.表示身体上的某些动作：~手势. ~冷战. ~哈欠. ~前失（马前腿跌倒）. ~滚儿." />
