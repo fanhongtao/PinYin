@@ -73,6 +73,7 @@
 		</definition>
 	</char>
 	<char hz="瘩" py="dá" multi="da" main="1">
+		<phrase hz="瘩背" py="dá,bèi" info="中医称生在背部的痈。" />
 		<definition id="一">
 			<item text="[瘩背]中医称生在背部的痈。也叫“搭手”。" />
 		</definition>
@@ -85,7 +86,26 @@
 			<item id="4" text="介词，从，自：~去年起. ~哪里来？" />
 		</definition>
 	</char>
-	<char hz="大" py="dà" multi="dài" main="1">
+	<char hz="大" py="dà" multi="dài" main="1" suppressLog="1">
+		<phrase hz="大城市" py="dà,chéng,shì" info="1.人口在百万以上的城市。2.一国或其他地区的主要城市。3.作为一种特殊活动中心的城市,尤指重要的城市。" />
+		<phrase hz="大度" py="dà,dù" info="1.胸怀开阔,气量宽宏。2.宏伟的抱负。" />
+		<phrase hz="大方" py="dà,fang" info="1.对于财物不计较、不吝啬。2.(举止)自然不俗气;无拘束。3.衣着适当。 （4.见识广博或有专长的人，读音是“dà,fāng”）" />
+		<phrase hz="大方之家" py="dà,fāng,zhī,jiā" info="1.懂得大道理的人。2.后泛指见识广博或学有专长的人。" />
+		<!-- <phrase hz="大夫" py="dà,fū" duoyin="dài,fu" info="古代官职名称。"/> -->
+		<phrase hz="大观" py="dà,guān" info="形容事物丰富美好。" />
+		<phrase hz="大卡" py="dà,kǎ" info="物理学名词。热量的实用单位，是一卡的一千倍。也称千卡。" />
+		<phrase hz="大陆" py="dà,lù" info="1.面积广大的陆地。2.特指中国领土的大陆部分。" />
+		<phrase hz="大率" py="dà,shuài" info="副词。大概；大略。" />
+		<phrase hz="大体" py="dà,tǐ" info="1.大概;基本上。2.总体来说。3.有关大局的重要道理" />
+		<phrase hz="大同" py="dà,tóng" info="1.我国古代一些思想家提出的一种天下为公，人人平等的社会政治理想。2.基本相同，在大的方面一致。3.地名，在山西省" />
+		<phrase hz="大王" py="dà,wáng" duoyin="dài,wang" info="1.古代尊称国王. 2.指最长于某种事情的人. 3.指垄断某种行业的人." />
+		<phrase hz="大雨" py="dà,yǔ" info="强度较大的降雨。" />
+		<phrase hz="大员" py="dà,yuán" info="职位高的官员" />
+		<phrase hz="大椎" py="dà,zhuī" info="针灸穴位名。位于第七颈椎与第一胸椎棘窘突之间。主治发热、感冒、落枕等。" />
+		<phrase hz="光禄大夫" py="guāng,lù,dà,fū" info="官名。" />
+		<phrase hz="刑不上大夫" py="xíng,bù,shàng,dà,fū" info="我国古代大夫以上的贵族享受的特权之一，是宗法等级制在法律上的反映。" />
+		<phrase hz="贻笑大方" py="yí,xiào,dà,fāng" info="被有学问或内行的人所笑。" />
+		<phrase hz="御史大夫" py="yù,shǐ,dà,fū" info="官名。" />
 		<definition id="一">
 			<item id="1" text="跟“小”相对。1.占的空间较多，面积较广，容量较多：~山. ~树. 这间房比那间~. 2.数量较多：~众. ~量. 3.程度深，范围广：~冷天. ~干社会主义. ~快人心. 4.声音较响：~声说话. 5.年长，排行第一：~哥. 老~. 6.敬辞：~作. 尊姓~名. [大夫]古代官职名称。（另dàifu，见“大”dài） [大王]1.古代尊称国王. 2.指最长于某种事情的人：爆破~~. 3.指垄断某种行业的人：钢铁~~. （另dàiwang，见“大”dài）" />
 			<item id="2" text="时间更远：~前年. ~后天." />
@@ -100,6 +120,8 @@
 	<char hz="跶" py="da" />
 	<char hz="瘩" py="da" multi="dá">
 		<phrase hz="疙瘩" py="gē,da" />
+		<phrase hz="饹瘩" py="gē,da" info="面疙瘩。一种面食" />
+		<phrase hz="疙疙瘩瘩" py="gē,gē,da,da" />
 		<definition id="二">
 			<item text="见“疙”字条“疙瘩”(gē-)。" />
 		</definition>

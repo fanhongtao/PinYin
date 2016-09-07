@@ -16,6 +16,9 @@
 	</char>
 	<char hz="傣" py="dǎi" />
 	<char hz="大" py="dài" multi="dà">
+		<phrase hz="大夫" py="dài,fu" duoyin="dà,fū" info="医生。" />
+		<phrase hz="大城" py="dài,chéng" info="县名。在河北省" />
+		<!-- <phrase hz="大王" py="dài,wang" duoyin="dà,wáng" info="旧戏曲、小说中对国王、山寨头领或大帮强盗首领的称呼。"/> -->
 		<definition id="二">
 			<item text="[大城]地名，在河北省。 [大夫](-fu)医生。（另dàfū，见“大”dà） [大王](-wang)旧戏曲、小说中对国王、山寨头领或大帮强盗首领的称呼。（另dàwáng，见“大”dà）" />
 		</definition>
@@ -34,6 +37,7 @@
 	<char hz="怠" py="dài" />
 	<char hz="带" py="dài" />
 	<char hz="待" py="dài" multi="dāi" main="1">
+		<phrase hz="自不待言" py="zì,bú,dài,yán" />
 		<definition id="一">
 			<item id="1" text="等，等候（(连)等-）：~业. ~机出击. 尚~研究." />
 			<item id="2" text="对待，招待：~人接物. 大家~我太好了. ~客. [待遇]在社会上享有的权利、地位等：政治~~. 物质~~. 特指工资、食宿等：调整~~." />

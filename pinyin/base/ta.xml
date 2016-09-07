@@ -30,6 +30,10 @@
 		</definition>
 	</char>
 	<char hz="沓" py="tà" multi="dá" main="1">
+		<phrase hz="重沓" py="chóng,tà" info="1.重复繁冗。2.重叠堆积" />
+		<phrase hz="纷至沓来" py="fēn,zhì,tà,lái" info="纷：众多，杂乱；沓：多，重复。形容接连不断的到来。" />
+		<phrase hz="拖沓" py="tuō,tà" info="形容做事拖拉" />
+		<phrase hz="杂沓" py="zá,tà" info="亦作“杂遝”。纷杂繁多貌。" />
 		<definition id="一">
 			<item text="多，重复：杂~. 纷至~来." />
 		</definition>
