@@ -115,6 +115,8 @@
 	<char hz="姐" py="jiě" />
 	<char hz="毑" py="jiě" />
 	<char hz="解" py="jiě" multi="jiè,xiè" main="1">
+		<phrase hz="解答" py="jiě,dá" info="1.答复说明。2.通过数学演算或其他类似的推理而得出的答案" />
+		<phrase hz="解衣" py="jiě,yī" />
 		<definition id="一">
 			<item id="1" text="剖开，分开（(连)分-）：尸体~剖. 难~难分. 瓦~." />
 			<item id="2" text="把束缚着、系(jì)着的东西打开：~扣. ~衣服. [解放]1.推翻反动政权，使广大人民群众脱离压迫，获得自由。 2.解除束缚，得到自由或发展：~~生产力." />

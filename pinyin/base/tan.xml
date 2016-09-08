@@ -25,13 +25,29 @@
 	<char hz="锬" py="tán" />
 	<char hz="痰" py="tán" />
 	<char hz="弹" py="tán" multi="dàn">
-		<phrase hz="弹弦子" py="tán,xián,zi" />
-		<phrase hz="弹琵琶" py="tán,pí,pá" />
-		<phrase hz="弹棉花" py="tán,mián,huā" />
-		<phrase hz="弹词" py="tán,cí" />
-		<phrase hz="弹射" py="tán,shè" />
-		<phrase hz="弹性" py="tán,xìng" />
+		<phrase hz="重弹" py="chóng,tán" />
+		<phrase hz="吹弹" py="chuī,tán" />
+		<phrase hz="反弹" py="fǎn,tán" />
+		<phrase hz="讥弹" py="jī,tán" info="指责缺点和错误" />
+		<phrase hz="乱弹" py="luàn,tán" info="1.戏曲名词。2.乱说，胡扯。" />
+		<phrase hz="男儿有泪不轻弹" py="nán,ér,yǒu,lèi,bù,qīng,tán" />
+		<phrase hz="弹唱" py="tán,chàng" info="弹奏唱歌" />
+		<phrase hz="弹词" py="tán,cí" info="曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />
+		<phrase hz="弹力" py="tán,lì" />
+		<phrase hz="弹钢琴" py="tán,gāng,qín" />
+		<phrase hz="弹冠" py="tán,guān" info="1.弹除帽子上的灰尘。2.整理帽冠。" />
 		<phrase hz="弹劾" py="tán,hé" />
+		<phrase hz="弹簧" py="tán,huáng" />
+		<phrase hz="弹吉它" py="tán,jí,tā" />
+		<phrase hz="弹棉花" py="tán,mián,huā" />
+		<phrase hz="弹琵琶" py="tán,pí,pá" />
+		<phrase hz="弹琴" py="tán,qín" info="自定义词" />
+		<phrase hz="弹射" py="tán,shè" />
+		<phrase hz="弹弦子" py="tán,xián,zi" />
+		<phrase hz="弹性" py="tán,xìng" />
+		<phrase hz="弹压" py="tán,yā" info="用武力压制（骚乱等）。" />
+		<phrase hz="弹指" py="tán,zhǐ" info="极短时间" />
+		<phrase hz="弹奏" py="tán,zòu" info="1.弹琴演奏。2.弹劾奏闻" />
 		<definition id="二">
 			<item id="1" text="被其他手指压住的手指用力伸开：用手指~他一下. 把帽子上的土~下去." />
 			<item id="2" text="使弦振动：~弦子. ~琵琶. ~棉花. [弹词]曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />

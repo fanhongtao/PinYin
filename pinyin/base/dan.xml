@@ -2,13 +2,46 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="丹" py="dān" />
 	<char hz="担" py="dān" multi="dǎn,dàn" main="1">
+		<phrase hz="承担" py="chéng,dān" />
+		<phrase hz="担保" py="dān,bǎo" info="表示负责，保证做到或保证不出问题" />
+		<phrase hz="担当" py="dān,dāng" />
+		<phrase hz="担风险" py="dān,fēng,xiǎn" />
+		<phrase hz="担负" py="dān,fù" info="承当[职务、义务或任务]" />
+		<phrase hz="担搁" py="dān,gē" info="耽搁，迟延" />
+		<phrase hz="担架" py="dān,jià" info="指送病人、伤员的简易用具，架子中间绷着帆布或绳子" />
+		<phrase hz="担惊受怕" py="dān,jīng,shòu,pà" info="形容提心吊胆,十分害怕的状态" />
+		<phrase hz="担任" py="dān,rèn" />
+		<phrase hz="担心" py="dān,xīn" />
+		<phrase hz="担忧" py="dān,yōu" />
+		<phrase hz="分担" py="fēn,dān" info="1.分别负担;担负一部分。2.共同承担" />
+		<phrase hz="负担" py="fù,dān" info="1.费用，开支。2.承受的责任。3.承当[责任、工作、费用等]" />
+		<phrase hz="石担" py="shí,dān" info="一种在木杠或竹杠两端装有石轮的练习举重用的器械" />
 		<definition id="一">
 			<item id="1" text="用肩膀挑：~水. ~着两筐青菜. [担心]忧虑，顾虑：我~~他身体受不了." />
 			<item id="2" text="担负，承当：~风险. ~责任." />
 		</definition>
 	</char>
 	<char hz="单" py="dān" multi="chán,shàn" main="1" suppressLog="1">
+		<phrase hz="被单" py="bèi,dān" />
+		<phrase hz="传单" py="chuán,dān" />
+		<phrase hz="床单" py="chuáng,dān" />
 		<phrase hz="单薄" py="dān,bó" />
+		<phrase hz="单纯" py="dān,chún" />
+		<phrase hz="单调" py="dān,diào" />
+		<phrase hz="单方" py="dān,fāng" info="1.民间流传的药方,用药不合一般习惯。也作“丹方”。2.中医方剂学“七方”中的奇方,一般药味为单数,或用一种主药。与“偶方”相对。" />
+		<phrase hz="单据" py="dān,jù" />
+		<phrase hz="单裤" py="dān,kù" />
+		<phrase hz="单枪匹马" py="dān,qiāng,pǐ,mǎ" />
+		<phrase hz="单身" py="dān,shēn" />
+		<phrase hz="单数" py="dān,shù" />
+		<phrase hz="单位" py="dān,wèi" />
+		<phrase hz="单行本" py="dān,xíng,běn" info="从成套成部的书或从报刊上抽出一部分单独印行的书" />
+		<phrase hz="单一" py="dān,yī" />
+		<phrase hz="单衣" py="dān,yī" />
+		<phrase hz="简单" py="jiǎn,dān" />
+		<phrase hz="清单" py="qīng,dān" />
+		<phrase hz="药单" py="yào,dān" />
+		<phrase hz="账单" py="zhàng,dān" />
 		<definition id="一">
 			<item id="1" text="种类少，不复杂：简~. ~纯. ~式簿记. (引)副词，只，仅：做事~靠热情不够. 不提别的，~说这件事. [单位]1.计算物体轻重、长短及数量的标准。 2.指机关、团体或属于一个机关、团体的各个部门：那里有五个直属~~." />
 			<item id="2" text="独，一：~身. ~打一. ~枪匹马. ~数（跟“复数”相对）." />
@@ -45,7 +78,7 @@
 	</char>
 	<char hz="胆" py="dǎn" />
 	<char hz="疸" py="dǎn" />
-	<char hz="掸" py="dǎn" multi="shàn" main="1">
+	<char hz="掸" py="dǎn" multi="shàn" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="拂，打去尘土：~桌子. ~衣服." />
 		</definition>
@@ -63,6 +96,9 @@
 		<phrase hz="扁担" py="biǎn,dàn" />
 		<phrase hz="担子" py="dàn,zi" />
 		<phrase hz="货郎担" py="huò,láng,dàn" />
+		<phrase hz="零担" py="líng,dàn" info="零担是相对于整车而言。在实际的市场操作中，对于零担和整车的划分，基本上是以能否装满一车做为区别。" />
+		<phrase hz="挑担" py="tiāo,dàn" info="1.担子。2.挑上担子" />
+		<phrase hz="一担挑" py="yī,dàn,tiāo" />
 		<phrase hz="重担" py="zhòng,dàn" />
 		<definition id="二">
 			<item id="1" text="扁担，挑东西的用具，多用竹、木做成。" />
@@ -79,6 +115,73 @@
 	<char hz="氮" py="dàn" />
 	<char hz="惮" py="dàn" />
 	<char hz="弹" py="dàn" multi="tán" main="1">
+		<phrase hz="臭弹" py="chòu,dàn" info="失效打不响的炮弹" />
+		<phrase hz="弹道" py="dàn,dào" info="炮弹、火箭等的质心从发射开始点到终点的运动轨迹。" />
+		<phrase hz="弹弓" py="dàn,gōng" />
+		<phrase hz="弹夹" py="dàn,jiā" info="夹子弹用的长条夹。用来将子弹成排夹住,以便压入弹匣" />
+		<phrase hz="弹尽粮绝" py="dàn,jìn,liáng,jué" />
+		<phrase hz="弹头" py="dàn,tóu" />
+		<phrase hz="弹壳" py="dàn,ké" />
+		<phrase hz="弹丸" py="dàn,wán" />
+		<phrase hz="弹无虚发" py="dàn,wú,xū,fā" />
+		<phrase hz="弹膛" py="dàn,táng" />
+		<phrase hz="弹匣" py="dàn,xiá" />
+		<phrase hz="弹药" py="dàn,yào" />
+		<phrase hz="弹子锁" py="dàn,zǐ,suǒ" />
+		<phrase hz="弹着点" py="dàn,zhuó,diǎn" info="弹道与目标或地表面的交点。" />
+		<phrase hz="导弹" py="dǎo,dàn" />
+		<phrase hz="防弹" py="fáng,dàn" />
+		<phrase hz="荷枪实弹" py="hè,qiāng,shí,dàn" />
+		<phrase hz="流弹" py="liú,dàn" />
+		<phrase hz="榴弹" py="liú,dàn" />
+		<phrase hz="炮弹" py="pào,dàn" />
+		<phrase hz="枪弹" py="qiāng,dàn" />
+		<phrase hz="实弹" py="shí,dàn" />
+		<phrase hz="糖弹" py="táng,dàn" />
+		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
+		<phrase hz="霰弹" py="xiàn,dàn" />
+		<phrase hz="饮弹" py="yǐn,dàn" />
+		<phrase hz="炸弹" py="zhà,dàn" />
+		<phrase hz="中弹" py="zhòng,dàn" info="被子弹打中" />
+		<phrase hz="子弹" py="zǐ,dàn" />
+		<!-- 各种“弹”（dàn） 开始 -->
+		<phrase hz="白磷弹" py="bái,lín,dàn" />
+		<phrase hz="穿甲弹" py="chuān,jiǎ,dàn" />
+		<phrase hz="催泪弹" py="cuī,lèi,dàn" />
+		<phrase hz="达姆弹" py="dá,mǔ,dàn" info="枪弹的一种。弹头射入身体后变形，造成重创。" />
+		<phrase hz="豆袋弹" py="dòu,dài,dàn" />
+		<phrase hz="反物质弹" py="fǎn,wù,zhì,dàn" />
+		<phrase hz="钢芯弹" py="gāng,xīn,dàn" />
+		<phrase hz="高爆弹" py="gāo,bào,dàn" />
+		<phrase hz="核弹" py="hé,dàn" />
+		<phrase hz="火箭弹" py="huǒ,jiàn,dàn" />
+		<phrase hz="空包弹" py="kōng,bāo,dàn" />
+		<phrase hz="雷帽弹" py="léi,mào,dàn" />
+		<phrase hz="贫铀弹" py="pín,yóu,dàn" />
+		<phrase hz="破门弹" py="pò,mén,dàn" />
+		<phrase hz="破甲弹" py="pò,jiǎ,dàn" />
+		<phrase hz="汽油弹" py="qì,yóu,dàn" />
+		<phrase hz="铅弹" py="qiān,dàn" />
+		<phrase hz="氢弹" py="qīng,dàn" />
+		<phrase hz="闪光弹" py="shǎn,guāng,dàn" />
+		<phrase hz="射钉弹" py="shè,dīng,dàn" />
+		<phrase hz="碎甲弹" py="suì,jiǎ,dàn" />
+		<phrase hz="突缘弹" py="tū,yuán,dàn" />
+		<phrase hz="钨心弹" py="wū,xīn,dàn" />
+		<phrase hz="无缘弹" py="wú,yuán,dàn" />
+		<phrase hz="无壳弹" py="wú,ké,dàn" />
+		<phrase hz="温压弹" py="wēn,yā,dàn" />
+		<phrase hz="信号弹" py="xìn,hào,dàn" />
+		<phrase hz="宣传弹" py="xuān,chuán,dàn" />
+		<phrase hz="烟雾弹" py="yān,wù,dàn" />
+		<phrase hz="云爆弹" py="yún,bào,dàn" />
+		<phrase hz="原子弹" py="yuán,zǐ,dàn" />
+		<phrase hz="脏弹" py="zāng,dàn" />
+		<phrase hz="震撼弹" py="zhèn,hàn,dàn" />
+		<phrase hz="震荡弹" py="zhèn,dàng,dàn" />
+		<phrase hz="中子弹" py="zhōng,zǐ,dàn" />
+		<phrase hz="子母弹" py="zǐ,mǔ,dàn" />
+		<!-- 各种“弹”（dàn） 结束 -->
 		<definition id="一">
 			<item id="1" text="可以用弹(tán)力发射出去的小丸：~丸." />
 			<item id="2" text="装有爆炸物可以击毁人、物的东西：炮~. 炸~. 手榴~." />
@@ -87,6 +190,9 @@
 	<char hz="瘅" py="dàn" />
 	<char hz="蛋" py="dàn" />
 	<char hz="澹" py="dàn" multi="tán" main="1">
+		<phrase hz="澹泊" py="dàn,bó" info="恬淡寡欲;不追求名利。亦作「淡泊」。" />
+		<phrase hz="澹澹" py="dàn,dàn" info="水波荡漾的样子" />
+		<phrase hz="恬澹" py="tián,dàn" info="心境安然淡泊，不慕名利。" />
 		<definition id="一">
 			<item id="1" text="（叠）水波起伏的样子。" />
 			<item id="2" text="安静：恬~." />
