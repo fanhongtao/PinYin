@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="叨" py="tāo" multi="dāo">
+	<char hz="叨" py="tāo" multi="dāo" main="1">
 		<phrase hz="叨光" py="tāo,guāng" />
 		<phrase hz="叨教" py="tāo,jiào" />
+		<phrase hz="叨陪末座" py="tāo,péi,mò,zuò" info="叨：谦词，受到（好处）；陪：奉陪；末座：席中最后的座位。这是受人宴请的客气话。" />
 		<phrase hz="叨扰" py="tāo,rǎo" />
+		<phrase hz="叨在知己" py="tāo,zài,zhī,jǐ" info="一种社交应酬语。承蒙对方视自己为知己的意思。" />
 		<definition id="一">
 			<item text="承受：~光. ~教(jiào). [叨扰]谢人款待的话。" />
 		</definition>
