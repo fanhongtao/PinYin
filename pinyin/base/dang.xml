@@ -1,6 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="当" py="dāng" multi="dàng" main="1">
+		<phrase hz="承当" py="chéng,dāng" info="担当;承担" />
+		<phrase hz="担当" py="dān,dāng" />
+		<phrase hz="当兵" py="dāng,bīng" />
+		<phrase hz="当初" py="dāng,chū" />
+		<phrase hz="当代" py="dāng,dài" info="目前这个时代" />
+		<phrase hz="当道" py="dāng,dài" info="1.在路中间。2.掌握政权（含贬义）。" />
+		<phrase hz="当当" py="dāng,dāng" info="自定义词。如：满满当当、响当当" />
+		<phrase hz="当归" py="dāng,guī" info="多年生草本植物。" />
+		<phrase hz="当行出色" py="dāng,háng,chū,sè" info="指做本行本业的事，成绩特别显著。" />
+		<phrase hz="当红" py="dāng,hóng" info="正走红（多指演员）。" />
+		<phrase hz="当机立断" py="dāng,jī,lì,duàn" info="当机：抓住时机。在紧要时刻立即做出决断。 " />
+		<phrase hz="当即" py="dāng,jí" info="1.马上，立即。2.就在当时" />
+		<phrase hz="当家" py="dāng,jiā" info="1.本义为主持家政。又比喻在一定范围内起主要作用。2.经营管理者。" />
+		<phrase hz="当街" py="dāng,jiē" info="1.临近街道。2.〈方〉街上" />
+		<phrase hz="当局" py="dāng,jú" />
+		<phrase hz="当空" py="dāng,kōng" info="在空中。" />
+		<phrase hz="当啷" py="dāng,lāng" />
+		<phrase hz="当量" py="dāng,liàng" info="一元素与给定重量的另一元素具有相同结合能力时的相对重量。" />
+		<phrase hz="当面" py="dāng,miàn" />
+		<phrase hz="当年" py="dāng,nián" duoyin="dàng,nián" info="从前" />
+		<phrase hz="当前" py="dāng,qián" />
+		<phrase hz="当权" py="dāng,quán" info="执掌大权" />
+		<phrase hz="当然" py="dāng,rán" />
+		<phrase hz="当仁不让" py="dāng,rén,bù,ràng" />
+		<phrase hz="当日" py="dāng,rì" duoyin="dàng,rì" info="从前" />
+		<phrase hz="当时" py="dāng,shí" />
+		<phrase hz="当事人" py="dāng,shì,rén" />
+		<phrase hz="当堂" py="dāng,táng" info="1.在公堂(旧时官吏审理案件的地方)上。2.在课堂上" />
+		<phrase hz="当头棒喝" py="dāng,tóu,bàng,hè" />
+		<phrase hz="当务之急" py="dāng,wù,zhī,jí" />
+		<phrase hz="当下" py="dāng,xià" />
+		<phrase hz="当心" py="dāng,xīn" />
+		<phrase hz="当选" py="dāng,xuǎn" />
+		<phrase hz="当一天和尚撞一天钟" py="dāng,yī,tiān,hé,shàng,zhuàng,yī,tiān,zhōng" />
+		<phrase hz="当着" py="dāng,zhe" info="自定义词。如：当着大家的面。" />
+		<phrase hz="当政" py="dāng,zhèng" info="执掌政权;把持政权" />
+		<phrase hz="当之无愧" py="dāng,zhī,wú,kuì" />
+		<phrase hz="当值" py="dāng,zhí" info="值班。" />
+		<phrase hz="当众" py="dāng,zhòng" info="当着众人面。" />
+		<phrase hz="吊儿郎当" py="diào,er,láng,dāng" info="指对事情不认真,不负责任,或态度、作风不庄重" />
+		<phrase hz="独当" py="dú,dāng" info="独自担当" />
+		<phrase hz="防卫过当" py="fáng,wèi,guò,dāng" />
+		<phrase hz="该当何罪" py="gāi,dāng,hé,zuì" />
+		<phrase hz="甘当" py="gān,dāng" info="1.甘心接受。2.情愿充当" />
+		<phrase hz="敢当" py="gǎn,dāng" info="敢于承当责任" />
+		<phrase hz="老当益壮" py="lǎo,dāng,yì,zhuàng" />
+		<phrase hz="理当" py="lǐ,dāng" info="1.应当;理所当然。2.应该承当" />
+		<phrase hz="每当" py="měi,dāng" info="在任何时候;无论何时" />
+		<phrase hz="门当户对" py="mén,dāng,hù,duì" />
+		<phrase hz="男大当婚" py="nán,dà,dāng,hūn" />
+		<phrase hz="男大当娶" py="nán,dà,dāng,qǔ" />
+		<phrase hz="女大当嫁" py="nǚ,dà,dāng,jià" />
+		<phrase hz="势不可当" py="shì,bù,kě,dāng" info="来势猛烈,不可抵挡" />
+		<phrase hz="首当其冲" py="shǒu,dāng,qí,chōng" />
+		<phrase hz="顺当" py="shùn,dāng" info="没挫折;如意" />
+		<phrase hz="螳臂当车" py="táng,bì,dāng,chē" />
+		<phrase hz="瓦当" py="wǎ,dāng" info="屋檐顶端的盖瓦头，俗叫“猫头”" />
+		<phrase hz="万夫莫当" py="wàn,fū,mò,dāng" info="一万个人也抵挡不住,形容作战非常勇猛" />
+		<phrase hz="相当" py="xiāng,dāng" info="1.两方面差不多;配得上或能够相抵。2.适宜;合适。3.很;十分;极。4.足可以,尚。" />
+		<phrase hz="亚当" py="yà,dāng" info="传说中人类的始祖，由《圣经》故事而来" />
+		<phrase hz="一夫当关" py="yī,fū,dāng,guān" />
+		<phrase hz="一马当先" py="yī,mǎ,dāng,xiān" />
+		<phrase hz="应当" py="yīng,dāng" info="1.应该。2.承当;应付" />
+		<phrase hz="有祸同当" py="yǒu,huò,tóng,dāng" />
+		<phrase hz="有难同当" py="yǒu,nàn,tóng,dāng" />
+		<phrase hz="正当" py="zhèng,dāng" info="1.品行端正。2.合情合理。3.正在…时候" />
+		<phrase hz="只当" py="zhǐ,dāng" info="当成;假装" />
 		<definition id="一">
 			<item id="1" text="充，担任：开会~主席. 人民~了主人. (引)承担：好汉做事好汉~. [当选]选举时被选上：他~~为人民代表." />
 			<item id="2" text="掌管，主持：~家. ~权. ~局." />
@@ -22,7 +89,16 @@
 	</char>
 	<char hz="裆" py="dāng" />
 	<char hz="筜" py="dāng" />
-	<char hz="挡" py="dǎng" multi="dàng" main="1">
+	<char hz="挡" py="dǎng" multi="dàng" main="1" suppressLog="1">
+		<phrase hz="挡驾" py="dǎng,jià" />
+		<phrase hz="挡住" py="dǎng,zhù" />
+		<phrase hz="抵挡" py="dǐ,dǎng" />
+		<phrase hz="风挡" py="fēng,dǎng" info="1.挡风的围子。2.车上挡风的屏障。" />
+		<phrase hz="拦挡" py="lán,dǎng" />
+		<phrase hz="空挡" py="kōng,dǎng" />
+		<phrase hz="排挡" py="pái,dǎng" info="机动车辆用来改变牵引力，使车辆变速或倒行的装置。" />
+		<phrase hz="遮挡" py="zhē,dǎng" />
+		<phrase hz="阻挡" py="zǔ,dǎng" />
 		<definition id="一">
 			<item id="1" text="阻拦，遮蔽（(连)阻-、拦-）：水来土~. 把风~住. 拿芭蕉扇~着太阳." />
 			<item id="2" text="（-子、-儿）用来遮蔽的东西：炉~. 窗户~儿." />
@@ -31,11 +107,31 @@
 	<char hz="党" py="dǎng" />
 	<char hz="谠" py="dǎng" />
 	<char hz="当" py="dàng" multi="dāng">
-		<phrase hz="妥当" py="tuǒ,dàng" />
-		<phrase hz="当作" py="dàng,zuò" />
 		<phrase hz="安步当车" py="ān,bù,dàng,chē" />
+		<!-- <phrase hz="当年" py="dàng,nián" duoyin="dāng,nián" info="同一年" /> -->
+		<phrase hz="当票" py="dàng,piào" info="当铺所开的抵押品的单据" />
 		<phrase hz="当铺" py="dàng,pù" />
+		<!-- <phrase hz="当日" py="dàng,rì" duoyin="dāng,rì" info="同一天" /> -->
+		<phrase hz="当晚" py="dàng,wǎn" />
+		<phrase hz="当真" py="dàng,zhēn" />
+		<phrase hz="当作" py="dàng,zuò" />
+		<phrase hz="当做" py="dàng,zuò" />
+		<phrase hz="抵当" py="dǐ,dàng" info="抵押" />
+		<phrase hz="典当" py="diǎn,dàng" info="1.和当,以财产作低押借钱。2.当铺。" />
+		<phrase hz="家当" py="jiā,dàng" info="家庭的全部财产" />
+		<phrase hz="恰当" py="qià,dàng" />
 		<phrase hz="上当" py="shàng,dàng" />
+		<phrase hz="失当" py="shī,dàng" info="不适合;不当" />
+		<phrase hz="适当" py="shì,dàng" info="1.合适;恰当。2.正赶上。" />
+		<phrase hz="赎当" py="shú,dàng" info="用钱赎回抵押在当铺的物品" />
+		<phrase hz="妥当" py="tuǒ,dàng" />
+		<phrase hz="稳当" py="wěn,dàng" info="1.牢靠妥当。2.稳固妥当" />
+		<phrase hz="押当" py="yā,dàng" />
+		<phrase hz="一以当十" py="yī,yǐ,dàng,shí" />
+		<phrase hz="用词不当" py="yòng,cí,bú,dàng" />
+		<phrase hz="直接了当" py="zhí,jiē,liǎo,dàng" />
+		<phrase hz="直捷了当" py="zhí,jié,liǎo,dàng" />
+		<phrase hz="直截了当" py="zhí,jié,liǎo,dàng" />
 		<definition id="二">
 			<item id="1" text="恰当，合宜：处理得~. 用词不~. 妥~的办法. 适~的休息." />
 			<item id="2" text="抵得上，等于：一个人~俩人用." />
