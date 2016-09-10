@@ -52,6 +52,7 @@
 	<char hz="槿" py="jǐn" />
 	<char hz="锦" py="jǐn" />
 	<char hz="仅" py="jìn" multi="jǐn">
+		<phrase hz="尽收眼底" py="jìn,shōu,yǎn,dǐ" />
 		<definition id="二">
 			<item text="将近，几乎（多见于唐人诗文）：山城~百层. 士卒~万人." />
 		</definition>

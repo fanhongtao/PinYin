@@ -35,6 +35,7 @@
 	</char>
 	<char hz="甪" py="lù" />
 	<char hz="陆" py="lù" multi="liù" main="1">
+		<phrase hz="陆地" py="lù,dì" />
 		<definition id="一">
 			<item id="1" text="陆地，高出水面的土地：登~. ~路. ~军." />
 			<item id="2" text="姓。" />

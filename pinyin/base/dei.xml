@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="得" py="děi" multi="dē,de">
+		<phrase hz="非得" py="fēi,děi" info="表示必须——一般跟“不”呼应" />
+		<phrase hz="挺得" py="tǐng,děi" />
+		<phrase hz="总得" py="zǒng,děi" info="表示在事理上或情理上的必要;一定要" />
 		<definition id="二">
 			<item id="1" text="必须，需要：你~用功. 这活儿~三个人才能完成. 那事~你去做." />
 			<item id="2" text="会，估计必然如此：时间不早了，要不快走，就~迟到." />
