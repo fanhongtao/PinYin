@@ -5,6 +5,8 @@
 	<char hz="黇" py="tiān" />
 	<char hz="田" py="tián" />
 	<char hz="佃" py="tián" multi="diàn">
+		<phrase hz="佃器" py="tián,qì" info="农具。" />
+		<phrase hz="佃渔" py="tián,yú" info="1.猎兽和捕鱼。佃，通“畋”。 2.指涉猎。" />
 		<phrase hz="佃作" py="tián,zuò" />
 		<definition id="二">
 			<item text="佃作，耕种田地。" />
