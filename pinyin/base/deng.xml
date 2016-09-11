@@ -12,7 +12,7 @@
 	</char>
 	<char hz="噔" py="dēng" />
 	<char hz="簦" py="dēng" />
-	<char hz="蹬" py="dēng" multi="dèng" main="1">
+	<char hz="蹬" py="dēng" multi="dèng" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="同“登(2)”。" />
 		</definition>
