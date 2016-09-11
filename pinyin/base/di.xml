@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="氐" py="dī" multi="dǐ" main="1">
+		<phrase hz="氐羌" py="dī,qiāng" info="氐族与羌族。" />
+		<phrase hz="氐房" py="dī,fáng" info="星宿名。二十八宿中东方苍龙七宿的第三宿及第四宿。" />
+		<phrase hz="氐宿" py="dī,sù" />
+		<phrase hz="氐族" py="dī,zú" info="我国古代西部的少数民族。" />
 		<definition id="二">
 			<item id="1" text="我国古代西部的少数民族名。" />
 			<item id="2" text="星宿名，二十八宿之一。" />
@@ -59,7 +63,7 @@
 			<item text="箭头：锋~. 鸣~（响箭）." />
 		</definition>
 	</char>
-	<char hz="蹢" py="dí" multi="zhí" main="1">
+	<char hz="蹢" py="dí" multi="zhí" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="〈古〉蹄子。" />
 		</definition>

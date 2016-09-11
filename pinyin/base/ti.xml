@@ -27,7 +27,37 @@
 	<char hz="鹈" py="tí">
 		<phrase hz="鹈鹕" py="tí,hú" />
 	</char>
-	<char hz="提" py="tí" multi="dī" main="1">
+	<char hz="提" py="tí" multi="dī" main="1" suppressLog="1">
+		<phrase hz="提案" py="tí,àn" />
+		<phrase hz="提笔" py="tí,bǐ" />
+		<phrase hz="提倡" py="tí,chàng" />
+		<phrase hz="提出" py="tí,chū" />
+		<phrase hz="提纯" py="tí,chún" />
+		<phrase hz="提单" py="tí,dān" />
+		<phrase hz="提纲挈领" py="tí,gāng,qiè,lǐng" />
+		<phrase hz="提高" py="tí,gāo" />
+		<phrase hz="提供" py="tí,gōng" />
+		<phrase hz="提货" py="tí,huò" />
+		<phrase hz="提价" py="tí,jià" />
+		<phrase hz="提炼" py="tí,liàn" />
+		<phrase hz="提梁" py="tí,liáng" />
+		<phrase hz="提名" py="tí,míng" />
+		<phrase hz="提起" py="tí,qǐ" />
+		<phrase hz="提前" py="tí,qián" />
+		<phrase hz="提挈" py="tí,qiè" />
+		<phrase hz="提亲" py="tí,qīn" />
+		<phrase hz="提取" py="tí,qǔ" />
+		<phrase hz="提神" py="tí,shén" />
+		<phrase hz="提审" py="tí,shěn" />
+		<phrase hz="提升" py="tí,shēng" />
+		<phrase hz="提问" py="tí,wèn" />
+		<phrase hz="提箱" py="tí,xiāng" />
+		<phrase hz="提携" py="tí,xié" />
+		<phrase hz="提心吊胆" py="tí,xīn,diào,dǎn" />
+		<phrase hz="提醒" py="tí,xǐng" />
+		<phrase hz="提要" py="tí,yào" />
+		<phrase hz="提议" py="tí,yì" />
+		<phrase hz="提早" py="tí,zǎo" />
 		<definition id="一">
 			<item id="1" text="垂手拿着（有环、柄或绳套的东西）：~着一壶水. ~着一个篮子. ~心吊胆（喻害怕）. ~纲挈(qiè)领（喻扼要）." />
 			<item id="2" text="使事物由低往高、由后往前移动：~升. ~高. ~前. ~早." />
