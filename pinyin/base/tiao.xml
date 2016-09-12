@@ -29,18 +29,52 @@
 	<char hz="龆" py="tiáo" />
 	<char hz="髫" py="tiáo" />
 	<char hz="调" py="tiáo" multi="diào">
-		<phrase hz="调色" py="tiáo,sè" />
-		<phrase hz="调味" py="tiáo,wèi" />
 		<phrase hz="风调雨顺" py="fēng,tiáo,yǔ,shùn" />
-		<phrase hz="调解" py="tiáo,jiě" />
-		<phrase hz="调整" py="tiáo,zhěng" />
+		<phrase hz="解调" py="jiě,tiáo" />
+		<phrase hz="空调" py="kōng,tiáo" />
+		<phrase hz="烹调" py="pēng,tiáo" />
+		<phrase hz="失调" py="shī,tiáo" />
+		<!-- <phrase hz="调拨" py="tiáo,bō" duoyin="diào,bō" info="挑拨;调唆" /> -->
+		<phrase hz="调处" py="tiáo,chǔ" />
+		<!-- <phrase hz="调档" py="tiáo,dàng" duoyin="diào,dàng" info="变速器,换档机构,使动力传动系统中的齿合或脱开的机构" /> -->
+		<phrase hz="调幅" py="tiáo,fú" />
+		<phrase hz="调羹" py="tiáo,gēng" />
+		<phrase hz="调和" py="tiáo,hé" />
+		<phrase hz="调侃" py="tiáo,kǎn" />
+		<phrase hz="调控" py="tiáo,kòng" />
+		<phrase hz="调级" py="tiáo,jí" />
 		<phrase hz="调剂" py="tiáo,jì" />
-		<phrase hz="调停" py="tiáo,tíng" />
-		<phrase hz="调唆" py="tiáo,suō" />
-		<phrase hz="调嘴弄舌" py="tiáo,zuǐ,nòng,shé" />
-		<phrase hz="调笑" py="tiáo,xiào" />
-		<phrase hz="调戏" py="tiáo,xì" />
+		<phrase hz="调价" py="tiáo,jià" />
+		<phrase hz="调节" py="tiáo,jié" />
+		<phrase hz="调解" py="tiáo,jiě" />
+		<phrase hz="调理" py="tiáo,lǐ" />
+		<phrase hz="调料" py="tiáo,liào" />
+		<!-- <phrase hz="调配" py="tiáo,pèi" duoyin="diào,pèi" info="调理配合" /> -->
 		<phrase hz="调皮" py="tiáo,pí" />
+		<phrase hz="调频" py="tiáo,pín" />
+		<phrase hz="调情" py="tiáo,qíng" />
+		<phrase hz="调色" py="tiáo,sè" />
+		<phrase hz="调摄" py="tiáo,shè" />
+		<phrase hz="调试" py="tiáo,shì" />
+		<phrase hz="调适" py="tiáo,shì" />
+		<phrase hz="调唆" py="tiáo,suō" />
+		<phrase hz="调停" py="tiáo,tíng" />
+		<phrase hz="调味" py="tiáo,wèi" />
+		<phrase hz="调息" py="tiáo,xī" />
+		<phrase hz="调戏" py="tiáo,xì" />
+		<phrase hz="调谐" py="tiáo,xié" />
+		<phrase hz="调协" py="tiáo,xié" />
+		<phrase hz="调笑" py="tiáo,xiào" />
+		<phrase hz="调养" py="tiáo,yǎng" />
+		<phrase hz="调音" py="tiáo,yīn" />
+		<phrase hz="调匀" py="tiáo,yún" />
+		<phrase hz="调整" py="tiáo,zhěng" />
+		<phrase hz="调制" py="tiáo,zhì" />
+		<phrase hz="调治" py="tiáo,zhì" />
+		<phrase hz="调嘴弄舌" py="tiáo,zuǐ,nòng,shé" />
+		<phrase hz="协调" py="xié,tiáo" />
+		<phrase hz="下调" py="xià,tiáo" duoyin="xià,diào" info="向低水准调整" />
+		<phrase hz="众口难调" py="zhòng,kǒu,nán,tiáo" />
 		<definition id="一">
 			<item id="1" text="配合均匀：~色. ~味. 风~雨顺. (引)使和谐：~解. ~整. [调剂]1.配药。 2.(-ji)调(diào)配，使均匀：组与组之间人力可以互相~~. [调停]使争端平息。" />
 			<item id="2" text="挑拨；挑逗（(连)-唆）：~嘴弄舌. ~笑. ~戏. [调皮]好开玩笑，顽皮。" />
