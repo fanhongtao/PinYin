@@ -87,7 +87,7 @@
 	</char>
 	<char hz="铡" py="zhá" />
 	<char hz="喋" py="zhá" multi="dié">
-		<phrase hz="唼喋" py="shà,zhá" />
+		<phrase hz="唼喋" py="shà,zhá" info="形容鱼或水鸟吃食的声音,也指鱼或水鸟吃食" />
 		<definition id="二">
 			<item text="见“唼”字条“唼喋”(shà-)" />
 		</definition>

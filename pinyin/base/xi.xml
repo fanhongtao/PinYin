@@ -191,7 +191,7 @@
 	<char hz="屃" py="xì" />
 	<char hz="细" py="xì" />
 	<char hz="盻" py="xì" />
-	<char hz="咥" py="xì" multi="dié">
+	<char hz="咥" py="xì" multi="dié" main="1">
 		<definition id="一">
 			<item text="大笑。" />
 		</definition>
