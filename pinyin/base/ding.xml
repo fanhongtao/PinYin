@@ -1,7 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="丁" py="dīng" multi="zhēng" main="1">
+	<char hz="丁" py="dīng" multi="zhēng" main="1" suppressLog="1">
+		<phrase hz="白丁" py="bái,dīng" info="没有取得功名的平民" />
+		<phrase hz="补丁" py="bǔ,dīng" />
+		<phrase hz="丁丑" py="dīng,chǒu" info="六十甲子的第十四位" />
 		<phrase hz="丁当" py="dīng,dāng" />
+		<phrase hz="丁丁" py="dīng,dīng" />
+		<phrase hz="丁冬" py="dīng,dōng" info="象声词。丁当声,丁丁作响,形容金属、玉器碰撞的声音,也作丁东、 叮咚" />
+		<phrase hz="丁艰" py="dīng,jiān" info="遭父母之丧。" />
+		<phrase hz="丁宁" py="dīng,níng" info="叮咛,反复地嘱咐" />
+		<phrase hz="丁香" py="dīng,xiāng" />
+		<phrase hz="丁忧" py="dīng,yōu" info="遭逢父母的丧事,也称“丁艰”" />
+		<phrase hz="丁字尺" py="dīng,zì,chǐ" info="一端有横档的直尺,“丁”字形用于划平行线或用作三角板的支承物来划与直尺成各种角度的直线" />
+		<phrase hz="丁字钢" py="dīng,zì,gāng" info="断面呈T形的条状钢材。俗称丁字铁。" />
+		<phrase hz="丁字街" py="dīng,zì,jiē" info="即两条相交处呈“T”形的街道" />
+		<phrase hz="可丁可卯" py="kě,dīng,kě,mǎo" />
+		<phrase hz="冷不丁" py="lěng,bù,dīng" />
+		<phrase hz="零丁" py="líng,dīng" />
+		<phrase hz="目不识丁" py="mù,bù,shí,dīng" />
+		<phrase hz="男丁" py="nán,dīng" />
+		<phrase hz="庖丁解牛" py="páo,dīng,jiě,niú" />
+		<phrase hz="添丁" py="tiān,dīng" />
+		<phrase hz="园丁" py="yuán,dīng" />
+		<phrase hz="壮丁" py="zhuàng,dīng" />
 		<definition id="一">
 			<item id="1" text="天干的第四位，常用作顺序的第四。" />
 			<item id="2" text="成年男子：壮~. (引)1.旧指人口：人~. ~口. 2.指从事某种劳动的人：园~." />
@@ -19,13 +40,38 @@
 		<phrase hz="玎玲" py="dīng,líng" />
 	</char>
 	<char hz="盯" py="dīng" />
-	<char hz="町" py="dīng" multi="tǐng" main="1">
+	<char hz="町" py="dīng" multi="tǐng">
 		<phrase hz="畹町" py="wǎn,dīng" />
 		<definition id="二">
 			<item text="见“畹”字条“畹町”(wǎn-)。" />
 		</definition>
 	</char>
 	<char hz="钉" py="dīng" multi="dìng" main="1">
+		<phrase hz="扒钉" py="bā,dīng" info="一种钉头有两个尖刺的钢制固定件,用来将两块木材固定在一起(如在顶撑方法中)" />
+		<phrase hz="补钉" py="bǔ,dīng" />
+		<phrase hz="道钉" py="dào,dīng" info="铁路上用于将路轨固定在轨枕上的类似的钉" />
+		<phrase hz="钉锤" py="dīng,chuí" />
+		<phrase hz="钉铰" py="dīng,jiǎo" />
+		<phrase hz="钉铃" py="dīng,líng" />
+		<phrase hz="钉螺" py="dīng,luó" info="一种锥形的卵生螺。" />
+		<phrase hz="钉帽" py="dīng,mào" info="钉子的项端" />
+		<phrase hz="钉梢" py="dīng,shāo" info="暗中跟踪监视。同“盯梢”。" />
+		<phrase hz="钉是钉" py="dīng,shì,dīng" info="后接“，铆是铆”。形容办事认真,一丝不苟。也作“丁是丁,卯是卯”" />
+		<phrase hz="钉鞋" py="dīng,xié" />
+		<phrase hz="钉子" py="dīng,zi" />
+		<phrase hz="鼓钉" py="gǔ,dīng" />
+		<phrase hz="螺钉" py="luó,dīng" />
+		<phrase hz="螺丝钉" py="luó,sī,dīng" />
+		<phrase hz="铆钉" py="mǎo,dīng" />
+		<phrase hz="门钉" py="mén,dīng" />
+		<phrase hz="命钉" py="mìng,dīng" info="钉棺材盖的钉子。" />
+		<phrase hz="木钉" py="mù,dīng" />
+		<phrase hz="揿钉" py="qìn,dīng" info="图钉;有大平头的短钢钉" />
+		<phrase hz="铁钉" py="tiě,dīng" />
+		<phrase hz="图钉" py="tú,dīng" />
+		<phrase hz="销钉" py="xiāo,dīng" />
+		<phrase hz="眼中钉" py="yǎn,zhōng,dīng" />
+		<phrase hz="斩钉截铁" py="zhǎn,dīng,jié,tiě" />
 		<definition id="一">
 			<item id="1" text="（-子、-儿）竹、金属制成的可以打入他物的细条形的东西：螺丝~儿. 碰~子（喻受打击或被拒绝）." />
 			<item id="2" text="紧跟着不放松：~住对方的前锋." />
@@ -38,6 +84,7 @@
 	</char>
 	<char hz="酊" py="dīng" multi="dǐng" main="1">
 		<phrase hz="碘酊" py="diǎn,dīng" />
+		<phrase hz="酊剂" py="dīng,jì" info="药物在酒精或兑水酒精溶剂或酒精与乙醚混合溶剂中形成的一种药物溶液(如碘酒)" />
 		<definition id="一">
 			<item text="(外)医药上用酒精和药配合成的液体：碘~." />
 		</definition>
@@ -56,7 +103,10 @@
 	</char>
 	<char hz="饤" py="dìng" />
 	<char hz="钉" py="dìng" multi="dīng" info="Word主音">
+		<phrase hz="板上钉钉" py="bǎn,shàng,dìng,dīng" />
 		<phrase hz="钉扣子" py="dìng,kòu,zi" />
+		<phrase hz="钉书钉" py="dìng,shū,dīng" />
+		<phrase hz="铁板钉钉" py="tiě,bǎn,dìng,dīng" />
 		<definition id="二">
 			<item id="1" text="把钉子或楔(xiē)子打入他物：拿个钉子~一~. 墙上~着木橛." />
 			<item id="2" text="连接在一起：~扣子." />

@@ -54,6 +54,7 @@
 	<char hz="绺" py="liǔ" />
 	<char hz="锍" py="liǔ" />
 	<char hz="六" py="liù" multi="lù" main="1">
+		<phrase hz="六丁六甲" py="liù,dīng,liù,jiǎ" />
 		<definition id="一">
 			<item id="1" text="数目字。" />
 			<item id="2" text="旧时乐谱记音符号的一个，相当于简谱的“5”。" />

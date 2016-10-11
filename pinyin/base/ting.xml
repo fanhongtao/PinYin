@@ -20,7 +20,7 @@
 	</char>
 	<char hz="渟" py="tíng" />
 	<char hz="婷" py="tíng" />
-	<char hz="町" py="tǐng" multi="dīng">
+	<char hz="町" py="tǐng" multi="dīng" main="1">
 		<definition id="一" text="〈古〉">
 			<item id="1" text="田界。" />
 			<item id="2" text="田地。" />
