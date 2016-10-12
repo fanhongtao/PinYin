@@ -26,6 +26,7 @@
 		</definition>
 	</char>
 	<char hz="侗" py="tóng" multi="dòng,tǒng">
+		<phrase hz="倥侗" py="kōng,tóng" info="蒙昧无知" />
 		<definition id="二">
 			<item text="旧指童蒙无知。" />
 		</definition>

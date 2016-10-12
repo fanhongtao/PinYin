@@ -18,11 +18,14 @@
 	<char hz="栋" py="dòng" />
 	<char hz="胨" py="dòng" />
 	<char hz="侗" py="dòng" multi="tóng,tǒng" main="1">
+		<phrase hz="侗剧" py="dòng,jù" info="侗族戏曲剧种，流行于贵州，湖南，广西等地" />
+		<phrase hz="侗族" py="dòng,zú" />
 		<definition id="一">
 			<item text="[侗族]我国少数民族。" />
 		</definition>
 	</char>
 	<char hz="垌" py="dòng" multi="tóng" main="1">
+		<phrase hz="田垌" py="tián,dòng" />
 		<definition id="一">
 			<item id="1" text="田地：田~." />
 			<item id="2" text="地名用字：麻~（在广西壮族自治区桂平）. 中~（在广东省化州）." />
