@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="都" py="dōu" multi="dū" main="1">
+		<phrase hz="大都" py="dà,dōu" duoyin="dà,dū" info="几乎全部或大多数" />
+		<phrase hz="都来" py="dōu,lái" />
+		<phrase hz="全都" py="quán,dōu" />
+		<phrase hz="桃都山" py="táo,dōu,shān" info="传说中的山名。 山上有大桃树，树上有金鸡（即天鸡）；树下有神荼、郁垒二神（即中国最早的门神）。" />
 		<definition id="二" text="副词。">
 			<item id="1" text="全，完全：事情不论大小，~要做好." />
 			<item id="2" text="表示语气的加重：~十二点了还一睡. 连孩子~搬得动." />
@@ -11,7 +15,44 @@
 	<char hz="蔸" py="dōu" />
 	<char hz="篼" py="dōu" />
 	<char hz="斗" py="dǒu" multi="dòu" main="1">
+		<phrase hz="北斗" py="běi,dǒu" />
+		<phrase hz="才高八斗" py="cái,gāo,bā,dǒu" />
+		<phrase hz="胆大如斗" py="dǎn,dà,rú,dǒu" />
+		<phrase hz="斗柄" py="dǒu,bǐng" />
+		<phrase hz="斗胆" py="dǒu,dǎn" />
 		<phrase hz="斗拱" py="dǒu,gǒng" />
+		<phrase hz="斗极" py="dǒu,jí" info="1.星座名。由七顆星組合排列在北方的天空中。2.代稱有道者。" />
+		<phrase hz="斗酒百篇" py="dǒu,jiǔ,bǎi,piān" info="喝一斗酒，能作詩歌百篇。比喻文才敏捷的人。" />
+		<phrase hz="斗魁" py="dǒu,kuí" info="1.指北斗七星之第一至第四星，即枢、璇、玑、权。2.泛指北斗。3.喻指德高望重或才学冠世而为众人景仰的人。" />
+		<phrase hz="斗笠" py="dǒu,lì" />
+		<phrase hz="斗量" py="dǒu,liáng" info="自定义词。如：斗量车载、海水不可斗量" />
+		<phrase hz="斗南" py="dǒu,nán" info="北斗星之南的相星。旧时用來代称宰相或相位。" />
+		<phrase hz="斗篷" py="dǒu,péng" />
+		<phrase hz="斗渠" py="dǒu,qú" />
+		<phrase hz="斗筲之人" py="dǒu,shāo,zhī,rén" />
+		<phrase hz="斗室" py="dǒu,shì" />
+		<phrase hz="斗纹" py="dǒu,wén" info="一种指纹形态。指头中心部位的纹线呈圆形、螺形或椭圆形。" />
+		<phrase hz="斗折蛇行" py="dǒu,zhé,shé,xíng" />
+		<phrase hz="斗转" py="dǒu,zhuǎn" />
+		<phrase hz="斗子" py="dǒu,zi" />
+		<phrase hz="翻斗" py="fān,dǒu" info="指可以翻转过来的车斗" />
+		<phrase hz="风斗" py="fēng,dǒu" info="纸板或三合板制作、安在门窗上的通风换气设备，主要用作冬季生火取暖时防止煤气中毒" />
+		<phrase hz="跟斗" py="gēn,dǒu" />
+		<phrase hz="挂斗" py="guà,dǒu" info="汽车等后的拖斗，没有动力装置" />
+		<phrase hz="箕斗" py="jī,dǒu" info="1.星名。即箕宿与斗宿。2.人手上的指纹，簸箕形的叫箕，螺旋形的叫斗。" />
+		<phrase hz="筋斗" py="jīn,dǒu" info="〈方〉跟头" />
+		<phrase hz="斤斗" py="jīn,dǒu" info="〈方〉跟头" />
+		<phrase hz="漏斗" py="lòu,dǒu" />
+		<phrase hz="南斗" py="nán,dǒu" />
+		<phrase hz="气冲斗牛" py="qì,chōng,dǒu,niú" info="：气势；牛、斗：即牵牛星和北斗星，指天空。形容怒气冲天或气势很盛。" />
+		<phrase hz="气吞牛斗" py="qì,tūn,niú,dǒu" info="牛，牵牛星。斗，北斗星。牛斗泛指星空。气吞牛斗形容气魄很大。" />
+		<phrase hz="山斗" py="shān,dǒu" info="比喻負有盛望或學術高深，為人所景仰的人。" />
+		<phrase hz="升斗" py="shēng,dǒu" info="1.容量單位。2.比喻少量的糧食。" />
+		<phrase hz="泰斗" py="tài,dǒu" />
+		<phrase hz="拖斗" py="tuō,dǒu" info="小型无棚拖车;挂斗" />
+		<phrase hz="星斗" py="xīng,dǒu" />
+		<phrase hz="烟斗" py="yān,dǒu" />
+		<phrase hz="熨斗" py="yùn,dǒu" />
 		<definition id="一">
 			<item id="1" text="市制容量单位，1斗是10升。" />
 			<item id="2" text="量(liáng)粮食的器具，容量是1斗，多为方形。(喻)1.形容小东西的大：~胆. 2.形容大东西的小：~室. ~城." />
@@ -30,12 +71,52 @@
 	<char hz="蚪" py="dǒu" />
 	<char hz="陡" py="dǒu" />
 	<char hz="斗" py="dòu" multi="dǒu" info="Word主音">
-		<phrase hz="战斗" py="zhàn,dòu" />
+		<phrase hz="挨斗" py="ái,dòu" />
 		<phrase hz="搏斗" py="bó,dòu" />
-		<phrase hz="斗争" py="dòu,zhēng" />
-		<phrase hz="奋斗" py="fèn,dòu" />
-		<phrase hz="斗智" py="dòu,zhì" />
+		<phrase hz="打斗" py="dǎ,dòu" />
+		<phrase hz="斗打" py="dòu,dǎ" />
+		<phrase hz="斗法" py="dòu,fǎ" />
+		<phrase hz="斗分子" py="dòu,fèn,zǐ" info="众人凑钱去做某一件事。" />
+		<phrase hz="斗狠" py="dòu,hěn" />
+		<phrase hz="斗鸡" py="dòu,jī" />
+		<phrase hz="斗鸡眼" py="dòu,jī,yǎn" info="内斜视的通称。" />
+		<phrase hz="斗舰" py="dòu,jiàn" info="古代大战船" />
+		<phrase hz="斗口" py="dòu,kǒu" />
 		<phrase hz="斗力" py="dòu,lì" />
+		<phrase hz="斗牛" py="dòu,niú" />
+		<phrase hz="斗殴" py="dòu,ōu" />
+		<phrase hz="斗气" py="dòu,qì" />
+		<phrase hz="斗趣" py="dòu,qù" />
+		<phrase hz="斗拳" py="dòu,quán" />
+		<phrase hz="斗胜" py="dòu,shèng" />
+		<phrase hz="斗蟋蟀" py="dòu,xī,shuài" />
+		<phrase hz="斗艳" py="dòu,yàn" />
+		<phrase hz="斗眼" py="dòu,yǎn" info="指黑眼珠向内偏的双眼" />
+		<phrase hz="斗勇" py="dòu,yǒng" />
+		<phrase hz="斗鱼" py="dòu,yú" />
+		<phrase hz="斗争" py="dòu,zhēng" />
+		<phrase hz="斗智" py="dòu,zhì" />
+		<phrase hz="斗志" py="dòu,zhì" />
+		<phrase hz="斗嘴" py="dòu,zuǐ" />
+		<phrase hz="恶斗" py="è,dòu" />
+		<phrase hz="奋斗" py="fèn,dòu" />
+		<phrase hz="格斗" py="gé,dòu" />
+		<phrase hz="钩心斗角" py="gōu,xīn,dòu,jiǎo" />
+		<phrase hz="好斗" py="hào,dòu" />
+		<phrase hz="角斗" py="jué,dòu" />
+		<phrase hz="决斗" py="jué,dòu" />
+		<phrase hz="困兽犹斗" py="kùn,shòu,yóu,dòu" />
+		<phrase hz="撩斗" py="liáo,dòu" info="惹弄、挑逗。" />
+		<phrase hz="龙争虎斗" py="lóng,zhēng,hǔ,dòu" />
+		<phrase hz="明争暗斗" py="míng,zhēng,àn,dòu" />
+		<phrase hz="殴斗" py="ōu,dòu" />
+		<phrase hz="文斗" py="wén,dòu" />
+		<phrase hz="武斗" py="wǔ,dòu" />
+		<phrase hz="引斗" py="yǐn,dòu" info="1.逗弄。2.逗弄使之相鬥。" />
+		<phrase hz="战斗" py="zhàn,dòu" />
+		<phrase hz="争斗" py="zhēng,dòu" />
+		<phrase hz="作困兽斗" py="zuò,kùn,shòu,dòu" />
+		<phrase hz="坐山观虎斗" py="zuò,shān,guān,hǔ,dòu" />
 		<definition id="二">
 			<item id="1" text="对打（(连)战-）：搏~. [斗争]1.矛盾的双方互相冲突，一方力求战胜另一方：思想~~. 2.用说理、揭露、控诉等方式打击：开~~会. 3.奋斗：为了实现四个现代化而~~. [奋斗]为了达到一定的目的而努力干。" />
 			<item id="2" text="比赛胜负：~智. ~力." />
