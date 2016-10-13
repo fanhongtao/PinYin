@@ -4,9 +4,7 @@
 	<char hz="队" py="duì">
 		<phrase hz="队伍" py="duì,wu" />
 	</char>
-	<char hz="对" py="duì">
-		<phrase hz="校对" py="jiào,duì" />
-	</char>
+	<char hz="对" py="duì" />
 	<char hz="怼" py="duì" />
 	<char hz="兑" py="duì" />
 	<char hz="敦" py="duì" multi="dūn">

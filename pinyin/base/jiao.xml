@@ -143,6 +143,7 @@
 	<char hz="校" py="jiào" multi="xiào">
 		<phrase hz="校场" py="jiào,chǎng" />
 		<phrase hz="校订" py="jiào,dìng" />
+		<phrase hz="校对" py="jiào,duì" />
 		<phrase hz="校稿子" py="jiào,gǎo,zi" />
 		<definition id="二">
 			<item id="1" text="比较：~场（旧日演习武术的地方）." />
