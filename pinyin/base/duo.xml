@@ -17,7 +17,13 @@
 	<char hz="裰" py="duō" />
 	<char hz="夺" py="duó" />
 	<char hz="度" py="duó" multi="dù">
+		<phrase hz="猜度" py="cāi,duó" info="料想" />
+		<phrase hz="测度" py="cè,duó" info="猜测揣度" />
+		<phrase hz="揣度" py="chuǎi,duó" info="考虑估量" />
+		<phrase hz="忖度" py="cǔn,duó" info="推测;估计" />
 		<phrase hz="度德量力" py="duó,dé,liàng,lì" />
+		<phrase hz="审时度势" py="shěn,shí,duó,shì" />
+		<phrase hz="臆度" py="yì,duó" info="凭主观猜测" />
 		<definition id="二">
 			<item text="忖度，揣度，计算，推测：~德量力." />
 		</definition>

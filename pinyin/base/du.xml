@@ -95,6 +95,7 @@
 		<phrase hz="髑髅" py="dú,lóu" />
 	</char>
 	<char hz="肚" py="dǔ" multi="dù">
+		<!-- <phrase hz="肚子" py="dǔ,zi" duoyin="dù,zi" info="动物的胃作食品时叫肚。" /> -->
 		<definition id="二">
 			<item text="（-子、-儿）动物的胃作食品时叫肚：猪~子. 羊~儿." />
 		</definition>
@@ -113,6 +114,13 @@
 		<phrase hz="杜撰" py="dù,zhuàn" />
 	</char>
 	<char hz="肚" py="dù" multi="dǔ" main="1">
+		<phrase hz="肚带" py="dù,dài" />
+		<phrase hz="肚兜" py="dù,dōu" />
+		<phrase hz="肚量" py="dù,liàng" />
+		<phrase hz="肚脐" py="dù,qí" />
+		<phrase hz="肚子" py="dù,zi" duoyin="dǔ,zi" info="1.腹部的俗称。2.圆得像人或动物肚子部分。" />
+		<phrase hz="牵肠挂肚" py="qiān,cháng,guà,dù" />
+		<phrase hz="腿肚" py="tuǐ,dù" />
 		<definition id="一">
 			<item id="1" text="（-子）腹部，胸下腿上的部分。(引)（-儿）器物中空的部分：大~儿坛子." />
 			<item id="2" text="（-子、-儿）圆而凸起像肚子的：腿~子. 手指头~儿." />
@@ -121,7 +129,47 @@
 	<char hz="miss: 钅杜" py="dù" info="special" />
 	<char hz="妒" py="dù" />
 	<char hz="度" py="dù" multi="duó" main="1">
+		<phrase hz="暗度陈仓" py="àn,dù,chén,cāng" />
+		<phrase hz="百度" py="bǎi,dù" />
+		<phrase hz="长度" py="cháng,dù" />
+		<phrase hz="程度" py="chéng,dù" />
+		<phrase hz="尺度" py="chǐ,dù" />
+		<phrase hz="大度" py="dà,dù" />
+		<phrase hz="低度" py="dī,dù" />
+		<phrase hz="度牒" py="dù,dié" info="旧时官府发给僧尼的证明身份的文件。也叫戒牒" />
+		<phrase hz="度过" py="dù,guò" />
+		<phrase hz="度假" py="dù,jià" />
+		<phrase hz="度量" py="dù,liàng" />
 		<phrase hz="度量衡" py="dù,liàng,héng" />
+		<phrase hz="度日" py="dù,rì" />
+		<phrase hz="法度" py="fǎ,dù" />
+		<phrase hz="风度" py="fēng,dù" />
+		<phrase hz="幅度" py="fú,dù" />
+		<phrase hz="高度" py="gāo,dù" />
+		<phrase hz="共度" py="gòng,dù" />
+		<phrase hz="过度" py="guò,dù" />
+		<phrase hz="厚度" py="hòu,dù" />
+		<phrase hz="极度" py="jí,dù" />
+		<phrase hz="角度" py="jiǎo,dù" />
+		<phrase hz="金针度人" py="jīn,zhēn,dù,rén" />
+		<phrase hz="进度" py="jìn,dù" />
+		<phrase hz="经度" py="jīng,dù" />
+		<phrase hz="刻度" py="kè,dù" />
+		<phrase hz="宽度" py="kuān,dù" />
+		<phrase hz="浓度" py="nóng,dù" />
+		<phrase hz="气度" py="qì,dù" />
+		<phrase hz="前度" py="qián,dù" />
+		<phrase hz="湿度" py="shī,dù" />
+		<phrase hz="适度" py="shì,dù" />
+		<phrase hz="态度" py="tài,dù" />
+		<phrase hz="剃度" py="tì,dù" info="佛教用语，指给要出家的人剃去头发" />
+		<phrase hz="纬度" py="wěi,dù" />
+		<phrase hz="温度" py="wēn,dù" />
+		<phrase hz="一年一度" py="yī,nián,yī,dù" />
+		<phrase hz="硬度" py="yìng,dù" />
+		<phrase hz="再度" py="zài,dù" />
+		<phrase hz="制度" py="zhì,dù" />
+		<phrase hz="置之度外" py="zhì,zhī,dù,wài" />
 		<definition id="一">
 			<item id="1" text="计算长短的器具或单位：~量(liàng)衡." />
 			<item id="2" text="依照计算的标准划分的单位：温~. 湿~. 经~. 用了20~电." />

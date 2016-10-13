@@ -37,7 +37,17 @@
 	<char hz="炖" py="dùn" />
 	<char hz="砘" py="dùn" />
 	<char hz="钝" py="dùn" />
-	<char hz="顿" py="dùn" multi="dú" main="1">
+	<char hz="顿" py="dùn" multi="dú" main="1" suppressLog="1">
+		<phrase hz="安顿" py="ān,dùn" />
+		<phrase hz="顿时" py="dùn,shí" />
+		<phrase hz="顿首" py="dùn,shǒu" />
+		<phrase hz="顿悟" py="dùn,wù" />
+		<phrase hz="顿足" py="dùn,zú" />
+		<phrase hz="困顿" py="kùn,dùn" />
+		<phrase hz="劳顿" py="láo,dùn" />
+		<phrase hz="停顿" py="tíng,dùn" />
+		<phrase hz="抑扬顿挫" py="yì,yáng,dùn,cuò" />
+		<phrase hz="整顿" py="zhěng,dùn" />
 		<definition id="一">
 			<item id="1" text="很短时间的停止（(连)停-）：抑扬~挫. 念到这个地方应该~一下." />
 			<item id="2" text="忽然，立刻，一下子：~悟. ~时紧张起来." />

@@ -14,9 +14,9 @@
 	</char>
 	<char hz="舌" py="shé" />
 	<char hz="折" py="shé" multi="zhē,zhé">
-		<phrase hz="折了" py="shé,le" />
 		<phrase hz="折本" py="shé,běn" />
 		<phrase hz="折耗" py="shé,hào" />
+		<phrase hz="折了" py="shé,le" />
 		<definition id="二">
 			<item id="1" text="断：绳子~了. 棍子~了." />
 			<item id="2" text="亏损：~本. [折耗]亏耗，损失：青菜~~太大." />
@@ -30,18 +30,18 @@
 		</definition>
 	</char>
 	<char hz="阇" py="shé" multi="dū">
-		<phrase hz="阇梨" py="shé,lí" />
+		<phrase hz="阇梨" py="shé,lí" info="梵语“阿阇梨”的省称。佛教指高僧，泛指僧。" />
 		<definition id="二">
 			<item text="[阇梨]梵语“阿阇梨”的省称。佛教指高僧，泛指僧。" />
 		</definition>
 	</char>
 	<char hz="舍" py="shě" multi="shè" info="Word主音">
-		<phrase hz="舍弃" py="shě,qì" />
 		<phrase hz="舍己为人" py="shě,jǐ,wèi,rén" />
 		<phrase hz="舍近求远" py="shě,jìn,qiú,yuǎn" />
-		<phrase hz="四舍五入" py="sì,shě,wǔ,rù" />
-		<phrase hz="舍粥" py="shě,zhōu" />
+		<phrase hz="舍弃" py="shě,qì" />
 		<phrase hz="舍药" py="shě,yào" />
+		<phrase hz="舍粥" py="shě,zhōu" />
+		<phrase hz="四舍五入" py="sì,shě,wǔ,rù" />
 		<definition id="二">
 			<item id="1" text="放弃，不要了：~已为人. ~近求远. 四~五入." />
 			<item id="2" text="施舍：~粥. ~药." />
