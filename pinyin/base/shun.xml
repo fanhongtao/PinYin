@@ -2,6 +2,8 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="吮" py="shǔn" />
 	<char hz="楯" py="shǔn" multi="dùn">
+		<phrase hz="栏楯" py="lán,shǔn" info="栏杆。纵为栏,横曰楯" />
+		<phrase hz="楯轩" py="shǔn,xuān" info="指有栏杆的长廊或小室。" />
 		<definition id="一">
 			<item text="阑干。" />
 		</definition>

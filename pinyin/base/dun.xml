@@ -43,13 +43,19 @@
 	<char hz="盹" py="dǔn" />
 	<char hz="趸" py="dǔn" />
 	<char hz="囤" py="dùn" multi="tún" main="1">
+		<phrase hz="大囤满" py="dà,dùn,mǎn" />
+		<phrase hz="火囤" py="huǒ,dùn" info="1.犹火盆，火塘。2.谓利用女色设圈套骗人。" />
+		<phrase hz="粮囤" py="liáng,dùn" />
+		<phrase hz="露囤" py="lù,dùn" info="露天的粮囤。" />
+		<phrase hz="牛囤" py="niú,dùn" info="牛栏。" />
+		<phrase hz="人皮囤" py="rén,pí,dùn" info="犹言酒囊饭袋。用以讥讽只会吃喝、不会做事的人。" />
+		<phrase hz="石囤" py="shí,dùn" info="又称蛇笼。用以阻止水流的盛石竹笼。" />
+		<phrase hz="小囤流" py="xiǎo,dùn,liú" />
 		<definition id="一">
 			<item text="用竹篾、荆条等编成的或用席箔等围成的盛粮食等的器物：大~满，小~流." />
 		</definition>
 	</char>
-	<char hz="沌" py="dùn">
-		<phrase hz="混沌" py="hùn,dùn" />
-	</char>
+	<char hz="沌" py="dùn" />
 	<char hz="炖" py="dùn" />
 	<char hz="砘" py="dùn" />
 	<char hz="钝" py="dùn" />
@@ -84,6 +90,14 @@
 	</char>
 	<char hz="遁" py="dùn" />
 	<char hz="楯" py="dùn" multi="shǔn" main="1">
+		<phrase hz="陛楯郎" py="bì,dùn,láng" info="执楯立于殿陛两侧的侍卫。" />
+		<phrase hz="刀楯" py="dāo,dùn" info="刀和盾牌。古代短兵器。" />
+		<phrase hz="钩楯" py="gōu,dùn" info="1.即钩盾。2.弯曲如钩的栏杆。" />
+		<phrase hz="甲楯" py="jiǎ,dùn" info="1.亦作“甲盾”。盔甲和盾牌。2.泛指武器。3.指披甲持盾的士兵。4.披甲持盾。5.指仪仗卫从。" />
+		<phrase hz="矛楯" py="máo,dùn" info="亦作“矛盾”。" />
+		<phrase hz="武头楯" py="wǔ,tóu,dùn" info="即虎头盾。兵器名。" />
+		<phrase hz="杨楯" py="yáng,dùn" info="杨木做的盾牌。" />
+		<phrase hz="鬻矛誉楯" py="yù,máo,yù,dùn" info="指自相矛盾，不能两立。" />
 		<definition id="二">
 			<item text="同“盾”。" />
 		</definition>

@@ -11,6 +11,9 @@
 	</char>
 	<char hz="囤" py="tún" multi="dùn">
 		<phrase hz="囤积" py="tún,jī" />
+		<phrase hz="囤积居奇" py="tún,jī,jū,qí" info="囤、居：积聚；奇：稀少的物品。把稀少的货物储藏起来。指商人囤积大量商品，等待高价出卖，牟取暴利。（贬义）" />
+		<phrase hz="囤集" py="tún,jí" />
+		<phrase hz="囤聚" py="tún,jù" info="储存聚集(货物)" />
 		<phrase hz="囤货" py="tún,huò" />
 		<definition id="二">
 			<item text="囤积，积存，存储货物、粮食：~货." />
