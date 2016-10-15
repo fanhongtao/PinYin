@@ -14,6 +14,8 @@
 		</definition>
 	</char>
 	<char hz="哦" py="ò" multi="é,ó" main="1">
+		<phrase hz="哦呵" py="ò,hē" info="表示惊奇、满意或羡慕" />
+		<phrase hz="哦唷" py="ò,yō" info="表示惊奇，有时表示讥笑" />
 		<definition id="二">
 			<item text="叹词，表示领会、醒悟：~，我明白了." />
 		</definition>

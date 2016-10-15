@@ -52,6 +52,93 @@
 	<char hz="轭" py="è" />
 	<char hz="垩" py="è" />
 	<char hz="恶" py="è" multi="ě,wū,wù" main="1">
+		<phrase hz="丑恶" py="chǒu,è" />
+		<phrase hz="除恶务尽" py="chú,è,wù,jìn" />
+		<phrase hz="刁恶" py="diāo,è" info="狡诈邪恶。" />
+		<phrase hz="恶霸" py="è,bà" />
+		<phrase hz="恶变" py="è,biàn" info="医学上指肿瘤由良性转变成恶性。" />
+		<phrase hz="恶臭" py="è,chòu" />
+		<phrase hz="恶党" py="è,dǎng" info="為非做歹的壞蛋。" />
+		<phrase hz="恶道" py="è,dào" info="1.凶惡的道士。2.不正當的行徑。3.佛教上指地獄、餓鬼、畜生等三道。" />
+		<phrase hz="恶毒" py="è,dú" />
+		<phrase hz="恶法" py="è,fǎ" info="壞的，對人民權益保障不完善的法律。" />
+		<phrase hz="恶风" py="è,fēng" info="1.不良的風氣、風俗。2.中醫上指身體怕風，猶言風邪。3.狂風、巨風。" />
+		<phrase hz="恶妇" py="è,fù" info="坏女人" />
+		<phrase hz="恶感" py="è,gǎn" info="对某人不满或憎恶的感情" />
+		<phrase hz="恶贯满盈" py="è,guàn,mǎn,yíng" />
+		<phrase hz="恶鬼" py="è,guǐ" info="1.罵人邪惡殘暴、無人性。2.佛教上指惱害人的鬼徒。" />
+		<phrase hz="恶棍" py="è,gùn" />
+		<phrase hz="恶果" py="è,guǒ" />
+		<phrase hz="恶寒" py="è,hán" info="中意上指病人怕冷、畏寒的征兆。" />
+		<phrase hz="恶耗" py="è,hào" info="壞消息，常用以指親友的死亡。" />
+		<phrase hz="恶狠" py="è,hěn" info="凶恶狠毒" />
+		<phrase hz="恶狠狠" py="è,hěn,hěn" info="极端凶恶的样子" />
+		<phrase hz="恶化" py="è,huà" info="向坏的方面变，使更坏" />
+		<phrase hz="恶积祸盈" py="è,jī,huò,yíng" info="罪恶成堆，祸害满贯。形容罪大恶极。" />
+		<phrase hz="恶疾" py="è,jí" info="痛苦难治、令人厌恶的疾病" />
+		<phrase hz="恶迹" py="è,jì" info="恶劣的行迹;以往的丑恶之事" />
+		<phrase hz="恶客" py="è,kè" info="1.庸俗、不受歡迎的客人。2.為害主人的賓客，通常指盜賊而言。3.曼陀羅的別名。" />
+		<phrase hz="恶口" py="è,kǒu" info="恶语,恶狠狠的话" />
+		<phrase hz="恶劣" py="è,liè" />
+		<phrase hz="恶露" py="è,lù" info="佛教谓身上不净之津液。中医特指妇女产后胞宫内遗留的馀血和浊液。" />
+		<phrase hz="恶梦" py="è,mèng" />
+		<phrase hz="恶名" py="è,míng" />
+		<phrase hz="恶魔" py="è,mó" info="1.佛教语。障碍佛法的恶神的总称。2.比喻非常凶恶的人" />
+		<phrase hz="恶气" py="è,qì" info="1.腐败难闻的气味。2.指受到的欺压、侮辱等。3.怨气,怨恨。" />
+		<phrase hz="恶趣" py="è,qù" info="佛教上指眾生以惡業之因而趣之所，如地獄、畜生等。" />
+		<phrase hz="恶人" py="è,rén" info="1.品质恶劣的人。2.相貌丑陋的人。" />
+		<phrase hz="恶煞" py="è,shà" info="神气凶恶的鬼神。比喻凶狠恶毒的人" />
+		<phrase hz="恶少" py="è,shào" info="品行恶劣的年轻无赖" />
+		<phrase hz="恶舌" py="è,shé" info="恶毒的语言" />
+		<phrase hz="恶声" py="è,shēng" info="1.凶恶愤怒之声。2.指低级趣味的乐曲。3.坏名声" />
+		<phrase hz="恶声恶气" py="è,shēng,è,qì" info="形容说话语气很凶狠，态度粗暴。" />
+		<phrase hz="恶识" py="è,shí" info="得罪、惹惱。" />
+		<phrase hz="恶事" py="è,shì" info="邪恶的行为或事例" />
+		<phrase hz="恶势力" py="è,shì,lì" info="凶惡、不良善的權勢組織。" />
+		<phrase hz="恶俗" py="è,sú" info="1.不良的习俗。2.粗俗;庸俗" />
+		<phrase hz="恶岁" py="è,suì" info="饥荒的年头" />
+		<phrase hz="恶徒" py="è,tú" info="性行惡劣，不走正道的人。" />
+		<phrase hz="恶习" py="è,xí" />
+		<phrase hz="恶相" py="è,xiàng" info="凶恶的相貌" />
+		<phrase hz="恶向胆边生" py="è,xiàng,dǎn,biān,shēng" info="比喻作惡時，把心一橫，不顧一切。" />
+		<phrase hz="恶性" py="è,xìng" />
+		<phrase hz="恶业" py="è,yè" info="佛教指不善的意念行為，並為未來招致痛苦的報應。" />
+		<phrase hz="恶衣恶食" py="è,yī,è,shí" info="恶：粗劣的。指粗劣的衣服和食物。" />
+		<phrase hz="恶衣蔬食" py="è,yī,shū,shí" info="形容生活儉約樸實。" />
+		<phrase hz="恶意" py="è,yì" />
+		<phrase hz="恶意中伤" py="è,yì,zhòng,shāng" />
+		<phrase hz="恶有恶报" py="è,yǒu,è,bào" />
+		<phrase hz="恶语" py="è,yǔ" info="恶毒的话;诽谤的话" />
+		<phrase hz="恶缘" py="è,yuán" />
+		<phrase hz="恶缘恶业" py="è,yuán,è,yè" info="過去所作的不善行為。" />
+		<phrase hz="恶运" py="è,yùn" />
+		<phrase hz="恶战" py="è,zhàn" />
+		<phrase hz="恶仗" py="è,zhàng" />
+		<phrase hz="恶浊" py="è,zhuó" info="污秽混浊。" />
+		<phrase hz="恶子" py="è,zǐ" info="品性惡劣、為非作歹的年輕人。" />
+		<phrase hz="恶作剧" py="è,zuò,jù" />
+		<phrase hz="腐恶" py="fǔ,è" info="腐败罪恶。亦指腐败罪恶者。" />
+		<phrase hz="好善嫉恶" py="hǎo,shàn,jí,è" info="喜好美善，憎恨邪恶。" />
+		<phrase hz="积恶" py="jī,è" info="多行不善。" />
+		<phrase hz="嫉恶如仇" py="jí,è,rú,chóu" />
+		<phrase hz="旧恶" py="jiù,è" info="1.旧时的仇恨。2.已往的过失。" />
+		<phrase hz="怒恶" py="nù,è" info="恼怒。" />
+		<phrase hz="欺善怕恶" py="qī,shàn,pà,è" />
+		<phrase hz="穷凶极恶" py="qióng,xiōng,jí,è" />
+		<phrase hz="劝善惩恶" py="quàn,shàn,chéng,è" />
+		<phrase hz="十恶不赦" py="shí,è,bú,shè" />
+		<phrase hz="首恶" py="shǒu,è" info="犯罪集团中的首要分子" />
+		<phrase hz="万恶" py="wàn,è" info="罪恶多端" />
+		<phrase hz="无恶不作" py="wú,è,bú,zuò" info="没有哪件坏事不干的。指干尽了坏事。" />
+		<phrase hz="险恶" py="xiǎn,è" />
+		<phrase hz="邪恶" py="xié,è" />
+		<phrase hz="凶恶" py="xiōng,è" />
+		<phrase hz="凶神恶煞" py="xiōng,shén,è,shà" />
+		<phrase hz="元恶" py="yuán,è" info="大恶之人；首恶。" />
+		<phrase hz="阴恶" py="yīn,è" info="1.不被人知道的恶事。2.阴险且恶毒。" />
+		<phrase hz="罪大恶极" py="zuì,dà,è,jí" />
+		<phrase hz="罪恶" py="zuì,è" />
+		<phrase hz="作恶" py="zuò,è" />
 		<definition id="一">
 			<item id="1" text="恶劣，不好：~感. ~习." />
 			<item id="2" text="凶狠（(连)凶-）：~狗. ~战. ~霸." />

@@ -109,9 +109,16 @@
 	<char hz="雾" py="wù" />
 	<char hz="误" py="wù" />
 	<char hz="恶" py="wù" multi="ě,è,wū">
+		<phrase hz="好逸恶劳" py="hào,yì,wù,láo" />
 		<phrase hz="可恶" py="kě,wù" />
+		<phrase hz="交恶" py="jiāo,wù" />
+		<phrase hz="深恶痛疾" py="shēn,wù,tòng,jí" />
 		<phrase hz="深恶痛绝" py="shēn,wù,tòng,jué" />
+		<phrase hz="痛恶" py="tòng,wù" info="深恶痛绝;极其厌恶" />
+		<phrase hz="嫌恶" py="xián,wù" info="极度反感或厌恶" />
+		<phrase hz="羞恶" py="xiū,wù" info="因己身的不善而羞耻，见他人的不善而憎恶" />
 		<phrase hz="厌恶" py="yàn,wù" />
+		<phrase hz="憎恶" py="zēng,wù" />
 		<definition id="二">
 			<item text="讨厌，憎恨：可~. 深~痛绝." />
 		</definition>
