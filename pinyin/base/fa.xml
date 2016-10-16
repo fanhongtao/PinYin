@@ -1,7 +1,134 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="发" py="fā" multi="fà" main="1">
+		<phrase hz="百发百中" py="bǎi,fā,bǎi,zhòng" />
+		<phrase hz="颁发" py="bān,fā" />
+		<phrase hz="暴发" py="bào,fā" />
+		<phrase hz="爆发" py="bào,fā" />
+		<phrase hz="迸发" py="bèng,fā" />
+		<phrase hz="并发" py="bìng,fā" />
+		<phrase hz="播发" py="bō,fā" info="通过广播发出" />
+		<phrase hz="阐发" py="chǎn,fā" info="阐明并发挥" />
+		<phrase hz="出发" py="chū,fā" />
+		<phrase hz="触发" py="chù,fā" />
+		<phrase hz="猝发" py="cù,fā" />
 		<phrase hz="打发" py="dǎ,fa" />
+		<phrase hz="大发" py="dà,fā" info="1.過度、厲害。2.事情擴大。3.突然的富有。" />
+		<phrase hz="单发" py="dān,fā" />
+		<phrase hz="调发" py="diào,fā" />
+		<phrase hz="东窗事发" py="dōng,chuāng,shì,fā" />
+		<phrase hz="多发" py="duō,bào" />
+		<phrase hz="发报" py="fā,bào" />
+		<phrase hz="发榜" py="fā,bǎng" />
+		<phrase hz="发飙" py="fā,biāo" />
+		<phrase hz="发标" py="fā,biāo" info="〈方〉也说发标劲。摆架子，发脾气，胡闹一阵。" />
+		<phrase hz="发表" py="fā,biǎo" />
+		<phrase hz="发病" py="fā,bìng" />
+		<phrase hz="发布" py="fā,bù" />
+		<phrase hz="发财" py="fā,cái" />
+		<phrase hz="发出" py="fā,chū" />
+		<phrase hz="发憷" py="fā,chù" info="胆怯；畏缩。" />
+		<phrase hz="发达" py="fā,dá" />
+		<phrase hz="发癫" py="fā,diān" />
+		<phrase hz="发颠" py="fā,diān" />
+		<phrase hz="发电" py="fā,diàn" />
+		<phrase hz="发动" py="fā,dòng" />
+		<phrase hz="发抖" py="fā,dǒu" />
+		<phrase hz="发端" py="fā,duān" />
+		<phrase hz="发放" py="fā,fàng" />
+		<phrase hz="发奋" py="fā,fèn" />
+		<phrase hz="发愤" py="fā,fèn" />
+		<phrase hz="发光" py="fā,guāng" />
+		<phrase hz="发汗" py="fā,hàn" />
+		<phrase hz="发号施令" py="fā,hào,shī,lìng" />
+		<phrase hz="发黄" py="fā,huáng" />
+		<phrase hz="发挥" py="fā,huī" />
+		<phrase hz="发火" py="fā,huǒ" />
+		<phrase hz="发货" py="fā,huò" />
+		<phrase hz="发迹" py="fā,jì" />
+		<phrase hz="发家" py="fā,jiā" />
+		<phrase hz="发酵" py="fā,jiào" />
+		<phrase hz="发解" py="fā,jiè" info="唐朝应贡举的人，由所在的州县送到京城，称为发解。 宋朝沿用此制。 明、清时称乡试考中举人为发解。" />
+		<phrase hz="发觉" py="fā,jué" />
+		<phrase hz="发掘" py="fā,jué" />
+		<phrase hz="发刊" py="fā,kān" />
+		<phrase hz="发冷" py="fā,lěng" />
+		<phrase hz="发亮" py="fā,liàng" />
+		<phrase hz="发落" py="fā,luò" />
+		<phrase hz="发麻" py="fā,má" />
+		<phrase hz="发蒙" py="fā,mēng" duoyin="fā,méng" info="[口]:糊涂,不清楚" />
+		<!-- <phrase hz="发蒙" py="fā,méng" duoyin="fā,mēng" info="启发蒙昧,后也指教儿童、少年开始识字读书" /> -->
+		<phrase hz="发梦" py="fā,mèng" />
+		<phrase hz="发面" py="fā,miàn" />
+		<phrase hz="发明" py="fā,míng" />
+		<phrase hz="发难" py="fā,nàn" />
+		<phrase hz="发怒" py="fā,nù" />
+		<phrase hz="发牌" py="fā,pái" />
+		<phrase hz="发排" py="fā,pái" info="把稿子交给印刷厂排版。" />
+		<phrase hz="发炮" py="fā,pào" />
+		<phrase hz="发配" py="fā,pèi" />
+		<phrase hz="发票" py="fā,piào" />
+		<phrase hz="发青" py="fā,qīng" />
+		<phrase hz="发情" py="fā,qíng" />
+		<phrase hz="发热" py="fā,rè" />
+		<phrase hz="发人深省" py="fā,rén,shēn,xǐng" />
+		<phrase hz="发起" py="fā,qǐ" />
+		<phrase hz="发散" py="fā,sàn" />
+		<phrase hz="发丧" py="fā,sāng" />
+		<phrase hz="发烧" py="fā,shāo" />
+		<phrase hz="发射" py="fā,shè" />
+		<phrase hz="发生" py="fā,shēng" />
+		<phrase hz="发抒" py="fā,shū" info="抒发，将感情、意见等表达出来。" />
+		<phrase hz="发誓" py="fā,shì" />
+		<phrase hz="发问" py="fā,wèn" />
+		<phrase hz="发现" py="fā,xiàn" />
+		<phrase hz="发祥" py="fā,xiáng" />
+		<phrase hz="发泄" py="fā,xiè" />
+		<phrase hz="发行" py="fā,xíng" />
+		<phrase hz="发芽" py="fā,yá" />
+		<phrase hz="发言" py="fā,yán" />
+		<phrase hz="发扬" py="fā,yáng" />
+		<phrase hz="发音" py="fā,yīn" />
+		<phrase hz="发语词" py="fā,yǔ,cí" info="文言虚词的一种，多用于句首，指示所言实物。有“夫”“维”“盖”等词。" />
+		<phrase hz="发育" py="fā,yù" />
+		<phrase hz="发源" py="fā,yuán" />
+		<phrase hz="发愿" py="fā,yuàn" />
+		<phrase hz="发展" py="fā,zhǎn" />
+		<phrase hz="发证行" py="fā,zhèng,háng" info="应申请人要求开出信用证的银行。" />
+		<phrase hz="发踪指示" py="fā,zōng,zhǐ,shì" info="猎人发现野兽的踪迹，指示猎狗跟踪追逐。比喻在幕后操纵指挥。" />
+		<phrase hz="分发" py="fēn,fā" />
+		<phrase hz="奋发" py="fèn,fā" />
+		<phrase hz="复发" py="fù,fā" />
+		<phrase hz="告发" py="gào,fā" />
+		<phrase hz="挥发" py="huī,fā" />
+		<phrase hz="焕发" py="huàn,fā" />
+		<phrase hz="击发" py="jī,fā" info="射击时的动作,用手指扣动枪的扳机,以使子弹射击" />
+		<phrase hz="揭发" py="jiē,fā" />
+		<phrase hz="开发" py="kāi,fā" />
+		<phrase hz="刊发" py="kān,fā" />
+		<phrase hz="连发" py="lián,fā" />
+		<phrase hz="明发" py="míng,fā" info="1.天快亮的時候。2.公開發表。" />
+		<phrase hz="萌发" py="méng,fā" />
+		<phrase hz="偶发" py="ǒu,fā" />
+		<phrase hz="配发" py="pèi,fā" />
+		<phrase hz="齐发" py="qí,fā" info="箭或其他投射物的排射" />
+		<phrase hz="启发" py="qǐ,fā" />
+		<phrase hz="签发" py="qiān,fā" info="主管人审核同意后签字发出,表示负责" />
+		<phrase hz="散发" py="sàn,fā" duoyin="sǎn,fà" info="1.分散发出。2.释放出某种东西。" />
+		<phrase hz="升发" py="shēng,fā" info="地位升高,财产增多;飞黄腾达" />
+		<phrase hz="收发" py="shōu,fā" />
+		<phrase hz="抒发" py="shū,fā" />
+		<phrase hz="先发" py="xiān,fā" info="首先發動。如：先发制人" />
+		<!-- <phrase hz="秀发" py="xiù,fā" duoyin="xiù,fà" info="1.容貌英秀煥發。2.花盛開的樣子。" /> -->
+		<phrase hz="意气风发" py="yì,qì,fēng,fā" />
+		<phrase hz="英发" py="yīng,fā" />
+		<phrase hz="诱发" py="yòu,fā" />
+		<phrase hz="朝发夕至" py="zhāo,fā,xī,zhì" />
+		<phrase hz="阵发" py="zhèn,fā" info="症状的突然反复发作" />
+		<phrase hz="蒸发" py="zhēng,fā" />
+		<phrase hz="整装待发" py="zhěng,zhuāng,dài,fā" />
+		<phrase hz="转发" py="zhuǎn,fā" />
+		<phrase hz="自发" py="zì,fā" />
 		<definition id="一">
 			<item id="1" text="交付，送出，跟“收”相对：~选民证. ~货. 信已经~了. [发落]处理，处分：从轻~~. [打发](-fa)1.派遣：~~专人去办. 2.使离去：好不容易才把他~~走了. 3.消磨（时日）：病人们靠聊天儿~~时光." />
 			<item id="2" text="表达，说出：~言. ~问. ~誓. [发表]用文字或语言表达意见。" />
@@ -27,9 +154,37 @@
 		<phrase hz="砝码" py="fǎ,mǎ" />
 	</char>
 	<char hz="发" py="fà" multi="fā">
+		<phrase hz="白发" py="bái,fà" />
+		<phrase hz="发根" py="fà,gēn" />
+		<phrase hz="发型" py="fà,xíng" />
+		<phrase hz="发式" py="fà,shì" />
+		<phrase hz="发指" py="fà,zhǐ" info="头发竖起来，形容非常愤怒。" />
+		<phrase hz="皓发" py="hào,fà" info="白发。" />
+		<phrase hz="鹤发" py="hè,fà" info="白发。" />
+		<phrase hz="黑发" py="hēi,fà" />
+		<phrase hz="黄发" py="huáng,fà" info="指老人。老人发白,白久则黄" />
+		<phrase hz="假发" py="jiǎ,fà" />
+		<phrase hz="间不容发" py="jiān,bù,róng,fà" info="1.中间放置不下一根头发,形容相距极微。2.比喻情势危急到极点。" />
+		<phrase hz="剪发" py="jiǎn,fà" />
+		<phrase hz="结发" py="jié,fà" info="1.束发。2.指结为夫妻。" />
+		<phrase hz="卷发" py="juǎn,fà" />
 		<phrase hz="理发" py="lǐ,fà" />
-		<phrase hz="脱发" py="tuō,fà" />
 		<phrase hz="令人发指" py="lìng,rén,fà,zhǐ" />
+		<phrase hz="落发" py="luò,fà" info="剃发为僧或为尼" />
+		<phrase hz="毛发" py="máo,fà" />
+		<phrase hz="披发" py="pī,fà" info="1.头发披散。2.散开的头发。" />
+		<phrase hz="披头散发" py="pī,tóu,sǎn,fà" />
+		<phrase hz="千钧一发" py="qiān,jūn,yī,fà" />
+		<!-- <phrase hz="散发" py="sǎn,fà" duoyin="sàn,fā" info="1.披散着头发。2.指解冠隐居。" /> -->
+		<phrase hz="束发" py="shù,fà" info="1.系结头发。2.成童的年龄,15至20岁。" />
+		<phrase hz="剃发" py="tì,fà" />
+		<phrase hz="头发" py="tóu,fa" />
+		<phrase hz="脱发" py="tuō,fà" />
+		<phrase hz="乌发" py="wū,fà" />
+		<phrase hz="心细如发" py="xīn,xì,rú,fà" />
+		<phrase hz="秀发" py="xiù,fà" duoyin="xiù,fā" info="對女子頭髮的美稱。" />
+		<phrase hz="蓄发" py="xù,fà" />
+		<phrase hz="削发" py="xuē,fà" info="剃去头发，指出家为僧尼" />
 		<definition id="二">
 			<item text="头发：理~. 脱~. 令人~指（喻使人非常气愤）." />
 		</definition>

@@ -2,6 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="扳" py="bān" />
 	<char hz="攽" py="bān" />
+	<char hz="颁" py="bān" />
 	<char hz="班" py="bān" />
 	<char hz="斑" py="bān">
 		<phrase hz="斑斓" py="bān,lán" />
