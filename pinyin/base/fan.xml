@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="帆" py="fān" />
-	<char hz="番" py="fān" multi="pān" main="1">
+	<char hz="番" py="fān" multi="pān" main="1" suppressLog="1">
+		<phrase hz="番邦" py="fān,bāng" info="旧指外国或外族" />
+		<phrase hz="翻番" py="fān,fān" info="数量成倍增长" />
+		<phrase hz="番号" py="fān,hào" />
+		<phrase hz="番椒" py="fān,jiāo" info="中医药上称辣椒为番椒。" />
+		<phrase hz="番茄" py="fān,qié" info="西红柿" />
+		<phrase hz="番薯" py="fān,shǔ" info="〈方〉甘薯" />
+		<phrase hz="更番" py="gēng,fān" info="轮流，替换" />
+		<phrase hz="轮番" py="lún,fān" />
+		<phrase hz="三番五次" py="sān,fān,wǔ,cì" />
+		<phrase hz="一番" py="yī,fān" />
 		<definition id="一">
 			<item id="1" text="称外国的或外族的：~茄. ~薯. ~椒." />
 			<item id="2" text="代换：轮~. 更~." />
@@ -22,6 +32,8 @@
 	<char hz="烦" py="fán" />
 	<char hz="墦" py="fán" />
 	<char hz="蕃" py="fán" multi="fān" main="1">
+		<phrase hz="蕃盛" py="fán,shèng" />
+		<phrase hz="蕃衍" py="fán,yǎn" />
 		<definition id="一">
 			<item text="茂盛：草木~盛. (喻)繁多：~衍（逐渐增多或增广，现作“繁衍”）." />
 		</definition>
@@ -32,6 +44,37 @@
 	<char hz="蹯" py="fán" />
 	<char hz="樊" py="fán" />
 	<char hz="繁" py="fán" multi="pó" main="1">
+		<phrase hz="繁博" py="fán,bó" info="（文中引证）多而广泛。" />
+		<phrase hz="繁多" py="fán,duō" />
+		<phrase hz="繁分式" py="fán,fēn,shì" info="分式的分子或分母中含有分式，这样的分式叫做繁分式。" />
+		<phrase hz="繁分数" py="fán,fēn,shù" info="分式的分子或分母中含有分数，这样的分式叫做繁分数。" />
+		<phrase hz="繁复" py="fán,fù" info="繁多复杂" />
+		<phrase hz="繁华" py="fán,huá" />
+		<phrase hz="繁乱" py="fán,luàn" />
+		<phrase hz="繁忙" py="fán,máng" />
+		<phrase hz="繁茂" py="fán,mào" />
+		<phrase hz="繁密" py="fán,mì" />
+		<phrase hz="繁难" py="fán,nán" info="复杂困难；多困难。" />
+		<phrase hz="繁荣" py="fán,róng" />
+		<phrase hz="繁冗" py="fán,rǒng" info="同“烦冗”。" />
+		<phrase hz="繁缛" py="fán,rù" info="1.多而琐细。2.细密。" />
+		<phrase hz="繁盛" py="fán,shèng" />
+		<phrase hz="繁琐" py="fán,suǒ" />
+		<phrase hz="繁体字" py="fán,tǐ,zì" />
+		<phrase hz="繁文缛节" py="fán,wén,rù,jié" />
+		<phrase hz="繁芜" py="fán,wú" info="文字繁多杂乱。" />
+		<phrase hz="繁嚣" py="fán,xiāo" info="繁杂喧闹。" />
+		<phrase hz="繁兴" py="fán,xīng" info="纷纷兴起。" />
+		<phrase hz="繁星" py="fán,xīng" />
+		<phrase hz="繁衍" py="fán,yǎn" />
+		<phrase hz="繁育" py="fán,yù" />
+		<phrase hz="繁杂" py="fán,zá" />
+		<phrase hz="繁殖" py="fán,zhí" />
+		<phrase hz="纷繁" py="fēn,fán" />
+		<phrase hz="浩繁" py="hào,fán" />
+		<phrase hz="频繁" py="pín,fán" />
+		<phrase hz="删繁就简" py="shān,fán,jiù,jiǎn" />
+		<phrase hz="实繁有徒" py="shí,fán,yǒu,tú" info="实：实在；繁：多；徒：徒众，群众。实在有不少这样的人。 " />
 		<definition id="一">
 			<item id="1" text="复杂，跟“简”相对（(连)-杂）：删~就简." />
 			<item id="2" text="许多，不少：实~有徒（这种人实在很多）. ~殖（生长成许多）. [繁华]市面热闹，工商业兴盛。 [繁荣]兴旺发展或使兴旺发展：市场~~. ~~经济." />
