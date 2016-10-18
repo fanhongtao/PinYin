@@ -68,6 +68,7 @@
 	</char>
 	<char hz="凫" py="fú" />
 	<char hz="芾" py="fú" multi="fèi">
+		<phrase hz="米芾" py="mǐ,fú" info="米芾（1051-1107），初名黻，后改芾，字元章。北宋书法家、画家、书画理论家，与蔡襄、苏轼、黄庭坚合称“宋四家”。" />
 		<definition id="二">
 			<item id="1" text="草木茂盛。" />
 			<item id="2" text="同“黻”。宋代书画家米芾，也作米黻。" />

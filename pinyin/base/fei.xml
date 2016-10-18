@@ -14,18 +14,22 @@
 		<phrase hz="非难" py="fēi,nàn" />
 	</char>
 	<char hz="菲" py="fēi" multi="fěi" main="1">
+		<phrase hz="芳菲" py="fāng,fēi" />
+		<phrase hz="菲菲" py="fēi,fēi" />
 		<definition id="一">
 			<item text="花草茂盛：芳~." />
 		</definition>
 	</char>
 	<char hz="啡" py="fēi">
-		<phrase hz="吗啡" py="mǎ,fēi" />
 		<phrase hz="咖啡" py="kā,fēi" />
+		<phrase hz="吗啡" py="mǎ,fēi" />
 	</char>
 	<char hz="騑" py="fēi" trans="1" />
 	<char hz="绯" py="fēi" />
 	<char hz="扉" py="fēi" />
-	<char hz="蜚" py="fēi" multi="fěi" main="1">
+	<char hz="蜚" py="fēi" multi="fěi" main="1" suppressLog="1">
+		<phrase hz="蜚声" py="fēi,shēng" info="扬名。" />
+		<phrase hz="蜚语" py="fēi,yǔ" info="无根据的话，诽谤。" />
 		<definition id="一">
 			<item text="古同“飞”。" />
 		</definition>
@@ -42,8 +46,12 @@
 	<char hz="诽" py="fěi" />
 	<char hz="菲" py="fěi" multi="fēi">
 		<phrase hz="菲薄" py="fěi,bó" />
-		<phrase hz="菲礼" py="fěi,lǐ" />
 		<phrase hz="菲材" py="fěi,cái" />
+		<phrase hz="菲才" py="fěi,cái" />
+		<phrase hz="菲礼" py="fěi,lǐ" />
+		<phrase hz="菲敬" py="fěi,jìng" info="谦词。菲薄的礼物。" />
+		<phrase hz="菲仪" py="fěi,yí" info="谦辞，菲薄的礼物" />
+		<phrase hz="菲酌" py="fěi,zhuó" info="谦称以薄酒待客" />
 		<definition id="二">
 			<item id="1" text="微，薄（(连)-薄）：~礼. ~材." />
 			<item id="2" text="古书上说的一种像蔓菁的菜。" />
