@@ -67,8 +67,8 @@
 		<phrase hz="脾气" py="pí,qi" />
 	</char>
 	<char hz="裨" py="pí" multi="bì">
-		<phrase hz="偏裨" py="piān,pí" />
 		<phrase hz="裨将" py="pí,jiàng" />
+		<phrase hz="偏裨" py="piān,pí" />
 		<definition id="二">
 			<item text="副，辅佐的（(连)偏-）：~将." />
 		</definition>
@@ -82,8 +82,21 @@
 	<char hz="圮" py="pǐ" />
 	<char hz="仳" py="pǐ" />
 	<char hz="否" py="pǐ" multi="fǒu">
+		<phrase hz="否剥" py="pǐ,bō" info="否，易經六十四卦之一，為天地不交。剝，易經六十四卦之一，為陰盛陽衰。否剝指時運乖舛。" />
+		<phrase hz="否德" py="pǐ,dé" info="德行不良。" />
+		<phrase hz="否隔" py="pǐ,gé" info="窒塞阻隔。" />
 		<phrase hz="否极泰来" py="pǐ,jí,tài,lái" />
-		<phrase hz="臧否" py="zāng,pǐ" />
+		<phrase hz="否极泰回" py="pǐ,jí,tài,huí" />
+		<phrase hz="否极阳回" py="pǐ,jí,yáng,huí" info="犹言否极泰来。《泰》卦内阳而外阴，故称阳。指坏运到了头好运就来了。" />
+		<phrase hz="否去泰来" py="pǐ,qù,tài,lái" />
+		<phrase hz="否泰" py="pǐ,tài" info="指世道盛衰,人世通塞或运气好坏" />
+		<phrase hz="否往泰来" py="pǐ,wǎng,tài,lái" />
+		<phrase hz="否运" py="pǐ,yùn" info="厄运，坏运。" />
+		<phrase hz="否滞" py="pǐ,zhì" info="阻塞滯留。" />
+		<phrase hz="否终复泰" py="pǐ,zhōng,fù,tài" />
+		<phrase hz="否终则泰" py="pǐ,zhōng,zé,tài" />
+		<phrase hz="泰极而否" py="tài,jí,ér,pǐ" info="泰、否是易經的卦名。泰是吉卦，否是凶卦。泰極而否指事情發展達到高峰後，就會走下坡，好的會變成壞的。" />
+		<phrase hz="臧否" py="zāng,pǐ" info="1.善惡得失。2.評論、褒貶。" />
 		<definition id="二">
 			<item id="1" text="恶，坏：~极泰来（坏的到了尽头，好的就来了。否和泰都是《周易》六十四卦中的卦名，分别代表坏和好的事情）." />
 			<item id="2" text="贬斥：臧~人物（评论人物的优劣）." />
