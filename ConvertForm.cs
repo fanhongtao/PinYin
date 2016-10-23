@@ -231,6 +231,17 @@ namespace PinYin
 					output.findBody = true;
 				}
 				
+				// 对包含 ignore="true" 的行，整行不转换，原样照写
+				if (line.ToLower().Contains("ignore=\"true\"")) {
+					for (int i = 0; i < line.Length; i++) {
+						string ch = line.Substring(i, 1);
+						output.AppendCharacter(ch, "");
+					}
+					output.WriteLine();
+					continue;
+				}
+				
+				// 普通的行，正常转换
 				for (int i = 0; i < line.Length; i++) {
 					string ch = line.Substring(i, 1);
 
