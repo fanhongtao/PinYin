@@ -460,7 +460,9 @@ namespace PinYin
 			outputText.AppendText("\t\t而文本框中的内容则是当作普通文件来转换，没有处理对齐，结果仅供参考。\n");
 			outputText.AppendText("\n");
 			
-			outputText.AppendText("如果对程序有什么建议、意见、或Bug反馈，可发送邮件至 fanhongtao@gmail.com , 记得在标题中带上关键字“拼音”。\n");
+			outputText.AppendText("如果发现程序有Bug 或 自带的拼音库有错误，可发送邮件至 fanhongtao@163.com , 请在标题中带上关键字“拼音”。\n");
+			outputText.AppendText("\n");
+			
 			outputText.AppendText("什么，你遇到一个需要马上修改的问题？如果不能通过设置 extra文件来进行规避，那就只能自己动手修改代码了。\n");
 			outputText.AppendText("最新的代码可以从 https://github.com/fanhongtao/PinYin 获取。 Enjoy yourself!\n");
 		}
