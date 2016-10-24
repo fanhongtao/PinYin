@@ -215,7 +215,9 @@ namespace PinYin
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 			baseCheckBox.Checked = true;
-			pinyinCheckBox.Checked = true;
+			extraCheckBox.Checked = true;
+			pinyinCheckBox.Checked = false;
+			writeFileCheckBox.Checked = true;
 			ShowHelpMessage();
 		}
 		
