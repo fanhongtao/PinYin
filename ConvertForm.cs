@@ -367,6 +367,9 @@ namespace PinYin
 			
 			if (writeFileCheckBox.Checked) {
 				_outputFileName = getOutputFileName(path);
+				if (File.Exists(_outputFileName)) {
+					File.Copy(_outputFileName, _outputFileName+".old", true);
+				}
 			}
 			Logger.info("Open file: " + path);
 			StreamReader reader = new StreamReader(path);
