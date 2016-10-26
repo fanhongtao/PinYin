@@ -2,8 +2,9 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="加" py="jiā" />
 	<char hz="伽" py="jiā" multi="gā,qié">
-		<phrase hz="伽倻" py="jiā,yē" />
 		<phrase hz="伽利略" py="jiā,lì,lüè" />
+		<phrase hz="伽倻" py="jiā,yē" />
+		<phrase hz="瑜伽" py="yú,jiā" />
 		<definition id="二">
 			<item text="[伽倻](-yē)伽倻琴，朝鲜族弦乐器。 [伽利略]意大利天文学家、物理学家。" />
 		</definition>
@@ -29,6 +30,24 @@
 	</char>
 	<char hz="嘉" py="jiā" />
 	<char hz="夹" py="jiā" multi="gā,jiá" main="1">
+		<phrase hz="缠夹不清" py="chán,jiā,bù,qīng" />
+		<phrase hz="汗流夹背" py="hàn,liú,jiā,bèi" />
+		<phrase hz="夹岸" py="jiā,àn" />
+		<phrase hz="夹板" py="jiā,bǎn" />
+		<phrase hz="夹层" py="jiā,céng" />
+		<phrase hz="夹带" py="jiā,dài" />
+		<phrase hz="夹道" py="jiā,dào" />
+		<phrase hz="夹攻" py="jiā,gōng" />
+		<phrase hz="夹棍" py="jiā,gùn" />
+		<phrase hz="夹击" py="jiā,jī" />
+		<phrase hz="夹枪带棒" py="jiā,qiāng,dài,bàng" />
+		<phrase hz="夹生" py="jiā,shēng" />
+		<phrase hz="夹心" py="jiā,xīn" />
+		<phrase hz="夹杂" py="jiā,zá" />
+		<phrase hz="夹峙" py="jiā,zhì" />
+		<phrase hz="夹竹桃" py="jiā,zhú,táo" />
+		<phrase hz="夹注" py="jiā,zhù" />
+		<phrase hz="夹子" py="jiā,zi" />
 		<definition id="一">
 			<item id="1" text="从东西的两旁钳住：书里~着一张纸. (引)1.两旁有东西限制住：~道. 两山~一水. 2.从两面来的：~攻." />
 			<item id="2" text="胳膊向胁部用力，使腋下放着的东西不掉下：~着书包." />
@@ -61,8 +80,11 @@
 	</char>
 	<char hz="豭" py="jiā" />
 	<char hz="夹" py="jiá" multi="gā,jiā" info="Word主音">
-		<phrase hz="夹裤" py="jiá,kù" />
+		<phrase hz="夹袄" py="jiá,ǎo" />
 		<phrase hz="夹被" py="jiá,bèi" />
+		<phrase hz="夹克" py="jiá,kè" />
+		<phrase hz="夹裤" py="jiá,kù" />
+		<phrase hz="夹衣" py="jiá,yī" />
 		<definition id="二">
 			<item text="两层的衣物：~裤. ~被." />
 		</definition>

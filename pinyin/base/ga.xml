@@ -24,8 +24,8 @@
 	<char hz="嘎" py="gā" multi="gá,gǎ" main="1">
 		<phrase hz="嘎吧" py="gā,bā" />
 		<phrase hz="嘎叭" py="gā,bā" />
-		<phrase hz="嘎吱" py="gā,zhī" />
 		<phrase hz="嘎巴" py="gā,ba" />
+		<phrase hz="嘎吱" py="gā,zhī" />
 		<phrase hz="嘎渣" py="gā,zha" />
 		<definition id="一">
 			<item text="拟声词。[嘎吧][嘎叭](-bā)拟声词。 [嘎吱](-zhī)拟声词。" />
