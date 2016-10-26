@@ -31,6 +31,7 @@
 	</char>
 	<char hz="莆" py="pú" />
 	<char hz="脯" py="pú" multi="fǔ">
+		<phrase hz="脯子" py="pú,zi" />
 		<phrase hz="胸脯" py="xiōng,pú" />
 		<definition id="二">
 			<item text="（-子、-儿）胸脯，胸部：挺着胸~子." />

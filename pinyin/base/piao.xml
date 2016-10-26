@@ -29,7 +29,9 @@
 	<char hz="嫖" py="piáo" />
 	<char hz="瓢" py="piáo" />
 	<char hz="薸" py="piáo" info="(又)piāo" />
-	<char hz="莩" py="piǎo" multi="fú" main="1">
+	<char hz="莩" py="piǎo" multi="fú">
+		<phrase hz="饿莩" py="è,piǎo" />
+		<phrase hz="饥莩" py="jī,piǎo" />
 		<definition id="二">
 			<item text="同“殍”。" />
 		</definition>

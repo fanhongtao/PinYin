@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="夫" py="fū" multi="fú" main="1">
-		<phrase hz="丈夫" py="zhàng,fu" />
+	<char hz="夫" py="fū" multi="fú" main="1" suppressLog="1">
+		<phrase hz="夫妇" py="fū,fù" />
+		<phrase hz="夫妻" py="fū,qī" />
+		<phrase hz="夫人" py="fū,rén" />
+		<phrase hz="夫子" py="fū,zǐ" />
+		<phrase hz="丈夫" py="zhàng,fū" />
 		<definition id="一">
 			<item id="1" text="成年男子的通称：农~. 渔~. (引)旧时称服劳役的人，也作“伕”（(连)-役）。" />
 			<item id="2" text="丈夫(fu)，跟“妻”、“妇”相对：~妻. ~妇. 姐~. 姑~." />
@@ -83,7 +87,7 @@
 	<char hz="孚" py="fú" />
 	<char hz="俘" py="fú" />
 	<char hz="郛" py="fú" />
-	<char hz="莩" py="fú" multi="piǎo">
+	<char hz="莩" py="fú" multi="piǎo" main="1">
 		<definition id="一">
 			<item text="芦苇秆子里面的薄膜。" />
 		</definition>
@@ -98,7 +102,7 @@
 	</char>
 	<char hz="苻" py="fú" />
 	<char hz="符" py="fú" />
-	<char hz="服" py="fú" multi="fù" main="1">
+	<char hz="服" py="fú" multi="fù" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="衣服，衣裳（(连)-装）：制~. ~装整齐. 旧时特指丧服。" />
 			<item id="2" text="穿（衣裳）。" />
@@ -166,6 +170,10 @@
 	</char>
 	<char hz="辅" py="fǔ" />
 	<char hz="脯" py="fǔ" multi="pú" main="1">
+		<phrase hz="果脯" py="guǒ,fǔ" />
+		<phrase hz="鹿脯" py="lù,fǔ" />
+		<phrase hz="桃脯" py="táo,fǔ" />
+		<phrase hz="杏脯" py="xìng,fǔ" />
 		<definition id="一">
 			<item id="1" text="肉干：鹿~." />
 			<item id="2" text="果脯，蜜饯果干：桃~. 杏~." />
@@ -189,6 +197,22 @@
 		<phrase hz="豆腐" py="dòu,fu" />
 	</char>
 	<char hz="父" py="fù" multi="fǔ" main="1">
+		<phrase hz="父老" py="fù,lǎo" />
+		<phrase hz="父母" py="fù,mǔ" />
+		<phrase hz="父亲" py="fù,qīn" />
+		<phrase hz="父业" py="fù,yè" />
+		<phrase hz="父子" py="fù,zǐ" />
+		<phrase hz="季父" py="jì,fù" />
+		<phrase hz="教父" py="jiào,fù" />
+		<phrase hz="舅父" py="jiù,fù" />
+		<phrase hz="生父" py="shēng,fù" />
+		<phrase hz="师父" py="shī,fù" />
+		<phrase hz="叔父" py="shū,fù" />
+		<phrase hz="养父" py="yǎng,fù" />
+		<phrase hz="姨父" py="yí,fù" />
+		<phrase hz="岳父" py="yuè,fù" />
+		<phrase hz="仲父" py="zhòng,fù" />
+		<phrase hz="祖父" py="zǔ,fù" />
 		<definition id="一">
 			<item id="1" text="父亲，爸爸。" />
 			<item id="2" text="对男性长辈的称呼：叔~. 姨~. 师~. ~老." />
