@@ -135,7 +135,15 @@
 			<item text="旧时称派遣传送东西或传达事情的人。" />
 		</definition>
 	</char>
-	<char hz="芥" py="jiè" multi="gài" main="1">
+	<char hz="芥" py="jiè" multi="gài" main="1" suppressLog="1">
+		<phrase hz="草芥" py="cǎo,jiè" />
+		<phrase hz="尘芥" py="chén,jiè" />
+		<phrase hz="地芥" py="dì,jiè" />
+		<phrase hz="蒂芥" py="dì,jiè" />
+		<phrase hz="芥菜" py="jiè,cài" duoyin="gài,cài" info="一年或二年生草本植物，种子黄色，味辛辣，磨成粉末，称“芥末”，作调味品。按用途分为叶用芥菜（如“雪里蕻”）；茎用芥菜（如“榨菜”）；根用芥菜（如“大头菜”）。"/>
+		<phrase hz="芥蒂" py="jiè,dì" />
+		<phrase hz="芥末" py="jiè,mò" />
+		<phrase hz="荆芥" py="jīng,jiè" />
 		<definition id="一">
 			<item text="芥菜，一年或二年生草本植物，开黄花，茎叶及块根可吃。种子味辛辣，研成细末，可调味。" />
 		</definition>
