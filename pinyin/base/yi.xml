@@ -1,6 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="一" py="yī" />
+	<char hz="一" py="yī">
+		<phrase hz="百里挑一" py="bǎi,lǐ,tiāo,yī" />
+		<phrase hz="表里不一" py="biǎo,lǐ,bù,yī" />
+		<phrase hz="表里如一" py="biǎo,lǐ,rú,yī" />
+		<phrase hz="不管三七二十一" py="bù,guǎn,sān,qī,èr,shí,yī" />
+		<phrase hz="初一" py="chū,yī" />
+		<phrase hz="单一" py="dān,yī" />
+		<phrase hz="单打一" py="dān,dǎ,yī" info="只做一件事或只接触某一方面而不管其他方面" />
+		<phrase hz="第一" py="dì,yī" />
+		<phrase hz="独一" py="dú,yī" />
+		<phrase hz="独一无二" py="dú,yī,wú,èr" />
+		<phrase hz="划一" py="huà,yī" info="1.齐一,一致。2.使齐一,使一致。3指价格不折不扣,没有二价。" />
+		<phrase hz="九九归一" py="jiǔ,jiǔ,guī,yī" />
+		<phrase hz="说一不二" py="shuō,yī,bú,èr" />
+		<phrase hz="天人合一" py="tiān,rén,hé,yī" />
+		<phrase hz="统一" py="tǒng,yī" />
+		<phrase hz="万一" py="wàn,yī" />
+		<phrase hz="唯一" py="wéi,yī" />
+		<phrase hz="心口不一" py="xīn,kǒu,bù,yī" />
+		<phrase hz="心口如一" py="xīn,kǒu,rú,yī" />
+		<phrase hz="一一" py="yī,yī" />
+		<phrase hz="政教合一" py="zhèng,jiào,hé,yī" />
+		<phrase hz="政令不一" py="zhèng,lìng,bù,yī" />
+		<phrase hz="知行合一" py="zhī,xíng,hé,yī" />
+		<phrase hz="逐一" py="zhú,yī" />
+		<phrase hz="专一" py="zhuān,yī" />
+		<definition>
+			<item text="“一”字单字或在词末时读一声，如：唯一、独一、小一等；连词后接字为一、二、三声时读四声，如：一只、一直、读一读、选一选、一颗等；后接字为四声时读二声，如：一样、一个、一座、一片等。" />
+		</definition>
+	</char>
 	<char hz="伊" py="yī" />
 	<char hz="咿" py="yī">
 		<phrase hz="咿呀" py="yī,yā" />

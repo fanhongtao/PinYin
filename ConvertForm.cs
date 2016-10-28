@@ -87,7 +87,7 @@ namespace PinYin
 					CheckPrevHanzi(ch, py);
 				}
 				
-				if (ch.Equals("不")) {
+				if (ch.Equals("不") || ch.Equals("一")) {
 					prevHanzi = ch;
 					prevPinyin = py;
 				} else {
@@ -102,17 +102,28 @@ namespace PinYin
 			/// <param name="py">当前处理的汉字对应的拼音</param>
 			private void CheckPrevHanzi(string ch, string py)
 			{
-				if (prevHanzi.Equals("不")) {
-					int tone = StringTools.GetTone(py);
-					if (tone == 4) {
-						if (!prevPinyin.Equals("")) {
+				if (prevPinyin.Equals("")) {
+					Append(prevHanzi, prevPinyin);
+				} else {
+					if (prevHanzi.Equals("不")) {
+						int tone = StringTools.GetTone(py);
+						if (tone == 4) {
 							Append("不", "bú");
+						} else {
+							Append(prevHanzi, prevPinyin);
+						}
+					} else if (prevHanzi.Equals("一")) {
+						int tone = StringTools.GetTone(py);
+						if ((tone == 1) || (tone == 2) || (tone == 3)) {
+							Append("一", "yì");
+						} else if (tone == 4) {
+							Append("一", "yí");
+						} else {
+							Append(prevHanzi, prevPinyin);
 						}
 					} else {
-						Append(prevHanzi, prevPinyin);
+						Logger.error("Unsupported hanzi " + prevHanzi);
 					}
-				} else {
-					Logger.error("Unsupported hanzi " + prevHanzi);
 				}
 				
 				prevHanzi = null;
