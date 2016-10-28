@@ -238,8 +238,10 @@ namespace PinYin
 			multiSet.Clear();
 			
 			output = new Output(outputText, _outputFileName, pinyinCheckBox.Checked);
+			int lineNum = 0;  // 当前处理的行数
 			string[] lines = inputText.Lines;
 			foreach (string line in lines) {
+				lineNum++;
 				if (!output.findBody && line.ToLower().StartsWith("<body>")) {
 					output.findBody = true;
 				}
@@ -267,7 +269,7 @@ namespace PinYin
 					}
 					
 					if (baseCheckBox.Checked) {
-						int matchLen = matchBase(line, i, ch);
+						int matchLen = matchBase(lineNum, line, i, ch);
 						if (matchLen > 0) {
 							i = i + (matchLen - 1); // 跳过已经匹配的字
 							continue;
@@ -323,11 +325,12 @@ namespace PinYin
 		/// <summary>
 		/// 尝试根据 base 目录的内容来匹配
 		/// </summary>
+		/// <param name="lineNum">当前要处理的行的行号</param>
 		/// <param name="line">当前要处理的行</param>
 		/// <param name="i">当前要处理的字在该行中的位置</param>
 		/// <param name="ch">当前要处理的字</param>
 		/// <returns>匹配的字的个数（0表示没有匹配成功）</returns>
-		private int matchBase(string line, int i, string ch)
+		private int matchBase(int lineNum, string line, int i, string ch)
 		{
 			PinYinInfo baseInfo = PinYinInfo.Instance;
 			CharInfo charInfo = baseInfo.GetCharInfo(ch);
@@ -350,7 +353,8 @@ namespace PinYin
 			
 			output.AppendCharacter(ch, charInfo.pinyins[0]);
 			if (charInfo.multi && (!charInfo.suppressLog) && multiSet.Add(ch)) {
-				Logger.debug("Meet polyphone [" + ch + "]");
+				int startIndex = (i > 10) ? (i - 10) : 0;
+				Logger.debug("Meet polyphone [" + ch + "] at line: " + lineNum + ". [" + line.Substring(startIndex, i - startIndex + 1) + "]");
 			}
 			return 1;
 		}
