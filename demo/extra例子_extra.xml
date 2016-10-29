@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
-	<book name="Extra例子"/>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin/extra.cshtml">
 	<phrase hz="啊，这花" py="ā,,zhè,huā" />
 	<phrase hz="啊，你说" py="á,,nǐ,shuō" />
 	<phrase hz="啊，这是" py="ǎ,,zhè,shì" />
