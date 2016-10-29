@@ -416,7 +416,7 @@ namespace PinYin
 				string path = Path.GetDirectoryName(inputFileName);
 				string name = Path.GetFileNameWithoutExtension(inputFileName);
 				string ext = Path.GetExtension(inputFileName);
-				outputFileName = path + Path.DirectorySeparatorChar + name + "_convert" + ext;
+				outputFileName = path + Path.DirectorySeparatorChar + name + "_zhuyin" + ext;
 			}
 			return outputFileName;
 		}

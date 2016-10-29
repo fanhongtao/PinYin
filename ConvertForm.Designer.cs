@@ -124,7 +124,7 @@ namespace PinYin
 			this.writeFileCheckBox.Size = new System.Drawing.Size(104, 24);
 			this.writeFileCheckBox.TabIndex = 6;
 			this.writeFileCheckBox.Text = "写文件";
-			this.toolTip.SetToolTip(this.writeFileCheckBox, "转换拖放的文件时，将转换结果写入文件。 写入的文件名为： 原文件名 + \"_convert\" + 原文件后缀");
+			this.toolTip.SetToolTip(this.writeFileCheckBox, "转换拖放的文件时，将转换结果写入文件。 写入的文件名为： 原文件名 + \"_zhuyin\" + 原文件后缀");
 			this.writeFileCheckBox.UseVisualStyleBackColor = true;
 			// 
 			// extraCheckBox
