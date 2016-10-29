@@ -26,9 +26,9 @@ namespace PinYin
 		private static ExtraInfo instance = new ExtraInfo();
 		
 		/// <summary>
-		/// 最后一次读取的（拖放文件对应的） extra 文件的完整文件名
+		/// 最后一次读取的（拖放文件对应的） 拼音文件的完整文件名
 		/// </summary>
-		private string lastExtraFile = "";
+		private string lastPinyinFile = "";
 		
 		public static ExtraInfo Instance {
 			get {
@@ -36,13 +36,13 @@ namespace PinYin
 			}
 		}
 		
-		public void Load(string inputExtraFileName)
+		public void Load(string inputPinyinFileName)
 		{
-			if (string.Equals(lastExtraFile, inputExtraFileName)) {
+			if (string.Equals(lastPinyinFile, inputPinyinFileName)) {
 				// Logger.debug("Skip loading extra.");
 				return;
 			}
-			lastExtraFile = inputExtraFileName;
+			lastPinyinFile = inputPinyinFileName;
 			
 			hashTable = new Hashtable();
 			allPhrases = new List<PhraseInfo>();
@@ -51,8 +51,8 @@ namespace PinYin
 			foreach (FileInfo file in files) {
 				loadOneFile(file.FullName);
 			}
-			if (inputExtraFileName != null) {
-				loadOneFile(inputExtraFileName);
+			if (inputPinyinFileName != null) {
+				loadOneFile(inputPinyinFileName);
 			}
 			adjustPhrase();
 			Logger.info("Extra dir load finished.");

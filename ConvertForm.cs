@@ -397,11 +397,11 @@ namespace PinYin
 			reader.Close();
 			reader.Dispose();
 			
-			string inputExtraFileName = getInputExtraFileName(path);
-			if (!File.Exists(inputExtraFileName)) {
-				inputExtraFileName = null;
+			string inputPinyinFileName = getInputPinyinFileName(path);
+			if (!File.Exists(inputPinyinFileName)) {
+				inputPinyinFileName = null;
 			}
-			ExtraInfo.Instance.Load(inputExtraFileName);
+			ExtraInfo.Instance.Load(inputPinyinFileName);
 		}
 		
 		/// <summary>
@@ -422,28 +422,28 @@ namespace PinYin
 		}
 		
 		/// <summary>
-		/// 根据输入的文件名，生成该文件对应的 extra 文件名
+		/// 根据输入的文件名，生成该文件对应的拼音文件名
 		/// </summary>
 		/// <param name="inputFileName">输入的文件名</param>
 		/// <returns>对应的 extra 文件名</returns>
-		private string getInputExtraFileName(string inputFileName)
+		private string getInputPinyinFileName(string inputFileName)
 		{
-			string inputExtraFileName = null;
+			string inputPinyinFileName = null;
 			if (inputFileName != null) {
 				string path = Path.GetDirectoryName(inputFileName);
 				string name = Path.GetFileNameWithoutExtension(inputFileName);
 				if (pinyinCheckBox.Checked) {
-					// 拼音写在汉字后面时，优先使用 _extra_append.xml 文件
-					// 仅当 _extra_append.xml 不存在时，才使用 _extra.xml 文件
-					inputExtraFileName = path + Path.DirectorySeparatorChar + name + "_extra_append.xml";
-					if (!File.Exists(inputExtraFileName)) {
-						inputExtraFileName = path + Path.DirectorySeparatorChar + name + "_extra.xml";
+					// 拼音写在汉字后面时，优先使用 _pinyin_fujia.xml 文件
+					// 仅当 _pinyin_fujia.xml 不存在时，才使用 _pinyin.xml 文件
+					inputPinyinFileName = path + Path.DirectorySeparatorChar + name + "_pinyin_fujia.xml";
+					if (!File.Exists(inputPinyinFileName)) {
+						inputPinyinFileName = path + Path.DirectorySeparatorChar + name + "_pinyin.xml";
 					}
 				} else {
-					inputExtraFileName = path + Path.DirectorySeparatorChar + name + "_extra.xml";
+					inputPinyinFileName = path + Path.DirectorySeparatorChar + name + "_pinyin.xml";
 				}
 			}
-			return inputExtraFileName;
+			return inputPinyinFileName;
 		}
 		
 		/// <summary>
@@ -461,14 +461,14 @@ namespace PinYin
 			outputText.AppendText("* 基本词库：根据《新华字典》 整理而成，后又补充了一些常见的词语。\n");
 			outputText.AppendText("* 扩展词库：扩展词库分为两部分\n");
 			outputText.AppendText("\t其一，存放在 pinyin/extra 目录的内容，主要考虑存放一些专有名词，可根据学科、宗教等进行划分。\n");
-			outputText.AppendText("\t其二，如果是转换拖放的文件，还会试图在文件所在目录下，读取与该文件匹配的扩展词库文件。文件名格式：\n");
-			outputText.AppendText("\t\t1）当没有勾选“拼音显示在字后面”， extra文件名为： 拖放的文件名 + \"_extra.xml\"。\n");
-			outputText.AppendText("\t\t2）当有勾选“拼音显示在字后面”， extra文件名为： 拖放的文件名 + \"_extra_append.xml\"。\n");
-			outputText.AppendText("\t\t   如果不存在文件： 拖放的文件名 + \"_extra_append.xml\"，则使用：拖放的文件名 + \"_extra.xml\" 。\n");
+			outputText.AppendText("\t其二，如果是转换拖放的文件，还会试图在文件所在目录下，读取与该文件匹配的拼音文件。文件名格式：\n");
+			outputText.AppendText("\t\t1）当没有勾选“拼音显示在字后面”， 文件名为： 拖放的文件名 + \"_pinyin.xml\"。\n");
+			outputText.AppendText("\t\t2）当有勾选“拼音显示在字后面”， 文件名为： 拖放的文件名 + \"_pinyin_fujia.xml\"。\n");
+			outputText.AppendText("\t\t   如果不存在文件： 拖放的文件名 + \"_pinyin_fujia.xml\"，则使用：拖放的文件名 + \"_pinyin.xml\" 。\n");
 			outputText.AppendText("\t\t这个文件主要存放所转换文件中出现的一些特殊的注音。参考 demo 目录下的例子。\n");
-			outputText.AppendText("\t\textra文件分为两种的文件名，我是这样考虑的：\n");
+			outputText.AppendText("\t\t拼音文件分为两种的文件名，我是这样考虑的：\n");
 			outputText.AppendText("\t\t\t当拼音写在汉字上面时，通常会需要显示所有汉字的拼音，类似于小学一年纪的课本。\n");
-			outputText.AppendText("\t\t\t当拼音写在汉字后面时，通常只需要标准一些不常见、易错的汉字。\n");
+			outputText.AppendText("\t\t\t当拼音写在汉字后面时，通常只需要为一些不常见、易错的汉字标注拼音。\n");
 			outputText.AppendText("* 转换过程中，如果有勾选“使用扩展词库”，则会优先根据扩展词库中的词来判断。\n");
 			outputText.AppendText("\n");
 			
