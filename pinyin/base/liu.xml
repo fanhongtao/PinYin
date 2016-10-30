@@ -53,7 +53,7 @@
 	<char hz="柳" py="liǔ" />
 	<char hz="绺" py="liǔ" />
 	<char hz="锍" py="liǔ" />
-	<char hz="六" py="liù" multi="lù" main="1">
+	<char hz="六" py="liù" multi="lù" main="1" suppressLog="1">
 		<phrase hz="六丁六甲" py="liù,dīng,liù,jiǎ" />
 		<definition id="一">
 			<item id="1" text="数目字。" />

@@ -38,6 +38,7 @@
 	<char hz="闱" py="wéi" />
 	<char hz="涠" py="wéi" />
 	<char hz="为" py="wéi" multi="wèi" main="1">
+		<phrase hz="何为" py="hé,wéi" info="1.为什么，何故。2.干什么，做什么。用于询问。3.是什么。"/>
 		<definition id="一">
 			<item id="1" text="做，行：事在人~. 所作所~. (引)作为，作事的能力：年轻有~." />
 			<item id="2" text="做，当：他被选~人大代表. 拜他~师." />

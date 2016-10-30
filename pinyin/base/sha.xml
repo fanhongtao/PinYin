@@ -27,6 +27,7 @@
 		</definition>
 	</char>
 	<char hz="沙" py="shā" multi="shà" main="1">
+		<phrase hz="沙门" py="shā,mén" />
 		<definition id="一">
 			<item id="1" text="（-子）非常细碎的石粒：~土. ~滩." />
 			<item id="2" text="像沙子的：蚕~（桑蚕的粪）. 豆~. ~瓤西瓜." />

@@ -94,7 +94,7 @@
 	<char hz="謇" py="jiǎn" />
 	<char hz="瀽" py="jiǎn" />
 	<char hz="劗" py="jiǎn" trans="1" />
-	<char hz="见" py="jiàn" multi="xiàn" main="1">
+	<char hz="见" py="jiàn" multi="xiàn" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="看到：眼~为实. (引)接触，遇到：这种病怕~风. 胶卷不能~光. [见习]学得专业知识的人初到工作岗位在现场中实习：~~技术员." />
 			<item id="2" text="看得出，显现出：病已~好. ~分晓. ~效." />

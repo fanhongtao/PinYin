@@ -97,6 +97,7 @@
 	<char hz="舆" py="yú" />
 	<char hz="" py="yú" />
 	<char hz="与" py="yǔ" multi="yú,yù" main="1">
+		<phrase hz="与其" py="yǔ,qí" />
 		<definition id="一">
 			<item id="1" text="介词，跟：~疾病作斗争. ~虎谋皮." />
 			<item id="2" text="连词，和：批评~自我批评. 父亲~母亲都来." />

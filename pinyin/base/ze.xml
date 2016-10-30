@@ -22,7 +22,7 @@
 	<char hz="舴" py="zé">
 		<phrase hz="舴艋" py="zé,měng" />
 	</char>
-	<char hz="择" py="zé" multi="zhái" main="1">
+	<char hz="择" py="zé" multi="zhái" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="挑拣，挑选（(连)选-）：不~手段. ~善而从. ~友. ~业." />
 		</definition>

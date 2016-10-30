@@ -10,6 +10,7 @@
 		</definition>
 	</char>
 	<char hz="王" py="wáng" multi="wàng" main="1">
+		<phrase hz="王子" py="wáng,zǐ" />
 		<definition id="一">
 			<item id="1" text="古代指帝王或最高的爵位。" />
 			<item id="2" text="一族或一类中的首领：兽~. 蜂~. 花中之~." />

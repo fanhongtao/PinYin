@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="三摩地" py="sān,mó,dì" info="三摩地又称三昧、三摩提、三摩帝、三摩底、三么地、三昧地等，华译为定，即住心于一境而不散乱的意思。"/>
+	<phrase hz="因地" py="yīn,dì" info="菩萨尚未证得佛果，在因中修行时的地位。"/>
+</extra>

@@ -24,7 +24,7 @@
 	<char hz="嬷" py="mó">
 		<phrase hz="嬷嬷" py="mó,mo" />
 	</char>
-	<char hz="摩" py="mó" multi="mā" main="1">
+	<char hz="摩" py="mó" multi="mā" main="1" suppressLog="1">
 		<phrase hz="摩挲" py="mó,suō" />
 		<definition id="一">
 			<item id="1" text="摩擦，蹭(cèng)：~拳擦掌." />
