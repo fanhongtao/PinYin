@@ -12,7 +12,7 @@
 	</char>
 	<char hz="槺" py="kāng" />
 	<char hz="鱇" py="kāng" trans="1" />
-	<char hz="扛" py="káng" multi="gāng" main="1">
+	<char hz="扛" py="káng" multi="gāng" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="用肩膀承担：~粮食. ~着一杆枪. ~活（旧时指做长工）." />
 		</definition>

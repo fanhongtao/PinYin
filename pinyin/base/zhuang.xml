@@ -23,7 +23,7 @@
 			<item text="〈方〉量词：用于房子：一~楼." />
 		</definition>
 	</char>
-	<char hz="戆" py="zhuàng" multi="gàng" main="1">
+	<char hz="戆" py="zhuàng" multi="gàng" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="刚直：性情~直." />
 		</definition>
