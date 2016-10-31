@@ -70,6 +70,7 @@
 	<char hz="鄗" py="hào" />
 	<char hz="滈" py="hào" />
 	<char hz="镐" py="hào" multi="gǎo">
+		<phrase hz="镐京" py="hào,jīng" info="古地名。位於今陝西省長安縣西南，灃河東岸，簡稱為「鎬」。為周武王建都的地方。" />
 		<definition id="二">
 			<item text="西周的国都，在今陕西长安西北。" />
 		</definition>
