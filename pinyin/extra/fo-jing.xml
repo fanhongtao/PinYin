@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
-	<phrase hz="三摩地" py="sān,mó,dì" info="三摩地又称三昧、三摩提、三摩帝、三摩底、三么地、三昧地等，华译为定，即住心于一境而不散乱的意思。"/>
-	<phrase hz="因地" py="yīn,dì" info="菩萨尚未证得佛果，在因中修行时的地位。"/>
+	<phrase hz="观世音" py="guān,shì,yīn" info="观世音是鸠摩罗什的旧译，玄奘新译为观自在，中国每略称为观音。。" />
+	<phrase hz="观音" py="guān,yīn" info="观世音菩萨。" />
+	<phrase hz="观自在" py="guān,zì,zai" info="观世音菩萨。" />
+	<phrase hz="海会" py="hǎi,huì" info="佛教术语：比喻德深如海，圣众会聚之多，所以叫做海会。" />
+	<phrase hz="南无" py="nā,mó" info="佛学用语又作南牟。佛教徒称合掌稽首为“南无”，并常用来加在佛名、菩萨名或经典名之前，表示对佛法的一种尊敬。" />
+	<phrase hz="三摩地" py="sān,mó,dì" info="三摩地又称三昧、三摩提、三摩帝、三摩底、三么地、三昧地等，华译为定，即住心于一境而不散乱的意思。" />
+	<phrase hz="释迦牟尼" py="shì,jiā,móu,ní" info="(公元前563-485)也叫释伽文佛，佛教创始人。" />
+	<phrase hz="因地" py="yīn,dì" info="菩萨尚未证得佛果，在因中修行时的地位。" />
 </extra>

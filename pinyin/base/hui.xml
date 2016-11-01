@@ -43,7 +43,7 @@
 	<char hz="毁" py="huǐ" />
 	<char hz="卉" py="huì" />
 	<char hz="汇" py="huì" />
-	<char hz="会" py="huì" multi="kuài" main="1">
+	<char hz="会" py="huì" multi="kuài" main="1" suppressLog="1">
 		<phrase hz="都会" py="dū,huì" />
 		<definition id="一">
 			<item id="1" text="聚合，合拢，合在一起：在哪儿~合？就在这里~齐吧. ~审. ~话（对面说话）. [会师]从不同地方前进的军队，在某一个地方聚合在一起。" />
