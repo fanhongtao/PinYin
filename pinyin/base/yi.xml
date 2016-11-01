@@ -176,6 +176,7 @@
 	<char hz="艺" py="yì" />
 	<char hz="呓" py="yì" />
 	<char hz="仡" py="yì" multi="gē" main="1">
+		<phrase hz="仡仡" py="yì,yì" />
 		<definition id="二" text="[仡仡]">
 			<item id="1" text="强壮勇敢。" />
 			<item id="2" text="高大。" />

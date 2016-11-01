@@ -25,7 +25,7 @@
 		<phrase hz="咔叽" py="kǎ,jī" />
 	</char>
 	<char hz="胩" py="kǎ" />
-	<char hz="咯" py="kǎ" multi="gē,lo">
+	<char hz="咯" py="kǎ" multi="gē,lo" main="1">
 		<phrase hz="咯出来" py="kǎ,chū,lái" />
 		<phrase hz="咯血" py="kǎ,xiě" />
 		<phrase hz="咯痰" py="kǎ,tán" />
