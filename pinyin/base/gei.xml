@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="给" py="gěi" multi="jǐ" main="1">
+		<phrase hz="赐给" py="cì,gěi" info="赏给。" />
+		<phrase hz="给以" py="gěi,yǐ" info="给;给予。" />
+		<phrase hz="给与" py="gěi,yǔ" info="亦作“给予”。使对方有所得。" />
+		<phrase hz="交给" py="jiāo,gěi" info="给与；付给。" />
+		<phrase hz="送给" py="sòng,gěi" />
 		<definition id="一">
 			<item id="1" text="交付，送与：~他一本书. 是谁~你的？(引)把动作或态度加到对方：~他一顿批评." />
 			<item id="2" text="介词。1.替，为：医生~他看病. ~大家帮忙. 2.被，表示遭受：~火烧掉了. ~拉走了. 3.向，对：快~大伙儿说说. ~人家赔不是." />

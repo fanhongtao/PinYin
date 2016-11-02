@@ -176,8 +176,14 @@
 	</char>
 	<char hz="给" py="jǐ" multi="gěi">
 		<phrase hz="补给" py="bǔ,jǐ" />
+		<phrase hz="供给" py="gōng,jǐ" info="1.满足社会购买力的需要。 2.按一定规格供应或作为伴随物而配给" />
+		<phrase hz="给付" py="jǐ,fù" info="1.付给（应付的款项等）。2.保险人对索赔人提交的单证进行审核，根据合同约定赔付保险金。" />
+		<phrase hz="给水工程" py="jǐ,shuǐ,gōng,chéng" info="也叫上水工程。供给生活用水和工业用水等的工程。" />
 		<phrase hz="给养" py="jǐ,yǎng" />
 		<phrase hz="家给人足" py="jiā,jǐ,rén,zú" />
+		<phrase hz="日不暇给" py="rì,bù,xiá,jǐ" info="形容事情太多,时间不够用" />
+		<phrase hz="仰给" py="yǎng,jǐ" info="依靠别人供给。" />
+		<phrase hz="自给" py="zì,jǐ" info="依靠自己生产，满足自己需要" />
 		<definition id="二">
 			<item id="1" text="供应：自~自足. 补~. ~养（军队中主副食、燃料，以及牲畜饲料等物资供应的统称）." />
 			<item id="2" text="富裕，充足：家~人足." />
@@ -253,7 +259,7 @@
 	<char hz="祭" py="jì" />
 	<char hz="穄" py="jì">
 		<definition>
-			<item text="（-子）又叫“糜(méi)子”。一种谷物，跟黍子相似，但不黏。"/>
+			<item text="（-子）又叫“糜(méi)子”。一种谷物，跟黍子相似，但不黏。" />
 		</definition>
 	</char>
 	<char hz="寂" py="jì">
