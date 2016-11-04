@@ -21,6 +21,8 @@
 	<char hz="簕" py="lè" />
 	<char hz="鳓" py="lè" />
 	<char hz="乐" py="lè" multi="yuè" main="1">
+		<phrase hz="安乐" py="ān,lè" />
+		<phrase hz="极乐" py="jí,lè" info="1.尽情娱乐。2.非常快乐。3.指极乐世界。4.借指佛经。" />
 		<definition id="一">
 			<item id="1" text="快乐，欢喜，快活：~趣. ~事. ~而忘返." />
 			<item id="2" text="乐于：~此不疲. [乐得]正好，正合心愿：~~这样做." />

@@ -68,7 +68,7 @@
 		<phrase hz="滑稽" py="huá,ji" />
 	</char>
 	<char hz="搳" py="huá" />
-	<char hz="化" py="huà" multi="huā" main="1">
+	<char hz="化" py="huà" multi="huā" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="性质或形态改变：~整为零. 变~. 开~. 冰都~了. [化合]两种或两种以上的物质互相结合变成一种性质跟原来物质都不相同的新物质。 [化石]埋藏在地下的古代生物的遗骸变成的石块，或带着古代生物遗迹的石块。 [化学]研究物质的结构、组成、性质、应用及其变化规律的科学。" />
 			<item id="2" text="使思想、行为等有所转变：感~. 教~. 潜移默~." />

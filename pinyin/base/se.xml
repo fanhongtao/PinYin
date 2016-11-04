@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="色" py="sè" multi="shǎi" main="1">
+	<char hz="色" py="sè" multi="shǎi" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="颜色，由物体发射、反射的光通过视觉而产生的印象：日光有七~. 红~." />
 			<item id="2" text="脸色，脸上表现出的神气、样子：和颜悦~. 喜形于~." />

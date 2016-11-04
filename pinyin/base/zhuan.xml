@@ -7,6 +7,7 @@
 		<phrase hz="颛顼" py="zhuān,xū" />
 	</char>
 	<char hz="转" py="zhuǎn" multi="zhuàn" main="1">
+		<phrase hz="宛转" py="wǎn,zhuǎn" info="1.隨順變化。2.身體轉動，翻來覆去。3.含蓄委婉。4.態度和藹、柔順。5.調停、斡旋。6.形容纏綿委曲。7.形容聲音悅耳動人。" />
 		<definition id="一">
 			<item id="1" text="旋动，改换方向或情势：~身. 运. 向左. ~眼之间. 情况好~." />
 			<item id="2" text="不直接地，中间再经过别人或别的地方：~送. ~达." />
