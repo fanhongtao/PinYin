@@ -13,7 +13,7 @@
 		</definition>
 	</char>
 	<char hz="胎" py="tāi" />
-	<char hz="台" py="tái" multi="tāi" main="1">
+	<char hz="台" py="tái" multi="tāi" main="1" suppressLog="1">
 		<phrase hz="莲台" py="lián,tái" info="莲座" />
 		<definition id="一">
 			<item id="1" text="高平的建筑物：戏~. 讲~. 主席~. 楼阁亭~. (引)1.（-儿）像台的东西：井～. 窗~儿. 2.器物的座子：灯~. 蜡~." />

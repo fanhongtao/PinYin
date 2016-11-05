@@ -67,6 +67,7 @@
 	<char hz="整" py="zhěng" />
 	<char hz="正" py="zhèng" multi="zhēng" main="1">
 		<phrase hz="正经" py="zhèng,jing" />
+		<phrase hz="正觉" py="zhèng,jué" info="指真正之觉悟。又作正解、等觉、等正觉、正等正觉、正等觉、正尽觉。" />
 		<definition id="一">
 			<item id="1" text="不偏，不斜：~午. ~中. ~南~北. (引)1.合于法则、规矩的：~派. ~当. ~楷. 2.图形的各个边和各个角都相等的：~方形. [正经](-jing)1.端庄，正派：~~人. ~~话. 2.正当：~~事." />
 			<item id="2" text="副词，恰：你来得~好. 时钟~打十二下." />
