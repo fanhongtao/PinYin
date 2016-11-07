@@ -22,7 +22,7 @@
 	<char hz="麾" py="huī" />
 	<char hz="徽" py="huī" />
 	<char hz="隳" py="huī" />
-	<char hz="回" py="huī">
+	<char hz="回" py="huí">
 		<phrase hz="回纥" py="huí,hé" />
 		<phrase hz="回鹘" py="huí,hú" />
 		<definition>
@@ -35,9 +35,9 @@
 			<item text="[回族]我国少数民族。" />
 		</definition>
 	</char>
-	<char hz="茴" py="huī" />
-	<char hz="洄" py="huī" />
-	<char hz="蛔" py="huī" />
+	<char hz="茴" py="huí" />
+	<char hz="洄" py="huí" />
+	<char hz="蛔" py="huí" />
 	<char hz="虺" py="huǐ" info="Word显示为huī" />
 	<char hz="悔" py="huǐ" />
 	<char hz="毁" py="huǐ" />
