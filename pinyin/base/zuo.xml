@@ -34,7 +34,7 @@
 			<item text="（-子、-儿）量词，用于成丛的毛发：剪下一~子头发." />
 		</definition>
 	</char>
-	<char hz="作" py="zuò" multi="zuō" main="1">
+	<char hz="作" py="zuò" multi="zuō" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="起，兴起：振~精神. 锣鼓大~. 日出而~. 一鼓~气. [作用]功能，使事物发生变化的力量：起~~. 带头~~." />
 			<item id="2" text="劳作，制造：深耕细~. 操~." />

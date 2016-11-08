@@ -46,7 +46,7 @@
 	<char hz="挽" py="wǎn" />
 	<char hz="晚" py="wǎn" />
 	<char hz="绾" py="wǎn" />
-	<char hz="万" py="wàn" multi="mò" main="1">
+	<char hz="万" py="wàn" multi="mò" main="1" suppressLog="1">
 		<phrase hz="万劫" py="wàn,jié" info="1.亦作“万刼”。佛经称世界从生成到毁灭的过程为一劫，万劫犹万世，形容时间极长。2.种种灾难；许多灾难。"/>
 		<definition id="一">
 			<item id="1" text="数目，十个一千。(喻)多：~物. 气象~千. ~能胶. [万岁]千秋万代永远存在（祝颂语）：人民~~. 祖国~~. [万一](转)意外，意外地：以防~~. ~~失败." />

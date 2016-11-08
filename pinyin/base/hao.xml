@@ -40,6 +40,7 @@
 	<char hz="郝" py="hǎo" />
 	<char hz="号" py="hào" multi="háo" main="1">
 		<phrase hz="号召" py="hào,zhào" />
+		<phrase hz="名号" py="míng,hào" info="1.名字和别号。2.名称;称号。3.名声。" />
 		<definition id="一">
 			<item id="1" text="名称，国~. 别~. 牌~. (转)商店：本~. 分~." />
 			<item id="2" text="记号，标志：暗~. 信~灯. 做记~." />

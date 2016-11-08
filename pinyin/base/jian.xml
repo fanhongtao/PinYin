@@ -20,6 +20,7 @@
 	<char hz="坚" py="jiān" />
 	<char hz="鲣" py="jiān" />
 	<char hz="间" py="jiān" multi="jiàn" main="1">
+		<phrase hz="世间" py="shì,jiān" info="人世间；世界上。" />
 		<definition id="一">
 			<item id="1" text="中间，两段时间或两种事物相接的地方：课~操. 彼此~有差别." />
 			<item id="2" text="在一定的地方、时间或人群的范围之内：田~. 晚~. 人~." />

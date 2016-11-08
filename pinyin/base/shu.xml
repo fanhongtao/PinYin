@@ -100,6 +100,7 @@
 	</char>
 	<char hz="裋" py="shù" />
 	<char hz="数" py="shù" multi="shǔ,shuò" main="1">
+		<phrase hz="算数" py="suàn,shù" info="1.承认有效。2.结束;为止。3.指算术。" />
 		<phrase hz="无数" py="wú,shù" info="1.无法计数，指数量极多。2.不知底细" />
 		<definition id="一">
 			<item id="1" text="数目，划分或计算出来的量：基~. 序~. 岁~. 次~. 人~太多，坐不下. [数词]表示数目的词，如一、九、千、万等。" />

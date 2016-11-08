@@ -43,7 +43,7 @@
 		</definition>
 	</char>
 	<char hz="揢" py="ké" />
-	<char hz="可" py="kě" multi="kè" main="1">
+	<char hz="可" py="kě" multi="kè" main="1" suppressLog="1">
 		<phrase hz="可恶" py="kě,wù" />
 		<definition id="一">
 			<item id="1" text="是，对，表示准许：许~. 认~. 不加~否. [可以]1.表示允许：~~，你去吧！ 2.适宜，能：现在~~穿棉衣了. 马铃薯~~当饭吃. 3.过甚，程度深：这几天冷得真~~. 4.还好，差不多：这篇文章还~~. [小可]1.寻常：不同~~. 2.旧时谦称自己为小可。" />

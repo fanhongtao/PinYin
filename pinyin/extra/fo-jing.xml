@@ -1,21 +1,98 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="阿耨多罗三藐三菩提" py="ā,nòu,duō,luó,sān,miǎo,sān,pú,tí" info="梵语，意为无上正等正觉，即最高的智慧觉悟。阿耨多罗是“无上”之意（阿为无，耨多罗为上），三藐是“上而正”之意，三菩提是“普遍的智慧和觉悟”。" />
+	<phrase hz="阿鞞跋致" py="ā,pí,bá,zhì" info="依菩萨心行清净程度划分的修行位地之一。一般译作不退转位。" />
+	<phrase hz="阿僧祇" py="ā,sēng,qí" info="佛教用语。根据《华严经》数字体系:阿僧祇 = 10^(7.1×10^31)(即1的后面跟着7.1×10的31次方个0)。" />
+	<phrase hz="阿僧祇劫" py="ā,sēng,qí,jié" info="佛教用语。表示阿僧祇个大劫。一个大劫约269亿年。" />
+	<phrase hz="阿修罗" py="ā,xiū,luó" info="佛教中是六道之一。" />
 	<phrase hz="般若" py="bō,rě" info="智慧。佛教用语。通过直觉的洞察所获得的先验的智慧或最高的知识" />
 	<phrase hz="波罗蜜" py="bō,luó,mì" info="佛教用语，指到彼岸也译作“波罗蜜多”。" />
 	<phrase hz="波罗蜜多" py="bō,luó,mì,duō" info="见“波罗蜜”。" />
 	<phrase hz="观世音" py="guān,shì,yīn" info="观世音是鸠摩罗什的旧译，玄奘新译为观自在，中国每略称为观音。" />
 	<phrase hz="观音" py="guān,yīn" info="观世音菩萨。" />
 	<phrase hz="观自在" py="guān,zì,zai" info="观世音菩萨。" />
+	<phrase hz="广长舌相" py="guǎng,cháng,shé,xiàng" info="佛学术语。为佛三十二大人相之一。" />
 	<phrase hz="海会" py="hǎi,huì" info="佛教术语：比喻德深如海，圣众会聚之多，所以叫做海会。" />
 	<phrase hz="和南" py="hé,nán" info="胡語音譯。梵語作vand。古印度人對長上問候用語，表示敬禮、恭敬之意。此用語亦流行於佛教團體。" />
 	<phrase hz="回向" py="huí,xiàng" info="回向是佛教修学过程当中，非常重要的一种修行功夫。所谓‘回向’是将自己所修的功德，不愿自己独享，而将之‘回’转归‘向’与法界众生同享，以拓开自己的心胸，并且使功德有明确的方向而不致散失。" />
+	<phrase hz="迦陵频伽" py="jiā,líng,pín,qié" info="佛教中的一种神鸟。据传其声音美妙动听，婉转如歌，胜于常鸟，佛经中又名美音鸟或妙音鸟。" />
 	<phrase hz="经藏" py="jīng,zàng" info="见“三藏”。" />
+	<phrase hz="鸠摩罗什" py="jiū,mó,luó,shí" info="东晋时后秦的高僧，精通经藏、律藏、论藏三藏。，与玄奘、不空、真谛并称中国佛教四大译经家。位列四大译经家之首。" />
 	<phrase hz="律藏" py="lǜ,zàng" info="见“三藏”。" />
 	<phrase hz="论藏" py="lùn,zàng" info="见“三藏”。" />
 	<phrase hz="摩诃" py="mó,hē" info="佛学用语，是梵文音译词。有大、多、胜三义。 " />
 	<phrase hz="南无" py="nā,mó" info="佛学用语又作南牟。佛教徒称合掌稽首为“南无”，并常用来加在佛名、菩萨名或经典名之前，表示对佛法的一种尊敬。" />
+	<phrase hz="祇树给孤独园" py="qí,shù,jǐ,gū,dú,yuán" info="由祗陀王子捐树、给孤独长者献地所造就的一座林园精舍。" />
 	<phrase hz="三藏" py="sān,zàng" info="佛教用語：(1)​ 佛教經典的總稱。包括經藏、律藏、論藏三部分。經藏是指以佛說法的形式創作的典籍；律藏雖同是以佛說的形式，但內容都和戒律有關；論藏是佛弟子或後世論師闡釋經義的作品。(2)​ 三藏法師的簡稱。" />
 	<phrase hz="三摩地" py="sān,mó,dì" info="三摩地又称三昧、三摩提、三摩帝、三摩底、三么地、三昧地等，华译为定，即住心于一境而不散乱的意思。" />
+	<phrase hz="舍卫国" py="shě,wèi,guó" info="舍卫国为中印度古王国名。" />
+	<phrase hz="舍利" py="shè,lì" info="佛教修行者遺體焚化之後，所結成的珠狀或塊狀的顆粒。" />
 	<phrase hz="释迦牟尼" py="shì,jiā,móu,ní" info="(公元前563-485)也叫释伽文佛，佛教创始人。" />
+	<phrase hz="五浊恶世" py="wǔ,zhuó,è,shì" info="指劫浊、见浊、烦恼浊、众生浊、命浊。" />
+	<phrase hz="一生补处" py="yì,shēng,bǔ,chù" info="菩萨于当下阶位起，境界不退转，功德不断增长，直至成佛道。一生补处是针对大乘菩萨所讲，不能按照声闻法的随顺方便说去理解一生的含义。" />
 	<phrase hz="因地" py="yīn,dì" info="菩萨尚未证得佛果，在因中修行时的地位。" />
+	
+	<!-- 人名 开始 -->
+	<phrase hz="阿难陀" py="ā,nàn,tuó" info="佛陀十大弟子之一。誉为多闻第一。" />
+	<phrase hz="阿㝹楼驮" py="ā,nóu,lóu,tuó" info="佛陀十大弟子之一。誉为天眼第一。为佛之从弟。又称为：阿那楼驮、阿那律。" />
+	<phrase hz="阿逸多" py="ā,yì,duō" info="佛陀弟子之一。" />
+	<phrase hz="薄拘罗" py="bó,jū,luó" info="善容尊者，寿命第一。" />
+	<phrase hz="宾头卢颇罗堕" py="bīn,tóu,lú,pō,luó,duò" info="十八罗汉之一。“不动尊者，久住世间，应末世供，福田第一。”" />
+	<phrase hz="迦留陀夷" py="jiā,liú,tuó,yí" info="黑光尊者，为佛使者，教化第一。" />
+	<phrase hz="迦叶" py="jiā,shè" info="佛陀十大弟子之一。禅宗以其为佛弟子中修无执着行之第一人，特尊为头陀第一。" />
+	<phrase hz="迦旃延" py="jiā,zhān,yán" info="佛陀十大弟子之一。于佛陀弟子中，称‘论议第一’。" />
+	<phrase hz="憍梵波提" py="jiāo,fàn,bō,tí" />
+	<phrase hz="劫宾那" py="jié,bīn,nà" info="世尊弟子。他常修教诫，教授诸声闻众，因而被称为众僧第一。所谓声闻众即小乘佛教众弟子。" />
+	<phrase hz="离婆多" py="lí,pó,duō" info="佛弟子，系舍利弗之弟。" />
+	<phrase hz="罗睺罗" py="luó,hóu,luó" info="佛陀十大弟子之一。誉为密行第一。佛之嫡子。" />
+	<phrase hz="难陀" py="nàn,tuó" info="释尊之异母弟。" />
+	<phrase hz="目犍连" py="mù,jiān,lián" info="佛陀十大弟子之一。被誉为神通第一。" />
+	<phrase hz="舍利弗" py="shè,lì,fú" info="佛陀十大弟子之一。以智慧第一著称。" />
+	<!-- 人名 结束 -->
+	
+	<!-- 佛经中提及的佛名 开始 -->
+	<phrase hz="阿閦鞞佛" py="ā,chù,pí,fó" info="《佛说阿弥陀经》：东方" />
+	<phrase hz="须弥相佛" py="xū,mí,xiàng,fó" info="《佛说阿弥陀经》：东方" />
+	<phrase hz="大须弥佛" py="dà,xū,mí,fó" info="《佛说阿弥陀经》：东方" />
+	<phrase hz="须弥光佛" py="xū,mí,guāng,fó" info="《佛说阿弥陀经》：东方" />
+	<phrase hz="妙音佛" py="miào,yīn,fó" info="《佛说阿弥陀经》：东方" />
+	
+	<phrase hz="日月灯佛" py="rì,yuè,dēng,fó" info="《佛说阿弥陀经》：南方" />
+	<phrase hz="名闻光佛" py="míng,wén,guāng,fó" info="《佛说阿弥陀经》：南方" />
+	<phrase hz="大焰肩佛" py="dà,yàn,jiān,fó" info="《佛说阿弥陀经》：南方" />
+	<phrase hz="须弥灯佛" py="xū,mí,dēng,fó" info="《佛说阿弥陀经》：南方" />
+	<phrase hz="无量精进佛" py="wú,liàng,jīng,jìn,fó" info="《佛说阿弥陀经》：南方" />
+	
+	<phrase hz="无量寿佛" py="wú,liàng,shòu,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="无量相佛" py="wú,liàng,xiàng,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="无量幢佛" py="wú,liàng,chuáng,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="大光佛" py="dà,guāng,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="大明佛" py="dà,míng,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="宝相佛" py="bǎo,xiàng,fó" info="《佛说阿弥陀经》：西方" />
+	<phrase hz="净光佛" py="jìng,guāng,fó" info="《佛说阿弥陀经》：西方" />
+	
+	<phrase hz="燄肩佛" py="yàn,jiān,fó" info="《佛说阿弥陀经》：北方" />
+	<phrase hz="最胜音佛" py="zuì,shèng,yīn,fó" info="《佛说阿弥陀经》：北方" />
+	<phrase hz="难沮佛" py="nán,jǔ,fó" info="《佛说阿弥陀经》：北方" />
+	<phrase hz="日生佛" py="rì,shēng,fó" info="《佛说阿弥陀经》：北方" />
+	<phrase hz="网明佛" py="wǎng,míng,fó" info="《佛说阿弥陀经》：北方" />
+	
+	<phrase hz="师子佛" py="shī,zǐ,fó" info="《佛说阿弥陀经》：下方" />
+	<phrase hz="名闻佛" py="míng,wén,fó" info="《佛说阿弥陀经》：下方" />
+	<phrase hz="名光佛" py="míng,guāng,fó" info="《佛说阿弥陀经》：下方" />
+	<phrase hz="达摩佛" py="dá,mó,fó" info="《佛说阿弥陀经》：下方" />
+	<phrase hz="法幢佛" py="fǎ,chuáng,fó" info="《佛说阿弥陀经》：下方" />
+	<phrase hz="持法佛" py="chí,fǎ,fó" info="《佛说阿弥陀经》：下方" />
+	
+	<phrase hz="梵音佛" py="fàn,yīn,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="宿王佛" py="xiù,wáng,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="香上佛" py="xiāng,shàng,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="香光佛" py="xiāng,guāng,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="大燄肩佛" py="dà,yàn,jiān,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="杂色宝华严身佛" py="zá,sè,bǎo,huā,yán,shēn,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="娑罗树王佛" py="suō,luó,shù,wáng,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="宝华德佛" py="bǎo,huā,dé,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="见一切义佛" py="jiàn,yí,qiè,yì,fó" info="《佛说阿弥陀经》：上方" />
+	<phrase hz="如须弥山佛" py="rú,xū,mí,shān,fó" info="《佛说阿弥陀经》：上方" />
+	<!-- 佛经中提及的佛名 结束 -->
 </extra>

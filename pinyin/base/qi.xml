@@ -85,6 +85,7 @@
 	<char hz="鲯" py="qí" />
 	<char hz="麒" py="qí" />
 	<char hz="奇" py="qí" multi="jī" main="1">
+		<phrase hz="奇妙" py="qí,miào" />
 		<definition id="一">
 			<item id="1" text="特殊的，稀罕的，不常见的：~事. ~闻. ~冷. ~丑. (引)出人意料的，令人不测的：~兵. ~计. ~袭. 出~制胜." />
 			<item id="2" text="惊异，引以为奇：世人~之." />

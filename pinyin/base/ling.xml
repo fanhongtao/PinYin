@@ -58,7 +58,7 @@
 	<char hz="岭" py="lǐng" />
 	<char hz="领" py="lǐng" />
 	<char hz="另" py="lìng" />
-	<char hz="令" py="lìng" multi="lǐng" main="1">
+	<char hz="令" py="lìng" multi="lǐng" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="上级对下级的指示：明~规定. 遵守法~." />
 			<item id="2" text="上级指示下级：~全体官兵遵照执行." />

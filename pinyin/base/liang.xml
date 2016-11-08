@@ -69,6 +69,7 @@
 	</char>
 	<char hz="量" py="liàng" multi="liáng" main="1">
 		<phrase hz="分量" py="fèn,liang" />
+		<phrase hz="无量" py="wú,liàng" info="1.没有限制的;没有止境的。2.难以计算，指数量极多。" />
 		<definition id="二">
 			<item id="1" text="计算东西体积多少的器具的总称。 [量词]表示事物或行动单位的词，如张、条、个、只、遍等。" />
 			<item id="2" text="限度：酒~. 气~. 饭~. 胆~." />

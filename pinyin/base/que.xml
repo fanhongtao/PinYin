@@ -20,8 +20,9 @@
 	<char hz="确" py="què" />
 	<char hz="悫" py="què" />
 	<char hz="雀" py="què" multi="qiāo,qiǎo" main="1">
-		<phrase hz="雀盲" py="què,què" />
+		<phrase hz="孔雀" py="kǒng,què" />
 		<phrase hz="雀盲眼" py="qiǎo,mang,yǎn" />
+		<phrase hz="雀盲" py="què,máng" />
 		<definition id="一">
 			<item text="鸟的一类，身体小，翅膀长，雌雄羽毛颜色多不相同，吃粮食粒和昆虫。特指麻雀，泛指小鸟。 [雀斑]脸上密集的褐色斑点。 [雀盲]夜盲。也说“雀盲眼”(qiǎomangyǎn)。 [雀跃](喻)高兴得像麻雀那样跳跃。" />
 		</definition>
