@@ -14,7 +14,7 @@
 	<char hz="薨" py="hōng" />
 	<char hz="弘" py="hóng" />
 	<char hz="泓" py="hóng" />
-	<char hz="红" py="hóng" multi="gōng" main="1">
+	<char hz="红" py="hóng" multi="gōng" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="像鲜血那样的颜色。(转)1.喜庆：办~事. 2.革命的，觉悟高的：~军. ~色政权. 又~又专. 3.象征顺利、成功：开门~." />
 			<item id="2" text="指人受宠信：~人." />
