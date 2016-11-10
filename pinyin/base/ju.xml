@@ -109,7 +109,7 @@
 	</char>
 	<char hz="莒" py="jǔ" />
 	<char hz="筥" py="jǔ" />
-	<char hz="枸" py="jǔ" multi="gōu,gǒu" main="1">
+	<char hz="枸" py="jǔ" multi="gōu,gǒu">
 		<phrase hz="枸橼" py="jǔ,yuán" />
 		<definition id="三">
 			<item text="[枸橼](-yuán)也叫“香橼”，常绿乔木，初夏开花，白色。果实有香气，味很酸。" />
@@ -134,7 +134,7 @@
 	</char>
 	<char hz="炬" py="jù" />
 	<char hz="距" py="jù" />
-	<char hz="句" py="jù" multi="gōu" main="1">
+	<char hz="句" py="jù" multi="gōu" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="（-子）由词和词组组成的能表示一个完整意思的话。" />
 		</definition>

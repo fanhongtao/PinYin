@@ -1,6 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="勾" py="gōu" multi="gòu" main="1">
+		<phrase hz="勾搭" py="gōu,dā" />
+		<phrase hz="勾兑" py="gōu,duì" />
+		<phrase hz="勾画" py="gōu,huà" />
+		<phrase hz="勾魂" py="gōu,hún" />
+		<phrase hz="勾结" py="gōu,jié" />
+		<phrase hz="勾栏" py="gōu,lán" info="宋元时百戏杂剧演出的场所。后来指妓院" />
+		<phrase hz="勾阑" py="gōu,lán" info="见“ 勾栏 ”。" />
+		<phrase hz="勾勒" py="gōu,lè" info="1.用线条描画出轮廓。2.用简练的文笔叙述大概情况。" />
+		<phrase hz="勾连" py="gōu,lián" info="1.勾结，串通一气。2.涉及，牵连。" />
+		<phrase hz="勾留" py="gōu,liú" info="停留。" />
+		<phrase hz="勾芡" py="gōu,qiàn" info="做菜做汤时加上芡粉(又叫太白粉)使汁变稠" />
+		<phrase hz="勾通" py="gōu,tōng" info="暗中串通" />
+		<phrase hz="勾引" py="gōu,yǐn" />
+		<phrase hz="勾销" py="gōu,xiāo" info="抹杀;消除;用笔划掉" />
 		<definition id="一">
 			<item id="1" text="用笔画出符号，表示删除或截取：~了这笔账. 一笔~销. 把精彩的文句~出来." />
 			<item id="2" text="描画，用线条画出形象的边缘：~图样. (转)用灰涂抹建筑物上砖、瓦或石块间的缝：~墙缝. 用灰~抹房顶." />
@@ -24,7 +38,7 @@
 	<char hz="佝" py="gōu">
 		<phrase hz="佝偻" py="gōu,lóu" />
 	</char>
-	<char hz="枸" py="gōu" multi="gǒu,jǔ">
+	<char hz="枸" py="gōu" multi="gǒu,jǔ" main="1">
 		<phrase hz="枸橘" py="gōu,jú" />
 		<definition id="一">
 			<item text="[枸橘](-jú)就是枳(zhǐ)。参看“枳”。" />
