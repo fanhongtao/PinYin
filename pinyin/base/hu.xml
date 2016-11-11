@@ -78,7 +78,7 @@
 			<item text="鸟名，也叫“天鹅”，形状像鹅而较大，羽毛白色，飞得高而快，生活在海滨或湖边：~立（静静地站着等候）." />
 		</definition>
 	</char>
-	<char hz="鹘" py="hú" multi="gǔ" main="1">
+	<char hz="鹘" py="hú" multi="gǔ" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="隼(sǔn)。" />
 		</definition>

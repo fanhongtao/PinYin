@@ -4,7 +4,10 @@
 		<phrase hz="瓜葛" py="guā,gé" />
 	</char>
 	<char hz="呱" py="guā" multi="gū,guǎ" main="1">
+		<phrase hz="顶呱呱" py="dǐng,guā,guā" />
 		<phrase hz="呱哒" py="guā,dā" />
+		<phrase hz="呱呱" py="guā,guā" duoyin="gū,gū" info="拟声词，鸭子、青蛙等的响亮叫声。" />
+		<phrase hz="呱呱叫" py="guā,guā,jiào" />
 		<definition id="一">
 			<item text="[呱哒](-dā)拟声词。 [呱哒板儿]1.唱莲花落(lào)等打拍子的器具。2.木拖鞋。 [呱呱]拟声词，鸭子、青蛙等的响亮叫声。(转)形容好：~~叫. 顶~~." />
 		</definition>
@@ -26,7 +29,7 @@
 	<char hz="䯄" py="guā" />
 	<char hz="緺" py="guā" trans="1" />
 	<char hz="呱" py="guǎ" multi="gū,guā">
-		<phrase hz="拉呱儿" py="lā,guǎ,r" />
+		<phrase hz="拉呱儿" py="lā,guǎr," />
 		<definition id="三">
 			<item text="[拉呱儿](lāguǎr)〈方〉聊天。" />
 		</definition>
