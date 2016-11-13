@@ -5,6 +5,11 @@
 	<char hz="今" py="jīn" />
 	<char hz="衿" py="jīn" />
 	<char hz="矜" py="jīn" multi="guān,qín" main="1">
+		<phrase hz="哀矜" py="āi,jīn" info="哀怜;怜悯" />
+		<phrase hz="骄矜" py="jiāo,jīn" info="骄傲自负。" />
+		<phrase hz="矜持" py="jīn,chí" />
+		<phrase hz="矜夸" py="jīn,kuā" />
+		<phrase hz="自矜" py="zì,jīn" info="自夸;自尊自大" />
 		<definition id="一">
 			<item id="1" text="怜悯，怜惜。" />
 			<item id="2" text="自尊自大，自夸：自~其功." />

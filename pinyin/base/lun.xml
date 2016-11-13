@@ -21,7 +21,10 @@
 	</char>
 	<char hz="囵" py="lún" />
 	<char hz="沦" py="lún" />
-	<char hz="纶" py="lún" multi="guān" main="1">
+	<char hz="纶" py="lún" multi="guān" main="1" suppressLog="1">
+		<phrase hz="涤纶" py="dí,lún" />
+		<phrase hz="锦纶" py="jǐn,lún" />
+		<phrase hz="经纶" py="jīng,lún" info="1.整理过的蚕丝。2.比喻筹划治理国家大事。3.借指抱负与才干" />
 		<definition id="一">
 			<item id="1" text="钓鱼用的线：垂~." />
 			<item id="2" text="指某些合成的纤维：锦~. 涤~." />
