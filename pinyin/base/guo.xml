@@ -37,8 +37,6 @@
 	<char hz="裹" py="guǒ" />
 	<char hz="椁" py="guǒ" />
 	<char hz="过" py="guò" multi="guō" main="1" suppressLog="1">
-		<phrase hz="过去" py="guò,qu" />
-		<phrase hz="过年" py="guò,nian" />
 		<phrase hz="过分" py="guò,fèn" />
 		<phrase hz="过逾" py="guò,yu" />
 		<definition id="一">

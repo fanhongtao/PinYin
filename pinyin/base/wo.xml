@@ -12,7 +12,7 @@
 			<item text="[莴苣](-ju)一年或二年生草本植物，叶多长形，花黄色，分叶用和茎用两种。叶用的叫莴苣菜或生菜，茎用的叫莴笋。" />
 		</definition>
 	</char>
-	<char hz="涡" py="wō" multi="guō" main="1">
+	<char hz="涡" py="wō" multi="guō" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="旋涡，水流旋转形成中间低洼的地方：卷入旋~（喻被牵入纠纷里）." />
 		</definition>
