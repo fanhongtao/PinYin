@@ -7,7 +7,9 @@
 	<char hz="泂" py="jiǒng" />
 	<char hz="䌹" py="jiǒng" />
 	<char hz="炯" py="jiǒng" />
-	<char hz="炅" py="jiǒng" multi="guì">
+	<char hz="炅" py="jiǒng" multi="guì" main="1">
+		<phrase hz="炅炅" py="jiǒng,jiǒng" info="明亮貌。" />
+		<phrase hz="炅然" py="jiǒng,rán" info="明亮貌。" />
 		<definition id="一">
 			<item text="火光。" />
 		</definition>

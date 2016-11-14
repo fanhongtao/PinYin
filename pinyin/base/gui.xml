@@ -8,7 +8,7 @@
 	<char hz="闺" py="guī" />
 	<char hz="硅" py="guī" />
 	<char hz="鲑" py="guī" />
-	<char hz="龟" py="guī" multi="qiū,jūn" main="1">
+	<char hz="龟" py="guī" multi="qiū,jūn" main="1" suppressLog="1">
 		<phrase hz="蓍龟" py="shī,guī" />
 		<definition id="一">
 			<item text="爬行动物，种类很多。腹背都有硬甲，头尾和脚能缩入甲中，能耐饥渴，寿命很长。龟甲也叫龟板，可以入药。古人用龟甲占卜（迷信）：~卜. 蓍(shī)龟. [龟鉴][龟镜]用龟卜，用镜照，比喻可资借鉴的事例或道理。" />
@@ -21,7 +21,7 @@
 	<char hz="鬹" py="guī" />
 	<char hz="皈" py="guī" />
 	<char hz="瑰" py="guī" />
-	<char hz="氿" py="guǐ" multi="jiǔ">
+	<char hz="氿" py="guǐ" multi="jiǔ" main="1">
 		<phrase hz="氿泉" py="guǐ,quán" />
 		<definition id="一">
 			<item text="[氿泉]，从侧面喷出的泉。" />
@@ -39,12 +39,12 @@
 	<char hz="癸" py="guǐ" />
 	<char hz="晷" py="guǐ" />
 	<char hz="簋" py="guǐ" />
-	<char hz="柜" py="guì" multi="jǔ" main="1">
+	<char hz="柜" py="guì" multi="jǔ" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="（-子）一种收藏东西用的器具，通常作长方形，有盖或有门：衣~. 保险~." />
 		</definition>
 	</char>
-	<char hz="炅" py="guì" multi="jiǒng" main="1">
+	<char hz="炅" py="guì" multi="jiǒng">
 		<definition id="二">
 			<item text="姓。" />
 		</definition>
@@ -52,6 +52,7 @@
 	<char hz="刿" py="guì" />
 	<char hz="刽" py="guì" />
 	<char hz="桧" py="guì" multi="huì" main="1">
+		<phrase hz="桧柏" py="guì,bǎi" info="1.桧和柏。2.桧的一种。常绿灌木。俗称子孙柏。" />
 		<definition id="一">
 			<item text="植物学上叫“圆柏”。常绿乔木，幼树的叶子针状，大树的叶子鳞片状，果实球形，木材桃红色，有香气，可供建筑及制造铅笔杆等。" />
 		</definition>
