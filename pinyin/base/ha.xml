@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="哈" py="hā" multi="hǎ,hà" main="1">
+		<phrase hz="啊哈" py="ā,hā" />
+		<phrase hz="哈哈" py="hā,hā" />
 		<phrase hz="哈喇" py="hā,la" />
+		<phrase hz="哈气" py="hā,qì" />
+		<phrase hz="哈呀" py="hā,yā" info="叹词。表惊讶、惋惜。" />
+		<phrase hz="哈腰" py="hā,yāo" />
 		<definition id="一">
 			<item id="1" text="张口呼气。[哈哈]拟声词，笑声。" />
 			<item id="2" text="叹词，表示得意或惊喜（叠）：~，我赢啦！" />
@@ -25,8 +30,8 @@
 		</definition>
 	</char>
 	<char hz="哈" py="hǎ" multi="hā,hà">
-		<phrase hz="哈达" py="hǎ,dá" />
 		<phrase hz="哈巴狗" py="hǎ,ba,gǒu" />
+		<phrase hz="哈达" py="hǎ,dá" />
 		<definition id="二">
 			<item text="姓。" />
 			<item text="[哈达](藏)一种长形薄绢，藏族和部分蒙古族人用以表示敬意或祝贺。" />

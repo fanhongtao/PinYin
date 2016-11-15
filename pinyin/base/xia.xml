@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="呷" py="xiā" />
-	<char hz="虾" py="xiā" multi="há" main="1">
+	<char hz="虾" py="xiā" multi="há" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="节肢动物，身上有壳，腹部有很多环节。生活在水里，种类很多，可以吃。" />
 		</definition>
