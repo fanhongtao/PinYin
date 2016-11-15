@@ -1,18 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咳" py="hāi" multi="ké" main="1">
+	<char hz="咳" py="hāi" multi="ké">
+		<phrase hz="咳声叹气" py="hāi,shēng,tàn,qì" info="因忧伤、烦闷或痛苦而发出叹息的声音。" />
 		<definition id="二">
 			<item id="1" text="叹息：~声叹气." />
 			<item id="2" text="叹词。1.表示惋惜或后悔：~，我为什么这么糊涂！ 2.招呼人，提醒人注意：~，到这儿来." />
 		</definition>
 	</char>
 	<char hz="嗨" py="hāi" multi="hēi" main="1">
+		<phrase hz="嗨哟" py="hāi,yō" info="1.用于水手拉起缆索准备开船。2.用作号召努力的呼声或引起注意的呼声。" />
 		<definition id="一">
 			<item text="叹词，同“咳(二)(2)”。" />
 		</definition>
 	</char>
 	<char hz="还" py="hái" multi="huán" main="1">
-		<phrase hz="还是" py="hái,shi" />
+		<phrase hz="还好" py="hái,hǎo" info="1.过得去;不坏。2.幸运地。" />
+		<phrase hz="还是" py="hái,shì" />
+		<phrase hz="还有" py="hái,yǒu" />
 		<definition id="二">
 			<item id="1" text="仍旧，依然：你~是那样. 这件事~没有做完." />
 			<item id="2" text="更：今天比昨天~热." />
