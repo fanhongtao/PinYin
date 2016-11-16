@@ -42,7 +42,7 @@
 	<char hz="" py="hǎn" />
 	<char hz="汉" py="hàn" />
 	<char hz="闬" py="hàn" />
-	<char hz="汗" py="hàn" multi="hán" main="1">
+	<char hz="汗" py="hàn" multi="hán" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="由身体的毛孔里排泄出来的液体。" />
 		</definition>
