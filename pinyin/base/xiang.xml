@@ -4,7 +4,7 @@
 	<char hz="芗" py="xiāng" />
 	<char hz="相" py="xiāng" multi="xiàng" main="1">
 		<phrase hz="相继" py="xiāng,jì" />
-		<phrase hz="相忆" py="xiāng,yì" info="相思；想念。"/>
+		<phrase hz="相忆" py="xiāng,yì" info="相思；想念。" />
 		<definition id="一">
 			<item id="1" text="交互，动作由双方来（(连)互-）：~助. ~亲~爱. 言行~符. (引)动作由一方来而有一定对象的，常加在动词前面：~信. 好言~劝。 [相当]1.对等，等于：年纪~~. 2.副词，有一定程度的：这首诗写得~~好. [相对]依靠一定条件而存在，随着一定条件而变化的，跟“绝对”相对。" />
 			<item id="2" text="看：~中. 左~右看." />
@@ -44,6 +44,9 @@
 	<char hz="向" py="xiàng" />
 	<char hz="项" py="xiàng" />
 	<char hz="巷" py="xiàng" multi="hàng" main="1">
+		<phrase hz="里巷" py="lǐ,xiàng" info="街巷;胡同" />
+		<phrase hz="巷战" py="xiàng,zhàn" info="在城镇街巷中进行的战斗" />
+		<phrase hz="小巷" py="xiǎo,xiàng" />
 		<definition id="一">
 			<item text="较窄的街道：大街小~." />
 		</definition>
