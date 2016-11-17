@@ -4,10 +4,13 @@
 	<char hz="嚆" py="hāo" />
 	<char hz="薅" py="hāo" />
 	<char hz="号" py="háo" multi="hào">
-		<phrase hz="呼号" py="hū,háo" />
+		<phrase hz="哀号" py="āi,háo" />
+		<phrase hz="悲号" py="bēi,háo" />
 		<phrase hz="号叫" py="háo,jiào" />
+		<phrase hz="号丧" py="háo,sāng" />
 		<phrase hz="号啕" py="háo,táo" />
 		<phrase hz="号咷" py="háo,táo" />
+		<phrase hz="呼号" py="hū,háo" />
 		<definition id="二">
 			<item id="1" text="大声呼喊（(连)呼-）。 [号叫]大声叫。" />
 			<item id="2" text="大声哭：悲~. [号啕][号咷](-táo)大声哭喊。" />
@@ -17,8 +20,8 @@
 	<char hz="毫" py="háo" />
 	<char hz="嗥" py="háo" />
 	<char hz="貉" py="háo" multi="hé">
-		<phrase hz="貉子" py="háo,zi" />
 		<phrase hz="貉绒" py="háo,róng" />
+		<phrase hz="貉子" py="háo,zi" />
 		<definition id="二">
 			<item text="同“貉(一)”，用于“貉子、貉绒”。" />
 		</definition>
@@ -28,6 +31,65 @@
 	<char hz="嚎" py="háo" />
 	<char hz="濠" py="háo" />
 	<char hz="好" py="hǎo" multi="hào" main="1">
+		<phrase hz="安好" py="ān,hǎo" />
+		<phrase hz="百年之好" py="bǎi,nián,zhī,hǎo" />
+		<phrase hz="办好" py="bàn,hǎo" />
+		<phrase hz="充好" py="chōng,hǎo" info="用假冒的或质量低劣的物品冒充合格的或质量好的物品" />
+		<phrase hz="刚好" py="gāng,hǎo" />
+		<phrase hz="更好" py="gèng,hǎo" />
+		<phrase hz="好处" py="hǎo,chù" />
+		<phrase hz="好歹" py="hǎo,dǎi" />
+		<phrase hz="好端端" py="hǎo,duān,duān" />
+		<phrase hz="好多" py="hǎo,duō" />
+		<phrase hz="好汉" py="hǎo,hàn" />
+		<phrase hz="好好" py="hǎo,hǎo" />
+		<phrase hz="好好先生" py="hǎo,hǎo,xiān,shēng" />
+		<phrase hz="好景不长" py="hǎo,jǐng,bù,cháng" />
+		<phrase hz="好家伙" py="hǎo,jiā,huo" />
+		<phrase hz="好久" py="hǎo,jiǔ" />
+		<phrase hz="好马不吃回头草" py="hǎo,mǎ,bù,chī,huí,tóu,cǎo" />
+		<phrase hz="好评" py="hǎo,píng" />
+		<phrase hz="好惹" py="hǎo,rě" />
+		<phrase hz="好人" py="hǎo,rén" />
+		<phrase hz="好容易" py="hǎo,róng,yì" />
+		<phrase hz="好声好气" py="hǎo,shēng,hǎo,qì" />
+		<phrase hz="好事" py="hǎo,shì" />
+		<phrase hz="好手" py="hǎo,shǒu" />
+		<phrase hz="好说歹说" py="hǎo,shuō,dǎi,shuō" />
+		<phrase hz="好似" py="hǎo,sì" />
+		<phrase hz="好听" py="hǎo,tīng" />
+		<phrase hz="好像" py="hǎo,xiàng" />
+		<phrase hz="好笑" py="hǎo,xiào" />
+		<phrase hz="好心" py="hǎo,xīn" />
+		<phrase hz="好意" py="hǎo,yì" />
+		<phrase hz="好运" py="hǎo,yùn" />
+		<phrase hz="好在" py="hǎo,zài" info="幸好" />
+		<phrase hz="好自为之" py="hǎo,zì,wéi,zhī" />
+		<phrase hz="好走" py="hǎo,zǒu" />
+		<phrase hz="和好" py="hé,hǎo" />
+		<phrase hz="欢好" py="huān,hǎo" />
+		<phrase hz="交好" py="jiāo,hǎo" />
+		<phrase hz="叫好" py="jiào,hǎo" />
+		<phrase hz="看好" py="kàn,hǎo" />
+		<phrase hz="美好" py="měi,hǎo" />
+		<phrase hz="你好" py="nǐ,hǎo" />
+		<phrase hz="恰好" py="qià,hǎo" />
+		<phrase hz="秦晋之好" py="qín,jìn,zhī,hǎo" />
+		<phrase hz="尚好" py="shàng,hǎo" />
+		<phrase hz="说好" py="shuō,hǎo" />
+		<phrase hz="讨好" py="tǎo,hǎo" />
+		<phrase hz="问好" py="wèn,hǎo" />
+		<phrase hz="相好" py="xiāng,hǎo" />
+		<phrase hz="幸好" py="xìng,hǎo" />
+		<phrase hz="修好" py="xiū,hǎo" />
+		<phrase hz="学好" py="xué,hǎo" />
+		<phrase hz="言归于好" py="yán,guī,yú,hǎo" />
+		<phrase hz="也好" py="yě,hǎo" />
+		<phrase hz="友好" py="yǒu,hǎo" />
+		<phrase hz="早上好" py="zǎo,shàng,hǎo" />
+		<phrase hz="正好" py="zhèng,hǎo" />
+		<phrase hz="只好" py="zhǐ,hǎo" />
+		<phrase hz="最好" py="zuì,hǎo" />
 		<definition id="一">
 			<item id="1" text="优点多的或使人满意的，跟“坏”相对：~人. ~汉. ~马. ~东西. ~事. (引)指生活幸福、身体健康或疾病消失：您~哇！他的病完全~了. [好手]擅长某种技艺的人，能力强的人。" />
 			<item id="2" text="友爱，和睦：相~. 我跟他~. 友~." />
@@ -38,9 +100,35 @@
 		</definition>
 	</char>
 	<char hz="郝" py="hǎo" />
-	<char hz="号" py="hào" multi="háo" main="1">
+	<char hz="号" py="hào" multi="háo" main="1" suppressLog="1">
+		<phrase hz="暗号" py="àn,hào" />
+		<phrase hz="拨号" py="bō,hào" />
+		<phrase hz="绰号" py="chuò,hào" />
+		<phrase hz="大号" py="dà,hào" />
+		<phrase hz="等号" py="děng,hào" />
+		<phrase hz="顿号" py="dùn,hào" />
+		<phrase hz="分号" py="fēn,hào" />
+		<phrase hz="符号" py="fú,hào" />
+		<phrase hz="挂号" py="guà,hào" />
+		<phrase hz="国号" py="guó,hào" />
+		<phrase hz="号角" py="hào,jiǎo" />
+		<phrase hz="号令" py="hào,lìng" />
+		<phrase hz="号码" py="hào,mǎ" />
 		<phrase hz="号召" py="hào,zhào" />
+		<phrase hz="口号" py="kǒu,hào" />
+		<phrase hz="记号" py="jì,hào" />
+		<phrase hz="句号" py="jù,hào" />
+		<phrase hz="军号" py="jūn,hào" />
+		<phrase hz="螺号" py="luó,hào" />
+		<phrase hz="冒号" py="mào,hào" />
+		<phrase hz="庙号" py="miào,hào" />
 		<phrase hz="名号" py="míng,hào" info="1.名字和别号。2.名称;称号。3.名声。" />
+		<phrase hz="谱号" py="pǔ,hào" info="确定五线谱上音高位置的符号。" />
+		<phrase hz="外号" py="wài,hào" />
+		<phrase hz="问号" py="wèn,hào" />
+		<phrase hz="小号" py="xiǎo,hào" />
+		<phrase hz="信号" py="xìn,hào" />
+		<phrase hz="引号" py="yǐn,hào" />
 		<definition id="一">
 			<item id="1" text="名称，国~. 别~. 牌~. (转)商店：本~. 分~." />
 			<item id="2" text="记号，标志：暗~. 信~灯. 做记~." />
@@ -55,8 +143,24 @@
 	</char>
 	<char hz="好" py="hào" multi="hǎo">
 		<phrase hz="爱好" py="ài,hào" />
-		<phrase hz="好学" py="hào,xué" />
+		<phrase hz="好吃懒做" py="hào,chī,lǎn,zuò" />
+		<phrase hz="好大喜功" py="hào,dà,xǐ,gōng" />
+		<phrase hz="好动" py="hào,dòng" />
+		<phrase hz="好斗" py="hào,dòu" />
+		<phrase hz="好管闲事" py="hào,guǎn,xián,shì" />
+		<phrase hz="好客" py="hào,kè" />
 		<phrase hz="好哭" py="hào,kū" />
+		<phrase hz="好奇" py="hào,qí" />
+		<phrase hz="好色" py="hào,sè" />
+		<phrase hz="好恶" py="hào,wù" />
+		<phrase hz="好学" py="hào,xué" />
+		<phrase hz="好逸恶劳" py="hào,yì,wù,láo" />
+		<phrase hz="好勇斗狠" py="hào,yǒng,dòu,hěn" />
+		<phrase hz="各有所好" py="gè,yǒu,suǒ,hào" />
+		<phrase hz="癖好" py="pǐ,hào" />
+		<phrase hz="嗜好" py="shì,hào" />
+		<phrase hz="喜好" py="xǐ,hào" />
+		<phrase hz="自好" py="zì,hào" info="自愛。" />
 		<definition id="二">
 			<item text="爱，喜欢（(连)爱-）：-学. ~劳动. 这孩子不~哭." />
 		</definition>

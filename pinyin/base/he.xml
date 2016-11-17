@@ -113,6 +113,7 @@
 	<char hz="阖" py="hé" />
 	<char hz="涸" py="hé" />
 	<char hz="貉" py="hé" multi="háo" main="1">
+		<phrase hz="一丘之貉" py="yì,qiū,zhī,hé" />
 		<definition id="一">
 			<item text="野兽名。毛棕灰色，耳小，嘴尖，昼伏夜出，捕食虫类，皮很珍贵。" />
 			<item text="[一丘之貉](喻)彼此相似，没什么差别，指坏人。" />
