@@ -5,11 +5,11 @@
 	</char>
 	<char hz="呵" py="hē" multi="ā,á,ǎ,à,a" main="1">
 		<phrase hz="呵斥" py="hē,chì" />
-		<phrase hz="呵禁" py="hē,jìn" info="大声喝斥制止" />
 		<phrase hz="呵冻" py="hē,dòng" info="哈气使暧" />
-		<phrase hz="呵气" py="hē,qì" />
 		<phrase hz="呵呵" py="hē,hē" />
 		<phrase hz="呵护" py="hē,hù" />
+		<phrase hz="呵禁" py="hē,jìn" info="大声喝斥制止" />
+		<phrase hz="呵气" py="hē,qì" />
 		<phrase hz="呵欠" py="hē,qian" />
 		<phrase hz="一气呵成" py="yí,qì,hē,chéng" />
 		<definition id="六">
@@ -19,6 +19,11 @@
 		</definition>
 	</char>
 	<char hz="喝" py="hē" multi="hè" main="1">
+		<phrase hz="喝茶" py="hē,chá" />
+		<phrase hz="喝酒" py="hē,jiǔ" />
+		<phrase hz="喝水" py="hē,shuǐ" />
+		<phrase hz="喝粥" py="hē,zhōu" />
+		<phrase hz="喝醉" py="hē,zuì" />
 		<definition id="一">
 			<item text="吸食液体饮料或流质食物，饮：~水. ~酒. ~粥." />
 		</definition>
@@ -31,7 +36,48 @@
 	<char hz="蠚" py="hē" />
 	<char hz="禾" py="hé" />
 	<char hz="和" py="hé" multi="hè,hú,huó,huò" main="1">
+		<phrase hz="饱和" py="bǎo,hé" info="在一定温度和压强下，溶液中所含溶质达到最高限度，比喻事物达到最大限度" />
+		<phrase hz="不和" py="bù,hé" info="1.意见分歧。2.不一致、不团结，缺乏和谐和一致的意见。3.以争吵，摩擦和对立为特色的持久的不一致。" />
+		<phrase hz="风和日丽" py="fēng,hé,rì,lì" />
+		<phrase hz="共和" py="gòng,hé" info="也称共和制。泛指国家权力机关和国家元首由选举产生的一种政治制度。与君主制相对。" />
+		<phrase hz="和蔼" py="hé,ǎi" />
+		<phrase hz="和服" py="hé,fú" info="日本人传统穿的肥大宽袖阔腰带长袍" />
+		<phrase hz="和合" py="hé,hé" info="1.和睦同心。2.调和；混合；汇合。3.犹撮合。4.顺当；吉利。" />
+		<phrase hz="和缓" py="hé,huǎn" info="平和舒缓，使平和舒缓" />
+		<phrase hz="和解" py="hé,jiě" />
+		<phrase hz="和局" py="hé,jú" info="1.[比赛]不分胜负的结局。2.[竞赛]相等的得分数。" />
+		<phrase hz="和美" py="hé,měi" info="和谐美好" />
+		<phrase hz="和睦" py="hé,mù" />
+		<phrase hz="和盘托出" py="hé,pán,tuō,chū" />
+		<phrase hz="和平" py="hé,píng" />
+		<phrase hz="和气生财" py="hé,qì,shēng,cái" />
+		<phrase hz="和棋" py="hé,qí" info="[下棋等]双方不分胜负" />
 		<phrase hz="和气" py="hé,qi" />
+		<phrase hz="和亲" py="hé,qīn" info="封建君主为了免于战争与边疆异族统治者通婚和好" />
+		<phrase hz="和善" py="hé,shàn" info="温和而善良" />
+		<phrase hz="和尚" py="hé,shàng" info="佛教中出家修行的男教徒" />
+		<phrase hz="和声" py="hé,shēng" />
+		<phrase hz="和顺" py="hé,shùn" info="温和柔顺" />
+		<phrase hz="和婉" py="hé,wǎn" info="[言语]温和委婉" />
+		<phrase hz="和谐" py="hé,xié" info="和睦协调" />
+		<phrase hz="和煦" py="hé,xù" info="温暖的" />
+		<phrase hz="和颜悦色" py="hé,yán,yuè,sè" />
+		<phrase hz="和衣而卧" py="hé,yī,ér,wò" />
+		<phrase hz="和议" py="hé,yì" info="战争双方的和谈会议" />
+		<phrase hz="和约" py="hé,yuē" />
+		<phrase hz="和悦" py="hé,yuè" info="1.亦作“和说”。和乐喜悦。2.指奉承，取悦。3.和颜悦色；和蔼。" />
+		<phrase hz="缓和" py="huǎn,hé" />
+		<phrase hz="讲和" py="jiǎng,hé" info="彼此和解,不再打仗或争执" />
+		<phrase hz="平和" py="píng,hé" info="1.性情温和。2.不偏激。3.平正谐和;调和。" />
+		<phrase hz="人和" py="rén,hé" info="指人心归一,上下团结" />
+		<phrase hz="日丽风和" py="rì,lì,fēng,hé" />
+		<phrase hz="失和" py="shī,hé" info="不再和睦相处" />
+		<phrase hz="温和" py="wēn,hé" />
+		<phrase hz="祥和" py="xiáng,hé" />
+		<phrase hz="心平气和" py="xīn,píng,qì,hé" />
+		<phrase hz="议和" py="yì,hé" info="通过谈判达成终止敌对行为或停止战争" />
+		<phrase hz="政通人和" py="zhèng,tōng,rén,hé" />
+		<phrase hz="总和" py="zǒng,hé" />
 		<definition id="一">
 			<item id="1" text="相安，谐调：~睦. (引)平静，不猛烈：温~. 心平气~. 风~日暖. [和平]1.没有战争的状态：~~环境. 2.温和，不猛烈：药性~~. [和气](-qi)态度温和：他说话真~~." />
 			<item id="2" text="平息争端：讲~. ~解." />
@@ -82,6 +128,13 @@
 	<char hz="何" py="hé" />
 	<char hz="河" py="hé" />
 	<char hz="荷" py="hé" multi="hè" main="1">
+		<phrase hz="荷包" py="hé,bāo" info="1.隨身佩帶的小囊袋，用來裝錢幣或零星的小東西。2.泛指錢包或口袋。" />
+		<phrase hz="荷包蛋" py="hé,bāo,dàn" info="去壳后在滚油里煎熟的整个儿的鸡蛋" />
+		<phrase hz="荷尔蒙" py="hé,ěr,méng" info="激素的旧称。为英文音译" />
+		<phrase hz="荷花" py="hé,huā" />
+		<phrase hz="荷马" py="hé,mǎ" info="相传是希腊公元前九世纪到前八世纪的盲人诗人,著名的史诗《伊利亚特》、《奥德赛》是他所作,口传于世,后经民间流浪歌手整理加工而成书" />
+		<phrase hz="荷兰" py="hé,lán" info="欧洲一国名。" />
+		<phrase hz="荷叶" py="hé,yè" />
 		<definition id="一">
 			<item text="莲。" />
 		</definition>
@@ -89,7 +142,7 @@
 	<char hz="菏" py="hé" />
 	<char hz="劾" py="hé" />
 	<char hz="阂" py="hé" />
-	<char hz="核" py="hé" multi="hú" main="1">
+	<char hz="核" py="hé" multi="hú" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="果实中坚硬并包含果仁的部分。" />
 			<item id="2" text="像核的东西：菌~. 细胞~. [核酸]存在于生物体中的有机化合物，是生命的基本物质之一，对生物的生长、遗传、变异等起决定作用。 [核心]中心，主要部分：领导~~. ~~作用. [结核]传染病名，病原体是结核杆菌。" />
@@ -131,30 +184,49 @@
 		</definition>
 	</char>
 	<char hz="和" py="hè" multi="hé,hú,huó,huò">
-		<phrase hz="和诗" py="hè,shī" />
 		<phrase hz="唱和" py="chàng,hè" />
+		<phrase hz="酬和" py="chóu,hè" info="酬对奉和;用诗词应答" />
+		<phrase hz="附和" py="fù,hè" />
+		<phrase hz="和诗" py="hè,shī" />
+		<phrase hz="曲高和寡" py="qǔ,gāo,hè,guǎ" />
+		<phrase hz="相和" py="xiāng,hè" info="互相应和" />
+		<phrase hz="应和" py="yìng,hè" info="对一种言行表示呼应,附和" />
+		<phrase hz="一唱一和" py="yī,chàng,yī,hè" />
 		<definition id="二">
 			<item text="声音相应。特指依照别人所做诗词的题材和体裁而写作：~诗. 唱~." />
 		</definition>
 	</char>
 	<char hz="贺" py="hè" />
 	<char hz="荷" py="hè" multi="hé">
-		<phrase hz="荷锄" py="hè,chú" />
+		<phrase hz="担荷" py="dān,hè" info="1.用肩扛物。2.擔負、負責。" />
 		<phrase hz="电荷" py="diàn,hè" />
-		<phrase hz="正荷" py="zhèng,hè" />
 		<phrase hz="负荷" py="fù,hè" />
 		<phrase hz="感荷" py="gǎn,hè" />
+		<phrase hz="荷锄" py="hè,chú" />
+		<phrase hz="荷负" py="hè,fù" info="担负" />
+		<phrase hz="荷枪实弹" py="hè,qiāng,shí,dàn" info="持著子彈都已上膛的槍。形容高度警戒，準備隨時戰鬥的狀況。" />
+		<phrase hz="荷载" py="hè,zǎi" info="承受的重量或压力" />
 		<phrase hz="为荷" py="wéi,hè" />
+		<phrase hz="正荷" py="zhèng,hè" />
+		<phrase hz="重荷" py="zhòng,hè" />
 		<definition id="二">
 			<item id="1" text="担，扛：~锄. [电荷]构成物质的许多基本粒子所带的电。有的带正电（如质子），有的带负电（如电子），习惯上也把物体所带的电叫电荷：正~. 负." />
 			<item id="2" text="承受恩惠（常用在书信里表示客气）：感~. 为~." />
 		</definition>
 	</char>
 	<char hz="喝" py="hè" multi="hē">
-		<phrase hz="喝令" py="hè,lìng" />
-		<phrase hz="呼喝" py="hū,hè" />
+		<phrase hz="棒喝" py="bàng,hè" info="佛教禅宗祖师接待来学的人时，常常当头一棒或大声一喝，促其领悟。比喻警醒人们的迷悟" />
+		<phrase hz="叱喝" py="chì,hè" />
 		<phrase hz="大喝一声" py="dà,hè,yī,shēng" />
+		<phrase hz="断喝" py="duàn,hè" info="急促地大喊一声" />
+		<phrase hz="呵喝" py="hē,hè" info="发怒而大声喝斥" />
 		<phrase hz="喝彩" py="hè,cǎi" />
+		<phrase hz="喝采" py="hè,cǎi" />
+		<phrase hz="喝道" py="hè,dào" info="旧时官僚出外，衙役在前边吆喝开路，称作喝道，前面引路的差役吆喝行人让路，表示威风" />
+		<phrase hz="喝令" py="hè,lìng" info="大声发令" />
+		<phrase hz="喝问" py="hè,wèn" info="吆喝着盘问。" />
+		<phrase hz="呼喝" py="hū,hè" />
+		<phrase hz="吆喝" py="yāo,he" />
 		<definition id="二">
 			<item text="大声喊叫：~令. 呼~. 大~一声. [喝彩]大声叫好。" />
 		</definition>

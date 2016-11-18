@@ -33,7 +33,11 @@
 	<char hz="或" py="huò" />
 	<char hz="惑" py="huò" />
 	<char hz="和" py="huò" multi="hé,hè,hú,huó">
+		<phrase hz="和弄" py="huò,nòng" info="〈方〉拨弄是非;离间" />
+		<phrase hz="和稀泥" py="huò,xī,ní" info="比喻调和纷争，多指无原则地调和折中" />
 		<phrase hz="和药" py="huò,yào" />
+		<phrase hz="暖和" py="nuǎn,huo" />
+		<phrase hz="软和" py="ruǎn,huo" info="1.[口]柔软、柔和的。2.温和的;顺从的;亲切的。" />
 		<definition id="四">
 			<item id="1" text="粉状或粒状物掺和在一起，或加水搅拌：~药." />
 			<item id="2" text="量词，洗衣物换水的次数：衣裳已经洗了两~." />

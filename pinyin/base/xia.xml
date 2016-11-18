@@ -26,7 +26,10 @@
 		<phrase hz="正中下怀" py="zhèng,zhòng,xià,huái" />
 	</char>
 	<char hz="吓" py="xià" multi="hè" main="1">
+		<phrase hz="惊吓" py="jīng,xià" />
 		<phrase hz="吓唬" py="xià,hu" />
+		<phrase hz="吓人" py="xià,rén" />
+		<phrase hz="吓杀人香" py="xià,shā,rén,xiāng" info="茶名，即碧螺春" />
 		<definition id="一">
 			<item text="使害怕：困难~不倒英雄汉. [吓唬](-hu)使人害怕，威胁：你别~~人." />
 		</definition>
