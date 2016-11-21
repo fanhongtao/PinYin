@@ -22,6 +22,12 @@
 	<char hz="倪" py="ní" />
 	<char hz="猊" py="ní" />
 	<char hz="霓" py="ní" />
+	<char hz="蜺" py="ní">
+		<definition>
+			<item id="1" text="寒蝉，一种体形较小的蝉。" />
+			<item id="2" text="古同“霓”，虹的一种。" />
+		</definition>
+	</char>
 	<char hz="鲵" py="ní" />
 	<char hz="麑" py="ní" />
 	<char hz="拟" py="nǐ" />
