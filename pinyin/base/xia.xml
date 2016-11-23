@@ -42,6 +42,7 @@
 		</definition>
 	</char>
 	<char hz="唬" py="xià" multi="hǔ">
+		<phrase hz="唬杀" py="xià,shā" info="犹吓坏；吓死。" />
 		<definition id="二">
 			<item text="同“吓”。" />
 		</definition>

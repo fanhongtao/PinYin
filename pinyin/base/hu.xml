@@ -52,16 +52,28 @@
 	</char>
 	<char hz="湖" py="hú" />
 	<char hz="瑚" py="hú" />
-	<char hz="煳" py="hú" />
+	<char hz="煳" py="hú">
+		<definition>
+			<item text="烧得焦黑：馒头烤~了." />
+		</definition>
+	</char>
 	<char hz="鹕" py="hú" />
 	<char hz="蝴" py="hú" />
 	<char hz="糊" py="hú" multi="hū,hù" main="1">
-		<phrase hz="裱糊" py="biǎo,hú" />
+		<phrase hz="裱糊" py="biǎo,hú" info="糊纸(用纸或其它材料糊饰房屋内部或物品)。" />
+		<phrase hz="含糊" py="hán,hu" info="1.言语不清楚。2.马虎;是非不分。" />
+		<phrase hz="糊糊" py="hú,hu" info="〈方〉∶用玉米面、面粉等熬成的粥" />
+		<phrase hz="糊口" py="hú,kǒu" info="勉强维持生活，填饱肚子" />
+		<phrase hz="糊里糊涂" py="hú,lǐ,hú,tú" info="思想上模糊" />
 		<phrase hz="糊涂" py="hú,tu" />
+		<phrase hz="烂糊" py="làn,hú" info="极烂，多指食物烧煮得极熟烂。如：烂糊面、烂糊肉丝。" />
+		<phrase hz="模糊" py="mó,hu" info="1.轮廓模糊不清。2.强调难以辨认。" />
+		<phrase hz="迷糊" py="mí,hu" info="思想的混乱、变化不定或模糊的状态。" />
+		<phrase hz="黏糊" py="nián,hú" info="1.形容东西黏稠。2.形容人行动不爽利，精神不振。" />
 		<definition id="一">
 			<item id="1" text="黏合，粘贴：拿纸~窗户. 裱(biǎo)~. [糊涂](-tu)不清楚，不明事理。" />
 			<item id="2" text="粥类。 [糊口]旧指勉强维持生活。" />
-			<item id="3" text="同“糊”。" />
+			<item id="3" text="同“煳”。" />
 		</definition>
 	</char>
 	<char hz="醐" py="hú" />
@@ -89,6 +101,11 @@
 	</char>
 	<char hz="虎" py="hǔ" />
 	<char hz="唬" py="hǔ" multi="xià" main="1">
+		<phrase hz="吹唬" py="chuī,hǔ" info="1.吹嘘，说大话。2.方言。大声训斥。" />
+		<phrase hz="骇唬" py="hài,hǔ" info="惊吓。" />
+		<phrase hz="唬弄" py="hǔ,nòng" info="糊弄。欺骗；蒙混。" />
+		<phrase hz="咋唬" py="zhā,hǔ" info="1.见“咋呼”。2.夸口；炫耀。" />
+		<phrase hz="诈唬" py="zhà,hǔ" info="欺骗吓唬。" />
 		<definition id="一">
 			<item text="威吓(hè)或蒙混：你别~人了." />
 		</definition>
@@ -97,6 +114,10 @@
 		<phrase hz="琥珀" py="hǔ,pò" />
 	</char>
 	<char hz="浒" py="hǔ" multi="xǔ" main="1">
+		<phrase hz="河浒" py="hé,hǔ" info="河边。" />
+		<phrase hz="江浒" py="jiāng,hǔ" info="江边。" />
+		<phrase hz="水浒" py="shuǐ,hǔ" info="水边。" />
+		<phrase hz="溪浒" py="xī,hǔ" info="溪边。" />
 		<definition id="一">
 			<item text="水边。" />
 		</definition>
@@ -113,8 +134,8 @@
 	<char hz="怙" py="hù" />
 	<char hz="祜" py="hù" />
 	<char hz="糊" py="hù" multi="hū,hú">
-		<phrase hz="辣椒糊" py="là,jiāo,hù" />
 		<phrase hz="糊弄" py="hù,nong" />
+		<phrase hz="辣椒糊" py="là,jiāo,hù" />
 		<definition id="二">
 			<item text="像粥一样的食物：辣椒~. [糊弄](-nong)1.敷衍，不认真做：做事不应该~~. 2.蒙混，欺骗：你不要~~人." />
 		</definition>

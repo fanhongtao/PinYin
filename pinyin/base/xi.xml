@@ -169,7 +169,7 @@
 		</definition>
 	</char>
 	<char hz="葸" py="xǐ" />
-	<char hz="戏" py="xì" multi="hū" main="1">
+	<char hz="戏" py="xì" multi="hū" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="玩耍：集体游~. 不要当作儿~." />
 			<item id="2" text="嘲弄，开玩笑：~言." />
