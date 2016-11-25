@@ -32,6 +32,7 @@
 	</char>
 	<char hz="椓" py="zhuó" />
 	<char hz="著" py="zhuó" multi="zhù">
+		<phrase hz="衣着" py="yī,zhuó" info="指身上的穿戴;服装的式样;穿戴的方式" />
 		<definition id="二">
 			<item text="附着，穿着。 后作“着”(zhuó)。" />
 		</definition>

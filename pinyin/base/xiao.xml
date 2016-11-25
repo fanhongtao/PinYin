@@ -69,6 +69,7 @@
 		<phrase hz="笑话" py="xiào,hua" />
 	</char>
 	<char hz="校" py="xiào" multi="jiào" main="1">
+		<phrase hz="校园" py="xiào,yuán" />
 		<definition id="一">
 			<item id="1" text="学校。" />
 			<item id="2" text="军衔名，在尉和将之间。" />

@@ -20,6 +20,7 @@
 		<phrase hz="观众" py="guān,zhòng" />
 		<phrase hz="宏观" py="hóng,guān" />
 		<phrase hz="价值观" py="jià,zhí,guān" />
+		<phrase hz="景观" py="jǐng,guān" info="指某地区或某种类型的自然景色，也指人工创造的景色" />
 		<phrase hz="旧观" py="jiù,guān" info="旧时的样子" />
 		<phrase hz="客观" py="kè,guān" />
 		<phrase hz="乐观" py="lè,guān" />

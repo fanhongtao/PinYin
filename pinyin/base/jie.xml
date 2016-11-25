@@ -34,7 +34,7 @@
 		<phrase hz="街坊" py="jiē,fang" />
 	</char>
 	<char hz="孑" py="jiē" />
-	<char hz="节" py="jié" multi="jiē" main="1">
+	<char hz="节" py="jié" multi="jiē" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="（-儿）植物学上称茎上长叶的部位。" />
 			<item id="2" text="（-儿）物体的分段或两段之间连接的地方：骨~. 两~火车." />
@@ -117,6 +117,7 @@
 	<char hz="解" py="jiě" multi="jiè,xiè" main="1">
 		<phrase hz="解答" py="jiě,dá" info="1.答复说明。2.通过数学演算或其他类似的推理而得出的答案" />
 		<phrase hz="解衣" py="jiě,yī" />
+		<phrase hz="理解" py="lǐ,jiě" />
 		<definition id="一">
 			<item id="1" text="剖开，分开（(连)分-）：尸体~剖. 难~难分. 瓦~." />
 			<item id="2" text="把束缚着、系(jì)着的东西打开：~扣. ~衣服. [解放]1.推翻反动政权，使广大人民群众脱离压迫，获得自由。 2.解除束缚，得到自由或发展：~~生产力." />
@@ -140,7 +141,7 @@
 		<phrase hz="尘芥" py="chén,jiè" />
 		<phrase hz="地芥" py="dì,jiè" />
 		<phrase hz="蒂芥" py="dì,jiè" />
-		<phrase hz="芥菜" py="jiè,cài" duoyin="gài,cài" info="一年或二年生草本植物，种子黄色，味辛辣，磨成粉末，称“芥末”，作调味品。按用途分为叶用芥菜（如“雪里蕻”）；茎用芥菜（如“榨菜”）；根用芥菜（如“大头菜”）。"/>
+		<phrase hz="芥菜" py="jiè,cài" duoyin="gài,cài" info="一年或二年生草本植物，种子黄色，味辛辣，磨成粉末，称“芥末”，作调味品。按用途分为叶用芥菜（如“雪里蕻”）；茎用芥菜（如“榨菜”）；根用芥菜（如“大头菜”）。" />
 		<phrase hz="芥蒂" py="jiè,dì" />
 		<phrase hz="芥末" py="jiè,mò" />
 		<phrase hz="荆芥" py="jīng,jiè" />

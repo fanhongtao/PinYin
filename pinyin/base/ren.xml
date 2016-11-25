@@ -24,6 +24,7 @@
 	<char hz="牣" py="rèn" />
 	<char hz="认" py="rèn" />
 	<char hz="任" py="rèn" multi="rén" main="1">
+		<phrase hz="责任" py="zé,rèn" />
 		<definition id="一">
 			<item id="1" text="相信，依赖（(连)信-）。" />
 			<item id="2" text="任命，使用，给予职务：~用." />

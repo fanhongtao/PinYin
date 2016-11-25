@@ -1,4 +1,5 @@
 bin/
 obj/
 data/
-*_zhuyin.*
+*_zhuyin.html
+*.old

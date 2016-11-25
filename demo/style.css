@@ -1,0 +1,11 @@
+body { font-family: 宋体; }
+h1	{ text-align: center; font-size: 40px; }
+h2 	{ text-align: center; font-size: 36px; }
+p   	{ font-size: 30px; line-height: 120%; text-indent: 2em; }
+pre 	{ font-size: 28px; line-height: 120%; margin-left: 2em; }
+
+p.center  { text-align: center; text-indent: 0em; }
+.author { text-align: center; font-size: 24px; }
+.count  { font-size: 20px; }
+.end-line { text-align: right; font-size: 24px; }
+.inline-title { font-size: 24px; text-indent: 0em; }

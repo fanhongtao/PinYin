@@ -152,6 +152,7 @@
 	</char>
 	<char hz="较" py="jiào" />
 	<char hz="教" py="jiào" multi="jiāo" main="1">
+		<phrase hz="教诲" py="jiào,huì" />
 		<definition id="一">
 			<item id="1" text="指导，教诲（(连)-导）：施~. 受~. 指~. [教育]1.教导和培养：~~干部. 2.教育事业。按一定要求培养人的事业，主要指各级学校的工作。" />
 			<item id="2" text="使，令：风能~船走." />

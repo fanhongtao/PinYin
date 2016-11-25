@@ -69,6 +69,8 @@
 		<phrase hz="拾掇" py="shí,duo" />
 	</char>
 	<char hz="食" py="shí" multi="sì" main="1">
+		<phrase hz="粮食" py="liáng,shí" />
+		<phrase hz="食相" py="shí,xiàng" />
 		<definition id="一">
 			<item id="1" text="吃：~肉. [食言]指失信：决不~~. [食指]即示指，手的第二指。(喻)家庭人口：~~众多." />
 			<item id="2" text="吃的东西：素~. 零~. 面~. 丰衣足~." />
