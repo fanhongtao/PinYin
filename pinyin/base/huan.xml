@@ -43,6 +43,7 @@
 	<char hz="萑" py="huán" />
 	<char hz="锾" py="huán" />
 	<char hz="圜" py="huán" multi="yuán" main="1">
+		<phrase hz="转圜" py="zhuǎn,huán" info="1.挽回。2.调停，斡旋。3.转动圆形器物。常用以代指便易迅速之事。4.借指顺易。" />
 		<definition id="一">
 			<item text="围绕。" />
 		</definition>
