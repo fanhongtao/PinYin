@@ -16,7 +16,7 @@
 	<char hz="锽" py="huáng" />
 	<char hz="蝗" py="huáng">
 		<definition>
-			<item text="蝗虫，一种吃庄稼的害虫，常常成群飞翔。也叫“蚂蚱”(mǎzha)。"/>
+			<item text="蝗虫，一种吃庄稼的害虫，常常成群飞翔。也叫“蚂蚱”(mǎzha)。" />
 		</definition>
 	</char>
 	<char hz="篁" py="huáng" />
@@ -34,6 +34,11 @@
 		<phrase hz="恍惚" py="huǎng,hū" />
 	</char>
 	<char hz="晃" py="huǎng" multi="huàng" main="1">
+		<phrase hz="白晃晃" py="bái,huǎng,huǎng" info="白而闪亮耀眼" />
+		<phrase hz="晃眼" py="huǎng,yǎn" />
+		<phrase hz="明晃晃" py="míng,huǎng,huǎng" info="光亮闪耀" />
+		<phrase hz="虚晃" py="xū,huǎng" info="1.当空一扬。2.比喻使用手段迷惑对方。" />
+		<phrase hz="一晃" py="yī,huǎng" info="1.一瞬间，很快的一闪。2.形容时间在不知不觉中很快过去了。" />
 		<definition id="一">
 			<item id="1" text="明亮（叠）：明~~的刺刀." />
 			<item id="2" text="照耀：~眼（光线强烈刺激眼睛）." />
@@ -45,7 +50,13 @@
 	</char>
 	<char hz="谎" py="huǎng" />
 	<char hz="晃" py="huàng" multi="huǎng">
+		<phrase hz="晃荡" py="huàng,dàng" />
 		<phrase hz="晃动" py="huàng,dòng" />
+		<phrase hz="晃晃" py="huàng,huàng" info="1.明亮貌。2.形容疾闪而过。3.摇动。" />
+		<phrase hz="晃悠" py="huàng,yōu" />
+		<phrase hz="晶晃" py="jīng,huàng" info="光亮闪耀。" />
+		<phrase hz="摇晃" py="yáo,huàng" />
+		<phrase hz="摇头晃脑" py="yáo,tóu,huàng,nǎo" />
 		<definition id="二">
 			<item text="摇动，摆动（(连)摇-）：树枝来回~." />
 		</definition>
