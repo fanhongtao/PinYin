@@ -24,6 +24,7 @@
 	</char>
 	<char hz="盟" py="méng" />
 	<char hz="蒙" py="méng" multi="mēng,měng" main="1">
+		<phrase hz="蒙混" py="méng,hùn" info="用以假充真的手段欺骗" />
 		<definition id="一">
 			<item id="1" text="没有知识，愚昧：启~. 发~. ~昧." />
 			<item id="2" text="覆盖：~头盖脑. ~上一张纸. [蒙蔽]隐瞒事实，欺骗。" />

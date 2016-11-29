@@ -22,14 +22,20 @@
 		<phrase hz="馄饨" py="hún,tun" />
 	</char>
 	<char hz="混" py="hún" multi="hùn">
+		<phrase hz="混蛋" py="hún,dàn" />
+		<phrase hz="混浊" py="hún,zhuó" />
 		<definition id="二">
 			<item text="同“浑(1)(2)。" />
 		</definition>
 	</char>
 	<char hz="魂" py="hún" />
 	<char hz="诨" py="hún" />
-	<char hz="混" py="hùn" multi="hún" main="1">
+	<char hz="混" py="hùn" multi="hún" main="1" suppressLog="1">
 		<phrase hz="混沌" py="hùn,dùn" />
+		<phrase hz="混合" py="hùn,hé" />
+		<phrase hz="混乱" py="hùn,luàn" />
+		<phrase hz="混淆" py="hùn,xiáo" />
+		<phrase hz="混杂" py="hùn,zá" />
 		<definition id="一">
 			<item id="1" text="掺杂在一起：~合物. ~杂. ~入. ~充. ~为一谈." />
 			<item id="2" text="苟且度过：~日子. 鬼~." />
