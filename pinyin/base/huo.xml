@@ -10,7 +10,11 @@
 		</definition>
 	</char>
 	<char hz="豁" py="huō" multi="huò" main="1">
+		<phrase hz="豁出" py="huō,chū" info="拼着;为获得利益或赚钱拿出[值钱的东西] 去冒险" />
+		<phrase hz="豁口" py="huō,kǒu" />
 		<phrase hz="豁子" py="huō,zi" />
+		<phrase hz="豁嘴" py="huō,zuǐ" info="1.[口]嘴唇裂缺;兔唇。2.有兔唇的人。" />
+		<phrase hz="溪豁" py="xī,huō" info="开阔的山谷。" />
 		<definition id="一">
 			<item id="1" text="残缺，裂开：~口. ~了一个口子. ~唇. [豁子](-zi)残缺的口子：碗上有个~~. 城墙拆了一个~~." />
 			<item id="2" text="舍弃，狠心付出高代价：~出性命. ~出几天时间." />
@@ -53,8 +57,13 @@
 	<char hz="嚯" py="huò" />
 	<char hz="豁" py="huò" multi="huō">
 		<phrase hz="豁达" py="huò,dá" />
-		<phrase hz="豁然开朗" py="huò,rán,kāi,lǎng" />
+		<phrase hz="豁朗" py="huò,lǎng" info="豁达;开朗。" />
+		<phrase hz="豁亮" py="huò,liàng" info="1.开阔明亮。2.形容嗓音等宏亮。" />
 		<phrase hz="豁免" py="huò,miǎn" />
+		<phrase hz="豁然" py="huò,rán" info="一下子彻底晓悟;开阔;顿时通达。" />
+		<phrase hz="开豁" py="kāi,huò" info="1.形容思想或胸怀开阔。2.解除；消除。 3.形容空间开阔明朗。4.谓使思想、胸怀开阔。5.通晓明白。6.谓对他人的罪名或过失予以开脱并宽免。" />
+		<phrase hz="显豁" py="xiǎn,huò" info="显明;明白" />
+		<phrase hz="醒豁" py="xǐng,huò" info="形容意思表达的清晰、明了" />
 		<definition id="二">
 			<item id="1" text="开通，敞亮：~达. ~然开朗." />
 			<item id="2" text="免除（(连)-免）。" />
