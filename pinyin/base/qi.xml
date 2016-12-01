@@ -22,7 +22,7 @@
 	<char hz="嘁" py="qī">
 		<phrase hz="嘁嘁喳喳" py="qī,qī,chā,chā" />
 	</char>
-	<char hz="期" py="qī" multi="jī" main="1">
+	<char hz="期" py="qī" multi="jī" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="规定的时间或一段时间：定~举行. 分~付款. 过~作废. 如~完成任务. (引)刊物出版的号数。" />
 			<item id="2" text="约定时日：不~而遇. [期货交易]一种非现金、非现货的买卖。双方按约定的条件、时间交割货物、外汇或有价证券等。" />
@@ -84,8 +84,26 @@
 	<char hz="旗" py="qí" />
 	<char hz="鲯" py="qí" />
 	<char hz="麒" py="qí" />
-	<char hz="奇" py="qí" multi="jī" main="1">
+	<char hz="奇" py="qí" multi="jī" main="1" suppressLog="1">
+		<phrase hz="传奇" py="chuán,qí" />
+		<phrase hz="诡奇" py="guǐ,qí" info="1.诡异怪奇的事情。2.怪异奇特。" />
+		<phrase hz="惊奇" py="jīng,qí" />
+		<phrase hz="离奇" py="lí,qí" />
+		<phrase hz="奇怪" py="qí,guài" />
+		<phrase hz="奇观" py="qí,guān" />
+		<phrase hz="奇诡" py="qí,guǐ" info="奇特，诡异。" />
+		<phrase hz="奇幻" py="qí,huàn" />
+		<phrase hz="奇迹" py="qí,jì" />
+		<phrase hz="奇丽" py="qí,lì" info="新奇美丽" />
 		<phrase hz="奇妙" py="qí,miào" />
+		<phrase hz="奇葩" py="qí,pā" info="1.珍奇的花。2.喻出众的作品。" />
+		<phrase hz="奇特" py="qí,tè" info="不寻常，特别" />
+		<phrase hz="奇伟" py="qí,wěi" info="1.奇特怪异;奇特壮美。2.奇特雄伟。" />
+		<phrase hz="奇异" py="qí,yì" />
+		<phrase hz="神奇" py="shén,qí" />
+		<phrase hz="稀奇" py="xī,qí" />
+		<phrase hz="新奇" py="xīn,qí" />
+		<phrase hz="珍奇" py="zhēn,qí" info="珍贵而稀奇" />
 		<definition id="一">
 			<item id="1" text="特殊的，稀罕的，不常见的：~事. ~闻. ~冷. ~丑. (引)出人意料的，令人不测的：~兵. ~计. ~袭. 出~制胜." />
 			<item id="2" text="惊异，引以为奇：世人~之." />

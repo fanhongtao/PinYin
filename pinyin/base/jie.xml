@@ -54,7 +54,11 @@
 	<char hz="杰" py="jié" />
 	<char hz="桀" py="jié" />
 	<char hz="劼" py="jié" />
-	<char hz="诘" py="jié" multi="jí" main="1">
+	<char hz="诘" py="jié" multi="jí" main="1" suppressLog="1">
+		<phrase hz="反诘" py="fǎn,jié" info="反问" />
+		<phrase hz="诘难" py="jié,nàn" info="诘问驳难。" />
+		<phrase hz="诘问" py="jié,wèn" info="追问;责问" />
+		<phrase hz="诘责" py="jié,zé" info="诘问谴责" />
 		<definition id="一">
 			<item text="追问：反~. 盘~." />
 		</definition>
@@ -100,6 +104,7 @@
 	</char>
 	<char hz="睫" py="jié" />
 	<char hz="偈" py="jié" multi="jì">
+		<phrase hz="偈偈" py="jié,jié" info="1.急驰貌。2.用力貌。" />
 		<definition id="二">
 			<item id="1" text="勇武。" />
 			<item id="2" text="跑得快。" />
@@ -168,6 +173,10 @@
 	</char>
 	<char hz="唶" py="jiè" />
 	<char hz="藉" py="jiè" multi="jí" main="1">
+		<phrase hz="藉口" py="jiè,kǒu" info="1.借用別人的話，作為自己論說的依據。2.以某事為理由。3.假託的理由。" />
+		<phrase hz="慰藉" py="wèi,jiè" info="安慰;抚慰" />
+		<phrase hz="蕴藉" py="yùn,jiè" info="含而不露" />
+		<phrase hz="枕藉" py="zhěn,jiè" info="纵横交错地躺在一起" />
 		<definition id="一">
 			<item id="1" text="垫在下面的东西。" />
 			<item id="2" text="垫衬：枕~." />

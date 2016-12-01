@@ -2,9 +2,12 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="几" py="jī" multi="jǐ">
 		<phrase hz="茶几" py="chá,jī" />
-		<phrase hz="条几" py="tiáo,jī" />
+		<phrase hz="几案" py="jī,àn" info="案桌。文書置於几案上，故後多用於指處理公文、書信的工作。" />
+		<phrase hz="几率" py="jī,lǜ" />
 		<phrase hz="几乎" py="jī,hū" />
 		<phrase hz="几为所害" py="jī,wéi,suǒ,hài" />
+		<phrase hz="庶几" py="shù,jī" info="1.或许可以，表示希望或推测。2.差不多;近似。3.指贤者或可以成才的人。" />
+		<phrase hz="条几" py="tiáo,jī" info="长条形的几案。" />
 		<definition id="二">
 			<item id="1" text="（-儿）小或矮的桌子：茶~儿. 条~." />
 			<item id="2" text="差一点，近乎：~乎. ~为所害. 迄今~四十年." />
@@ -29,7 +32,9 @@
 	<char hz="乩" py="jī" />
 	<char hz="鸡" py="jī" />
 	<char hz="奇" py="jī" multi="qí">
+		<phrase hz="奇零" py="jī,líng" info="不满整数的数，零星。" />
 		<phrase hz="奇数" py="jī,shù" />
+		<phrase hz="奇羡" py="jī,xiàn" info="赢余，多余" />
 		<definition id="二">
 			<item id="1" text="数目不成双的，跟“偶”相对：一、三、五、七、九是~数." />
 			<item id="2" text="零数，余数：长八分有~." />
@@ -65,7 +70,7 @@
 		<phrase hz="赍志而殁" py="jī,zhì,ér,mò" />
 	</char>
 	<char hz="嵇" py="jī" />
-	<char hz="稽" py="jī" multi="qǐ" main="1">
+	<char hz="稽" py="jī" multi="qǐ" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="停留：~留. ~迟. 不得~延时日." />
 			<item id="2" text="考核（(连)-核）：~查. 无~之谈." />
@@ -74,6 +79,15 @@
 		</definition>
 	</char>
 	<char hz="缉" py="jī" multi="qī" main="1">
+		<phrase hz="查缉" py="chá,jī" info="搜查捕拿。" />
+		<phrase hz="缉捕" py="jī,bǔ" info="亦称缉捕使臣。捉拿罪犯的衙役" />
+		<phrase hz="缉查" py="jī,chá" info="搜查" />
+		<phrase hz="缉获" py="jī,huò" info="拿获;查获" />
+		<phrase hz="缉拿" py="jī,ná" info="搜查逮捕" />
+		<phrase hz="缉私" py="jī,sī" info="搜捕逃避关税走私货物的人" />
+		<phrase hz="缉凶" py="jī,xiōng" />
+		<phrase hz="通缉" py="tōng,jī" />
+		<phrase hz="侦缉" py="zhēn,jī" info="侦查缉捕" />
 		<definition id="一">
 			<item text="搜捕，捉拿：~私. 通~." />
 		</definition>
@@ -108,6 +122,9 @@
 	<char hz="姞" py="jí" />
 	<char hz="即" py="jí" />
 	<char hz="亟" py="jí" multi="qì" main="1">
+		<phrase hz="亟待" py="jí,dài" info="迫切等待。" />
+		<phrase hz="亟亟" py="jí,jí" info="急忙；急迫。" />
+		<phrase hz="危亟" py="wēi,jí" info="危急。" />
 		<definition id="一">
 			<item text="副词，急切地：~待解决. 缺点~应纠正." />
 		</definition>
@@ -140,7 +157,8 @@
 	<char hz="蹐" py="jí" />
 	<char hz="踖" py="jí" />
 	<char hz="藉" py="jí" multi="jiè">
-		<phrase hz="狼藉" py="láng,jí" />
+		<phrase hz="藉藉" py="jí,jí" info="杂乱众多的样子" />
+		<phrase hz="狼藉" py="láng,jí" info="乱七八糟;散乱、零散" />
 		<definition id="二">
 			<item id="1" text="践踏，凌辱。 [狼藉]（*狼籍）乱七八糟：杯盘~~. 声名~~." />
 			<item id="2" text="姓。" />
@@ -148,6 +166,20 @@
 	</char>
 	<char hz="籍" py="jí" />
 	<char hz="几" py="jǐ" multi="jī" main="1">
+		<phrase hz="几曾" py="jǐ,céng" info="何曾;何尝" />
+		<phrase hz="几次三番" py="jǐ,cì,sān,fān" info="形容次數之多。" />
+		<phrase hz="几多" py="jǐ,duō" info="询问数量;多少。" />
+		<phrase hz="几分" py="jǐ,fēn" info="某一不确定或不特指的东西(如一个数量或程度);一部分,多少。" />
+		<phrase hz="几个" py="jǐ,gè" />
+		<phrase hz="几何" py="jǐ,hé" info="1.多少(用于反问)。2.几何学简称。" />
+		<phrase hz="几经" py="jǐ,jīng" info="经过许多次" />
+		<phrase hz="几年" py="jǐ,nián" />
+		<phrase hz="几时" py="jǐ,shí" info="什么时候，哪一天" />
+		<phrase hz="几许" py="jǐ,xǔ" info="多少" />
+		<phrase hz="几种" py="jǐ,zhǒng" info="指相似项目的不同或区别" />
+		<phrase hz="未几" py="wèi,jǐ" info="1.没有多久;很快。2.很少;无几。3.未可几及，赶不上" />
+		<phrase hz="无几" py="wú,jǐ" info="1.很少，没有多少。2.没有多久;不久。" />
+		<phrase hz="相差无几" py="xiāng,chā,wú,jǐ" info="彼此没有多大差别。" />
 		<definition id="一">
 			<item id="1" text="询问数量多少：~个人？ 来~天了？ [几何]1.多少。 2.几何学，研究点、线、面、体的性质、关系和计算方法的学科。" />
 			<item id="2" text="表示不定的数目：他才十~岁. 所剩无~." />
@@ -164,10 +196,10 @@
 	<char hz="鱾" py="jǐ" />
 	<char hz="挤" py="jǐ" />
 	<char hz="济" py="jǐ" multi="jì">
-		<phrase hz="济水" py="jǐ,shuǐ" />
+		<phrase hz="济济" py="jǐ,jǐ" />
 		<phrase hz="济南" py="jǐ,nán" />
 		<phrase hz="济宁" py="jǐ,níng" />
-		<phrase hz="济济" py="jǐ,jǐ" />
+		<phrase hz="济水" py="jǐ,shuǐ" />
 		<definition id="二">
 			<item text="济水，古水名，发源于今河南省，流经山东省入渤海。" />
 			<item text="[济南][济宁]地名，都在山东省。" />
@@ -197,7 +229,7 @@
 	</char>
 	<char hz="㾵" py="jì" trans="1" />
 	<char hz="记" py="jì" />
-	<char hz="纪" py="jì" multi="jǐ" main="1">
+	<char hz="纪" py="jì" multi="jǐ" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="记载：~事. [纪念]用事物或行动对人或事表示怀念。 [纪元]纪年开始，如公历以传说的耶稣出生那一年为元年。" />
 			<item id="2" text="古时把十二年算作一纪。 [世纪]一百年叫一世纪。" />
@@ -225,12 +257,24 @@
 		<phrase hz="调剂" py="tiáo,jì" />
 	</char>
 	<char hz="荠" py="jì" multi="qí" main="1">
+		<phrase hz="甘之如荠" py="gān,zhī,rú,jì" info="只要心甘情願，即使有如荼之苦，亦覺得像薺菜般甘甜。" />
+		<phrase hz="甘心如荠" py="gān,xīn,rú,jì" info="薺，甜菜。荼菜雖苦，但是和內心的痛苦相比，覺得就像薺菜一樣甜美。" />
 		<phrase hz="荠菜" py="jì,cài" />
 		<definition id="一">
 			<item text="一年生草本植物，花白色。茎叶嫩时可以吃。" />
 		</definition>
 	</char>
 	<char hz="济" py="jì" multi="jǐ" main="1">
+		<phrase hz="济难" py="jì,nàn" info="解救危难。" />
+		<phrase hz="济贫" py="jì,pín" info="向穷人提供救济和帮助" />
+		<phrase hz="济世" py="jì,shì" info="在金钱、物质等方面救济世人" />
+		<phrase hz="济事" py="jì,shì" info="顶事;成事" />
+		<phrase hz="接济" py="jiē,jì" info="以财物等资助他人" />
+		<phrase hz="救济" py="jiù,jì" info="用金钱或物资帮助生活困难的人" />
+		<phrase hz="同舟共济" py="tóng,zhōu,gòng,jì" info="舟：船；济：渡，过洒。坐一条船，共同渡河。比喻团结互助，同心协力，战胜困难。也比喻利害相同。" />
+		<phrase hz="无济于事" py="wú,jì,yú,shì" info="济：补益，帮助。对事情没有什么帮助或益处。比喻不解决问题。" />
+		<phrase hz="赈济" py="zhèn,jì" info="用财物救济" />
+		<phrase hz="周济" py="zhōu,jì" info="在物质上给以帮助;接济" />
 		<definition id="一">
 			<item id="1" text="对困苦的人加以帮助：救~金. ~困扶危." />
 			<item id="2" text="补益：无~于事." />
@@ -249,7 +293,16 @@
 		<phrase hz="觊觎" py="jì,yú" />
 	</char>
 	<char hz="继" py="jì" />
-	<char hz="偈" py="jì" multi="jié" main="1">
+	<char hz="偈" py="jì" multi="jié" main="1" suppressLog="1">
+		<phrase hz="宝偈" py="bǎo,jì" info="1.佛教语。对偈颂的敬称。2.道教亦借以指修炼的歌诀。" />
+		<phrase hz="笔偈" py="bǐ,jì" info="仿照佛家偈语编成的书法口诀。" />
+		<phrase hz="偈句" py="jì,jù" info="即偈颂。" />
+		<phrase hz="偈颂" py="jì,sòng" info="梵语“偈佗”的又称。即佛经中的唱颂词。每句三字、四字、五字、六字、七字以至多字不等，通常以四句为一偈。亦多指释家隽永的诗作。" />
+		<phrase hz="偈言" py="jì,yán" info="即偈颂。" />
+		<phrase hz="偈语" py="jì,yǔ" info="即偈颂。" />
+		<phrase hz="偈子" py="jì,zǐ" info="即偈颂。" />
+		<phrase hz="妙偈" py="miào,jì" info="佛教语。含意深远的偈语。" />
+		<phrase hz="颂偈" py="sòng,jì" info="佛经中的唱颂词。" />
 		<definition id="一">
 			<item text="和尚唱的词句。" />
 		</definition>

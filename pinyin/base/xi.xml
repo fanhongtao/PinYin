@@ -177,7 +177,7 @@
 		</definition>
 	</char>
 	<char hz="饩" py="xì" />
-	<char hz="系" py="xì" multi="jì" main="1">
+	<char hz="系" py="xì" multi="jì" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="有连属关系的：~统. 一~列的事实. 水~. 世~." />
 			<item id="2" text="高等学校中按学科分的教学单位：中文~. 化学~." />
