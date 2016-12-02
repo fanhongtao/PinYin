@@ -85,8 +85,13 @@
 		</definition>
 	</char>
 	<char hz="贾" py="gǔ" multi="jiǎ">
+		<phrase hz="贾人" py="gǔ,rén" />
+		<phrase hz="巨贾" py="jù,gǔ" info="大商人。" />
+		<phrase hz="善贾" py="shàn,gǔ" info="善於經商。" />
 		<phrase hz="商贾" py="shāng,gǔ" />
+		<phrase hz="行贾" py="xíng,gǔ" info="1.經商、做買賣。2.到各地做買賣的商人。" />
 		<phrase hz="余勇可贾" py="yú,yǒng,kě,gǔ" />
+		<phrase hz="坐贾" py="zuò,gǔ" info="在固定的地點設立商店，以經營商業的人。相對於行商而言。" />
 		<definition id="二">
 			<item id="1" text="商人（(连)商-）。古时特指坐商。" />
 			<item id="2" text="卖：余勇可~（喻还有多余的力量可以使出）." />

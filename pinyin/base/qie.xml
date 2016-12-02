@@ -15,6 +15,8 @@
 		</definition>
 	</char>
 	<char hz="茄" py="qié" multi="jiā" main="1">
+		<phrase hz="番茄" py="fān,qié" info="又叫西红柿。" />
+		<phrase hz="茄子" py="qié,zi" />
 		<definition id="一">
 			<item text="（-子）一年生草本植物，花紫色。果实也叫茄子，紫色，也有白色或绿色的，可以吃。 [番茄]一年生草本植物，花黄色。果实也叫番茄，圆形，熟时红色或黄色，可以吃。也叫“西红柿”。" />
 		</definition>

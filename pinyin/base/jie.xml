@@ -201,6 +201,8 @@
 		</definition>
 	</char>
 	<char hz="家" py="jie" multi="jiā">
+		<phrase hz="成年家" py="chéng,nián,jie" />
+		<phrase hz="整天家" py="zhěng,tiān,jie" />
 		<definition id="二">
 			<item text="词尾：整天~. 成年~." />
 		</definition>
