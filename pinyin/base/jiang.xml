@@ -6,7 +6,19 @@
 	</char>
 	<char hz="豇" py="jiāng" />
 	<char hz="将" py="jiāng" multi="jiàng" main="1">
-		<phrase hz="将就" py="jiāng,jiu" />
+		<phrase hz="即将" py="jí,jiāng" info="正要;就要" />
+		<phrase hz="将计就计" py="jiāng,jì,jiù,jì" info="利用对方所用的计策，反过来对付对方。" />
+		<phrase hz="将将" py="jiāng,jiāng" info="刚刚;刚好" />
+		<phrase hz="将近" py="jiāng,jìn" info="将要接近某数字或情况" />
+		<phrase hz="将就" py="jiāng,jiu" info="勉强适应，凑合" />
+		<phrase hz="将军" py="jiāng,jūn" info="1.武官名。2.宋将军家。--明.魏禧《大铁椎传》 3.军衔名，在校级之上。通常分四级，少将、中将、上将和大将。4.下象棋时攻击对方的将或帅。5.将国际象棋中的王暴露在对方棋子前，以致如果不是王被马上保护起来(如在其间放上另一棋子)，则下一步便可能被对方吃掉。6.比喻给人出难题，使人感到难办" />
+		<phrase hz="将来" py="jiāng,lái" />
+		<phrase hz="将息" py="jiāng,xī" info="调养休息;保养" />
+		<phrase hz="将心比心" py="jiāng,xīn,bǐ,xīn" info="设身处地地为别人着想。" />
+		<phrase hz="将信将疑" py="jiāng,xìn,jiāng,yí" info="将：且，又。有点相信，又有点怀疑。" />
+		<phrase hz="将养" py="jiāng,yǎng" info="1.休养身体。2.侍奉赡养。" />
+		<phrase hz="将要" py="jiāng,yào" info="用在动词前面，表示行为或情况在不久以后发生;即将" />
+		<phrase hz="行将" py="xíng,jiāng" info="不久就要;将要" />
 		<definition id="一">
 			<item id="1" text="副词，将要，快要：天~明. 后日~返京. [将来]未来：我们的劳动是为了更美好的~~." />
 			<item id="2" text="介词，把：~革命进行到底." />
@@ -21,6 +33,20 @@
 		</definition>
 	</char>
 	<char hz="浆" py="jiāng" multi="jiàng" main="1">
+		<phrase hz="豆浆" py="dòu,jiāng" info="用水冲的大豆粉或磨得很细的大豆浆" />
+		<phrase hz="翻浆" py="fān,jiāng" info="春暖解冻时地面或道路表面发生裂纹并渗出水分和泥浆。" />
+		<phrase hz="灌浆" py="guàn,jiāng" info="把水泥、灰浆等灌入砌块砖石之间的空隙中，使之凝结坚固;尤指水泥、石灰或石膏与砂子和水的混合物，在塑性状态或硬化状态下使用" />
+		<phrase hz="灰浆" py="huī,jiāng" info="一种能硬化的塑性建筑材料，用于砌筑或抹面;尤指水泥、石灰或石膏与砂子和水的混合物，在塑性状态或硬化状态下使用" />
+		<phrase hz="浆洗" py="jiāng,xǐ" info="洗涤并上浆" />
+		<phrase hz="酒浆" py="jiǔ,jiāng" info="酒" />
+		<phrase hz="脑浆" py="nǎo,jiāng" info="脑袋破裂后流出的脑髓" />
+		<phrase hz="泥浆" py="ní,jiāng" info="细粘土与水的混合物，具有乳浆稠度，用于注浆成形" />
+		<phrase hz="琼浆" py="qióng,jiāng" info="传说中神仙饮的仙水，代指好酒" />
+		<phrase hz="砂浆" py="shā,jiāng" info="砌砖石用的粘结物质，由沙子加水泥、石灰膏或粘土，再加水合成" />
+		<phrase hz="王浆" py="wáng,jiāng" info="又称“蜂乳”。工蜂上颚腺分泌的一种白色乳浆。养蜂的主要产品之一。" />
+		<phrase hz="血浆" py="xuè,jiāng" info="血液中的液体部分，区别于悬浮的物质(如细胞)，血浆不同于血清之处是它含有纤维蛋白原" />
+		<phrase hz="岩浆" py="yán,jiāng" info="地球内部呈液态或糊状的熔融岩石物质，通过冷却和结晶作用，变为火成岩的熔融物质或块体" />
+		<phrase hz="纸浆" py="zhǐ,jiāng" info="含有植物纤维的浆状物，用来造纸" />
 		<definition id="一">
 			<item id="1" text="比较浓的液体：纸~. 豆~. 泥~." />
 			<item id="2" text="用米汤或粉浆等浸润纱、布、衣服等物：~衣裳." />
@@ -45,6 +71,21 @@
 	<char hz="膙" py="jiǎng" />
 	<char hz="匠" py="jiàng" />
 	<char hz="降" py="jiàng" multi="xiáng" main="1">
+		<phrase hz="递降" py="dì,jiàng" info="一次比一次降低" />
+		<phrase hz="降低" py="jiàng,dī" />
+		<phrase hz="降幅" py="jiàng,fú" />
+		<phrase hz="降级" py="jiàng,jí" />
+		<phrase hz="降临" py="jiàng,lín" />
+		<phrase hz="降落" py="jiàng,luò" />
+		<phrase hz="降旗" py="jiàng,qí" />
+		<phrase hz="降生" py="jiàng,shēng" info="出生，出世" />
+		<phrase hz="降水" py="jiàng,shuǐ" />
+		<phrase hz="降下" py="jiàng,xià" />
+		<phrase hz="降职" py="jiàng,zhí" />
+		<phrase hz="空降" py="kōng,jiàng" />
+		<phrase hz="升降" py="shēng,jiàng" />
+		<phrase hz="下降" py="xià,jiàng" />
+		<phrase hz="骤降" py="zhòu,jiàng" />
 		<definition id="一">
 			<item id="1" text="下落，落下（(连)-落）：~雨. 温度下~. ~落伞." />
 			<item id="2" text="使下落：~级. ~格. ~低物价." />
@@ -59,8 +100,28 @@
 		</definition>
 	</char>
 	<char hz="将" py="jiàng" multi="jiāng">
-		<phrase hz="将领" py="jiàng,lǐng" />
+		<phrase hz="闯将" py="chuǎng,jiàng" info="冲锋陷阵的猛将。" />
+		<phrase hz="大将" py="dà,jiàng" info="1.军衔。将官的最高一级。2.比喻某一集团中的重要人物。3.高级将领的泛称。" />
+		<phrase hz="福将" py="fú,jiàng" info="1.有福运的将领。2.比喻幸运的人。" />
+		<phrase hz="副将" py="fù,jiàng" info="各级主将的辅佐将领。亦为官名。" />
+		<phrase hz="虎将" py="hǔ,jiàng" info="勇将。勇猛的人。" />
+		<phrase hz="激将" py="jī,jiàng" info="用反话去激人，促使人决心去做。" />
+		<phrase hz="健将" py="jiàn,jiàng" info="1.某种活动中的能手。2.运动员等级中最高一级的称号，由国家授予。3.古时指英勇善战的将领。" />
 		<phrase hz="将兵" py="jiàng,bīng" />
+		<phrase hz="将领" py="jiàng,lǐng" />
+		<phrase hz="将令" py="jiàng,lìng" info="将帅的命令;军令" />
+		<phrase hz="将帅" py="jiàng,shuài" info="1.将领。2.“文将帅”之省称。" />
+		<phrase hz="将校" py="jiàng,xiào" info="将官和校官，泛指高级军官;军令" />
+		<phrase hz="麻将" py="má,jiàng" info="牌类娱乐用具，用竹子、骨头或塑料制成的小长方块，上面刻有花纹或字样，每副136张。" />
+		<phrase hz="猛将" py="měng,jiàng" info="勇敢、威猛的武将。比喻不怕困难，敢于进取的人。" />
+		<phrase hz="裨将" py="pí,jiàng" info="副将;专任一方的将领" />
+		<phrase hz="儒将" py="rú,jiàng" info="有文人风度的将帅。" />
+		<phrase hz="上将" py="shàng,jiàng" info="1.指地位高的将领。2.军衔的一级。将官中的一级，低于大将，高于中将。" />
+		<phrase hz="少将" py="shào,jiàng" />
+		<phrase hz="武将" py="wǔ,jiàng" info="指军官;将领" />
+		<phrase hz="骁将" py="xiāo,jiàng" info="勇将，猛将。" />
+		<phrase hz="中将" py="zhōng,jiàng" info="军衔，低于上将，高于少将。" />
+		<phrase hz="主将" py="zhǔ,jiàng" info="1.军队的主要将领。2.起到关健作用的人。" />
 		<definition id="二">
 			<item id="1" text="军衔名。在校级之上。 [将领]较高级的军官。" />
 			<item id="2" text="统率指挥：~兵." />
@@ -76,8 +137,8 @@
 	<char hz="酱" py="jiàng" />
 	<char hz="弶" py="jiàng" />
 	<char hz="强" py="jiàng" multi="qiáng,qiǎng">
-		<phrase hz="倔强" py="jué,jiàng" />
 		<phrase hz="强嘴" py="jiàng,zuǐ" />
+		<phrase hz="倔强" py="jué,jiàng" />
 		<definition id="三">
 			<item id="1" text="强(qiáng)硬不屈：倔~." />
 			<item id="2" text="固执己见，不服劝导：你别~嘴." />

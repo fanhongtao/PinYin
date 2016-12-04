@@ -23,9 +23,16 @@
 	<char hz="庠" py="xiáng" />
 	<char hz="祥" py="xiáng" />
 	<char hz="降" py="xiáng" multi="jiàng">
-		<phrase hz="投降" py="tóu,xiáng" />
 		<phrase hz="宁死不降" py="nìng,sǐ,bù,xiáng" />
+		<phrase hz="请降" py="qǐng,xiáng" />
+		<phrase hz="受降" py="shòu,xiáng" />
+		<phrase hz="投降" py="tóu,xiáng" />
+		<phrase hz="降伏" py="xiáng,fú" />
+		<phrase hz="降服" py="xiáng,fú" />
 		<phrase hz="降龙伏虎" py="xiáng,lóng,fú,hǔ" />
+		<phrase hz="诱降" py="yòu,xiáng" />
+		<phrase hz="诈降" py="zhà,xiáng" />
+		<phrase hz="招降" py="zhāo,xiáng" />
 		<definition id="二">
 			<item id="1" text="投降，归顺：宁死不~." />
 			<item id="2" text="降服，使驯服：~龙伏虎." />
