@@ -46,11 +46,45 @@
 		</definition>
 	</char>
 	<char hz="嚼" py="jiáo" multi="jiào,jué" main="1">
+		<phrase hz="嚼舌" py="jiáo,shé" info="1.瞎说;没有事实根据地议论。2.作无谓的争辩。也说嚼舌根、嚼舌头。" />
+		<phrase hz="嚼牙" py="jiáo,yá" info="犹嚼舌。搬弄是非；胡扯。" />
+		<phrase hz="嚼用" py="jiáo,yòng" info="〈方〉缴裹儿;日常生活的开支，花费" />
+		<phrase hz="嚼子" py="jiáo,zǐ" info="横勒在牲口嘴里的小铁链，两端连在缰绳上，以便驾驭" />
+		<phrase hz="味同嚼蜡" py="wèi,tóng,jiáo,là" />
+		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
+		<phrase hz="咬文嚼字" py="yǎo,wén,jiáo,zì" />
 		<definition id="一">
 			<item text="用牙齿磨碎食物。 [嚼舌]信口胡说，搬弄是非。" />
 		</definition>
 	</char>
 	<char hz="角" py="jiǎo" multi="jué" main="1">
+		<phrase hz="触角" py="chù,jiǎo" />
+		<phrase hz="豆角" py="dòu,jiǎo" />
+		<phrase hz="钝角" py="dùn,jiǎo" info="数学名词。大于直角而小于平角的角。" />
+		<phrase hz="额角" py="é,jiǎo" />
+		<phrase hz="俯角" py="fǔ,jiǎo" info="1.在竖直面内的水平线与向下递降线段之间的角度。2.从测量员的仪器到照准点所观测到的地平线以下的垂直角。" />
+		<phrase hz="拐角" py="guǎi,jiǎo" />
+		<phrase hz="犄角" py="jī,jiǎo" />
+		<phrase hz="夹角" py="jiā,jiǎo" info="两条线或面间的角度" />
+		<phrase hz="角尺" py="jiǎo,chǐ" info="1.具有一条可放置得和图板的一边成任意需要的角度的直尺的绘图仪器。2.一种量度板材两面刨削成一定角度的量具。" />
+		<phrase hz="角度" py="jiǎo,dù" />
+		<phrase hz="角钢" py="jiǎo,gāng" info="断面为“∟”角形的钢材。有等边和不等边两种，工业上用途广泛。也叫三角铁。" />
+		<phrase hz="角落" py="jiǎo,luò" />
+		<phrase hz="角膜" py="jiǎo,mó" />
+		<phrase hz="角质" py="jiǎo,zhì" info="植物茎叶表皮的外层中由蜡、脂肪酸、皂、高级醇和树脂状物构成的不溶而又透水的复杂聚集体" />
+		<phrase hz="菱角" py="líng,jiǎo" info="菱的果实。有角，故称" />
+		<phrase hz="鹿角" py="lù,jiǎo" info="雄鹿的角。亦指为阻止敌军前进而设置的树枝、荆棘之类的障碍物" />
+		<phrase hz="牛角" py="niú,jiǎo" info="牛的角，也指用其做成的号角" />
+		<phrase hz="锐角" py="ruì,jiǎo" info="小于90°的角" />
+		<phrase hz="三角" py="sān,jiǎo" info="1.指外形像三角形的物品。2.三角学的简称。" />
+		<phrase hz="摔角" py="shuāi,jiǎo" info="摔交的别称。" />
+		<phrase hz="羊角" py="yáng,jiǎo" info="羊的角。借指弯曲向上的旋风" />
+		<phrase hz="仰角" py="yǎng,jiǎo" info="在竖直平面内的水平线与向上递升线段(如从观察者到目标的连线)之间的角度" />
+		<phrase hz="余角" py="yú,jiǎo" info="某一不足90的给定角或给定弧所不足那部分角或弧的值" />
+		<phrase hz="皂角" py="zào,jiǎo" info="亦作“皁角”。即皂荚。" />
+		<phrase hz="总角" py="zǒng,jiǎo" info="古代未成年男孩头顶两侧束发为髻。" />
+		<phrase hz="直角" py="zhí,jiǎo" />
+		<phrase hz="嘴角" py="zuǐ,jiǎo" />
 		<definition id="一">
 			<item id="1" text="牛、羊、鹿等头上长出的坚硬的东西。 [画角]古代军中吹的乐器。" />
 			<item id="2" text="形状像角的：菱~. 皂~." />
@@ -63,6 +97,7 @@
 		</definition>
 	</char>
 	<char hz="侥" py="jiǎo" multi="yáo" main="1">
+		<phrase hz="侥幸" py="jiǎo,xìng" />
 		<definition id="一">
 			<item text="[侥幸]（*徼倖）由于偶然的原因获得利益或免去不幸：怀着~~心理." />
 		</definition>
@@ -81,6 +116,14 @@
 		</definition>
 	</char>
 	<char hz="矫" py="jiǎo" multi="jiáo" main="1">
+		<phrase hz="矫健" py="jiǎo,jiàn" info="强壮有力;英勇威武" />
+		<phrase hz="矫捷" py="jiǎo,jié" info="动作迅速、矫健、灵活" />
+		<phrase hz="矫揉造作" py="jiǎo,róu,zào,zuò" info="矫：使弯的变成直的；揉：使直的变成弯的。比喻故意做作，不自然。" />
+		<phrase hz="矫饰" py="jiǎo,shì" info="1.亦作“矫飭”。整饬；整改。2.造作夸饰，掩盖真相。" />
+		<phrase hz="矫枉过正" py="jiǎo,wǎng,guò,zhèng" info="矫：扭转；枉：弯曲。把弯的东西扳正，又歪到了另一边。比喻纠正错误超过了应有的限度。" />
+		<phrase hz="矫形" py="jiǎo,xíng" info="通过外科手术使人体恢复正常形态" />
+		<phrase hz="矫正" py="jiǎo,zhèng" />
+		<phrase hz="矫治" py="jiǎo,zhì" info="把生理缺陷通过医治矫正过来" />
 		<definition id="一">
 			<item id="1" text="纠正，把弯曲的弄直：~正. ~枉过正. ~揉造作（喻故意做作）. [矫情]故意违反常情，表示与众不同。" />
 			<item id="2" text="假托：~命." />
@@ -88,7 +131,29 @@
 			<item id="4" text="古同“挢”。" />
 		</definition>
 	</char>
-	<char hz="脚" py="jiǎo" multi="jué" main="1">
+	<char hz="脚" py="jiǎo" multi="jué" main="1" suppressLog="1">
+		<phrase hz="踮脚" py="diǎn,jiǎo" info="〈方〉跛足人走路脚尖点地的样子" />
+		<phrase hz="跺脚" py="duò,jiǎo" />
+		<phrase hz="根脚" py="gēn,jiǎo" info="1.植物或建筑物的根基。2.底细;出身。" />
+		<phrase hz="裹脚" py="guǒ,jiǎo" info="1.旧时，把女孩子的脚用长布紧紧地缠住，使脚骨变成畸形。2.也指裹脚用的长条布。" />
+		<phrase hz="合脚" py="hé,jiǎo" info="鞋、袜尺寸适合于脚的大小" />
+		<phrase hz="脚板" py="jiǎo,bǎn" info="〈方〉即脚掌" />
+		<phrase hz="脚本" py="jiǎo,běn" />
+		<phrase hz="脚步" py="jiǎo,bù" />
+		<phrase hz="脚法" py="jiǎo,fǎ" info="指踢球、踢毽子等的技巧。如：他踢球的脚法细腻。" />
+		<phrase hz="脚夫" py="jiǎo,fū" info="专门为别人搬运物品的人或被人雇佣赶牲口的人" />
+		<phrase hz="脚跟" py="jiǎo,gēn" info="脚后跟" />
+		<phrase hz="脚后跟" py="jiǎo,hòu,gēn" info="人脚的后部，位于踝关节之下和脚弓之后" />
+		<phrase hz="脚踝" py="jiǎo,huái" />
+		<phrase hz="脚劲" py="jiǎo,jìn" info="〈方〉两腿的劲道、力气" />
+		<phrase hz="脚扣" py="jiǎo,kòu" info="套在鞋上爬电线杆子用的一种铁制工具。" />
+		<phrase hz="脚炉" py="jiǎo,lú" info="冷天烘脚用的小炉。" />
+		<phrase hz="脚气" py="jiǎo,qì" />
+		<phrase hz="脚印" py="jiǎo,yìn" />
+		<phrase hz="脚趾" py="jiǎo,zhǐ" />
+		<phrase hz="捎脚" py="shāo,jiǎo" info="就着方便捎带人或物品(多指车、船等运输工具)" />
+		<phrase hz="顺脚" py="shùn,jiǎo" info="1.顺着所走的路线到另一处。2.趁车马等本来要去某个地方的方便搭人或运货。" />
+		<phrase hz="挑脚" py="tiāo,jiǎo" info="为别人挑运货物或行装" />
 		<definition id="一">
 			<item id="1" text="人和某些动物身体最下部接触地面的肢体。" />
 			<item id="2" text="最下部：山~. 墙~." />
@@ -103,13 +168,23 @@
 		</definition>
 	</char>
 	<char hz="敫" py="jiǎo" />
-	<char hz="徼" py="jiǎo" multi="jiào">
+	<char hz="徼" py="jiǎo" multi="jiào" main="1">
 		<phrase hz="徼倖" py="jiǎo,xìng" />
 		<definition id="一">
 			<item text="旧同“侥幸”。" />
 		</definition>
 	</char>
 	<char hz="缴" py="jiǎo" multi="zhuó" main="1">
+		<phrase hz="缴付" py="jiǎo,fù" />
+		<phrase hz="缴获" py="jiǎo,huò" />
+		<phrase hz="缴纳" py="jiǎo,nà" />
+		<phrase hz="缴送" py="jiǎo,sòng" />
+		<phrase hz="缴销" py="jiǎo,xiāo" info="把东西收回然后注销" />
+		<phrase hz="缴械" py="jiǎo,xiè" />
+		<phrase hz="盘缴" py="pán,jiǎo" info="花费。" />
+		<phrase hz="上缴" py="shàng,jiǎo" />
+		<phrase hz="收缴" py="shōu,jiǎo" />
+		<phrase hz="追缴" py="zhuī,jiǎo" />
 		<definition id="一">
 			<item id="1" text="交纳，交出（多指履行义务或被迫）：~公粮. ~纳税款." />
 			<item id="2" text="迫使交出：~了敌人的械." />
@@ -136,6 +211,9 @@
 	</char>
 	<char hz="轿" py="jiào" />
 	<char hz="觉" py="jiào" multi="jué" info="Word主音">
+		<phrase hz="困觉" py="kùn,jiào" info="〈方〉睡觉" />
+		<phrase hz="睡觉" py="shuì,jiào" />
+		<phrase hz="午觉" py="wǔ,jiào" />
 		<definition id="二">
 			<item text="睡眠。" />
 		</definition>
@@ -145,6 +223,10 @@
 		<phrase hz="校订" py="jiào,dìng" />
 		<phrase hz="校对" py="jiào,duì" />
 		<phrase hz="校稿子" py="jiào,gǎo,zi" />
+		<phrase hz="校勘" py="jiào,kān" info="1.搜集某书的不同版本，并综合有关资料，互相比较、核对，别其同异，定其正误。2.宋代校订宫中藏书的官名。" />
+		<phrase hz="校样" py="jiào,yàng" info="未出版的书、报等的样张，供校对用" />
+		<phrase hz="校阅" py="jiào,yuè" info="1.审阅校订。2.检查;查核。" />
+		<phrase hz="校正" py="jiào,zhèng" info="进行校对，加以改正" />
 		<definition id="二">
 			<item id="1" text="比较：~场（旧日演习武术的地方）." />
 			<item id="2" text="订正：~订. ~稿子." />
@@ -152,7 +234,66 @@
 	</char>
 	<char hz="较" py="jiào" />
 	<char hz="教" py="jiào" multi="jiāo" main="1">
+		<phrase hz="八卦教" py="bā,guà,jiào" info="白莲教的支派。始称收元教，为 清 初 山东 单县 刘佐臣 创立。其后传布于 河北 、 河南 、 山西 等地。教徒依八卦分为八股，故又称八卦教。" />
+		<phrase hz="白莲教" py="bái,lián,jiào" info="中国民间宗教之一，源于南宋佛教的一个支系，崇奉弥勒佛，元明清三代在民间流行，农民起义军常借百莲教名义号召群众组织斗争" />
+		<phrase hz="赐教" py="cì,jiào" />
+		<phrase hz="道教" py="dào,jiào" />
+		<phrase hz="电教" py="diàn,jiào" info="电化教育的简称" />
+		<phrase hz="东正教" py="dōng,zhèng,jiào" info="见〖正教〗。" />
+		<phrase hz="国教" py="guó,jiào" info="1.国家的教化。2.国家明文规定的本国所信仰的宗教。" />
+		<phrase hz="回教" py="huí,jiào" info="伊斯兰教" />
+		<phrase hz="候教" py="hòu,jiào" info="敬候指教。请柬上常用的套语。" />
+		<phrase hz="基督教" py="jī,dū,jiào" info="世界上主要的宗教之一，公元一世纪产生于西亚，奉耶和华(耶稣)为救世主，后被罗马帝国定为国教，在欧洲广泛传播起来。十一世纪分裂为天主教和东正教。十六世纪又陆续从天主教分裂出许多教派，合称新教。我国所称的基督教多指新教。" />
+		<phrase hz="见教" py="jiàn,jiào" />
+		<phrase hz="教材" py="jiào,cái" />
+		<phrase hz="教导" py="jiào,dǎo" />
+		<phrase hz="教父" py="jiào,fù" />
+		<phrase hz="教官" py="jiào,guān" />
+		<phrase hz="教化" py="jiào,huà" />
+		<phrase hz="教皇" py="jiào,huáng" info="天主教会最高领导人，驻在梵蒂冈" />
 		<phrase hz="教诲" py="jiào,huì" />
+		<phrase hz="教会" py="jiào,huì" info="基督教各教派的信徒组织" />
+		<phrase hz="教练" py="jiào,liàn" />
+		<phrase hz="教派" py="jiào,pài" info="在一个宗教内的不同派别" />
+		<phrase hz="教师" py="jiào,shī" />
+		<phrase hz="教室" py="jiào,shì" />
+		<phrase hz="教士" py="jiào,shì" info="基督教的神职人员" />
+		<phrase hz="教授" py="jiào,shòu" />
+		<phrase hz="教堂" py="jiào,táng" info="基督教进行宗教仪式的建筑物，有多种风格，如哥特式、拜占庭式的" />
+		<phrase hz="教头" py="jiào,tóu" info="宋代军队中专门担任武术教学的人。后指一般传授技艺的人" />
+		<phrase hz="教徒" py="jiào,tú" info="宗教的信仰者" />
+		<phrase hz="教学" py="jiào,xué" />
+		<phrase hz="教训" py="jiào,xùn" />
+		<phrase hz="教养" py="jiào,yǎng" />
+		<phrase hz="教义" py="jiào,yì" info="指一种宗教所信奉和宣扬的神学道理思想" />
+		<phrase hz="教育" py="jiào,yù" />
+		<phrase hz="教员" py="jiào,yuán" />
+		<phrase hz="教主" py="jiào,zhǔ" />
+		<phrase hz="教宗" py="jiào,zōng" info="即教皇" />
+		<phrase hz="旧教" py="jiù,jiào" info="1.16世纪欧洲宗教改革后，称天主教为旧教。2.旧有的教训。" />
+		<phrase hz="劳教" py="láo,jiào" />
+		<phrase hz="清教" py="qīng,jiào" info="1.使教化清明。2.高明的教诲。对人的意见的尊称。" />
+		<phrase hz="请教" py="qǐng,jiào" />
+		<phrase hz="萨满教" py="sà,mǎn,jiào" info="一种原始宗教。流行于 亚洲 、 欧洲 的极北部等地区。" />
+		<phrase hz="神教" py="shén,jiào" info="1.指佛的法力。2.指谶纬假托天命之言。3.指教化。" />
+		<phrase hz="圣教" py="shèng,jiào" info="1.旧称尧、舜、文、武、周公、孔子的教导。2.宗教信徒对各自宗教的尊称。" />
+		<phrase hz="释教" py="shì,jiào" info="佛教" />
+		<phrase hz="说教" py="shuō,jiào" />
+		<phrase hz="天理教" py="tiān,lǐ,jiào" info="十八世纪中叶白莲教武装起义失败后，由部分教徒组织起白莲教的一个支派，称天理教，曾在北京、河南发动起义。又称八卦教" />
+		<phrase hz="天主教" py="tiān,zhǔ,jiào" info="基督教教派的一种，以罗马教皇为最高统治者。明朝时传入我国。又叫罗马公教" />
+		<phrase hz="邪教" py="xié,jiào" info="旁门左道，不正派的宗教派别。" />
+		<phrase hz="新教" py="xīn,jiào" info="基督教的一派。是十六世纪 欧洲 宗教改革运动中脱离天主教而产生的各个新宗派的统称。与天主教、正教并称为基督教三大派别。在 中国 ，通常称为基督教或耶稣教。" />
+		<phrase hz="玄教" py="xuán,jiào" info="1.犹圣教。2.指佛教或道教。" />
+		<phrase hz="言传身教" py="yán,chuán,shēn,jiào" info="言传：用言语讲解、传授；身教：以行动示范。既用言语来教导，又用行动来示范。指行动起模范作用。 " />
+		<phrase hz="伊斯兰教" py="yī,sī,lán,jiào" info="穆斯林的宗教信仰，信仰安拉是唯一的神，信穆罕默德是安拉的使者" />
+		<phrase hz="异教" py="yì,jiào" info="1.不同的教化。2.不是自己所信奉的宗教。3.特指非正统的宗教。4.非正统的思想学派。" />
+		<phrase hz="因材施教" py="yīn,cái,shī,jiào" info="因：根据；材：资质；施：施加；教：教育。指针对学习的人的志趣、能力等具体情况进行不同的教育。" />
+		<phrase hz="印度教" py="yìn,dù,jiào" info="公元八、九世纪后流行于 印度 的宗教。印度教是经过改革的婆罗门教，其主要教义仍是婆罗门教的善恶有因果、人生有轮回之说。现在流行于 印度 、 尼泊尔 等国。" />
+		<phrase hz="犹太教" py="yóu,tài,jiào" info="犹太人的宗教，特点是信仰上帝，并信仰信天父在希伯来经文中明确教导的使命" />
+		<phrase hz="正教" py="zhèng,jiào" info="指11世纪基督教分裂为东西两派，以东罗马帝国首都君士坦丁堡为中心的东部教会自命为正宗的教会，故称正教或东正教" />
+		<phrase hz="指教" py="zhǐ,jiào" />
+		<phrase hz="主教" py="zhǔ,jiào" info="主管一城市或一教区的教务的高级神职人员" />
+		<phrase hz="宗教" py="zōng,jiào" />
 		<definition id="一">
 			<item id="1" text="指导，教诲（(连)-导）：施~. 受~. 指~. [教育]1.教导和培养：~~干部. 2.教育事业。按一定要求培养人的事业，主要指各级学校的工作。" />
 			<item id="2" text="使，令：风能~船走." />
@@ -168,7 +309,8 @@
 	<char hz="嘦" py="jiào" />
 	<char hz="噍" py="jiào" />
 	<char hz="醮" py="jiào" />
-	<char hz="徼" py="jiào" multi="jiǎo" main="1">
+	<char hz="徼" py="jiào" multi="jiǎo">
+		<phrase hz="徼巡" py="jiào,xún" />
 		<definition id="二">
 			<item id="1" text="边界。" />
 			<item id="2" text="巡察。" />

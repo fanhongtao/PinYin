@@ -30,6 +30,7 @@
 	<char hz="侨" py="qiáo" />
 	<char hz="荞" py="qiáo" />
 	<char hz="峤" py="qiáo" multi="jiào" main="1">
+		<phrase hz="峤岳" py="qiáo,yuè" info="同“乔岳”。高大的山。特指 泰山 。" />
 		<definition id="二">
 			<item text="山尖而高。" />
 		</definition>

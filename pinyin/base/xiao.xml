@@ -69,7 +69,28 @@
 		<phrase hz="笑话" py="xiào,hua" />
 	</char>
 	<char hz="校" py="xiào" multi="jiào" main="1">
+		<phrase hz="大校" py="dà,xiào" info="1.军衔的一级，为校官的最高级。2.古代军队中次于将军的将领。" />
+		<phrase hz="高校" py="gāo,xiào" />
+		<phrase hz="技校" py="jì,xiào" />
+		<phrase hz="将校" py="jiàng,xiào" info="将官和校官，泛指高级军官" />
+		<phrase hz="母校" py="mǔ,xiào" />
+		<phrase hz="少校" py="shào,xiào" />
+		<phrase hz="上校" py="shàng,xiào" info="军衔之一种，低于大校，高于中校" />
+		<phrase hz="校队" py="xiào,duì" />
+		<phrase hz="校风" py="xiào,fēng" />
+		<phrase hz="校服" py="xiào,fú" />
+		<phrase hz="校歌" py="xiào,gē" />
+		<phrase hz="校官" py="xiào,guān" info="具有大校、上校、中校或少校军衔的军官" />
+		<phrase hz="校规" py="xiào,guī" />
+		<phrase hz="校庆" py="xiào,qìng" />
+		<phrase hz="校尉" py="xiào,wèi" info="中国历史上重要的武官官职。官名。校，军事编制单位。尉，军官。校尉为部队长之意。" />
+		<phrase hz="校训" py="xiào,xùn" />
+		<phrase hz="校医" py="xiào,yī" />
+		<phrase hz="校友" py="xiào,yǒu" />
 		<phrase hz="校园" py="xiào,yuán" />
+		<phrase hz="校址" py="xiào,zhǐ" />
+		<phrase hz="学校" py="xué,xiào" />
+		<phrase hz="中校" py="zhōng,xiào" info="军衔的一级，位于上校与少校之间" />
 		<definition id="一">
 			<item id="1" text="学校。" />
 			<item id="2" text="军衔名，在尉和将之间。" />
