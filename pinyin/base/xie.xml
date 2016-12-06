@@ -68,6 +68,7 @@
 	<char hz="塮" py="xiè" />
 	<char hz="榭" py="xiè" />
 	<char hz="解" py="xiè" multi="jiě,jiè">
+		<phrase hz="解数" py="xiè,shù" info="1.武术的招式。技能;本领。2.旧指武术的架势。泛指手段、本事。" />
 		<phrase hz="解县" py="xiè,xiàn" />
 		<definition id="三">
 			<item id="1" text="明白，懂得：~不开这个理." />

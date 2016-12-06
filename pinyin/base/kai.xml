@@ -14,7 +14,7 @@
 	<char hz="恺" py="kǎi" />
 	<char hz="铠" py="kǎi" />
 	<char hz="蒈" py="kǎi" />
-	<char hz="楷" py="kǎi" multi="jiē" main="1">
+	<char hz="楷" py="kǎi" multi="jiē" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="法式，模范（(连)-模）。" />
 			<item id="2" text="楷书，现在通行的一种汉字字体，是由隶书演变而来的：小~. 正~." />

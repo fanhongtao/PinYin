@@ -18,8 +18,9 @@
 		</definition>
 	</char>
 	<char hz="结" py="jiē" multi="jié">
-		<phrase hz="结实" py="jiē,shi" />
 		<phrase hz="结巴" py="jiē,ba" />
+		<phrase hz="结实" py="jiē,shi" />
+		<phrase hz="开花结实" py="kāi,huā,jié,shí" />
 		<definition id="二">
 			<item text="植物长果实：树上~了许多苹果. [结实]1.植物长(zhǎng)果实：开花~~. 2.(-shi)坚固耐用：这双鞋很~~. 3.(-shi)健壮：他的身体很~~." />
 			<item text="[结巴](-ba)1.口吃。 2.口吃的人。" />
@@ -71,6 +72,29 @@
 	</char>
 	<char hz="洁" py="jié" />
 	<char hz="结" py="jié" multi="jiē" main="1">
+		<phrase hz="巴结" py="bā,jie" />
+		<phrase hz="勾结" py="gōu,jié" />
+		<phrase hz="归结" py="guī,jié" />
+		<phrase hz="喉结" py="hóu,jié" />
+		<phrase hz="集结" py="jí,jié" />
+		<phrase hz="结伴" py="jié,bàn" />
+		<phrase hz="结冰" py="jié,bīng" />
+		<phrase hz="结关" py="jié,guān" info="海关业务用语。谓货物、行李物品、船舶等，由所有人或代理人办完海关进出口手续，经海关放行。特指船舶办清海关出口手续。" />
+		<phrase hz="结果" py="jié,guǒ" />
+		<phrase hz="结晶" py="jié,jīng" />
+		<phrase hz="结盟" py="jié,méng" />
+		<phrase hz="结束" py="jié,shù" />
+		<phrase hz="结怨" py="jié,yuàn" />
+		<phrase hz="连结" py="lián,jié" />
+		<phrase hz="联结" py="lián,jié" />
+		<phrase hz="凝结" py="níng,jié" />
+		<phrase hz="团结" py="tuán,jié" />
+		<phrase hz="完结" py="wán,jié" />
+		<phrase hz="心结" py="xīn,jié" />
+		<phrase hz="硬结" py="yìng,jié" />
+		<phrase hz="郁结" py="yù,jié" />
+		<phrase hz="终结" py="zhōng,jié" />
+		<phrase hz="总结" py="zǒng,jié" />
 		<definition id="一">
 			<item id="1" text="系(jì)，绾(wǎn)：~网. ~绳. 张灯~彩. [结构]1.各组成部分的搭配和排列：文章的~~. 2.建筑上指承重的部分：钢筋混凝土~~. [结舌]因害怕或理屈说不出话来：问得他张口~~." />
 			<item id="2" text="（-子）用绳、线或布条等绾成的扣：打~. 活." />
@@ -80,8 +104,8 @@
 		</definition>
 	</char>
 	<char hz="桔" py="jié" multi="jú">
-		<phrase hz="桔梗" py="jié,gěng" />
 		<phrase hz="桔槔" py="jié,gāo" />
+		<phrase hz="桔梗" py="jié,gěng" />
 		<definition id="一">
 			<item id="1" text="[桔梗](-gěng)多年生草本植物，花紫色，根可以入药。" />
 			<item id="2" text="[桔槔](-gāo)一种汲水的设备。" />
@@ -119,10 +143,58 @@
 	<char hz="截" py="jié" />
 	<char hz="姐" py="jiě" />
 	<char hz="毑" py="jiě" />
-	<char hz="解" py="jiě" multi="jiè,xiè" main="1">
+	<char hz="解" py="jiě" multi="jiè,xiè" main="1" suppressLog="1">
+		<phrase hz="辩解" py="biàn,jiě" />
+		<phrase hz="兵解" py="bīng,jiě" info="旧称学道者死于兵刃为“兵解”，意谓借兵刃解脱得道。" />
+		<phrase hz="冰解" py="bīng,jiě" info="1.冰融化为水。2.比喻消失、消除。" />
+		<phrase hz="潮解" py="cháo,jiě" info="因空气中水分含量大而使固体物质溶解的一种现象" />
+		<phrase hz="电解" py="diàn,jiě" info="利用电流的作用分解化合物" />
+		<phrase hz="分解" py="fēn,jiě" />
+		<phrase hz="费解" py="fèi,jiě" info="不好理解;不好懂" />
+		<phrase hz="和解" py="hé,jiě" />
+		<phrase hz="化解" py="huà,jiě" />
+		<phrase hz="见解" py="jiàn,jiě" />
+		<phrase hz="讲解" py="jiǎng,jiě" info="1.解说;解释。2.讲和;和解。" />
+		<phrase hz="解嘲" py="jiě,cháo" info="受人嘲笑时自己找个理由辩解" />
 		<phrase hz="解答" py="jiě,dá" info="1.答复说明。2.通过数学演算或其他类似的推理而得出的答案" />
+		<phrase hz="解冻" py="jiě,dòng" info="1.指冰冻的土地、江河等在气温回升时融化;也称开冻。2.解除对资金等的冻结。" />
+		<phrase hz="解放" py="jiě,fàng" />
+		<phrase hz="解甲归田" py="jiě,jiǎ,guī,tián" />
+		<phrase hz="解救" py="jiě,jiù" />
+		<phrase hz="解决" py="jiě,jué" />
+		<phrase hz="解闷" py="jiě,mèn" info="排解烦闷" />
+		<phrase hz="解囊相助" py="jiě,náng,xiāng,zhù" info="囊：口袋。拿出财物帮助别人。" />
+		<phrase hz="解剖" py="jiě,pōu" />
+		<phrase hz="解释" py="jiě,shì" />
+		<phrase hz="解手" py="jiě,shǒu" />
+		<phrase hz="解说" py="jiě,shuō" />
+		<phrase hz="解体" py="jiě,tǐ" />
+		<phrase hz="解调" py="jiě,tiáo" info="1.从已调制的无线电信号中提取信息。2.使[电路、乐器等]离开调谐状态。" />
+		<phrase hz="解脱" py="jiě,tuō" />
+		<phrase hz="解析" py="jiě,xī" />
 		<phrase hz="解衣" py="jiě,yī" />
+		<phrase hz="解颐" py="jiě,yí" info="开颜欢笑;欢笑" />
 		<phrase hz="理解" py="lǐ,jiě" />
+		<phrase hz="论解" py="lùn,jiě" info="1.论说和解释。2.谓据理申辩使之解脱(罪责)。3.处理解决。" />
+		<phrase hz="缕解" py="lǚ,jiě" info="1.分割细碎。2.详细分析。" />
+		<phrase hz="谬解" py="miù,jiě" />
+		<phrase hz="扭解" py="niǔ,jiě" info="拘捕押送。" />
+		<phrase hz="排解" py="pái,jiě" />
+		<phrase hz="剖解" py="pōu,jiě" />
+		<phrase hz="曲解" py="qū,jiě" />
+		<phrase hz="劝解" py="quàn,jiě" info="1.调停、排解纠纷。2.劝导宽解。" />
+		<phrase hz="禳解" py="ráng,jiě" info="向神祈求解除灾祸。" />
+		<phrase hz="溶解" py="róng,jiě" info="1.溶质均匀地分散于溶剂中的过程。2.使浓度、粘度或韧度降低。" />
+		<phrase hz="融解" py="róng,jiě" info="1.使[冻结物]变为液体。2.通常由于热的作用而从固态变为液态。3.通晓了解。" />
+		<phrase hz="熔解" py="róng,jiě" info="熔化。" />
+		<phrase hz="尸解" py="shī,jiě" info="指修道者遗弃形骸而成仙，为道家用语。" />
+		<phrase hz="水解" py="shuǐ,jiě" info="1.道教语。“尸解”方式之一。谓托寄于水而蜕形仙去。2.化合物和水作用而分解。例如淀粉水解生成葡萄糖。" />
+		<phrase hz="调解" py="tiáo,jiě" />
+		<phrase hz="图解" py="tú,jiě" info="1.以图或其他看得见的表现方法为一个主题所作的说明。2.利用图形来解释、分析或演算。" />
+		<phrase hz="瓦解" py="wǎ,jiě" />
+		<phrase hz="误解" py="wù,jiě" />
+		<phrase hz="雾解" py="wù,jiě" info="1.雾气消散。2.比喻疑团完全消除。" />
+		<phrase hz="注解" py="zhù,jiě" />
 		<definition id="一">
 			<item id="1" text="剖开，分开（(连)分-）：尸体~剖. 难~难分. 瓦~." />
 			<item id="2" text="把束缚着、系(jì)着的东西打开：~扣. ~衣服. [解放]1.推翻反动政权，使广大人民群众脱离压迫，获得自由。 2.解除束缚，得到自由或发展：~~生产力." />
@@ -185,8 +257,8 @@
 	</char>
 	<char hz="解" py="jiè" multi="jiě,xiè">
 		<phrase hz="解款" py="jiè,kuǎn" />
-		<phrase hz="起解" py="qǐ,jiè" />
 		<phrase hz="解元" py="jiè,yuán" />
+		<phrase hz="起解" py="qǐ,jiè" />
 		<definition id="二">
 			<item text="指押送财物或犯人：~款. 起~. [解元]明、清两代称乡试考取第一名的人。" />
 		</definition>
@@ -194,8 +266,8 @@
 	<char hz="犗" py="jiè" />
 	<char hz="褯" py="jiè" />
 	<char hz="价" py="jie" multi="jià,jiè">
-		<phrase hz="震天价响" py="zhèn,tiān,jie,xiǎng" />
 		<phrase hz="成天价闹" py="chéng,tiān,jie,nào" />
+		<phrase hz="震天价响" py="zhèn,tiān,jie,xiǎng" />
 		<definition id="三">
 			<item text="词尾：震天~响. 成天~闹." />
 		</definition>
