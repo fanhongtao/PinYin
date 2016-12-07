@@ -20,10 +20,10 @@
 	<char hz="津" py="jīn" />
 	<char hz="筋" py="jīn" />
 	<char hz="禁" py="jīn" multi="jìn">
-		<phrase hz="禁受" py="jīn,shòu" />
-		<phrase hz="禁得起" py="jīn,de,qǐ" />
-		<phrase hz="禁穿" py="jīn,chuān" />
 		<phrase hz="不禁" py="bù,jīn" />
+		<phrase hz="禁穿" py="jīn,chuān" />
+		<phrase hz="禁得起" py="jīn,de,qǐ" />
+		<phrase hz="禁受" py="jīn,shòu" info="经受;忍受" />
 		<definition id="二">
 			<item id="1" text="禁受，受得住，耐（用）：~得起考验. 这种布~穿." />
 			<item id="2" text="忍耐：他不~（忍不住）笑起来." />
@@ -31,17 +31,27 @@
 	</char>
 	<char hz="襟" py="jīn" />
 	<char hz="仅" py="jǐn" multi="jìn" main="1">
+		<phrase hz="不仅" py="bù,jǐn" />
+		<phrase hz="仅次于" py="jǐn,cì,yú" />
+		<phrase hz="仅此" py="jǐn,cǐ" />
+		<phrase hz="仅存" py="jǐn,cún" />
+		<phrase hz="仅见" py="jǐn,jiàn" info="极少见" />
+		<phrase hz="仅仅" py="jǐn,jǐn" />
+		<phrase hz="仅容旋马" py="jǐn,róng,xuán,mǎ" info="指住宅地方狭小。" />
+		<phrase hz="仅以身免" py="jǐn,yǐ,shēn,miǎn" info="仅：才能够；身：自身；免：避免。指没有被杀或只身逃出了险境。" />
+		<phrase hz="绝无仅有" py="jué,wú,jǐn,yǒu" />
 		<definition id="一">
 			<item text="副词，只（叠）：~~三个月就建成了. ~写过两篇短文. 这些意见~供参考." />
 		</definition>
 	</char>
 	<char hz="尽" py="jǐn" multi="jìn">
 		<phrase hz="尽底下" py="jǐn,dǐ,xià" />
-		<phrase hz="尽里头" py="jǐn,lǐ,tou" />
-		<phrase hz="尽先录用" py="jǐn,xiān,lù,yòng" />
-		<phrase hz="尽量" py="jǐn,liàng" />
 		<phrase hz="尽管" py="jǐn,guǎn" />
+		<phrase hz="尽里头" py="jǐn,lǐ,tou" />
+		<phrase hz="尽量" py="jǐn,liàng" />
+		<phrase hz="尽先" py="jǐn,xiān" info="表示某种动作、行为或事情优先进行或办理" />
 		<phrase hz="尽着" py="jǐn,zhe" />
+		<phrase hz="尽自" py="jǐn,zì" info="〈方〉总是;一个劲儿地" />
 		<definition id="二">
 			<item id="1" text="极，最：~底下. ~里头. ~先录用." />
 			<item id="2" text="有多少用多少：~量. ~着力气做. [尽管]1.连词，纵然，即使：~~他不接受这个意见，我还是要向他提. 2.只管，不必顾虑：有话~~说吧！" />
@@ -63,6 +73,44 @@
 		</definition>
 	</char>
 	<char hz="尽" py="jìn" multi="jǐn" main="1">
+		<phrase hz="耗尽" py="hào,jìn" />
+		<phrase hz="竭尽" py="jié,jìn" />
+		<phrase hz="尽瘁" py="jìn,cuì" info="尽心尽力，全身心投入" />
+		<phrase hz="尽付东流" py="jìn,fù,dōng,liú" info="一切交給東流的水。比喻希望落空或前功盡棄。" />
+		<phrase hz="尽可能" py="jìn,kě,néng" info="尽量" />
+		<phrase hz="尽力" py="jìn,lì" />
+		<phrase hz="尽其所能" py="jìn,qí,suǒ,néng" info="把所有本事都用上" />
+		<phrase hz="尽情" py="jìn,qíng" />
+		<phrase hz="尽全力" py="jìn,quán,lì" info="几乎使出了全部力气" />
+		<phrase hz="尽然" py="jìn,rán" info="1.完全如此。2.完全对。" />
+		<phrase hz="尽让" py="jìn,ràng" info="1.方言。推让，让别人占先。2.任凭；听凭。" />
+		<phrase hz="尽日" py="jìn,rì" info="整天、終日。" />
+		<phrase hz="尽善尽美" py="jìn,shàn,jìn,měi" info="极其完善，极其美好。指完美到没有一点缺点。" />
+		<phrase hz="尽是" py="jìn,shì" info="到处是，很多很多" />
+		<phrase hz="尽释前嫌" py="jìn,shì,qián,xián" info="尽释：完全放下。嫌：仇怨，怨恨。把以前的怨恨完全丢开。" />
+		<phrase hz="尽头" py="jìn,tóu" />
+		<phrase hz="尽夕" py="jìn,xī" info="整夜;彻夜" />
+		<phrase hz="尽孝" py="jìn,xiào" />
+		<phrase hz="尽心" py="jìn,xīn" />
+		<phrase hz="尽信书不如无书" py="jìn,xìn,shū,bù,rú,wú,shū" />
+		<phrase hz="尽兴" py="jìn,xìng" />
+		<phrase hz="尽性" py="jìn,xìng" info="1.由着性子。2.尽量发挥天赋的个性。" />
+		<phrase hz="尽言" py="jìn,yán" info="1.把话都说完。2.无保留的话;直言。" />
+		<phrase hz="尽意" py="jìn,yì" info="1.充分表达心意、情感。2.尽情;尽兴。" />
+		<phrase hz="尽义务" py="jìn,yì,wù" info="1.盡應盡的本分。2.做事而不接受報酬。" />
+		<phrase hz="尽责" py="jìn,zé" />
+		<phrase hz="尽职" py="jìn,zhí" />
+		<phrase hz="尽致" py="jìn,zhì" info="指表现或表达得详尽彻底" />
+		<phrase hz="尽忠" py="jìn,zhōng" />
+		<phrase hz="历尽" py="lì,jìn" info="多次经历或遭受" />
+		<phrase hz="穷尽" py="qióng,jìn" info="1.尽头;终点。2.探究到尽头。" />
+		<phrase hz="人尽其才" py="rén,jìn,qí,cái" info="每个人都能充分发挥自己的才能。" />
+		<phrase hz="仁至义尽" py="rén,zhì,yì,jìn" info="至：极，最；尽：全部用出。竭尽仁义之道。指人的善意和帮助已经做到了最大限度。" />
+		<phrase hz="无尽" py="wú,jìn" info="无穷尽的" />
+		<phrase hz="物尽其用" py="wù,jìn,qí,yòng" info="各种东西凡有可用之处，都要尽量利用。指充分利用资源，一点不浪费。 " />
+		<phrase hz="小尽" py="xiǎo,jìn" info="指夏历小月。亦指小月的末日。" />
+		<phrase hz="用尽" py="yòng,jìn" />
+		<phrase hz="自尽" py="zì,jìn" info="自杀" />
 		<definition id="一">
 			<item id="1" text="完毕：用~力气. 说不~的好处. (引)达到极端：~善~美. ~头. [自尽]自杀。" />
 			<item id="2" text="全部用出：~心. ~力. 仁至义~. (引)竭力做到：~职." />
@@ -79,6 +127,24 @@
 	<char hz="靳" py="jìn" />
 	<char hz="妗" py="jìn" />
 	<char hz="劲" py="jìn" multi="jìng" main="1">
+		<phrase hz="吃劲" py="chī,jìn" info="1.费力气。2.经得住。3.〈方〉关系重大，要紧。" />
+		<phrase hz="闯劲" py="chuǎng,jìn" info="猛冲猛干或勇于创新的劲头。" />
+		<phrase hz="带劲" py="dài,jìn" info="1.有力量，有生气。2.引起兴趣。" />
+		<phrase hz="对劲" py="duì,jìn" info="1.合适；对头；称心。2.比力气。" />
+		<phrase hz="费劲" py="fèi,jìn" info="使劲，奋发，努力" />
+		<phrase hz="干劲" py="gàn,jìn" info="做事的积极性。" />
+		<phrase hz="后劲" py="hòu,jìn" info="1.显露较慢的作用或力量。2.其原因已停歇了一段时间后出现的效应。3.耐久力。4.古时指行军时殿后的精兵。" />
+		<phrase hz="加劲" py="jiā,jìn" info="增加气力;努力。" />
+		<phrase hz="较劲" py="jiào,jìn" info="1.各不相让或互不服气，要比出高低。2.坚持自己的想法，不听劝阻。" />
+		<phrase hz="叫劲" py="jiào,jìn" info="较劲;比试。" />
+		<phrase hz="劲头" py="jìn,tóu" info="1.积极的情绪。2.劲儿;力气。" />
+		<phrase hz="来劲" py="lái,jìn" info="1.热心肠、干什么就爱什么。2.立时引起一种情感波动，深深地感动人的状态。" />
+		<phrase hz="没劲" py="méi,jìn" info="1.一点力气也没有。2.毫无趣味。" />
+		<phrase hz="韧劲" py="rèn,jìn" info="坚韧不拔的劲头" />
+		<phrase hz="使劲" py="shǐ,jìn" info="把力用在某件事情上" />
+		<phrase hz="松劲" py="sōng,jìn" info="1.劲头松懈下来。2.降低用力的程度，减少紧张状态。" />
+		<phrase hz="下劲" py="xià,jìn" info="下功夫;使劲" />
+		<phrase hz="懈劲" py="xiè,jìn" info="放松干劲" />
 		<definition id="一">
 			<item text="（-儿）力气，力量：有多大~使多大~. (引)1.效力，作用：酒~儿上来了. 药~不够. 2.精神、情绪、兴趣等：干活儿起~. 一股子~头儿. 一个~儿地做. 老玩儿这个真没~. 3.指属性的程度：你瞧这块布这个白~儿. 咸~儿. 香~儿." />
 		</definition>
@@ -89,6 +155,37 @@
 	<char hz="浸" py="jìn" />
 	<char hz="祲" py="jìn" />
 	<char hz="禁" py="jìn" multi="jīn" main="1">
+		<phrase hz="不禁止" py="bú,jìn,zhǐ" />
+		<phrase hz="弛禁" py="chí,jìn" info="解除禁令，放宽禁令" />
+		<phrase hz="犯禁" py="fàn,jìn" />
+		<phrase hz="海禁" py="hǎi,jìn" />
+		<phrase hz="监禁" py="jiān,jìn" />
+		<phrase hz="禁闭" py="jìn,bì" />
+		<phrase hz="禁地" py="jìn,dì" />
+		<phrase hz="禁锢" py="jìn,gù" />
+		<phrase hz="禁忌" py="jìn,jì" info="1.被禁止或忌讳的言行。2.指医药上应避免的事物。" />
+		<phrase hz="禁绝" py="jìn,jué" info="彻底禁止" />
+		<phrase hz="禁军" py="jìn,jūn" info="古代称保卫京城或宫廷的军队" />
+		<phrase hz="禁令" py="jìn,lìng" info="禁止某种活动的法令" />
+		<phrase hz="禁脔" py="jìn,luán" />
+		<phrase hz="禁律" py="jìn,lǜ" />
+		<phrase hz="禁区" py="jìn,qū" />
+		<phrase hz="禁曲" py="jìn,qǔ" />
+		<phrase hz="禁书" py="jìn,shū" />
+		<phrase hz="禁卫" py="jìn,wèi" info="1.古时指保卫京城或宫廷。2.指保卫帝王或京城的卫兵。" />
+		<phrase hz="禁欲" py="jìn,yù" />
+		<phrase hz="禁苑" py="jìn,yuàn" info="1.帝王的园林。2.指宫廷。3.指宫廷文学侍从官署。" />
+		<phrase hz="禁运" py="jìn,yùn" />
+		<phrase hz="禁止" py="jìn,zhǐ" />
+		<phrase hz="解禁" py="jiě,jìn" info="解除禁令" />
+		<phrase hz="开禁" py="kāi,jìn" info="宣布原有的禁令无效" />
+		<phrase hz="门禁" py="mén,jìn" />
+		<phrase hz="囚禁" py="qiú,jìn" />
+		<phrase hz="软禁" py="ruǎn,jìn" />
+		<phrase hz="违禁" py="wéi,jìn" />
+		<phrase hz="宵禁" py="xiāo,jìn" />
+		<phrase hz="幽禁" py="yōu,jìn" />
+		<phrase hz="自禁" py="zì,jìn" info="控制自己的感情" />
 		<definition id="一">
 			<item id="1" text="不许，制止：~止攀折花木. ~赛." />
 			<item id="2" text="法律或习惯上制止的事：入国问~. 犯~." />

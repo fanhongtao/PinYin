@@ -37,10 +37,16 @@
 	</char>
 	<char hz="警" py="jǐng" />
 	<char hz="劲" py="jìng" multi="jìn">
-		<phrase hz="劲旅" py="jìng,lǚ" />
-		<phrase hz="劲敌" py="jìng,dí" />
-		<phrase hz="刚劲" py="gāng,jìng" />
+		<phrase hz="苍劲" py="cāng,jìng" info="老练刚劲" />
+		<phrase hz="刚劲" py="gāng,jìng" info="强劲有力" />
 		<phrase hz="疾风知劲草" py="jí,fēng,zhī,jìng,cǎo" />
+		<phrase hz="劲拔" py="jìng,bá" info="雄健挺拔" />
+		<phrase hz="劲敌" py="jìng,dí" info="强劲的敌人或对手" />
+		<phrase hz="劲旅" py="jìng,lǚ" info="1.精锐的军队;强有力的队伍。2.强有力的军队。" />
+		<phrase hz="劲射" py="jìng,shè" info="快而有力的射球" />
+		<phrase hz="劲直" py="jìng,zhí" info="坚强正直" />
+		<phrase hz="强劲" py="qiáng,jìng" info="强大有力" />
+		<phrase hz="遒劲" py="qiú,jìng" info="强劲有力;刚健有力。多指书画的运笔" />
 		<definition id="二">
 			<item text="坚强有力：~旅. ~敌. 刚~. 疾风知~草." />
 		</definition>
