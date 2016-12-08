@@ -62,7 +62,11 @@
 	</char>
 	<char hz="辆" py="liàng" />
 	<char hz="靓" py="liàng" multi="jìng">
-		<phrase hz="靓女" py="liàng,nǚ" />
+		<phrase hz="靓丽" py="liàng,lì" info="艳丽。" />
+		<phrase hz="靓女" py="liàng,nǚ" info="〈方〉:漂亮的女子(多指年轻的)" />
+		<phrase hz="靓姝" py="liàng,shū" info="艳丽美好。" />
+		<phrase hz="靓仔" py="liàng,zǎi" info="〈方〉:年轻貌美的小伙子。" />
+		<phrase hz="靓装" py="liàng,zhuāng" info="借指浓妆艳抹的女子。" />
 		<definition id="二">
 			<item text="〈方〉漂亮，好看：~女." />
 		</definition>

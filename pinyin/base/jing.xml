@@ -72,6 +72,9 @@
 	<char hz="镜" py="jìng" />
 	<char hz="婧" py="jìng" />
 	<char hz="靓" py="jìng" multi="liàng" main="1">
+		<phrase hz="靓饰" py="jìng,shì" info="妆饰艳丽。" />
+		<phrase hz="靓妆" py="jìng,zhuāng" info="1.浓妆艳抹。2.借指妆饰华美的女子。3.打扮。4.指打扮得很美丽，浓妆艳抹。" />
+		<phrase hz="靓庄" py="jìng,zhuāng" info="1.打扮，妆饰。2.指妆饰艳丽。" />
 		<definition id="一">
 			<item text="妆饰，打扮。" />
 		</definition>
