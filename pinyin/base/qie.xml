@@ -21,7 +21,7 @@
 			<item text="（-子）一年生草本植物，花紫色。果实也叫茄子，紫色，也有白色或绿色的，可以吃。 [番茄]一年生草本植物，花黄色。果实也叫番茄，圆形，熟时红色或黄色，可以吃。也叫“西红柿”。" />
 		</definition>
 	</char>
-	<char hz="且" py="qiě" multi="jū" main="1">
+	<char hz="且" py="qiě" multi="jū" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="连词，表示并列或进一层：既高~大." />
 			<item id="2" text="连词，尚且，表示让步：死~不怕，还怕困难吗？" />
@@ -64,6 +64,8 @@
 	</char>
 	<char hz="箧" py="qiè" />
 	<char hz="趄" py="qiè" multi="jū" main="1">
+		<phrase hz="列趄" py="liè,qie" info="身躯歪斜,脚步不稳" />
+		<phrase hz="趔趔趄趄" py="liè,liè,qiè,qiè" info="立脚不稳，步履踉跄。" />
 		<definition id="一">
 			<item text="倾斜：~着身子." />
 		</definition>

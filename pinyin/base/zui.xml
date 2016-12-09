@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="咀" py="zuǐ" multi="jǔ">
+		<phrase hz="咀脸" py="zuǐ,liǎn" info="脸面，脸色。指态度表情。" />
+		<phrase hz="咀片" py="zuǐ,piàn" info="又称饮片。指经过加工处理，制成片、丝、块、段状，便于煎服的药材。古时药物加工往往不用刀具，而用牙咬，故称。" />
 		<definition id="二">
 			<item text="“嘴”俗作“咀”。" />
 		</definition>
