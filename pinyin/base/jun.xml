@@ -62,6 +62,8 @@
 	</char>
 	<char hz="珺" py="jùn" />
 	<char hz="隽" py="jùn" multi="juàn" main="1">
+		<phrase hz="隽敏" py="jùn,mǐn" info="俊秀敏快。" />
+		<phrase hz="隽秀" py="jùn,xiù" info="1.优异出众。2.指优异出众者。3.清雅秀丽。" />
 		<definition id="二">
 			<item text="同“俊(1)”。" />
 		</definition>
