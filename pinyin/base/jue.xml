@@ -64,7 +64,8 @@
 	</char>
 	<char hz="绝" py="jué" />
 	<char hz="倔" py="jué" multi="juè">
-		<phrase hz="倔强" py="jué,jiàng" />
+		<phrase hz="倔强" py="jué,jiàng" info="（性情）刚强不屈。也作“倔犟”。" />
+		<phrase hz="倔犟" py="jué,jiàng" info="见“倔强”。" />
 		<definition id="一">
 			<item text="义同“倔(二)”，只用于“倔强”。 [倔强](-jiàng)（性情）刚强不屈，固执：性格~~。" />
 		</definition>
@@ -86,6 +87,8 @@
 	<char hz="橛" py="jué" />
 	<char hz="镢" py="jué" />
 	<char hz="蹶" py="jué" multi="juě" main="1">
+		<phrase hz="竭蹶" py="jié,jué" info="1.亦作“竭蹷”。颠仆倾跌，行步匆遽貌。2.尽力。3.枯竭；匮乏。" />
+		<phrase hz="一蹶不振" py="yì,jué,bù,zhèn" info="蹶：栽跟头；振：振作。一跌倒就再也爬不起来。比喻遭受一次挫折以后就再也振作不起来。" />
 		<definition id="一">
 			<item text="跌倒。 (喻)挫折，失败：一~不振." />
 		</definition>
@@ -94,6 +97,7 @@
 	<char hz="谲" py="jué" />
 	<char hz="鐍" py="jué" trans="1" />
 	<char hz="噱" py="jué" multi="xué" main="1">
+		<phrase hz="笑噱" py="xiào,jué" info="大笑" />
 		<definition id="一">
 			<item text="大笑。" />
 		</definition>
@@ -118,6 +122,10 @@
 		</definition>
 	</char>
 	<char hz="倔" py="juè" multi="jué" main="1">
+		<phrase hz="佶倔" py="jí,juè" info="佶屈。" />
+		<phrase hz="倔巴" py="juè,ba" info="〈方〉∶性格直爽执拗,言语行动粗鲁生硬。" />
+		<phrase hz="倔起" py="juè,qǐ" info="1.高高拱起。2.突然兴起。" />
+		<phrase hz="倔然" py="juè,rán" info="生硬鲁莽的样子。" />
 		<definition id="二">
 			<item text="言语直，态度生硬：那老头子真~." />
 		</definition>

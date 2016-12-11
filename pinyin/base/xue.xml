@@ -20,7 +20,7 @@
 		<phrase hz="踅摸" py="xué,mo" />
 	</char>
 	<char hz="噱" py="xué" multi="jué">
-		<phrase hz="发噱" py="fā,xué" />
+		<phrase hz="发噱" py="fā,xué" info="引人发笑；可笑。" />
 		<phrase hz="噱头" py="xué,tóu" />
 		<definition id="二">
 			<item text="〈方〉笑：发~. [噱头]逗笑的话或举动。" />
