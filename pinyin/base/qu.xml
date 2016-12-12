@@ -34,6 +34,7 @@
 	<char hz="袪" py="qū" />
 	<char hz="蛆" py="qū" />
 	<char hz="焌" py="qū" multi="jùn" main="1">
+		<phrase hz="焌油" py="qū,yóu" info="一种烹调方法。把热油浇在菜肴上。" />
 		<definition id="一">
 			<item id="1" text="把燃烧着的东西弄灭。" />
 			<item id="2" text="用不带火苗的火烧烫。" />

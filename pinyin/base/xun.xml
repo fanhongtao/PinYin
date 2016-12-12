@@ -73,5 +73,9 @@
 			<item text="〈方〉（煤气）使人窒息中毒：炉子安上烟筒，就不至于~着了." />
 		</definition>
 	</char>
-	<char hz="蕈" py="xùn" />
+	<char hz="蕈" py="xùn">
+		<definition>
+			<item text="生长在树林里或草地上的某些菌类，形状略像伞，种类很多，无毒的可以吃：松~. 香~." />
+		</definition>
+	</char>
 </pinyin>

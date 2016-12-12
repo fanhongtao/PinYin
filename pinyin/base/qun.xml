@@ -5,6 +5,7 @@
 	<char hz="裙" py="qún" />
 	<char hz="群" py="qún" />
 	<char hz="麇" py="qún" multi="jūn" main="1">
+		<phrase hz="麇集" py="qún,jí" />
 		<definition id="二">
 			<item text="成群。 [麇集]许多人或物聚集在一起。" />
 		</definition>
