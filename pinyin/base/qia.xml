@@ -10,10 +10,16 @@
 	<char hz="葜" py="qiā" />
 	<char hz="拤" py="qiá" />
 	<char hz="卡" py="qiǎ" multi="kǎ">
-		<phrase hz="卡子" py="qiǎ,zi" />
-		<phrase hz="关卡" py="guān,qiǎ" />
-		<phrase hz="发卡" py="fà,qiǎ" />
+		<phrase hz="边卡" py="biān,qiǎ" info="边界上设置的哨所或关卡" />
+		<phrase hz="发卡" py="fà,qiǎ" info="头发夹子。" />
+		<phrase hz="关卡" py="guān,qiǎ" info="检查人、车或征收税赋的关口" />
+		<phrase hz="卡脖子" py="qiǎ,bó,zi" info="用双手掐住别人的脖子,比喻抓住对方要害,置之于死地。" />
+		<phrase hz="卡具" py="qiǎ,jù" info="用于夹住工件的夹具。" />
+		<phrase hz="卡壳" py="qiǎ,ké" info="1.枪械中的弹壳不能退出来而影响发射。2.说话或办事不顺利而停顿。" />
 		<phrase hz="卡住" py="qiǎ,zhù" />
+		<phrase hz="卡子" py="qiǎ,zi" />
+		<phrase hz="哨卡" py="shào,qiǎ" info="在边境或交通要道上设置的哨所，用以执行特定任务" />
+		<phrase hz="税卡" py="shuì,qiǎ" info="设站征税的地方。" />
 		<definition id="一">
 			<item id="1" text="（-子）在交通要道设置的检查或收税的地方：关~." />
 			<item id="2" text="（-子）夹东西的器具：头发~子." />
