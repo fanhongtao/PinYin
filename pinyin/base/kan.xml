@@ -2,10 +2,11 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="刊" py="kān" />
 	<char hz="看" py="kān" multi="kàn">
-		<phrase hz="看门" py="kān,mén" />
-		<phrase hz="看家" py="kān,jiā" />
-		<phrase hz="看守" py="kān,shǒu" />
 		<phrase hz="看护" py="kān,hù" />
+		<phrase hz="看家" py="kān,jiā" />
+		<phrase hz="看门" py="kān,mén" />
+		<phrase hz="看守" py="kān,shǒu" />
+		<phrase hz="看押" py="kān,yā" info="临时拘禁" />
 		<definition id="二">
 			<item text="守护：~门. ~家. ~守. (转)监视：把他~起来. [看护]1.护理。 2.旧时称护士。" />
 		</definition>
@@ -36,7 +37,9 @@
 	<char hz="顑" py="kǎn" trans="1">
 		<phrase hz="顑颔" py="kǎn,hàn" />
 	</char>
-	<char hz="看" py="kàn" multi="kān" main="1">
+	<char hz="看" py="kàn" multi="kān" main="1" suppressLog="1">
+		<phrase hz="看重" py="kàn,zhòng" info="重视" />
+		<phrase hz="看中" py="kàn,zhòng" info="观察后感觉中意" />
 		<definition id="一">
 			<item id="1" text="瞧，瞅：~书. ~电影." />
 			<item id="2" text="观察（(连)察-）：~脉. ~透. (引)诊治：~病. 大夫把我的病~好了." />
