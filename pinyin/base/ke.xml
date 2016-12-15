@@ -32,6 +32,20 @@
 	<char hz="磕" py="kē" />
 	<char hz="瞌" py="kē" />
 	<char hz="壳" py="ké" multi="qiào" main="1">
+		<phrase hz="蚌壳" py="bàng,ké" />
+		<phrase hz="贝壳" py="bèi,ké" />
+		<phrase hz="出壳" py="chū,ké" info="鸟或虫类的胚胎在卵内发育完成后破壳而出。" />
+		<phrase hz="蛋壳" py="dàn,ké" />
+		<phrase hz="卵壳" py="luǎn,ké" info="卵生动物卵子外面所包围着的坚硬或坚韧的保护层，具有与外界进行气体交换小孔。" />
+		<phrase hz="壳壳" py="ké,ké" />
+		<phrase hz="壳果" py="ké,guǒ" info="带硬壳的果品。" />
+		<phrase hz="壳叶" py="ké,yè" info="硬封面。" />
+		<phrase hz="脑壳" py="nǎo,ké" />
+		<phrase hz="破壳" py="pò,ké" />
+		<phrase hz="蜕壳" py="tuì,ké" info="1.犹蜕皮。2.指遗骸。" />
+		<phrase hz="外壳" py="wài,ké" />
+		<phrase hz="蚬壳" py="xiǎn,ké" info="蚬子的甲壳。" />
+		<phrase hz="硬壳" py="yìng,ké" />
 		<definition id="一">
 			<item text="（-儿）坚硬的外皮：核桃~儿. 鸡蛋~儿. 贝~儿." />
 		</definition>

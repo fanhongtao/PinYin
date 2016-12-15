@@ -69,8 +69,11 @@
 	</char>
 	<char hz="愀" py="qiǎo" />
 	<char hz="壳" py="qiào" multi="ké">
-		<phrase hz="甲壳" py="jiǎ,qiào" />
 		<phrase hz="地壳" py="dì,qiào" />
+		<phrase hz="甲壳" py="jiǎ,qiào" info="动物身上的坚硬外壳，如乌龟、虾、蟹等" />
+		<phrase hz="金蝉脱壳" py="jīn,chán,tuō,qiào" info="蝉变为成虫时要脱去一层壳。比喻用计脱身，使人不能及时发觉。" />
+		<phrase hz="壳菜" py="qiào,cài" info="1.用以称有壳的海贝。指蛤蜊。2.用以称有壳的海贝。指贻贝。通常指其肉，俗称淡菜。" />
+		<phrase hz="躯壳" py="qū,qiào" info="指有形的身体;肉体(对精神而言)。" />
 		<definition id="二">
 			<item text="坚硬的外皮：甲~. 地~." />
 		</definition>
