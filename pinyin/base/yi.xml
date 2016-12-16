@@ -42,6 +42,7 @@
 	<char hz="衣" py="yī" multi="yì" main="1">
 		<phrase hz="衣服" py="yī,fu" />
 		<phrase hz="衣裳" py="yī,shang" />
+		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
 		<definition id="一">
 			<item id="1" text="衣服(fu)，衣裳(shang)。" />
 			<item id="2" text="披在或包在物体外面的东西：炮~. 糖~炮弹." />

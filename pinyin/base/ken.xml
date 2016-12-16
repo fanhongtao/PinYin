@@ -11,7 +11,7 @@
 	</char>
 	<char hz="垦" py="kěn" />
 	<char hz="恳" py="kěn" />
-	<char hz="龈" py="kěn" multi="yín" main="1">
+	<char hz="龈" py="kěn" multi="yín">
 		<definition id="二">
 			<item text="同“啃”。" />
 		</definition>
