@@ -1,6 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="空" py="kōng" multi="kòng" main="1">
+		<phrase hz="航空" py="háng,kōng" info="人在大气层中的飞行活动。包括使用飞机、飞艇、氢气球等各种飞行器，但一般多指使用飞机而言。" />
+		<phrase hz="空城" py="kōng,chéng" />
+		<phrase hz="空荡" py="kōng,dàng" info="（房屋、场地等）很空。" />
+		<phrase hz="空洞" py="kōng,dòng" info="1.物体内的空隙。2.不着边际，缺乏实质内容。" />
+		<phrase hz="空泛" py="kōng,fàn" info="没有具体内容的泛泛之论。" />
+		<phrase hz="空腹" py="kōng,fù" />
+		<phrase hz="空谷" py="kōng,gǔ" info="空旷幽深的山谷。多指贤者隐居的地方。" />
+		<phrase hz="空话" py="kōng,huà" />
+		<phrase hz="空间" py="kōng,jiān" />
+		<phrase hz="空姐" py="kōng,jiě" />
+		<phrase hz="空军" py="kōng,jūn" />
+		<phrase hz="空空如也" py="kōng,kōng,rú,yě" info="空空：诚恳，虚心。原形容诚恳、虚心的样子。现形容一无所有。" />
+		<phrase hz="空口无凭" py="kōng,kǒu,wú,píng" info="单凭嘴说而没有什么作为凭据。只要用实物来证明。" />
+		<phrase hz="空旷" py="kōng,kuàng" info="视野开阔，无任何阻挡物" />
+		<phrase hz="空灵" py="kōng,líng" info="灵活而无法捉摸" />
+		<phrase hz="空论" py="kōng,lùn" info="空洞不切实际的言论" />
+		<phrase hz="空难" py="kōng,nàn" info="指飞机等在飞行中发生故障、遭遇自然灾害或其他意外事故所造成的灾难" />
+		<phrase hz="空气" py="kōng,qì" />
+		<phrase hz="空前绝后" py="kōng,qián,jué,hòu" info="从前没有过，今后也不会再有。夸张性地形容独一无二。" />
+		<phrase hz="空谈" py="kōng,tán" />
+		<phrase hz="空调" py="kōng,tiáo" />
+		<phrase hz="空投" py="kōng,tóu" />
+		<phrase hz="空头" py="kōng,tóu" />
+		<phrase hz="空袭" py="kōng,xí" />
+		<phrase hz="空想" py="kōng,xiǎng" info="1.不从实际出发的想法。2.无根据地设想。" />
+		<phrase hz="空心" py="kōng,xīn" />
+		<phrase hz="空虚" py="kōng,xū" info="里面没有什么实在东西的;不充实的。" />
+		<phrase hz="空穴来风" py="kōng,xué,lái,fēng" info="穴：孔、洞；来：招致。有了洞穴才进风。比喻消息和谣言的传播不是完全没有原因的。也比喻流言乘机会传开来。 " />
+		<phrase hz="空言" py="kōng,yán" info="1.谓不切实际的话。2.谓只起褒贬作用而不见用于当世的言论主张。" />
+		<phrase hz="空运" py="kōng,yùn" />
+		<phrase hz="空中" py="kōng,zhōng" info="1.作为飞机活动的场所。2.中间是空的。" />
+		<phrase hz="落空" py="luò,kōng" info="1.毫无结果，没有着落。2.遭受彻底失败。" />
+		<phrase hz="凭空" py="píng,kōng" info="1.没有证据地。2.在空中;凌空。" />
+		<phrase hz="时空" py="shí,kōng" info="时间和空间" />
+		<phrase hz="晴空" py="qíng,kōng" />
+		<phrase hz="太空" py="tài,kōng" />
+		<phrase hz="天空" py="tiān,kōng" />
+		<phrase hz="星空" py="xīng,kōng" info="缀满星星的夜空" />
+		<phrase hz="夜空" py="yè,kōng" />
+		<phrase hz="真空" py="zhēn,kōng" />
 		<definition id="一">
 			<item id="1" text="里面没有东西或没有内容，不合实际的：~房子. ~碗. ~话. ~想. ~谈. [空洞]没有内容的：他说的话很~~. [空头]不发生作用的，有名无实的：~~支票. [凭空]无根据：~~捏造. [真空]没有空气的空间：~~管. ~~地带（战争时双方没有军队的地带）." />
 			<item id="2" text="无着落，无成效，无结果：~跑了一趟. ~忙一阵. 落~. 扑了个~." />
@@ -11,7 +51,7 @@
 	<char hz="崆" py="kōng">
 		<phrase hz="崆峒" py="kōng,tóng" />
 		<definition>
-			<item text="[崆峒](-tóng)1.山名，在甘肃省平凉。 2.岛名，在山东省烟台。"/>
+			<item text="[崆峒](-tóng)1.山名，在甘肃省平凉。 2.岛名，在山东省烟台。" />
 		</definition>
 	</char>
 	<char hz="箜" py="kōng">
@@ -25,9 +65,17 @@
 		<phrase hz="倥偬" py="kǒng,zǒng" />
 	</char>
 	<char hz="空" py="kòng" multi="kōng">
-		<phrase hz="空儿" py="kòng,zi" />
+		<phrase hz="抽空" py="chōu,kòng" />
+		<phrase hz="空白" py="kòng,bái" info="空着的地方;没有填满的部分--用于纸张或其他通常可以写字的东西" />
+		<phrase hz="空地" py="kòng,dì" info="可以使用的、未被占用的地" />
+		<phrase hz="空额" py="kòng,é" info="空着的名额" />
+		<phrase hz="空儿" py="kòng,er" />
+		<phrase hz="空缺" py="kòng,quē" info="1.欠缺部分。2.空出来的职位、名额。" />
+		<phrase hz="空隙" py="kòng,xì" info="1.中间空着的地方;尚未占用的时间。2.空旷间隙。3.相似的情况或状态再现的时间间隔。" />
+		<phrase hz="空闲" py="kòng,xián" />
 		<phrase hz="空子" py="kòng,zi" />
 		<phrase hz="亏空" py="kuī,kong" />
+		<phrase hz="没空" py="méi,kòng" info="1.没有空子，无可乘之机。2.没有空闲。" />
 		<definition id="二">
 			<item id="1" text="使空，腾出来：~一个格. ~出一间房子. 想法~出一些时间来." />
 			<item id="2" text="闲着，没被利用的：~房. ~地." />
