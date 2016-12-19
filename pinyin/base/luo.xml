@@ -81,11 +81,13 @@
 			<item text="山上的大石。" />
 		</definition>
 	</char>
-	<char hz="落" py="luò" multi="là,lào" main="1">
+	<char hz="落" py="luò" multi="là,lào" main="1" suppressLog="1">
 		<phrase hz="没落" py="mò,luò" />
 		<phrase hz="落泊" py="luò,bó" />
+		<phrase hz="落难" py="luò,nàn" />
 		<phrase hz="落魄" py="luò,pò" />
 		<phrase hz="落拓" py="luò,tuò" />
+		<phrase hz="落叶" py="luò,yè" />
 		<definition id="一">
 			<item id="1" text="掉下来，往下降：~泪. 飞机降~. 太阳~山了." />
 			<item id="2" text="衰败：没(mò)~. 破~户." />

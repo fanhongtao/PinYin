@@ -3,7 +3,7 @@
 	<char hz="垃" py="lā">
 		<phrase hz="垃圾" py="lā,jī" />
 	</char>
-	<char hz="拉" py="lā" multi="lá" main="1">
+	<char hz="拉" py="lā" multi="lá" main="1" suppressLog="1">
 		<phrase hz="拉倒" py="lā,dǎo" />
 		<phrase hz="拉祜族" py="lā,hù,zú" />
 		<definition id="一">
@@ -20,6 +20,10 @@
 		</definition>
 	</char>
 	<char hz="啦" py="lā" multi="la" main="1">
+		<phrase hz="呼啦" py="hū,lā" info="象声词。形容风吹物体发出的声音。" />
+		<phrase hz="呼啦啦" py="hū,lā,lā" info="亦作“ 呼喇喇 ”。象声词。多形容风声、流水声、鸟振翅声等。" />
+		<phrase hz="叽哩呱啦" py="jī,lǐ,guā,lā" info="形容嚷嚷声或说的话别人听不懂。" />
+		<phrase hz="哇啦" py="wā,lā" info="形容吵闹的人声" />
 		<definition id="一">
 			<item text="拟声词：呼~~. 哇~乱叫. 叽哩呱~." />
 		</definition>
@@ -34,7 +38,7 @@
 		</definition>
 	</char>
 	<char hz="砬" py="lá" />
-	<char hz="剌" py="lá" multi="là" main="1">
+	<char hz="剌" py="lá" multi="là">
 		<definition id="二">
 			<item text="划破，割开。 同“拉”(lá)。" />
 		</definition>
@@ -43,9 +47,10 @@
 		<phrase hz="喇叭" py="lǎ,ba" />
 		<phrase hz="喇嘛" py="lǎ,ma" />
 	</char>
-	<char hz="剌" py="là" multi="lá">
+	<char hz="剌" py="là" multi="lá" main="1">
 		<phrase hz="乖剌" py="guāi,là" />
 		<phrase hz="剌谬" py="là,miù" />
+		<phrase hz="剌戾" py="là,lì" info="违逆。" />
 		<definition id="一">
 			<item text="〈古〉违背常情、事理，乖张：乖~. ~谬." />
 		</definition>
@@ -61,12 +66,22 @@
 		</definition>
 	</char>
 	<char hz="腊" py="là" multi="xī" main="1">
+		<phrase hz="伏腊" py="fú,là" info="1.亦作“ 伏臈 ”。古代两种祭祀的名称。“伏”在夏季伏日，“腊”在农历十二月。2.指伏祭和腊祭之日，或泛指节日。3.借指生活或生活所需的物质资料。" />
+		<phrase hz="腊八" py="là,bā" info="农历十二月初八。民间有在这一天喝腊八粥的习俗" />
+		<phrase hz="腊肠" py="là,cháng" />
+		<phrase hz="腊祭" py="là,jì" info="古时岁终祭祀。" />
+		<phrase hz="腊梅" py="là,méi" />
+		<phrase hz="腊日" py="là,rì" info="1.古时腊祭之日。农历十二月初八。2.泛指农历十二月的时候。" />
+		<phrase hz="腊肉" py="là,ròu" />
+		<phrase hz="腊味" py="là,wèi" info="1.指腊酒。2.腊鱼、腊肉、腊鸡、腊鸭等食品的总称。" />
+		<phrase hz="腊药" py="là,yào" info="腊冬所制药剂。多供滋补用。" />
+		<phrase hz="腊月" py="là,yuè" info="农历十二月" />
 		<definition id="一">
 			<item id="1" text="古代在夏历十二月举行的一种祭祀。 (转)夏历十二月：~八（夏历十二月初八）. ~肉（腊月或冬天腌制后风干或熏干的肉）." />
 			<item id="2" text="姓。" />
 		</definition>
 	</char>
-	<char hz="蜡" py="là" multi="zhà" main="1">
+	<char hz="蜡" py="là" multi="zhà" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="动物、植物或矿物所产生的某些油质，具有可塑性，易熔化，不溶于水，如蜂蜡、白蜡、石蜡等。" />
 			<item id="2" text="蜡烛，用蜡或其他油脂制成的照明的东西，多为圆柱形，中心有捻，可以燃点。" />
