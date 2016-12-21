@@ -4,6 +4,7 @@
 	<char hz="劳" py="láo" />
 	<char hz="唠" py="láo" multi="lào">
 		<phrase hz="唠叨" py="láo,dao" />
+		<phrase hz="唠唠叨叨" py="láo,lao,dāo,dāo" info="形容言语絮叨。" />
 		<definition id="二">
 			<item text="[唠叨](-dao)没完没了地说，絮叨：人老了就爱~~." />
 		</definition>
@@ -39,8 +40,15 @@
 			<item text="同“络(一)(1)”，用于一些口语词。 [络子](-zi)1.用线绳结成的网状袋子。 2.绕线等的器具。" />
 		</definition>
 	</char>
-	<char hz="烙" py="lào" multi="luò" main="1">
+	<char hz="烙" py="lào" multi="luò" main="1" suppressLog="1">
+		<phrase hz="电烙铁" py="diàn,lào,tiě" info="1.见电烫斗。2.焊接用的电熔焊料的器具。" />
+		<phrase hz="烙饼" py="lào,bǐng" info="稀面糊做成的薄饼，主要由面粉(如属于小麦或荞麦的)和液体组成，经酵母发酵和在铁盘中两面反复烙成" />
+		<phrase hz="烙痕" py="lào,hén" info="烙印" />
+		<phrase hz="烙花" py="lào,huā" info="亦称烫花。将铁扦子烧热，在竹木用品及家具表面烫烙出花样图形的一种手工工艺" />
 		<phrase hz="烙铁" py="lào,tie" />
+		<phrase hz="烙印" py="lào,yìn" info="1.烫在人、动物或器物上的火印。多比喻不易磨灭的痕迹。2.用火烧铁在牲畜或器物上烫成痕迹;比喻深刻地留下印象。" />
+		<phrase hz="火烙铁" py="huǒ,lào,tiě" info="兽医用来烫烙或烧灼马匹的烙铁。" />
+		<phrase hz="印烙" py="yìn,lào" info="1.在牲畜或器物上烫火印。2.比喻留下不易磨灭的痕迹。" />
 		<definition id="一">
 			<item id="1" text="用器物烫、熨：~铁(tie). ~衣服. [烙印]在器物上烧成的做标记的印文。(喻)不易磨灭的痕迹：时代~~." />
 			<item id="2" text="放在器物上煮熟：~饼." />
@@ -55,6 +63,13 @@
 	</char>
 	<char hz="酪" py="lào" />
 	<char hz="唠" py="lào" multi="láo" main="1">
+		<phrase hz="唠扯" py="lào,che" info="〈方〉闲聊，谈天，交谈" />
+		<phrase hz="唠哆" py="lào,duō" info="说话啰嗦不止。" />
+		<phrase hz="唠喀" py="lào,kā" info="犹唠嗑。" />
+		<phrase hz="唠嗑" py="lào,kē" info="闲谈，聊天。" />
+		<phrase hz="唠唠" py="lào,lào" info="形容言语絮叨。" />
+		<phrase hz="谈唠" py="tán,lào" info="方言。闲谈。" />
+		<phrase hz="闲唠" py="xián,lào" info="亦作“闲嘮”。方言。犹闲谈。" />
 		<definition id="一">
 			<item text="〈方〉说话，闲谈：来，咱们~一~." />
 		</definition>

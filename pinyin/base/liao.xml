@@ -21,6 +21,7 @@
 	<char hz="嘹" py="liáo" />
 	<char hz="獠" py="liáo" />
 	<char hz="潦" py="liáo" multi="lǎo" main="1">
+		<phrase hz="潦草" py="liáo,cǎo" />
 		<phrase hz="潦倒" py="liáo,dǎo" />
 		<definition id="二">
 			<item text="[潦倒](-dǎo)颓丧，不得意：穷困~~. [潦草]草率，不精细：工作不能~~. 字写得太~~." />
