@@ -22,11 +22,11 @@
 		<phrase hz="月子" py="yuè,zi" />
 		<phrase hz="月氏" py="yuè,zhī" />
 		<definition>
-			<item id="1" text="月亮，地球的卫星，本身不发光，它的光是反射太阳的光。 [月食]（*月蚀）地球在日、月中间成一条直线，遮住太阳照到月亮上的光。"/>
-			<item id="2" text="计时单位，一年分十二个月。 [月子](-zi)指妇女生产后的一个月内的时间：坐~~."/>
-			<item id="3" text="形状像月亮的，圆的：~饼. ~琴."/>
-			<item id="4" text="按月出现或完成的：~经. ~刊. ~票. ~报表."/>
-			<item text="[月氏](-zhī)我国古代西部民族名。"/>
+			<item id="1" text="月亮，地球的卫星，本身不发光，它的光是反射太阳的光。 [月食]（*月蚀）地球在日、月中间成一条直线，遮住太阳照到月亮上的光。" />
+			<item id="2" text="计时单位，一年分十二个月。 [月子](-zi)指妇女生产后的一个月内的时间：坐~~." />
+			<item id="3" text="形状像月亮的，圆的：~饼. ~琴." />
+			<item id="4" text="按月出现或完成的：~经. ~刊. ~票. ~报表." />
+			<item text="[月氏](-zhī)我国古代西部民族名。" />
 		</definition>
 	</char>
 	<char hz="刖" py="yuè" />
@@ -38,9 +38,24 @@
 		</definition>
 	</char>
 	<char hz="乐" py="yuè" multi="lè">
+		<phrase hz="哀乐" py="āi,yuè" />
+		<phrase hz="鼓乐" py="gǔ,yuè" />
+		<phrase hz="管乐" py="guǎn,yuè" />
+		<phrase hz="交响乐" py="jiāo,xiǎng,yuè" />
+		<phrase hz="军乐" py="jūn,yuè" info="俗称用管乐器和打击乐器演奏的音乐，因为军队中常用而得名" />
+		<phrase hz="民乐" py="mín,yuè" info="民间的音乐" />
+		<phrase hz="器乐" py="qì,yuè" />
+		<phrase hz="声乐" py="shēng,yuè" />
 		<phrase hz="音乐" py="yīn,yuè" />
-		<phrase hz="奏乐" py="zòu,yuè" />
+		<phrase hz="乐队" py="yuè,duì" />
+		<phrase hz="乐理" py="yuè,lǐ" info="音乐的道理、法则。" />
+		<phrase hz="乐谱" py="yuè,pǔ" />
+		<phrase hz="乐器" py="yuè,qì" />
 		<phrase hz="乐清" py="yuè,qīng" />
+		<phrase hz="乐曲" py="yuè,qǔ" />
+		<phrase hz="乐手" py="yuè,shǒu" info="演奏音乐的人。" />
+		<phrase hz="乐团" py="yuè,tuán" />
+		<phrase hz="奏乐" py="zòu,yuè" />
 		<definition id="二">
 			<item id="1" text="音乐：奏~. [乐清]地名，在浙江省。" />
 			<item id="2" text="姓。" />

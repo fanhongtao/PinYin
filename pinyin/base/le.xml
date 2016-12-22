@@ -10,7 +10,12 @@
 	<char hz="叻" py="lè" />
 	<char hz="泐" py="lè" />
 	<char hz="竻" py="lè" />
-	<char hz="勒" py="lè" multi="lēi" main="1">
+	<char hz="勒" py="lè" multi="lēi" main="1" suppressLog="1">
+		<phrase hz="贝勒" py="bèi,lè" info="全称多罗贝勒。满语，贵族称号，相当于王或诸侯，地位次于亲王、郡王，是清代贵族的世袭封爵" />
+		<phrase hz="勾勒" py="gōu,lè" />
+		<phrase hz="勒令" py="lè,lìng" />
+		<phrase hz="勒索" py="lè,suǒ" />
+		<phrase hz="弥勒" py="mí,lè" info="梵语Maitreya音译，意译“慈氏”。著名的未来佛。我国的 弥勒 塑像胸腹坦露，面带笑容。传说 五代 时 布袋和尚 是其化身。" />
 		<definition id="一">
 			<item id="1" text="套在牲畜头上带嚼子的笼头。" />
 			<item id="2" text="收住缰绳不使前进：悬崖~马." />
@@ -22,8 +27,37 @@
 	<char hz="鳓" py="lè" />
 	<char hz="乐" py="lè" multi="yuè" main="1">
 		<phrase hz="安乐" py="ān,lè" />
+		<phrase hz="逗乐" py="dòu,lè" />
+		<phrase hz="欢乐" py="huān,lè" />
 		<phrase hz="极乐" py="jí,lè" info="1.尽情娱乐。2.非常快乐。3.指极乐世界。4.借指佛经。" />
+		<phrase hz="康乐" py="kāng,lè" />
+		<phrase hz="可乐" py="kě,lè" />
+		<phrase hz="快乐" py="kuài,lè" />
+		<phrase hz="乐不可支" py="lè,bù,kě,zhī" />
+		<phrase hz="乐不思蜀" py="lè,bù,sī,shǔ" />
+		<phrase hz="乐而忘返" py="lè,ér,wàng,fǎn" />
+		<phrase hz="乐观" py="lè,guān" />
+		<phrase hz="乐极生悲" py="lè,jí,shēng,bēi" />
 		<phrase hz="乐趣" py="lè,qù" />
+		<phrase hz="乐事" py="lè,shì" />
+		<phrase hz="乐善好施" py="lè,shàn,hào,shī" />
+		<phrase hz="乐天" py="lè,tiān" info="乐于顺应天命，引申为乐于自己的处境而无忧虑" />
+		<phrase hz="乐土" py="lè,tǔ" />
+		<phrase hz="乐玩" py="lè,wán" info="玩乐之物。" />
+		<phrase hz="乐意" py="lè,yì" />
+		<phrase hz="乐于" py="lè,yú" />
+		<phrase hz="乐园" py="lè,yuán" />
+		<phrase hz="乐在其中" py="lè,zài,qí,zhōng" />
+		<phrase hz="乐子" py="lè,zi" />
+		<phrase hz="闷闷不乐" py="mèn,mèn,bú,lè" info="闷闷：心情不舒畅，心烦。形容心事放不下，心里不快活。 " />
+		<phrase hz="取乐" py="qǔ,lè" />
+		<phrase hz="玩乐" py="wán,lè" />
+		<phrase hz="享乐" py="xiǎng,lè" />
+		<phrase hz="寻欢作乐" py="xún,huān,zuò,lè" />
+		<phrase hz="怏怏不乐" py="yāng,yāng,bú,lè" info="怏怏：形容不满意的神情。心中郁闷，很不快活。 " />
+		<phrase hz="鞅鞅不乐" py="yāng,yāng,bú,lè" info="因不满意而很不快乐。鞅，通“怏”。" />
+		<phrase hz="娱乐" py="yú,lè" />
+		<phrase hz="助人为乐" py="zhù,rén,wéi,lè" />
 		<definition id="一">
 			<item id="1" text="快乐，欢喜，快活：~趣. ~事. ~而忘返." />
 			<item id="2" text="乐于：~此不疲. [乐得]正好，正合心愿：~~这样做." />
@@ -33,6 +67,7 @@
 		</definition>
 	</char>
 	<char hz="了" py="le" multi="liǎo" main="1">
+		<phrase hz="除了" py="chú,le" />
 		<definition id="二" text="助词。">
 			<item id="1" text="放在动词或形容词后，表示动作或变化已经完成：买~一本书. 水位低~两尺." />
 			<item id="2" text="用在句子末尾或句中停顿的地方，表示变化或出现新的情况。 1.指明已经出现或将要出现某种情况：下雨~. 明天就是星期日~. 2.认识、想法、主张、行动等有变化：我现在明白他的意思~. 他今年暑假不回家~. 我本来没打算去，后来还是去~. 3.随假设的条件转移：你早来一天就见着他~. 4.催促或劝止：走~，走~，不能再等~！ 算~，不要老说这些事~！" />

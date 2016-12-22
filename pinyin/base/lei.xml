@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="勒" py="lēi" multi="lè">
+		<phrase hz="勒脖" py="lēi,bó" info="粗暴地掐住脖子" />
 		<phrase hz="勒紧" py="lēi,jǐn" />
 		<definition id="二">
 			<item text="用绳子等捆住或套住，再用力拉紧：~紧点，免得散(sǎn)了." />
@@ -52,7 +53,13 @@
 	<char hz="磊" py="lěi" />
 	<char hz="蕾" py="lěi" />
 	<char hz="儡" py="lěi" />
-	<char hz="肋" py="lèi" multi="lē" main="1">
+	<char hz="肋" py="lèi" multi="lē" main="1" suppressLog="1">
+		<phrase hz="肋骨" py="lèi,gǔ" />
+		<phrase hz="肋条" py="lèi,tiáo" />
+		<phrase hz="两肋" py="liǎng,lèi" />
+		<phrase hz="鸡肋" py="jī,lèi" />
+		<phrase hz="脊肋" py="jǐ,lèi" />
+		<phrase hz="软肋" py="ruǎn,lèi" />
 		<definition id="一">
 			<item text="胸部的两旁：两~. ~骨." />
 		</definition>

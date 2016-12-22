@@ -45,17 +45,29 @@
 	</char>
 	<char hz="髎" py="liáo" />
 	<char hz="了" py="liǎo" multi="le">
-		<phrase hz="明了" py="míng,liǎo" />
-		<phrase hz="一目了然" py="yí,mù,liǎo,rán" />
-		<phrase hz="不甚了了" py="bù,shèn,liǎo,liǎo" />
-		<phrase hz="了解" py="liǎo,jiě" />
-		<phrase hz="未了" py="wèi,liǎo" />
+		<phrase hz="不了" py="bù,liǎo" />
 		<phrase hz="不了了之" py="bù,liǎo,liǎo,zhī" />
-		<phrase hz="没完没了" py="méi,wán,méi,liǎo" />
+		<phrase hz="不甚了了" py="bù,shèn,liǎo,liǎo" />
 		<phrase hz="敷衍了事" py="fū,yǎn,liǎo,shì" />
-		<phrase hz="了当" py="liǎo,dāng" />
+		<phrase hz="公了" py="gōng,liǎo" info="双方发生纠纷，通过主管部门或司法程序了结（跟“私了”相对）。" />
 		<phrase hz="了不得" py="liǎo,bu,de" />
+		<phrase hz="了当" py="liǎo,dàng" />
+		<phrase hz="了断" py="liǎo,duàn" info="决断，了结" />
 		<phrase hz="了得" py="liǎo,de" />
+		<phrase hz="了结" py="liǎo,jié" info="1.处理或办理[某事]至于完结。2.变得没人感兴趣了。" />
+		<phrase hz="了解" py="liǎo,jiě" info="1.知道得清楚。2.调查;询问。" />
+		<phrase hz="了却" py="liǎo,què" info="了结;办理好" />
+		<phrase hz="了然" py="liǎo,rán" info="1.明白；清楚。2.全然。3.眼明貌。4.明白；清楚。" />
+		<phrase hz="了悟" py="liǎo,wù" info="大彻大悟;醒悟。" />
+		<phrase hz="了账" py="liǎo,zhàng" info="1.〈方〉结清账目，比喻事情完结。2.死;结果了性命。" />
+		<phrase hz="明了" py="míng,liǎo" info="1.清楚地懂得。2.清楚地知道。3.清晰;明白。4.自觉察觉到。" />
+		<phrase hz="末了" py="mò,liǎo" info="1.最后;一连串事物的最后部分。2.最后;结束或完成一连串的事件或行动。" />
+		<phrase hz="没完没了" py="méi,wán,méi,liǎo" />
+		<phrase hz="私了" py="sī,liǎo" info="谓产生纠纷，不经过司法、行政等部门而私下了结。" />
+		<phrase hz="未了" py="wèi,liǎo" info="1.没有了却、结束。2.漫漫，没有终点。" />
+		<phrase hz="一目了然" py="yí,mù,liǎo,rán" />
+		<phrase hz="知了" py="zhī,liǎo" />
+		<phrase hz="终了" py="zhōng,liǎo" info="结束;完毕" />
 		<definition id="一">
 			<item id="1" text="明白：明~. 一目~然. 不甚~~. [了解]弄明白，懂得很清楚：~~情况." />
 			<item id="2" text="完了，结束：事情已经~了(le). 话犹未~. 不~~之. 没完没~. 不能敷衍~事. [了当]爽快：直截~~." />
