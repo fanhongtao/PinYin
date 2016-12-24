@@ -5,7 +5,7 @@
 	<char hz="崚" py="léng" info="(又)líng">
 		<phrase hz="崚嶒" py="léng,céng" />
 	</char>
-	<char hz="棱" py="léng" multi="líng" main="1">
+	<char hz="棱" py="léng" multi="líng" main="1" suppressLog="1">
 		<definition id="一" text="（-子、-儿）">
 			<item id="1" text="物体上不同方向的两个平面连接的部分：见~见角." />
 			<item id="2" text="物体表面上条状突起部分：瓦~. 搓板的~儿." />
