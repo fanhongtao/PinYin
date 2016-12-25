@@ -95,7 +95,7 @@
 	<char hz="粒" py="lì" />
 	<char hz="笠" py="lì" />
 	<char hz="吏" py="lì" />
-	<char hz="丽" py="lì" multi="lí" main="1">
+	<char hz="丽" py="lì" multi="lí" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="好看，漂亮：美~. 秀~. 壮~. 富~. 风和日~." />
 			<item id="2" text="附着（(连)附-）。" />
@@ -119,6 +119,10 @@
 	<char hz="唳" py="lì" />
 	<char hz="隶" py="lì" />
 	<char hz="栎" py="lì" multi="yuè" main="1">
+		<phrase hz="麻栎" py="má,lì" />
+		<phrase hz="栎木" py="lì,mù" />
+		<phrase hz="栎树" py="lì,shù" />
+		<phrase hz="柞栎" py="zuò,lì" info="栎树。" />
 		<definition id="一">
 			<item text="俗叫“柞(zuò)树”或“麻栎”。落叶乔木，花黄褐色，果实叫橡子或橡斗。木材坚硬，可制家具，供建筑用。树皮可鞣皮或做染料。叶子可喂蚕。另有一种栓皮栎，树皮质地轻软，富有弹性，是制造软木器物的主要原料。" />
 		</definition>
