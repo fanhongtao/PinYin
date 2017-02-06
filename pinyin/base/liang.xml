@@ -9,7 +9,31 @@
 		</definition>
 	</char>
 	<char hz="凉" py="liáng" multi="liàng" main="1">
+		<phrase hz="悲凉" py="bēi,liáng" />
+		<phrase hz="冰凉" py="bīng,liáng" />
+		<phrase hz="苍凉" py="cāng,liáng" />
+		<phrase hz="冲凉" py="chōng,liáng" />
+		<phrase hz="乘凉" py="chéng,liáng" />
+		<phrase hz="风凉" py="fēng,liáng" />
+		<phrase hz="荒凉" py="huāng,liáng" />
+		<phrase hz="凉风" py="liáng,fēng" />
 		<phrase hz="晾快" py="liáng,kuai" />
+		<phrase hz="凉棚" py="liáng,péng" />
+		<phrase hz="凉气" py="liáng,qì" />
+		<phrase hz="凉爽" py="liáng,shuǎng" />
+		<phrase hz="凉水" py="liáng,shuǐ" />
+		<phrase hz="凉亭" py="liáng,tíng" />
+		<phrase hz="凉席" py="liáng,xí" />
+		<phrase hz="凉鞋" py="liáng,xié" />
+		<phrase hz="纳凉" py="nà,liáng" />
+		<phrase hz="凄凉" py="qī,liáng" />
+		<phrase hz="清凉" py="qīng,liáng" />
+		<phrase hz="秋凉" py="qiū,liáng" />
+		<phrase hz="受凉" py="shòu,liáng" />
+		<phrase hz="歇凉" py="xiē,liáng" />
+		<phrase hz="阴凉" py="yīn,liáng" />
+		<phrase hz="荫凉" py="yìn,liáng" />
+		<phrase hz="着凉" py="zháo,liáng" />
 		<definition id="一">
 			<item text="温度低（若指天气，比“冷”和程度浅）：饭~了. 立秋之后天气~了. (喻)灰心或失望：听到这消息，我心里就~了. [凉快](-kuai)1.清凉爽快。 2.乘凉：到外头~~~~去." />
 		</definition>
@@ -19,11 +43,20 @@
 	<char hz="梁" py="liáng" />
 	<char hz="粱" py="liáng" />
 	<char hz="量" py="liáng" multi="liàng">
-		<phrase hz="用斗量米" py="yòng,dǒu,liáng,mǐ" />
-		<phrase hz="用尺量布" py="yòng,chǐ,liáng,bù" />
-		<phrase hz="思量" py="sī,liang" />
-		<phrase hz="思量" py="sī,liang" />
+		<phrase hz="测量" py="cè,liáng" />
 		<phrase hz="打量" py="dǎ,liang" />
+		<phrase hz="掂量" py="diān,liáng" info="1.托在手里上下动动以试重量。2.再三考虑，斟酌。" />
+		<phrase hz="估量" py="gū,liáng" info="估计衡量。" />
+		<phrase hz="衡量" py="héng,liáng" info="1.量度物体的重量和容积。2.考虑斟酌事物的轻重得失。" />
+		<phrase hz="量杯" py="liáng,bēi" info="有刻度的药杯或配药杯" />
+		<phrase hz="量度" py="liáng,dù" info="对某种不能直接测量、观察或表现的东西进行测量或指示的手段" />
+		<phrase hz="量瓶" py="liáng,píng" />
+		<phrase hz="量筒" py="liáng,tǒng" info="用于衡量液体容积的直筒形量具" />
+		<phrase hz="商量" py="shāng,liang" />
+		<phrase hz="思量" py="sī,liang" />
+		<phrase hz="用尺量布" py="yòng,chǐ,liáng,bù" />
+		<phrase hz="用斗量米" py="yòng,dǒu,liáng,mǐ" />
+		<phrase hz="丈量" py="zhàng,liáng" />
 		<definition id="一">
 			<item id="1" text="用器物计算东西的多少或长短：用斗~米. 用尺~布." />
 			<item id="2" text="估量：思~(liang). 打~(liang)." />
@@ -72,8 +105,39 @@
 		</definition>
 	</char>
 	<char hz="量" py="liàng" multi="liáng" main="1">
+		<phrase hz="不自量力" py="bú,zì,liàng,lì" info="量：估量。自己不估量自己的能力。指过高地估计自己的实力。" />
+		<phrase hz="大量" py="dà,liàng" info="1.数目很多。2.事物的集合、汇总。" />
+		<phrase hz="胆量" py="dǎn,liàng" info="不怕危险困难的精神;敢作敢为无所畏惧的魄力。" />
+		<phrase hz="度量" py="dù,liàng" info="1.容忍、宽容他人的限度。2.有时也作肚量。3.计量长短、容积轻重的统称。" />
+		<phrase hz="肚量" py="dù,liàng" info="指度量。" />
+		<phrase hz="多量" py="duō,liàng" />
 		<phrase hz="分量" py="fèn,liang" />
+		<phrase hz="份量" py="fèn,liàng" />
+		<phrase hz="海量" py="hǎi,liàng" info="1.宽宏大量。2.形容酒量大。" />
+		<phrase hz="洪量" py="hóng,liàng" info="1.宽宏的胸襟、气量。2.很大的酒量。" />
+		<phrase hz="降雨量" py="jiàng,yǔ,liàng" />
+		<phrase hz="尽量" py="jǐn,liàng" info="1.在某个范围内达到最大限度。2.达到最大限量。" />
+		<phrase hz="酒量" py="jiǔ,liàng" info="能喝酒的限度;饮酒的量度。" />
+		<phrase hz="力量" py="lì,liàng" />
+		<phrase hz="量才录用" py="liàng,cái,lù,yòng" info="量：估量。根据才能大小分配一定工作。" />
+		<phrase hz="量力而行" py="liàng,lì,ér,xíng" info="量：估量；行：行事。按照自己力量的大小去做，不要勉强。" />
+		<phrase hz="量入为出" py="liàng,rù,wéi,chū" info="量：计量。根据收入的多少来定开支的限度。" />
+		<phrase hz="量体裁衣" py="liàng,tǐ,cái,yī" info="按照身材裁剪衣服。比喻按照实际情况办事。" />
+		<phrase hz="量刑" py="liàng,xíng" />
+		<phrase hz="气量" py="qì,liàng" info="胸怀，度量。" />
+		<phrase hz="器量" py="qì,liàng" info="1.器皿的容量。2.气量;度量。" />
+		<phrase hz="热量" py="rè,liàng" info="1.由于温度差别而转移的能量。2.物质(如酒)的热力。3.比喻人发挥的作用。" />
+		<phrase hz="容量" py="róng,liàng" info="每一次可容纳的数或量(指人和车)。" />
+		<phrase hz="少量" py="shǎo,liàng" info="数量或份量较少。" />
+		<phrase hz="数量" py="shù,liàng" info="事物的多少。" />
 		<phrase hz="无量" py="wú,liàng" info="1.没有限制的;没有止境的。2.难以计算，指数量极多。" />
+		<phrase hz="限量" py="xiàn,liàng" />
+		<phrase hz="小量" py="xiǎo,liàng" info="少量。" />
+		<phrase hz="音量" py="yīn,liàng" />
+		<phrase hz="宇量" py="yǔ,liàng" info="气度；度量。" />
+		<phrase hz="重量" py="zhòng,liàng" info="在地心引力的作用下，物体所具有的向下的力的大小。" />
+		<phrase hz="质量" py="zhì,liàng" info="1.物体的一种性质，通常指该物体所含物质的量，是量度物体惯性大小的物理量。2.产品或工作的优劣程度。" />
+		<phrase hz="自量" py="zì,liàng" info="自己审度估量;自知之明。" />
 		<definition id="二">
 			<item id="1" text="计算东西体积多少的器具的总称。 [量词]表示事物或行动单位的词，如张、条、个、只、遍等。" />
 			<item id="2" text="限度：酒~. 气~. 饭~. 胆~." />
