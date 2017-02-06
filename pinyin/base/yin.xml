@@ -40,8 +40,11 @@
 	<char hz="吟" py="yín" />
 	<char hz="垠" py="yín" />
 	<char hz="银" py="yín" />
-	<char hz="龈" py="yín" multi="kěn">
+	<char hz="龈" py="yín" multi="kěn" main="1">
+		<phrase hz="齿龈" py="chǐ,yín" info="即牙床，包住齿颈的粉红色黏膜组织" />
+		<phrase hz="龙龈" py="lóng,yín" info="古琴尾镶有刻有浅槽的硬木“龙龈”，用以架弦。龙龈两侧的边饰称为“冠角”，又称“焦尾”。" />
 		<phrase hz="牙龈" py="yá,yín" />
+		<phrase hz="龈龈计较" py="yín,yín,jì,jiào" info="指对无关紧要的事过分计较。同“斤斤计较”。" />
 		<definition id="一">
 			<item text="牙龈，牙床子，牙根上的肉。" />
 		</definition>
