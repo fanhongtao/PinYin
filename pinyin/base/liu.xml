@@ -104,7 +104,7 @@
 			<item text="同“遛(1)”" />
 		</definition>
 	</char>
-	<char hz="飂" py="liù" multi="liáo" trans="1">
+	<char hz="飂" py="liù" multi="liáo" main="1" trans="1">
 		<definition id="一">
 			<item text="西风。" />
 		</definition>
