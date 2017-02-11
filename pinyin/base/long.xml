@@ -4,6 +4,9 @@
 	<char hz="茏" py="lóng" />
 	<char hz="咙" py="lóng" />
 	<char hz="泷" py="lóng" multi="shuāng" main="1">
+		<phrase hz="奔泷" py="bēn,lóng" info="湍急的水流。" />
+		<phrase hz="泷泷" py="lóng,lóng" info="1.下雨貌。2.水流声。" />
+		<phrase hz="怒泷" py="nù,lóng" info="汹涌的水流" />
 		<definition id="一">
 			<item text="急流的水。 [七里泷]地名，在浙江省桐庐。" />
 		</definition>
@@ -16,6 +19,23 @@
 	<char hz="眬" py="lóng" />
 	<char hz="聋" py="lóng" />
 	<char hz="笼" py="lóng" multi="lǒng" main="1">
+		<phrase hz="出笼" py="chū,lóng" info="1.刚出蒸笼。2.[贬]出现，出来，比喻某些东西大量出售、发行。" />
+		<phrase hz="灯笼" py="dēng,lóng" />
+		<phrase hz="樊笼" py="fán,lóng" info="比喻不自由的境地" />
+		<phrase hz="罐笼" py="guàn,lóng" info="矿井中用于运送人员、矿石等的升降机" />
+		<phrase hz="烘笼" py="hōng,lóng" info="1.竹片、柳条或荆条等编成的笼子，罩在炉子或火盆上，用来烘干衣物。2.〈方〉烘篮。" />
+		<phrase hz="回笼" py="huí,lóng" info="1.把已蒸熟而冷了的馒头、包子等放回笼屉再蒸。2.在社会上流通的货币回到发行的银行。" />
+		<phrase hz="火笼" py="huǒ,lóng" info="〈方〉烘篮。闽东、粤西、川北冬天的一种取暖工具。外部用竹篾编织的花篮状笼框，内部为泥土烧制的盆状容器。使用时添加炭火，可做烤火，烘干衣服等作用。" />
+		<phrase hz="鸡笼" py="jī,lóng" info="育肥鸡用的鸡栏" />
+		<phrase hz="牢笼" py="láo,lóng" info="1.关鸟兽的器具，比喻约束、限制人的事物或骗人的圈套。2.约束，限制。" />
+		<phrase hz="笼火" py="lóng,huǒ" info="生火，点火。" />
+		<phrase hz="笼屉" py="lóng,tì" info="蒸笼中的任一扇。" />
+		<phrase hz="笼中之鸟" py="lóng,zhōng,zhī,niǎo" info="比喻受困而不自由的人，也比喻易于擒拿的敌人。" />
+		<phrase hz="木笼" py="mù,lóng" info="装满重料(如石块或碎砖)的圆木框架或横条木框架，供修建船坞、 码头、 堤坝或类似结构时沉入水底作基础或挡墙之用。" />
+		<phrase hz="囚笼" py="qiú,lóng" info="拘禁囚徒的木笼" />
+		<phrase hz="纱笼" py="shā,lóng" info="1.纱制灯笼。 2.谓以纱蒙覆贵人、名士壁上题咏的手迹，表示崇敬。3.犹纱罩。4.马来语saron的音译。 东南亚 一带用以围裹身体的长布，为服饰之一。5.法语salon的音译。客厅。今多译作“沙龙”。" />
+		<phrase hz="圆笼" py="yuán,lóng" info="放饭菜或送饭菜用的圆形大提盒。" />
+		<phrase hz="蒸笼" py="zhēng,lóng" info="蒸食物的笼屉。" />
 		<definition id="一">
 			<item id="1" text="（-子、-儿）养鸟、虫的器具，用竹、木条或金属丝等编插而成：鸟~子. 鸡~. 蝈蝈~. (引)旧时囚禁犯人的东西：囚~. 牢~." />
 			<item id="2" text="用竹、木等材料制成的有盖的蒸东西的器具：蒸~. ~屉." />
@@ -32,10 +52,10 @@
 	<char hz="拢" py="lǒng" />
 	<char hz="垄" py="lǒng" />
 	<char hz="笼" py="lǒng" multi="lóng">
-		<phrase hz="笼罩" py="lǒng,zhào" />
 		<phrase hz="笼络" py="lǒng,luò" />
-		<phrase hz="箱笼" py="xiāng,lǒng" />
 		<phrase hz="笼统" py="lǒng,tǒng" />
+		<phrase hz="笼罩" py="lǒng,zhào" />
+		<phrase hz="箱笼" py="xiāng,lǒng" info="竹编的盛衣器具" />
 		<definition id="二">
 			<item id="1" text="遮盖，罩住：黑云~罩着天空. [笼络]用手段拉拢人：~~人心." />
 			<item id="2" text="比较大的箱子：箱~." />
@@ -43,6 +63,7 @@
 		</definition>
 	</char>
 	<char hz="弄" py="lòng" multi="nòng">
+		<phrase hz="里弄" py="lǐ,lòng" info="1.比较窄的街道，胡同。2.关于里弄居民的。" />
 		<phrase hz="弄堂" py="lòng,táng" />
 		<definition id="二">
 			<item text="〈方〉弄堂，小巷，小胡同。" />
