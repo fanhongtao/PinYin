@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="搂" py="lōu" multi="lǒu">
+		<phrase hz="抖搂" py="dǒu,lou" info="1.振动衣、被、包袱等，使附着物落下。2.揭露[错误或不健康的东西或弱点]。3.指并无需要，随便或毫无效益地滥用钱财;浪费。" />
 		<phrase hz="搂柴火" py="lōu,chái,huǒ" />
 		<phrase hz="搂钱" py="lōu,qián" />
 		<phrase hz="搂枪机" py="lōu,qiāng,jī" />
@@ -35,6 +36,8 @@
 	</char>
 	<char hz="髅" py="lóu" />
 	<char hz="搂" py="lǒu" multi="lōu" main="1">
+		<phrase hz="搂抱" py="lǒu,bào" info="拥抱;用胳膊拢着对方" />
+		<phrase hz="搂搂抱抱" py="lǒu,lǒu,bào,bào" />
 		<definition id="一">
 			<item id="1" text="两臂合抱，用手臂拢着（(连)-抱）：把孩子~在怀里." />
 			<item id="2" text="量词：一~粗的大树." />
@@ -53,7 +56,7 @@
 			<item text="义同“露(一)(3)”，用于一些口语词语，如“露怯”，“露马脚”等。" />
 		</definition>
 	</char>
-	<char hz="喽" py="lou" multi="lóu" main="1">
+	<char hz="喽" py="lou" multi="lóu" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="助词，意思相当于“啦”：够~，别说~！" />
 		</definition>

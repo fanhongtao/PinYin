@@ -80,7 +80,7 @@
 	<char hz="鹭" py="lù">
 		<phrase hz="鹭鸶" py="lù,sī" />
 	</char>
-	<char hz="露" py="lù" multi="lòu" main="1">
+	<char hz="露" py="lù" multi="lòu" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="露水，靠近地面的水蒸气因夜间遇冷凝结成小水珠。 (引)露天，没有遮蔽，在屋外的：风餐~宿. ~营." />
 			<item id="2" text="用药料、果汁等制成的饮料：枇杷~. 果子~. 玫瑰~." />
