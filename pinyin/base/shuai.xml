@@ -33,6 +33,20 @@
 		</definition>
 	</char>
 	<char hz="率" py="shuài" multi="lǜ" main="1">
+		<phrase hz="表率" py="biǎo,shuài" info="榜样，模范" />
+		<phrase hz="草率" py="cǎo,shuài" info="马虎;不细致;粗略" />
+		<phrase hz="大率" py="dà,shuài" info="副词。大概、大致;大体;大略" />
+		<phrase hz="轻率" py="qīng,shuài" info="随随便便，言行不慎重，不认真" />
+		<phrase hz="率队" py="shuài,duì" />
+		<phrase hz="率领" py="shuài,lǐng" info="带领" />
+		<phrase hz="率然" py="shuài,rán" info="1.轻率;不慎重。2.形容轻捷的样子。" />
+		<phrase hz="率先" py="shuài,xiān" info="带头;首先" />
+		<phrase hz="率性" py="shuài,xìng" info="1.顺着本性，索性。2.指平素的性情;禀性。" />
+		<phrase hz="率真" py="shuài,zhēn" info="直率而真诚" />
+		<phrase hz="率直" py="shuài,zhí" info="不含蓄，坦率;爽直" />
+		<phrase hz="坦率" py="tǎn,shuài" info="直率" />
+		<phrase hz="统率" py="tǒng,shuài" info="率领;指挥" />
+		<phrase hz="直率" py="zhí,shuài" info="直截痛快。也指言行坦率、爽朗" />
 		<definition id="一">
 			<item id="1" text="带领，统领（(连)-领）：~队. ~师." />
 			<item id="2" text="轻易地，不细想，不慎重（(连)轻-、草-）：不要轻~地处理问题." />
