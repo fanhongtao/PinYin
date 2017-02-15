@@ -44,6 +44,8 @@
 	</char>
 	<char hz="蠃" py="luǒ" />
 	<char hz="泺" py="luò" multi="pō" main="1">
+		<phrase hz="泺水" py="luǒ,shuǐ" info="古水名，在今山东省济南。" />
+		<phrase hz="泺口" py="luǒ,kǒu" info="地名，在山东省济南。" />
 		<definition id="一">
 			<item text="泺水，古水名，在今山东省济南。 [泺口]地名，在山东省济南。" />
 		</definition>
@@ -113,6 +115,7 @@
 	</char>
 	<char hz="摞" py="luò" />
 	<char hz="漯" py="luò" multi="tà" main="1">
+		<phrase hz="漯河" py="luò,hé" duoyin="tà,hé" info="地名，在河南省。" />
 		<definition id="一">
 			<item text="[漯河]地名，在河南省。" />
 		</definition>
