@@ -25,7 +25,7 @@
 		<phrase hz="嬷嬷" py="mó,mo" />
 	</char>
 	<char hz="摩" py="mó" multi="mā" main="1" suppressLog="1">
-		<phrase hz="摩挲" py="mó,suō" />
+		<phrase hz="摩挲" py="mó,suō" duoyin="mā,sa" info="用手抚摩。" />
 		<definition id="一">
 			<item id="1" text="摩擦，蹭(cèng)：~拳擦掌." />
 			<item id="2" text="抚摩，摸：~弄. 按~. [摩挲](-suō)用手抚摩。" />
@@ -47,6 +47,13 @@
 	<char hz="魔" py="mó" />
 	<char hz="劘" py="mó" />
 	<char hz="抹" py="mǒ" multi="mā,mò" main="1">
+		<phrase hz="勾抹" py="gōu,mǒ" info="勾销；涂抹掉。" />
+		<phrase hz="抹黑" py="mǒ,hēi" />
+		<phrase hz="抹零" py="mǒ,líng" />
+		<phrase hz="抹杀" py="mǒ,shā" />
+		<phrase hz="抹煞" py="mǒ,shā" />
+		<phrase hz="浓抹" py="nóng,mǒ" info="厚施脂粉。" />
+		<phrase hz="涂抹" py="tú,mǒ" />
 		<definition id="一">
 			<item id="1" text="涂（(连)涂-）：伤口上~点药." />
 			<item id="2" text="揩，擦：~眼泪. 一~一手黑." />
@@ -117,10 +124,10 @@
 	<char hz="莫" py="mò">
 		<phrase hz="莫邪" py="mò,yé" />
 		<definition>
-			<item id="1" text="不要，闲人~入."/>
-			<item id="2" text="没有，无：~不欣喜. ~大的光荣. [莫非]副词，难道：~~是他回来了吗？ [莫逆]朋友之间感情非常好：~~之交. [莫须有]也许有吧。后用来表示凭空捏造。"/>
-			<item id="3" text="不：变化~测."/>
-			<item text="[莫邪](-yé)古宝剑名。"/>
+			<item id="1" text="不要，闲人~入." />
+			<item id="2" text="没有，无：~不欣喜. ~大的光荣. [莫非]副词，难道：~~是他回来了吗？ [莫逆]朋友之间感情非常好：~~之交. [莫须有]也许有吧。后用来表示凭空捏造。" />
+			<item id="3" text="不：变化~测." />
+			<item text="[莫邪](-yé)古宝剑名。" />
 		</definition>
 	</char>
 	<char hz="蓦" py="mò" />

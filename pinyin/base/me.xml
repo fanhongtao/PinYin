@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="么" py="me" multi="ma,yāo" main="1">
+		<phrase hz="多么" py="duō,me" />
+		<phrase hz="那么" py="nà,me" />
+		<phrase hz="什么" py="shén,me" />
+		<phrase hz="是么" py="shì,me" />
+		<phrase hz="要么" py="yào,me" />
+		<phrase hz="怎么" py="zěn,me" />
+		<phrase hz="这么" py="zhè,me" />
+		<phrase hz="作么" py="zuò,me" info="怎么；为什么。" />
 		<definition id="一">
 			<item id="1" text="词尾：怎~. 那~. 多~. 这~. 什~." />
 			<item id="2" text="助词，表有含蓄的语气，用在前半句末了：不让你去~，你又要去." />

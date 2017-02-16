@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="孖" py="mā" multi="zī">
+		<phrase hz="孖仔" py="mā,zǎi" info="方言。双生子。" />
 		<definition id="二">
 			<item text="〈方〉相连成对。" />
 		</definition>
@@ -13,19 +14,24 @@
 		</definition>
 	</char>
 	<char hz="抹" py="mā" multi="mǒ,mò">
-		<phrase hz="抹桌子" py="mā,zhuō,zi" />
 		<phrase hz="抹不下脸来" py="mā,bú,xià,liǎn,lái" />
+		<phrase hz="抹布" py="mā,bù" info="专用于擦地板或桌子的织物" />
+		<phrase hz="抹脸" py="mā,liǎn" info="[口]突然改变脸色，由和气变得严厉" />
+		<phrase hz="抹澡" py="mā,zǎo" info="〈方〉擦澡" />
+		<phrase hz="抹桌子" py="mā,zhuō,zi" />
 		<definition id="三">
 			<item id="1" text="擦：~桌子." />
 			<item id="2" text="用手按着并向下移动：把帽子~下来. ~不下脸来（碍于脸面或情面）." />
 		</definition>
 	</char>
 	<char hz="摩" py="mā" multi="mó">
+		<!-- <phrase hz="摩挲" py="mā,sa" duoyin="mó,suō" info="用手轻轻按着一下一下地移动。" /> -->
 		<definition id="二">
 			<item text="[摩挲](-sa)用手轻轻按着一下一下地移动。" />
 		</definition>
 	</char>
 	<char hz="吗" py="má" multi="mǎ,ma">
+		<phrase hz="干吗" py="gàn,má" info="1.[口]为什么。2.干什么。" />
 		<definition id="二">
 			<item text="〈方〉什么？" />
 		</definition>
@@ -52,13 +58,14 @@
 	<char hz="码" py="mǎ" />
 	<char hz="蚂" py="mǎ" multi="mā,mà" main="1">
 		<phrase hz="蚂蟥" py="mǎ,huáng" />
+		<phrase hz="蚂蚁" py="mǎ,yǐ" />
 		<definition id="一">
 			<item text="[蚂蟥](-huáng)“蛭”的俗称。参见“蛭”(zhì)。 [蚂蚁](-yǐ)蚁。参见“蚁”。" />
 		</definition>
 	</char>
 	<char hz="祃" py="mà" />
 	<char hz="蚂" py="mà" multi="mǎ,mā">
-		<phrase hz="蚂蚱" py="mǎ,zha" />
+		<phrase hz="蚂蚱" py="mà,zha" />
 		<definition id="三">
 			<item text="[蚂蚱](-zha)蝗虫的俗称。参看“蝗”(huáng)。" />
 		</definition>
