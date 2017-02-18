@@ -12,7 +12,7 @@
 	<char hz="蛮" py="mán">
 		<phrase hz="蛮横" py="mán,hèng" />
 	</char>
-	<char hz="谩" py="mán" multi="màn" main="1">
+	<char hz="谩" py="mán" multi="màn">
 		<definition id="二">
 			<item text="欺骗，蒙蔽。" />
 		</definition>
@@ -34,7 +34,7 @@
 	<char hz="满" py="mǎn" />
 	<char hz="螨" py="mǎn" />
 	<char hz="曼" py="màn" />
-	<char hz="谩" py="màn" multi="mán">
+	<char hz="谩" py="màn" multi="mán" main="1">
 		<phrase hz="谩骂" py="màn,mà" />
 		<definition id="一">
 			<item text="轻慢，没有礼貌：~骂." />
@@ -42,6 +42,9 @@
 	</char>
 	<char hz="墁" py="màn" />
 	<char hz="蔓" py="màn" multi="mán,wàn" main="1">
+		<phrase hz="蔓草" py="màn,cǎo" info="蔓延滋生的草。" />
+		<phrase hz="蔓生" py="màn,shēng" info="1.蔓延;指植物伸展开。2.草生长在…上面。"/>
+		<phrase hz="蔓延" py="màn,yán" />
 		<definition id="二">
 			<item text="同“蔓(一)”，多用于合成词，如蔓草，蔓延等。[蔓延]形容像蔓草一样不断扩展滋生。" />
 		</definition>

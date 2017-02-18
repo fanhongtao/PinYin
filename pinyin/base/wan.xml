@@ -58,6 +58,7 @@
 	</char>
 	<char hz="腕" py="wàn" />
 	<char hz="蔓" py="wàn" multi="mán,màn">
+		<phrase hz="藤蔓" py="téng,wàn" />
 		<phrase hz="蔓儿" py="wàn,er" />
 		<definition id="一">
 			<item text="（-儿）细长能缠绕的茎：瓜~儿. 扁豆爬~儿了." />
