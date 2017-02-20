@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="猫" py="māo" multi="máo" main="1">
+	<char hz="猫" py="māo" multi="máo" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="一种家畜，面呈圆形，脚有利爪，善跳跃，会捉老鼠。" />
 		</definition>
@@ -41,7 +41,7 @@
 	<char hz="茂" py="mào">
 		<phrase hz="茂盛" py="mào,shèng" />
 	</char>
-	<char hz="冒" py="mào" multi="mò" main="1">
+	<char hz="冒" py="mào" multi="mò" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="向外透，往上升：~泡. ~烟. ~火." />
 			<item id="2" text="不顾（恶劣的环境或危险等）：~雨. ~险." />
