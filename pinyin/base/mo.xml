@@ -85,11 +85,28 @@
 		<phrase hz="靺鞨" py="mò,hé" />
 	</char>
 	<char hz="没" py="mò" multi="méi">
-		<phrase hz="没入水中" py="mò,rù,shuǐ,zhōng" />
+		<phrase hz="抄没" py="chāo,mò" info="查抄没收。" />
+		<phrase hz="沉没" py="chén,mò" />
 		<phrase hz="出没" py="chū,mò" />
+		<phrase hz="覆没" py="fù,mò" info="1.船只倾覆而沉没水中。2.作战部队彻底溃败，整体不复存在。" />
+		<phrase hz="浸没" py="jìn,mò" info="1.沉入液体中。2.用水或其它液体覆盖或使覆盖。" />
+		<phrase hz="埋没" py="mái,mò" info="1.埋在地下。2.使显露不出来，不能发挥作用。" />
+		<phrase hz="泯没" py="mǐn,mò" info="消灭;消失。 常用为死的婉称。" />
+		<phrase hz="没齿" py="mò,chǐ" info="一辈子;终身" />
+		<phrase hz="没顶之灾" py="mò,dǐng,zhī,zāi" info="自定义词" />
 		<phrase hz="没落" py="mò,luò" />
-		<phrase hz="没收" py="mò,shōu" />
+		<phrase hz="没没无闻" py="mò,mò,wú,wén" info="沒有名氣。" />
+		<phrase hz="没入水中" py="mò,rù,shuǐ,zhōng" />
 		<phrase hz="没世" py="mò,shì" />
+		<phrase hz="没收" py="mò,shōu" />
+		<phrase hz="辱没" py="rǔ,mò" info="玷污;使不光彩。" />
+		<phrase hz="神出鬼没" py="shén,chū,guǐ,mò" info="形容使用兵器手法高超。亦比喻行动迅速、变化莫测、难以捉摸。" />
+		<phrase hz="吞没" py="tūn,mò" info="1.侵吞经管的公共财物或他人财物。2.把[某物]完全笼罩或隐蔽。" />
+		<phrase hz="陷没" py="xiàn,mò" info="1.沉沒。2.攻破。" />
+		<phrase hz="淹没" py="yān,mò" info="1.被水覆盖或洪水泛滥。2.浸没;消失。" />
+		<phrase hz="湮没" py="yān,mò" info="清除，化为乌有。" />
+		<phrase hz="隐没" py="yǐn,mò" info="隐蔽;渐渐消失。" />
+		<phrase hz="殒没" py="yǔn,mò" info="死亡。" />
 		<definition id="二">
 			<item id="1" text="隐在水中：~入水中. (引)隐藏：深山有猛虎出~. [没落]衰落，趋向灭亡：~~阶级." />
 			<item id="2" text="漫过，高过：水~了头顶. 庄稼都长得~人了." />
