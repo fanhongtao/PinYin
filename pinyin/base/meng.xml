@@ -2,8 +2,14 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="蒙" py="mēng" multi="méng,měng">
 		<phrase hz="别蒙人" py="bié,mēng,rén" />
-		<phrase hz="蒙对了" py="mēng,duì,le" />
 		<phrase hz="打蒙了" py="dǎ,mēng,le" />
+		<phrase hz="发蒙" py="fā,mēng" duoyin="fā,méng" info="[口]:糊涂,不清楚" />
+		<phrase hz="蒙对了" py="mēng,duì,le" />
+		<phrase hz="蒙蒙黑" py="mēng,meng,hēi" info="天刚擦黑;天没完全黑的时候。" />
+		<phrase hz="蒙蒙亮" py="mēng,meng,liàng" info="天有些亮。" />
+		<phrase hz="蒙骗" py="mēng,piàn" info="欺骗或哄骗" />
+		<phrase hz="蒙松雨" py="mēng,sōng,yǔ" info="〈方〉雨很小，很细;蒙蒙雨" />
+		<phrase hz="蒙头转向" py="mēng,tóu,zhuàn,xiàng" info="蒙：迷糊，昏迷；转向：迷失方向。形容头脑昏迷，不清晰。" />
 		<definition id="二">
 			<item id="1" text="欺骗（(连)-骗）：别~人. 谁也~不住他." />
 			<item id="2" text="胡乱猜测：这回叫你~对了." />
@@ -24,7 +30,34 @@
 	</char>
 	<char hz="盟" py="méng" />
 	<char hz="蒙" py="méng" multi="mēng,měng" main="1">
+		<phrase hz="承蒙" py="chéng,méng" info="套语，多亏受到[您的好意]" />
+		<!-- <phrase hz="发蒙" py="fā,méng" duoyin="fā,mēng" info="启发蒙昧,后也指教儿童、少年开始识字读书" /> -->
+		<phrase hz="鸿蒙" py="hóng,méng" info="1.亦作“鸿濛”。2.迷漫广大貌。3.东方之野，日出之处。4.混沌；浑噩。5.指高空。" />
+		<phrase hz="空蒙" py="kōng,méng" info="细雨迷茫的样子。" />
+		<phrase hz="蒙蔽" py="méng,bì" info="1.欺骗隐瞒。2.隐瞒真相，欺骗人。" />
+		<phrase hz="蒙尘" py="méng,chén" info="1.沾染灰塵。2.比喻天子失去政權，流亡出奔。" />
+		<phrase hz="蒙恩" py="méng,ēn" info="蒙受恩惠。" />
+		<phrase hz="蒙垢" py="méng,gòu" info="受到污辱耻笑" />
+		<phrase hz="蒙汗药" py="méng,hàn,yào" info="內服後使人失去知覺的藥。" />
 		<phrase hz="蒙混" py="méng,hùn" info="用以假充真的手段欺骗" />
+		<phrase hz="蒙眬" py="méng,lóng" info="1.眼睛欲闭又开。形容醉态或睡态。2.模糊，不分明。" />
+		<phrase hz="蒙昧" py="méng,mèi" info="1.指未开化的原始状态。2.愚昧，不通事理。" />
+		<phrase hz="蒙蒙" py="méng,méng" info="雨雪云雾迷茫的样子。" />
+		<phrase hz="蒙面" py="méng,miàn" info="將臉部用巾布之類的東西遮蓋起來。" />
+		<phrase hz="蒙难" py="méng,nàn" info="遭受到人为的灾祸" />
+		<phrase hz="蒙受" py="méng,shòu" info="无故承受某种痛苦。" />
+		<phrase hz="蒙太奇" py="méng,tài,qí" info="指剪接组合镜头,以形成完整的电影片。" />
+		<phrase hz="蒙童" py="méng,tóng" info="知识未开的儿童。旧亦以指开始读书识字的儿童。" />
+		<phrase hz="蒙头盖面" py="méng,tóu,gài,miàn" info="〈方〉∶遮遮掩掩" />
+		<phrase hz="蒙羞" py="méng,xiū" info="遭受羞辱。" />
+		<phrase hz="蒙药" py="méng,yào" info="见“蒙汗药”" />
+		<phrase hz="蒙冤" py="méng,yuān" info="蒙受冤屈。" />
+		<phrase hz="蒙在鼓里" py="méng,zài,gǔ,lǐ" info="比喻受人蒙哄,好像装在鼓里,不知道外面的事。" />
+		<phrase hz="蒙罩" py="méng,zhào" info="轻轻地盖着,即笼罩。" />
+		<phrase hz="弥蒙" py="mí,méng" info="弥漫。" />
+		<phrase hz="冥蒙" py="míng,méng" info="1.蒙昧。2.幽暗，不明。3.浓密貌。4.犹蒙昧无知。5.冥濛：幽暗不明。" />
+		<phrase hz="童蒙" py="tóng,méng" info="1.幼稚愚昧。2.指无知的儿童。3.指童年。" />
+		<phrase hz="愚蒙" py="yú,méng" info="愚昧不明" />
 		<definition id="一">
 			<item id="1" text="没有知识，愚昧：启~. 发~. ~昧." />
 			<item id="2" text="覆盖：~头盖脑. ~上一张纸. [蒙蔽]隐瞒事实，欺骗。" />
@@ -37,7 +70,7 @@
 	</char>
 	<char hz="濛" py="méng" info="词组中使用到，所以补充">
 		<definition>
-			<item text="“蒙(一)(4)”的繁体字。"/>
+			<item text="“蒙(一)(4)”的繁体字。" />
 		</definition>
 	</char>
 	<char hz="幪" py="méng" />
