@@ -26,6 +26,7 @@
 	<char hz="诼" py="zhuó" />
 	<char hz="啄" py="zhuó" />
 	<char hz="琢" py="zhuó" multi="zuó" main="1">
+		<!-- <phrase hz="琢磨" py="zhuó,mó" duoyin="zuó,mo" info="1.琢和打磨[玉石]。2.通过润色加以修改(指文章等)。" /> -->
 		<definition id="一">
 			<item text="雕刻玉石，使成器物：精雕细~. [琢磨] 1.雕刻和打磨（玉石）。 2.加工使精美（指文章等）。" />
 		</definition>

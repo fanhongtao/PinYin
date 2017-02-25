@@ -22,7 +22,7 @@
 	</char>
 	<char hz="捽" py="zuó" />
 	<char hz="琢" py="zuó" multi="zhuó">
-		<phrase hz="琢磨" py="zuó,mo" />
+		<phrase hz="琢磨" py="zuó,mo" duoyin="zhuó,mó" info="反复思索、考虑" />
 		<definition id="二">
 			<item text="[琢磨](-mo)反复思索、考虑：这个问题我~~了很久. 你~~一下，是不是这个理儿." />
 		</definition>

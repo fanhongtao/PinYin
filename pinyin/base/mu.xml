@@ -4,9 +4,15 @@
 		<phrase hz="毪氇" py="mú,lu" />
 	</char>
 	<char hz="模" py="mú" multi="mó">
+		<phrase hz="大模大样" py="dà,mú,dà,yàng" info="形容态度傲慢，目中无人的样子。" />
+		<phrase hz="假模假样" py="jiǎ,mú,jiǎ,yàng" info="故意做作，装出某种样子给人看，出自《荆钗记传奇》。" />
+		<phrase hz="模板" py="mú,bǎn" info="1.施工时浇筑混凝土用的成组模型板。2.铸造时放模型和砂箱用的底板。" />
 		<phrase hz="模儿" py="mú,er" />
-		<phrase hz="模子" py="mú,zi" />
+		<phrase hz="模具" py="mú,jù" info="生产上用的各种模型或模板" />
 		<phrase hz="模样" py="mú,yàng" />
+		<phrase hz="模子" py="mú,zi" />
+		<phrase hz="一模一样" py="yī,mú,yī,yàng" info="样子完全相同。" />
+		<phrase hz="装模作样" py="zhuāng,mú,zuò,yàng" info="样：模样、姿态。指故意做作，故做姿态。" />
 		<definition id="二">
 			<item text="（-儿）模子：字~儿. 铜~儿. [模子](-zi)用压制或浇灌的方法制造物品的工具。 [模样]形状，容貌。" />
 		</definition>
