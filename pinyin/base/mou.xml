@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="哞" py="mōu" />
-	<char hz="牟" py="móu" multi="mù" main="1">
+	<char hz="牟" py="móu" multi="mù" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="贪取：投机商哄抬物价，借机~利." />
 		</definition>
