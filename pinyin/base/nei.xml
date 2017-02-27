@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="哪" py="něi" multi="nǎ,na,né">
-		<phrase hz="哪个" py="něi,gè" />
-		<phrase hz="哪些" py="něi,xiē" />
+		<!-- <phrase hz="哪个" py="něi,gè"  duoyin="nǎ,ge" /> -->
+		<!-- <phrase hz="哪些" py="něi,xiē" duoyin="nǎ,xiē" /> -->
 		<phrase hz="哪年" py="něi,nián" />
 		<phrase hz="哪几年" py="něi,jǐ,nián" />
 		<definition id="二">

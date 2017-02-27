@@ -2,6 +2,8 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="挪" py="nuó" />
 	<char hz="娜" py="nuó" multi="nà">
+		<phrase hz="婀娜" py="ē,nuó" info="轻盈柔美貌" />
+		<phrase hz="娇娜" py="jiāo,nuó" info="可爱的、婀娜的姿态" />
 		<phrase hz="袅娜" py="niǎo,nuó" />
 		<definition id="二">
 			<item text="见“袅”字条“袅娜”(niǎo-)。" />
