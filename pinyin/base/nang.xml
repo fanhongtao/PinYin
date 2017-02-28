@@ -9,7 +9,22 @@
 	<char hz="囔" py="nāng">
 		<phrase hz="囔囔" py="nāng,nang" />
 	</char>
-	<char hz="囊" py="náng" multi="nāng" main="1">
+	<char hz="囊" py="náng" multi="nāng" main="1" suppressLog="1">
+		<phrase hz="胆囊" py="dǎn,náng" info="贮存胆汁的器官，在肝脏下方" />
+		<phrase hz="饭囊" py="fàn,náng" info="比喻只会吃饭，不会做事的人。" />
+		<phrase hz="颊囊" py="jiá,náng" info="仓鼠等啮齿动物和猿猴的口腔内两侧的囊状构造，用来暂时贮存食物。也叫颊嗛（jiáqiǎn）。" />
+		<phrase hz="胶囊" py="jiāo,náng" info="装药的一种胶质囊" />
+		<phrase hz="酒囊饭袋" py="jiǔ,náng,fàn,dài" info="囊：口袋。只会吃喝，不会做事。讥讽无能的人。" />
+		<phrase hz="毛囊" py="máo,náng" info="包裹在毛发根部的上皮和结缔组织管状鞘" />
+		<phrase hz="囊括" py="náng,kuò" info="全部包罗" />
+		<phrase hz="囊肿" py="náng,zhǒng" />
+		<phrase hz="皮囊" py="pí,náng" info="皮袋，佛教比喻人体驱壳" />
+		<phrase hz="气囊" py="qì,náng" info="1.鸟体各部分中有空气并与肺部气管有联系的空隙。 2.汽车中备有在发生事故时能在乘车人前方自动充气的袋子。 3.气球、软式或半硬式飞艇储存气体的壳体。" />
+		<phrase hz="砂囊" py="shā,náng" info="鸟类消化道紧接嗉囊之后的一个囊，在吃种子的鸟体中尤其发达，特别是有厚的肌肉壁和一层硬的角质衬里，适于磨碎食物，它的肌肉运动常借助鸟类吞咽的沙石来磨碎食物。" />
+		<phrase hz="探囊取物" py="tàn,náng,qǔ,wù" info="囊：口袋；探囊：向袋里摸取。 伸手到口袋里拿东西。比喻能够轻而易举地办成某件事情。" />
+		<phrase hz="行囊" py="xíng,náng" info="出行时所带的钱袋" />
+		<phrase hz="智囊" py="zhì,náng" info="足智多謀的人。" />
+		<phrase hz="子囊" py="zǐ,náng" info="某些植物体内藏孢子的器官。" />
 		<definition id="二">
 			<item text="口袋：探~取物（喻极容易）. [囊括]全部包罗：~~四海. ~~本次比赛全部金牌." />
 		</definition>
