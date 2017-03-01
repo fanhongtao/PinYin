@@ -9,7 +9,7 @@
 		</definition>
 	</char>
 	<char hz="嬲" py="niǎo" />
-	<char hz="尿" py="niào" multi="suī" main="1">
+	<char hz="尿" py="niào" multi="suī" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="小便，从肾脏滤出由尿道排泄出来的液体。" />
 			<item id="2" text="排泄小便。" />
@@ -17,6 +17,7 @@
 	</char>
 	<char hz="脲" py="niào" />
 	<char hz="溺" py="niào" multi="nì">
+		<phrase hz="便溺" py="biàn,niào" info="排除大便和小便" />
 		<definition id="二">
 			<item text="同“尿”。" />
 		</definition>
