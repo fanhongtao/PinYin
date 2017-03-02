@@ -34,7 +34,8 @@
 	<char hz="畔" py="pàn" />
 	<char hz="袢" py="pàn" />
 	<char hz="拚" py="pàn" multi="pīn">
-		<phrase hz="拚命" py="pàn,mìng" />
+		<phrase hz="拚命" py="pàn,mìng" info="〈方〉不顾性命去做" />
+		<phrase hz="拚弃" py="pàn,qì" info="抛弃;舍弃" />
 		<definition id="一">
 			<item text="舍弃，豁出去：~命." />
 		</definition>
