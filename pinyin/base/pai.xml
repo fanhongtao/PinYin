@@ -2,7 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="拍" py="pāi" />
 	<char hz="俳" py="pái" />
-	<char hz="排" py="pái" multi="pǎi" main="1">
+	<char hz="排" py="pái" multi="pǎi" main="1" suppressLog="1">
 		<phrase hz="排场" py="pái,chang" />
 		<phrase hz="排行" py="pái,háng" />
 		<phrase hz="排难" py="pái,nàn" />
