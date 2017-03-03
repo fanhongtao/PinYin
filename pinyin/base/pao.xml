@@ -2,6 +2,10 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="抛" py="pāo" />
 	<char hz="泡" py="pāo" multi="pào">
+		<phrase hz="泡货" py="pāo,huò" info="〈方〉体积大而重量轻的货物" />
+		<phrase hz="泡桐" py="pāo,tóng" info="落叶乔木，叶子大，花冠紫色，结蒴果，长圆形。 木材质地疏松，可制乐器、模型等" />
+		<phrase hz="泡子" py="pāo,zi" info="1.〈方〉小湖，池塘;虚而轻软 2.指鸦片烟泡 3.指质薄形圆中空的东西 4.〈方〉小湖" />
+		<phrase hz="眼泡" py="yǎn,pāo" info="上眼皮" />
 		<definition id="二">
 			<item id="1" text="（-儿）鼓起而松软的东西：豆腐~儿." />
 			<item id="2" text="虚而松软，不坚硬：这块木料发~." />
@@ -53,13 +57,33 @@
 	<char hz="袍" py="páo" />
 	<char hz="匏" py="páo" />
 	<char hz="跑" py="páo" multi="pǎo">
+		<phrase hz="虎跑泉" py="hǔ,páo,quán" />
 		<phrase hz="跑槽" py="páo,cáo" />
-		<phrase hz="虎跑泉" py="hǔ,pǎo,quán" />
 		<definition id="二">
 			<item text="走兽用脚刨地：~槽（牲口刨槽根）. 虎~泉（在杭州）." />
 		</definition>
 	</char>
-	<char hz="跑" py="pǎo" multi="páo" main="1">
+	<char hz="跑" py="pǎo" multi="páo" main="1" suppressLog="1">
+		<phrase hz="奔跑" py="bēn,pǎo" />
+		<phrase hz="短跑" py="duǎn,pǎo" />
+		<phrase hz="飞跑" py="fēi,pǎo" />
+		<phrase hz="跑步" py="pǎo,bù" />
+		<phrase hz="跑车" py="pǎo,chē" />
+		<phrase hz="跑道" py="pǎo,dào" />
+		<phrase hz="跑单帮" py="pǎo,dān,bāng" info="指以经商为职业的个人往来各地贩卖货物牟取利润" />
+		<phrase hz="跑旱船" py="pǎo,hàn,chuán" info="一种民间舞蹈，扮演女子的人站在用竹片和布等扎成的无底船中间，船舷系在身上。 另一人扮演艄公，手持木桨，作划船状。两人合舞，或边舞边唱，如船飘浮在水面之上，有的地区又叫采船。" />
+		<phrase hz="跑江湖" py="pǎo,jiāng,hú" info="指旧时以卖艺、算卦、相面、卖药等为职业，来往各地谋求生活。" />
+		<phrase hz="跑龙套" py="pǎo,lóng,tào" info="原指戏曲中拿着旗子做兵卒的角色，后比喻在人手下做无关紧要的事。" />
+		<phrase hz="跑马" py="pǎo,mǎ" />
+		<phrase hz="跑马卖解" py="pǎo,mǎ,mài,xiè" info="旧时指在马上表演各种技艺，以此赚钱谋生。也说“跑马解”、“跑解马”。" />
+		<phrase hz="跑码头" py="pǎo,mǎ,tou" info="旧时指来往于沿海沿江河的大城市做买卖为生" />
+		<phrase hz="跑堂" py="pǎo,táng" info="旧时称酒饭馆中的服务员。" />
+		<phrase hz="跑题" py="pǎo,tí" info="指说话，文章，事情离开了主题、正题" />
+		<phrase hz="跑鞋" py="pǎo,xié" />
+		<phrase hz="跑外" py="pǎo,wài" info="专门在外面办货、收帐或兜揽生意" />
+		<phrase hz="起跑" py="qǐ,pǎo" />
+		<phrase hz="赛跑" py="sài,pǎo" />
+		<phrase hz="逃跑" py="táo,pǎo" />
 		<definition id="一">
 			<item id="1" text="奔，两只脚或四条腿交互向前跃进：赛~. ~步. (引)很快地移动：汽车在公路上飞~." />
 			<item id="2" text="逃跑，逃走：鸟儿关在笼里~不了. (喻)漏出：~电. ~油." />
@@ -68,6 +92,32 @@
 	</char>
 	<char hz="奅" py="pào" />
 	<char hz="泡" py="pào" multi="pāo" main="1">
+		<phrase hz="打泡" py="dǎ,pào" />
+		<phrase hz="灯泡" py="dēng,pào" />
+		<phrase hz="肥皂泡" py="féi,zào,pào" />
+		<phrase hz="肺泡" py="fèi,pào" />
+		<phrase hz="浸泡" py="jìn,pào" />
+		<phrase hz="燎泡" py="liáo,pào" info="皮肤上因火或热水烫伤而起的水泡。" />
+		<phrase hz="燎浆泡" py="liáo,jiāng,pào" info="见“燎泡”。" />
+		<phrase hz="冒泡" py="mào,pào" />
+		<phrase hz="泡病号" py="pào,bìng,hào" info="借故称病长期不上班，或小病大养" />
+		<phrase hz="泡菜" py="pào,cài" />
+		<phrase hz="泡茶" py="pào,chá" />
+		<phrase hz="泡灯" py="pào,dēng" info="古代一种灯具。" />
+		<phrase hz="泡饭" py="pào,fàn" />
+		<phrase hz="泡面" py="pào,miàn" />
+		<phrase hz="泡蘑菇" py="pào,mó,gu" info="[口]故意东拉西扯或纠缠，来拖延时间" />
+		<phrase hz="泡沫" py="pào,mò" />
+		<phrase hz="泡妞" py="pào,niū" />
+		<phrase hz="泡泡" py="pào,pào" />
+		<phrase hz="泡汤" py="pào,tāng" />
+		<phrase hz="泡腾" py="pào,téng" info="起气泡并发出嘶嘶声(如发酵的液体或苏打水);亦指放出气泡(如从苏打水中释放出气泡)" />
+		<phrase hz="泡漩" py="pào,xuán" info="波浪翻滚并有漩涡的水流" />
+		<phrase hz="泡影" py="pào,yǐng" />
+		<phrase hz="泡澡" py="pào,zǎo" />
+		<phrase hz="起泡" py="qǐ,pào" info="1.起水泡 2.起泡沫" />
+		<phrase hz="水泡" py="shuǐ,pào" />
+		<phrase hz="液泡" py="yè,pào" info="细胞质中含有的泡状物，外有薄膜与细胞质分开，内有液体" />
 		<definition id="一">
 			<item id="1" text="（-儿）气体在液体内使液体鼓起来形成的球状或半球状体（(连)-沫）：冒~儿." />
 			<item id="2" text="（-儿）像泡一样的东西：脚上起了一个~. 电灯~儿." />
