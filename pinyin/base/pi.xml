@@ -20,6 +20,19 @@
 		<phrase hz="披靡" py="pī,mǐ" />
 	</char>
 	<char hz="劈" py="pī" multi="pǐ" main="1">
+		<phrase hz="尖劈" py="jiān,pī" />
+		<phrase hz="劈刺" py="pī,cì" info="劈刀和刺杀的统称" />
+		<phrase hz="劈刀" py="pī,dāo" info="1.刀背较厚的刀,用来劈竹子、木头等。 2.用军刀砍杀的技术。" />
+		<phrase hz="劈风斩浪" py="pī,fēng,zhǎn,làng" info="指冲破风浪。" />
+		<phrase hz="劈荆斩棘" py="pī,jīng,zhǎn,jí" info="1.砍伐荆棘。 2.比喻扫除前进中的困难和障碍。" />
+		<phrase hz="劈面" py="pī,miàn" info="迎面，正对着脸" />
+		<phrase hz="劈啪" py="pī,pā" info="形容爆裂、拍打的声音" />
+		<phrase hz="劈劈啪啪" py="pī,pī,pā,pā" />
+		<phrase hz="劈手" py="pī,shǒu" info="形容手的动作异常迅速,使人来不及防备" />
+		<phrase hz="劈头" py="pī,tóu" info="1.正冲着头;迎头 2.开头;起首" />
+		<phrase hz="劈头盖脸" py="pī,tóu,gài,liǎn" info="劈：正对着，冲着；盖：压。正对着头和脸盖下来。形容（打击、冲击、批评等）来势很猛。" />
+		<phrase hz="劈胸" py="pī,xiōng" info="对胸;对准胸前" />
+		<phrase hz="天打雷劈" py="tiān,dǎ,léi,pī" info="比喻不得好死。常用作骂人或赌咒的话。" />
 		<definition id="一">
 			<item id="1" text="用刀斧等破开：~木头." />
 			<item id="2" text="冲着，正对着：~脸. 大雨~头浇下来." />
@@ -105,6 +118,8 @@
 	<char hz="痞" py="pǐ" />
 	<char hz="嚭" py="pǐ" />
 	<char hz="劈" py="pǐ" multi="pī">
+		<phrase hz="劈叉" py="pǐ,chà" info="将两腿较大的叉开。" />
+		<phrase hz="劈柴" py="pǐ,chái" info="用斧子把短原木劈成的块状木柴。" />
 		<definition id="二">
 			<item text="分开：~柴. ~成两份儿. ~一半给你." />
 		</definition>
