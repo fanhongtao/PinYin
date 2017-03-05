@@ -34,7 +34,7 @@
 		<phrase hz="蹁跹" py="pián,xiān" />
 	</char>
 	<char hz="谝" py="piǎn" />
-	<char hz="片" py="piàn" multi="piān" main="1">
+	<char hz="片" py="piàn" multi="piān" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="（-子、-儿）平而薄的物体：明信~. 铁~子." />
 			<item id="2" text="切削成薄片：~肉片. 把豆腐干~一~." />
