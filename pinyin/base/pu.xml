@@ -47,6 +47,19 @@
 	<char hz="镤" py="pú" />
 	<char hz="濮" py="pú" />
 	<char hz="朴" py="pǔ" multi="piáo,pō,pò" main="1">
+		<phrase hz="纯朴" py="chún,pǔ" info="淳朴;纯正朴素" />
+		<phrase hz="淳朴" py="chún,pǔ" info="敦厚质朴" />
+		<phrase hz="古朴" py="gǔ,pǔ" info="古老而质朴" />
+		<phrase hz="浑朴" py="hún,pǔ" info="淳朴无华;雄厚朴实" />
+		<phrase hz="简朴" py="jiǎn,pǔ" info="朴素简单" />
+		<phrase hz="俭朴" py="jiǎn,pǔ" info="俭省朴实" />
+		<phrase hz="朴厚" py="pǔ,hòu" info="质朴诚厚" />
+		<phrase hz="朴陋" py="pǔ,lòu" info="质朴无华;质朴鄙陋" />
+		<phrase hz="朴实" py="pǔ,shí" info="淳朴诚实;质朴笃实" />
+		<phrase hz="朴素" py="pǔ,sù" info="1.质朴;无文彩 2.俭仆，不奢侈" />
+		<phrase hz="朴直" py="pǔ,zhí" info="朴实直率" />
+		<phrase hz="素朴" py="sù,pǔ" info="1.朴素;朴实无华 2.刚产生的;未发展的" />
+		<phrase hz="质朴" py="zhì,pǔ" info="朴实；不矫饰" />
 		<definition id="二">
 			<item text="没有细加工的木料。 (喻)朴实，朴素。" />
 		</definition>
