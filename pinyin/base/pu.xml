@@ -8,6 +8,12 @@
 	</char>
 	<char hz="扑" py="pū" />
 	<char hz="铺" py="pū" multi="pù" main="1">
+		<phrase hz="平铺直叙" py="píng,pū,zhí,xù" info="铺：铺陈；叙：叙述。说话或写文章不加修饰，没有起伏，重点不突出。" />
+		<phrase hz="铺垫" py="pū,diàn" info="1.铺在床上的卧具。 2.行将来临的事物的衬托。" />
+		<phrase hz="铺盖" py="pū,gài" info="1.平铺着覆盖。 2.床上供取暖或装饰用的织物(如被子、毯子、罩单或被单)。 3.床单、毯子或其他床上用品。" />
+		<phrase hz="铺天盖地" py="pū,tiān,gài,dì" info="一下子到处都是。形容来势很猛。" />
+		<phrase hz="铺叙" py="pū,xù" info="详细地叙述" />
+		<phrase hz="铺张" py="pū,zhāng" info="过分讲究排场而耗费许多财物。" />
 		<definition id="一">
 			<item text="把东西散开放置，平摆：~轨. 平~直叙（说话作文没有精彩处）. 为实现共产主义社会~平道路." />
 			<item text="[铺张]为了在形式上好看而多用人力物力：反对~~浪费." />
@@ -18,6 +24,12 @@
 	</char>
 	<char hz="潽" py="pū" />
 	<char hz="仆" py="pú" multi="pū" main="1">
+		<phrase hz="公仆" py="gōng,pú" />
+		<phrase hz="奴仆" py="nú,pú" />
+		<phrase hz="仆从" py="pú,cóng" />
+		<phrase hz="仆夫" py="pú,fū" />
+		<phrase hz="仆人" py="pú,rén" />
+		<phrase hz="仆役" py="pú,yì" />
 		<definition id="二">
 			<item id="1" text="雇到家里做杂事、供役使的人：~人. 女~. [仆从]旧时指跟随在身边的仆人。 (喻)受人控制并追随别人的：~~国." />
 			<item id="2" text="旧时男子谦称自己。" />
@@ -84,12 +96,15 @@
 	<char hz="镨" py="pǔ" />
 	<char hz="蹼" py="pǔ" />
 	<char hz="铺" py="pù" multi="pū">
-		<phrase hz="饭铺" py="fàn,pù" />
-		<phrase hz="杂货铺" py="zá,huò,pù" />
 		<phrase hz="床铺" py="chuáng,pù" />
-		<phrase hz="上下铺" py="shàng,xià,pù" />
+		<phrase hz="店铺" py="diàn,pù" info="商店，又称铺子" />
+		<phrase hz="饭铺" py="fàn,pù" />
 		<phrase hz="临时搭铺" py="lín,shí,dā,pù" />
 		<phrase hz="三十里铺" py="sān,shí,lǐ,pù" />
+		<phrase hz="上下铺" py="shàng,xià,pù" />
+		<phrase hz="卧铺" py="wò,pù" info="火车上供旅客睡觉的铺位" />
+		<phrase hz="药铺" py="yào,pù" info="出售中药的店铺，有的兼售西药" />
+		<phrase hz="杂货铺" py="zá,huò,pù" />
 		<definition id="二">
 			<item id="1" text="（-子、-儿）商店：饭~. 杂货~." />
 			<item id="2" text="床（(连)床-）：上下~. 临时搭~." />
