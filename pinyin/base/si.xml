@@ -62,6 +62,7 @@
 	<char hz="笥" py="sì" />
 	<char hz="嗣" py="sì" />
 	<char hz="俟" py="sì" multi="qí" main="1">
+		<phrase hz="俟机" py="sì,jī" info="等待时机" />
 		<definition id="一">
 			<item text="等待：~机. ~该书出版后即寄去." />
 		</definition>

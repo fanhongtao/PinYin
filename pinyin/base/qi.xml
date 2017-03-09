@@ -3,7 +3,7 @@
 	<char hz="七" py="qī" />
 	<char hz="柒" py="qī" />
 	<char hz="沏" py="qī" />
-	<char hz="妻" py="qī" multi="qì" main="1">
+	<char hz="妻" py="qī" multi="qì" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="（-子）男子的配偶，跟“夫”相对。" />
 		</definition>
@@ -12,6 +12,9 @@
 	<char hz="郪" py="qī" />
 	<char hz="萋" py="qī" />
 	<char hz="栖" py="qī" multi="xī" main="1">
+		<phrase hz="两栖" py="liǎng,qī" info="能在水中与陆上生活或活动。如：两栖动物，水陆两栖坦克。" />
+		<phrase hz="栖身" py="qī,shēn" info="寄生;暂住" />
+		<phrase hz="栖息" py="qī,xī" info="1.止息；寄居；2.指寄居之所；3.谓隐居。" />
 		<definition id="一">
 			<item text="鸟停留在树上。 (引)居住，停留：两~. ~身之处." />
 			<item text="[栖霞]地名，在山东省。" />
@@ -61,6 +64,7 @@
 	<char hz="蕲" py="qí" />
 	<char hz="芪" py="qí" />
 	<char hz="祇" py="qí" multi="zhǐ" main="1">
+		<phrase hz="神祇" py="shén,qí" info="指天神和地神,泛指神明" />
 		<definition id="一">
 			<item text="古代称地神。" />
 		</definition>
@@ -176,7 +180,18 @@
 			<item text="屡次：~来问讯." />
 		</definition>
 	</char>
-	<char hz="契" py="qì" multi="xiè" main="1">
+	<char hz="契" py="qì" multi="xiè" main="1" suppressLog="1">
+		<phrase hz="房契" py="fáng,qì" info="房产生意成交后的契据" />
+		<phrase hz="活契" py="huó,qì" info="出卖房地产时所立的，规定还可以赎回的契约。" />
+		<phrase hz="默契" py="mò,qì" info="1.心声情意暗相符合 2.默默承认的条件、限定或规定" />
+		<phrase hz="契合" py="qì,hé" info="1.投合，意气相投 2.结盟;结拜" />
+		<phrase hz="契机" py="qì,jī" info="机会，转折变化的机缘" />
+		<phrase hz="契友" py="qì,yǒu" info="情投意合的朋友" />
+		<phrase hz="契约" py="qì,yuē" info="双方或多方共同协议订立的有关买卖、抵押、租赁等关系的文书" />
+		<phrase hz="死契" py="sǐ,qì" info="注明不得赎回的契约。" />
+		<phrase hz="田契" py="tián,qì" info="旧时拥有、买卖、转让田地的书面凭证" />
+		<phrase hz="投契" py="tóu,qì" info="投合;见解或意气相投" />
+		<phrase hz="贤契" py="xián,qì" info="对弟子或朋友子侄辈的敬称(多用于书面)" />
 		<definition id="一">
 			<item id="1" text="用刀雕刻。" />
 			<item id="2" text="刻的文字：书~." />
