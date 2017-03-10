@@ -19,7 +19,7 @@
 	<char hz="牵" py="qiān">
 		<phrase hz="牵强" py="qiān,qiǎng" />
 	</char>
-	<char hz="铅" py="qiān" multi="yán" main="1">
+	<char hz="铅" py="qiān" multi="yán" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="一种金属元素，符号Pb，银灰色，质地软，熔点低。 [铅铁]指镀锌铁。 [铅字]印刷用的铅、锡、锑合金铸成的活字。" />
 			<item id="2" text="石墨：~笔." />
@@ -76,13 +76,18 @@
 	<char hz="芡" py="qiàn" />
 	<char hz="嵌" py="qiàn" />
 	<char hz="纤" py="qiàn" multi="xiān">
-		<phrase hz="纤手" py="qiàn,shǒu" />
 		<phrase hz="拉纤" py="lā,qiàn" />
+		<phrase hz="纤夫" py="qiàn,fū" />
+		<!-- <phrase hz="纤手" py="qiàn,shǒu" duoyin="xiān,shǒu" info="给人介绍买卖产业的人"/> -->
 		<definition id="一">
 			<item text="拉船的绳。 [纤手]给人介绍买卖产业的人。 [拉纤]1.拉着纤绳使船前进。 2.给人介绍买卖产业从中取利。" />
 		</definition>
 	</char>
 	<char hz="茜" py="qiàn" multi="xī" main="1">
+		<phrase hz="茜草" py="qiàn,cǎo" />
+		<phrase hz="茜罗" py="qiàn,luó" info="绛红色的薄丝织品。" />
+		<phrase hz="茜裙" py="qiàn,qún" info="1.绛红色的裙子。2.指女子。" />
+		<phrase hz="染茜" py="rǎn,qiàn" info="染成大红色。" />
 		<definition id="一">
 			<item id="1" text="茜草，多年生蔓草，茎有刺毛，初秋开花，黄色。根红色，可做染料，也可入药。" />
 			<item id="2" text="红色。" />
