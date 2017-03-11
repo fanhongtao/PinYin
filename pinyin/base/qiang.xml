@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="抢" py="qiāng" multi="qiǎng">
+		<phrase hz="呼天抢地" py="hū,tiān,qiāng,dì" />
 		<definition id="二">
 			<item text="同“戗(qiāng)(1)”。" />
 		</definition>
@@ -14,6 +15,8 @@
 	<char hz="玱" py="qiāng" />
 	<char hz="枪" py="qiāng" />
 	<char hz="戗" py="qiāng" multi="qiàng" main="1">
+		<phrase hz="戗风" py="qiāng,fēng" info="逆风。与风向相对" />
+		<phrase hz="戗水" py="qiāng,shuǐ" info="逆水。逆着水流的方向。" />
 		<definition id="一">
 			<item id="1" text="逆，反方向：~风. ~水." />
 			<item id="2" text="（言语）冲突：说~了." />
@@ -96,7 +99,8 @@
 	</char>
 	<char hz="嫱" py="qiáng" />
 	<char hz="樯" py="qiáng" />
-	<char hz="抢" py="qiǎng" multi="qiāng" main="1">
+	<char hz="抢" py="qiǎng" multi="qiāng" main="1" suppressLog="1">
+		<phrase hz="抢占" py="qiǎng,zhàn" info="抢在敌人前面占领有利地形或重要地点的作战行动" />
 		<definition id="一">
 			<item id="1" text="夺，硬拿（(连)-夺）：~球. ~劫. 他把我的信~去了." />
 			<item id="2" text="赶快，赶紧，争先：~着把活做了. ~修河堤." />
@@ -107,17 +111,18 @@
 	<char hz="强" py="qiǎng" multi="jiàng,qiáng">
 		<phrase hz="勉强" py="miǎn,qiǎng" />
 		<phrase hz="牵强" py="qiān,qiǎng" />
-		<phrase hz="强不知以为知" py="qiǎng,bù,zhī,yǐ,wéi,zhī" info="不懂装懂。" />
 		<phrase hz="强辩" py="qiǎng,biàn" />
+		<phrase hz="强不知以为知" py="qiǎng,bù,zhī,yǐ,wéi,zhī" info="不懂装懂。" />
 		<phrase hz="强词夺理" py="qiǎng,cí,duó,lǐ" />
-		<phrase hz="强求" py="qiǎng,qiú" info="硬要求;勉强以求" />
 		<phrase hz="强迫" py="qiǎng,pò" />
+		<phrase hz="强求" py="qiǎng,qiú" info="硬要求;勉强以求" />
 		<phrase hz="强人所难" py="qiǎng,rén,suǒ,nán" />
 		<definition id="二">
 			<item text="硬要，迫使：~迫. 牵~. ~词夺理. 不能~人所难." />
 		</definition>
 	</char>
 	<char hz="镪" py="qiǎng" multi="qiāng" main="1">
+		<phrase hz="白镪" py="bái,qiǎng" info="白银的别称。" />
 		<definition id="一">
 			<item text="〈古〉指成串的钱。 [白镪]银子。" />
 		</definition>
@@ -126,12 +131,15 @@
 		<phrase hz="襁褓" py="qiǎng,bǎo" />
 	</char>
 	<char hz="呛" py="qiàng" multi="qiāng" info="Word主音">
+		<phrase hz="够呛" py="gòu,qiàng" />
 		<definition id="二">
 			<item text="有刺激性的气体使鼻子、嗓子等器官感到不舒服：烟~嗓子. 辣椒味~得难受." />
 		</definition>
 	</char>
 	<char hz="戗" py="qiàng" multi="qiāng">
 		<phrase hz="够戗" py="gòu,qiàng" />
+		<phrase hz="戗面" py="qiàng,miàn" info="掺揉进较多干面粉的发面" />
+		<phrase hz="戗柱" py="qiàng,zhù" info="从旁支撑房屋的木柱。" />
 		<definition id="二">
 			<item text="支持，支撑：墙要倒，拿杠子~住. [够戗]形容十分厉害，很难支持：他忙得真~~. 他病得~~." />
 		</definition>
