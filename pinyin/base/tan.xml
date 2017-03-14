@@ -57,6 +57,7 @@
 		</definition>
 	</char>
 	<char hz="覃" py="tán" multi="qín" main="1">
+		<phrase hz="覃思" py="tán,sī" info="深思。" />
 		<definition id="一">
 			<item id="1" text="深：~思." />
 			<item id="2" text="延伸：葛之~兮." />

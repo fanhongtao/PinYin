@@ -8,7 +8,7 @@
 	</char>
 	<char hz="侵" py="qīn" />
 	<char hz="骎" py="qīn" />
-	<char hz="亲" py="qīn" multi="qìng" main="1">
+	<char hz="亲" py="qīn" multi="qìng" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="亲属，有血统或夫妻关系的：~人. ~兄弟. 特指父母：双~. 养~." />
 			<item id="2" text="婚姻：定~. ~事." />

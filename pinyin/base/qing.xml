@@ -37,7 +37,7 @@
 	</char>
 	<char hz="庆" py="qìng" />
 	<char hz="亲" py="qìng" multi="qīn">
-		<phrase hz="亲家" py="qìng,qìng" />
+		<phrase hz="亲家" py="qìng,jia" />
 		<definition id="二">
 			<item text="[亲家]夫妻双方的父母彼此的关系或称呼。" />
 		</definition>
