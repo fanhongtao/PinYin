@@ -6,8 +6,8 @@
 	<char hz="缺" py="quē" />
 	<char hz="阙" py="quē" multi="què">
 		<phrase hz="阙如" py="quē,rú" />
-		<phrase hz="阙疑" py="quē,yí" />
 		<phrase hz="阙失" py="quē,shī" />
+		<phrase hz="阙疑" py="quē,yí" />
 		<definition id="二">
 			<item id="1" text="古代用作“缺”字。 [阙如]空缺：尚付~~. [阙疑]有怀疑的事情暂时不下断语，留待查考。" />
 			<item id="2" text="过错：~失。" />
@@ -32,6 +32,12 @@
 	</char>
 	<char hz="阕" py="què" />
 	<char hz="阙" py="què" multi="quē" main="1">
+		<phrase hz="北阙" py="běi,què" info="1.古代宫殿北面的门楼。 是臣子等候朝见或上书奏事之处。 2.用为宫禁或朝廷的别称。" />
+		<phrase hz="城阙" py="chéng,què" info="1.城门两旁的瞭望阁楼。 2.宫殿。 3.城市,特指京城。" />
+		<phrase hz="宫阙" py="gōng,què" info="古时帝王所居住的宫殿。 因宫门外有双阙，故称宫阙" />
+		<phrase hz="京阙" py="jīng,què" info="京城、皇宮。" />
+		<phrase hz="墓阙" py="mù,què" info="古代陵墓前的石建筑，通常左右各一。" />
+		<phrase hz="天阙" py="tiān,què" info="1.天上的宮闕。 2.京城，皇帝所住的地方。 3.星名。" />
 		<definition id="一" text="〈古〉">
 			<item id="1" text="皇宫门前面两边的楼：宫~." />
 			<item id="2" text="墓道外所立的石牌坊。" />
