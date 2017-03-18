@@ -14,7 +14,7 @@
 	<char hz="miss: 衤襄" py="ráng" info="special" />
 	<char hz="壤" py="rǎng" />
 	<char hz="攘" py="rǎng" />
-	<char hz="嚷" py="rǎng" multi="rāng" main="1">
+	<char hz="嚷" py="rǎng" multi="rāng" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="大声喊叫：大~大叫. 你别~了，大家都睡觉了." />
 		</definition>
