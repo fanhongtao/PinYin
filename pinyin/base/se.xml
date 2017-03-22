@@ -17,11 +17,19 @@
 	<char hz="穑" py="sè" />
 	<char hz="瑟" py="sè" />
 	<char hz="塞" py="sè" multi="sāi,sài">
-		<phrase hz="闭塞" py="bì,sè" />
-		<phrase hz="堵塞" py="dǔ,sè" />
-		<phrase hz="阻塞" py="zǔ,sè" />
-		<phrase hz="塞责" py="sè,zé" />
 		<phrase hz="闭目塞听" py="bì,mù,sè,tīng" />
+		<phrase hz="闭塞" py="bì,sè" info="1.堵塞不通 2.以闭塞信号系统管理[火车] 3.交通不便;偏僻 4.消息不灵通" />
+		<phrase hz="堵塞" py="dǔ,sè" />
+		<phrase hz="哽塞" py="gěng,sè" info="充血或堵塞(如鼻腔)" />
+		<phrase hz="梗塞" py="gěng,sè" info="阻塞，壅塞不通" />
+		<phrase hz="茅塞" py="máo,sè" />
+		<phrase hz="塞责" py="sè,zé" info="做事不认真，敷衍了事" />
+		<phrase hz="唐塞" py="táng,sè" info="同“搪塞”。" />
+		<phrase hz="搪塞" py="táng,sè" info="塘堤有万孔，只塞其一。 引申为敷衍，不负责" />
+		<phrase hz="拥塞" py="yōng,sè" info="1.阻塞，阻隔 2.丛聚;拥挤充塞" />
+		<phrase hz="淤塞" py="yū,sè" info="沉积的泥沙使水流不畅" />
+		<phrase hz="语塞" py="yǔ,sè" info="(因激动、气愤或理亏等原因)话说不出。" />
+		<phrase hz="阻塞" py="zǔ,sè" info="有障碍而不能通过" />
 		<definition id="二">
 			<item text="同“塞(一)(1)”. 用于某些合成词或成语中，如“闭塞、堵塞、阻塞、塞责、闭目塞听”等。" />
 		</definition>
