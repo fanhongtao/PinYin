@@ -3,7 +3,7 @@
 	<char hz="山" py="shān" />
 	<char hz="舢" py="shān" />
 	<char hz="芟" py="shān" />
-	<char hz="杉" py="shān" multi="shā" main="1">
+	<char hz="杉" py="shān" multi="shā" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="常绿乔木，树干高而直，叶子细小，呈针状，果实球形。木材供建筑和制器具用。 [水杉]落叶乔木，叶披针形。我国特产，是世界现在的稀有植物之一。" />
 		</definition>
