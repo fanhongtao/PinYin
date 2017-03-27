@@ -122,7 +122,8 @@
 		<phrase hz="蚱蜢" py="zhà,měng" />
 	</char>
 	<char hz="榨" py="zhà" />
-	<char hz="栅" py="zhà" multi="shān" main="1">
+	<char hz="栅" py="zhà" multi="shān" main="1" suppressLog="1">
+		<phrase hz="栅栏" py="zhà,lán" />
 		<definition id="一">
 			<item text="栅栏，用竹、木、铁条等做成的阻拦物：篱笆~. 铁~栏." />
 		</definition>

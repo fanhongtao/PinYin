@@ -57,6 +57,9 @@
 		<phrase hz="蔓延" py="màn,yán" />
 	</char>
 	<char hz="埏" py="yán" multi="shān">
+		<phrase hz="八埏" py="bā,yán" info="八方邊遠之地。" />
+		<phrase hz="垓埏" py="gāi,yán" info="天地的邊際，指至遠之地。" />
+		<phrase hz="埏隧" py="yán,suì" info="墓道。" />
 		<definition id="二">
 			<item id="1" text="大地的边沿。" />
 			<item id="2" text="墓道。" />
