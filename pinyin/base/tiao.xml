@@ -12,7 +12,7 @@
 	<char hz="祧" py="tiāo" />
 	<char hz="条" py="tiáo" />
 	<char hz="鲦" py="tiáo" />
-	<char hz="苕" py="tiáo" multi="sháo" main="1">
+	<char hz="苕" py="tiáo" multi="sháo" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="古书上指凌霄花，也叫“紫葳”。落叶藤本植物，开红花。" />
 			<item id="2" text="茹子，一年生草本植物，花紫色。可以做绿肥。" />
