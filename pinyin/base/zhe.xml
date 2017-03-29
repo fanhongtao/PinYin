@@ -2,6 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="折" py="zhē" multi="shé,zhé">
 		<phrase hz="折跟头" py="zhē,gēn,tou" />
+		<phrase hz="折腾" py="zhē,teng" info="1.翻来覆去 2.反复做[某事]" />
 		<definition id="三">
 			<item text="翻转，倒腾：~跟头. 用两个碗把开水~一~就凉了." />
 		</definition>
@@ -18,7 +19,7 @@
 			<item text="同“蜇(二)(1)”，用于口语。" />
 		</definition>
 	</char>
-	<char hz="折" py="zhé" multi="shé,zhē" main="1">
+	<char hz="折" py="zhé" multi="shé,zhē" main="1" suppressLog="1">
 		<phrase hz="折磨" py="zhé,mó" />
 		<definition id="一">
 			<item id="1" text="断，弄断：禁止攀~花木. (喻)幼年死亡：夭~. [折磨](-mó)使肉体或精神上受痛苦：解放前劳动人民受尽了~~." />

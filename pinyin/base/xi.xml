@@ -96,7 +96,7 @@
 	</char>
 	<char hz="翕" py="xī" />
 	<char hz="噏" py="xī" />
-	<char hz="歙" py="xī" multi="shè" main="1">
+	<char hz="歙" py="xī" multi="shè" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="吸气。" />
 		</definition>
