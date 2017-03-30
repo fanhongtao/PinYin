@@ -40,6 +40,8 @@
 	</char>
 	<char hz="鲹" py="shēn" />
 	<char hz="莘" py="shēn" multi="xīn" main="1">
+		<phrase hz="莘莘" py="shēn,shēn" info="数量众多的样子" />
+		<phrase hz="莘县" py="shēn,xiàn" info="山东省聊城市辖县，位于山东省西部、聊城市西南部，冀鲁豫三省交界处。" />
 		<definition id="一">
 			<item id="1" text="莘县，在山东省。" />
 			<item id="2" text="姓。" />
@@ -55,6 +57,7 @@
 		</definition>
 	</char>
 	<char hz="甚" py="shén" multi="shèn">
+		<phrase hz="甚么" py="shén,me" />
 		<definition id="二">
 			<item text="同“什”(shén)。" />
 		</definition>
@@ -74,7 +77,8 @@
 	<char hz="矧" py="shěn" />
 	<char hz="谂" py="shěn" />
 	<char hz="肾" py="shèn" />
-	<char hz="甚" py="shèn" multi="shén" main="1">
+	<char hz="甚" py="shèn" multi="shén" main="1" suppressLog="1">
+		<phrase hz="甚至" py="shèn,zhì" info="表示所提出的是突出的、进一步的事例" />
 		<definition id="一">
 			<item id="1" text="很，极：进步~快. 他说得未免过~. [甚至][甚至于]连词，表示更进一层：不学习就会落后，~~会犯错误. 这件事扰乱了他的生活，~~~影响了他的工作." />
 			<item id="2" text="超过，胜过：更有~者. 日~一日." />
@@ -83,11 +87,14 @@
 	</char>
 	<char hz="葚" py="shèn" multi="rèn" main="1">
 		<phrase hz="桑葚" py="sāng,shèn" />
+		<phrase hz="食葚" py="shí,shèn" info="亦作“食椹”。比喻受人恩惠。" />
 		<definition id="一">
 			<item text="[桑葚]桑树结的果实。" />
 		</definition>
 	</char>
 	<char hz="椹" py="shèn" multi="zhēn" info="Word主音">
+		<phrase hz="桑椹" py="sāng,shèn" />
+		<phrase hz="食椹" py="shí,shèn" info="见“食葚”。" />
 		<definition id="二">
 			<item text="同“葚”。" />
 		</definition>

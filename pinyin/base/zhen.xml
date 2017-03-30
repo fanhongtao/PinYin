@@ -34,6 +34,9 @@
 		<phrase hz="斟酌" py="zhēn,zhuó" />
 	</char>
 	<char hz="椹" py="zhēn" multi="shèn" main="1">
+		<phrase hz="椹板" py="zhēn,bǎn" info="切菜用的木板。" />
+		<phrase hz="椹斧" py="zhēn,fǔ" info="砧和斧。 古代杀人之具。" />
+		<phrase hz="椹质" py="zhēn,zhì" info="1.箭靶。2.指腰斩人时所用的垫板。" />
 		<definition id="一">
 			<item text="同“砧”。" />
 		</definition>
