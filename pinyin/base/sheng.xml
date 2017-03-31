@@ -19,7 +19,17 @@
 		</definition>
 	</char>
 	<char hz="绳" py="shéng" />
-	<char hz="省" py="shěng" multi="xǐng" main="1">
+	<char hz="省" py="shěng" multi="xǐng" main="1" suppressLog="1">
+		<phrase hz="节省" py="jié,shěng" />
+		<phrase hz="尚书省" py="shàng,shū,shěng" info="官署名。秦、漢置尚書掌奏章文書，至唐、宋，與中書省、門下省合稱為「三省」，下統六部，分掌國政。明初設六部尚書，分為六署，屬中書省；洪武十三年撤中書省，分其政於六部，而尚書之權始重。因古時尚書省多位在宮闕的北面，故亦稱為「北省」。" />
+		<phrase hz="省便" py="shěng,biàn" info="既省事，又方便;不麻烦" />
+		<phrase hz="省城" py="shěng,chéng" info="省政府所在地，省会" />
+		<phrase hz="省份" py="shěng,fèn" />
+		<phrase hz="省略" py="shěng,lüè" />
+		<phrase hz="省会" py="shěng,huì" duoyin="xǐng,huì" info="省政府所在地。" />
+		<phrase hz="省事" py="shěng,shì" duoyin="xǐng,shì" info="1.減少辦事的手續。2.方便、不麻煩。" />
+		<phrase hz="省心" py="shěng,xīn" info="不费心;少操心" />
+		<phrase hz="省垣" py="shěng,yuán" info="省会;省城" />
 		<definition id="一">
 			<item id="1" text="行政区划单位，直属中央。" />
 			<item id="2" text="节约，不费：~钱. ~时间. ~事." />
@@ -28,8 +38,9 @@
 	</char>
 	<char hz="眚" py="shěng" />
 	<char hz="圣" py="shèng" />
-	<char hz="胜" py="shèng" multi="shēng" main="1">
+	<char hz="胜" py="shèng" multi="shēng" main="1" suppressLog="1">
 		<phrase hz="哀兵必胜" py="āi,bīng,bì,shèng" />
+		<phrase hz="好胜" py="hào,shèng" info="各方面都想胜过他人" />
 		<definition id="一">
 			<item id="1" text="赢，胜利，跟“败”相对：打~仗. 得~." />
 			<item id="2" text="打败（对方）：以少~多." />
