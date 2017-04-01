@@ -30,6 +30,12 @@
 	<char hz="虚" py="xū" />
 	<char hz="墟" py="xū" />
 	<char hz="嘘" py="xū" multi="shī" main="1">
+		<phrase hz="吹嘘" py="chuī,xū" info="1.夸张地宣扬或编造优点、长处等 2.口出气;嘘气 3.过分夸奖 4.对人或事过分吹捧" />
+		<phrase hz="仰天而嘘" py="yǎng,tiān,ér,xū" />
+		<phrase hz="唏嘘" py="xī,xū" info="哭泣后不自主地急促呼吸；抽搭" />
+		<phrase hz="嘘寒问暖" py="xū,hán,wèn,nuǎn" info="嘘：缓缓吹气。形容对人的生活十分关切，问冷问热。 " />
+		<phrase hz="嘘唏" py="xū,xī" info="同“歔欷”。" />
+		<phrase hz="吁嘘" py="xū,xī" info="同“歔欷”。" />
 		<definition id="一">
 			<item id="1" text="从嘴里慢慢地吐气，呵气。" />
 			<item id="2" text="叹词：仰天而~." />

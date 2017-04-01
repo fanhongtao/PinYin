@@ -43,7 +43,7 @@
 	<char hz="值" py="zhí" />
 	<char hz="埴" py="zhí" />
 	<char hz="植" py="zhí" />
-	<char hz="殖" py="zhí" multi="shi" main="1">
+	<char hz="殖" py="zhí" multi="shi" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="生息，滋生（(连)生-）：繁~. [殖民地]被帝国主义国家剥夺了政治、经济的独立权力，并受它控制和掠夺的国家和地区。" />
 		</definition>
@@ -128,8 +128,9 @@
 	<char hz="豸" py="zhì" />
 	<char hz="忮" py="zhì" />
 	<char hz="识" py="zhì" multi="shí">
-		<phrase hz="博闻强识" py="bó,wén,qiáng,zhì" />
-		<phrase hz="款识" py="kuǎn,zhì" />
+		<phrase hz="博闻强识" py="bó,wén,qiáng,zhì" info="闻：见闻。形容知识丰富，记忆力强。" />
+		<phrase hz="附识" py="fù,zhì" info="附在文章、書刊上的有關記述。" />
+		<phrase hz="款识" py="kuǎn,zhì" info="1.古代钟鼎彝器上铸刻的文字。2.在书画上的题名。" />
 		<definition id="二">
 			<item id="1" text="记住：博闻强~." />
 			<item id="2" text="标志，记号：款~." />
@@ -150,7 +151,7 @@
 		<phrase hz="处治" py="chǔ,zhì" />
 	</char>
 	<char hz="栉" py="zhì" />
-	<char hz="峙" py="zhì" multi="shì" main="1">
+	<char hz="峙" py="zhì" multi="shì" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="直立，耸立：两峰相~." />
 		</definition>

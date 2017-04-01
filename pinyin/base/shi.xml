@@ -57,7 +57,8 @@
 	<char hz="时" py="shí" />
 	<char hz="埘" py="shí" />
 	<char hz="鲥" py="shí" />
-	<char hz="识" py="shí" multi="zhì" main="1">
+	<char hz="识" py="shí" multi="zhì" main="1" suppressLog="1">
+		<phrase hz="识相" py="shí,xiàng" info="能夠自知、自量、知趣。" />
 		<phrase hz="知识" py="zhī,shi" />
 		<definition id="一">
 			<item id="1" text="知道，认得，能辨别：~货. ~字. ~别真假." />
@@ -71,8 +72,9 @@
 	<char hz="拾" py="shí">
 		<phrase hz="拾掇" py="shí,duo" />
 	</char>
-	<char hz="食" py="shí" multi="sì" main="1">
+	<char hz="食" py="shí" multi="sì" main="1" suppressLog="1">
 		<phrase hz="粮食" py="liáng,shí" />
+		<phrase hz="食宿" py="shí,sù" info="1.饮食和住宿 2.[旅馆、饭店的]住宿、膳食和服务" />
 		<phrase hz="食相" py="shí,xiàng" />
 		<definition id="一">
 			<item id="1" text="吃：~肉. [食言]指失信：决不~~. [食指]即示指，手的第二指。(喻)家庭人口：~~众多." />
@@ -94,7 +96,7 @@
 	<char hz="屎" py="shǐ" />
 	<char hz="士" py="shì" />
 	<char hz="仕" py="shì" />
-	<char hz="氏" py="shì" multi="zhī" main="1">
+	<char hz="氏" py="shì" multi="zhī" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="姓。古代姓和氏有区别，氏从姓分出，后来姓和氏不分了，姓、氏可以混用。 [氏族]原始社会中由血统关系联系起来的人的集体，集体占有生产资料，集体生产，集体消费。" />
 			<item id="2" text="旧习惯对已婚妇女，通常在夫姓后再加父姓，父姓后加“氏”，作为称呼：张王~（夫姓张，父姓王）. " />
@@ -137,6 +139,7 @@
 	<char hz="视" py="shì" />
 	<char hz="是" py="shì" />
 	<char hz="适" py="shì" multi="kuò" main="1" suppressLog="1">
+		<phrase hz="适应" py="shì,yìng" />
 		<definition id="一">
 			<item id="1" text="切合，相合（(连)-合）：~宜. ~意. ~用." />
 			<item id="2" text="舒服：稍觉不~." />
@@ -158,7 +161,7 @@
 	<char hz="噬" py="shì" />
 	<char hz="奭" py="shì" />
 	<char hz="襫" py="shì" />
-	<char hz="螫" py="shì" multi="zhē" main="1">
+	<char hz="螫" py="shì" multi="zhē" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="有毒腺的虫子刺人或牲畜。" />
 		</definition>
