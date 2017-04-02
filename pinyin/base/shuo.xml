@@ -17,8 +17,10 @@
 	<char hz="槊" py="shuò" />
 	<char hz="硕" py="shuò" />
 	<char hz="数" py="shuò" multi="shǔ,shù">
-		<phrase hz="频数" py="pín,shuò" />
+		<phrase hz="多言数穷" py="duō,yán,shuò,qióng" info="言多必失，必有理屈的時候。" />
+		<phrase hz="频数" py="pín,shuò" info="接连多次" />
 		<phrase hz="数见不鲜" py="shuò,jiàn,bù,xiān" />
+		<!-- <phrase hz="数数" py="shuò,shuò" duoyin="shǔ,shù" info="1.屢次、頻繁。2.急迫。"/> -->
 		<definition id="三">
 			<item text="屡次（(连)频-）：~见不鲜(xiān)." />
 		</definition>
