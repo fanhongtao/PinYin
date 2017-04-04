@@ -22,7 +22,7 @@
 	<char hz="蓑" py="suō" />
 	<char hz="嗍" py="suō" />
 	<char hz="趖" py="suō" />
-	<char hz="缩" py="suō" multi="sù" main="1">
+	<char hz="缩" py="suō" multi="sù" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="向后退：不要畏~. 遇到困难决不退~." />
 			<item id="2" text="由大变小，由长变短，由多变少：热胀冷~. ~了半尺. ~短战线. 节衣~食. 紧~开支. [缩影]比喻可以代表同一类型的具体而微的人或事物。" />
