@@ -25,6 +25,10 @@
 	<char hz="獭" py="tǎ" />
 	<char hz="鳎" py="tǎ" />
 	<char hz="拓" py="tà" multi="tuò">
+		<phrase hz="碑拓" py="bēi,tà" info="拓印的碑帖。" />
+		<phrase hz="拓本" py="tà,běn" info="用纸紧覆在碑帖或金石等器物的文字或花纹上，用墨或其他颜色打出其文字、图形来的印刷品。墨色深黑有光的叫乌金拓;淡而匀净的叫蝉衣拓。用朱色打拓的叫朱拓(拓片装订成的本子)" />
+		<phrase hz="拓片" py="tà,piàn" info="将碑文石刻、青铜器等文物的形状及其上面的文字、图案拓下来的纸片" />
+		<phrase hz="拓写" py="tà,xiě" info="用墨汁等摹写" />
 		<definition id="二">
 			<item text="在刻铸文字、图像的器物上，蒙一层纸，捶打后使凹凸分明，涂上墨，显出文字、图像来。" />
 		</definition>
@@ -38,7 +42,7 @@
 			<item text="多，重复：杂~. 纷至~来." />
 		</definition>
 	</char>
-	<char hz="踏" py="tà" multi="tā" main="1">
+	<char hz="踏" py="tà" multi="tā" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="用脚踩：大~步地前进. (引)亲自到现场去：~看. ~勘." />
 		</definition>
