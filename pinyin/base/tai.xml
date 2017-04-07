@@ -26,7 +26,7 @@
 	</char>
 	<char hz="邰" py="tái" />
 	<char hz="抬" py="tái" />
-	<char hz="苔" py="tái" multi="tāi" main="1">
+	<char hz="苔" py="tái" multi="tāi" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="隐花植物的一类，根、茎、叶的区别不明显，绿色，常贴在阴湿的地方生长。" />
 		</definition>
