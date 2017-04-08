@@ -57,6 +57,7 @@
 		</definition>
 	</char>
 	<char hz="覃" py="tán" multi="qín" main="1">
+		<phrase hz="覃恩" py="tán,ēn" info="广施恩泽。 旧时多用以称帝王对臣民的封赏、赦免等。" />
 		<phrase hz="覃思" py="tán,sī" info="深思。" />
 		<definition id="一">
 			<item id="1" text="深：~思." />
