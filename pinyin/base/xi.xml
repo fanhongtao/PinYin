@@ -109,6 +109,7 @@
 		<phrase hz="锡伯族" py="xī,bó,zú" />
 	</char>
 	<char hz="裼" py="xī" multi="tì" main="1">
+		<phrase hz="袒裼" py="tǎn,xī" info="脫去外衣，露出裡衣。" />
 		<definition id="一">
 			<item text="敞开或脱去上衣，露出身体的一部分（(连)袒-）。" />
 		</definition>

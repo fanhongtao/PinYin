@@ -14,12 +14,15 @@
 	<char hz="锑" py="tī" />
 	<char hz="" py="tī" />
 	<char hz="荑" py="tí" multi="yí">
+		<phrase hz="丹荑" py="dān,tí" info="一種菌類。古人以為芝是靈草，吃了有益健康。" />
+		<phrase hz="柔荑" py="róu,tí" info="植物初生的叶芽。 旧时多用来比喻女子柔嫩洁白的手，也借指女子的手" />
 		<definition id="二">
 			<item id="1" text="草木初生的叶芽。" />
 			<item id="2" text="稗子一类的草。" />
 		</definition>
 	</char>
 	<char hz="绨" py="tí" multi="tì" main="1">
+		<phrase hz="绨袍" py="tí,páo" info="1.厚缯制成之袍。2. 战国 时 魏 人 范雎 先事 魏 中大夫 须贾 ，遭其毁谤，笞辱几死。后逃 秦 改名 张禄 ，仕 秦 为相，权势显赫。 魏 闻 秦 将东伐，命 须贾 使 秦 ， 范雎 乔装，敝衣往见。 须贾 不知，怜其寒而赠一绨袍。迨后知 雎 即 秦 相 张禄 ，乃惶恐请罪。 雎 以 贾 尚有赠袍念旧之情，终宽释之。见《史记·范雎蔡泽列传》。后多用为眷念故旧之典。" />
 		<definition id="一">
 			<item text="光滑厚实的丝织品。" />
 		</definition>
@@ -79,7 +82,7 @@
 	<char hz="鳀" py="tí" />
 	<char hz="啼" py="tí" />
 	<char hz="蹄" py="tí" />
-	<char hz="体" py="tǐ" multi="tī" main="1">
+	<char hz="体" py="tǐ" multi="tī" main="1" suppressLog="1">
 		<phrase hz="体面" py="tǐ,mian" />
 		<definition id="一">
 			<item id="1" text="人、动物的全身（(连)身-）：~重. ~温（身体的温度）. (引)身体的一部分：四~. 上~. 肢~. [体面](-mian)1.身份。 2.光彩，光荣。 3.好看。 [体育]指锻炼身体增强体质的教育：~~课. 发展~~运动，增强人民体质." />
