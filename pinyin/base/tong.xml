@@ -66,7 +66,7 @@
 			<item id="2" text="旧时指未成年的男仆：家~." />
 		</definition>
 	</char>
-	<char hz="僮" py="tóng" multi="zhuàng" main="1">
+	<char hz="僮" py="tóng" multi="zhuàng" main="1" suppressLog="1">
 		<definition id="二">
 			<item id="1" text="封建时代受役使的未成年的人：书~." />
 			<item id="2" text="古同“童(1)”。" />
