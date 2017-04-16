@@ -3,7 +3,7 @@
 	<char hz="吞" py="tūn" />
 	<char hz="暾" py="tūn" />
 	<char hz="䵍" py="tūn" />
-	<char hz="屯" py="tún" multi="zhūn" main="1">
+	<char hz="屯" py="tún" multi="zhūn" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="聚焦，储存：~粮. (引)（军队）驻扎：~兵." />
 			<item id="2" text="（-子、-儿）村庄：皇姑~." />
@@ -25,6 +25,8 @@
 	<char hz="臀" py="tún" />
 	<char hz="氽" py="tǔn" />
 	<char hz="褪" py="tùn" multi="tuì">
+		<phrase hz="宽褪" py="kuān,tùn" info="谓因瘦损而觉衣服肥大。" />
+		<phrase hz="褪去" py="tùn,qù" info="脱掉(衣服等)" />
 		<definition id="一">
 			<item text="使穿着、套着的东西脱离：把袖子~下来. 狗~了套跑了. (引)向内移动而藏起来：把手~在袖子里. 袖子里~着一封信." />
 		</definition>

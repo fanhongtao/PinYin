@@ -12,6 +12,10 @@
 	<char hz="退" py="tuì" />
 	<char hz="煺" py="tuì" />
 	<char hz="褪" py="tuì" multi="tùn" main="1">
+		<phrase hz="褪尽" py="tuì,jìn" info="褪去全部颜色" />
+		<phrase hz="褪后趋前" py="tuì,hòu,qū,qián" info="形容前前后后向人献殷勤。" />
+		<phrase hz="褪色" py="tuì,sè" info="颜色失去鲜艳，变得暗淡" />
+		<phrase hz="褪套儿" py="tuì,tào,r" info="〈方〉1.挣脱绳索 2.比喻摆脱应负的责任" />
 		<definition id="二">
 			<item text="脱落，脱去：兔子正~毛. [褪色]退色，颜色变淡或消失。" />
 		</definition>
