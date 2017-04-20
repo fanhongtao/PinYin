@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="圩" py="xū" multi="wéi">
+		<phrase hz="赶圩" py="gǎn,xū" />
+		<phrase hz="圩日" py="xū,rì" info="〈方〉:集市开市的日子。也叫圩期" />
 		<definition id="二">
 			<item text="闽粤等地区称集市。古书里作“虚”。" />
 		</definition>

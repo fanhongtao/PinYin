@@ -217,6 +217,7 @@
 	</char>
 	<char hz="蔚" py="yù" multi="wèi">
 		<phrase hz="蔚县" py="yù,xiàn" />
+		<phrase hz="蔚蔚" py="yù,yù" info="1.同“鬱鬱”。茂盛貌。 2.抑郁。" />
 		<definition id="二">
 			<item id="1" text="蔚县，在河北省。" />
 			<item id="2" text="姓。" />
