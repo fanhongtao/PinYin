@@ -11,7 +11,7 @@
 	<char hz="蕰" py="wēn" />
 	<char hz="鳁" py="wēn" />
 	<char hz="文" py="wén" />
-	<char hz="纹" py="wén" multi="wèn" main="1">
+	<char hz="纹" py="wén" multi="wèn" main="1" suppressLog="1">
 		<definition id="一">
 			<item text="条纹（(连)-理）：水~. 指~. 这木头~理很好看." />
 		</definition>
