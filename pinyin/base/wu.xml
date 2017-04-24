@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="乌" py="wū" multi="wù" main="1">
+	<char hz="乌" py="wū" multi="wù" main="1" suppressLog="1">
+		<phrase hz="乌拉尔河" py="wū,lā,ěr,hé" info="俄罗斯河流。源出乌拉尔山，注入里海，全长2428公里" />
+		<phrase hz="乌拉尔山" py="wū,lā,ěr,shān" info="欧洲与亚洲之间分界山，在俄罗斯境内" />
 		<definition id="一">
 			<item id="1" text="乌鸦，鸟名，俗叫“老鸹”(gua)或“老鸦”。 [乌合](喻)无组织地聚集：~~之众." />
 			<item id="2" text="黑色：~云. ~木." />
@@ -97,6 +99,7 @@
 	<char hz="物" py="wù" />
 	<char hz="乌" py="wù" multi="wū">
 		<phrase hz="乌拉" py="wù,la" />
+		<phrase hz="乌拉草" py="wù,la,cǎo" info="多年生草本植物。产于中国东北。常成片生长在沼泽地上。茎叶纤维坚韧耐久，是制人造绵、纤维板的材料。" />
 		<definition id="二">
 			<item text="[乌拉](-la)同“靰鞡”。" />
 		</definition>
