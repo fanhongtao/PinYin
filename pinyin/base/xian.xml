@@ -34,7 +34,7 @@
 	<char hz="祆" py="xiān" />
 	<char hz="莶" py="xiān" />
 	<char hz="铦" py="xiān" />
-	<char hz="鲜" py="xiān" multi="xiǎn" main="1">
+	<char hz="鲜" py="xiān" multi="xiǎn" main="1" suppressLog="1">
 		<phrase hz="鲜卑族" py="xiān,bēi,zú" />
 		<definition id="一">
 			<item id="1" text="新的，不陈的，不干枯的（(连)新-）：~果. ~花. ~肉. ~血." />
@@ -72,6 +72,7 @@
 		</definition>
 	</char>
 	<char hz="铣" py="xiǎn" multi="xǐ" main="1">
+		<phrase hz="铣铁" py="xiǎn,tiě" info="生铁，铸铁。" />
 		<definition id="一">
 			<item text="有光泽的金属。 [铣铁]铸铁，生铁，质脆，适于铸造器物。" />
 		</definition>
@@ -85,7 +86,10 @@
 	</char>
 	<char hz="蚬" py="xiǎn" />
 	<char hz="鲜" py="xiǎn" multi="xiān">
+		<phrase hz="寡廉鲜耻" py="guǎ,lián,xiǎn,chǐ" info="厚颜无耻,也缺少廉耻之心" />
 		<phrase hz="鲜见" py="xiǎn,jiàn" />
+		<phrase hz="鲜廉寡耻" py="xiǎn,lián,guǎ,chǐ" info="无廉洁之操守且不知羞耻。" />
+		<phrase hz="鲜为人知" py="xiǎn,wéi,rén,zhī" info="很少有人知道。" />
 		<phrase hz="鲜有" py="xiǎn,yǒu" />
 		<definition id="二">
 			<item text="少：~见. ~有." />
