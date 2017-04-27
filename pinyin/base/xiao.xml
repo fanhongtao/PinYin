@@ -6,6 +6,8 @@
 		</definition>
 	</char>
 	<char hz="削" py="xiāo" multi="xuē" main="1">
+		<phrase hz="拔树削迹" py="bá,shù,xiāo,jì" info="指 春秋 鲁 孔子 在 宋国 和 卫国 遭到迫害驱逐之事。" />
+		<phrase hz="刀削面" py="dāo,xiāo,miàn" info="一種麵食。以中筋麵粉加水調揉成略硬的麵糰，仔細揉壓至光滑細緻，成一長圓枕型，清水煮滾加鹽，手托住麵糰，用刀邊轉邊削成長條薄片，入滾水中煮熟，撈起加入事先調製好的湯中即可食用。" />
 		<definition id="一">
 			<item text="用刀平着或斜着去掉外面的一层：~铅笔. 把梨皮~掉." />
 		</definition>
@@ -59,8 +61,16 @@
 	<char hz="孝" py="xiào" />
 	<char hz="哮" py="xiào" />
 	<char hz="肖" py="xiào" multi="xiāo">
+		<phrase hz="毕肖" py="bì,xiào" info="完全相像" />
+		<phrase hz="不肖" py="bú,xiào" info="1.品行不好，没有出息(多用于子孙)(不肖子孙) 2.谦辞。 不才，不贤" />
+		<phrase hz="酷肖" py="kù,xiào" info="很像，非常相似。" />
+		<phrase hz="生肖" py="shēng,xiàng" info="代表十二地支,用来记人出生年的十二种动物,即鼠(子)、牛(丑)、虎(寅)、兔(卯)、龙(辰)、蛇(巳)、马(午)、羊(未)、猴(申)、鸡(酉)、狗(戌)、猪(亥)。 也叫属相" />
+		<phrase hz="维妙维肖" py="wéi,miào,wéi,xiào" info="维：语助词；妙：手艺巧妙；肖：相似，逼真。形容描写或模仿的非常逼真。" />
+		<phrase hz="唯妙唯肖" py="wéi,miào,wéi,xiào" info="形容描写或模仿得非常巧妙，非常逼真。" />
+		<phrase hz="惟妙惟肖" py="wéi,miào,wéi,xiào" info="描写或模仿得非常逼真。" />
+		<phrase hz="肖似" py="xiào,sì" info="犹相似，相像。" />
+		<phrase hz="肖像" py="xiào,xiàng" info="用图画、素描或其他绘画手法描绘某人脸部的像" />
 		<phrase hz="子肖其父" py="zǐ,xiào,qí,fù" />
-		<phrase hz="肖像" py="xiào,xiàng" />
 		<definition id="一">
 			<item text="像，相似：子~其父. [肖像]画像，相片。" />
 		</definition>
