@@ -17,7 +17,7 @@
 	</char>
 	<char hz="协" py="xié" />
 	<char hz="胁" py="xié" />
-	<char hz="邪" py="xié" multi="yé" main="1">
+	<char hz="邪" py="xié" multi="yé" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="不正当：歪风~气. 改~归正. (引)奇怪，不正常：~门. 一股~劲." />
 			<item id="2" text="中医指引起疾病的环境因素：风~. 寒~. (转)迷信的人指鬼神给予的灾祸：驱~." />
