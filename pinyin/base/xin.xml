@@ -2,6 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="心" py="xīn" />
 	<char hz="芯" py="xīn" multi="xìn" main="1">
+		<phrase hz="灯芯" py="dēng,xīn" />
 		<definition id="一">
 			<item text="去皮的灯心草：灯~." />
 		</definition>
