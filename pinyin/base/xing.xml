@@ -1,6 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="兴" py="xīng" multi="xìng" main="1">
+		<phrase hz="不兴" py="bù,xīng" info="1.不流行;不时兴 2.不能(用于反问)" />
+		<phrase hz="复兴" py="fù,xīng" info="重新兴盛;使重新兴盛" />
+		<phrase hz="时兴" py="shí,xīng" info="一时流行的;当时风行" />
+		<phrase hz="新兴" py="xīn,xīng" info="新近建立的;处在生长或发展时期的" />
+		<phrase hz="兴邦" py="xīng,bāng" info="使国家兴盛起来。" />
+		<phrase hz="兴兵" py="xīng,bīng" info="调动军队打仗" />
+		<phrase hz="兴奋" py="xīng,fèn" info="1.奋起，激动 2.控制不住自己的感情 3.高兴到极点" />
+		<phrase hz="兴风作浪" py="xīng,fēng,zuò,làng" info="1.掀起事端,无事生非 2.扰乱正常的做法或常规" />
+		<phrase hz="兴工" py="xīng,gōng" info="动工;开始修建" />
+		<phrase hz="兴国" py="xīng,guó" info="1.振兴国家。 2.兴盛的国家。 3.剑名。" />
+		<phrase hz="兴举" py="xīng,jǔ" info="兴起；倡导。" />
+		<phrase hz="兴利除弊" py="xīng,lì,chú,bì" info="兴办有利的一面,除去弊端" />
+		<phrase hz="兴隆" py="xīng,lóng" info="兴旺昌盛" />
+		<phrase hz="兴起" py="xīng,qǐ" info="因感动而奋起" />
+		<phrase hz="兴盛" py="xīng,shèng" info="繁荣，旺盛" />
+		<phrase hz="兴师" py="xīng,shī" info="兴兵;起兵" />
+		<phrase hz="兴亡" py="xīng,wáng" info="兴盛与衰亡" />
+		<phrase hz="兴旺" py="xīng,wàng" info="繁荣;欣欣向荣" />
+		<phrase hz="兴妖作怪" py="xīng,yāo,zuò,guài" info="原指妖魔鬼怪作祟害人或人装神扮鬼。现在则比喻坏人捣乱破坏,挑起事端" />
+		<phrase hz="兴云致雨" py="xīng,yún,zhì,yǔ" info="興起雲氣引起降雨。" />
+		<phrase hz="妖由人兴" py="yāo,yóu,rén,xīng" info="妖物因人而生。 指不正常事物是由于人自己不严肃、不正派引起的。" />
+		<phrase hz="振兴" py="zhèn,xīng" info="振发兴举，增强活力" />
 		<definition id="一">
 			<item id="1" text="举办，发动：~工. ~利除弊. ~修水利." />
 			<item id="2" text="起来：夙~夜寐（早起晚睡）. 闻风~起." />
@@ -190,6 +212,7 @@
 	<char hz="饧" py="xíng" />
 	<char hz="陉" py="xíng" />
 	<char hz="荥" py="xíng" multi="yíng" main="1">
+		<phrase hz="荥阳" py="xíng,yáng" info="县名，在河南" />
 		<definition id="一">
 			<item text="[荥阳]地名，在河南省。" />
 		</definition>
@@ -226,10 +249,27 @@
 	<char hz="醒" py="xǐng" />
 	<char hz="擤" py="xǐng" />
 	<char hz="兴" py="xìng" multi="xīng" info="Word主音">
-		<phrase hz="游兴" py="yóu,xìng" />
-		<phrase hz="助兴" py="zhù,xìng" />
+		<phrase hz="败兴" py="bài,xìng" info="扫兴，原有的兴致被意外的令人不愉快的事打掉了" />
+		<phrase hz="背兴" py="bèi,xìng" info="〈方〉交厄运或遇事不吉利--亦称背时" />
+		<phrase hz="乘兴" py="chéng,xìng" info="乘着一时高兴" />
+		<phrase hz="高兴" py="gāo,xìng" info="1.愉快而兴奋 2.喜欢做某事 3.高雅的兴致" />
+		<phrase hz="即兴" py="jí,xìng" info="事先毫无准备，仅就当时的感受创作、表演或演讲的" />
+		<phrase hz="尽兴" py="jìn,xìng" info="兴趣得到充分满足" />
+		<phrase hz="起兴" py="qǐ,xìng" info="有兴致;感兴趣" />
+		<phrase hz="扫兴" py="sǎo,xìng" info="遇到不愉快的事情而兴致低落" />
+		<phrase hz="诗兴" py="shī,xìng" info="做诗的兴致" />
+		<phrase hz="谈兴" py="tán,xìng" info="谈话的情趣" />
 		<phrase hz="兴高采烈" py="xìng,gāo,cǎi,liè" />
-		<phrase hz="高兴" py="gāo,xìng" />
+		<phrase hz="兴会" py="xìng,huì" info="偶有所感而产生的意趣" />
+		<phrase hz="兴趣" py="xìng,qù" info="兴致，对事物喜好或关切的情绪" />
+		<phrase hz="兴头" py="xìng,tou" info="高兴起劲;起劲的当儿" />
+		<phrase hz="兴味" py="xìng,wèi" info="兴趣" />
+		<phrase hz="兴致" py="xìng,zhì" info="感兴趣" />
+		<phrase hz="游兴" py="yóu,xìng" info="游览的兴致" />
+		<phrase hz="雅兴" py="yǎ,xìng" info="高雅的兴趣" />
+		<phrase hz="意兴" py="yì,xìng" info="兴趣" />
+		<phrase hz="余兴" py="yú,xìng" info="1.兴致还没有完全消逝 2.会议或宴会之后紧接举行的娱乐活动" />
+		<phrase hz="助兴" py="zhù,xìng" info="助威;助长提高兴趣" />
 		<definition id="二">
 			<item text="兴趣，对事物喜爱的情绪：游~. 助~. ~高采烈. [高兴]愉快，喜欢。" />
 		</definition>
