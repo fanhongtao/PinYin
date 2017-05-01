@@ -156,8 +156,9 @@
 	<char hz="驭" py="yù" />
 	<char hz="芋" py="yù" />
 	<char hz="吁" py="yù" multi="xū">
-		<phrase hz="吁请" py="yù,qǐng" />
-		<phrase hz="呼吁" py="hū,yù" />
+		<phrase hz="呼吁" py="hū,yù" info="1.因痛苦而呼号求助 2.今指某项主张，公开要求大众的支持为呼吁" />
+		<phrase hz="吁请" py="yù,qǐng" info="呼吁请求。" />
+		<phrase hz="吁求" py="yù,qiú" info="呼吁并恳求" />
 		<definition id="二">
 			<item text="为某种要求而呼喊：~请. 大声呼~." />
 		</definition>

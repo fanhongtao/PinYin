@@ -8,6 +8,10 @@
 		</definition>
 	</char>
 	<char hz="吁" py="xū" multi="yù" main="1">
+		<phrase hz="长吁" py="cháng,xū" info="长叹。" />
+		<phrase hz="长吁短叹" py="cháng,xū,duǎn,tàn" info="吁：叹息。长一声、短一声不住地叹气。形容发愁的神情。" />
+		<phrase hz="吁气" py="xū,qì" info="1.叹气。2.呼气，吐气。" />
+		<phrase hz="吁吁" py="xū,xū" info="喘气声。如:气喘吁吁" />
 		<definition id="一">
 			<item id="1" text="叹息：长~短叹." />
 			<item id="2" text="文言叹词，表示惊疑：~，是何言欤！" />
@@ -75,6 +79,9 @@
 	<char hz="栩" py="xǔ" />
 	<char hz="姁" py="xǔ" />
 	<char hz="湑" py="xǔ" multi="xù" main="1">
+		<phrase hz="酣湑" py="hān,xǔ" info="谓畅饮欢乐。" />
+		<phrase hz="湑酒" py="xǔ,jiǔ" info="清酒。" />
+		<phrase hz="湑湑" py="xǔ,xǔ" info="1.茂盛貌。 2.清风吹拂貌。 3.水清澈貌。" />
 		<definition id="一">
 			<item id="1" text="滤过的酒。(引)清。" />
 			<item id="2" text="茂盛。" />
