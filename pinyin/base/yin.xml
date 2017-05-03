@@ -94,6 +94,7 @@
 	<char hz="荫" py="yìn" />
 	<char hz="胤" py="yìn" />
 	<char hz="窨" py="yìn" multi="xūn" main="1">
+		<phrase hz="地窨" py="dì,yìn" info="地窖；地下室。" />
 		<definition id="一">
 			<item text="地窨子，地下室。" />
 		</definition>
