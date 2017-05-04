@@ -3,7 +3,7 @@
 	<char hz="丫" py="yā">
 		<phrase hz="丫头" py="yā,tou" />
 	</char>
-	<char hz="压" py="yā" multi="yà" main="1">
+	<char hz="压" py="yā" multi="yà" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="从上面加重力：~住. ~碎. (引)搁置不动：积~资金." />
 			<item id="2" text="用威力制服，镇服：镇~. ~制. (引)胜过，超过：~倒一切. 技~群芳." />
@@ -28,6 +28,7 @@
 	</char>
 	<char hz="哑" py="yā" multi="yǎ">
 		<phrase hz="哑哑" py="yā,yā" />
+		<phrase hz="咿哑" py="yī,yā" info="1.象声词。 多形容物体转动或摇动声。 2.象声词。管弦声。 3.象声词。小儿学语或低哭声。" />
 		<definition id="二">
 			<item text="同“呀”(yā)。 [哑哑]拟声词，乌鸦叫声或小儿学语声。" />
 		</definition>
@@ -49,7 +50,7 @@
 		<phrase hz="睚眦" py="yá,zì" />
 	</char>
 	<char hz="衙" py="yá" />
-	<char hz="哑" py="yǎ" multi="yā" main="1">
+	<char hz="哑" py="yǎ" multi="yā" main="1" suppressLog="1">
 		<phrase hz="哑巴" py="yǎ,ba" />
 		<definition id="一">
 			<item id="1" text="由于生理缺陷或疾病而不能说话：聋~. ~口无言（喻无话可说）. [哑巴](-ba)1.同“哑(1)”。2.指不能说话的人。" />
@@ -63,6 +64,7 @@
 		<phrase hz="雅教" py="yǎ,jiào" />
 	</char>
 	<char hz="轧" py="yà" multi="gá,zhá" main="1">
+		<phrase hz="倾轧" py="qīng,yà" info="以争吵、摩擦和对立为特色的持久的不和" />
 		<definition id="一">
 			<item id="1" text="圆轴或轮子等压在东西上面转：把马路~平了. ~棉花. ~花机." />
 			<item id="2" text="排挤：倾~." />
