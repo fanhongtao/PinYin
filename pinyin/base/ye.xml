@@ -83,8 +83,11 @@
 	<char hz="液" py="yè" />
 	<char hz="腋" py="yè" />
 	<char hz="咽" py="yè" multi="yān,yàn">
-		<phrase hz="呜咽" py="wū,yè" />
-		<phrase hz="哽咽" py="gěng,yè" />
+		<phrase hz="悲咽" py="bēi,yè" info="悲伤呜咽。" />
+		<phrase hz="哽咽" py="gěng,yè" info="不能痛快的出声哭" />
+		<phrase hz="梗咽" py="gěng,yè" info="哽咽。因悲愤而气结喉塞。" />
+		<phrase hz="呜咽" py="wū,yè" info="1.伤心哽泣的声音 2.形容水、风等的声音凄切" />
+		<phrase hz="幽咽" py="yōu,yè" info="1.微弱的哭泣 2.形容低微的流水声" />
 		<definition id="三">
 			<item text="呜咽，哽咽，悲哀得说不出话来。" />
 		</definition>

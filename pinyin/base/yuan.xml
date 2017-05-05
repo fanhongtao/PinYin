@@ -12,6 +12,8 @@
 	<char hz="蜎" py="yuān" />
 	<char hz="元" py="yuán" />
 	<char hz="芫" py="yuán" multi="yán" main="1">
+		<phrase hz="芫花" py="yuán,huā" info="植物名。又名芫华、鱼毒，药鱼草。瑞香科，瑞香属。中国和朝鲜的一种花" />
+		<phrase hz="芫华" py="yuán,huá" info="落叶灌木。叶小椭圆形，花小色紫，可供观赏。花蕾含芫花素，可供药用。" />
 		<definition id="一">
 			<item text="芫花，落叶灌木，开紫色小花，有毒，花蕾可入药。" />
 		</definition>
