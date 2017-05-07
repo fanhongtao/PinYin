@@ -8,6 +8,8 @@
 		<phrase hz="秧歌" py="yāng,ge" />
 	</char>
 	<char hz="鞅" py="yāng" multi="yàng" main="1">
+		<phrase hz="商鞅" py="shāng,yāng" />
+		<phrase hz="逸尘断鞅" py="yì,chén,duàn,yāng" info="指马奔跑时扬起尘土，挣断马鞅。形容马跑得很快。" />
 		<definition id="一">
 			<item text="古代用马拉车时套在马颈上的皮子。" />
 		</definition>
