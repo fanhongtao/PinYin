@@ -110,7 +110,33 @@
 		</definition>
 	</char>
 	<char hz="药" py="yào" />
-	<char hz="要" py="yào" multi="yāo" main="1">
+	<char hz="要" py="yào" multi="yāo" main="1" suppressLog="1">
+		<phrase hz="必要" py="bì,yào" info="不可缺少;非这样不可" />
+		<phrase hz="不要" py="bú,yào" info="1.表示禁止和劝阻 2.制止或阻止一个倾向或一个冲动" />
+		<phrase hz="次要" py="cì,yào" info="1.重要性较差，不起主要决定作用的 2.两者中非重要的一种的 3.价值较小的，重要性较小的;有更少的价值或更少长处的" />
+		<phrase hz="纲要" py="gāng,yào" info="1.主题的概要 2.将一本篇幅较大的书的内容压缩而成的概要" />
+		<phrase hz="概要" py="gài,yào" info="重要内容的大概;概略" />
+		<phrase hz="记要" py="jì,yào" info="记录要点的文字。" />
+		<phrase hz="将要" py="jiāng,yào" info="用在动词前面，表示行为或情况在不久以后发生;即将" />
+		<phrase hz="快要" py="kuài,yào" info="即将" />
+		<phrase hz="提要" py="tí,yào" info="提出来的要点" />
+		<phrase hz="需要" py="xū,yào" info="1.应该有，必须有;必要，有理由要 2.对事物的欲望或要求" />
+		<phrase hz="须要" py="xū,yào" info="客观情况要求一定要" />
+		<phrase hz="要地" py="yào,dì" info="1.重要的地方(军事上说) 2.指显要的地位" />
+		<phrase hz="要好" py="yào,hǎo" info="1.指感情融洽;也指对人表示好感，愿意亲近 2.努力求好，力求上进" />
+		<phrase hz="要价" py="yào,jià" info="1.开价，索价 2.比喻接受任务，举行谈判时向对方提出条件" />
+		<phrase hz="要紧" py="yào,jǐn" info="〈方〉急着 [做某件事]" />
+		<phrase hz="要诀" py="yào,jué" info="关键的窍门" />
+		<phrase hz="要领" py="yào,lǐng" info="1.要点，主要内容 2.基本要求" />
+		<phrase hz="要么" py="yào,me" info="1.在两种不同情况或事物之间的选择 2.在互相排斥的两事中进行选择" />
+		<phrase hz="要强" py="yào,qiáng" info="争强好胜，不愿比他人落后" />
+		<phrase hz="要是" py="yào,shi" info="用在偏正复句的偏句中，表示假设，相当于如果，正句有时用就跟它呼应" />
+		<phrase hz="要素" py="yào,sù" info="事物必须具有的实质或本质、组成部分" />
+		<phrase hz="摘要" py="zhāi,yào" info="1.摘取精要。2.指摘录的要点。" />
+		<phrase hz="正要" py="zhèng,yào" info="1.谓端正东西的方位。2.刚要；正预备。" />
+		<phrase hz="只要" py="zhǐ,yào" info="表示具有充分的条件，正句常用就、也、都、便相呼应，表明由这种条件产生的一种结果" />
+		<phrase hz="重要" py="zhòng,yào" info="具有重大影响或后果的;有很大意义的" />
+		<phrase hz="主要" py="zhǔ,yào" info="事物中关系最大、起决定作用的" />
 		<definition id="一">
 			<item id="1" text="索取，希望得到：我~这一本书. (引)作为己有，保留：这东西他还~呢. [要强]好胜心强，不愿落后。" />
 			<item id="2" text="重大，值得重视的：~事. ~点. [要紧][紧要]急切重要。" />
