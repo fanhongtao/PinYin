@@ -2,6 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="耶" py="yē" multi="yé" info="Word主音">
 		<phrase hz="耶路撒冷" py="yē,lù,sā,lěng" />
+		<phrase hz="耶稣" py="yē,sū" />
 		<definition id="二">
 			<item text="用于译音，如耶路撒冷。" />
 		</definition>
@@ -69,12 +70,16 @@
 		</definition>
 	</char>
 	<char hz="拽" py="yè" multi="zhuāi,zhuài">
+		<phrase hz="拖拽" py="tuō,yè" info="牽引。亦作「拖曳」。" />
 		<definition id="三">
 			<item text="同“曳”。" />
 		</definition>
 	</char>
 	<char hz="夜" py="yè" />
 	<char hz="掖" py="yè" multi="yē" main="1">
+		<phrase hz="扶掖" py="fú,yè" info="扶持，提携" />
+		<phrase hz="奖掖" py="jiǎng,yè" info="奖励提拔" />
+		<phrase hz="掖县" py="yè,xiàn" info="县名，在山东" />
 		<definition id="一">
 			<item id="1" text="用手扶着别人的胳膊。 [奖掖]奖励，提拔。" />
 			<item id="2" text="掖县，旧县名，今莱州，在山东省。" />
