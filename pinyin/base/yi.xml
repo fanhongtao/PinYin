@@ -39,10 +39,10 @@
 		</definition>
 	</char>
 	<char hz="洢" py="yī" />
-	<char hz="衣" py="yī" multi="yì" main="1">
+	<char hz="衣" py="yī" multi="yì" main="1" suppressLog="1">
+		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
 		<phrase hz="衣服" py="yī,fu" />
 		<phrase hz="衣裳" py="yī,shang" />
-		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
 		<definition id="一">
 			<item id="1" text="衣服(fu)，衣裳(shang)。" />
 			<item id="2" text="披在或包在物体外面的东西：炮~. 糖~炮弹." />
@@ -164,7 +164,8 @@
 	</char>
 	<char hz="舣" py="yǐ" />
 	<char hz="倚" py="yǐ" />
-	<char hz="椅" py="yǐ" multi="yī" main="1">
+	<char hz="椅" py="yǐ" multi="yī" main="1" suppressLog="1">
+		<phrase hz="椅子" py="yǐ,zi" />
 		<definition id="一">
 			<item text="（-子）有靠背的坐具。" />
 		</definition>
@@ -203,8 +204,8 @@
 	<char hz="弈" py="yì" />
 	<char hz="奕" py="yì" />
 	<char hz="衣" py="yì" multi="yī">
-		<phrase hz="衣布衣" py="yì,bù,yī" />
 		<phrase hz="解衣衣我" py="jiě,yī,yì,wǒ" />
+		<phrase hz="衣布衣" py="yì,bù,yī" />
 		<definition id="二">
 			<item text="穿：~布衣. 解衣(yī)~我." />
 		</definition>
