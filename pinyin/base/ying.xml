@@ -1,11 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="应" py="yīng" multi="yìng">
-		<phrase hz="应当" py="yīng,dāng" />
-		<phrase hz="应该" py="yīng,gāi" />
-		<phrase hz="应有尽有" py="yīng,yǒu,jìn,yǒu" />
-		<phrase hz="应许" py="yīng,xǔ" />
-		<phrase hz="应允" py="yīng,yǔn" />
+		<phrase hz="理应" py="lǐ,yīng" info="理当，应当。" />
+		<phrase hz="一应" py="yī,yīng" info="1.谓一时应变。2.所有一切。" />
+		<phrase hz="一应俱全" py="yī,yīng,jù,quán" info="一应：一切；俱：都。一切齐全，应有尽有。" />
+		<phrase hz="应当" py="yīng,dāng" info="承当;应付" />
+		<phrase hz="应分" py="yīng,fèn" info="分内应该做的" />
+		<phrase hz="应该" py="yīng,gāi" info="情理上必然或必须如此" />
+		<phrase hz="应机" py="yīng,jī" info="1.顺应时机。2.随机应变。" />
+		<phrase hz="应许" py="yīng,xǔ" info="答应，允许。" />
+		<phrase hz="应有尽有" py="yīng,yǒu,jìn,yǒu" info="该有的全都有。 形容很齐全。" />
+		<phrase hz="应允" py="yīng,yǔn" info="答应，允许。" />
 		<definition id="一">
 			<item id="1" text="该，当（(连)-当、-该）：~有尽有." />
 			<item id="2" text="答应，应承（(连)-许、-允）：我喊他喊不~. ~他十天之内完工." />
@@ -62,6 +67,74 @@
 	<char hz="影" py="yǐng" />
 	<char hz="瘿" py="yǐng" />
 	<char hz="应" py="yìng" multi="yīng" main="1">
+		<phrase hz="报应" py="bào,yìng" info="1.[佛]指有施必有报，有感必有应，故现在之所得，无论祸福，皆为报应 2.回报。公正的惩罚行为或效果" />
+		<phrase hz="表里相应" py="biǎo,lǐ,xiāng,yìng" info="内外互相应合。" />
+		<phrase hz="策应" py="cè,yìng" info="1.战斗中互相配合应敌 2.斗争中在舆论或行动上造成声势对自己一方进行的支持" />
+		<phrase hz="得手应心" py="dé,shǒu,yìng,xīn" info="比喻技艺纯熟或做事情非常顺利。同“得心应手”。" />
+		<phrase hz="得心应手" py="dé,xīn,yìng,shǒu" info="得：得到，想到；应：反应，配合。心里怎么想，手就能怎么做。比喻技艺纯熟或做事情非常顺利。" />
+		<phrase hz="对应" py="duì,yìng" info="1.一事物与另一事物的一致 2.针对某一情况的;与某一情况相应的" />
+		<phrase hz="反应" py="fǎn,yìng" info="1.化学变化 2.反响，机体对外界环境的改变或刺激产生的对应变化称为反应" />
+		<phrase hz="感应" py="gǎn,yìng" info="1.物理学名词。一个物体(如电导体、可磁化体、电路)内部由于另一类似激发物体的接近(但不接触)或者由于磁通的变化而产生的电荷、磁性或电动势 2.因受外界影响而引起相应的反应" />
+		<phrase hz="呼应" py="hū,yìng" info="1.彼此声气相通 2.文章前后相照应" />
+		<phrase hz="回应" py="huí,yìng" info="回答应声，对反应" />
+		<phrase hz="接应" py="jiē,yìng" info="1.配合己方的人行动 2.物质上给予帮助;接济" />
+		<phrase hz="救应" py="jiù,yìng" info="救援接应" />
+		<phrase hz="口不应心" py="kǒu,bú,yìng,xīn" info="应：符合。心口不一致。" />
+		<phrase hz="里应外合" py="lǐ,yìng,wài,hé" info="应：接应；合：配合。 外面攻打，里面接应。" />
+		<phrase hz="灵应" py="líng,yìng" info="灵验。" />
+		<phrase hz="内应" py="nèi,yìng" info="在内部暗中策应，多指暗藏在敌方内部做策应工作的人" />
+		<phrase hz="适应" py="shì,yìng" info="适合于" />
+		<phrase hz="顺应" py="shùn,yìng" info="顺着某种趋势去适应" />
+		<phrase hz="随机应变" py="suí,jī,yìng,biàn" info="机：时机，形势。随着情况的变化灵活机动地应付。" />
+		<phrase hz="显应" py="xiǎn,yìng" info="1.显示感应。2.犹显灵。" />
+		<phrase hz="相应" py="xiāng,yìng" info="1.相互呼应;应和;相符合。 2.相宜,应该。 3.彼此相当的或互补的;交互,互惠。" />
+		<phrase hz="响应" py="xiǎng,yìng" info="指其如回响的应声。" />
+		<phrase hz="效应" py="xiào,yìng" info="由某种动因或原因所产生的一种特定的科学现象，通常以其发现者的名字来命名" />
+		<phrase hz="遥相呼应" py="yáo,xiāng,hū,yìng" info="遥：远远地；应：照应。远远地互相联系，互相配合。" />
+		<phrase hz="一呼百应" py="yì,hū,bǎi,yìng" info="一个人呼喊，马上有很多人响应。" />
+		<phrase hz="因果报应" py="yīn,guǒ,bào,yìng" info="因果：原因和结果。佛教认为今生种什么因，来生结什么果，善有善报，恶有恶报。" />
+		<phrase hz="应变" py="yìng,biàn" info="1.对突发性事件的一种应付 2.由外力使物体尺寸或形状发生相对变化的现象，常以百分数(%)表示" />
+		<phrase hz="应承" py="yìng,chéng" info="1.应允；承诺；承认。2.照应。" />
+		<phrase hz="应酬" py="yìng,chou" info="1.交际来往 2.以礼待人 3.指私人开的宴会" />
+		<phrase hz="应从" py="yìng,cóng" info="对某种建议表示同意或答应" />
+		<phrase hz="应答" py="yìng,dá" info="对答" />
+		<phrase hz="应答如流" py="yìng,dá,rú,liú" info="对答像流水一样。形容答语敏捷流利。" />
+		<phrase hz="应敌" py="yìng,dí" info="迎击来敌" />
+		<phrase hz="应度" py="yìng,dù" info="1.合乎日月星辰的行度。2.合乎节奏。 3.合乎法度。" />
+		<phrase hz="应对" py="yìng,duì" info="答对；采取措施、对策以应付出现的情况。" />
+		<phrase hz="应付" py="yìng,fù" info="1.采取某种方法对待某人某事 2.应酬;敷衍 3.将就;凑合" />
+		<phrase hz="应付自如" py="yìng,fù,zì,rú" info="应付：对付，处置。自如：按自己的心愿做事。处理事情从容不迫，很有办法。" />
+		<phrase hz="应供" py="yìng,gòng" info="梵语arhat或arhant，音译阿罗汉、阿罗诃，又称作应真或应。" />
+		<phrase hz="应和" py="yìng,hè" info="对一种言行表示呼应，附和" />
+		<phrase hz="应急" py="yìng,jí" info="满足紧急需要" />
+		<phrase hz="应接不暇" py="yìng,jiē,bù,xiá" info="暇：空闲。 原形容景物繁多，来不及观赏。后多形容来人或事情太多，应付不过来。" />
+		<phrase hz="应景" py="yìng,jǐng" info="1.為了配合或應付當前的情景、節候。 2.應付敷衍。" />
+		<phrase hz="应考" py="yìng,kǎo" info="参加考试。" />
+		<phrase hz="应龙" py="yìng,lóng" info="1.古代传说中一种有翼的龙。 相传 禹 治洪水时，有应龙以尾画地成江河，使水入海。 2.古代传说中善兴云作雨的神。" />
+		<phrase hz="应卯" py="yìng,mǎo" info="旧时官吏每天卯时(早晨五点到七点)到官署听侯点名，叫应卯，多比喻按惯例到场应付一下" />
+		<phrase hz="应命" py="yìng,mìng" info="1.从命，遵命。 2.应付命令。" />
+		<phrase hz="应募" py="yìng,mù" info="响应招募。" />
+		<phrase hz="应诺" py="yìng,nuò" info="答应;应承;承诺。" />
+		<phrase hz="应聘" py="yìng,pìn" info="1.接受聘问。 2.接受聘请。" />
+		<phrase hz="应声" py="yìng,shēng" info="1.回聲、應和的聲音。 2.隨聲應和。形容才思敏捷。 3.回答。" />
+		<phrase hz="应时" py="yìng,shí" info="1.合于时令的 2.立时;立刻;马上" />
+		<phrase hz="应试" py="yìng,shì" info="应考;参加考试" />
+		<phrase hz="应市" py="yìng,shì" info="供應市場所需。" />
+		<phrase hz="应天" py="yìng,tiān" info="1.顺应天命。 2.犹震天。" />
+		<phrase hz="应弦而倒" py="yìng,xián,ér,dǎo" info="随着弓弦的声音而倒下。 形容射箭技艺高超。" />
+		<phrase hz="应验" py="yìng,yàn" info="谓后来发生的事实与预先所言，所估计的相符;犹效验 " />
+		<phrase hz="应邀" py="yìng,yāo" info="受人的邀请" />
+		<phrase hz="应用" py="yìng,yòng" info="适用需要，以供使用" />
+		<phrase hz="应约" py="yìng,yuē" info="接受约请。" />
+		<phrase hz="应运" py="yìng,yùn" info="顺应时势;顺应期运" />
+		<phrase hz="应运而生" py="yìng,yùn,ér,shēng" info="应：顺应；运：原指天命，泛指时机。旧指应天命而产生。现指适应时机而产生。" />
+		<phrase hz="应战" py="yìng,zhàn" info="1.与前来进犯的敌人作战 2.接受对方的挑战条件" />
+		<phrase hz="应诊" py="yìng,zhěn" info="为来访病人进行诊治" />
+		<phrase hz="应征" py="yìng,zhēng" info="1.公民到了一定的年龄而响应征兵的号召应征入伍 2.泛指响应某些征求应征稿件" />
+		<phrase hz="应嘴" py="yìng,zuǐ" info="答话，回嘴。" />
+		<phrase hz="有求必应" py="yǒu,qiú,bì,yìng" info="只要有人请求帮助，就一定答应。" />
+		<phrase hz="照应" py="zhào,yìng" info="配合；呼应。" />
+		<phrase hz="支应" py="zhī,yìng" info="1.应付，处理 2.守候;伺侯" />
 		<definition id="二">
 			<item id="1" text="回答和随声相和：~声虫. 山鸣谷~. 呼~. [反应]1.化学上指物质发生化学变化，产生性质和成分与原来不同的新物质。也叫“化学反应”。 2.人及动植物有机体受到刺激而发生的活动和变化。 3.回响，反响。" />
 			<item id="2" text="应付，对待：~战. 随机~变. ~接不暇. [供应]供给。" />
