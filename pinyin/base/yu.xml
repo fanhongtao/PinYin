@@ -64,6 +64,7 @@
 	<char hz="禺" py="yú" />
 	<char hz="隅" py="yú" />
 	<char hz="喁" py="yú" multi="yōng" info="Word主音">
+		<phrase hz="喁喁" py="yú,yú" duoyin="yóng,yóng" info="1.随声附和。2.形容说话的声音（多用于小声说话）。" />
 		<phrase hz="喁喁私语" py="yú,yú,sī,yǔ" />
 		<definition id="二">
 			<item text="[喁喁]形容低声细语：~~私语." />
