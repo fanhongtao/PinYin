@@ -97,6 +97,7 @@
 	<char hz="宥" py="yòu" />
 	<char hz="狖" py="yòu" />
 	<char hz="柚" py="yòu" multi="yóu" main="1">
+		<phrase hz="柚子" py="yòu,zi" />
 		<definition id="二">
 			<item text="常绿乔木，种类很多，果实叫柚子，也叫文旦，比橘子大，多汁，味酸甜。" />
 		</definition>
