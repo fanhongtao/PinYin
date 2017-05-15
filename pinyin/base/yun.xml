@@ -68,8 +68,9 @@
 	<char hz="韫" py="yùn" />
 	<char hz="蕴" py="yùn" />
 	<char hz="韵" py="yùn" />
-	<char hz="熨" py="yùn" multi="yù" main="1">
+	<char hz="熨" py="yùn" multi="yù" main="1" suppressLog="1">
 		<phrase hz="熨斗" py="yùn,dǒu" />
+		<phrase hz="熨法" py="yùn,fǎ" info="中医外治法。有药熨、汤熨、酒熨、铁熨、葱熨、土熨等法。借助药性及温暖作用，直接作用于患处或有关部位，使气血通畅，以达到治病或缓解病痛的作用。" />
 		<definition id="一">
 			<item text="用烙铁、熨斗把衣布等烫平。 [熨斗](-dǒu)加热后用来烫平衣服的金属器具。" />
 		</definition>
