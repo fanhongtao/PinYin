@@ -6,8 +6,8 @@
 	<char hz="簪" py="zān" />
 	<char hz="咱" py="zán" />
 	<char hz="拶" py="zǎn" multi="zā">
-		<phrase hz="拶指" py="zǎn,zhǐ" />
-		<phrase hz="拶子" py="zǎn,zi" />
+		<phrase hz="拶指" py="zǎn,zhǐ" info="旧时用拶子夹手指的酷刑。" />
+		<phrase hz="拶子" py="zǎn,zi" info="旧时夹手指的刑具。" />
 		<definition id="二">
 			<item text="压紧。 [拶指]旧时用拶子夹手指的酷刑。 [拶子]旧时夹手指的刑具。" />
 		</definition>

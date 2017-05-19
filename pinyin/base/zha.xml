@@ -1,11 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="扎" py="zhā" multi="zā,zhá" info="Word主音">
-		<phrase hz="扎针" py="zhā,zhēn" />
-		<phrase hz="扎花" py="zhā,huā" />
-		<phrase hz="扎营" py="zhā,yíng" />
+		<phrase hz="安营扎寨" py="ān,yíng,zhā,zhài" info="安、扎：建立，安置；寨：防守用的栅栏。指部队驻扎下来。也比喻建立临时的劳动或工作基地。" />
+		<phrase hz="安扎" py="ān,zhā" info="安置、安頓。" />
+		<phrase hz="匾扎" py="biǎn,zhā" info="折迭捆束。" />
+		<phrase hz="立扎" py="lì,zhā" info="立定；站稳。" />
+		<phrase hz="屯扎" py="tún,zhā" info="1.驻扎，安置 2.提供住宿或掩蔽部;尤指指定部队驻扎地点" />
+		<phrase hz="扎堆" py="zhā,duī" info="〈方〉多人聚拢在一块" />
+		<phrase hz="扎根" py="zhā,gēn" info="1.植物根部向下往土裡生長。 2.比喻深入底層，打下基礎。" />
+		<phrase hz="扎花" py="zhā,huā" info="〈方〉刺绣" />
 		<phrase hz="扎猛子" py="zhā,měng,zi" />
-		<phrase hz="扎煞" py="zhā,sha" />
+		<phrase hz="扎煞" py="zhā,sha" info="张开；伸张。" />
+		<phrase hz="扎实" py="zhā,shi" info="1.牢固;结实 2.实在，踏实" />
+		<phrase hz="扎手" py="zhā,shǒu" info="刺手;难对付" />
+		<phrase hz="扎眼" py="zhā,yǎn" info="比喻惹人注目" />
+		<phrase hz="扎营" py="zhā,yíng" info="指队伍安营驻扎" />
+		<phrase hz="扎寨" py="zhā,zhài" info="1.谓筑营寨驻扎下来。 2.扎营。" />
+		<phrase hz="扎针" py="zhā,zhēn" info="中医针灸法中的针法，用特制的金属针，按一定的穴位，刺入患者体内，用捻、提等手法以达到治疗疾病的目的"/>
+		<phrase hz="纸扎" py="zhǐ,zhā" info="即纸札。用纸和竹篾扎成的冥器。" />
+		<phrase hz="驻扎" py="zhù,zhā" info="驻留扎营" />
 		<definition id="一">
 			<item id="1" text="刺：~针. ~花（刺绣）." />
 			<item id="2" text="驻扎：~营." />
@@ -25,7 +38,7 @@
 		</definition>
 	</char>
 	<char hz="咋" py="zhā" multi="zǎ,zé">
-		<phrase hz="咋呼" py="zhā,hu" />
+		<phrase hz="咋呼" py="zhā,hu" info="〈方〉1.吆喝。 2.炫耀。" />
 		<definition id="三">
 			<item text="[咋呼](-hu)〈方〉1.吆喝。 2.炫耀。" />
 		</definition>
@@ -64,7 +77,9 @@
 	</char>
 	<char hz="齇" py="zhā" />
 	<char hz="扎" py="zhá" multi="zā,zhā">
-		<phrase hz="扎挣" py="zhá,zheng" />
+		<phrase hz="马扎" py="mǎ,zhá" info="一种可折叠的小型坐具，腿交叉作为支架，上面绷皮条、绳等。 携带方便" />
+		<phrase hz="挣扎" py="zhēng,zhá" info="1.勉強支撐。 2.奮力抵抗。" />
+		<phrase hz="扎挣" py="zhá,zheng" info="〈方〉勉强支持。" />
 		<definition id="二">
 			<item text="[扎挣](-zheng)〈方〉勉强支持。" />
 		</definition>

@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="扎" py="zā" multi="zhā,zhá" main="1">
+		<phrase hz="包扎" py="bāo,zā" info="1.用布包 [伤口] 2.用绷带捆绑、包裹或包缠" />
+		<phrase hz="结扎" py="jié,zā" info="在外科手术中用特制的线把断裂的血管扎住,制止出血或把输精管、输卵管等扎住,使管腔不畅通,从而达到避孕节育的效果" />
+		<phrase hz="捆扎" py="kǔn,zā" info="捆在一起;束扎" />
+		<phrase hz="扎辫子" py="zā,biàn,zǐ" />
+		<phrase hz="扎腿" py="zā,tuǐ" />
 		<definition id="三">
 			<item id="1" text="捆，缠束：~辫子. ~腿." />
 			<item id="2" text="把儿，捆儿：一~线." />
@@ -9,6 +14,12 @@
 	<char hz="匝" py="zā" />
 	<char hz="咂" py="zā" />
 	<char hz="拶" py="zā" multi="zǎn" main="1">
+		<phrase hz="逼拶" py="bī,zā" info="1.犹逼迫。 2.压迫。" />
+		<phrase hz="排拶" py="pái,zā" info="挤压。" />
+		<phrase hz="迫拶" py="pò,zā" info="逼迫；压迫。" />
+		<phrase hz="拶逼" py="zā,bī" info="逼迫。" />
+		<phrase hz="拶拆" py="zā,chāi" info="挤破。" />
+		<phrase hz="拶榨" py="zā,zhà" info="压榨。" />
 		<definition id="一">
 			<item text="逼迫。" />
 		</definition>
@@ -16,8 +27,9 @@
 	<char hz="杂" py="zá" />
 	<char hz="砸" py="zá" />
 	<char hz="咋" py="zǎ" multi="zé,zhā" main="1">
-		<phrase hz="咋好" py="zǎ,hǎo" />
 		<phrase hz="咋办" py="zǎ,bàn" />
+		<phrase hz="咋好" py="zǎ,hǎo" />
+		<phrase hz="咋样" py="zǎ,yàng" />
 		<definition id="二">
 			<item text="〈方〉代词，怎，怎么：~好. ~办." />
 		</definition>
