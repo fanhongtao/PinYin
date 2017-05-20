@@ -75,9 +75,9 @@
 	<char hz="子" py="zǐ" />
 	<char hz="仔" py="zǐ" multi="zǎi,zī">
 		<phrase hz="仔鸡" py="zǐ,jī" />
+		<phrase hz="仔密" py="zǐ,mì" info="衣物等质地紧密" />
+		<phrase hz="仔细" py="zǐ,xì" info="1.周密，细致. 2.俭省. 3.当心，注意" />
 		<phrase hz="仔猪" py="zǐ,zhū" />
-		<phrase hz="仔密" py="zǐ,mì" />
-		<phrase hz="仔细" py="zǐ,xì" />
 		<definition id="一">
 			<item text="幼小的（多指家畜、家禽）：~鸡. ~猪. [仔密]衣物等质地紧密：袜子织得十分~~. [仔细] 1.周密，细致：~~研究. ~~考虑. 2.俭省：日子过得~~. 3.当心，注意：路很滑，~~点儿." />
 		</definition>
