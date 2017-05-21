@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="赃" py="zāng" />
-	<char hz="脏" py="zāng" multi="zàng" main="1">
+	<char hz="脏" py="zāng" multi="zàng" main="1" suppressLog="1">
+		<phrase hz="肮脏" py="āng,zāng" info="1.脏;不干净 2.比喻卑鄙、丑恶;道义上应受指责" />
+		<phrase hz="脏话" py="zāng,huà" info="污秽不堪入耳的话;不文明的语言" />
 		<definition id="二">
 			<item text="不干净：衣服~了. 把~东西清除出去." />
 		</definition>
@@ -14,13 +16,22 @@
 		<phrase hz="驵侩" py="zǎng,kuài" />
 	</char>
 	<char hz="脏" py="zàng" multi="zāng">
-		<phrase hz="内脏" py="nèi,zàng" />
-		<phrase hz="五脏六腑" py="wǔ,zàng,liù,fǔ" />
+		<phrase hz="肺脏" py="fèi,zàng" />
+		<phrase hz="肝脏" py="gān,zàng" />
+		<phrase hz="内脏" py="nèi,zàng" info="统称人和动物胸腔和腹腔内部的器官" />
+		<phrase hz="肾脏" py="shèn,zàng" />
+		<phrase hz="五脏" py="wǔ,zàng" info="指心、肝、脾、肺、肾五种器官。" />
+		<phrase hz="心脏" py="xīn,zàng" />
+		<phrase hz="脏腑" py="zàng,fǔ" info="中医总称人体内部的器官。 心、肝、脾、肺、肾为五脏，胃、胆、三焦、膀胱、大肠、小肠为六腑。" />
+		<phrase hz="脏器" py="zàng,qì" info="指胃、肠、肝、脾等内脏器官。" />
+		<phrase hz="脏气" py="zàng,qì" info="即五脏之气。指五脏的机能活动" />
+		<phrase hz="脏象" py="zàng,xiàng" info="指人体脏腑正常机能及发生病态变化时反映于外的征象。中医据此作为判断人体健康和诊断、治疗疾病的依据。" />
 		<definition id="一">
 			<item text="身体内部器官的总称：内~. 五~六腑." />
 		</definition>
 	</char>
 	<char hz="奘" py="zàng" multi="zhuǎng" main="1">
+		<phrase hz="玄奘" py="xuán,zàng" info="唐代一个和尚的名字。即西游中的“唐僧”。"/>
 		<definition id="二">
 			<item id="1" text="壮大，多用于人名。玄奘，唐代一个和尚的名字。" />
 			<item id="2" text="〈方〉说话粗鲁，态度生硬。" />
