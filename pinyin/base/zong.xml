@@ -9,7 +9,14 @@
 	<char hz="宗" py="zōng">
 		<phrase hz="禅宗" py="chán,zōng" />
 	</char>
-	<char hz="综" py="zōng" multi="zèng" main="1">
+	<char hz="综" py="zōng" multi="zèng" main="1" suppressLog="1">
+		<phrase hz="错综" py="cuò,zōng" info="1.纵横交叉 2.交错配合;综合" />
+		<phrase hz="综观" py="zōng,guān" info="综合观察;从整体或宏观上进行观察" />
+		<phrase hz="综合" py="zōng,hé" info="1.把分析过的对象或现象的各个部分、各属性联合成一个统一的整体 2.把各种不同而有关联的事物组合在一起的" />
+		<phrase hz="综括" py="zōng,kuò" info="总括;总合概括" />
+		<phrase hz="综览" py="zōng,lǎn" info="总观；通览。" />
+		<phrase hz="综述" py="zōng,shù" info="1.综合叙述;提出总结或扼要的重述 2.所综合的叙述" />
+		<phrase hz="综析" py="zōng,xī" info="由一般的原理或原因演绎地推出特殊的事例或结果" />
 		<definition id="一">
 			<item text="总合：错~（纵横交错）. [综合] 1.把各个独立而互相关联的事物或现象进行分析归纳整理。 2.不同种类、不同性质的事物组合在一起：~~利用. ~~大学." />
 		</definition>
