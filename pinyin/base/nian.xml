@@ -4,6 +4,8 @@
 	<char hz="蔫" py="niān" />
 	<char hz="年" py="nián" />
 	<char hz="粘" py="nián" multi="zhān">
+		<phrase hz="粘稠" py="nián,chóu" info="1.液体粘性和浓度大，不易流动 2.有稠密或粘质的浓度、稠度、粘性 3.牛奶等经某种细菌沾染后呈现出的粘性和浓稠状态" />
+		<phrase hz="粘粥" py="nián,zhōu" />
 		<definition id="二">
 			<item id="1" text="同“黏”。" />
 			<item id="2" text="姓。" />
