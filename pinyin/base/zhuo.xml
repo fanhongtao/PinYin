@@ -33,22 +33,13 @@
 	</char>
 	<char hz="椓" py="zhuó" />
 	<char hz="著" py="zhuó" multi="zhù">
-		<phrase hz="衣着" py="yī,zhuó" info="指身上的穿戴;服装的式样;穿戴的方式" />
+		<phrase hz="执著" py="zhí,zhuó" info="即“执着”。" />
+		<phrase hz="著意" py="zhuó,yì" info="即“着意”。" />
 		<definition id="二">
 			<item text="附着，穿着。 后作“着”(zhuó)。" />
 		</definition>
 	</char>
-	<char hz="着" py="zhuó" multi="zhāo,zháo,zhe" main="1">
-		<phrase hz="着落" py="zhuó,luò" />
-		<definition id="一">
-			<item id="1" text="穿（衣）：~衣." />
-			<item id="2" text="接触，挨上：附~. ~陆. 不~边际." />
-			<item id="3" text="使接触别的事物，使附着在别的物体上：~眼. ~手. ~色. 不~痕迹." />
-			<item id="4" text="着落：寻找无~. [着落](-luò)下落，来源：遗失的东西有了~~了. 这笔费用还没有~~." />
-			<item id="5" text="派遣：~人前来办理." />
-			<item id="6" text="公文用语，表示命令的语气：~即施行." />
-		</definition>
-	</char>
+	<!-- Ref:着.xml <char hz="着" py="zhuó" multi="zhāo,zháo,zhe" main="1" /> -->
 	<char hz="禚" py="zhuó" />
 	<char hz="鷟" py="zhuó" trans="1" />
 	<char hz="缴" py="zhuó" multi="jiǎo">

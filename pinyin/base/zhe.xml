@@ -7,7 +7,7 @@
 			<item text="翻转，倒腾：~跟头. 用两个碗把开水~一~就凉了." />
 		</definition>
 	</char>
-	<char hz="蜇" py="zhē" multi="zhé" main="1">
+	<char hz="蜇" py="zhē" multi="zhé" main="1" suppressLog="1">
 		<definition id="二">
 			<item id="1" text="有毒腺的虫子刺人或牲畜：被蝎子~了." />
 			<item id="2" text="某些东西刺激皮肤或器官使感觉不适：切洋葱~眼睛." />
@@ -56,7 +56,7 @@
 	<char hz="锗" py="zhě" />
 	<char hz="赭" py="zhě" />
 	<char hz="褶" py="zhě" />
-	<char hz="这" py="zhè" multi="zhèi" main="1">
+	<char hz="这" py="zhè" multi="zhèi" main="1" suppressLog="1">
 		<phrase hz="这么" py="zhè,me" />
 		<definition id="一">
 			<item id="1" text="代词，此，指较近的时间、地方或事物，跟“那”相对：~里. ~些. ~个. ~是英汉词典. [这么](-me)代词，如此：~~办就好了." />
@@ -71,23 +71,5 @@
 		<phrase hz="鹧鸪" py="zhè,gū" />
 	</char>
 	<char hz="䗪" py="zhè" />
-	<char hz="着" py="zhe" multi="zhāo,zháo,zhuó">
-		<phrase hz="走着" py="zǒu,zhe" />
-		<phrase hz="等着" py="děng,zhe" />
-		<phrase hz="开着" py="kāi,zhe" />
-		<phrase hz="放着" py="fàng,zhe" />
-		<phrase hz="挂着" py="guà,zhe" />
-		<phrase hz="着呢" py="zhe,ne" />
-		<phrase hz="听着" py="tīng,zhe" />
-		<phrase hz="顺着" py="shùn,zhe" />
-		<phrase hz="照着" py="zhào,zhe" />
-		<phrase hz="沿着" py="yán,zhe" />
-		<phrase hz="朝着" py="cháo,zhe" />
-		<definition id="四" text="助词。">
-			<item id="1" text="在动词后。 1.表示动作正进行：走~. 等~. 开~会呢. 2.表示状态的持续：桌上放~一本书. 墙上挂~一幅画." />
-			<item id="2" text="表示程度深，常跟“呢”(ne)连用：好~呢. 这小孩儿精~呢！" />
-			<item id="3" text="用在动词或表示程度的形容词后表示祈使：你听~. 步子大~点儿." />
-			<item id="4" text="加在某些动词后，使变成介词：顺~. 照~. 沿~. 朝~." />
-		</definition>
-	</char>
+	<!-- Ref:着.xml <char hz="着" py="zhe" multi="zhāo,zháo,zhuó" /> -->
 </pinyin>

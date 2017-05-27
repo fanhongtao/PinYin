@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="着" py="zhāo" multi="zháo,zhe,zhuó">
+		<!-- <phrase hz="活着" py="huó,zhāo" duoyin="huó,zhe" info="1.妙著。指奕棋下子巧妙，不為敵人所制。 2.可隨機應變的行事策略或辦事方針。" /> -->
+		<phrase hz="绝着" py="jué,zhāo" info="一般人想象不到的计策、手段。" />
+		<phrase hz="妙着" py="miào,zhāo" info="1.神妙的破解。 2.佳妙的一着棋。 3.犹妙策。" />
+		<phrase hz="棋高一着" py="qí,gāo,yī,zhāo" info="一着：下棋时下一子或走一步。棋艺高人一步。也比喻技高一等。" />
+		<phrase hz="着儿" py="zhāo,er" />
+		<phrase hz="着法" py="zhāo,fǎ" info="1.下棋的着数。2.武术的动作。" />
+		<phrase hz="着数" py="zhāo,shù" info="1.下棋的步子 2.武术的动作 3.舞台上的一整套手法 4.比喻手段，计谋" />
+		<definition id="三">
+			<item id="1" text="（-儿）下棋时下一子或走一步叫一着。(喻)计策，办法：你出个高~儿. 我没~儿了." />
+			<item id="2" text="〈方〉放，搁进去：~点儿盐." />
+			<item id="3" text="〈方〉用于应答，表示同意：~，你说得真对." />
+		</definition>
+	</char>
+	<char hz="着" py="zháo" multi="zhāo,zhe,zhuó">
+		<phrase hz="八竿子打不着" py="bā,gān,zi,dǎ,bù,zháo" info="比喻远得不沾边" />
+		<phrase hz="该着" py="gāi,zháo" info="指命中注定,无法避免" />
+		<phrase hz="够着" py="gòu,zháo" info="伸出手或身体其他部分或某一其他物体去触及或抓住" />
+		<phrase hz="合不着" py="hé,bu,zháo" info="〈方〉不合算。" />
+		<phrase hz="后不着店" py="hòu,bù,zháo,diàn" info="见“前不着村”。" />
+		<phrase hz="摸不着头脑" py="mō,bù,zháo,tóu,nǎo" info="指弄不清是怎么回事。" />
+		<phrase hz="前不着村" py="qián,bù,zháo,cūn" info="“前不着村，后不着店”：谓离村店较远，吃住困难。" />
+		<phrase hz="上不着天" py="shàng,bù,zháo,tiān" />
+		<phrase hz="数得着" py="shǔ,de,zháo" info="比较突出或够得上标准。" />
+		<phrase hz="数不着" py="shǔ,bu,zháo" info="1.比较起来不算重要的 2.比较起来不算好的" />
+		<phrase hz="下不着地" py="xià,bù,zháo,dì" />
+		<phrase hz="着慌" py="zháo,huāng" info="着急;慌张" />
+		<phrase hz="着火" py="zháo,huǒ" info="1.燃烧起来 2.发生火灾;失火" />
+		<phrase hz="着凉" py="zháo,liáng" info="受凉。" />
+		<phrase hz="着忙" py="zháo,máng" info="1.因感到时间紧迫而行动加快 2.急噪不安;着急" />
+		<phrase hz="着迷" py="zháo,mí" info="入迷" />
+		<phrase hz="着魔" py="zháo,mó" info="1.事情或言行反常 2.着迷" />
+		<phrase hz="着急" py="zháo,jí" info="急躁;心中不安" />
+		<phrase hz="着紧" py="zháo,jǐn" info="〈方〉1.立即,赶忙 2.重要;需要 3.关系密切" />
+		<phrase hz="着火" py="zháo,huǒ" />
+		<phrase hz="着了" py="zháo,le" />
+		<phrase hz="正着" py="zhèng,zháo" info="恰巧碰上；准确打中" />
+		<definition id="二">
+			<item id="1" text="接触，挨上：上不~天，下不~地." />
+			<item id="2" text="感受，受到：~慌. ~凉. ~急." />
+			<item id="3" text="燃烧，也指灯发光：~火. 柴火~了. 天黑了，路灯都~了." />
+			<item id="4" text="入睡，睡着：躺下就~了." />
+			<item id="5" text="用在动词后表示达到目的或有结果：猜~了. 打~了." />
+		</definition>
+	</char>
+	<char hz="着" py="zhe" multi="zhāo,zháo,zhuó">
+		<phrase hz="挨着" py="āi,zhe" info="1.靠着。 2.依次接连着。" />
+		<phrase hz="本着" py="běn,zhe" info="组成介词结构，介绍出动作、行为的凭借或依据" />
+		<phrase hz="朝着" py="cháo,zhe" />
+		<phrase hz="吃不了兜着走" py="chī,bù,liǎo,dōu,zhe,zǒu" info="比喻受不了或担当不起。" />
+		<phrase hz="等着" py="děng,zhe" />
+		<phrase hz="对着" py="duì,zhe" />
+		<phrase hz="放着" py="fàng,zhe" />
+		<phrase hz="跟着" py="gēn,zhe" info="1.跟在[某人]后面 2.紧接着" />
+		<phrase hz="挂着" py="guà,zhe" />
+		<phrase hz="管着" py="guǎn,zhe" info="犹管教。 准让；必使。" />
+		<phrase hz="合着" py="hé,zhe" info="〈方〉表示没想到如此;原来是这样" />
+		<phrase hz="活着" py="huó,zhe" duoyin="huó,zhāo" info="1.度过生活 2.有生命;非死状态 3.仍然有生命,仍然没死" />
+		<phrase hz="记着" py="jì,zhe" info="记住" />
+		<phrase hz="接着" py="jiē,zhe" info="1.用手接 2.叙述、活动或关系中断后再继续" />
+		<phrase hz="紧接着" py="jǐn,jiē,zhe" />
+		<phrase hz="紧着" py="jǐn,zhe" info="[口]加紧;快速干。" />
+		<phrase hz="开着" py="kāi,zhe" />
+		<phrase hz="看着" py="kàn,zhe" info="1.眼看着。 谓转瞬间。 2.酌情；看情形。" />
+		<phrase hz="靠着" py="kào,zhe" />
+		<phrase hz="可着" py="kě,zhe" info="1.按照、比照。 2.所有、全部。" />
+		<phrase hz="刻着" py="kè,zhe" info="犹铭刻。著，附着。" />
+		<phrase hz="来着" py="lái,zhe" info="表示某事已经发生过的语气助词，也表示一般的询问语气" />
+		<phrase hz="明摆着" py="míng,bǎi,zhe" info="没有不清楚或怀疑的地方" />
+		<phrase hz="拿着" py="ná,zhe" />
+		<phrase hz="顺着" py="shùn,zhe" />
+		<phrase hz="听着" py="tīng,zhe" />
+		<phrase hz="停着" py="tíng,zhe" />
+		<phrase hz="望着" py="wàng,zhe" />
+		<phrase hz="向着" py="xiàng,zhe" info="1.朝着；对着。 2.偏袒。" />
+		<phrase hz="沿着" py="yán,zhe" info="顺着进程到" />
+		<phrase hz="硬着头皮" py="yìng,zhe,tóu,pí" info="勉强去做难度较大的事" />
+		<phrase hz="悠着" py="yōu,zhe" info="〈方〉:不能那么积极活动,控制着不使过度" />
+		<phrase hz="有着" py="yǒu,zhe" info="存在着；具有。" />
+		<phrase hz="照着" py="zhào,zhe" />
+		<phrase hz="着呢" py="zhe,ne" info="表示程度深。" />
+		<phrase hz="走着" py="zǒu,zhe" />
+		<definition id="四" text="助词。">
+			<item id="1" text="在动词后。 1.表示动作正进行：走~. 等~. 开~会呢. 2.表示状态的持续：桌上放~一本书. 墙上挂~一幅画." />
+			<item id="2" text="表示程度深，常跟“呢”(ne)连用：好~呢. 这小孩儿精~呢！" />
+			<item id="3" text="用在动词或表示程度的形容词后表示祈使：你听~. 步子大~点儿." />
+			<item id="4" text="加在某些动词后，使变成介词：顺~. 照~. 沿~. 朝~." />
+		</definition>
+	</char>
+	<char hz="着" py="zhuó" multi="zhāo,zháo,zhe" main="1">
+		<phrase hz="不着边际" py="bù,zhuó,biān,jì" info="着：接触；边际：边界，边缘。挨不着边儿。多指说话空泛，不接触实际。" />
+		<phrase hz="沉着" py="chén,zhuó" info="从容镇静;不慌不忙" />
+		<phrase hz="穿红着绿" py="chuān,hóng,zhuó,lǜ" info="穿戴得花花绿绿。形容打扮艳丽" />
+		<phrase hz="穿着" py="chuān,zhuó" info="所穿的衣服及所佩的装饰品" />
+		<phrase hz="当着不着" py="dāng,zhuó,bù,zhuó" info="指应该做的事不做，而不该做的事却做了。" />
+		<phrase hz="附着" py="fù,zhuó" info="较小的物体贴在较大的物体上" />
+		<phrase hz="胶着" py="jiāo,zhuó" info="1.牢固地黏住。 2.比喻相持不下或工作不能进行，犹如黏住。" />
+		<phrase hz="衣着" py="yī,zhuó" info="指身上的穿戴;服装的式样;穿戴的方式" />
+		<phrase hz="执着" py="zhí,zhuó" info="1. 原为佛教语。指对某一事物坚持不放，不能超脱。 2.泛指固执或拘泥，亦指对某种事物追求不舍。" />
+		<phrase hz="着笔" py="zhuó,bǐ" info="落笔;下笔" />
+		<phrase hz="着陆" py="zhuó,lù" info="飞机等降落到地面上" />
+		<phrase hz="着落" py="zhuó,luò" info="1.事情有归宿、有结果 2.依托;靠头;指靠" />
+		<phrase hz="着墨" py="zhuó,mò" info="指用笔墨来叙述描述" />
+		<phrase hz="着色" py="zhuó,sè" info="绘画涂颜色" />
+		<phrase hz="着实" py="zhuó,shí" info="切实;实在" />
+		<phrase hz="着手" py="zhuó,shǒu" info="开始动手进行" />
+		<phrase hz="着想" py="zhuó,xiǎng" info="作打算，操心" />
+		<phrase hz="着相" py="zhuó,xiàng" info="佛教术语，意思是执着于外相、虚相或个体意识而偏离了本质。" />
+		<phrase hz="着眼" py="zhuó,yǎn" info="注目;考虑" />
+		<phrase hz="着意" py="zhuó,yì" info="着力，刻意，精心，仔细" />
+		<phrase hz="着重" py="zhuó,zhòng" info="把重点放在某方面" />
+		<phrase hz="着装" py="zhuó,zhuāng" info="穿着服装" />
+		<definition id="一">
+			<item id="1" text="穿（衣）：~衣." />
+			<item id="2" text="接触，挨上：附~. ~陆. 不~边际." />
+			<item id="3" text="使接触别的事物，使附着在别的物体上：~眼. ~手. ~色. 不~痕迹." />
+			<item id="4" text="着落：寻找无~. [着落](-luò)下落，来源：遗失的东西有了~~了. 这笔费用还没有~~." />
+			<item id="5" text="派遣：~人前来办理." />
+			<item id="6" text="公文用语，表示命令的语气：~即施行." />
+		</definition>
+	</char>
+</pinyin>
