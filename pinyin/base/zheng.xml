@@ -45,6 +45,7 @@
 	</char>
 	<char hz="争" py="zhēng" />
 	<char hz="挣" py="zhēng" multi="zhèng">
+		<phrase hz="挣气" py="zhēng,qì" info="争气。奋发图强" />
 		<phrase hz="挣扎" py="zhēng,zhá" />
 		<definition id="二">
 			<item text="[挣扎](-zhá)尽力支撑或摆脱：垂死~~." />
@@ -65,7 +66,7 @@
 	<char hz="蒸" py="zhēng" />
 	<char hz="拯" py="zhěng" />
 	<char hz="整" py="zhěng" />
-	<char hz="正" py="zhèng" multi="zhēng" main="1">
+	<char hz="正" py="zhèng" multi="zhēng" main="1" suppressLog="1">
 		<phrase hz="正经" py="zhèng,jing" />
 		<phrase hz="正觉" py="zhèng,jué" info="指真正之觉悟。又作正解、等觉、等正觉、正等正觉、正等觉、正尽觉。" />
 		<definition id="一">
@@ -85,7 +86,17 @@
 			<item text="化学元素，镄(fèi)的旧称。" />
 		</definition>
 	</char>
-	<char hz="症" py="zhèng" multi="zhēng" main="1">
+	<char hz="症" py="zhèng" multi="zhēng" main="1" suppressLog="1">
+		<phrase hz="不治之症" py="bú,zhì,zhī,zhèng" info="医治不好的病。 也比喻无法挽救的祸患。" />
+		<phrase hz="病症" py="bìng,zhèng" info="疾病" />
+		<phrase hz="对症" py="duì,zhèng" info="针对具体的病症" />
+		<phrase hz="急症" py="jí,zhèng" info="突然发作、来势很猛的病症。" />
+		<phrase hz="绝症" py="jué,zhèng" info="无法治好的疾病" />
+		<phrase hz="顽症" py="wán,zhèng" info="指难以治好的病;久治不愈的病" />
+		<phrase hz="险症" py="xiǎn,zhèng" info="危险的病症。" />
+		<phrase hz="炎症" py="yán,zhèng" info="醫學上指組織對於外來刺激所產生的防禦性反應。典型的徵候是紅、腫、熱、痛以及患部的機能障礙。" />
+		<phrase hz="症候" py="zhèng,hòu" info="1.疾病 2.症状" />
+		<phrase hz="症状" py="zhèng,zhuàng" info="患者因疾病而表现出来的不正常状态" />
 		<definition id="一">
 			<item text="病：~候. 霍乱~. 急~. 不治之~. 对~下药." />
 		</definition>
@@ -94,8 +105,11 @@
 		<phrase hz="郑重" py="zhèng,zhòng" />
 	</char>
 	<char hz="诤" py="zhèng" />
-	<char hz="挣" py="zhèng" multi="zhēng" main="1">
+	<char hz="挣" py="zhèng" multi="zhēng" main="1" suppressLog="1">
 		<phrase hz="挣揣" py="zhèng,chuài" />
+		<phrase hz="挣开" py="zhèng,kāi" />
+		<phrase hz="挣钱" py="zhèng,qián" info="做工作赚钱" />
+		<phrase hz="挣脱" py="zhèng,tuō" info="奋力摆脱。" />
 		<definition id="一">
 			<item id="1" text="用力支撑或摆脱：~脱. ~开. [挣揣](-chuài)为保全性命而挣扎。" />
 			<item id="2" text="出力量而取得报酬：~钱." />
