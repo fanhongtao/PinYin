@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="只" py="zhī" multi="zhǐ">
+		<phrase hz="船只" py="chuán,zhī" info="船的总称" />
+		<phrase hz="舰只" py="jiàn,zhī" info="舰(总称) " />
+		<phrase hz="片言只语" py="piàn,yán,zhī,yǔ" info="零零碎碎的话语。形容语言文字数量极少。" />
+		<phrase hz="片纸只字" py="piàn,zhǐ,zhī,zì" info="不多的几句话，极少的几个字。 指零碎的文字材料。" />
+		<phrase hz="只身" py="zhī,shēn" info="孤单一人" />
+		<phrase hz="只手" py="zhī,shǒu" info="1.一只手。亦指一条胳膊。 2.单身。 3.喻指一人之力，独力。" />
+		<phrase hz="只言片语" py="zhī,yán,piàn,yǔ" info="个别词句或片断的话。" />
+		<phrase hz="只眼" py="zhī,yǎn" info="1.比喻独特的见解。 2.围棋术语。一眼。成片白子或黑子中之空隙，对手不能下子，但只眼不成活棋。" />
+		<phrase hz="只字不提" py="zhī,zì,bù,tí" info="只：一个。一个字也不谈起。比喻有意不说。" />
+		<!-- 搭配数词 -->
+		<phrase hz="一只" py="yì,zhī" info="自定义词。" />
+		<phrase hz="两只" py="liǎng,zhī" info="自定义词。" />
+		<phrase hz="二只" py="èr,zhī" info="自定义词。" />
+		<phrase hz="三只" py="sān,zhī" info="自定义词。" />
+		<phrase hz="四只" py="sì,zhī" info="自定义词。" />
+		<phrase hz="五只" py="wǔ,zhī" info="自定义词。" />
+		<phrase hz="六只" py="liù,zhī" info="自定义词。" />
+		<phrase hz="七只" py="qī,zhī" info="自定义词。" />
+		<phrase hz="八只" py="bā,zhī" info="自定义词。" />
+		<phrase hz="九只" py="jiǔ,zhī" info="自定义词。" />
+		<phrase hz="十只" py="shí,zhī" info="自定义词。" />
+		<phrase hz="百只" py="bǎi,zhī" info="自定义词。" />
+		<phrase hz="千只" py="qiān,zhī" info="自定义词。" />
+		<phrase hz="万只" py="wàn,zhī" info="自定义词。" />
+		<phrase hz="亿只" py="yì,zhī" info="自定义词。" />
+		<definition id="二">
+			<item id="1" text="量词：一~鸡. 两~手." />
+			<item id="2" text="单独的，极少的：~身（一个人）. 片纸~字. [只眼](转)特别见解：独具~~." />
+		</definition>
+	</char>
+	<char hz="只" py="zhǐ" multi="zhī" main="1">
+		<phrase hz="不只" py="bù,zhǐ" info="不但" />
+		<phrase hz="只得" py="zhǐ,dé" info="别无选择，不得不" />
+		<phrase hz="只读" py="zhǐ,dú" info="自定义词。如：只读存储器" />
+		<phrase hz="只顾" py="zhǐ,gù" info="1.仅仅顾及 2.表示注意力集中在某方面" />
+		<phrase hz="只管" py="zhǐ,guǎn" info="1.表示不必考虑别的，放心大胆做 2.尽管;虽说" />
+		<phrase hz="只好" py="zhǐ,hǎo" info="只有;只能" />
+		<phrase hz="只见" py="zhǐ,jiàn" info="1.只覺得。 2.只看見。" />
+		<phrase hz="只怕" py="zhǐ,pà" info="犹恐怕。表示疑虑或估计。" />
+		<phrase hz="只欠东风" py="zhǐ,qiàn,dōng,fēng" />
+		<phrase hz="只是" py="zhǐ,shì" info="仅仅是" />
+		<phrase hz="只消" py="zhǐ,xiāo" info="只需要" />
+		<phrase hz="只须" py="zhǐ,xū" />
+		<phrase hz="只需" py="zhǐ,xū" info="自定义词。" />
+		<phrase hz="只需要" py="zhǐ,xū,yào" info="自定义词。" />
+		<phrase hz="只许" py="zhǐ,xǔ" info="自定义词。" />
+		<phrase hz="只要" py="zhǐ,yào" info="表示具有充分的条件，正句常用就、也、都、便相呼应，表明由这种条件产生的一种结果" />
+		<phrase hz="只有" py="zhǐ,yǒu" info="1.表示必需的条件，下文常用才、方呼应 2.唯有;仅有" />
+		<phrase hz="只知其一" py="zhǐ,zhī,qí,yī" />
+		<phrase hz="只争朝夕" py="zhǐ,zhēng,zhāo,xī" info="朝：早晨；夕：晚上；朝夕：形容时间短暂。比喻抓紧时间，力争在最短的时间内达到目的。" />
+		<definition id="一" text="副词。">
+			<item id="1" text="表示限于某个范围：~知其一，不知其二. 万事俱备，~欠东风." />
+			<item id="2" text="唯一，仅有：家里~我一个人. [只是]1.连词，但是：我很想看戏，~~没时间. 2.副词，就是：人家问他，他~~不开口. 3.仅仅是：对抗~~矛盾斗争的一种形式." />
+		</definition>
+	</char>
+</pinyin>

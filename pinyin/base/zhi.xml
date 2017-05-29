@@ -20,12 +20,7 @@
 	<char hz="泜" py="zhī" />
 	<char hz="胝" py="zhī" />
 	<char hz="祗" py="zhī" />
-	<char hz="只" py="zhī" multi="zhǐ" main="1">
-		<definition id="二">
-			<item id="1" text="量词：一~鸡. 两~手." />
-			<item id="2" text="单独的，极少的：~身（一个人）. 片纸~字. [只眼](转)特别见解：独具~~." />
-		</definition>
-	</char>
+	<!-- Ref:只.xml <char hz="只" py="zhī" multi="zhǐ" /> -->
 	<char hz="织" py="zhī" />
 	<char hz="卮" py="zhī" />
 	<char hz="栀" py="zhī" />
@@ -70,15 +65,7 @@
 	<char hz="沚" py="zhǐ" />
 	<char hz="祉" py="zhǐ" />
 	<char hz="趾" py="zhǐ" />
-	<char hz="只" py="zhǐ" multi="zhī">
-		<phrase hz="只知其一" py="zhǐ,zhī,qí,yī" />
-		<phrase hz="只欠东风" py="zhǐ,qiàn,dōng,fēng" />
-		<phrase hz="只是" py="zhǐ,shì" />
-		<definition id="一" text="副词。">
-			<item id="1" text="表示限于某个范围：~知其一，不知其二. 万事俱备，~欠东风." />
-			<item id="2" text="唯一，仅有：家里~我一个人. [只是]1.连词，但是：我很想看戏，~~没时间. 2.副词，就是：人家问他，他~~不开口. 3.仅仅是：对抗~~矛盾斗争的一种形式." />
-		</definition>
-	</char>
+	<!-- Ref:只.xml <char hz="只" py="zhǐ" multi="zhī" main="1" /> -->
 	<char hz="祇" py="zhǐ" multi="qí">
 		<definition id="二">
 			<item text="“只”的异体字。" />
