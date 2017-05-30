@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="中" py="zhōng" multi="zhòng" main="1">
-		<phrase hz="其中" py="qí,zhōng" />
-		<phrase hz="中学" py="zhōng,xué" />
-		<definition id="一">
-			<item id="1" text="和四方、上下或两端距离同等的地位：~心. 路~. [中人]为双方介绍买卖、调解纠纷等并做见证的人。 [中央]1.中心的地方。 2.政党、国家等的最高领导机构：党~~. [人中]人的上唇正中凹下的地方。" />
-			<item id="2" text="在一定的范围内，里面：空~. 房~. 水~." />
-			<item id="3" text="性质、等级在两端之间的：~等. ~学. (转)不偏不倚：~庸. 适~. [中子]构成原子核的一种不带电荷的微粒。" />
-			<item id="4" text="用在动词后，表示动作正在进行：在研究~. 在印刷~. 前进~. 发展~." />
-			<item id="5" text="指中国：古今~外. ~文." />
-			<item id="6" text="适于，合于：~看. ~听. [中用]有用，有能力。" />
-			<item id="7" text="〈方〉成，行，好：~不？~." />
-		</definition>
-	</char>
+	<!-- Ref:中.xml <char hz="中" py="zhōng" multi="zhòng" main="1"/ > -->
 	<char hz="忠" py="zhōng" />
 	<char hz="盅" py="zhōng" />
 	<char hz="钟" py="zhōng" />
@@ -102,17 +90,7 @@
 	</char>
 	<char hz="冢" py="zhǒng" />
 	<char hz="踵" py="zhǒng" />
-	<char hz="中" py="zhòng" multi="zhōng">
-		<phrase hz="中弹" py="zhòng,dàn" />
-		<phrase hz="中毒" py="zhòng,dú" />
-		<phrase hz="中肯" py="zhòng,kěn" />
-		<phrase hz="中暑" py="zhòng,shǔ" />
-		<phrase hz="中要害" py="zhòng,yào,hài" />
-		<definition id="二">
-			<item id="1" text="正对上，恰好合上：~的(dì). ~肯. ~要害." />
-			<item id="2" text="感受，受到：~毒. ~暑. ~弹(dàn)." />
-		</definition>
-	</char>
+	<!-- Ref:中.xml <char hz="中" py="zhòng" multi="zhōng" /> -->
 	<char hz="仲" py="zhòng" />
 	<char hz="种" py="zhòng" multi="chóng,zhǒng">
 		<!-- <phrase hz="播种" py="bō,zhòng" duoyin="bō,zhǒng" info="用播种(zhǒng)的方式种植。" /> -->

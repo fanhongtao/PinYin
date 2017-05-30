@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="中" py="zhōng" multi="zhòng" main="1">
+		<phrase hz="暗中" py="àn,zhōng" info="1.不公开的;私下里 2.秘密地 3.在黑暗中" />
+		<phrase hz="半中腰" py="bàn,zhōng,yāo" info="[口]一半左右的地方;半中间;中部" />
+		<phrase hz="蚌中月" py="bàng,zhōng,yuè" info="指珍珠。旧说蚌孕珠与月的盈亏有关，故称。" />
+		<phrase hz="杯中物" py="bēi,zhōng,wù" info="杯子中的东西，指酒。" />
+		<phrase hz="初中" py="chū,zhōng" info="中学教育的第一至三年级阶段" />
+		<phrase hz="除中" py="chú,zhōng" info="中医学名词。即消渴。" />
+		<phrase hz="此中" py="cǐ,zhōng" info="自定义词。" />
+		<phrase hz="从中" py="cóng,zhōng" info="1.从人或事物之中 2.从这(那)里" />
+		<phrase hz="粗中有细" py="cū,zhōng,yǒu,xì" info="形容人说话做事表面好像粗鲁、随便，实际上却是审慎、细心。" />
+		<phrase hz="当中" py="dāng,zhōng" info="在之中" />
+		<phrase hz="地中海" py="dì,zhōng,hǎi" info="世界最大的陆间海。处于欧、亚、非之间" />
+		<phrase hz="妒火中烧" py="dù,huǒ,zhōng,shāo" info="因忌妒而异常激动，心神错乱或狂乱" />
+		<phrase hz="发展中" py="fā,zhǎn,zhōng" info="自定义词。如：发展中国家" />
+		<phrase hz="房中" py="fáng,zhōng" info="1.室内。2.特指内室、闺房。 3.妇人。 4.道家之房中术及其图书类目名称。 5.周代乐歌名。参见“房中乐”。" />
+		<phrase hz="风中" py="fēng,zhōng" info="自定义词。" />
+		<phrase hz="腹中" py="fù,zhōng" info="自定义词。" />
+		<phrase hz="高中" py="gāo,zhōng" duoyin="gāo,zhòng" info="大学与初中之间的一个学习阶段" />
+		<phrase hz="个中" py="gè,zhōng" info="此中;其中" />
+		<phrase hz="关中" py="guān,zhōng" info="指陕西渭河流域一带,为陕西的农、工业发达,人口集中之地区" />
+		<phrase hz="管中窥豹" py="guǎn,zhōng,kuī,bào" info="从竹管的小孔里看豹，只看到豹身上的一块斑纹。比喻只看到事物的一部分，指所见不全面或略有所得。" />
+		<phrase hz="闺中" py="guī,zhōng" info="1.宫室之中；馆室之内。2.特指女子所住的地方。" />
+		<phrase hz="国中" py="guó,zhōng" info="1.指王城之内。 2.国内。 3.國民中學的縮稱。" />
+		<phrase hz="汉中" py="hàn,zhōng" info="1.古郡名。治所在南郑(今陕西汉中东);辖境相当于今陕西秦岭以南,留坝、勉县以东,乾祐河流域以西及湖北部分地区 2.陕西省县级市及专区政府所在地。位于陕西省南部,汉水北岸阳安铁路线上。人口40万。为陕南最大城市和物产品集散地" />
+		<phrase hz="话中带刺" py="huà,zhōng,dài,cì" info="指话中包含着讥笑和讽刺。" />
+		<phrase hz="画中人" py="huà,zhōng,rén" info="1.图画中的人物。2.用以形容女子貌美。" />
+		<phrase hz="话中有话" py="huà,zhōng,yǒu,huà" info="话里含有别的意思。" />
+		<phrase hz="火中" py="huǒ,zhōng" info="自定义词。" />
+		<phrase hz="集中" py="jí,zhōng" info="1.把分散人、物或事集合在一起 2.把意见、经验等归纳起来" />
+		<phrase hz="急中生智" py="jí,zhōng,shēng,zhì" info="智：智谋。 紧急的时候，猛然想出办法。" />
+		<phrase hz="井中求火" py="jǐng,zhōng,qiú,huǒ" info="到水井之中求取火源。比喻找错了对象或愚昧不明事理。" />
+		<phrase hz="居中" py="jū,zhōng" info="1.犹居间，指在一定范围中间;在双方中间(调解) 2.置于中间，指位置处于正中;在当中" />
+		<phrase hz="局中人" py="jú,zhōng,rén" info="泛指参与其事、了解内情的人。亦见局内人" />
+		<phrase hz="剧中人" py="jù,zhōng,rén" info="1.一出戏或一本小说或一首诗中的人物或演员 2.一出戏中说明人物的表;尤指印在剧本开端的人物表" />
+		<phrase hz="军中无戏言" py="jūn,zhōng,wú,xì,yán" info="谓军队中商议军机大事，郑重严肃，说话必负责任。" />
+		<phrase hz="口中" py="kǒu,zhōng" info="自定义词。" />
+		<phrase hz="理中" py="lǐ,zhōng" info="中医术语。调理中气。" />
+		<phrase hz="留中" py="liú,zhōng" info="皇帝把臣下的奏章留在宫禁中，不交议也不批答" />
+		<phrase hz="隆中" py="lóng,zhōng" info="1.山名。 在湖北省襄阳县西。临汉水。 2.借指诸葛亮。" />
+		<phrase hz="笼中鸟" py="lóng,zhōng,niǎo" info="比喻受困而丧失自由的人。" />
+		<phrase hz="路中" py="lù,zhōng" info="1.道路中间。 2.复姓。" />
+		<phrase hz="罗贯中" py="luó,guàn,zhōng" info="(约1330年－约1400年) 中国元末明初小说家、戏曲家。名本，别号湖海散人。山西太原人。作品有《三国演义》、《隋唐两朝志传》、《残唐五代史演义》、《三遂平妖传》等。杂剧有《赵太祖龙虎风云会》等三种。" />
+		<phrase hz="马中赤兔" py="mǎ,zhōng,chì,tù" info="见“人中吕布”。" />
+		<phrase hz="美中不足" py="měi,zhōng,bù,zú" info="大体很好，但还有不足。" />
+		<phrase hz="梦中" py="mèng,zhōng" info="1.睡梦之中。 2.比喻懵懂糊涂，受人欺骗。 3. 梦泽 之中。" />
+		<phrase hz="命中注定" py="mìng,zhōng,zhù,dìng" info="迷信的人认为人的一切遭遇都是命运预先决定的，人力无法挽回。" />
+		<phrase hz="目中无人" py="mù,zhōng,wú,rén" info="眼里没有别人。 形容骄傲自大，看不起人。" />
+		<phrase hz="囊中取物" py="náng,zhōng,qǔ,wù" info="从口袋中取东西。比喻办事毫不费力就可以办到。" />
+		<phrase hz="囊中物" py="náng,zhōng,wù" info="喻稳稳到手或不用费力就可获得的物品" />
+		<phrase hz="囊中羞涩" py="náng,zhōng,xiū,sè" info="指没有钱或经济不宽裕（含委婉意）。" />
+		<phrase hz="闹中取静" py="nào,zhōng,qǔ,jìng" info="指在热闹的环境中保持清静的心态" />
+		<phrase hz="内中" py="nèi,zhōng" info="1.里边;内部 2.指宫廷" />
+		<phrase hz="年中" py="nián,zhōng" info="一个历年的中间或中间一段时间" />
+		<phrase hz="女中豪杰" py="nǚ,zhōng,háo,jié" info="豪杰：指才能出众的人。女性中的杰出人物。" />
+		<phrase hz="盘中" py="pán,zhōng" info="自定义词。" />
+		<phrase hz="期中" py="qī,zhōng" info="一学期的前半学期结束的时候，经常在此时举行考试并报告学生们的学习成绩" />
+		<phrase hz="其中" py="qí,zhōng" info="那里面;那中间" />
+		<phrase hz="强中更有强中手" py="qiáng,zhōng,gèng,yǒu,qiáng,zhōng,shǒu" info="比喻技艺无止境，不能自满自大。" />
+		<phrase hz="强中自有强中手" py="qiáng,zhōng,zì,yǒu,qiáng,zhōng,shǒu" info="同“强中更有强中手”。" />
+		<phrase hz="巧发奇中" py="qiǎo,fā,qí,zhòng" info="发：射箭，比喻发言。 形容善于乘机发表意见，后能为事实所证实。" />
+		<phrase hz="热中" py="rè,zhōng" info="1.对与自己相关的事物急于获得 2.对某种活动喜爱，爱好 3.也作“热衷”。" />
+		<phrase hz="人中" py="rén,zhōng" info="位于上唇中线的垂直沟，人体穴位之一" />
+		<phrase hz="人中吕布" py="rén,zhōng,lǚ,bù" info="“人中吕布，马中赤兔”：非常优秀的人才" />
+		<phrase hz="日中" py="rì,zhōng" info="日头正当午;中午" />
+		<phrase hz="肉中刺" py="ròu,zhōng,cì" info="比喻最痛恨而急于除掉的东西。" />
+		<phrase hz="桑中之喜" py="sāng,zhōng,zhī,xǐ" info="指男女不依礼法的结合。" />
+		<phrase hz="桑中之约" py="sāng,zhōng,zhī,yuē" info="桑中：桑林之间。 指男女幽会的的密约。" />
+		<phrase hz="山中" py="shān,zhōng" info="自定义词。" />
+		<phrase hz="身在福中不知福" py="shēn,zài,fú,zhōng,bù,zhī,fú" info="生活在幸福之中，并不感到幸福。" />
+		<phrase hz="诗中" py="shī,zhōng" info="自定义词。" />
+		<phrase hz="适中" py="shì,zhōng" info="1.介于太过和不及之间，正合适 2.不偏于哪一方面的" />
+		<phrase hz="书中" py="shū,zhōng" info="自定义词。" />
+		<phrase hz="蜀中无大将" py="shǔ,zhōng,wú,dà,jiàng" info="“蜀中无大将，廖化作先锋”：廖化﹐三国蜀将。 三国后期﹐蜀名将相继死亡﹐后主以廖化充当先锋﹐成为突出的人物。比喻没有杰出人才﹐平庸者也侥幸成名。" />
+		<phrase hz="水中捞月" py="shuǐ,zhōng,lāo,yuè" info="到水中去捞月亮。比喻去做根本做不到的事情，只能白费力气。" />
+		<phrase hz="死中求生" py="sǐ,zhōng,qiú,shēng" info="在极危险的境地中努力挣扎以求生路。" />
+		<phrase hz="孙中山" py="sūn,zhōng,shān" info="孙中山(1866-1925) : 近代民主革命家。名文，字逸仙，曾化名中山樵，遂以中山名世，广东香山(今中山)人。" />
+		<phrase hz="途中" py="tú,zhōng" info="在进行中或行动中(发生、完成或使用)" />
+		<phrase hz="万中无一" py="wàn,zhōng,wú,yī" info="一万个中找不出一两个。指某一类人或事物所占比例极少，相当于成语万里挑一。" />
+		<phrase hz="瓮中之鳖" py="wèng,zhōng,zhī,biē" info="困在瓮中的甲鱼。 比喻已在掌握之中，逃跑不了的东西。" />
+		<phrase hz="瓮中捉鳖" py="wèng,zhōng,zhuō,biē" info="从大坛子里捉王八。 比喻想要捕捉的对象已在掌握之中。形容手到擒来，轻易而有把握。" />
+		<phrase hz="无形中" py="wú,xíng,zhōng" info="不知不觉的情况下;无名义而有实质的情况下" />
+		<phrase hz="无中生有" py="wú,zhōng,shēng,yǒu" info="道家认为，天下万物生于有，有生于无。把没有的说成有。比喻毫无事实，凭空捏造。" />
+		<phrase hz="夏中" py="xià,zhōng" info="1.犹夏季。2.佛教语。谓夏安居间之九十日，即从四月十六日至七月十五日。" />
+		<phrase hz="心中" py="xīn,zhōng" info="心里" />
+		<phrase hz="胸中" py="xiōng,zhōng" info="心中。 多指人的思想境界或精神状态。" />
+		<phrase hz="秀外慧中" py="xiù,wài,huì,zhōng" info="秀：秀丽；慧：聪明。 外表秀丽，内心聪明。" />
+		<phrase hz="虚中乐善" py="xū,zhōng,lè,shàn" info=" 虚心并且乐意采纳善言善事。虚中:虚心。中,同“衷”,内心。善:善言善事,形容词用如名词。" />
+		<phrase hz="雪中" py="xuě,zhōng" info="自定义词。如：雪中送碳" />
+		<phrase hz="言不由中" py="yán,bù,yóu,zhōng" info="指心口不一致。同“言不由衷”。多含贬义。多用来形容不坦率或敷衍的态度；有时也形容虚伪欺骗。" />
+		<phrase hz="眼中" py="yǎn,zhōng" info="自定义词。" />
+		<phrase hz="眼中钉" py="yǎn,zhōng,dīng" info="比喻心中最厌恶、最痛恨的人。" />
+		<phrase hz="意中人" py="yì,zhōng,rén" info="原指心意相知的友人。 后多指心中所眷恋的人" />
+		<phrase hz="鱼游釜中" py="yú,yóu,fǔ,zhōng" info="釜：锅。 鱼在锅里游。比喻处境危险，快要灭亡。" />
+		<phrase hz="月中" py="yuè,zhōng" info="每月的中间几天" />
+		<phrase hz="云中白鹤" py="yún,zhōng,bái,hè" info="象云彩中的白鹤一般。比喻志行高洁的人。" />
+		<phrase hz="云中仙鹤" py="yún,zhōng,xiān,hè" info="象云彩中的白鹤一般。比喻志行高洁的人。" />
+		<phrase hz="云中鹤" py="yún,zhōng,hè" info="见“云中白鹤”。" />
+		<phrase hz="掌中" py="zhǎng,zhōng" info="1.手掌中。 2.喻控制的范围内。犹言掌握之中。" />
+		<phrase hz="折中" py="zhé,zhōng" info="1.取正;调节，使之适中，现多指协调不同意见，使各方都能接受 2.又作折衷" />
+		<phrase hz="震中" py="zhèn,zhōng" info="直接位于地震震源之上的部分地面，该处受的灾害最重" />
+		<phrase hz="之中" py="zhī,zhōng" info="自定义词。" />
+		<phrase hz="正当中" py="zhèng,dāng,zhōng" info="正中" />
+		<phrase hz="正中" py="zhèng,zhōng" info="1.最激烈的或最活跃的部分或阶段 2.正当中" />
+		<phrase hz="中班" py="zhōng,bān" info="1.船舶值班的班次，从午夜到上午四点 2.从下午到半夜的工作班次 3.幼儿园里由五周岁至六周岁的儿童所编成的班级" />
+		<phrase hz="中饱" py="zhōng,bǎo" info="侵吞经手的钱财" />
+		<phrase hz="中报" py="zhōng,bào" info="1.古代朝廷的官报。 2.向朝廷呈报。 3.公司公布的本公司上半年的财务报表。" />
+		<phrase hz="中表" py="zhōng,biǎo" info="1.裡和外。 2.父親的姊妹之子為外兄弟，母親的兄弟姊妹之子為內兄弟，合稱為「中表」。" />
+		<phrase hz="中波" py="zhōng,bō" info="指波长在100-1000米(频率从300-3000千赫)之间的电磁波，主要依靠地波传播;用于短距离无线电广播、无线电测向等" />
+		<phrase hz="中部" py="zhōng,bù" info="1.中心地区(部分) 2.中间部分" />
+		<phrase hz="中才" py="zhōng,cái" info="1.中等才能。2.指中等才能的人。 3.科考中式之才。" />
+		<phrase hz="中餐" py="zhōng,cān" info="中国风味的餐食菜肴" />
+		<phrase hz="中策" py="zhōng,cè" info="胜于下策但不及上策的计策或方法" />
+		<phrase hz="中层" py="zhōng,céng" info="1.位于平流层顶和中层顶之间的大气层，距地面高度约在50-85公里之间 2.指机构、组织、阶层等中间的一层或几层 3.属于中间的分组、部分或级别的人" />
+		<phrase hz="中产" py="zhōng,chǎn" info="1.中等财产。 2.中等财产的人家。" />
+		<phrase hz="中长" py="zhōng,cháng" info="指相当于一般人的身高。" />
+		<phrase hz="中常" py="zhōng,cháng" info="一般;中等" />
+		<phrase hz="中场" py="zhōng,chǎng" info="1.旧时乡试共分三场，第二场又称中场。 2.足球场中线两侧附近的地区，为前卫所在位置。" />
+		<phrase hz="中程" py="zhōng,chéng" info="1.亦作“中呈”。指中等射程。如:中程导弹。2.亦作“中呈”。合乎法度。 3.合乎要求、规格。 4.符合期限。" />
+		<phrase hz="中大夫" py="zhōng,dài,fū" info="1.古代官名。2.汉官名。备顾问应对。" />
+		<phrase hz="中丹田" py="zhōng,dān,tián" info="道教语。 三丹田之一，在心窝部位。" />
+		<phrase hz="中道" py="zhōng,dào" info="1.半路;中途 2.中庸之道 3.[佛教]指一种特定的德操和哲理，据认为，人持有它就可以不至于趋向自满和自苦的两个极端而从速彻悟" />
+		<phrase hz="中等" py="zhōng,děng" info="在数量、质量、位置或程度之中间的" />
+		<phrase hz="中东" py="zhōng,dōng" info="欧洲人指亚洲西南部和非州东北部，包括近东和伊朗、阿富汗" />
+		<phrase hz="中都" py="zhōng,dū" info="1.京都。 2.指一般城市。" />
+		<phrase hz="中断" py="zhōng,duàn" info="半中间发生阻隔、停顿或故障而断开" />
+		<phrase hz="中队" py="zhōng,duì" info="相当于营或连的组织。如飞行中队、舰艇中队" />
+		<phrase hz="中耳" py="zhōng,ěr" info="高等脊椎动物的耳的中间部分。内含由三块听小骨形成的骨链，自鼓膜联至前庭窗，并将振动传递至内耳" />
+		<phrase hz="中饭" py="zhōng,fàn" info="1.正餐，正午用的饮食 2.中午便餐，通常指中午所用的便餐" />
+		<phrase hz="中非" py="zhōng,fēi" info="指 非洲 中部地区。通常包括 乍得 、 中非共和国 、 喀麦隆 、 赤道几内亚 、 加蓬 、 刚果 、 扎伊尔 以及 圣多美 和 普林西比 。有时也把 赞比亚 和 马拉维 、 津巴布韦 作为 中非 的一部分。" />
+		<phrase hz="中分" py="zhōng,fēn" info="1.均分。 2.从中间分开。 3.分裂。 4.指房屋从梁到地面的部分。" />
+		<phrase hz="中锋" py="zhōng,fēng" info="位置在进攻线当中的运动员(如足球、曲棍球、排球或水球的)" />
+		<phrase hz="中缝" py="zhōng,fèng" info="1.报纸左右两版之间的狭长的部分 2.木版书每页中间的狭长部分，折叠起来是书口 3.上衣或大衣背部中间的竖缝" />
+		<phrase hz="中伏" py="zhōng,fú" info="1. 夏至后的第四个庚日,是三伏的第二伏,一般为10天,有的年份为20天 2.通常也指从夏至后第四个庚日起到立秋后第一个庚日前一天的一段时间" />
+		<phrase hz="中高档" py="zhōng,gāo,dàng" info="自定义词。" />
+		<phrase hz="中高级" py="zhōng,gāo,jí" info="自定义词。" />
+		<phrase hz="中高收入" py="zhōng,gāo,shōu,rù" info="自定义词。" />
+		<phrase hz="中共" py="zhōng,gòng" info="中国共产党的简称" />
+		<phrase hz="中规" py="zhōng,guī" info="1.同圆规相符。2.引申为合乎准则、要求。" />
+		<phrase hz="中古" py="zhōng,gǔ" info="较晚的古代，在我国多指魏晋南北朝隋唐这个时期，即3世纪到9世纪" />
+		<phrase hz="中国" py="zhōng,guó" />
+		<phrase hz="中寒" py="zhōng,hán" info="1.因受凉而生病。 2.中医病症名。" />
+		<phrase hz="中号" py="zhōng,hào" info="中等规格。如：他的身材适合穿中号的工作服。" />
+		<phrase hz="中和" py="zhōng,hé" info="1.使中和 2.相对的事物互相抵消，失去各自的性质" />
+		<phrase hz="中华" py="zhōng,huá" info="1.古代华夏族多建都于黄河南北，以其在四方之中，因称之为中华，是汉族最初兴起的地方，后各朝疆土渐广，凡所统辖，皆称中华，后也借指中国 2.指中原 3.古时对华夏族、汉族的称谓" />
+		<phrase hz="中级" py="zhōng,jí" info="高级和初级之间的一级" />
+		<phrase hz="中继" py="zhōng,jì" info="处在两条线路之间，把两条线路连接起来的" />
+		<phrase hz="中际" py="zhōng,jì" info="佛家以前际、中际、后际为三际，犹言三世。中际即现在世。" />
+		<phrase hz="中技" py="zhōng,jì" info="中等技术学校的简称" />
+		<phrase hz="中间" py="zhōng,jiān" info="1.在事物两端之间或两个事物之间 2.在里面" />
+		<phrase hz="中坚" py="zhōng,jiān" info="古时指军队中最精锐的部分，现指集体中最有力的并起较大作用的成分" />
+		<phrase hz="中焦" py="zhōng,jiāo" info="1.中医学名词。三焦之一。指腹腔的上部。 2.中医学名词。温病辨证。指持续高热阶段，邪在胃肠或脾经。" />
+		<phrase hz="中介" py="zhōng,jiè" info="媒介" />
+		<phrase hz="中局" py="zhōng,jú" info="象棋比赛中指棋势发展到中盘的比赛阶段" />
+		<phrase hz="中矩" py="zhōng,jǔ" info="合乎曲尺的标准。" />
+		<phrase hz="中军" py="zhōng,jūn" info="1.古时行军作战队分上、中、下(或左、中、右)三军，由主帅所居中军发号施令 2.指中军统帅的营帐 3.中军将军的省称" />
+		<phrase hz="中看" py="zhōng,kàn" info="好看，令人悦目" />
+		<phrase hz="中空" py="zhōng,kōng" info="真高1000-7000米的飞行高度。 飞机中高空飞行，有利于发挥飞机的战术技术性能，但易受敌方空中火力的杀伤" />
+		<phrase hz="中馈" py="zhōng,kuì" info="1.婦女在家中職司飲食的事。 2.比喻妻子。 3.酒食。" />
+		<phrase hz="中立" py="zhōng,lì" info="处于对立的双方之间，不倾向或偏袒一方" />
+		<phrase hz="中量级" py="zhōng,liàng,jí" info="中等体重;尤指参加运动或比赛(例如拳击、摔交、举重者)的体重比次重量级重，比重量级轻" />
+		<phrase hz="中流" py="zhōng,liú" info="1.水流的中央;渡程中间 2.江河的中段" />
+		<phrase hz="中路" py="zhōng,lù" info="1.半路。2.路的当中。 3.当中的一路。常指军队部署。 4.质量中等；普通。如：中路货。" />
+		<phrase hz="中落" py="zhōng,luò" info="中途衰落。" />
+		<phrase hz="中马" py="zhōng,mǎ" info="1.指古代驾车时居中的马。 又称服马。 2.中等的马。" />
+		<phrase hz="中美" py="zhōng,měi" info="自定义词。" />
+		<phrase hz="中南" py="zhōng,nán" info="1.山名。即 终南山。 2.地区名。一般指 河南 、 湖北 、 湖南 、 广东 四省和 广西壮族自治区 。" />
+		<phrase hz="中脑" py="zhōng,nǎo" info="介于间脑与桥脑之间的脑部，内有第Ⅲ和第Ⅳ对脑神经和红核、黑质、中央灰质等重要核团及上、下行传导束。 有调节随意运动、控制肌紧张等功能" />
+		<phrase hz="中年" py="zhōng,nián" info="1.人生的一个时期,一般指40-65岁,也有指35-55岁人到中年 2.中期 " />
+		<phrase hz="中农" py="zhōng,nóng" info="经济地位在富农和贫民之间的农民。 多数占有土地，并有部分生产工具，生活来源靠自己劳动，一般不剥削他人，也不出卖劳动力" />
+		<phrase hz="中欧" py="zhōng,ōu" info="一界线不明确的地区，一般认为包括法国以东、前苏联以西的一些国家或所有国家" />
+		<phrase hz="中盘" py="zhōng,pán" info="1.在中流盘旋。2.盘中。 3.围棋术语。指布局完成，进入关系全局胜负的激战阶段。" />
+		<phrase hz="中篇" py="zhōng,piān" info="1.未读完全篇。 2.分篇的书籍或文章中居中的一篇，对上篇下篇而言。 3.指中篇小说。" />
+		<phrase hz="中频" py="zhōng,pín" info="高于低频、低于高频的电磁振荡，其范围一般是10－550千周。 在超外差式收音机中，由收音机本身产生的振荡和接收到的高频混合而取得中频。" />
+		<phrase hz="中品" py="zhōng,pǐn" info="中等；中等品级。" />
+		<phrase hz="中期" py="zhōng,qī" info="1.某一时期的中间阶段 2.时期的长短在长期和短期之间" />
+		<phrase hz="中气" py="zhōng,qì" info="1.古代历法以太阳历二十四气配阴历十二月，阴历每月二气：在月初的叫节气，在月中以后的叫中气。如立春为正月节气，雨水为正月中气。 2.中和之气。 3.中医名词。指中焦脾胃运转机能的原动力。对食物的消化、身体的营养有重要作用。 4.指丹田之气。" />
+		<phrase hz="中青" py="zhōng,qīng" info="自定义词。" />
+		<phrase hz="中秋" py="zhōng,qiū" info="农历八月十五日" />
+		<phrase hz="中人" py="zhōng,rén" info="1.在两方之间调解、做见证或介绍买卖的人 2.一般人;中等人 3.普通人" />
+		<phrase hz="中山" py="zhōng,shān" info="周代诸侯国名。今河北正定县东北，战国时为赵武炅王所灭" />
+		<phrase hz="中殇" py="zhōng,shāng" info="古谓十二至十五岁死亡为“中殇”。未成年而死叫殇。《仪礼·丧服》:“年十九至十六为长殤，十五至十二为中殤，十一至八岁为下殤，不满八岁以下，皆为无服之殤。”" />
+		<phrase hz="中生代" py="zhōng,shēng,dài" info="地质年代的第四代。约开始于二亿三千万年前，结束于六千七百万年前。分为三迭纪、侏罗纪和白垩纪三个纪。这时期主要的脊椎动物是爬行动物，恐龙繁盛，哺乳类和鸟类开始出现。无脊椎动物主要是菊石类和箭石类。植物主要是银杏、苏铁和松柏。" />
+		<phrase hz="中式" py="zhōng,shì" info="1.指科举考试被录取 2.符合规格 3.中国固有的格式" />
+		<phrase hz="中士" py="zhōng,shì" info="1.军衔的一级，军士中的第二等级，低于上士，高于下士 2.一般人" />
+		<phrase hz="中试" py="zhōng,shì" duoyin="zhòng,shì" info="中间阶段的试验;正式投产前的试验" />
+		<phrase hz="中世纪" py="zhōng,shì,jì" info="欧洲 历史上的封建社会时代。一般指公元四、五世纪到十六世纪这段时期。" />
+		<phrase hz="中枢" py="zhōng,shū" info="1.事物系统中起中心主导作用的部分 2.指以君主为首的中央统治机构;朝廷 3.经穴名。 属督脉，位于第十、十一胸椎棘突之间" />
+		<phrase hz="中书" py="zhōng,shū" info="1.皇宫中的藏书。亦特指宫中记事的书。 2.官名。中书令的省称。 汉 设中书令，掌传宣诏令，以宦者为之，后多任用名望之士。 3.官名。中书舍人的省称。 隋 、 唐 时为中书省的属官。 明 清 废中书省，于内阁设中书舍人，掌撰拟、缮写之事。 4.官署名。 唐 代的中书省、 宋 代的政事堂，亦直称为“中书”。 5.毛笔的别称，“中书君”的省称。" />
+		<phrase hz="中衰" py="zhōng,shuāi" info="中途衰落" />
+		<phrase hz="中水期" py="zhōng,shuǐ,qī" info="也叫平水期。 指河流处于正常水位的时期。" />
+		<phrase hz="中碳钢" py="zhōng,tàn,gāng" info="具有中等含碳量(约0.25～0.50％)的碳素钢。" />
+		<phrase hz="中堂" py="zhōng,táng" info="1.正中的厅堂。 2.指厅堂之中。 3.正室。 4.庭院。 5.犹明堂。 6.指母亲。 7. 唐 于中书省设政事堂，以宰相领其事，后因称宰相为中堂。 明 、 清 大学士亦沿用此称。 8.挂在厅堂正中的大幅字画。" />
+		<phrase hz="中提琴" py="zhōng,tí,qín" info="提琴的一种，全长约660毫米。定弦比小提琴低五度，音色亦较低沉。常用于重奏和管弦乐队，也用于独奏。" />
+		<phrase hz="中天" py="zhōng,tiān" info="天空;天顶" />
+		<phrase hz="中庭" py="zhōng,tíng" info="1.古代庙堂前阶下正中部分。为朝会或授爵行礼时臣下站立之处。 2.厅堂正中；厅堂之中。 3.庭院；庭院之中。 4.指现代高级旅馆中庭院式的大厅。 5.中草药“百合”的别名。见 明 李时珍 《本草纲目·菜二·百合》。" />
+		<phrase hz="中统" py="zhōng,tǒng" info="国民党特务组织之一。全称中国国民党中央执行委员会调查统计局" />
+		<phrase hz="中途" py="zhōng,tú" info="半路;进程中间" />
+		<phrase hz="中土" py="zhōng,tǔ" info="1.中原地带 2.泛指中国" />
+		<phrase hz="中外" py="zhōng,wài" info="1.中国和外国 2.里面和外面" />
+		<phrase hz="中脘" py="zhōng,wǎn" info="1.谓胃的中部。2.穴位名。属任脉经，在上脘下一寸，脐上四寸。居心蔽骨与脐之中央。腑病多治此穴。" />
+		<phrase hz="中纬度" py="zhōng,wěi,dù" info="指北纬45度上下或南纬45度上下的纬度。" />
+		<phrase hz="中卫" py="zhōng,wèi" info="足球、手球等球类比赛的位置在中间的的后卫" />
+		<phrase hz="中尉" py="zhōng,wèi" info="位于上尉与少尉之间的军衔级别" />
+		<phrase hz="中文" py="zhōng,wén" info="中国的语言文字，特指汉族的语言文字" />
+		<phrase hz="中午" py="zhōng,wǔ" info="太阳在子午线上方时;白天十二点时，亦称正午" />
+		<phrase hz="中西" py="zhōng,xī" info="中国和西洋" />
+		<phrase hz="中下" py="zhōng,xià" info="1.指古代田地或赋税等级的第六等。2.中等里的下等。 3.指中策和下策。" />
+		<phrase hz="中线" py="zhōng,xiàn" info="1.又称中心线。位置居中的线。 2.三角形的一顶点与对边中点的连线。 3.把球场划分为两个相等场区的线。" />
+		<phrase hz="中心" py="zhōng,xīn" info="1. 方位词。跟四周的距离相等的位置 2.事物的主要部分 3.在某一方面占重要地位的城市或区域 4.设备、技术力量等比较完备的机构和单位（多做单位名称）" />
+		<phrase hz="中兴" py="zhōng,xīng" info="通常指国家由衰退而复兴" />
+		<phrase hz="中型" py="zhōng,xíng" info="中等规模；中等规格。" />
+		<phrase hz="中性" py="zhōng,xìng" info="1.处于两种相对性质之间的性质 2.某些语言名词(以及代词，形容词)分别阳性、阴性、中性" />
+		<phrase hz="中学" py="zhōng,xué" info="1.实施中等教育的学校 2.清末指我国传统的学术" />
+		<phrase hz="中旬" py="zhōng,xún" info="一个月的中间十天，即十一日至二十日" />
+		<phrase hz="中亚" py="zhōng,yà" info="自定义词。" />
+		<phrase hz="中央" py="zhōng,yāng" info="1.中心的地方(中,指一定范围内适中的统置;央指和四周或上下左右距离相等的位置) 2.指国家或党派政治权力最高的地方" />
+		<phrase hz="中阳" py="zhōng,yáng" info="自定义词。" />
+		<phrase hz="中洋" py="zhōng,yáng" info="自定义词。" />
+		<phrase hz="中药" py="zhōng,yào" info="中医所用的药物" />
+		<phrase hz="中叶" py="zhōng,yè" info="一个世纪或一个朝代的中期" />
+		<phrase hz="中医" py="zhōng,yī" info="1.中国传统的医学 2.用中国的医学理论和方法治病的医生" />
+		<phrase hz="中阴" py="zhōng,yīn" info="佛教语。谓轮回中死后生前的过渡状态。其间虽离形躯，仍有五阴(色、受、想、行、识)。佛教徒认为中阴身如小儿，以七天为一期而生于本处。若在七日末了仍未得生缘，则更续中阴七天，最长的到第七期之终，必然往生于一处。后世俗演变为七七追荐的法事。" />
+		<phrase hz="中音" py="zhōng,yīn" info="雅正和谐之音" />
+		<phrase hz="中印" py="zhōng,yìn" info="中印度 的省称。 借指禅林。" />
+		<phrase hz="中庸" py="zhōng,yōng" info="1.儒家的道德标准，待人接物不偏不倚，调和折中 2.见四书 3.德才平常;中材" />
+		<phrase hz="中用" py="zhōng,yòng" info="顶事;有用" />
+		<phrase hz="中有" py="zhōng,yǒu" info="即中阴。" />
+		<phrase hz="中游" py="zhōng,yóu" info="1.河流介于上游和下游间的一段 2.比喻比上不足比下有余的地位" />
+		<phrase hz="中雨" py="zhōng,yǔ" info="二十四小时内雨量达10-25毫米的雨叫中雨" />
+		<phrase hz="中原" py="zhōng,yuán" info="1.指黄河中下游地区 2.平原;原野" />
+		<phrase hz="中岳" py="zhōng,yuè" info="1.指位于今河南登封县北的嵩山，古名嵩高。 2.中国的名山。借指中土，中州。 3.道家语。指鼻与脐。" />
+		<phrase hz="中允" py="zhōng,yǔn" info="1.官名。2.公正。" />
+		<phrase hz="中灶" py="zhōng,zào" info="集体伙食标准中的第二级(高于大灶而低于小灶)。" />
+		<phrase hz="中正" py="zhōng,zhèng" info="正直" />
+		<phrase hz="中指" py="zhōng,zhǐ" info="手的五个手指中正中间的一个" />
+		<phrase hz="中止" py="zhōng,zhǐ" info="半途停止" />
+		<phrase hz="中州" py="zhōng,zhōu" info="旧指居全国中心的今河南省一带;中原" />
+		<phrase hz="中洲" py="zhōng,zhōu" info="1.洲中。2.海中仙岛，借称道士所居。" />
+		<phrase hz="中专" py="zhōng,zhuān" info="中等专科学校的简称" />
+		<phrase hz="中转" py="zhōng,zhuǎn" info="中途转换交通运输工具" />
+		<phrase hz="中资" py="zhōng,zī" info="1.中等资产。 2.中间人的润金。" />
+		<phrase hz="中子" py="zhōng,zǐ" info="1.一种不带电荷的基本粒子,其质量近似等于质子的质量,出现在除氢核以外的所有已知的原子核中。 2.排行居中的兒子。" />
+		<phrase hz="中罪" py="zhōng,zuì" info="1.介于轻罪与重罪之间的罪行。 2.指犯中罪的人。" />
+		<phrase hz="冢中枯骨" py="zhǒng,zhōng,kū,gǔ" info="冢：坟墓。坟墓里的枯骨。比喻没有力量的人。" />
+		<phrase hz="众中" py="zhòng,zhōng" info="众人之中。" />
+		<phrase hz="舟中敌国" py="zhōu,zhōng,dí,guó" info="同船的人都成了仇敵。比喻親信叛離。" />
+		<definition id="一">
+			<item id="1" text="和四方、上下或两端距离同等的地位：~心. 路~. [中人]为双方介绍买卖、调解纠纷等并做见证的人。 [中央]1.中心的地方。 2.政党、国家等的最高领导机构：党~~. [人中]人的上唇正中凹下的地方。" />
+			<item id="2" text="在一定的范围内，里面：空~. 房~. 水~." />
+			<item id="3" text="性质、等级在两端之间的：~等. ~学. (转)不偏不倚：~庸. 适~. [中子]构成原子核的一种不带电荷的微粒。" />
+			<item id="4" text="用在动词后，表示动作正在进行：在研究~. 在印刷~. 前进~. 发展~." />
+			<item id="5" text="指中国：古今~外. ~文." />
+			<item id="6" text="适于，合于：~看. ~听. [中用]有用，有能力。" />
+			<item id="7" text="〈方〉成，行，好：~不？~." />
+		</definition>
+	</char>
+	<char hz="中" py="zhòng" multi="zhōng">
+		<phrase hz="猜中" py="cāi,zhòng" info="部分地或完全地得出[正确的解答]" />
+		<phrase hz="卒中" py="cù,zhòng" info="中风" />
+		<!-- <phrase hz="高中" py="gāo,zhòng" duoyin="gāo,zhōng" info="敬称科举考试考中" /> -->
+		<phrase hz="看中" py="kàn,zhòng" info="观察后感觉中意" />
+		<phrase hz="连中三元" py="lián,zhòng,sān,yuán" info="三元：科举制度称乡试、会试、殿试的第一名为解元、会元、状元，合称“三元”。 接连在乡试、会试、殿试中考中了第一名。" />
+		<phrase hz="女大不中留" py="nǚ,dà,bù,zhòng,liú" info="女子長成之後，到了相當年齡便應當出嫁，不宜久留於家中。" />
+		<phrase hz="切中" py="qiè,zhòng" info="说到点子上了，恰到好处" />
+		<phrase hz="万选万中" py="wàn,xuǎn,wàn,zhòng" info="每次都被选中。指文章文辞美妙，立意新奇，每次都能被选中。" />
+		<phrase hz="相中" py="xiāng,zhòng" info="看中" />
+		<phrase hz="言必有中" py="yán,bì,yǒu,zhòng" info="中：正对上。指一说话就能说到点子上。" />
+		<phrase hz="一言中的" py="yī,yán,zhòng,dì" info="的，箭靶的中心。一言中的比喻說話正中對方的心意。" />
+		<phrase hz="中标" py="zhòng,biāo" info="投标得中" />
+		<phrase hz="中彩" py="zhòng,cǎi" info="买彩票中奖。亦指押赌注获胜" />
+		<phrase hz="中弹" py="zhòng,dàn" info="被子弹打中" />
+		<!-- <phrase hz="中的" py="zhòng,dì" info="1.指箭射中靶心。2.指达到目的。 3.犹言中肯，切当。" /> -->
+		<phrase hz="中毒" py="zhòng,dú" info="受到有毒物质的侵害" />
+		<phrase hz="中风" py="zhòng,fēng" info="中医病症名。 多由脑血管栓塞或发生血栓、脑溢血等引起。初起时突然头痛、眩晕。短时间内失去知觉。得病后身子偏瘫或截瘫，严重时即时死亡" />
+		<phrase hz="中计" py="zhòng,jì" info="中了别人的计策;落入别人设下的圈套" />
+		<phrase hz="中奖" py="zhòng,jiǎng" info="奖券的号码与开奖的号码相同而获奖金或奖品" />
+		<phrase hz="中举" py="zhòng,jǔ" info="科举时代称乡试考中为中举。" />
+		<phrase hz="中肯" py="zhòng,kěn" info="指言论正中要害或扼要肯切" />
+		<phrase hz="中魔" py="zhòng,mó" info="中邪" />
+		<phrase hz="中签" py="zhòng,qiān" info="分期还本的债券号码跟用抽签办法得出的本期还本的债券号码相同。 中签的债券可以领取本金" />
+		<phrase hz="中伤" py="zhòng,shāng" info="诬陷或恶意造谣，旨在毁坏人的名誉" />
+		<!-- <phrase hz="中试" py="zhòng,shì" duoyin="zhōng,shì" info="考试、测试合格" /> -->
+		<phrase hz="中暑" py="zhòng,shǔ" />
+		<phrase hz="中听" py="zhòng,tīng" info="好聽，聽來悅耳。" />
+		<phrase hz="中邪" py="zhòng,xié" info="迷信的人指被鬼怪迷住而言行反常" />
+		<phrase hz="中选" py="zhòng,xuǎn" info="选举或选择时被选上。特指科举应试时被录取" />
+		<phrase hz="中意" py="zhòng,yì" info="合乎心意;满意" />
+		<phrase hz="中要害" py="zhòng,yào,hài" />
+		<definition id="二">
+			<item id="1" text="正对上，恰好合上：~的(dì). ~肯. ~要害." />
+			<item id="2" text="感受，受到：~毒. ~暑. ~弹(dàn)." />
+		</definition>
+	</char>
+</pinyin>
