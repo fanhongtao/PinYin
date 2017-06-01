@@ -85,7 +85,7 @@
 	<char hz="蛀" py="zhù" />
 	<char hz="杼" py="zhù" />
 	<char hz="祝" py="zhù" />
-	<char hz="著" py="zhù" multi="zhuó" main="1">
+	<char hz="著" py="zhù" multi="zhuó" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="显明，显出（(连)显-、昭-）：卓~. ~名. 颇~成效." />
 			<item id="2" text="写文章，写书：~书立说." />
