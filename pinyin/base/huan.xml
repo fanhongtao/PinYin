@@ -2,35 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="欢" py="huān" />
 	<char hz="獾" py="huān" />
-	<char hz="还" py="huán" multi="hái">
-		<phrase hz="偿还" py="cháng,huán" />
-		<phrase hz="发还" py="fā,huán" info="把收来的东西还回去" />
-		<phrase hz="返老还童" py="fǎn,lǎo,huán,tóng" />
-		<phrase hz="奉还" py="fèng,huán" info="敬辞。送还。" />
-		<phrase hz="归还" py="guī,huán" />
-		<phrase hz="还本" py="huán,běn" info="还付所借的本钱" />
-		<phrase hz="还击" py="huán,jī" info="回击" />
-		<phrase hz="还家" py="huán,jiā" />
-		<phrase hz="还口" py="huán,kǒu" info="回嘴" />
-		<phrase hz="还礼" py="huán,lǐ" />
-		<phrase hz="还钱" py="huán,qián" />
-		<phrase hz="还手" py="huán,shǒu" />
-		<phrase hz="还书" py="huán,shū" />
-		<phrase hz="还俗" py="huán,sú" info="出家的僧、尼、道恢复普通人的身分" />
-		<phrase hz="还乡" py="huán,xiāng" info="1.返回乡里。2.反转方向。乡，通“向”、“嚮”。" />
-		<phrase hz="还原" py="huán,yuán" />
-		<phrase hz="还账" py="huán,zhàng" info="归还所欠的债或偿付所欠的货款" />
-		<phrase hz="回还" py="huí,huán" info="返回原处" />
-		<phrase hz="往还" py="wǎng,huán" info="去和来;往来" />
-		<phrase hz="以牙还牙" py="yǐ,yá,huán,yá" />
-		<phrase hz="以眼还眼" py="yǐ,yǎn,huán,yǎn" />
-		<definition id="一">
-			<item id="1" text="回，归：~家. ~原（恢复原状）." />
-			<item id="2" text="回报：~礼. ~手. 以眼~眼，以牙~牙." />
-			<item id="3" text="归还（(连)偿-）：~钱." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:还.xml <char hz="还" py="huán" multi="hái" /> -->
 	<char hz="环" py="huán" />
 	<char hz="郇" py="huán" multi="xún" main="1">
 		<definition id="二">
@@ -43,7 +15,6 @@
 	<char hz="萑" py="huán" />
 	<char hz="锾" py="huán" />
 	<char hz="圜" py="huán" multi="yuán" main="1">
-		<phrase hz="转圜" py="zhuǎn,huán" info="1.挽回。2.调停，斡旋。3.转动圆形器物。常用以代指便易迅速之事。4.借指顺易。" />
 		<definition id="一">
 			<item text="围绕。" />
 		</definition>

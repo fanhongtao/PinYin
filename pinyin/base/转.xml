@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="转" py="zhuǎn" multi="zhuàn" main="1">
+		<phrase hz="暗转" py="àn,zhuǎn" info="1.宋代内臣不公开提升官职，谓之“暗转”。 2.戏剧演至某一场或某一幕中间，台上灯光暂时熄灭，表示时间的中断，或者同时迅速换布景，表示地点的变动。" />
+		<phrase hz="百转" py="bǎi,zhuǎn" info="1.多次旋转。2.形容路途迂回曲折。" />
+		<phrase hz="承转" py="chéng,zhuǎn" info="1.上下級間公文的轉送。 2.作文章時承接轉折上下文。" />
+		<phrase hz="倒转" py="dào,zhuǎn" info="1.互相掉換。 2.反而。" />
+		<phrase hz="掉转" py="diào,zhuǎn" info="转过180度改变方向" />
+		<phrase hz="调转" py="diào,zhuǎn" info="调换方向，尤指掉头转向相反的方向" />
+		<phrase hz="兜得转" py="dōu,de,zhuǎn" info="1.方言。 谓有周转回旋的余地。 2.方言。谓熟人多，行事方便。" />
+		<phrase hz="翻转" py="fān,zhuǎn" info="使围着或好像围着一个轴旋转" />
+		<phrase hz="反转" py="fǎn,zhuǎn" info="1.照片图像的色调或明暗的处理 2.转向相反的方向" />
+		<phrase hz="飞米转刍" py="fēi,mǐ,zhuǎn,chú" info="糧草運送迅速。比喻戰爭頻仍。" />
+		<phrase hz="飞砂转石" py="fēi,shā,zhuǎn,shí" info="形容风势狂暴。同“飞沙走石”。" />
+		<phrase hz="峰回路转" py="fēng,huí,lù,zhuǎn" info="峰峦重叠环绕，山路蜿蜒曲折。形容山水名胜路径曲折复杂。" />
+		<phrase hz="复转" py="fù,zhuǎn" info="中国人民解放军战士干部复员转业" />
+		<phrase hz="关停并转" py="guān,tíng,bìng,zhuǎn" info="关闭、停办、合并、转产。" />
+		<phrase hz="归邪转曜" py="guī,xié,zhuǎn,yào" info="曜：光明。改除邪恶归依正道。亦作“归邪反正”。" />
+		<phrase hz="好转" py="hǎo,zhuǎn" info="1.使更受欢迎;变得更好 2.从衰落中恢复;收缩后臌胀或跌落后上升" />
+		<phrase hz="互转" py="hù,zhuǎn" info="互相转发微博" />
+		<phrase hz="回黄转绿" py="huí,huáng,zhuǎn,lǜ" info="树叶由绿变黄，由黄变绿。原指时令的变迁，后比喻世事的反复。" />
+		<phrase hz="回心转意" py="huí,xīn,zhuǎn,yì" info="心、意：心思；回、转：掉转。 重新考虑，改变原来的想法和态度。" />
+		<phrase hz="回转" py="huí,zhuǎn" info="1.反覆輪轉。 2.返回。 3.掉轉。 4.心回意轉。" />
+		<phrase hz="急转" py="jí,zhuǎn" info="突然转身;突然改变方向" />
+		<phrase hz="境随心转" py="jìng,suí,xīn,zhuǎn" info="一个人所处的环境及境遇会随着心境的转变而转变。 佛语有：“相由心生，境由心转，心系诸佛，珠可助道。”又说：“境随心转则悦，心随境转则烦。”" />
+		<phrase hz="九转" py="jiǔ,zhuǎn" info="1.九次提炼。 道教谓丹的炼制有一至九转之别，而以九转为贵。 2.指九转丹或其炼制秘诀。 3.指官秩相当于从三品。 4.九次迁官。 5.反复诵读。 6.反复翻转。" />
+		<phrase hz="救转" py="jiù,zhuǎn" info="使恢复知觉" />
+		<phrase hz="流转" py="liú,zhuǎn" info="1.流落转徙 2.流通周转" />
+		<phrase hz="买转" py="mǎi,zhuǎn" info="收買他人。" />
+		<phrase hz="目不转视" py="mù,bù,zhuǎn,shì" info="形容注意力集中，看得出神" />
+		<phrase hz="逆转" py="nì,zhuǎn" info="形势或情况向相反的方向转化;向不利方面转化。" />
+		<phrase hz="扭转" py="niǔ,zhuǎn" info="1.掉转;转过 2.使事物的发展方向发生变化。" />
+		<phrase hz="批转" py="pī,zhuǎn" info="1.写上名称、指示、备忘事项或解释(如在正式文件上) 2.批示后将下级的公文转发给有关单位。" />
+		<phrase hz="偏转" py="piān,zhuǎn" info="偏离直线或直的方向运动" />
+		<phrase hz="起承转合" py="qǐ,chéng,zhuǎn,hé" info="起，開端。承，承接上文並加以申述。轉，轉折，從正面、反面加以立論。合，結束全文。為舊時詩文布局的順序。後亦泛指文章的作法。" />
+		<phrase hz="日转千阶" py="rì,zhuǎn,qiān,jiē" info="转：升迁；阶：官阶。一天里升迁多次。比喻官职提升的极快。" />
+		<phrase hz="山回路转" py="shān,huí,lù,zhuǎn" info="形容山势环绕，山路曲折" />
+		<phrase hz="偷龙转凤" py="tōu,lóng,zhuǎn,fèng" info="孙子兵法第二十四计“偷龙转凤”又名“偷梁换柱”。" />
+		<phrase hz="退转" py="tuì,zhuǎn" info="1.佛教语。谓位次下降，功行减退，道心退缩等。2.退回；转头。" />
+		<phrase hz="宛转" py="wǎn,zhuǎn" info="1.隨順變化。2.身體轉動，翻來覆去。3.含蓄委婉。4.態度和藹、柔順。5.調停、斡旋。6.形容纏綿委曲。7.形容聲音悅耳動人。" />
+		<phrase hz="宛转蛾眉" py="wǎn,zhuǎn,é,méi" info="宛转：轻而柔的起落。蛾眉：细而长的眉毛，指美丽的眼睛。漂亮的眼眉轻轻扬起。常用作美人的代称。" />
+		<phrase hz="婉转" py="wǎn,zhuǎn" info="1.说话含蓄、曲折而温和 2.声音委婉而动听。" />
+		<phrase hz="心回意转" py="xīn,huí,yì,zhuǎn" info="心、意：心思；回、转：掉转。改变想法，不再坚持过去的意见。" />
+		<phrase hz="旋转" py="xuán,zhuǎn" info="绕一个轴转动" />
+		<phrase hz="意转心回" py="yì,zhuǎn,xīn,huí" info="改變原來的心意和態度。" />
+		<phrase hz="右转" py="yòu,zhuǎn" info="自定义词。" />
+		<phrase hz="运转" py="yùn,zhuǎn" info="1.绕某个中心或某根轴作曲线运动 2.使机器转动 3.氣運轉變。" />
+		<phrase hz="债转股" py="zhài,zhuǎn,gǔ" info="指国家组建金融资产管理公司，收购银行的不良资产，把原来银行与企业间的债权、债务关系，转变为金融资产管理公司与企业间的股权、产权关系。" />
+		<phrase hz="展转" py="zhǎn,zhuǎn" info="1.翻身貌。多形容卧不安席 2.经过许多人的手或经过许多环节的地方" />
+		<phrase hz="辗转" py="zhǎn,zhuǎn" info="1.来回翻转 2.非直接地;中间经过许多人或地方 3.反复无常" />
+		<phrase hz="折转" py="zhé,zhuǎn" info="掉转;返回" />
+		<phrase hz="中转" py="zhōng,zhuǎn" info="中途转换交通运输工具" />
+		<phrase hz="周转" py="zhōu,zhuǎn" info="1.资金投入生产再经过销售产品而收回 2.指钱财进出或物品轮流使用" />
+		<phrase hz="转氨基酶" py="zhuǎn,ān,jī,méi" info="生物体内能转移氨基酸的氨基的酶，广泛存在于动物体的组织(如肝、肾、心、肌肉)、植物体的组织(如根、茎、叶、种子)和许多微生物体内。测定人的血液中转氨基酶的浓度对诊断肝炎、心肌梗死等症有一定价值。简称转氨酶。" />
+		<phrase hz="转氨酶" py="zhuǎn,ān,méi" info="见“转氨基酶”。" />
+		<phrase hz="转报" py="zhuǎn,bào" info="转达报告。" />
+		<phrase hz="转变" py="zhuǎn,biàn" info="从一种形式、状态或特点变为另一种形式、状态或特点" />
+		<phrase hz="转播" py="zhuǎn,bō" info="转送播出" />
+		<phrase hz="转仓" py="zhuǎn,cāng" info="在商品期货规定的转仓日之前，先拉出近远月期货间的正价差（交易指令：买进远月、沽空近月）。接下来当基金经理执行转仓交易时，面对已经存在的正价差，仍然得硬着头皮执行转仓（交易指令：买进远月、沽空近月）。" />
+		<phrase hz="转产" py="zhuǎn,chǎn" info="转向生产或经营其他产品;由生产转为经营或由经营转为生产" />
+		<phrase hz="转车" py="zhuǎn,chē" info="换乘，从一辆车换到另一辆车或从一条运输线换到另一条运输线" />
+		<phrase hz="转乘" py="zhuǎn,chéng" info="指从一辆火车或汽车换到另一段路线的另一辆车" />
+		<phrase hz="转出" py="zhuǎn,chū" info="自定义词。" />
+		<phrase hz="转达" py="zhuǎn,dá" info="1.作为中间人而进行传递或传达 2.转达问候" />
+		<phrase hz="转道" py="zhuǎn,dào" info="中途转换道路;改道" />
+		<phrase hz="转递" py="zhuǎn,dì" info="中转传递;转送递交" />
+		<phrase hz="转调" py="zhuǎn,diào" info="1.填词术语。即增损旧腔，转入新调。 2.音乐术语。在某调乐曲的中途临时转入他调。转调是音乐发展的重要手法之一，能丰富乐曲的表现力。也叫变调或移调。" />
+		<phrase hz="转碟" py="zhuǎn,dié" info="传统杂技节目。也叫耍花盘。演员双手各用数根细竿，各顶一个碟子的底，借腕力使之飞快转动，要求在表演各种难度很高的动作时碟子不得跌落。" />
+		<!-- <phrase hz="转动" py="zhuǎn,dòng" duoyin="zhuàn,dòng" info="作旋转的运动;转身活动" /> -->
+		<phrase hz="转读" py="zhuǎn,dú" info="以特定的曲調來誦讀佛經。" />
+		<phrase hz="转舵" py="zhuǎn,duò" info="改變船隻行進的方向。引申為改變方向。" />
+		<phrase hz="转发" py="zhuǎn,fā" info="1.批转下发 2.把信件等转送到别处 3.报刊上发表别的报刊上发表过的文章" />
+		<phrase hz="转帆" py="zhuǎn,fān" info="改变船的航向而使帆转向" />
+		<phrase hz="转房" py="zhuǎn,fáng" info="一种旧习俗。指女子例须嫁给亡夫的弟兄，或指子女在家族内过继。" />
+		<phrase hz="转告" py="zhuǎn,gào" info="转达告诉" />
+		<phrase hz="转关系" py="zhuǎn,guān,xi" info="党、团员把自己的组织关系转到新的工作单位" />
+		<phrase hz="转行" py="zhuǎn,háng" info="改行" />
+		<phrase hz="转化" py="zhuǎn,huà" info="1.转变 2.矛盾的双方经过斗争,在一定条件下,各自向着和自己相反的方面转变,向着对立方面所处的地位转变 3.一个化合物由一种同分异构体变为另一种同分异构体的过程" />
+		<phrase hz="转话" py="zhuǎn,huà" info="禪師啟悟弟子時所提的問題，有時問題是由弟子提出反問禪師。" />
+		<phrase hz="转圜" py="zhuǎn,huán" info="1.挽回。2.调停，斡旋。3.转动圆形器物。常用以代指便易迅速之事。4.借指顺易。" />
+		<phrase hz="转换" py="zhuǎn,huàn" info="1.改变,改换。2.从一种能量形式变成另一种能量形式。" />
+		<phrase hz="转回" py="zhuǎn,huí" info="用一个第八度音使低音调上升或使高音调下降" />
+		<phrase hz="转机" py="zhuǎn,jī" info="1.情勢好轉的跡象。常指事情有挽回的希望或病勢脫離危險。2.途中轉搭別的飛機。" />
+		<phrase hz="转基因" py="zhuǎn,jī,yīn" info="运用科学手段从某种生物中提取所需要的基因，将其转入另一种生物中，使与另一种生物的基因进行重组，从而产生特定的具有优良遗传性状的物质。" />
+		<phrase hz="转寄" py="zhuǎn,jì" info="委托一方把信件寄给另一方。" />
+		<phrase hz="转嫁" py="zhuǎn,jià" info="1.女子改嫁。2.將所應承受的負擔、罪名、損失等加諸在別人身上。" />
+		<phrase hz="转交" py="zhuǎn,jiāo" info="转递交付。" />
+		<phrase hz="转角" py="zhuǎn,jiǎo" info="街巷等的拐弯处" />
+		<phrase hz="转接" py="zhuǎn,jiē" info="轉換某一事物並接續到另一事物上。" />
+		<phrase hz="转借" py="zhuǎn,jiè" info="1.托请他人借取。 2.谓另外找人借取。 3.把借来的东西借给别人。" />
+		<phrase hz="转睛" py="zhuǎn,jīng" info="转动眼珠。" />
+		<phrase hz="转剧" py="zhuǎn,jù" info="趋于剧烈;加重或恶化" />
+		<phrase hz="转科" py="zhuǎn,kē" info="1.学生转换学科或专业 2.病人转换诊疗科室" />
+		<phrase hz="转口" py="zhuǎn,kǒu" info="1.物资途经一个中间港口或国家转运至另一港口或国家。2.〈方〉∶改嘴。" />
+		<phrase hz="转脸" py="zhuǎn,liǎn" info="1.掉过脸,把脸扭向另一方向。2.极短的时间。" />
+		<phrase hz="转粮" py="zhuǎn,liáng" info="輸送糧食。" />
+		<phrase hz="转捩" py="zhuǎn,liè" info="从层流到湍流的过渡。流体力学名词，表征一种流动现象，" />
+		<phrase hz="转漏" py="zhuǎn,lòu" info="古代用铜壶滴漏计时，“转漏”指漏箭移动的顷刻。 形容时间很短。" />
+		<phrase hz="转录" py="zhuǎn,lù" info="遗传信息从脱氧核糖核酸到核糖核酸的转移。 即以脱氧核糖核酸为模板，合成核糖核酸的过程。" />
+		<phrase hz="转轮" py="zhuǎn,lún" info="1.投胎轉世。 2.一種嬉戲的器具。類似秋千，一次可同時飛轉數個秋千。" />
+		<phrase hz="转轮圣王" py="zhuǎn,lún,shèng,wáng" info="古印度神話中的聖王。因手持輪寶而得名，輪分金、銀、銅、鐵四種。持金輪寶的稱金輪王，統領四大洲；持銀輪寶的稱銀輪王，統領東、西、南三洲；持銅輪寶的稱銅輪王，領有東、南二洲；持鐵輪寶的稱鐵輪王，領有南閻浮提洲。並都擁有七寶，以正法治天下。" />
+		<phrase hz="转卖" py="zhuǎn,mài" info="转手出卖;转手倒卖" />
+		<phrase hz="转门" py="zhuǎn,mén" info="一种外门(如在公共建筑中),有两扇或多扇活门在圆柱形门斗内的一根共同的竖轴上同时旋转,其构造或装置可以防止空气直接穿过门斗" />
+		<phrase hz="转面无情" py="zhuǎn,miàn,wú,qíng" info="翻脸不认人。 亦称“翻脸无情”。" />
+		<phrase hz="转念" py="zhuǎn,niàn" info="回过头来仔细想想;转变原来的想法" />
+		<phrase hz="转女成男" py="zhuǎn,nǚ,chéng,nán" info="佛学术语，转女身成男子之意。" />
+		<phrase hz="转盼" py="zhuǎn,pàn" info="1.目光流转。 2.犹转眼。喻时间短促。" />
+		<phrase hz="转蓬" py="zhuǎn,péng" info="随风飘转的蓬草。" />
+		<phrase hz="转让" py="zhuǎn,ràng" info="把自己的东西或合法利益或权利让给他人" />
+		<phrase hz="转任" py="zhuǎn,rèn" info="改换任地；转换官职。" />
+		<phrase hz="转日回天" py="zhuǎn,rì,huí,tiān" info="形容力量大，能扭转很难挽回的局面。" />
+		<phrase hz="转入" py="zhuǎn,rù" info="谓转变原来方向而进入某地或某方面。" />
+		<phrase hz="转身" py="zhuǎn,shēn" info="1.回轉身軀。 2.離開。 3.改嫁。" />
+		<phrase hz="转伸" py="zhuǎn,shēn" info="转述。" />
+		<phrase hz="转生" py="zhuǎn,shēng" info="佛教指人或动物的转世轮回，灵魂在人死后投胎再生" />
+		<phrase hz="转世" py="zhuǎn,shì" info="佛教指人或动物的因果报应，托胎转生。" />
+		<phrase hz="转手" py="zhuǎn,shǒu" info="1.比喻輕易迅速。 2.間接經手。" />
+		<phrase hz="转首" py="zhuǎn,shǒu" info="回首，形容時間過得很快。" />
+		<phrase hz="转授" py="zhuǎn,shòu" info="转让(如交给自己的权力或权利)于他人" />
+		<phrase hz="转述" py="zhuǎn,shù" info="转达表述。" />
+		<phrase hz="转瞬" py="zhuǎn,shùn" info="转眼。喻时间短促。" />
+		<phrase hz="转送" py="zhuǎn,sòng" info="1.转交。 2.把别人送给的礼物又送给另外一个人。" />
+		<phrase hz="转台" py="zhuǎn,tái" duoyin="zhuàn,tái" info="1.轉換電視頻道。 2.俗稱酒女或舞女自甲桌轉換到乙桌陪客。" />
+		<phrase hz="转体" py="zhuǎn,tǐ" info="旋转身体" />
+		<phrase hz="转头" py="zhuǎn,tóu" info="1.回头;扭头 2.折转;掉头 3.转念;反悔" />
+		<phrase hz="转托" py="zhuǎn,tuō" info="把别人托给自己的事情再托给另外的人" />
+		<phrase hz="转弯" py="zhuǎn,wān" info="1.轉變方向。 2.道路曲折處。" />
+		<phrase hz="转徙" py="zhuǎn,xǐ" info="輾轉流浪遷徙，居無定所。" />
+		<phrase hz="转系" py="zhuǎn,xì" info="高等学校学生从某一系转到另一系去学习。" />
+		<phrase hz="转向" py="zhuǎn,xiàng" duoyin="zhuàn,xiàng" info="1.改变方向。2.比喻改变政治立场。" />
+		<phrase hz="转写" py="zhuǎn,xiě" info="常用于发表或传送更为无形的新闻条目的机构" />
+		<phrase hz="转型" py="zhuǎn,xíng" info="是指事物的结构形态、运转模型和人们观念的根本性转变过程。" />
+		<phrase hz="转学" py="zhuǎn,xué" info="学生从某一学校转往另一学校学习。" />
+		<phrase hz="转眼" py="zhuǎn,yǎn" info="转动眼珠子的功夫。形容时光飞逝" />
+		<phrase hz="转业" py="zhuǎn,yè" info="军队干部退出现役分配到地方机关和企业事业单位工作" />
+		<phrase hz="转移" py="zhuǎn,yí" info="1.从一地转往另一地 2.从一种存在状态转移到另一种状态;尤指精神上的转移" />
+		<phrase hz="转译" py="zhuǎn,yì" info="将(如文学课文的)一种语言翻译成另一种语言" />
+		<phrase hz="转义" py="zhuǎn,yì" info="本义转化引申的含义" />
+		<phrase hz="转运" py="zhuǎn,yùn" info="1.把运来的东西再运到别处去 2.运气好转" />
+		<phrase hz="转韵" py="zhuǎn,yùn" info="指一首诗词中间由押某个韵换押别的韵" />
+		<phrase hz="转增" py="zhuǎn,zēng" info="自定义词。如：转增股" />
+		<phrase hz="转赠" py="zhuǎn,zèng" info="把别人送给的礼物再送另外的人" />
+		<phrase hz="转辗反侧" py="zhuǎn,zhǎn,fǎn,cè" info="形容心中有事，翻来覆去不能入睡。同“辗转反侧”。" />
+		<phrase hz="转战" py="zhuǎn,zhàn" info="辗转循回作战" />
+		<phrase hz="转账" py="zhuǎn,zhàng" info="不收付现金，只在双方账簿上记载收付金额" />
+		<phrase hz="转帐" py="zhuǎn,zhàng" info="不收付现金，只在双方账簿上记载收付金额" />
+		<phrase hz="转折" py="zhuǎn,zhé" info="1.[事物]在发展过程中改变原来的方向，形势或趋势 2.历史的转折 3.文章或语义由一个意思转向另一个意思;讲话时转调;文章或语意由一个方向转向另一方向" />
+		<phrase hz="转辙" py="zhuǎn,zhé" info="1.车轮转动压出的痕迹。 引申为车轮转动。 2.改变形势或方向。" />
+		<phrase hz="转诊" py="zhuǎn,zhěn" info="医疗预防机构根据病情需要，将本单位诊疗的病人转到另一个医疗预防机构诊疗或处理的一种制度。" />
+		<phrase hz="转正" py="zhuǎn,zhèng" info="通过一定手续转为正式身分或成员" />
+		<phrase hz="转职" py="zhuǎn,zhí" info="改变职务。" />
+		<phrase hz="转置" py="zhuǎn,zhì" info="1.调换安置。2.数学名词。" />
+		<phrase hz="转注" py="zhuǎn,zhù" info="1.轉相流注。 2.六書之一。由一形衍化，音近義同，可以輾轉相注。如：考、老諸字。" />
+		<phrase hz="转租" py="zhuǎn,zū" info="1.把自己租来的东西短期租给别人 2.本公寓暑期转租" />
+		<phrase hz="左转" py="zuǒ,zhuǎn" info="1.向左方旋转。 2.降官；贬职。 3.歌舞中失律曰左转。" />
+		<definition id="一">
+			<item id="1" text="旋动，改换方向或情势：~身. 运. 向左. ~眼之间. 情况好~." />
+			<item id="2" text="不直接地，中间再经过别人或别的地方：~送. ~达." />
+		</definition>
+	</char>
+	<char hz="转" py="zhuàn" multi="zhuǎn">
+		<phrase hz="打转" py="dǎ,zhuàn" info="1.转动；转来转去。2.返回。" />
+		<phrase hz="打转转" py="dǎ,zhuàn,zhuàn" info="旋转；绕圈子。" />
+		<phrase hz="兜兜转转" py="dōu,dōu,zhuàn,zhuàn" info="不直接，辗转，绕圈子；坎坷反复，很多挫折、错过，命运起伏不定！" />
+		<phrase hz="二人转" py="èr,rén,zhuàn" info="曲艺的一种。 亦名双玩艺，流行于辽宁、吉林、黑龙江。由二人表演，作一旦一丑，以唱、说、做、舞、绝为主要手段敷演故事" />
+		<phrase hz="法轮常转" py="fǎ,lún,cháng,zhuàn" info="法轮：佛家语，轮有二义，一为运转，一为摧碾，佛运转心中清净妙法以度人，且摧毁世俗一切邪惑之见。 指佛法无边，普济众生。" />
+		<phrase hz="飞转" py="fēi,zhuàn" info="飞速旋转" />
+		<phrase hz="公转" py="gōng,zhuàn" info="一个天体绕着另一个天体转动叫做公转" />
+		<phrase hz="滚转" py="gǔn,zhuàn" info="飞机绕纵轴滚转" />
+		<phrase hz="昏头转向" py="hūn,tóu,zhuàn,xiàng" info="1.形容頭腦暈眩，不辨方向。 2.形容頭腦不清，無法冷靜思考。" />
+		<phrase hz="空转" py="kōng,zhuàn" info="1.机器、仪器等在没有任何负载时的运转状态 2.机车或汽车等的动轮在轨道上或路面上滑转而不前进" />
+		<phrase hz="九牛拉不转" py="jiǔ,niú,lā,bú,zhuàn" info="比喻意志極為堅決，任何人都無法動搖。" />
+		<phrase hz="连轴转" py="lián,zhóu,zhuàn" info="比喻连续不停地从事某项事情。" />
+		<phrase hz="溜溜转" py="liū,liū,zhuàn" info="圆状物体不断滚动" />
+		<phrase hz="捻捻转儿" py="niǎn,nian,zhuànr," info="儿童玩具，用木头或塑料等制成，扁圆形，中间有轴，一头尖，玩时用手捻轴使旋转" />
+		<phrase hz="山不转路转" py="shān,bú,zhuàn,lù,zhuǎn" info="山是不動的，但山中的路卻可旋繞而四處穿越。比喻解決問題應知機變。亦比喻世事變化難料。" />
+		<phrase hz="山不转水转" py="shān,bú,zhuàn,shuǐ,zhuǎn" />
+		<phrase hz="天不转地转" py="tiān,bú,zhuàn,dì,zhuǎn" info="意指以后总有见面的机会" />
+		<phrase hz="天旋地转" py="tiān,xuán,dì,zhuàn" info="天地转动。比喻重大的变化。也形容眩晕时的感觉或闹得极凶。" />
+		<phrase hz="团团转" py="tuán,tuán,zhuàn" info="回环旋转，形容不知道怎么办好。" />
+		<phrase hz="玩儿不转" py="wánr,,bu,zhuàn" info="[口]指挥不开;耍弄不了" />
+		<phrase hz="转动" py="zhuàn,dòng" duoyin="zhuǎn,dòng" info="围绕一根轴或一个中心作曲线运动,尤指作圆形运动" />
+		<phrase hz="转筋" py="zhuàn,jīn" info="指肌肉痉挛" />
+		<phrase hz="转矩" py="zhuàn,jǔ" info="产生或趋向于产生转动、扭转的作用,转矩的有效值用力与力的作用线到转轴的距离之积来量度" />
+		<phrase hz="转来转去" py="zhuàn,lái,zhuàn,qù" info="犹言走来走去；来回走动。" />
+		<phrase hz="转炉" py="zhuàn,lú" info="一种可以转动的圆筒状炼钢高炉" />
+		<phrase hz="转磨" py="zhuàn,mò" info="1.推磨使其旋轉。 2.一種大型的磨。上設齒輪，須由兩人共同操作。 3.形容遇到困難而不知所措或遲疑不前的樣子。" />
+		<phrase hz="转纽" py="zhuàn,niǔ" info="管风琴中给一列管子送风的转纽，或簧风琴中给一列簧片送风的转纽" />
+		<phrase hz="转盘" py="zhuàn,pán" info="1.盘旋。 2.某些器物(如唱机)上能够旋转的圆盘。 3.便于机车或其他在轨道上行驶的车辆掉转方向的圆盘形设备，车辆开到圆盘上，用机器或人力转动圆盘，使车辆对着要去的方向。" />
+		<phrase hz="转圈" py="zhuàn,quān" info="〈方〉1.转着圈儿;来回;绕弯 2.附近这一带" />
+		<phrase hz="转速" py="zhuàn,sù" info="旋转速率，以圈/每分表示" />
+		<phrase hz="转塔" py="zhuàn,tǎ" info="机床上用枢轴转动的可以安装多种刀具的转塔式刀架,各刀具可迅速转到工作位置" />
+		<!-- <phrase hz="转台" py="zhuàn,tái" duoyin="zhuǎn,tái" info="中心部分可旋轉的舞臺。利用此種舞臺，可縮短換布景的時間。" /> -->
+		<phrase hz="转位" py="zhuàn,wèi" info="移动(机器或机床上夹持的工件)，使得某个特定动作(如铣轮齿)每隔一定间隔重复进行--亦称分度" />
+		<!-- <phrase hz="转向" py="zhuàn,xiàng" duoyin="zhuǎn,xiàng" info="迷失方向：晕头转向。" /> -->
+		<phrase hz="转椅" py="zhuàn,yǐ" info="1.能在底座上旋转的椅子 2.转盘上设有若干坐椅、可坐着随转盘旋转的一种儿童游戏设施" />
+		<phrase hz="转悠" py="zhuàn,yōu" info="1.转动 2.漫步,闲逛 3.一再浮现" />
+		<phrase hz="转轴" py="zhuàn,zhóu" info="1.机械轴 2.比喻主意或心眼儿" />
+		<phrase hz="转子" py="zhuàn,zǐ" info="1.特别适于转动圆盘和盖斯勒管的一种小而快的电动机 2.在固定部件中转动的部件 3.汽轮机的转动叶轮或叶轮组" />
+		<phrase hz="自转" py="zì,zhuàn" info="星体自己围绕本身的轴转动" />
+		<definition id="二">
+			<item id="1" text="旋转，绕着圈儿动，围绕着中心运动：轮子~得很快." />
+			<item id="2" text="绕着某物移动，打转：~圈子. ~来~去." />
+			<item id="3" text="量词，绕几圈儿叫绕几转。" />
+		</definition>
+	</char>
+</pinyin>

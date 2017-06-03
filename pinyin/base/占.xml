@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="占" py="zhān" multi="zhàn">
+		<phrase hz="占风使帆" py="zhān,fēng,shǐ,fān" info="看人的臉色來說話、做事。比喻隨機應變，奉承迎合。" />
+		<phrase hz="占卦" py="zhān,guà" info="按照卦象推断吉凶(迷信)" />
+		<phrase hz="占课" py="zhān,kè" info="起课;卜课" />
+		<phrase hz="占梦" py="zhān,mèng" info="利用梦作预言;圆梦" />
+		<phrase hz="占星" py="zhān,xīng" info="1.观察星象以推断吉凶。2.以观察星象占卜吉凶为业的人。" />
+		<definition id="一">
+			<item text="古代用龟甲、蓍(shī)草等，后世用铜钱或牙牌等判断吉凶：~卦. ~课." />
+		</definition>
+	</char>
+	<char hz="占" py="zhàn" multi="zhān" main="1">
+		<phrase hz="霸占" py="bà,zhàn" info="仗势占为己有" />
+		<phrase hz="敌占区" py="dí,zhàn,qū" info="敌人占领的地区。" />
+		<phrase hz="独占" py="dú,zhàn" info="独自占有" />
+		<phrase hz="攻占" py="gōng,zhàn" info="通过攻击而占据" />
+		<phrase hz="挤占" py="jǐ,zhàn" info="排挤开原来的并侵占它的位置" />
+		<phrase hz="进占" py="jìn,zhàn" info="进攻并占领" />
+		<phrase hz="鸠占鹊巢" py="jiū,zhàn,què,cháo" info="斑鸠不会做窠，常强占喜鹊的窠。比喻强占别人的住屋。" />
+		<phrase hz="口占" py="kǒu,zhàn" info="1.谓口授其辞。2.谓作诗文不起草稿，随口而成。" />
+		<phrase hz="抢占" py="qiǎng,zhàn" info="抢在敌人前面占领有利地形或重要地点的作战行动" />
+		<phrase hz="侵占" py="qīn,zhàn" info="侵夺占据" />
+		<phrase hz="吞占" py="tūn,zhàn" info="侵吞;侵占" />
+		<phrase hz="占鳌头" py="zhàn,áo,tóu" info="1.俗称科举时状元及第。2.旧俗夏历二月二日儿童入学之吉利语。" />
+		<phrase hz="占据" py="zhàn,jù" info="用强力取得保持" />
+		<phrase hz="占领" py="zhàn,lǐng" info="用武装力量取得某个地方" />
+		<phrase hz="占便宜" py="zhàn,pián,yi" info="1.用不正当的方法，得到非分的好处 2.比喻有优越的条件" />
+		<phrase hz="占先" py="zhàn,xiān" info="居优先地位" />
+		<phrase hz="占线" py="zhàn,xiàn" info="电话线被占用" />
+		<phrase hz="占优势" py="zhàn,yōu,shì" info="具有优越地位;占主导地位" />
+		<phrase hz="占有" py="zhàn,yǒu" info="1.占领;取得 2.位于;处于;居于" />
+		<phrase hz="占用" py="zhàn,yòng" info="占有并使用;占据并使用" />
+		<definition id="二">
+			<item id="1" text="据有，用强力取得（(连)-据）：~领. 攻~敌军据点." />
+			<item id="2" text="处于某种地位或情势：~上风. ~优势. 优等生~多数." />
+		</definition>
+	</char>
+</pinyin>

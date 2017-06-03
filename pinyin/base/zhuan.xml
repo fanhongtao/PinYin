@@ -6,14 +6,7 @@
 	<char hz="颛" py="zhuān">
 		<phrase hz="颛顼" py="zhuān,xū" />
 	</char>
-	<char hz="转" py="zhuǎn" multi="zhuàn" main="1">
-		<phrase hz="退转" py="tuì,zhuǎn" info="1.佛教语。谓位次下降，功行减退，道心退缩等。2.退回；转头。" />
-		<phrase hz="宛转" py="wǎn,zhuǎn" info="1.隨順變化。2.身體轉動，翻來覆去。3.含蓄委婉。4.態度和藹、柔順。5.調停、斡旋。6.形容纏綿委曲。7.形容聲音悅耳動人。" />
-		<definition id="一">
-			<item id="1" text="旋动，改换方向或情势：~身. 运. 向左. ~眼之间. 情况好~." />
-			<item id="2" text="不直接地，中间再经过别人或别的地方：~送. ~达." />
-		</definition>
-	</char>
+	<!-- Ref:转.xml <char hz="转" py="zhuǎn" multi="zhuàn" main="1" /> -->
 	<char hz="传" py="zhuàn" multi="chuán">
 		<phrase hz="小传" py="xiǎo,zhuàn" />
 		<phrase hz="别传" py="bié,zhuàn" />
@@ -26,17 +19,9 @@
 			<item id="3" text="叙述历史故事的作品：《儿女英雄~》. 《水浒~》." />
 		</definition>
 	</char>
-	<char hz="转" py="zhuàn" multi="zhuǎn">
-		<phrase hz="转圈" py="zhuàn,quān" />
-		<phrase hz="转来转去" py="zhuàn,lái,zhuàn,qù" />
-		<definition id="二">
-			<item id="1" text="旋转，绕着圈儿动，围绕着中心运动：轮子~得很快." />
-			<item id="2" text="绕着某物移动，打转：~圈子. ~来~去." />
-			<item id="3" text="量词，绕几圈儿叫绕几转。" />
-		</definition>
-	</char>
+	<!-- Ref:转.xml <char hz="转" py="zhuàn" multi="zhuǎn" /> -->
 	<char hz="啭" py="zhuàn" />
-	<char hz="赚" py="zhuàn" multi="zuàn" main="1">
+	<char hz="赚" py="zhuàn" multi="zuàn" main="1" suppressLog="1">
 		<definition id="一">
 			<item id="1" text="做买卖得利：~钱." />
 			<item id="2" text="做买卖得的利：~儿. ~头." />

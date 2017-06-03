@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="粘" py="nián" multi="zhān">
+		<phrase hz="粘稠" py="nián,chóu" info="1.液体粘性和浓度大，不易流动 2.有稠密或粘质的浓度、稠度、粘性 3.牛奶等经某种细菌沾染后呈现出的粘性和浓稠状态" />
+		<phrase hz="粘粥" py="nián,zhōu" />
+		<definition id="二">
+			<item id="1" text="同“黏”。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="粘" py="zhān" multi="nián" main="1">
+		<phrase hz="不粘锅" py="bù,zhān,guō" info="烹调时遇黏稠物质不易粘底的炊具。 锅内涂覆一层耐炊事温度不软化而临界表面张力摩擦系数小的材料，如氟塑料。但氟塑料的硬度较金属低，如接触金属较易划损，一般以硬度较低的木制铲烹调。" />
+		<phrase hz="粘贴" py="zhān,tiē" info="1.用黏性的东西使纸张等附着在别的东西上 2.;湿的东西贴在别的物体上" />
+		<phrase hz="粘信封" py="zhān,xìn,fēng" info="自定义词。" />
+		<phrase hz="粘牙" py="zhān,yá" info="自定义词。" />
+		<definition id="一">
+			<item id="1" text="黏的东西互相连接或附着在别的东西上：几块糖都~在一起了. 不~锅." />
+			<item id="2" text="用胶水或糨糊等把一种东西胶合在另一种东西上：~贴标语." />
+		</definition>
+	</char>
+</pinyin>
