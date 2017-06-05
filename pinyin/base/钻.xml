@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钻" py="zuān" multi="zuàn" main="1">
+		<phrase hz="帮闲钻懒" py="bāng,xián,zuān,lǎn" info="指说话做事迎合别人的心意和兴趣。" />
+		<phrase hz="刁钻" py="diāo,zuān" info="1.乖巧,使人难以应付 2.狡诈,狡猾" />
+		<phrase hz="见缝就钻" py="jiàn,fèng,jiù,zuān" info="比喻到处钻营或利用各种空子" />
+		<phrase hz="逾墙钻隙" py="yú,qiáng,zuān,xì" info="逾：越过；钻：穿孔，打眼。 越墙、钻洞。指对女子作挑逗的行为。" />
+		<phrase hz="逾墙钻穴" py="yú,qiáng,zuān,xué" info="指男女偷情。" />
+		<phrase hz="钻冰求火" py="zuān,bīng,qiú,huǒ" info="挖鑽冰塊以求生熱取火。比喻不可能的事情。" />
+		<phrase hz="钻冰取火" py="zuān,bīng,qǔ,huǒ" info="比喻極不可能做到的事情。" />
+		<phrase hz="钻冰求酥" py="zuān,bīng,qiú,sū" info="酥：酥油，牛羊奶制成的食品。 比喻想要的东西一定得不到。" />
+		<phrase hz="钻洞" py="zuān,dòng" info="用旋转切具作钻头或锥子钻穿或凿通,含有用力缓慢而连续不断地贯彻下去的意思" />
+		<phrase hz="钻狗洞" py="zuān,gǒu,dòng" info="1.指干狎邪之事。 2.指官场中的钻营活动。" />
+		<phrase hz="钻故纸" py="zuān,gù,zhǐ" info="在舊紙堆裡鑽洞。比喻人埋首研讀古書，不知人情世故。" />
+		<phrase hz="钻坚仰高" py="zuān,jiān,yǎng,gāo" info="越是深加鑽研，越覺得艱深難通；越是抬頭仰望，越覺得高大巍峨。語本論語．子罕：「仰之彌高，鑽之彌堅。」後比喻深入鑽研。" />
+		<phrase hz="钻劲" py="zuān,jìn" info="钻研的劲头儿" />
+		<phrase hz="钻孔" py="zuān,kǒng" info="1.通常指用尖锐的旋转工具在坚硬的物体上钻穿 2.用凿岩机(在坚固材料中)钻孔洞 3.指为了装饰、识别或便于分开而(常用机器)打一排小孔或花样" />
+		<phrase hz="钻空子" py="zuān,kòng,zi" />
+		<phrase hz="钻懒帮闲" py="zuān,lǎn,bāng,xián" info="指逢迎凑趣，耍弄乖巧。 亦指逢迎凑趣，耍弄乖巧的人。" />
+		<phrase hz="钻谋" py="zuān,móu" info="投机钻营以谋私利或达到不可告人的目的" />
+		<phrase hz="钻木取火" py="zuān,mù,qǔ,huǒ" info="硬木棒对着木头摩擦或钻进去,靠摩擦取火" />
+		<phrase hz="钻牛角" py="zuān,niú,jiǎo" info="比喻费力研究没有意义或无法解决的问题。" />
+		<phrase hz="钻皮出羽" py="zuān,pí,chū,yǔ" info="比喻极意夸饰自己偏爱的人。" />
+		<phrase hz="钻探" py="zuān,tàn" info="钻挖勘探，取样分析，寻找矿藏" />
+		<phrase hz="钻天" py="zuān,tiān" info="自定义词。" />
+		<phrase hz="钻天打洞" py="zuān,tiān,dǎ,dòng" info="比喻利用一切机会钻营。" />
+		<phrase hz="钻天入地" py="zuān,tiān,rù,dì" info="形容神通广大，很有办法。" />
+		<phrase hz="钻头觅缝" py="zuān,tóu,mì,fèng" info="比喻到处寻找门路。" />
+		<phrase hz="钻心" py="zuān,xīn" info="钻入心中。 常用来形容极度痛苦。" />
+		<phrase hz="钻研" py="zuān,yán" info="深入研究" />
+		<phrase hz="钻眼" py="zuān,yǎn" info="用凿岩机钻进或向下钻孔" />
+		<phrase hz="钻营" py="zuān,yíng" info="1.巴結有權勢的人。 2.極力探討研究。" />
+		<definition id="一">
+			<item id="1" text="用锥状的物体在另一个物体上转动穿孔：~个眼儿. 地质~探. (引)进入：~山洞. ~到水里. ~空(kòng)子. [钻营]指攀附权势取得个人好处。" />
+			<item id="2" text="钻研，仔细深入研究：~书本. 他肯~，学得快." />
+		</definition>
+	</char>
+	<char hz="钻" py="zuàn" multi="zuān">
+		<phrase hz="电钻" py="diàn,zuàn" info="电动的钻" />
+		<phrase hz="风钻" py="fēng,zuàn" info="1.开凿岩石用的风动工具，利用压缩空气使活塞作往复运动，冲击钎子。多用于开凿炮眼。也叫凿岩机。 2.用压缩空气做动力的金属加工工具。用于钻孔。" />
+		<phrase hz="环钻" py="huán,zuàn" info="1.作环形切除的一种外科器械 2.用这种器械施行手术" />
+		<phrase hz="金刚钻" py="jīn,gāng,zuàn" info="1.昆虫，成虫是黄绿色小蛾，前翅有三个小红点，后翅银白色，幼虫纺锤形，淡灰色，有肉刺。是农业害虫 2.金刚石" />
+		<phrase hz="钻床" py="zuàn,chuáng" info="1.用来钻眼、削眼、扩孔和开眼的机械;特指在金属上钻眼(如钻床或摇臂钻床)打眼用的动力机械 2.一种直立的钻孔设备,它的钻头靠手柄或动力压在工件上" />
+		<phrase hz="钻环" py="zuàn,huán" info="一种夹持钻头的圆环,能使钻头在径向上对某个轴承定位" />
+		<phrase hz="钻机" py="zuàn,jī" info="钻井、钻探用的机械" />
+		<phrase hz="钻架" py="zuàn,jià" info="用螺栓在大型或笨重工件上装上一个构架,用来吊住手提式钻机" />
+		<phrase hz="钻戒" py="zuàn,jiè" info="镶钻石的戒指" />
+		<phrase hz="钻井" py="zuàn,jǐng" info="为开采石油、咸水或天然气而钻的井" />
+		<phrase hz="钻具" py="zuàn,jù" info="1.凿洞、钻孔等与之有关使用的工具 2.为专门目的而配备的装备、仪器和机械。如 3.钻塔及为钻孔和日后抽油所必要的机房和其它的全套设备 4.油井架 5.为其他类钻孔(如打桩，打井)用的类似的装置" />
+		<phrase hz="钻石" py="zuàn,shí" info="金刚石" />
+		<phrase hz="钻燧" py="zuàn,suì" info="上古的取火方法。燧:取火的器具。即用钻子钻木，因磨擦发热而爆出火星来" />
+		<phrase hz="钻台" py="zuàn,tái" info="1.在钻井三角架或井架底部沿钻孔周围用木板搭起的工作区 2.有一条或一条以上V形槽的钢座,钻孔时圆柱形工件紧固在槽内" />
+		<phrase hz="钻头" py="zuàn,tóu" info="1.钻、钻床、钻探机上的刀具,用于在工件或岩石上造成孔洞 2.一种工具,用于在石头中或在其他石工材料中钻孔,或用于钻爆炸孔" />
+		<phrase hz="钻灼" py="zuàn,zhuó" info="1.古卜法。 钻龟里甲使薄，然后燃荆焞以灼所钻处，使兆坼现于表面，藉以定吉凶。 2.比喻得祸。 3.犹钻研。" />
+		<definition id="二">
+			<item id="1" text="穿孔洞的用具：~床. 电~. 风~." />
+			<item id="2" text="钻石，即金刚石，硬度很高：~戒. 十七~的手表." />
+			<item id="3" text="义同“钻(一)(1)”。" />
+		</definition>
+	</char>
+</pinyin>
