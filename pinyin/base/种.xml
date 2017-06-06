@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="种" py="chóng" multi="zhǒng,zhòng">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="种" py="zhǒng" multi="chóng,zhòng" main="1">
+		<phrase hz="白种" py="bái,zhǒng" />
+		<phrase hz="拌种" py="bàn,zhǒng" info="将杀菌剂、杀虫剂或刺激素等拌入种子(后进行播种)" />
+		<phrase hz="变种" py="biàn,zhǒng" />
+		<phrase hz="兵种" py="bīng,zhǒng" />
+		<phrase hz="播种" py="bō,zhǒng" duoyin="bō,zhòng" info="把种子植入土中" />
+		<phrase hz="采种" py="chuán,zhǒng" info="采集种子" />
+		<phrase hz="传种" py="chuán,zhǒng" />
+		<phrase hz="纯种" py="chún,zhǒng" />
+		<phrase hz="刀耕火种" py="dāo,gēng,huǒ,zhòng" />
+		<phrase hz="各种" py="gè,zhǒng" />
+		<phrase hz="工种" py="gōng,zhǒng" />
+		<phrase hz="黑种" py="hēi,zhǒng" />
+		<phrase hz="黄种" py="huáng,zhǒng" />
+		<phrase hz="火种" py="huǒ,zhǒng" />
+		<phrase hz="祸种" py="huò,zhǒng" />
+		<phrase hz="警种" py="jǐng,zhǒng" />
+		<phrase hz="剧种" py="jù,zhǒng" />
+		<phrase hz="绝种" py="jué,zhǒng" />
+		<phrase hz="军种" py="jūn,zhǒng" />
+		<phrase hz="良种" py="liáng,zhǒng" />
+		<phrase hz="劣种" py="liè,zhǒng" />
+		<phrase hz="留种" py="liú,zhǒng" />
+		<phrase hz="龙种" py="lóng,zhǒng" />
+		<phrase hz="龙生九种" py="lóng,shēng,jiǔ,zhǒng" info="比喻同胞兄弟品质、爱好各不相同。" />
+		<phrase hz="名种" py="míng,zhǒng" />
+		<phrase hz="谬种" py="miù,zhǒng" />
+		<phrase hz="孬种" py="nāo,zhǒng" />
+		<phrase hz="孽种" py="niè,zhǒng" />
+		<phrase hz="配种" py="pèi,zhǒng" />
+		<phrase hz="品种" py="pǐn,zhǒng" />
+		<phrase hz="情种" py="qíng,zhǒng" />
+		<phrase hz="人种" py="rén,zhǒng" />
+		<phrase hz="书种" py="shū,zhǒng" />
+		<phrase hz="树种" py="shù,zhǒng" />
+		<phrase hz="税种" py="shuì,zhǒng" />
+		<phrase hz="特种" py="tè,zhǒng" />
+		<phrase hz="同种" py="tóng,zhǒng" />
+		<phrase hz="物种" py="wù,zhǒng" />
+		<phrase hz="选种" py="xuǎn,zhǒng" />
+		<phrase hz="亚种" py="yà,zhǒng" />
+		<phrase hz="野种" py="yě,zhǒng" />
+		<phrase hz="业种" py="yè,zhǒng" />
+		<phrase hz="一种" py="yī,zhǒng" />
+		<phrase hz="异种" py="yì,zhǒng" />
+		<phrase hz="引种" py="yǐn,zhǒng" />
+		<phrase hz="有种" py="yǒu,zhǒng" />
+		<phrase hz="语种" py="yǔ,zhǒng" />
+		<phrase hz="育种" py="yù,zhǒng" />
+		<phrase hz="杂种" py="zá,zhǒng" />
+		<phrase hz="种别" py="zhǒng,bié" />
+		<phrase hz="种差" py="zhǒng,chā" info="把隶属一个更一般的概念的某个类区别出来的标志或属性" />
+		<phrase hz="种畜" py="zhǒng,chù" />
+		<phrase hz="种蛋" py="zhǒng,dàn" info="可用于孵育繁衍幼禽的各种禽蛋" />
+		<phrase hz="种类" py="zhǒng,lèi" />
+		<phrase hz="种块" py="zhǒng,kuài" info="植物繁殖时,从根或茎中择取作种的部分" />
+		<phrase hz="种马" py="zhǒng,mǎ" info="专门为配种而饲养的公马" />
+		<phrase hz="种禽" py="zhǒng,qín" info="配种用的雄性家禽" />
+		<phrase hz="种群" py="zhǒng,qún" info="指生活在同一地点、属于同一物种的生物群" />
+		<phrase hz="种系" py="zhǒng,xì" info="假定有共同起源的关系密切的一小群物种" />
+		<phrase hz="种姓" py="zhǒng,xìng" />
+		<phrase hz="种玉蓝田" py="zhǒng,yù,lán,tián" info="原指杨伯雍在蓝田的无终山种出玉来，得到美好的婚配。后用来比喻男女获得了称心如意的美好姻缘。" />
+		<phrase hz="种种" py="zhǒng,zhǒng" />
+		<phrase hz="种子" py="zhǒng,zi" />
+		<phrase hz="种族" py="zhǒng,zú" />
+		<phrase hz="籽种" py="zǐ,zhǒng" info="〈方〉种子" />
+		<definition id="一">
+			<item id="1" text="（-子、-儿）植物果实中能长(zhǎng)成新植物的部分：选~. 撒~. 泛指生物传代的东西：配~. 优良品~. [有种]有胆量或有骨气。" />
+			<item id="2" text="人种，具有共同起源和共同遗传特征的人群：黄~. 白~. ~族." />
+			<item id="3" text="事物的类别：~类. 工~. 军~. 剧~. 语~." />
+			<item id="4" text="生物的分类单位之一，在“属”之下，其下还可分出“亚种”、“变种”。" />
+			<item id="5" text="量词，表示种类，用于人和任何事物：两~面料. 各~东西." />
+		</definition>
+	</char>
+	<char hz="种" py="zhòng" multi="chóng,zhǒng">
+		<!-- <phrase hz="播种" py="bō,zhòng" duoyin="bō,zhǒng" info="用播种(zhǒng)的方式种植。" /> -->
+		<phrase hz="补种" py="bǔ,zhòng" info="在出现缺苗的农作物中,重新种植" />
+		<phrase hz="春种" py="chūn,zhòng" info="春天种植" />
+		<phrase hz="耕种" py="gēng,zhòng" />
+		<phrase hz="伙种" py="huǒ,zhòng" info="伙耕" />
+		<phrase hz="家种" py="jiā,zhòng" info="人工培植;自家种植的" />
+		<phrase hz="间种" py="jiàn,zhòng" info="在同一块地同一生长 季或同一时间生长二种或二种以上的作物" />
+		<phrase hz="接种" py="jiē,zhòng" info="注射疫苗以预防疾病" />
+		<phrase hz="垦种" py="kěn,zhòng" info="开垦种植" />
+		<phrase hz="轮种" py="lún,zhòng" info="轮换种植" />
+		<phrase hz="芒种" py="máng,zhòng" info="二十四节气之一,在6月5、6或7日" />
+		<phrase hz="抢种" py="qiǎng,zhòng" info="抢时间突击种植" />
+		<phrase hz="试种" py="shì,zhòng" info="试验性地种植,以检验某个新品种的生长情况" />
+		<phrase hz="栽种" py="zāi,zhòng" />
+		<phrase hz="种菜" py="zhòng,cài" />
+		<phrase hz="种地" py="zhòng,dì" />
+		<phrase hz="种痘" py="zhòng,dòu" info="把痘苗接种在人体上,使人体对天花产生免疫作用" />
+		<phrase hz="种豆得豆" py="zhòng,dòu,dé,dòu" />
+		<phrase hz="种瓜得瓜" py="zhòng,guā,dé,guā" />
+		<phrase hz="种花" py="zhòng,huā" />
+		<phrase hz="种民" py="zhòng,mín" info="佃民,租田种的人" />
+		<phrase hz="种牛痘" py="zhòng,niú,dòu" info="把痘苗接种在人体上,使人体对天花产生免疫作用" />
+		<phrase hz="种田" py="zhòng,tián" />
+		<phrase hz="种庄稼" py="zhòng,zhuāng,jia" />
+		<phrase hz="种植" py="zhòng,zhí" />
+		<definition id="二">
+			<item text="种植，把种子或幼苗等埋在泥土里使生长：~庄稼. ~瓜得瓜，~豆得豆." />
+		</definition>
+	</char>
+</pinyin>

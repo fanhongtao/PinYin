@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="冲" py="chōng" multi="chòng" main="1">
+		<phrase hz="冲茶" py="chōng,chá" />
+		<phrase hz="冲冲" py="chōng,chōng" info="情绪激动、高涨的样子" />
+		<phrase hz="冲刺" py="chōng,cì" />
+		<phrase hz="冲淡" py="chōng,dàn" />
+		<phrase hz="冲动" py="chōng,dòng" />
+		<phrase hz="冲犯" py="chōng,fàn" />
+		<phrase hz="冲锋" py="chōng,fēng" />
+		<phrase hz="冲服" py="chōng,fú" />
+		<phrase hz="冲击" py="chōng,jī" />
+		<phrase hz="冲积" py="chōng,jī" />
+		<phrase hz="冲剂" py="chōng,jì" />
+		<phrase hz="冲决" py="chōng,jué" info="反复冲刷，形成决口" />
+		<phrase hz="冲浪" py="chōng,làng" />
+		<phrase hz="冲力" py="chōng,lì" />
+		<phrase hz="冲凉" py="chōng,liáng" info="〈方〉洗澡" />
+		<phrase hz="冲量" py="chōng,liàng" info="作用在物体上的力和作用时间的乘积。" />
+		<phrase hz="冲破" py="chōng,pò" />
+		<phrase hz="冲入" py="chōng,rù" />
+		<phrase hz="冲散" py="chōng,sàn" />
+		<phrase hz="冲刷" py="chōng,shuā" />
+		<phrase hz="冲腾" py="chōng,téng" />
+		<phrase hz="冲天" py="chōng,tiān" />
+		<phrase hz="冲突" py="chōng,tū" />
+		<phrase hz="冲喜" py="chōng,xǐ" />
+		<phrase hz="冲洗" py="chōng,xǐ" />
+		<phrase hz="冲销" py="chōng,xiāo" />
+		<phrase hz="冲要" py="chōng,yào" info="军事上或交通上重要的地方。同“要冲”" />
+		<phrase hz="冲账" py="chōng,zhàng" />
+		<phrase hz="冲撞" py="chōng,zhuàng" />
+		<phrase hz="俯冲" py="fǔ,chōng" />
+		<phrase hz="横冲直撞" py="héng,chōng,zhí,zhuàng" />
+		<phrase hz="缓冲" py="huǎn,chōng" />
+		<phrase hz="回冲" py="huí,chōng" info="被冲击或被抛到后面的水或波浪的运动" />
+		<phrase hz="脉冲" py="mài,chōng" info="电流、电压或某些其他物理量的瞬态改变" />
+		<phrase hz="蒙冲" py="méng,chōng" info="一种古代战船" />
+		<phrase hz="首当其冲" py="shǒu,dāng,qí,chōng" />
+		<phrase hz="要冲" py="yào,chōng" />
+		<phrase hz="折冲" py="zhé,chōng" info="克敌制胜" />
+		<definition id="一">
+			<item id="1" text="用开水等浇，水流撞击：~茶. 用水~服. 这道堤不怕水~. [冲淡]加多液体，降低浓度。(喻)使某种效果、气氛等减弱。" />
+			<item id="2" text="向上钻：~入云霄." />
+			<item id="3" text="通行的大道：要~. 这是~要地方." />
+			<item id="4" text="快速向前闯：~锋. ~入敌阵. 横~直撞. [冲动]没经过仔细思考而突然产生的情绪或行动。 [冲突]1.互相撞击或争斗。2.意见不同，互相抵触。" />
+			<item id="5" text="互相抵消：~账." />
+		</definition>
+	</char>
+	<char hz="冲" py="chòng" multi="chōng">
+		<phrase hz="冲床" py="chòng,chuáng" />
+		<phrase hz="冲劲" py="chòng,jìn" />
+		<phrase hz="冲模" py="chòng,jìn" />
+		<phrase hz="冲着" py="chòng,zhe" />
+		<definition id="二">
+			<item id="1" text="对着，向：~南的大门. 别~着我说." />
+			<item id="2" text="猛烈：这小伙子有股~劲儿. 水流得真~. 大蒜气味~." />
+			<item id="3" text="介词，凭，根据：~他这股子钻劲儿，一定能完成这项技术革新任务." />
+		</definition>
+	</char>
+</pinyin>
