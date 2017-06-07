@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="长" py="cháng" multi="zhǎng" main="1">
+		<phrase hz="长安" py="cháng,ān" />
+		<phrase hz="长编" py="cháng,biān" />
+		<phrase hz="长波" py="cháng,bō" />
+		<phrase hz="长白山" py="cháng,bái,shān" />
+		<phrase hz="长兵" py="cháng,bīng" />
+		<phrase hz="长城" py="cháng,chéng" />
+		<phrase hz="长虫" py="cháng,chóng" info="蛇的方言名称" />
+		<phrase hz="长处" py="cháng,chù" />
+		<phrase hz="长川" py="cháng,chuān" info="同“常川”。经常；连续不断。" />
+		<phrase hz="长春" py="cháng,chūn" />
+		<phrase hz="长此以往" py="cháng,cǐ,yǐ,wǎng" />
+		<phrase hz="长存" py="cháng,cún" />
+		<phrase hz="长笛" py="cháng,dí" />
+		<phrase hz="长度" py="cháng,dù" />
+		<phrase hz="长短" py="cháng,duǎn" />
+		<phrase hz="长方体" py="cháng,fāng,tǐ" />
+		<phrase hz="长方形" py="cháng,fāng,xíng" />
+		<phrase hz="长风破浪" py="cháng,fēng,pò,làng" />
+		<phrase hz="长歌当哭" py="cháng,gē,dàng,kū" />
+		<phrase hz="长工" py="cháng,gōng" />
+		<phrase hz="长毂" py="cháng,gū" />
+		<phrase hz="长鼓" py="cháng,gǔ" />
+		<phrase hz="长关" py="cháng,guān" />
+		<phrase hz="长跪" py="cháng,guì" />
+		<phrase hz="长河" py="cháng,hé" />
+		<phrase hz="长恨歌" py="cháng,hèn,gē" />
+		<phrase hz="长号" py="cháng,hào" />
+		<phrase hz="长虹" py="cháng,hóng" />
+		<phrase hz="长话" py="cháng,huà" />
+		<phrase hz="长裤" py="cháng,kù" />
+		<phrase hz="长技" py="cháng,jì" />
+		<phrase hz="长假" py="cháng,jià" />
+		<phrase hz="长江" py="cháng,jiāng" />
+		<phrase hz="长颈鹿" py="cháng,jǐng,lù" />
+		<phrase hz="长久" py="cháng,jiǔ" />
+		<phrase hz="长空" py="cháng,kōng" />
+		<phrase hz="长廊" py="cháng,láng" />
+		<phrase hz="长乐" py="cháng,lè" />
+		<phrase hz="长龄" py="cháng,líng" info="高寿" />
+		<phrase hz="长流" py="cháng,liú" />
+		<phrase hz="长龙" py="cháng,lóng" />
+		<phrase hz="长路" py="cháng,lù" />
+		<phrase hz="长矛" py="cháng,máo" />
+		<phrase hz="长眠" py="cháng,mián" info="指人去世" />
+		<phrase hz="长鸣" py="cháng,míng" />
+		<phrase hz="长明灯" py="cháng,míng,dēng" />
+		<phrase hz="长命" py="cháng,mìng" />
+		<phrase hz="长年" py="cháng,nián" />
+		<phrase hz="长袍" py="cháng,páo" />
+		<phrase hz="长跑" py="cháng,pǎo" />
+		<phrase hz="长篇" py="cháng,piān" />
+		<phrase hz="长平" py="cháng,píng" info="古城名。故址在今 山西省 高平县 西北。" />
+		<phrase hz="长期" py="cháng,qī" />
+		<phrase hz="长崎" py="cháng,qí" info="日本地名" />
+		<phrase hz="长枪" py="cháng,qiāng" />
+		<phrase hz="长青" py="cháng,qīng" />
+		<phrase hz="长驱" py="cháng,qū" />
+		<phrase hz="长拳" py="cháng,quán" />
+		<phrase hz="长绒绵" py="cháng,róng,mián" />
+		<phrase hz="长沙" py="cháng,shā" />
+		<phrase hz="长衫" py="cháng,shān" />
+		<phrase hz="长舌" py="cháng,shé" />
+		<phrase hz="长蛇阵" py="cháng,shé,zhèn" />
+		<phrase hz="长生" py="cháng,shēng" />
+		<phrase hz="长诗" py="cháng,shī" />
+		<phrase hz="长石" py="cháng,shí" info="长石类矿物的总称" />
+		<phrase hz="长寿" py="cháng,shòu" />
+		<phrase hz="长逝" py="cháng,shì" info="指人去世" />
+		<phrase hz="长丝" py="cháng,sī" info="天然蚕丝和化纤长丝的统称" />
+		<phrase hz="长随" py="cháng,suí" />
+		<phrase hz="长谈" py="cháng,tán" />
+		<phrase hz="长叹" py="cháng,tàn" />
+		<phrase hz="长途" py="cháng,tú" />
+		<phrase hz="长袜" py="cháng,wà" />
+		<phrase hz="长物" py="cháng,wù" info="指多余的东西。如：身无长物。" />
+		<phrase hz="长线" py="cháng,xiàn" />
+		<phrase hz="长项" py="cháng,xiàng" />
+		<phrase hz="长相思" py="cháng,xiāng,sī" />
+		<phrase hz="长袖善舞" py="cháng,xiù,shàn,wǔ" />
+		<phrase hz="长吁短叹" py="cháng,xū,duǎn,tàn" />
+		<phrase hz="长夜" py="cháng,yè" />
+		<phrase hz="长音" py="cháng,yīn" />
+		<phrase hz="长远" py="cháng,yuǎn" />
+		<phrase hz="长缨" py="cháng,yīng" />
+		<phrase hz="长斋" py="cháng,zhāi" />
+		<phrase hz="长征" py="cháng,zhēng" />
+		<phrase hz="长足" py="cháng,zú" />
+		<phrase hz="长相思守" py="cháng,xiāng,sī,shǒu " />
+		<phrase hz="各有所长" py="gè,yǒu,suǒ,cháng" />
+		<phrase hz="颀长" py="qí,cháng" />
+		<phrase hz="冗长" py="rǒng,cháng" />
+		<phrase hz="擅长" py="shàn,cháng" />
+		<phrase hz="深长" py="shēn,cháng" info="含义深刻而耐人寻味;深远" />
+		<phrase hz="说来话长" py="shuō,lái,huà,cháng" />
+		<phrase hz="特长" py="tè,cháng" />
+		<phrase hz="细长" py="xì,cháng" />
+		<phrase hz="修长" py="xiū,cháng" />
+		<phrase hz="悠长" py="yōu,cháng" />
+		<phrase hz="一技之长" py="yī,jì,zhī,cháng" />
+		<phrase hz="语重心长" py="yǔ,zhòng,xīn,cháng" />
+		<phrase hz="专长" py="zhuān,cháng" />
+		<definition id="一">
+			<item id="1" text="长度，两端的距离：这块布3米~. 那张桌子~1米，宽70厘米." />
+			<item id="2" text="长度大，跟“短”相对。1.指空间：这条路很~. ~篇大论. 2.指时间：天~夜短. ~远利益. [长短]1.长度。2.意外的变故：万一有什么~~." />
+			<item id="3" text="长处，专精的技能，优点：特~. 一技之~." />
+			<item id="4" text="对某事做得特别好：他~于写作." />
+		</definition>
+	</char>
+	<char hz="长" py="zhǎng" multi="cháng">
+		<phrase hz="班长" py="bān,zhǎng" />
+		<phrase hz="部长" py="bù,zhǎng" />
+		<phrase hz="厂长" py="chǎng,zhǎng" />
+		<phrase hz="成长" py="chéng,zhǎng" />
+		<phrase hz="队长" py="duì,zhǎng" />
+		<phrase hz="连长" py="lián,zhǎng" />
+		<phrase hz="旅长" py="lǚ,zhǎng" />
+		<phrase hz="年长" py="nián,zhǎng" />
+		<phrase hz="家长" py="jiā,zhǎng" />
+		<phrase hz="军长" py="jūn,zhǎng" />
+		<phrase hz="排长" py="pái,zhǎng" />
+		<phrase hz="生长" py="shēng,zhǎng" />
+		<phrase hz="师长" py="shī,zhǎng" />
+		<phrase hz="首长" py="shǒu,zhǎng" />
+		<phrase hz="所长" py="suǒ,zhǎng" />
+		<phrase hz="团长" py="tuán,zhǎng" />
+		<phrase hz="校长" py="xiào,zhǎng" />
+		<phrase hz="乡长" py="xiāng,zhǎng" />
+		<phrase hz="兄长" py="xiōng,zhǎng" />
+		<phrase hz="学长" py="xué,zhǎng" />
+		<phrase hz="营长" py="yíng,zhǎng" />
+		<phrase hz="增长" py="zēng,zhǎng" />
+		<phrase hz="长辈" py="zhǎng,bèi" />
+		<phrase hz="长疮" py="zhǎng,chuāng" />
+		<phrase hz="长房" py="zhǎng,fáng" />
+		<phrase hz="长官" py="zhǎng,guān" />
+		<phrase hz="长公主" py="zhǎng,gōng,zhǔ" />
+		<phrase hz="长机" py="zhǎng,jī" info="编队飞行中，率领、指挥机群或僚机执行任务的战斗机。也叫主机。" />
+		<phrase hz="长见识" py="zhǎng,jiàn,shi" />
+		<phrase hz="长老" py="zhǎng,lǎo" />
+		<phrase hz="长男" py="zhǎng,nán" />
+		<phrase hz="长上" py="zhǎng,shàng" info="对老年人或长辈的敬称" />
+		<phrase hz="长势" py="zhǎng,shì" info="（植物）生长的状况。" />
+		<phrase hz="长史" py="zhǎng,shǐ" info="官名。秦置。西汉时丞相、太尉、御史大夫属官均设长史,后历代相沿" />
+		<phrase hz="长孙" py="zhǎng,sūn" />
+		<phrase hz="长他人志气" py="zhǎng,tā,rén,zhì,qì" />
+		<phrase hz="长相" py="zhǎng,xiàng" />
+		<phrase hz="长兄" py="zhǎng,xiōng" />
+		<phrase hz="长一智" py="zhǎng,yī,zhì" info="吃一堑，长一智" />
+		<phrase hz="长幼" py="zhǎng,yòu" />
+		<phrase hz="长者" py="zhǎng,zhě" />
+		<phrase hz="长志气" py="zhǎng,zhì,qì" />
+		<phrase hz="长子" py="zhǎng,zǐ" />
+		<phrase hz="助长" py="zhù,zhǎng" />
+		<phrase hz="滋长" py="zī,zhǎng" />
+		<definition id="二">
+			<item id="1" text="生，发育：~疮. 庄稼~得很旺." />
+			<item id="2" text="增加：~见识. 在实践中增~才干." />
+			<item id="3" text="排行中第一的：~兄. ~孙. [长子]1.排行第一的儿子。 2.地名，在山西省。" />
+			<item id="4" text="辈分高或年纪大的：师~. ~者. ~辈. 敬辞：学~." />
+			<item id="5" text="主持人，机关、团体等单位的负责人：部~. 校~." />
+		</definition>
+	</char>
+</pinyin>

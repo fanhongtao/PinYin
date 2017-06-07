@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="场" py="cháng" multi="chǎng">
+		<phrase hz="打场" py="dǎ,cháng" />
+		<phrase hz="场院" py="cháng,yuàn" />
+		<definition id="一">
+			<item id="1" text="平坦的空地，多半用来打庄稼：打~. ~院里堆满了粮食." />
+			<item id="2" text="量词，常用于一件事情的经过：经历了一~激烈搏斗. 下了一~大雨." />
+		</definition>
+	</char>
+	<char hz="场" py="chǎng" multi="cháng" main="1">
+		<phrase hz="靶场" py="bǎ,chǎng" />
+		<phrase hz="包场" py="bāo,chǎng" />
+		<phrase hz="菜场" py="cài,chǎng" />
+		<phrase hz="操场" py="cāo,chǎng" />
+		<phrase hz="场地" py="chǎng,dì" />
+		<phrase hz="场合" py="chǎng,hé" />
+		<phrase hz="场记" py="chǎng,jì" />
+		<phrase hz="场面" py="chǎng,miàn" />
+		<phrase hz="场所" py="chǎng,suǒ" />
+		<phrase hz="车场" py="chē,chǎng" />
+		<phrase hz="出场" py="chū,chǎng" />
+		<phrase hz="磁场" py="cí,chǎng" />
+		<phrase hz="当场" py="dāng,chǎng" />
+		<phrase hz="到场" py="dào,chǎng" />
+		<phrase hz="道场" py="dào,chǎng" />
+		<phrase hz="登场" py="dēng,chǎng" />
+		<phrase hz="电场" py="diàn,chǎng" />
+		<phrase hz="赌场" py="dǔ,chǎng" />
+		<phrase hz="法场" py="fǎ,chǎng" />
+		<phrase hz="飞机场" py="fēi,jī,chǎng" />
+		<phrase hz="风月场" py="fēng,yuè,chǎng" />
+		<phrase hz="官场" py="guān,chǎng" />
+		<phrase hz="广场" py="guǎng,chǎng" />
+		<phrase hz="会场" py="huì,chǎng" />
+		<phrase hz="火场" py="huǒ,chǎng" />
+		<phrase hz="监场" py="jiān,chǎng" />
+		<phrase hz="疆场" py="jiāng,chǎng" />
+		<phrase hz="近场" py="jìn,chǎng" />
+		<phrase hz="救场" py="jiù,chǎng" />
+		<phrase hz="剧场" py="jù,chǎng" />
+		<phrase hz="开场" py="kāi,chǎng" />
+		<phrase hz="临场" py="lín,chǎng" />
+		<phrase hz="林场" py="lín,chǎng" />
+		<phrase hz="猎场" py="liè,chǎng" />
+		<phrase hz="溜冰场" py="liū,bīng,chǎng" />
+		<phrase hz="牧场" py="mù,chǎng" />
+		<phrase hz="农场" py="nóng,chǎng" />
+		<phrase hz="捧场" py="pěng,chǎng" />
+		<phrase hz="情场" py="qíng,chǎng" />
+		<phrase hz="全场" py="quán,chǎng" />
+		<phrase hz="入场" py="rù,chǎng" />
+		<phrase hz="赛场" py="sài,chǎng" />
+		<phrase hz="散场" py="sàn,chǎng" />
+		<phrase hz="沙场" py="shā,chǎng" />
+		<phrase hz="商场" py="shāng,chǎng" />
+		<phrase hz="上场" py="shàng,chǎng" />
+		<phrase hz="市场" py="shì,chǎng" />
+		<phrase hz="收场" py="shōu,chǎng" />
+		<phrase hz="书场" py="shū,chǎng" />
+		<phrase hz="退场" py="tuì,chǎng" />
+		<phrase hz="下场" py="xià,chǎng" />
+		<phrase hz="笑场" py="xiào,chǎng" />
+		<phrase hz="刑场" py="xíng,chǎng" />
+		<phrase hz="畜牧场" py="xù,mù,chǎng" />
+		<phrase hz="养殖场" py="yǎng,zhí,chǎng" />
+		<phrase hz="夜场" py="yè,chǎng" />
+		<phrase hz="浴场" py="yù,chǎng" />
+		<phrase hz="战场" py="zhàn,chǎng" />
+		<phrase hz="中场" py="zhōng,chǎng" />
+		<phrase hz="终场" py="zhōng,chǎng" />
+		<phrase hz="专场" py="zhuān,chǎng" />
+		<definition id="二">
+			<item id="1" text="（-子、-儿）处所，能适应某种需要的较大地方：会~. 市~. 广~. 飞机~. (引)特定的地点或范围：当~. 现~. 情~. 生意~. [场合]某时某地或某种情况。" />
+			<item id="2" text="戏剧的一节：三幕五~." />
+			<item id="3" text="量词，用于文体活动：一~电影. 一~球赛." />
+			<item id="4" text="物质相互作用的范围：电~. 磁~. 引力~." />
+		</definition>
+	</char>
+</pinyin>

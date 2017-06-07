@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="涨" py="zhǎng" multi="zhàng" main="1">
+		<phrase hz="暴涨" py="bào,zhǎng" info="1.突然猛烈增高水位 2.激增到不寻常的或空前的水平" />
+		<phrase hz="潮涨潮落" py="cháo,zhǎng,cháo,luò" info="用潮水的涨落比喻事情的起伏变化" />
+		<phrase hz="春涨" py="chūn,zhǎng" info="春季水涨。" />
+		<phrase hz="飞涨" py="fēi,zhǎng" info="飞快地上涨" />
+		<phrase hz="高涨" py="gāo,zhǎng" info="事物的水平、规模上升得很快" />
+		<phrase hz="回涨" py="huí,zhǎng" info="水平下落后开始上升" />
+		<phrase hz="看涨" py="kàn,zhǎng" info="指价格显示上升趋势" />
+		<phrase hz="上涨" py="shàng,zhǎng" info="1.水位上升 2.商品价格上升" />
+		<phrase hz="升涨" py="shēng,zhǎng" info="高涨。" />
+		<phrase hz="水涨" py="shuǐ,zhǎng" info="自定义词。如：水涨船高" />
+		<phrase hz="涨潮" py="zhǎng,cháo" info="指海洋水面因受月球和太阳引力作用而定时上升，在潮汐循环中，自低潮至其后一个高潮的潮位变化过程" />
+		<phrase hz="涨跌" py="zhǎng,diē" info="自定义词。如：涨跌幅" />
+		<phrase hz="涨风" py="zhǎng,fēng" info="涨价的趋势" />
+		<phrase hz="涨幅" py="zhǎng,fú" info="自定义词。" />
+		<phrase hz="涨级" py="zhǎng,jí" info="提高工资级别。" />
+		<phrase hz="涨价" py="zhǎng,jià" info="物价上涨" />
+		<phrase hz="涨进" py="zhǎng,jìn" info="犹上升，发展。" />
+		<phrase hz="涨落" py="zhǎng,luò" info="指潮水或物价等的上涨或下落" />
+		<phrase hz="涨钱" py="zhǎng,qián" info="增加工资" />
+		<phrase hz="涨水" py="zhǎng,shuǐ" info="水位上涨" />
+		<phrase hz="骤涨" py="zhòu,zhǎng" info="水位急剧升高。" />
+		<definition id="一">
+			<item id="1" text="水量增加，水面高起来：水~船高. 河里~水了." />
+			<item id="2" text="价格提高：~钱. ~价." />
+		</definition>
+	</char>
+	<char hz="涨" py="zhàng" multi="zhǎng">
+		<phrase hz="泡涨" py="pào,zhàng" />
+		<phrase hz="头昏脑涨" py="tóu,hūn,nǎo,zhàng" />
+		<phrase hz="烟尘涨天" py="yān,chén,zhàng,tiān" />
+		<phrase hz="涨红" py="zhàng,hóng" info="突然变为红涨(例如脸色),尤指羞红" />
+		<definition id="二">
+			<item id="1" text="体积增大：豆子泡~了." />
+			<item id="2" text="弥漫：烟尘~天." />
+			<item id="3" text="多出来：~出十块钱." />
+			<item id="4" text="头部充血：头昏脑~. 他气得~红了脸." />
+		</definition>
+	</char>
+</pinyin>
