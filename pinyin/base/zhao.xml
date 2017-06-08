@@ -10,35 +10,7 @@
 		</definition>
 	</char>
 	<!-- Ref:着.xml <char hz="着" py="zhāo" multi="zháo,zhe,zhuó" /> -->
-	<char hz="朝" py="zhāo" multi="cháo">
-		<phrase hz="今朝" py="jīn,zhāo" />
-		<!-- <phrase hz="明朝" py="míng,zhāo" duoyin="míng,cháo" info="明天。" /> -->
-		<phrase hz="一朝" py="yī,zhāo" />
-		<phrase hz="朝不保暮" py="zhāo,bù,bǎo,mù" />
-		<phrase hz="朝发夕至" py="zhāo,fā,xī,zhì" />
-		<phrase hz="朝更暮改" py="zhāo,gèng,mù,gǎi" />
-		<phrase hz="朝晖" py="zhāo,huī" />
-		<phrase hz="朝露" py="zhāo,lù" />
-		<phrase hz="朝令暮改" py="zhāo,lìng,mù,gǎi" />
-		<phrase hz="朝令夕改" py="zhāo,lìng,xī,gǎi" />
-		<phrase hz="朝气" py="zhāo,qì" />
-		<phrase hz="朝乾夕惕" py="zhāo,qián,xī,tì" />
-		<phrase hz="朝秦暮楚" py="zhāo,qín,mù,chǔ" />
-		<phrase hz="朝三暮四" py="zhāo,sān,mù,sì" />
-		<phrase hz="朝生暮死" py="zhāo,shēng,mù,sǐ" />
-		<phrase hz="朝思暮想" py="zhāo,sī,mù,xiǎng" />
-		<phrase hz="朝暾" py="zhāo,tūn" info="初升的太阳" />
-		<phrase hz="朝闻夕死" py="zhāo,wén,xī,sǐ" />
-		<phrase hz="朝夕" py="zhāo,xī" />
-		<phrase hz="朝霞" py="zhāo,xiá" />
-		<phrase hz="朝阳" py="zhāo,yáng" duoyin="cháo,yáng" info="早晨刚刚升起的太阳。" />
-		<phrase hz="朝朝暮暮" py="zhāo,zhāo,mù,mù" />
-		<phrase hz="朝钟暮鼓" py="zhāo,zhōng,mù,gǔ" />
-		<phrase hz="只争朝夕" py="zhǐ,zhēng,zhāo,xī" />
-		<definition id="二">
-			<item text="早晨：只争~夕. ~思暮想. (引)日，天：今~. [朝气](喻)向上发展的气概：~~蓬勃." />
-		</definition>
-	</char>
+	<!-- Ref:朝.xml <char hz="朝" py="zhāo" multi="cháo" /> -->
 	<char hz="嘲" py="zhāo" multi="cháo">
 		<phrase hz="嘲哳" py="zhāo,zhā" />
 		<definition id="二">
@@ -46,49 +18,10 @@
 		</definition>
 	</char>
 	<!-- Ref:着.xml <char hz="着" py="zháo" multi="zhāo,zhe,zhuó" /> -->
-	<char hz="爪" py="zhǎo" multi="zhuǎ" main="1">
-		<phrase hz="脚爪" py="jiǎo,zhǎo" info="〈方〉动物的爪子" />
-		<phrase hz="鳞爪" py="lín,zhǎo" info="比喻事物的片断或点滴。" />
-		<phrase hz="手爪" py="shǒu,zhǎo" />
-		<phrase hz="一鳞半爪" py="yī,lín,bàn,zhǎo" info="原指龙在云中，东露一鳞，西露半爪，看不到它的全貌。 比喻零星片段的事物。" />
-		<phrase hz="鹰爪" py="yīng,zhǎo" info="1.鷹的爪子。2.比喻爪牙、走狗。3.形容茶芽嫩小。" />
-		<phrase hz="爪牙" py="zhǎo,yá" info="1.动物的尖爪和利牙 2.党羽，帮凶" />
-		<definition id="一">
-			<item id="1" text="指甲或趾甲：手~." />
-			<item id="2" text="鸟兽的脚指：鹰~. [爪牙](喻)党羽，狗腿子。" />
-		</definition>
-	</char>
+	<!-- Ref:爪.xml <char hz="爪" py="zhǎo" multi="zhuǎ" main="1" /> -->
 	<char hz="找" py="zhǎo" />
 	<char hz="沼" py="zhǎo" />
-	<char hz="召" py="zhào" multi="shào" main="1">
-		<phrase hz="辟召" py="bì,zhào" info="征召。" />
-		<phrase hz="号召" py="hào,zhào" info="以口头或书面的形式向人们发出召唤，使其完成预完的任务" />
-		<phrase hz="感召" py="gǎn,zhào" info="1.感化并召唤 2.通过神或超自然的力量把某种意思传给或透露给代理人" />
-		<phrase hz="请召" py="qǐng,zhào" info="招请。" />
-		<phrase hz="收召" py="shōu,zhào" info="1.招收。谓用某种方式接收学员。 2.招回。" />
-		<phrase hz="行召" py="xíng,zhào" info="行文征召。" />
-		<phrase hz="宣召" py="xuān,zhào" info="谓帝王召见臣下。" />
-		<phrase hz="召拜" py="zhào,bài" info="征拜；任命。" />
-		<phrase hz="召唤" py="zhào,huàn" info="把人们唤来" />
-		<phrase hz="召回" py="zhào,huí" info="把人叫回来;调回来" />
-		<phrase hz="召祸" py="zhào,huò" info="招来灾祸" />
-		<phrase hz="召见" py="zhào,jiàn" info="1.上级令下级来见。2.外交部通知外国驻本国使节来谈事宜。" />
-		<phrase hz="召赁" py="zhào,lìn" info="犹召租。" />
-		<phrase hz="召集" py="zhào,jí" info="通知人们聚集在一起" />
-		<phrase hz="召开" py="zhào,kāi" info="召集开会" />
-		<phrase hz="召募" py="zhào,mù" info="募集。" />
-		<phrase hz="召神弄鬼" py="zhào,shén,nòng,guǐ" info="使用念咒或请神的方式召唤或迫使精灵或魔鬼等出现或服从自己" />
-		<phrase hz="召试" py="zhào,shì" info="皇帝召見面試。為舊時選拔官吏的方式。" />
-		<phrase hz="召幸" py="zhào,xìng" info="1.皇帝召見。2.特指皇帝召喚嬪妃或宮女侍寢。" />
-		<phrase hz="召之即来" py="zhào,zhī,jí,lái" info="一经召唤立即就来" />
-		<phrase hz="召租" py="zhào,zū" info="用招贴或告白招人租赁。" />
-		<phrase hz="征召" py="zhēng,zhào" info="1.政府召集人民服务;征求召集征召所有身体健壮的青年。2.授予官职" />
-		<phrase hz="周召" py="zhōu,zhào" info="亦作“ 周邵 ”。 周成王 时共同辅政的 周公 旦 和 召公 奭 的并称。两人分 陕 而治，皆有美政。" />
-		<definition id="一">
-			<item id="1" text="呼唤，招呼：号~. ~见. ~唤. ~集. ~开会议." />
-			<item id="2" text="傣族姓。" />
-		</definition>
-	</char>
+	<!-- Ref:召.xml <char hz="召" py="zhào" multi="shào" main="1" /> -->
 	<char hz="诏" py="zhào" />
 	<char hz="照" py="zhào" />
 	<char hz="兆" py="zhào" />

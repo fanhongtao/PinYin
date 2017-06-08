@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="爪" py="zhǎo" multi="zhuǎ" main="1">
+		<phrase hz="脚爪" py="jiǎo,zhǎo" info="〈方〉动物的爪子" />
+		<phrase hz="鳞爪" py="lín,zhǎo" info="比喻事物的片断或点滴。" />
+		<phrase hz="手爪" py="shǒu,zhǎo" />
+		<phrase hz="一鳞半爪" py="yī,lín,bàn,zhǎo" info="原指龙在云中，东露一鳞，西露半爪，看不到它的全貌。 比喻零星片段的事物。" />
+		<phrase hz="鹰爪" py="yīng,zhǎo" info="1.鷹的爪子。2.比喻爪牙、走狗。3.形容茶芽嫩小。" />
+		<phrase hz="爪牙" py="zhǎo,yá" info="1.动物的尖爪和利牙 2.党羽，帮凶" />
+		<definition id="一">
+			<item id="1" text="指甲或趾甲：手~." />
+			<item id="2" text="鸟兽的脚指：鹰~. [爪牙](喻)党羽，狗腿子。" />
+		</definition>
+	</char>
+	<char hz="爪" py="zhuǎ" multi="zhǎo">
+		<phrase hz="爪儿" py="zhuǎ,er" />
+		<phrase hz="爪子" py="zhuǎ,zi" />
+		<definition id="二">
+			<item id="1" text="（-子、-儿）禽兽的脚（多指有尖甲的）：鸡~子. 狗~儿." />
+			<item id="2" text="（-儿）像爪的东西：这个锅有三个~儿." />
+		</definition>
+	</char>
+</pinyin>

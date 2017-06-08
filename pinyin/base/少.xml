@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="少" py="shǎo" multi="shào" main="1">
+		<phrase hz="必不可少" py="bì,bù,kě,shǎo" info="1.绝对需要的。2.不达到某种目的就不能做成某种事情的。" />
+		<phrase hz="不少" py="bù,shǎo" info="很多。" />
+		<phrase hz="辞多受少" py="cí,duō,shòu,shǎo" info="推辭的多，接受的少。" />
+		<phrase hz="短少" py="duǎn,shǎo" info="不足、不夠。" />
+		<phrase hz="多多少少" py="duō,duō,shǎo,shǎo" />
+		<phrase hz="多少" py="duō,shǎo" />
+		<phrase hz="很少" py="hěn,shǎo" />
+		<phrase hz="减少" py="jiǎn,shǎo" />
+		<phrase hz="少商" py="jiǎn,shǎo" />
+		<phrase hz="绝少" py="jué,shǎo" />
+		<phrase hz="狼多肉少" py="láng,duō,ròu,shǎo" />
+		<phrase hz="缺少" py="quē,shǎo" />
+		<phrase hz="僧多粥少" py="sēng,duō,zhōu,shǎo" info="由多人分取不足額的差事或利益。" />
+		<phrase hz="少安毋躁" py="shǎo,ān,wú,zào" info="耐心等待一會兒，不要急躁。" />
+		<phrase hz="少不了" py="shǎo,bu,liǎo" info="1.不會缺少。2.免不了、不可缺少。3.為數甚多。" />
+		<phrase hz="少而精" py="shǎo,ér,jīng" info="排除一切多余,避免铺张" />
+		<phrase hz="少见" py="shǎo,jiàn" />
+		<phrase hz="少来" py="shǎo,lái" info="1.向來。2.對使用的數量或分量加以限制。3.勿來。4.不要胡來。" />
+		<phrase hz="少礼" py="shǎo,lǐ" info="1.無禮，欠缺禮節。2.失禮，禮貌不周的客套話。3.請人不必拘於禮節的客套話。" />
+		<phrase hz="少量" py="shǎo,liàng" info="分量、數量較少。" />
+		<phrase hz="少陪" py="shǎo,péi" info="因有事须提前离开,不能陪伴、招待客人等" />
+		<phrase hz="少气无力" py="shǎo,qì,wú,lì" info="气不壮，没力量。形容精神不振。" />
+		<phrase hz="少顷" py="shǎo,qǐng" info="一会儿;片刻" />
+		<phrase hz="少数" py="shǎo,shù" />
+		<phrase hz="少私寡欲" py="shǎo,sī,guǎ,yù" info="私念欲望很少。後亦指人淡泊名利。" />
+		<phrase hz="少许" py="shǎo,xǔ" />
+		<phrase hz="少有" py="shǎo,yǒu" info="1.稍有；略有。2.罕见。" />
+		<phrase hz="稀少" py="xī,shǎo" />
+		<phrase hz="凶多吉少" py="xiōng,duō,jí,shǎo" />
+		<phrase hz="愈来愈少" py="yù,lái,yù,shǎo" info="越来越少" />
+		<phrase hz="越来越少" py="yuè,lái,yuè,shǎo" />
+		<phrase hz="至少" py="zhì,shǎo" />
+		<definition id="一">
+			<item id="1" text="跟“多”相对。 1.数量小的：~数服从多数. 2.缺（(连)缺-）：文娱活动~不了他. 3.不经常的：~有. ~见." />
+			<item id="2" text="短暂：~等. ~待." />
+			<item id="3" text="丢，遗失：屋里~了东西." />
+		</definition>
+	</char>
+	<char hz="少" py="shào" multi="shǎo">
+		<phrase hz="老来少" py="lǎo,lái,shào" info="1.人老心不老;比实际年龄少相。2.〈方〉∶一种一年生草本植物,花红叶黄,有观赏价值。" />
+		<phrase hz="老少" py="lǎo,shào" info="老年人和少年人" />
+		<phrase hz="男女老少" py="nán,nǚ,lǎo,shào" />
+		<phrase hz="年少" py="nián,shào" info="1.年纪轻。2.指年轻男子。" />
+		<phrase hz="阔少" py="kuò,shào" info="称有钱人家的子弟" />
+		<phrase hz="少保" py="shào,bǎo" info="職官名。古代稱少師、少傅、少保為三孤，少師最尊，少傅次之，少保為末，職位次於三公。至明、清兩代列為一品，但僅為榮銜，無職位、員額。" />
+		<phrase hz="少不更事" py="shào,bù,gēng,shì" info="更:经历。指人年轻、阅历浅、经验不多" />
+		<phrase hz="少儿" py="shào,ér" info="1.小儿。2.少年和儿童。" />
+		<phrase hz="少府" py="shào,fǔ" info="1.職官名。秦漢九卿之一，掌山海池澤之稅，以供養天子。後漢改掌宮中服御等物，梁與後魏稱為「少府卿」，隋置為「少府監」，至明始廢。2.位於手小指第三節後骨縫陷中的穴道。" />
+		<phrase hz="少妇" py="shào,fù" />
+		<phrase hz="少傅" py="shào,fù" info="職官名。三孤之一，位次於少師。" />
+		<phrase hz="少牢" py="shào,láo" info="古代祭祀用羊和猪做祭品称少牢" />
+		<phrase hz="少林拳" py="shào,lín,quán" info="拳术之一派。相传 唐 嵩山 少林寺 僧佐 唐太宗 平 王世充 有功，从此僧徒常习武艺，传播至广，世因有少林派或少林拳之称。" />
+		<phrase hz="少林寺" py="shào,lín,sì" info="佛教禅宗和少林派拳术的发源地。 在 河南省 登封县 西 少室山 北麓， 后魏 太和 二十年建。 隋文帝 改名 陟岵 ， 唐 复名 少林 " />
+		<phrase hz="少奶奶" py="shào,nǎi,nɑi" info="1.旧时官宦富贵人家的仆人称主人的儿媳妇,泛指这种家庭中年轻的已婚妇女。2.旧时对别人儿媳妇的尊称。" />
+		<phrase hz="少年" py="shào,nián" />
+		<phrase hz="少女" py="shào,nǚ" />
+		<phrase hz="少师" py="shào,shī" info="1.職官名。三孤中地位最尊的人。2.古代樂官的副佐。3.古時年長退休的士。4.複姓。如殷商時有少師陽。" />
+		<phrase hz="少尉" py="shào,wèi" info="军衔,尉官的一级,低于中尉" />
+		<phrase hz="少先队" py="shào,xiān,duì" />
+		<phrase hz="少爷" py="shào,ye" />
+		<phrase hz="少壮" py="shào,zhuàng" info="1.年輕力強的時候。2.年輕力強的人。" />
+		<phrase hz="遗老遗少" py="yí,lǎo,yí,shào" info="泛指留恋过去、思想陈旧的人,有贬义" />
+		<definition id="二">
+			<item text="年纪轻，跟“老”相对：~年人. ~女. 男女老~." />
+		</definition>
+	</char>
+</pinyin>

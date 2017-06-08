@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="召" py="shào" multi="zhào">
+		<phrase hz="召父杜母" py="shào,fù,dù,mǔ" info="指 西汉 召信臣 和 东汉 杜诗 。他们都曾为 南阳 太守，且皆有善政，使人民得以休养生息，安居乐业，故 南阳 人为之语曰：“前有 召 父，后有 杜 母。”见《汉书·循吏传·召信臣》、《后汉书·杜诗传》。后因以“召父杜母”。为颂扬地方官政绩的套语。" />
+		<definition id="二">
+			<item id="1" text="周朝国名，在陕西省凤翔一带。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="召" py="zhào" multi="shào" main="1">
+		<phrase hz="辟召" py="bì,zhào" info="征召。" />
+		<phrase hz="号召" py="hào,zhào" info="以口头或书面的形式向人们发出召唤，使其完成预完的任务" />
+		<phrase hz="感召" py="gǎn,zhào" info="1.感化并召唤 2.通过神或超自然的力量把某种意思传给或透露给代理人" />
+		<phrase hz="请召" py="qǐng,zhào" info="招请。" />
+		<phrase hz="收召" py="shōu,zhào" info="1.招收。谓用某种方式接收学员。 2.招回。" />
+		<phrase hz="行召" py="xíng,zhào" info="行文征召。" />
+		<phrase hz="宣召" py="xuān,zhào" info="谓帝王召见臣下。" />
+		<phrase hz="召拜" py="zhào,bài" info="征拜；任命。" />
+		<phrase hz="召唤" py="zhào,huàn" info="把人们唤来" />
+		<phrase hz="召回" py="zhào,huí" info="把人叫回来;调回来" />
+		<phrase hz="召祸" py="zhào,huò" info="招来灾祸" />
+		<phrase hz="召见" py="zhào,jiàn" info="1.上级令下级来见。2.外交部通知外国驻本国使节来谈事宜。" />
+		<phrase hz="召赁" py="zhào,lìn" info="犹召租。" />
+		<phrase hz="召集" py="zhào,jí" info="通知人们聚集在一起" />
+		<phrase hz="召开" py="zhào,kāi" info="召集开会" />
+		<phrase hz="召募" py="zhào,mù" info="募集。" />
+		<phrase hz="召神弄鬼" py="zhào,shén,nòng,guǐ" info="使用念咒或请神的方式召唤或迫使精灵或魔鬼等出现或服从自己" />
+		<phrase hz="召试" py="zhào,shì" info="皇帝召見面試。為舊時選拔官吏的方式。" />
+		<phrase hz="召幸" py="zhào,xìng" info="1.皇帝召見。2.特指皇帝召喚嬪妃或宮女侍寢。" />
+		<phrase hz="召之即来" py="zhào,zhī,jí,lái" info="一经召唤立即就来" />
+		<phrase hz="召租" py="zhào,zū" info="用招贴或告白招人租赁。" />
+		<phrase hz="征召" py="zhēng,zhào" info="1.政府召集人民服务;征求召集征召所有身体健壮的青年。2.授予官职" />
+		<phrase hz="周召" py="zhōu,zhào" info="亦作“ 周邵 ”。 周成王 时共同辅政的 周公 旦 和 召公 奭 的并称。两人分 陕 而治，皆有美政。" />
+		<definition id="一">
+			<item id="1" text="呼唤，招呼：号~. ~见. ~唤. ~集. ~开会议." />
+			<item id="2" text="傣族姓。" />
+		</definition>
+	</char>
+</pinyin>
