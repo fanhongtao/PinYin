@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仔" py="zǎi" multi="zī,zǐ" main="1">
+		<definition id="二">
+			<item text="〈方〉同“崽”。" />
+		</definition>
+	</char>
+	<char hz="仔" py="zī" multi="zǎi,zǐ">
+		<phrase hz="仔肩" py="zī,jiān" />
+		<definition id="三">
+			<item text="[仔肩]所担负的职务，责任。" />
+		</definition>
+	</char>
+	<char hz="仔" py="zǐ" multi="zǎi,zī">
+		<phrase hz="仔鸡" py="zǐ,jī" />
+		<phrase hz="仔密" py="zǐ,mì" info="衣物等质地紧密" />
+		<phrase hz="仔细" py="zǐ,xì" info="1.周密，细致. 2.俭省. 3.当心，注意" />
+		<phrase hz="仔猪" py="zǐ,zhū" />
+		<definition id="一">
+			<item text="幼小的（多指家畜、家禽）：~鸡. ~猪. [仔密]衣物等质地紧密：袜子织得十分~~. [仔细] 1.周密，细致：~~研究. ~~考虑. 2.俭省：日子过得~~. 3.当心，注意：路很滑，~~点儿." />
+		</definition>
+	</char>
+</pinyin>

@@ -4,47 +4,8 @@
 	<char hz="甾" py="zāi" />
 	<char hz="哉" py="zāi" />
 	<char hz="栽" py="zāi" />
-	<char hz="仔" py="zǎi" multi="zī,zǐ" main="1">
-		<definition id="二">
-			<item text="〈方〉同“崽”。" />
-		</definition>
-	</char>
-	<char hz="载" py="zǎi" multi="zài" info="Word主音">
-		<phrase hz="百载" py="bǎi,zǎi" info="百年。谓时间长久。" />
-		<phrase hz="半载" py="bàn,zǎi" info="半年" />
-		<phrase hz="登载" py="dēng,zǎi" info="[新闻、文章等]被印在报刊上发表" />
-		<phrase hz="刊载" py="kān,zǎi" info="在报纸、刊物上刊登" />
-		<phrase hz="旷载" py="kuàng,zǎi" info="犹长年，多年。" />
-		<phrase hz="历载" py="lì,zǎi" info="1.经历多年。 2.经历的年代。" />
-		<phrase hz="连载" py="lián,zǎi" info="分多次连续在报刊上登载一部作品" />
-		<phrase hz="连载" py="lián,zǎi" info="分多次连续在报刊上登载一部作品" />
-		<phrase hz="年载" py="nián,zǎi" info="1.大约一年 2.〈方〉∶年;年月" />
-		<phrase hz="配载" py="pèi,zǎi" info="指运输部门根据车、船和物资情况，合理调配装载位置和重量的一项组织工作。" />
-		<phrase hz="千载" py="qiān,zǎi" info="千年。形容岁月长久。" />
-		<phrase hz="前载" py="qián,zǎi" info="前代的记载。" />
-		<phrase hz="三年五载" py="sān,nián,wǔ,zǎi" info="指三五年" />
-		<phrase hz="失载" py="shī,zǎi" info="谓记载漏缺。" />
-		<phrase hz="十载" py="shí,zǎi" info="自定义词。十年。如：十载寒窗" />
-		<phrase hz="世载" py="shì,zǎi" info="1.谓某种事迹世代见于记载。2.指世代有德。 3.世人称传。 4.世代。" />
-		<phrase hz="天覆地载" py="tiān,fù,dì,zǎi" info="覆：盖；载：承受。 象天覆盖万物，地承受一切一样。比喻范围极广大。也比喻恩泽深厚。" />
-		<phrase hz="万载" py="wàn,zǎi" info="自定义词。万年。如：万载千秋" />
-		<phrase hz="象载" py="xiàng,zǎi" info="1.即象车。2.悬起图象以揭露秘事。 3.佛经的代称。" />
-		<phrase hz="卸载" py="xiè,zǎi" info="1.从船上移动(如货物)到岸上 2.拿掉(如造型工作台上的或锯床上的)砖、木板或平板" />
-		<phrase hz="遗载" py="yí,zǎi" info="指前代留下的记载事情的书或文章。" />
-		<phrase hz="译载" py="yì,zǎi" info="翻译并刊载。" />
-		<phrase hz="亿载" py="yì,zǎi" info="亿年。" />
-		<phrase hz="载福" py="zǎi,fú" info="承受福惠。" />
-		<phrase hz="载列" py="zǎi,liè" info="记载。" />
-		<phrase hz="载时" py="zǎi,shí" info="谓按四时季节行事。" />
-		<phrase hz="载世" py="zǎi,shì" info="历代，累世。" />
-		<phrase hz="载心" py="zǎi,xīn" info="1.放在心里。2.寄托心意。" />
-		<phrase hz="兆载永劫" py="zhào,zǎi,yǒng,jié" info="佛教语。极言时间之悠远漫长。" />
-		<phrase hz="转载" py="zhuǎn,zǎi" duoyin="zhuǎn,zài" info="刊登别的报刊上发表过的文章。" />
-		<definition id="二">
-			<item id="1" text="年：一年半~." />
-			<item id="2" text="记在书报上（(连)记-）：历史记~. 登~. 刊~. 转~." />
-		</definition>
-	</char>
+	<!-- Ref:仔.xml <char hz="仔" py="zǎi" multi="zī,zǐ" main="1" /> -->
+	<!-- Ref:载.xml <char hz="载" py="zǎi" multi="zài" info="Word主音" /> -->
 	<char hz="宰" py="zǎi" />
 	<char hz="崽" py="zǎi">
 		<definition>
@@ -54,40 +15,5 @@
 	</char>
 	<char hz="再" py="zài" />
 	<char hz="在" py="zài" />
-	<char hz="载" py="zài" multi="zǎi" main="1">
-		<phrase hz="超载" py="chāo,zài" info="车船等装载超过规定限度" />
-		<phrase hz="车载" py="chē,zài" info="用车载运。" />
-		<phrase hz="承载" py="chéng,zài" info="承受支撑物体" />
-		<phrase hz="大车以载" py="dà,chē,yǐ,zài" info="大车材坚，能载重物。比喻人有大材，能够胜重任。" />
-		<phrase hz="搭载" py="dā,zài" info="车船等载客" />
-		<phrase hz="倒载干戈" py="dào,zài,gān,gē" info="倒：把锋刃向里倒插着；载：陈设，放置；干戈：古代的两种兵器，泛指武器。把武器倒着放起来，比喻没有战争，天下太平。" />
-		<phrase hz="风雪载途" py="fēng,xuě,zài,tú" info="一路上都是风雪交加,形容旅途艰难。风雪:大风大雪,形容天气恶劣。 载:怨声载道。 途:路途,旅途。" />
-		<phrase hz="负载" py="fù,zài" info="1.背負。 2.背負重物。引申為苦役。 3.從電能或機械上吸收的能源，再度消耗使用的裝置；亦指消耗能量或所消耗的動力大小，稱為「負載」。" />
-		<phrase hz="过载" py="guò,zài" info="1.转运，为了进一步前进而从一艘船或另外的交通工具上转移到另一艘船或另外的交通工具上 2.超负荷;超过规定的运载标准" />
-		<phrase hz="厚德载物" py="hòu,dé,zài,wù" info="旧指道德高尚者能承担重大任务。" />
-		<phrase hz="满载" py="mǎn,zài" info="装满、满负荷" />
-		<phrase hz="下载" py="xià,zài" info="把信息从互联网或其他电子计算机上输入到某台电子计算机上（跟‘上载’相对）。" />
-		<phrase hz="运载" py="yùn,zài" info="装载和运送" />
-		<phrase hz="载波" py="zài,bō" info="当没有调制信号(即没有能够用来调制的其他电波循环脉冲串或者直流)的情况下由发射机产生的无线电波" />
-		<phrase hz="载沉载浮" py="zài,chén,zài,fú" info="在水中上下沉浮。" />
-		<phrase hz="载道" py="zài,dào" info="1.表达一定的思想、道理。2.满路。" />
-		<phrase hz="载歌" py="zài,gē" info="犹歌唱。" />
-		<phrase hz="载歌载舞" py="zài,gē,zài,wǔ" info="边唱歌，边跳舞。形容尽情欢乐。" />
-		<phrase hz="载荷" py="zài,hè" info="设备或构件承担的工作量或重量" />
-		<phrase hz="载酒问字" py="zài,jiǔ,wèn,zì" info="指人有学问，常有人登门求教。也比喻勤学好问。" />
-		<phrase hz="载客" py="zài,kè" info="指车或者其他交通工具乘搭旅客或者游客。" />
-		<phrase hz="载频" py="zài,pín" info="未调制的无线电、雷达、载波通信或其他发射机产生的频率，或者对称信号调制的发射波的平均频率" />
-		<phrase hz="载体" py="zài,tǐ" info="指能传递能量或运载其他物质的物体。" />
-		<phrase hz="载誉而归" py="zài,yù,ér,guī" info="满载荣誉归来" />
-		<phrase hz="载运" py="zài,yùn" info="用船只、飞机或用机动车辆运载" />
-		<phrase hz="载重" py="zài,zhòng" info="交通工具负担重量" />
-		<phrase hz="载舟" py="zài,zhōu" info="1.乘舟。 2.谓行船。" />
-		<!-- <phrase hz="转载" py="zhuǎn,zài" duoyin="zhuǎn,zǎi" info="把一个运输工具上装载的东西卸下装到另一个运输工具上。" /> -->
-		<definition id="一">
-			<item id="1" text="用交通工具装：装~. ~货. ~重汽车. 满~而归." />
-			<item id="2" text="充满：怨声~道. 风雨~途." />
-			<item id="3" text="载……载……，用在动词前，表示两个动作同时进行：~歌~舞." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:载.xml <char hz="载" py="zài" multi="zǎi" main="1" /> -->
 </pinyin>
