@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="轧" py="gá" multi="yà,zhá">
+		<definition id="三" text="〈方〉">
+			<item id="1" text="挤，拥挤。" />
+			<item id="2" text="结交（朋友）。" />
+			<item id="3" text="查对（账目）。" />
+		</definition>
+	</char>
+	<char hz="轧" py="yà" multi="gá,zhá" main="1">
+		<phrase hz="倾轧" py="qīng,yà" info="以争吵、摩擦和对立为特色的持久的不和" />
+		<definition id="一">
+			<item id="1" text="圆轴或轮子等压在东西上面转：把马路~平了. ~棉花. ~花机." />
+			<item id="2" text="排挤：倾~." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="轧" py="zhá" multi="gá,yà" info="Word主音">
+		<phrase hz="轧钢" py="zhá,gāng" />
+		<phrase hz="轧辊" py="zhá,gǔn" />
+		<definition id="二">
+			<item text="义同“轧(一)”，用于轧辊、轧钢、轧钢机等。 [轧钢]把钢坯压成一定形状的钢材。 [轧辊](-gǔn)轧钢机中最主要的、直接完成轧制工作的部件。" />
+		</definition>
+	</char>
+</pinyin>

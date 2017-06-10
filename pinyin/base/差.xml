@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="差" py="chā" multi="chà,chāi,cī">
+		<phrase hz="差别" py="chā,bié" />
+		<phrase hz="差池" py="chā,chí" />
+		<phrase hz="差错" py="chā,cuò" />
+		<phrase hz="差额" py="chā,é" />
+		<phrase hz="差价" py="chā,jià" />
+		<phrase hz="差距" py="chā,jù" />
+		<phrase hz="差强人意" py="chā,qiáng,rén,yì" />
+		<phrase hz="差数" py="chā,shù" />
+		<phrase hz="差异" py="chā,yì" />
+		<phrase hz="差之毫厘" py="chā,zhī,háo,lí" />
+		<phrase hz="反差" py="fǎn,chā" />
+		<phrase hz="落差" py="luò,chā" />
+		<phrase hz="逆差" py="nì,chā" info="对外贸易中输入超过输出的贸易差额" />
+		<phrase hz="方差" py="fāng,chā" />
+		<phrase hz="偏差" py="piān,chā" />
+		<phrase hz="平均差" py="píng,jūn,chā" />
+		<phrase hz="千差万别" py="qiān,chā,wàn,bié" />
+		<phrase hz="顺差" py="shùn,chā" info="一个国家输出多于输入的外贸差额" />
+		<phrase hz="误差" py="wù,chā" />
+		<phrase hz="一念之差" py="yī,niàn,zhī,chā" />
+		<phrase hz="阴错阳差" py="yīn,cuò,yáng,chā" />
+		<phrase hz="阴差阳错" py="yīn,chā,yáng,cuò" />
+		<definition id="二">
+			<item id="1" text="不同，不同之点（(连)-别、-异、偏-）。" />
+			<item id="2" text="大致还可以：~强人意." />
+			<item id="3" text="错误：~错. 阴错阳~." />
+			<item id="4" text="差数，两数相减的余数。" />
+		</definition>
+	</char>
+	<char hz="差" py="chà" multi="chā,chāi,cī" main="1">
+		<phrase hz="差不多" py="chà,bù,duō" />
+		<phrase hz="差得远" py="chà,dē,yuǎn" />
+		<phrase hz="差劲" py="chà,jìn" />
+		<phrase hz="差生" py="chà,shēng" info="学习成绩差的学生" />
+		<phrase hz="成绩差" py="chéng,jì,chà" />
+		<phrase hz="隔三差五" py="gé,sān,chà,wǔ" />
+		<phrase hz="质量差" py="zhì,liàng,chà" />
+		<definition id="一">
+			<item id="1" text="错误：说~了." />
+			<item id="2" text="不相当，不相合：~得远. ~不多." />
+			<item id="3" text="缺欠：~一道手续. 还~一个人." />
+			<item id="4" text="不好，不够标准：成绩~." />
+		</definition>
+	</char>
+	<char hz="差" py="chāi" multi="chā,chà,cī">
+		<phrase hz="差遣" py="chāi,qiǎn" />
+		<phrase hz="差人" py="chāi,rén" info="旧称官署的隶役; 警察" />
+		<phrase hz="差使" py="chāi,shǐ" />
+		<phrase hz="差事" py="chāi,shi" />
+		<phrase hz="差役" py="chāi,yì" />
+		<phrase hz="撤差" py="chè,chāi" info="旧指免职，撤销官职" />
+		<phrase hz="出差" py="chū,chāi" />
+		<phrase hz="公差" py="gōng,chāi" />
+		<phrase hz="鬼使神差" py="guǐ,shǐ,shén,chāi" />
+		<phrase hz="兼差" py="jiān,chāi" />
+		<phrase hz="解差" py="jiè,chāi" info="押解人犯的差役。" />
+		<phrase hz="美差" py="měi,chāi" />
+		<phrase hz="听差" py="tīng,chāi" info="旧指在机关或富人家里做杂活的男仆" />
+		<phrase hz="邮差" py="yóu,chāi" />
+		<phrase hz="钦差" py="qīn,chāi" />
+		<definition id="三">
+			<item id="1" text="派遣去做事（(连)-遣）。" />
+			<item id="2" text="旧时称被派遣的人，差役。" />
+			<item id="3" text="差事，被派遣去做的事：兼~. 出~." />
+		</definition>
+	</char>
+	<char hz="差" py="cī" multi="chā,chà,chāi">
+		<phrase hz="参差" py="cēn,cī" />
+		<definition id="四">
+			<item text="见“参”字条“参差”(cēn-)。" />
+		</definition>
+	</char>
+</pinyin>

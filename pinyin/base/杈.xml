@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="杈" py="chā" multi="chà" info="Word主音">
+		<phrase hz="杈子" py="chā,zǐ" />
+		<definition id="一">
+			<item text="一种用来挑(tiǎo)柴草等的农具。" />
+		</definition>
+	</char>
+	<char hz="杈" py="chà" multi="chā" main="1">
+		<phrase hz="树杈" py="shù,chà" info="树木的分枝处" />
+		<phrase hz="丫杈" py="yā,chà" />
+		<phrase hz="枝杈" py="yā,chà" info="植物主干上杈出的旁枝" />
+		<definition id="二">
+			<item text="（-子、-儿）植物的分枝：树~儿，打棉花~." />
+		</definition>
+	</char>
+</pinyin>

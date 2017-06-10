@@ -63,14 +63,7 @@
 	<char hz="雅" py="yǎ">
 		<phrase hz="雅教" py="yǎ,jiào" />
 	</char>
-	<char hz="轧" py="yà" multi="gá,zhá" main="1">
-		<phrase hz="倾轧" py="qīng,yà" info="以争吵、摩擦和对立为特色的持久的不和" />
-		<definition id="一">
-			<item id="1" text="圆轴或轮子等压在东西上面转：把马路~平了. ~棉花. ~花机." />
-			<item id="2" text="排挤：倾~." />
-			<item id="3" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:轧.xml <char hz="轧" py="yà" multi="gá,zhá" main="1" /> -->
 	<char hz="亚" py="yà" />
 	<!-- <char hz="垭" py="yà" info="(又)yā"> -->
 	<char hz="挜" py="yà" />

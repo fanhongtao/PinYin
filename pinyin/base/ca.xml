@@ -7,11 +7,7 @@
 		</definition>
 	</char>
 	<char hz="擦" py="cā" />
-	<char hz="嚓" py="cā" multi="chā" main="1">
-		<definition id="一">
-			<item text="拟声词：摩托车~的一声停住了." />
-		</definition>
-	</char>
+	<!-- Ref:嚓.xml <char hz="嚓" py="cā" multi="chā" main="1" /> -->
 	<char hz="䃰" py="cā" />
 	<char hz="礤" py="cā" />
 </pinyin>

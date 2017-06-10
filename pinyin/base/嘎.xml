@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嘎" py="gā" multi="gá,gǎ" main="1">
+		<phrase hz="嘎吧" py="gā,bā" />
+		<phrase hz="嘎叭" py="gā,bā" />
+		<phrase hz="嘎巴" py="gā,ba" />
+		<phrase hz="嘎吱" py="gā,zhī" />
+		<phrase hz="嘎渣" py="gā,zha" />
+		<definition id="一">
+			<item text="拟声词。[嘎吧][嘎叭](-bā)拟声词。 [嘎吱](-zhī)拟声词。" />
+			<item text="[嘎巴](-ba)1.黏东西凝结在器物上。2.（-儿）凝结在器物上的东西：衣裳上有好多~~。" />
+			<item text="[嘎渣](-zha)1.疮伤结的痂。2.（-儿）食物烤黄的焦皮：饭~~. 饼了~~儿." />
+		</definition>
+	</char>
+	<char hz="嘎" py="gá" multi="gā,gǎ">
+		<phrase hz="嘎嘎" py="gā,ga" />
+		<definition id="二">
+			<item text="[嘎嘎](-ga)同“尜尜”。" />
+		</definition>
+	</char>
+	<char hz="嘎" py="gǎ" multi="gā,gá">
+		<definition id="三">
+			<item text="同“玍”(gǎ)。" />
+		</definition>
+	</char>
+</pinyin>

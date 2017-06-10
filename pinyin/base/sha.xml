@@ -12,12 +12,7 @@
 			<item id="7" text="在动词后，表示程度深：气~人. 笑~人." />
 		</definition>
 	</char>
-	<char hz="刹" py="shā" multi="chà">
-		<phrase hz="刹车" py="shā,chē" />
-		<definition id="二">
-			<item text="止住（车、机器等）：~车." />
-		</definition>
-	</char>
+	<!-- Ref:刹.xml <char hz="刹" py="shā" multi="chà" /> -->
 	<char hz="铩" py="shā" />
 	<char hz="杉" py="shā" multi="shān">
 		<phrase hz="杉木" py="shā,mù" />

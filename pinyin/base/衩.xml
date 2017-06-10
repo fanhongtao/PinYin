@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="衩" py="chǎ" multi="chà" info="Word主音">
+		<phrase hz="裤衩" py="kù,chǎ" />
+		<definition id="二">
+			<item text="[裤衩]短裤：三角~~." />
+		</definition>
+	</char>
+	<char hz="衩" py="chà" multi="chǎ" main="1">
+		<phrase hz="衩衣" py="chà,yī" info="两侧开衩的长衣。古人用以称男子便服，始于 唐 。" />
+		<definition id="一">
+			<item text="衣服旁边开口的地方。" />
+		</definition>
+	</char>
+</pinyin>

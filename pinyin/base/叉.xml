@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="叉" py="chā" multi="chá,chǎ,chà" main="1">
+		<phrase hz="叉车" py="chā,chē" info="搬运货物的铲车" />
+		<phrase hz="叉路" py="chā,lù" info="岔道，歧途。" />
+		<phrase hz="叉烧" py="chā,shāo" info="叉烧是广东省传统的名菜，属于粤菜系。" />
+		<phrase hz="叉牙" py="chā,yá" info="参差，歧出不齐。" />
+		<phrase hz="叉腰" py="chā,yāo" />
+		<phrase hz="叉子" py="chā,zi" />
+		<phrase hz="打叉" py="dǎ,chā" />
+		<phrase hz="飞叉" py="fēi,chā" info="杂技节目" />
+		<phrase hz="火叉" py="huǒ,chā" />
+		<phrase hz="交叉" py="jiāo,chā" />
+		<phrase hz="开叉" py="kāi,chā" info="在衣服下部边缘开口儿。多在两侧或后身。" />
+		<phrase hz="三叉戟" py="sān,chā,jǐ" info="古代神话中海神所持的有三尖头的矛枪或节杖" />
+		<phrase hz="铁叉" py="tiě,chā" />
+		<phrase hz="药叉" py="yào,chā" info="梵语的译音。或译为“夜叉”" />
+		<phrase hz="夜叉" py="yè,chā" />
+		<phrase hz="音叉" py="yīn,chā" info="用于乐器的调音和确定标准音高的金属器具" />
+		<phrase hz="鱼叉" py="yú,chā" />
+		<definition id="一">
+			<item id="1" text="（-子）一头有两个以上长齿便于扎取东西的器具：鱼~. 三齿~. 粪~子." />
+			<item id="2" text="用叉子扎取：~鱼." />
+			<item id="3" text="交错：~着手站着." />
+		</definition>
+	</char>
+	<char hz="叉" py="chá" multi="chā,chǎ,chà">
+		<definition id="二">
+			<item text="挡住，堵塞住，互相卡住：车把路口~住了." />
+		</definition>
+	</char>
+	<char hz="叉" py="chǎ" multi="chā,chá,chà">
+		<phrase hz="叉腿" py="chǎ,tuǐ" />
+		<definition id="三">
+			<item text="分开，张开：~腿." />
+		</definition>
+	</char>
+	<char hz="叉" py="chà" multi="chā,chá,chǎ">
+		<phrase hz="劈叉" py="pǐ,chà" />
+		<definition id="四">
+			<item text="劈叉，两腿分开成一字形落地，是戏曲、杂技、体操、武术等的一种动作。" />
+		</definition>
+	</char>
+</pinyin>

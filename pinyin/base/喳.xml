@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喳" py="chā" multi="zhā">
+		<phrase hz="打喳喳" py="dǎ,chā,cha" />
+		<definition id="二">
+			<item text="[喳喳](-cha)拟声词：打~~（低声说话）." />
+		</definition>
+	</char>
+	<char hz="喳" py="zhā" multi="chā" main="1">
+		<phrase hz="叽叽喳喳" py="jī,jī,zhā,zhā" />
+		<phrase hz="喳喳" py="zhā,zhā" />
+		<definition id="一">
+			<item text="[喳喳]拟声词：叽叽~~. 喜鹊~~叫." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,68 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="扎" py="zhā" multi="zā,zhá" info="Word主音">
-		<phrase hz="安营扎寨" py="ān,yíng,zhā,zhài" info="安、扎：建立，安置；寨：防守用的栅栏。指部队驻扎下来。也比喻建立临时的劳动或工作基地。" />
-		<phrase hz="安扎" py="ān,zhā" info="安置、安頓。" />
-		<phrase hz="匾扎" py="biǎn,zhā" info="折迭捆束。" />
-		<phrase hz="立扎" py="lì,zhā" info="立定；站稳。" />
-		<phrase hz="屯扎" py="tún,zhā" info="1.驻扎，安置 2.提供住宿或掩蔽部;尤指指定部队驻扎地点" />
-		<phrase hz="扎堆" py="zhā,duī" info="〈方〉多人聚拢在一块" />
-		<phrase hz="扎根" py="zhā,gēn" info="1.植物根部向下往土裡生長。 2.比喻深入底層，打下基礎。" />
-		<phrase hz="扎花" py="zhā,huā" info="〈方〉刺绣" />
-		<phrase hz="扎猛子" py="zhā,měng,zi" />
-		<phrase hz="扎煞" py="zhā,sha" info="张开；伸张。" />
-		<phrase hz="扎实" py="zhā,shi" info="1.牢固;结实 2.实在，踏实" />
-		<phrase hz="扎手" py="zhā,shǒu" info="刺手;难对付" />
-		<phrase hz="扎眼" py="zhā,yǎn" info="比喻惹人注目" />
-		<phrase hz="扎营" py="zhā,yíng" info="指队伍安营驻扎" />
-		<phrase hz="扎寨" py="zhā,zhài" info="1.谓筑营寨驻扎下来。 2.扎营。" />
-		<phrase hz="扎针" py="zhā,zhēn" info="中医针灸法中的针法，用特制的金属针，按一定的穴位，刺入患者体内，用捻、提等手法以达到治疗疾病的目的"/>
-		<phrase hz="纸扎" py="zhǐ,zhā" info="即纸札。用纸和竹篾扎成的冥器。" />
-		<phrase hz="驻扎" py="zhù,zhā" info="驻留扎营" />
-		<definition id="一">
-			<item id="1" text="刺：~针. ~花（刺绣）." />
-			<item id="2" text="驻扎：~营." />
-			<item id="3" text="钻：~猛子（游泳时头朝下钻入水中）." />
-			<item text="[扎煞](-sha)同“挓挲”。" />
-		</definition>
-	</char>
-	<char hz="吒" py="zhā" multi="zhà" main="1">
-		<phrase hz="金吒" py="jīn,zhā" />
-		<phrase hz="木吒" py="mù,zhā" />
-		<definition id="一">
-			<item text="用于神话中的人名，如金吒、木吒。" />
-		</definition>
-	</char>
+	<!-- Ref:扎.xml <char hz="扎" py="zhā" multi="zā,zhá" info="Word主音" /> -->
+	<!-- Ref:吒.xml <char hz="吒" py="zhā" multi="zhà" main="1" /> -->
 	<char hz="挓" py="zhā">
 		<phrase hz="挓挲" py="zhā,sha" />
 		<definition>
 			<item text="[挓挲](-sha)张开：~~着手." />
 		</definition>
 	</char>
-	<char hz="咋" py="zhā" multi="zǎ,zé">
-		<phrase hz="咋呼" py="zhā,hu" info="〈方〉1.吆喝。 2.炫耀。" />
-		<definition id="三">
-			<item text="[咋呼](-hu)〈方〉1.吆喝。 2.炫耀。" />
-		</definition>
-	</char>
+	<!-- Ref:咋.xml <char hz="咋" py="zhā" multi="zǎ,zé" /> -->
 	<char hz="哳" py="zhā" />
-	<char hz="查" py="zhā" multi="chá">
-		<phrase hz="不卖查梨" py="bù,mài,zhā,lí" info="元 无名氏《百花亭》第三折有卖查梨条的小贩夸张地叫卖自己的货物。后以“不卖查梨”指不空口说大话。" />
-		<phrase hz="梦梦查查" py="mèng,mèng,zhā,zhā" info="犹迷迷糊糊。" />
-		<phrase hz="生查子" py="shēng,zhā,zǐ" info="原唐教坊曲，后用为词调。" />
-		<definition id="二">
-			<item id="1" text="同“楂(一)”。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:查.xml <char hz="查" py="zhā" multi="chá" /> -->
 	<char hz="揸" py="zhā" />
-	<char hz="喳" py="zhā" multi="chā" main="1">
-		<phrase hz="叽叽喳喳" py="jī,jī,zhā,zhā" />
-		<phrase hz="喳喳" py="zhā,zhā" />
-		<definition id="一">
-			<item text="[喳喳]拟声词：叽叽~~. 喜鹊~~叫." />
-		</definition>
-	</char>
+	<!-- Ref:喳.xml <char hz="喳" py="zhā" multi="chā" main="1" /> -->
 	<char hz="渣" py="zhā" />
 	<char hz="楂" py="zhā" multi="chá">
 		<phrase hz="山楂" py="shān,zhā" />
@@ -78,31 +28,11 @@
 		</definition>
 	</char>
 	<char hz="齇" py="zhā" />
-	<char hz="扎" py="zhá" multi="zā,zhā">
-		<phrase hz="马扎" py="mǎ,zhá" info="一种可折叠的小型坐具，腿交叉作为支架，上面绷皮条、绳等。 携带方便" />
-		<phrase hz="挣扎" py="zhēng,zhá" info="1.勉強支撐。 2.奮力抵抗。" />
-		<phrase hz="扎挣" py="zhá,zheng" info="〈方〉勉强支持。" />
-		<definition id="二">
-			<item text="[扎挣](-zheng)〈方〉勉强支持。" />
-		</definition>
-	</char>
+	<!-- Ref:扎.xml <char hz="扎" py="zhá" multi="zā,zhā" /> -->
 	<char hz="札" py="zhá" />
-	<char hz="轧" py="zhá" multi="gá,yà" info="Word主音">
-		<phrase hz="轧钢" py="zhá,gāng" />
-		<phrase hz="轧辊" py="zhá,gǔn" />
-		<definition id="二">
-			<item text="义同“轧(一)”，用于轧辊、轧钢、轧钢机等。 [轧钢]把钢坯压成一定形状的钢材。 [轧辊](-gǔn)轧钢机中最主要的、直接完成轧制工作的部件。" />
-		</definition>
-	</char>
+	<!-- Ref:轧.xml <char hz="轧" py="zhá" multi="gá,yà" info="Word主音" /> -->
 	<char hz="闸" py="zhá" />
-	<char hz="炸" py="zhá" multi="zhà">
-		<phrase hz="油炸" py="yóu,zhá" />
-		<phrase hz="炸糕" py="zhá,gāo" />
-		<phrase hz="炸鱼" py="zhá,yú" />
-		<definition id="二">
-			<item text="把食物放在煮沸的油或水里弄熟：~糕. ~鱼. 把菠菜~一~." />
-		</definition>
-	</char>
+	<!-- Ref:炸.xml <char hz="炸" py="zhá" multi="zhà" /> -->
 	<char hz="铡" py="zhá" />
 	<char hz="喋" py="zhá" multi="dié">
 		<phrase hz="唼喋" py="shà,zhá" info="形容鱼或水鸟吃食的声音,也指鱼或水鸟吃食" />
@@ -125,33 +55,7 @@
 			<item text="[柞水]地名，在陕西省。" />
 		</definition>
 	</char>
-	<char hz="炸" py="zhà" multi="zhá" main="1">
-		<phrase hz="爆炸" py="bào,zhà" info="物体体积急剧膨大炸裂，使周围气压发生强烈变化并产生巨大声响的现象" />
-		<phrase hz="轰炸" py="hōng,zhà" info="用炸弹袭击;往投弹;向投弹" />
-		<phrase hz="炸弹" py="zhà,dàn" info="一种爆炸武器，通常是铁壳内装入炸药而成。 一般由飞机投掷" />
-		<phrase hz="炸锅" py="zhà,guō" info="锅里的食物向锅外四散迸溅。 比喻人群中发生吵闹动乱" />
-		<phrase hz="炸呼" py="zhà,hū" info="乱喊叫；吆喝。" />
-		<phrase hz="炸毁" py="zhà,huǐ" info="用爆破手段或用炸弹等摧毁" />
-		<phrase hz="炸雷" py="zhà,léi" info="指声音非常响的雷。亦比喻很响的声音" />
-		<phrase hz="炸裂" py="zhà,liè" info="以爆破法使破裂" />
-		<phrase hz="炸毛" py="zhà,máo" info="〈方〉发脾气；发怒。" />
-		<phrase hz="炸破" py="zhà,pò" info="因内部的压力而分裂成碎片" />
-		<phrase hz="炸群" py="zhà,qún" info="指动物受惊各自离群逃散。" />
-		<phrase hz="炸市" py="zhà,shì" info="闹市上人们因受惊扰而四处乱跑。" />
-		<phrase hz="炸碎" py="zhà,suì" info="用炸药使被炸物体(如岩石)碎裂" />
-		<phrase hz="炸窝" py="zhà,wō" info="〈方〉 1.成群的蜂、鸟从窝中惊乱飞散 2.一群人因惊吓乱成一窝蜂" />
-		<phrase hz="炸响" py="zhà,xiǎng" info="形容雷声、鞭声等响亮。" />
-		<phrase hz="炸牙" py="zhà,yá" info="形容冷得刺牙。" />
-		<phrase hz="炸眼" py="zhà,yǎn" info="马、驴等牲畜突然见到生人或其他不熟悉的东西而惊恐、嘶鸣或狂奔。" />
-		<phrase hz="炸药" py="zhà,yào" info="在一定的外界能量作用下，能由其本身的能量发生爆炸的物质。 炸药爆炸时，能释放出大量的热能并产生高温高压气体，对周围物质起破坏、抛掷、压缩等作用" />
-		<phrase hz="炸营" py="zhà,yíng" info="兵营发生骚乱，比喻人群骚动，乱成一团" />
-		<definition id="一">
-			<item id="1" text="突然破裂（(连)爆-）：~弹. 玻璃杯~了." />
-			<item id="2" text="用炸药、炸弹爆破：~碉堡." />
-			<item id="3" text="发怒：他一听就~了." />
-			<item id="4" text="因受惊而四处逃散：~市. ~窝." />
-		</definition>
-	</char>
+	<!-- Ref:炸.xml <char hz="炸" py="zhà" multi="zhá" main="1" /> -->
 	<char hz="痄" py="zhà">
 		<phrase hz="痄腮" py="zhà,sai" />
 	</char>
@@ -176,11 +80,7 @@
 			<item text="生气时对人大声嚷。" />
 		</definition>
 	</char>
-	<char hz="吒" py="zhà" multi="zhā">
-		<definition id="二">
-			<item text="“咤”的异体字。" />
-		</definition>
-	</char>
+	<!-- Ref:吒.xml <char hz="吒" py="zhà" multi="zhā" /> -->
 	<char hz="䖳" py="zhà" />
 	<char hz="溠" py="zhà" />
 	<char hz="蜡" py="zhà" multi="là">

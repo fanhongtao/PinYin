@@ -8,12 +8,7 @@
 			<item text="拟声词：~棱(-lēng)（动作迅速的声音）. ~溜(-liū)（脚底下滑动的声音）. ~~地冒火星儿." />
 		</definition>
 	</char>
-	<char hz="差" py="cī" multi="chā,chà,chāi">
-		<phrase hz="参差" py="cēn,cī" />
-		<definition id="四">
-			<item text="见“参”字条“参差”(cēn-)。" />
-		</definition>
-	</char>
+	<!-- Ref:差.xml <char hz="差" py="cī" multi="chā,chà,chāi" /> -->
 	<char hz="疵" py="cī" />
 	<char hz="跐" py="cī" multi="cǐ" main="1">
 		<phrase hz="跐蹓" py="cī,liū" info="形容动作很快，很矫捷。" />

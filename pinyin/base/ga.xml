@@ -21,25 +21,8 @@
 			<item text="[咖喱](-li)(外)用胡椒、姜黄等做的调味品。" />
 		</definition>
 	</char>
-	<char hz="嘎" py="gā" multi="gá,gǎ" main="1">
-		<phrase hz="嘎吧" py="gā,bā" />
-		<phrase hz="嘎叭" py="gā,bā" />
-		<phrase hz="嘎巴" py="gā,ba" />
-		<phrase hz="嘎吱" py="gā,zhī" />
-		<phrase hz="嘎渣" py="gā,zha" />
-		<definition id="一">
-			<item text="拟声词。[嘎吧][嘎叭](-bā)拟声词。 [嘎吱](-zhī)拟声词。" />
-			<item text="[嘎巴](-ba)1.黏东西凝结在器物上。2.（-儿）凝结在器物上的东西：衣裳上有好多~~。" />
-			<item text="[嘎渣](-zha)1.疮伤结的痂。2.（-儿）食物烤黄的焦皮：饭~~. 饼了~~儿." />
-		</definition>
-	</char>
-	<char hz="轧" py="gá" multi="yà,zhá">
-		<definition id="三" text="〈方〉">
-			<item id="1" text="挤，拥挤。" />
-			<item id="2" text="结交（朋友）。" />
-			<item id="3" text="查对（账目）。" />
-		</definition>
-	</char>
+	<!-- Ref:嘎.xml <char hz="嘎" py="gā" multi="gá,gǎ" main="1" /> -->
+	<!-- Ref:轧.xml <char hz="轧" py="gá" multi="yà,zhá" /> -->
 	<char hz="钆" py="gá" />
 	<char hz="尜" py="gá">
 		<phrase hz="尜尜" py="gá,ga" />
@@ -47,12 +30,7 @@
 			<item text="[尜尜](-ga)1.一种儿童玩具，两头尖中间大。也叫“尜儿”。2.像尜尜的：~~枣. ~~汤（用玉米面等做的食品）." />
 		</definition>
 	</char>
-	<char hz="嘎" py="gá" multi="gā,gǎ">
-		<phrase hz="嘎嘎" py="gā,ga" />
-		<definition id="二">
-			<item text="[嘎嘎](-ga)同“尜尜”。" />
-		</definition>
-	</char>
+	<!-- Ref:嘎.xml <char hz="嘎" py="gá" multi="gā,gǎ" /> -->
 	<char hz="噶" py="gá" />
 	<char hz="玍" py="gǎ">
 		<definition text="〈方〉">
@@ -61,11 +39,7 @@
 		</definition>
 	</char>
 	<char hz="尕" py="gǎ" />
-	<char hz="嘎" py="gǎ" multi="gā,gá">
-		<definition id="三">
-			<item text="同“玍”(gǎ)。" />
-		</definition>
-	</char>
+	<!-- Ref:嘎.xml <char hz="嘎" py="gǎ" multi="gā,gá" /> -->
 	<char hz="尬" py="gà">
 		<phrase hz="尴尬" py="gān,gà" />
 	</char>

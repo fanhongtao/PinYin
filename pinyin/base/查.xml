@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="查" py="chá" multi="zhā" main="1">
+		<phrase hz="查察" py="chá,chá" />
+		<phrase hz="查抄" py="chá,chāo" />
+		<phrase hz="查地图" py="chá,dì,tú" />
+		<phrase hz="查访" py="chá,fǎng" />
+		<phrase hz="查看" py="chá,kàn" />
+		<phrase hz="查问" py="chá,wèn" />
+		<phrase hz="查询" py="chá,xún" />
+		<phrase hz="查验" py="chá,yàn" />
+		<phrase hz="查阅" py="chá,yuè" />
+		<phrase hz="查找" py="chá,zhǎo" />
+		<phrase hz="查账" py="chá,zhàng" />
+		<phrase hz="查字典" py="chá,zì,diǎn" />
+		<phrase hz="查字法" py="chá,zì,fǎ" />
+		<phrase hz="贯月查" py="guàn,yuè,chá" />
+		<phrase hz="稽查" py="jī,chá" />
+		<phrase hz="检查" py="jiǎn,chá" />
+		<phrase hz="勘查" py="kān,chá" />
+		<phrase hz="考查" py="kǎo,chá" />
+		<phrase hz="明查暗访" py="míng,chá,àn,fǎng" />
+		<phrase hz="盘查" py="pán,chá" />
+		<phrase hz="清仓查库" py="qīng,cāng,chá,kù" />
+		<phrase hz="审查" py="shěn,chá" />
+		<phrase hz="侦查" py="zhēn,chá" />
+		<definition id="一">
+			<item id="1" text="检查：~账." />
+			<item id="2" text="翻检着看：~地图. ~字典." />
+		</definition>
+	</char>
+	<char hz="查" py="zhā" multi="chá">
+		<phrase hz="不卖查梨" py="bù,mài,zhā,lí" info="元 无名氏《百花亭》第三折有卖查梨条的小贩夸张地叫卖自己的货物。后以“不卖查梨”指不空口说大话。" />
+		<phrase hz="梦梦查查" py="mèng,mèng,zhā,zhā" info="犹迷迷糊糊。" />
+		<phrase hz="生查子" py="shēng,zhā,zǐ" info="原唐教坊曲，后用为词调。" />
+		<definition id="二">
+			<item id="1" text="同“楂(一)”。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

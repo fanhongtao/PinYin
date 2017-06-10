@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咋" py="zǎ" multi="zé,zhā" main="1">
+		<phrase hz="咋办" py="zǎ,bàn" />
+		<phrase hz="咋好" py="zǎ,hǎo" />
+		<phrase hz="咋样" py="zǎ,yàng" />
+		<definition id="二">
+			<item text="〈方〉代词，怎，怎么：~好. ~办." />
+		</definition>
+	</char>
+	<char hz="咋" py="zé" multi="zǎ,zhā">
+		<phrase hz="咋舌" py="zé,shé" />
+		<definition id="一">
+			<item id="1" text="大声呼叫。" />
+			<item id="2" text="咬，啃。 [咋舌]形容因惊讶、害怕而说不出话来。" />
+		</definition>
+	</char>
+	<char hz="咋" py="zhā" multi="zǎ,zé">
+		<phrase hz="咋呼" py="zhā,hu" info="〈方〉1.吆喝。 2.炫耀。" />
+		<definition id="三">
+			<item text="[咋呼](-hu)〈方〉1.吆喝。 2.炫耀。" />
+		</definition>
+	</char>
+</pinyin>

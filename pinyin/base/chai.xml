@@ -6,28 +6,7 @@
 		</definition>
 	</char>
 	<char hz="钗" py="chāi" />
-	<char hz="差" py="chāi" multi="chā,chà,cī">
-		<phrase hz="差遣" py="chāi,qiǎn" />
-		<phrase hz="差人" py="chāi,rén" info="旧称官署的隶役; 警察" />
-		<phrase hz="差使" py="chāi,shǐ" />
-		<phrase hz="差事" py="chāi,shi" />
-		<phrase hz="差役" py="chāi,yì" />
-		<phrase hz="撤差" py="chè,chāi" info="旧指免职，撤销官职" />
-		<phrase hz="出差" py="chū,chāi" />
-		<phrase hz="公差" py="gōng,chāi" />
-		<phrase hz="鬼使神差" py="guǐ,shǐ,shén,chāi" />
-		<phrase hz="兼差" py="jiān,chāi" />
-		<phrase hz="解差" py="jiè,chāi" info="押解人犯的差役。" />
-		<phrase hz="美差" py="měi,chāi" />
-		<phrase hz="听差" py="tīng,chāi" info="旧指在机关或富人家里做杂活的男仆" />
-		<phrase hz="邮差" py="yóu,chāi" />
-		<phrase hz="钦差" py="qīn,chāi" />
-		<definition id="三">
-			<item id="1" text="派遣去做事（(连)-遣）。" />
-			<item id="2" text="旧时称被派遣的人，差役。" />
-			<item id="3" text="差事，被派遣去做的事：兼~. 出~." />
-		</definition>
-	</char>
+	<!-- Ref:差.xml <char hz="差" py="chāi" multi="chā,chà,cī" /> -->
 	<char hz="侪" py="chái" />
 	<char hz="柴" py="chái" />
 	<char hz="豺" py="chái" />
