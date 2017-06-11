@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="沙" py="shā" multi="shà" main="1" suppressLog="1">
+		<phrase hz="沙门" py="shā,mén" />
+		<definition id="一">
+			<item id="1" text="（-子）非常细碎的石粒：~土. ~滩." />
+			<item id="2" text="像沙子的：蚕~（桑蚕的粪）. 豆~. ~瓤西瓜." />
+			<item id="3" text="声音不清脆不响亮：~哑." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="沙" py="shà" multi="shā">
+		<phrase hz="沙一沙" py="shà,yī,shà" />
+		<definition id="二">
+			<item text="经过摇动把东西里的杂物集中，以便清除：把小米里的沙子~一~." />
+		</definition>
+	</char>
+</pinyin>

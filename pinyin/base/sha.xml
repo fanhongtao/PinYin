@@ -21,15 +21,7 @@
 			<item text="义同“杉(一)”，用于“杉木、杉篙”等。" />
 		</definition>
 	</char>
-	<char hz="沙" py="shā" multi="shà" main="1" suppressLog="1">
-		<phrase hz="沙门" py="shā,mén" />
-		<definition id="一">
-			<item id="1" text="（-子）非常细碎的石粒：~土. ~滩." />
-			<item id="2" text="像沙子的：蚕~（桑蚕的粪）. 豆~. ~瓤西瓜." />
-			<item id="3" text="声音不清脆不响亮：~哑." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:沙.xml <char hz="沙" py="shā" multi="shà" main="1" suppressLog="1" /> -->
 	<char hz="莎" py="shā" multi="suō" main="1" suppressLog="1">
 		<definition id="二">
 			<item text="多用于人名、地名。 [莎车]地名，在新疆维吾尔自治区。" />
@@ -40,24 +32,10 @@
 	<char hz="鲨" py="shā" />
 	<char hz="纱" py="shā" />
 	<char hz="砂" py="shā" />
-	<char hz="煞" py="shā" multi="shà">
-		<phrase hz="抹煞" py="mǒ,shā" info="消除、勾消。" />
-		<phrase hz="煞笔" py="shā,bǐ" info="1.文章的结束语 2.写文章、书信等停笔" />
-		<phrase hz="煞车" py="shā,chē" />
-		<phrase hz="煞尾" py="shā,wěi" info="1.指文章或事情的末尾部分 2.北曲套数中的最后一首曲子" />
-		<definition id="二">
-			<item id="1" text="同“杀(3)(5)(6)(7)”。" />
-			<item id="2" text="同“刹(二)”。" />
-		</definition>
-	</char>
+	<!-- Ref:煞.xml <char hz="煞" py="shā" multi="shà" /> -->
 	<char hz="啥" py="shá" />
 	<char hz="傻" py="shǎ" />
-	<char hz="沙" py="shà" multi="shā">
-		<phrase hz="沙一沙" py="shà,yī,shà" />
-		<definition id="二">
-			<item text="经过摇动把东西里的杂物集中，以便清除：把小米里的沙子~一~." />
-		</definition>
-	</char>
+	<!-- Ref:沙.xml <char hz="沙" py="shà" multi="shā" /> -->
 	<char hz="唼" py="shà">
 		<phrase hz="唼喋" py="shà,zhá" />
 		<definition>
@@ -79,24 +57,7 @@
 		</definition>
 	</char>
 	<char hz="歃" py="shà" />
-	<char hz="煞" py="shà" multi="shā" main="1">
-		<phrase hz="避煞" py="bì,shà" info="旧时迷信，谓人死之后若干日，魂随煞返归生时之宅，是日家人外出回避叫“避煞”。" />
-		<phrase hz="地煞" py="dì,shà" info="1.星相家所称主凶杀之星。2.泛指凶神恶鬼，比喻恶势力。" />
-		<phrase hz="恶煞" py="è,shà" info="神气凶恶的鬼神。比喻凶狠恶毒的人" />
-		<phrase hz="归煞" py="guī,shà" info="人死若干日之後，靈魂歸來，稱為「歸煞」。" />
-		<phrase hz="煞白" py="shà,bái" info="1.惨白，没有血色 2.惨白，没有血色" />
-		<phrase hz="煞费苦心" py="shà,fèi,kǔ,xīn" info="煞：委。形容费尽心思。" />
-		<phrase hz="煞气" py="shà,qì" info="1.充气的器物漏气 2.凶恶的神色 3.指邪气(迷信)" />
-		<phrase hz="煞有介事" py="shà,yǒu,jiè,shì" info="原是江浙一带的方言。 指装模作样，活象真有那么一回事似的。多指大模大样，好像很了不起的样子。" />
-		<phrase hz="煞有其事" py="shà,yǒu,qí,shì" info="好像真有那么回事似的" />
-		<phrase hz="忒煞" py="tè,shà" info="太，过分" />
-		<phrase hz="特煞" py="tè,shà" info="犹忒煞。特别厉害。" />
-		<phrase hz="凶煞" py="xiōng,shà" info="凶恶的神煞" />
-		<definition id="一">
-			<item id="1" text="极，很：~费苦心. 脸色~白." />
-			<item id="2" text="迷信的人指凶神：~气. 凶~." />
-		</definition>
-	</char>
+	<!-- Ref:煞.xml <char hz="煞" py="shà" multi="shā" main="1" /> -->
 	<char hz="箑" py="shà" />
 	<char hz="霎" py="shà" />
 	<char hz="挲" py="sha" multi="sa,suō">
