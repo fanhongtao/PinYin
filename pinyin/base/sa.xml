@@ -1,41 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="仨" py="sā" />
-	<char hz="撒" py="sā" multi="sǎ" main="1">
-		<phrase hz="弥撒" py="mí,sā" info="天主教连续的祈祷和宗教礼仪，包括用面包和酒象征基督祭献的圣体和圣血;基督教圣餐礼" />
-		<phrase hz="撒旦" py="sā,dàn" info="基督教指魔鬼、恶魔" />
-		<phrase hz="撒刁" py="sā,diāo" info="耍赖;以狡猾的手段使人为难" />
-		<phrase hz="撒欢" py="sā,huān" info="因兴奋而连跑带跳。" />
-		<phrase hz="撒谎" py="sā,huǎng" info="说谎" />
-		<phrase hz="撒娇" py="sā,jiāo" info="仗着受宠而故意作态" />
-		<phrase hz="撒酒疯" py="sā,jiǔ,fēng" info="喝醉酒后任性胡闹。" />
-		<phrase hz="撒拉族" py="sā,lā,zú" info="中国少数民族之一，主要分布在青海和甘肃" />
-		<phrase hz="撒赖" py="sā,lài" info="放肆胡闹，耍无赖" />
-		<phrase hz="撒泼" py="sā,pō" info="放肆横行;无理取闹" />
-		<phrase hz="撒气" py="sā,qì" info="1.借别人或别的事物发泄怒气 2.球、轮胎等漏出或放出空气" />
-		<phrase hz="撒手" py="sā,shǒu" info="放开手" />
-		<phrase hz="撒腿" py="sā,tuǐ" info="放开脚步" />
-		<phrase hz="撒网" py="sā,wǎng" info="一种圆形或圆锥形装有沉子的网，用手撒出去能使网口向下，并用与网缘相连的绳索收回来" />
-		<phrase hz="撒野" py="sā,yě" info="[对人] 粗野、放肆，不讲情理" />
-		<definition id="一">
-			<item id="1" text="放，放开：~网. ~手. ~腿跑." />
-			<item id="2" text="尽量施展或表现出来：~娇." />
-			<item text="[撒拉族]我国少数民族。" />
-		</definition>
-	</char>
+	<!-- Ref:撒.xml <char hz="撒" py="sā" multi="sǎ" main="1" /> -->
 	<char hz="洒" py="sǎ">
 		<phrase hz="洒脱" py="sǎ,tuo" />
 	</char>
 	<char hz="靸" py="sǎ" />
-	<char hz="撒" py="sǎ" multi="sā" info="Word主音">
-		<phrase hz="喷撒" py="pēn,sǎ" info="用喷雾器或喷洒烟雾剂的金属容器使全部地或部分地喷上一层液体、泡沫或一种粉末(为消灭细菌或植物害虫)" />
-		<phrase hz="撒播" py="sǎ,bō" info="用均匀撒散的方法播种" />
-		<phrase hz="撒种" py="sǎ,zhǒng" />
-		<definition id="二">
-			<item id="1" text="散播，散布：~种." />
-			<item id="2" text="散落，洒：小心点，别把汤~了." />
-		</definition>
-	</char>
+	<!-- Ref:撒.xml <char hz="撒" py="sǎ" multi="sā" info="Word主音" /> -->
 	<char hz="潵" py="sǎ" />
 	<char hz="卅" py="sà" />
 	<char hz="摋" py="sà" trans="1" />
