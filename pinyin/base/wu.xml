@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="乌" py="wū" multi="wù" main="1" suppressLog="1">
-		<phrase hz="乌拉尔河" py="wū,lā,ěr,hé" info="俄罗斯河流。源出乌拉尔山，注入里海，全长2428公里" />
-		<phrase hz="乌拉尔山" py="wū,lā,ěr,shān" info="欧洲与亚洲之间分界山，在俄罗斯境内" />
-		<definition id="一">
-			<item id="1" text="乌鸦，鸟名，俗叫“老鸹”(gua)或“老鸦”。 [乌合](喻)无组织地聚集：~~之众." />
-			<item id="2" text="黑色：~云. ~木." />
-			<item id="3" text="〈古〉表示疑问，哪，何：~足道哉？" />
-			<item id="4" text="姓。" />
-			<item text="[乌呼]同“呜呼”。" />
-			<item text="[乌孜别克族]我国少数民族。" />
-		</definition>
-	</char>
+	<!-- Ref:乌.xml <char hz="乌" py="wū" multi="wù" main="1" suppressLog="1" /> -->
 	<char hz="邬" py="wū" />
 	<char hz="呜" py="wū" />
 	<char hz="钨" py="wū" />
@@ -29,12 +18,7 @@
 		</definition>
 	</char>
 	<char hz="屋" py="wū" />
-	<char hz="恶" py="wū" multi="ě,è,wù">
-		<definition id="四" text="〈古〉">
-			<item id="1" text="同“乌(一)(3)”。" />
-			<item id="2" text="叹词，表示惊讶：~，是何言也！" />
-		</definition>
-	</char>
+	<!-- Ref:恶.xml <char hz="恶" py="wū" multi="ě,è,wù" /> -->
 	<char hz="亡" py="wú" multi="wáng">
 		<definition id="二">
 			<item text="古同“无”。" />
@@ -97,13 +81,7 @@
 	<char hz="勿" py="wù" />
 	<char hz="芴" py="wù" />
 	<char hz="物" py="wù" />
-	<char hz="乌" py="wù" multi="wū">
-		<phrase hz="乌拉" py="wù,la" />
-		<phrase hz="乌拉草" py="wù,la,cǎo" info="多年生草本植物。产于中国东北。常成片生长在沼泽地上。茎叶纤维坚韧耐久，是制人造绵、纤维板的材料。" />
-		<definition id="二">
-			<item text="[乌拉](-la)同“靰鞡”。" />
-		</definition>
-	</char>
+	<!-- Ref:乌.xml <char hz="乌" py="wù" multi="wū" /> -->
 	<char hz="坞" py="wù" />
 	<char hz="戊" py="wù" />
 	<char hz="务" py="wù">
@@ -111,21 +89,7 @@
 	</char>
 	<char hz="雾" py="wù" />
 	<char hz="误" py="wù" />
-	<char hz="恶" py="wù" multi="ě,è,wū">
-		<phrase hz="好逸恶劳" py="hào,yì,wù,láo" />
-		<phrase hz="可恶" py="kě,wù" />
-		<phrase hz="交恶" py="jiāo,wù" />
-		<phrase hz="深恶痛疾" py="shēn,wù,tòng,jí" />
-		<phrase hz="深恶痛绝" py="shēn,wù,tòng,jué" />
-		<phrase hz="痛恶" py="tòng,wù" info="深恶痛绝;极其厌恶" />
-		<phrase hz="嫌恶" py="xián,wù" info="极度反感或厌恶" />
-		<phrase hz="羞恶" py="xiū,wù" info="因己身的不善而羞耻，见他人的不善而憎恶" />
-		<phrase hz="厌恶" py="yàn,wù" />
-		<phrase hz="憎恶" py="zēng,wù" />
-		<definition id="二">
-			<item text="讨厌，憎恨：可~. 深~痛绝." />
-		</definition>
-	</char>
+	<!-- Ref:恶.xml <char hz="恶" py="wù" multi="ě,è,wū" /> -->
 	<char hz="悟" py="wù" />
 	<char hz="晤" py="wù" />
 	<char hz="焐" py="wù" />

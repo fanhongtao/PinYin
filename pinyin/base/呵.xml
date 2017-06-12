@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呵" py="ā" multi="á,ǎ,à,a,hē">
+		<definition id="一">
+			<item text="同“啊(一)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="á" multi="ā,ǎ,à,a,hē">
+		<definition id="二">
+			<item text="同“啊(二)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="ǎ" multi="ā,á,à,a,hē">
+		<definition id="三">
+			<item text="同“啊(三)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="à" multi="ā,á,ǎ,a,hē">
+		<definition id="四">
+			<item text="同“啊(四)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="a" multi="ā,á,ǎ,à,hē">
+		<definition id="五">
+			<item text="同“啊(五)”" />
+		</definition>
+	</char>
+	<char hz="呵" py="hē" multi="ā,á,ǎ,à,a" main="1">
+		<phrase hz="呵斥" py="hē,chì" />
+		<phrase hz="呵冻" py="hē,dòng" info="哈气使暧" />
+		<phrase hz="呵呵" py="hē,hē" />
+		<phrase hz="呵护" py="hē,hù" />
+		<phrase hz="呵禁" py="hē,jìn" info="大声喝斥制止" />
+		<phrase hz="呵气" py="hē,qì" />
+		<phrase hz="呵欠" py="hē,qian" />
+		<phrase hz="一气呵成" py="yí,qì,hē,chéng" />
+		<definition id="六">
+			<item id="1" text="怒责（(连) -斥）：~禁" />
+			<item id="2" text="呼气：~冻. ~气. [呵呵]拟声词，笑声：笑~~. [呵护]爱护，保护。" />
+			<item id="3" text="同“嗬”" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="荷" py="hé" multi="hè" main="1">
+		<phrase hz="荷包" py="hé,bāo" info="1.隨身佩帶的小囊袋，用來裝錢幣或零星的小東西。2.泛指錢包或口袋。" />
+		<phrase hz="荷包蛋" py="hé,bāo,dàn" info="去壳后在滚油里煎熟的整个儿的鸡蛋" />
+		<phrase hz="荷尔蒙" py="hé,ěr,méng" info="激素的旧称。为英文音译" />
+		<phrase hz="荷花" py="hé,huā" />
+		<phrase hz="荷马" py="hé,mǎ" info="相传是希腊公元前九世纪到前八世纪的盲人诗人,著名的史诗《伊利亚特》、《奥德赛》是他所作,口传于世,后经民间流浪歌手整理加工而成书" />
+		<phrase hz="荷兰" py="hé,lán" info="欧洲一国名。" />
+		<phrase hz="荷叶" py="hé,yè" />
+		<definition id="一">
+			<item text="莲。" />
+		</definition>
+	</char>
+	<char hz="荷" py="hè" multi="hé">
+		<phrase hz="担荷" py="dān,hè" info="1.用肩扛物。2.擔負、負責。" />
+		<phrase hz="电荷" py="diàn,hè" />
+		<phrase hz="负荷" py="fù,hè" />
+		<phrase hz="感荷" py="gǎn,hè" />
+		<phrase hz="荷锄" py="hè,chú" />
+		<phrase hz="荷负" py="hè,fù" info="担负" />
+		<phrase hz="荷枪实弹" py="hè,qiāng,shí,dàn" info="持著子彈都已上膛的槍。形容高度警戒，準備隨時戰鬥的狀況。" />
+		<phrase hz="荷载" py="hè,zài" info="承受的重量或压力" />
+		<phrase hz="为荷" py="wéi,hè" />
+		<phrase hz="正荷" py="zhèng,hè" />
+		<phrase hz="重荷" py="zhòng,hè" />
+		<definition id="二">
+			<item id="1" text="担，扛：~锄. [电荷]构成物质的许多基本粒子所带的电。有的带正电（如质子），有的带负电（如电子），习惯上也把物体所带的电叫电荷：正~. 负." />
+			<item id="2" text="承受恩惠（常用在书信里表示客气）：感~. 为~." />
+		</definition>
+	</char>
+</pinyin>

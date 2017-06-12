@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喝" py="hē" multi="hè" main="1">
+		<phrase hz="喝茶" py="hē,chá" />
+		<phrase hz="喝酒" py="hē,jiǔ" />
+		<phrase hz="喝水" py="hē,shuǐ" />
+		<phrase hz="喝粥" py="hē,zhōu" />
+		<phrase hz="喝醉" py="hē,zuì" />
+		<definition id="一">
+			<item text="吸食液体饮料或流质食物，饮：~水. ~酒. ~粥." />
+		</definition>
+	</char>
+	<char hz="喝" py="hè" multi="hē">
+		<phrase hz="棒喝" py="bàng,hè" info="佛教禅宗祖师接待来学的人时，常常当头一棒或大声一喝，促其领悟。比喻警醒人们的迷悟" />
+		<phrase hz="叱喝" py="chì,hè" />
+		<phrase hz="大喝一声" py="dà,hè,yī,shēng" />
+		<phrase hz="断喝" py="duàn,hè" info="急促地大喊一声" />
+		<phrase hz="呵喝" py="hē,hè" info="发怒而大声喝斥" />
+		<phrase hz="喝彩" py="hè,cǎi" />
+		<phrase hz="喝采" py="hè,cǎi" />
+		<phrase hz="喝道" py="hè,dào" info="旧时官僚出外，衙役在前边吆喝开路，称作喝道，前面引路的差役吆喝行人让路，表示威风" />
+		<phrase hz="喝令" py="hè,lìng" info="大声发令" />
+		<phrase hz="喝问" py="hè,wèn" info="吆喝着盘问。" />
+		<phrase hz="呼喝" py="hū,hè" />
+		<phrase hz="吆喝" py="yāo,he" />
+		<definition id="二">
+			<item text="大声喊叫：~令. 呼~. 大~一声. [喝彩]大声叫好。" />
+		</definition>
+	</char>
+</pinyin>

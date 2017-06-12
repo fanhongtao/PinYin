@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="纥" py="gē" multi="hé">
+		<phrase hz="纥繨" py="gē,da" />
+		<definition id="二">
+			<item text="[纥繨](-da)同“疙瘩2”。多用于纱线、织物等：线~~.解开头巾上的~~." />
+		</definition>
+	</char>
+	<char hz="纥" py="hé" multi="gē" main="1">
+		<phrase hz="回纥" py="huí,hé" />
+		<definition id="一">
+			<item text="见“回”字条“回纥”。" />
+		</definition>
+	</char>
+</pinyin>

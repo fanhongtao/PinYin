@@ -4,30 +4,10 @@
 	<char hz="騞" py="huō" />
 	<char hz="锪" py="huō" />
 	<char hz="劐" py="huō" />
-	<char hz="嚄" py="huō" multi="ǒ" main="1">
-		<definition id="一">
-			<item text="叹词，表示惊讶：~，好大的水库！" />
-		</definition>
-	</char>
-	<char hz="豁" py="huō" multi="huò" main="1">
-		<phrase hz="豁出" py="huō,chū" info="拼着;为获得利益或赚钱拿出[值钱的东西] 去冒险" />
-		<phrase hz="豁口" py="huō,kǒu" />
-		<phrase hz="豁子" py="huō,zi" />
-		<phrase hz="豁嘴" py="huō,zuǐ" info="1.[口]嘴唇裂缺;兔唇。2.有兔唇的人。" />
-		<phrase hz="溪豁" py="xī,huō" info="开阔的山谷。" />
-		<definition id="一">
-			<item id="1" text="残缺，裂开：~口. ~了一个口子. ~唇. [豁子](-zi)残缺的口子：碗上有个~~. 城墙拆了一个~~." />
-			<item id="2" text="舍弃，狠心付出高代价：~出性命. ~出几天时间." />
-		</definition>
-	</char>
+	<!-- Ref:嚄.xml <char hz="嚄" py="huō" multi="ǒ" main="1" /> -->
+	<!-- Ref:豁.xml <char hz="豁" py="huō" multi="huò" main="1" /> -->
 	<char hz="攉" py="huō" />
-	<char hz="和" py="huó" multi="hé,hè,hú,huò">
-		<phrase hz="和面" py="huó,miàn" />
-		<phrase hz="和泥" py="huó,ní" />
-		<definition id="三">
-			<item text="在粉状物中加水搅拌或揉弄使粘在一起：~面. ~泥." />
-		</definition>
-	</char>
+	<!-- Ref:和.xml <char hz="和" py="huó" multi="hé,hè,hú,huò" /> -->
 	<char hz="活" py="huó" />
 	<char hz="火" py="huǒ" />
 	<char hz="伙" py="huǒ" />
@@ -36,18 +16,7 @@
 	<char hz="夥" py="huǒ" />
 	<char hz="或" py="huò" />
 	<char hz="惑" py="huò" />
-	<char hz="和" py="huò" multi="hé,hè,hú,huó">
-		<phrase hz="和弄" py="huò,nòng" info="〈方〉拨弄是非;离间" />
-		<phrase hz="和稀泥" py="huò,xī,ní" info="比喻调和纷争，多指无原则地调和折中" />
-		<phrase hz="和药" py="huò,yào" />
-		<phrase hz="暖和" py="nuǎn,huo" />
-		<phrase hz="软和" py="ruǎn,huo" info="1.[口]柔软、柔和的。2.温和的;顺从的;亲切的。" />
-		<definition id="四">
-			<item id="1" text="粉状或粒状物掺和在一起，或加水搅拌：~药." />
-			<item id="2" text="量词，洗衣物换水的次数：衣裳已经洗了两~." />
-			<item id="3" text="量词，煎药加水的次数：头~药. 二~药." />
-		</definition>
-	</char>
+	<!-- Ref:和.xml <char hz="和" py="huò" multi="hé,hè,hú,huó" /> -->
 	<char hz="货" py="huò" />
 	<char hz="获" py="huò" />
 	<char hz="祸" py="huò" />
@@ -55,20 +24,7 @@
 	<char hz="霍" py="huò" />
 	<char hz="藿" py="huò" />
 	<char hz="嚯" py="huò" />
-	<char hz="豁" py="huò" multi="huō">
-		<phrase hz="豁达" py="huò,dá" />
-		<phrase hz="豁朗" py="huò,lǎng" info="豁达;开朗。" />
-		<phrase hz="豁亮" py="huò,liàng" info="1.开阔明亮。2.形容嗓音等宏亮。" />
-		<phrase hz="豁免" py="huò,miǎn" />
-		<phrase hz="豁然" py="huò,rán" info="一下子彻底晓悟;开阔;顿时通达。" />
-		<phrase hz="开豁" py="kāi,huò" info="1.形容思想或胸怀开阔。2.解除；消除。 3.形容空间开阔明朗。4.谓使思想、胸怀开阔。5.通晓明白。6.谓对他人的罪名或过失予以开脱并宽免。" />
-		<phrase hz="显豁" py="xiǎn,huò" info="显明;明白" />
-		<phrase hz="醒豁" py="xǐng,huò" info="形容意思表达的清晰、明了" />
-		<definition id="二">
-			<item id="1" text="开通，敞亮：~达. ~然开朗." />
-			<item id="2" text="免除（(连)-免）。" />
-		</definition>
-	</char>
+	<!-- Ref:豁.xml <char hz="豁" py="huò" multi="huō" /> -->
 	<char hz="镬" py="huò" />
 	<char hz="蠖" py="huò" />
 </pinyin>

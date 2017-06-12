@@ -10,12 +10,7 @@
 	<char hz="圪" py="gē">
 		<phrase hz="圪垯" py="gē,da" />
 	</char>
-	<char hz="纥" py="gē" multi="hé">
-		<phrase hz="纥繨" py="gē,da" />
-		<definition id="二">
-			<item text="[纥繨](-da)同“疙瘩2”。多用于纱线、织物等：线~~.解开头巾上的~~." />
-		</definition>
-	</char>
+	<!-- Ref:纥.xml <char hz="纥" py="gē" multi="hé" /> -->
 	<char hz="疙" py="gē">
 		<phrase hz="疙瘩" py="gē,da" />
 		<definition>
@@ -40,20 +35,7 @@
 	<char hz="袼" py="gē">
 		<phrase hz="袼褙" py="gē,bei" />
 	</char>
-	<char hz="搁" py="gē" multi="gé" main="1">
-		<phrase hz="担搁" py="dān,gē" info="耽误;拖延" />
-		<phrase hz="搁案" py="gē,àn" info="几案。" />
-		<phrase hz="搁板" py="gē,bǎn" info="置于柜内或固定壁上用以安放物件的板。" />
-		<phrase hz="搁笔" py="gē,bǐ" info="放下笔;[写作、绘画]停笔" />
-		<phrase hz="搁浅" py="gē,qiǎn" info="[船只] 进入水浅处，不能行驶;比喻事情遭到阻碍而中途停顿" />
-		<phrase hz="搁误" py="gē,wù" info="犹耽误。" />
-		<phrase hz="搁置" py="gē,zhì" info="指把事情无限期地闲置一旁（如不予考虑）。" />
-		<phrase hz="平搁" py="píng,gē" info="搁置，耽搁。" />
-		<phrase hz="延搁" py="yán,gē" info="拖延耽搁。" />
-		<definition id="一">
-			<item text="放，置：把书~下. 盐~在水里就化了. (引)耽搁，放在那里不做：这事~了一个月. [搁浅]船停滞在浅处，不能进退。(喻)事情停顿。" />
-		</definition>
-	</char>
+	<!-- Ref:搁.xml <char hz="搁" py="gē" multi="gé" main="1" /> -->
 	<char hz="哥" py="gē" />
 	<char hz="歌" py="gē" />
 	<char hz="鸽" py="gē" />
@@ -70,12 +52,7 @@
 			<item id="2" text="改变（(连)改-）：~新. 洗心~面. (引)革除，撤销（职务）。[革命]1.被压迫阶级用暴力夺取政权，摧毁旧的腐朽的社会制度，建立新的进步的社会制度。2.事物的根本变革：思想~~. 技术~~." />
 		</definition>
 	</char>
-	<char hz="閤" py="gé" multi="hé" trans="1" main="1">
-		<definition id="一">
-			<item id="1" text="小门，旁门。" />
-			<item id="2" text="见“阁”。" />
-		</definition>
-	</char>
+	<!-- Ref:閤.xml <char hz="閤" py="gé" multi="hé" trans="1" main="1" /> -->
 	<char hz="蛤" py="gé" multi="há" main="1" suppressLog="1">
 		<phrase hz="蛤蜊" py="gé,li" />
 		<phrase hz="蛤蚧" py="gé,jiè" />
@@ -84,11 +61,7 @@
 			<item text="[蛤蚧](-jiè)爬行动物，即大壁虎，头大，尾部灰色，有红色斑点。中医用作强壮剂。" />
 		</definition>
 	</char>
-	<char hz="颌" py="gé" multi="hé" main="1">
-		<definition id="一">
-			<item text="口。" />
-		</definition>
-	</char>
+	<!-- Ref:颌.xml <char hz="颌" py="gé" multi="hé" main="1" /> -->
 	<char hz="阁" py="gé">
 		<definition>
 			<item id="1" text="类似楼房的建筑物：亭台楼~. [阁下]对人的敬称，今多用于外交场合。 [阁子]小木头房子。 [内阁]明清两代大臣在宫中处理政务的机构。民国初年的国务院和现在某些国家的最高行政机关也叫内阁，省称“阁”：组~. 入~." />
@@ -98,12 +71,7 @@
 	<char hz="格" py="gé">
 		<phrase hz="格斗" py="gé,dòu" />
 	</char>
-	<char hz="搁" py="gé" multi="gē">
-		<phrase hz="搁不住" py="gé,bú,zhù" />
-		<definition id="二">
-			<item text="禁(jīn)受，承受：~不住这么沉. ~不住揉搓." />
-		</definition>
-	</char>
+	<!-- Ref:搁.xml <char hz="搁" py="gé" multi="gē" /> -->
 	<char hz="骼" py="gé" />
 	<char hz="鬲" py="gé" multi="lì" main="1" suppressLog="1">
 		<phrase hz="鬲津河" py="gé,jīn,hé" />
@@ -119,33 +87,10 @@
 	<char hz="滆" py="gé" />
 	<char hz="膈" py="gé" />
 	<char hz="镉" py="gé" />
-	<char hz="葛" py="gé" multi="gě">
-		<phrase hz="葛布" py="gé,bù" info="可做夏装的用葛草纤维织成的布" />
-		<phrase hz="葛巾" py="gé,jīn" info="古时用葛布做的头巾" />
-		<phrase hz="葛藤" py="gé,téng" info="比喻纠缠不清的关系" />
-		<phrase hz="瓜葛" py="guā,gé" info="瓜和葛都是蔓生的植物。比喻辗转相连的亲戚关系或社会关系,也泛指两件事情互相牵连的关系" />
-		<phrase hz="纠葛" py="jiū,gé" info="1.紧紧深陷、纠缠或卷入似乎难以挣脱的困难。2.纠缠不清的事情;纠纷,也泛指两件事情互相牵连的关系" />
-		<definition id="一">
-			<item text="多年生藤本植物，花紫红色。茎可编篮做绳，纤维可织葛布。根可提制淀粉，又供药用。" />
-		</definition>
-	</char>
-	<char hz="个" py="gě" multi="gè">
-		<phrase hz="自个儿" py="zì,gěr," />
-		<definition id="二">
-			<item text="[自个儿]自己。" />
-		</definition>
-	</char>
-	<char hz="合" py="gě" multi="hé">
-		<definition id="二">
-			<item id="1" text="市制容量单位，一升的十分之一。" />
-			<item id="2" text="旧时量粮食的器具。" />
-		</definition>
-	</char>
-	<char hz="各" py="gě" multi="gè">
-		<definition id="二">
-			<item text="〈方〉特别，与众不同：那人挺~." />
-		</definition>
-	</char>
+	<!-- Ref:葛.xml <char hz="葛" py="gé" multi="gě" /> -->
+	<!-- Ref:个.xml <char hz="个" py="gě" multi="gè" /> -->
+	<!-- Ref:合.xml <char hz="合" py="gě" multi="hé" /> -->
+	<!-- Ref:各.xml <char hz="各" py="gě" multi="gè" /> -->
 	<char hz="哿" py="gě" />
 	<char hz="舸" py="gě" />
 	<char hz="盖" py="gě" multi="gài">
@@ -153,24 +98,9 @@
 			<item text="姓。" />
 		</definition>
 	</char>
-	<char hz="葛" py="gě" multi="gé" main="1">
-		<phrase hz="诸葛" py="zhū,gě" info="复姓。" />
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
-	<char hz="个" py="gè" multi="gě" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="量词：洗~澡. 一~人. 一~不留神. 打他~落花流水." />
-			<item id="2" text="单独的：~人. ~体." />
-			<item id="3" text="（-子、-儿）身材或物体的大小：高~子. 小~儿. 馒头~儿不小." />
-		</definition>
-	</char>
-	<char hz="各" py="gè" multi="gě" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="每个，彼此不同的：~种职业. ~处都有. ~不相同." />
-		</definition>
-	</char>
+	<!-- Ref:葛.xml <char hz="葛" py="gě" multi="gé" main="1" /> -->
+	<!-- Ref:个.xml <char hz="个" py="gè" multi="gě" main="1" suppressLog="1" /> -->
+	<!-- Ref:各.xml <char hz="各" py="gè" multi="gě" main="1" suppressLog="1" /> -->
 	<char hz="硌" py="gè" multi="luò" main="1">
 		<definition id="二">
 			<item text="凸起的硬东西跟身体接触使身体感到难受或受到损伤：~脚. ~牙." />

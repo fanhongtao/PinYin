@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="閤" py="gé" multi="hé" trans="1" main="1">
+		<definition id="一">
+			<item id="1" text="小门，旁门。" />
+			<item id="2" text="见“阁”。" />
+		</definition>
+	</char>
+	<char hz="閤" py="hé" multi="gé" trans="1">
+		<definition id="二">
+			<item text="“合(3)”的繁体字。" />
+		</definition>
+	</char>
+</pinyin>

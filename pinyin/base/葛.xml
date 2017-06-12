@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="葛" py="gé" multi="gě">
+		<phrase hz="葛布" py="gé,bù" info="可做夏装的用葛草纤维织成的布" />
+		<phrase hz="葛巾" py="gé,jīn" info="古时用葛布做的头巾" />
+		<phrase hz="葛藤" py="gé,téng" info="比喻纠缠不清的关系" />
+		<phrase hz="瓜葛" py="guā,gé" info="瓜和葛都是蔓生的植物。比喻辗转相连的亲戚关系或社会关系,也泛指两件事情互相牵连的关系" />
+		<phrase hz="纠葛" py="jiū,gé" info="1.紧紧深陷、纠缠或卷入似乎难以挣脱的困难。2.纠缠不清的事情;纠纷,也泛指两件事情互相牵连的关系" />
+		<definition id="一">
+			<item text="多年生藤本植物，花紫红色。茎可编篮做绳，纤维可织葛布。根可提制淀粉，又供药用。" />
+		</definition>
+	</char>
+	<char hz="葛" py="gě" multi="gé" main="1">
+		<phrase hz="诸葛" py="zhū,gě" info="复姓。" />
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+</pinyin>

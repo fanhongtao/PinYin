@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="颌" py="gé" multi="hé" main="1">
+		<definition id="一">
+			<item text="口。" />
+		</definition>
+	</char>
+	<char hz="颌" py="hé" multi="gé">
+		<phrase hz="上颌" py="shàng,hé" />
+		<phrase hz="下颌" py="xià,hé" />
+		<definition id="二">
+			<item text="构成口腔上部和下部的骨头和肌肉等组织叫作颌，上部的叫上颌，下部的叫下颌。" />
+		</definition>
+	</char>
+</pinyin>

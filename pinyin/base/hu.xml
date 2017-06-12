@@ -22,19 +22,11 @@
 	<char hz="唿" py="hū" />
 	<char hz="淴" py="hū" />
 	<char hz="惚" py="hū" />
-	<char hz="糊" py="hū" multi="hú,hù">
-		<definition id="三">
-			<item text="涂抹或粘合使封闭起来：用泥把墙缝~上。" />
-		</definition>
-	</char>
+	<!-- Ref:糊.xml <char hz="糊" py="hū" multi="hú,hù" /> -->
 	<char hz="囫" py="hú">
 		<phrase hz="囫囵" py="hú,lún" />
 	</char>
-	<char hz="和" py="hú" multi="hé,hè,huó,huò">
-		<definition id="五">
-			<item text="打麻将或斗纸牌用语，表示赢了。" />
-		</definition>
-	</char>
+	<!-- Ref:和.xml <char hz="和" py="hú" multi="hé,hè,huó,huò" /> -->
 	<char hz="狐" py="hú">
 		<phrase hz="狐肷" py="hú,qiǎn" />
 	</char>
@@ -59,30 +51,10 @@
 	</char>
 	<char hz="鹕" py="hú" />
 	<char hz="蝴" py="hú" />
-	<char hz="糊" py="hú" multi="hū,hù" main="1">
-		<phrase hz="裱糊" py="biǎo,hú" info="糊纸(用纸或其它材料糊饰房屋内部或物品)。" />
-		<phrase hz="含糊" py="hán,hu" info="1.言语不清楚。2.马虎;是非不分。" />
-		<phrase hz="糊糊" py="hú,hu" info="〈方〉∶用玉米面、面粉等熬成的粥" />
-		<phrase hz="糊口" py="hú,kǒu" info="勉强维持生活，填饱肚子" />
-		<phrase hz="糊里糊涂" py="hú,lǐ,hú,tú" info="思想上模糊" />
-		<phrase hz="糊涂" py="hú,tu" />
-		<phrase hz="烂糊" py="làn,hú" info="极烂，多指食物烧煮得极熟烂。如：烂糊面、烂糊肉丝。" />
-		<phrase hz="模糊" py="mó,hu" info="1.轮廓模糊不清。2.强调难以辨认。" />
-		<phrase hz="迷糊" py="mí,hu" info="思想的混乱、变化不定或模糊的状态。" />
-		<phrase hz="黏糊" py="nián,hú" info="1.形容东西黏稠。2.形容人行动不爽利，精神不振。" />
-		<definition id="一">
-			<item id="1" text="黏合，粘贴：拿纸~窗户. 裱(biǎo)~. [糊涂](-tu)不清楚，不明事理。" />
-			<item id="2" text="粥类。 [糊口]旧指勉强维持生活。" />
-			<item id="3" text="同“煳”。" />
-		</definition>
-	</char>
+	<!-- Ref:糊.xml <char hz="糊" py="hú" multi="hū,hù" main="1" /> -->
 	<char hz="醐" py="hú" />
 	<char hz="壶" py="hú" />
-	<char hz="核" py="hú" multi="hé">
-		<definition id="二">
-			<item text="（-儿）义同“核(一)(1)(2)”，用于某些口语词，如杏核儿、煤核儿等。" />
-		</definition>
-	</char>
+	<!-- Ref:核.xml <char hz="核" py="hú" multi="hé" /> -->
 	<char hz="斛" py="hú" />
 	<char hz="槲" py="hú" />
 	<char hz="鹄" py="hú" multi="gǔ" main="1">
@@ -133,13 +105,7 @@
 	<char hz="岵" py="hù" />
 	<char hz="怙" py="hù" />
 	<char hz="祜" py="hù" />
-	<char hz="糊" py="hù" multi="hū,hú">
-		<phrase hz="糊弄" py="hù,nong" />
-		<phrase hz="辣椒糊" py="là,jiāo,hù" />
-		<definition id="二">
-			<item text="像粥一样的食物：辣椒~. [糊弄](-nong)1.敷衍，不认真做：做事不应该~~. 2.蒙混，欺骗：你不要~~人." />
-		</definition>
-	</char>
+	<!-- Ref:糊.xml <char hz="糊" py="hù" multi="hū,hú" /> -->
 	<char hz="笏" py="hù" />
 	<char hz="瓠" py="hù" />
 	<char hz="鄠" py="hù" />

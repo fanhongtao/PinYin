@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="啊" py="ā" multi="á,ǎ,à,a" main="1">
+		<phrase hz="啊哈" py="ā,hā" />
+		<phrase hz="啊呀" py="ā,yā" />
+		<phrase hz="啊哟" py="ā,yō" />
+		<phrase hz="啊唷" py="ā,yō" />
+		<definition id="一">
+			<item text="叹词，表示赞叹或惊异：~，这花多好哇！~，下雪了！" />
+		</definition>
+	</char>
+	<char hz="啊" py="á" multi="ā,ǎ,à,a">
+		<definition id="二">
+			<item text="叹词，表示追问：~，你说什么？~，你再说！" />
+		</definition>
+	</char>
+	<char hz="啊" py="ǎ" multi="ā,á,à,a">
+		<definition id="三">
+			<item text="叹词，表示疑惑：~，这是怎么回事？" />
+		</definition>
+	</char>
+	<char hz="啊" py="à" multi="ā,á,ǎ,a">
+		<definition id="四">
+			<item text="叹词。1.表示应诺或醒悟（音较短）：~，好吧. ~，原来是你呀！ 2.表示惊异或赞叹（音较长）：~，伟大的祖国！" />
+		</definition>
+	</char>
+	<char hz="啊" py="a" multi="ā,á,ǎ,à">
+		<definition id="五">
+			<item text="助词。1.用在句末，表示赞叹、催促、嘱咐等语气（常因前面字音不同而发生变音，可用不同的字来表示）：快些来~（呀）！您好~（哇）！同志们加油干~（哪）！ 2.用在列举的事项之后：纸~、笔~，摆满了一桌子." />
+		</definition>
+	</char>
+</pinyin>

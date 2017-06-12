@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嚄" py="huō" multi="ǒ" main="1">
+		<definition id="一">
+			<item text="叹词，表示惊讶：~，好大的水库！" />
+		</definition>
+	</char>
+	<char hz="嚄" py="ǒ" multi="huō">
+		<definition id="二">
+			<item text="叹词，表示惊讶：~，这是怎么搞的？" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="核" py="hé" multi="hú" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="果实中坚硬并包含果仁的部分。" />
+			<item id="2" text="像核的东西：菌~. 细胞~. [核酸]存在于生物体中的有机化合物，是生命的基本物质之一，对生物的生长、遗传、变异等起决定作用。 [核心]中心，主要部分：领导~~. ~~作用. [结核]传染病名，病原体是结核杆菌。" />
+			<item id="3" text="指原子核、核能、核武器等：~潜艇. ~试验. ~战争." />
+			<item id="4" text="仔细地对照、考察：~算. ~实." />
+		</definition>
+	</char>
+	<char hz="核" py="hú" multi="hé">
+		<definition id="二">
+			<item text="（-儿）义同“核(一)(1)(2)”，用于某些口语词，如杏核儿、煤核儿等。" />
+		</definition>
+	</char>
+</pinyin>

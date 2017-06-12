@@ -3,21 +3,7 @@
 	<char hz="噢" py="ō">
 		<phrase hz="噢哟" py="ō,yō" />
 	</char>
-	<char hz="哦" py="ó" multi="é,ò">
-		<definition id="一">
-			<item text="叹词，表示疑问、惊奇等：~，是这样的吗？ ~，是那么回事." />
-		</definition>
-	</char>
-	<char hz="嚄" py="ǒ" multi="huō">
-		<definition id="二">
-			<item text="叹词，表示惊讶：~，这是怎么搞的？" />
-		</definition>
-	</char>
-	<char hz="哦" py="ò" multi="é,ó" main="1">
-		<phrase hz="哦呵" py="ò,hē" info="表示惊奇、满意或羡慕" />
-		<phrase hz="哦唷" py="ò,yō" info="表示惊奇，有时表示讥笑" />
-		<definition id="二">
-			<item text="叹词，表示领会、醒悟：~，我明白了." />
-		</definition>
-	</char>
+	<!-- Ref:哦.xml <char hz="哦" py="ó" multi="é,ò" /> -->
+	<!-- Ref:嚄.xml <char hz="嚄" py="ǒ" multi="huō" /> -->
+	<!-- Ref:哦.xml <char hz="哦" py="ò" multi="é,ó" main="1" /> -->
 </pinyin>

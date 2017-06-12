@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="各" py="gě" multi="gè">
+		<definition id="二">
+			<item text="〈方〉特别，与众不同：那人挺~." />
+		</definition>
+	</char>
+	<char hz="各" py="gè" multi="gě" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="每个，彼此不同的：~种职业. ~处都有. ~不相同." />
+		</definition>
+	</char>
+</pinyin>

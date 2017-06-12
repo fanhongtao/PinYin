@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="搁" py="gē" multi="gé" main="1">
+		<phrase hz="担搁" py="dān,gē" info="耽误;拖延" />
+		<phrase hz="搁案" py="gē,àn" info="几案。" />
+		<phrase hz="搁板" py="gē,bǎn" info="置于柜内或固定壁上用以安放物件的板。" />
+		<phrase hz="搁笔" py="gē,bǐ" info="放下笔;[写作、绘画]停笔" />
+		<phrase hz="搁浅" py="gē,qiǎn" info="[船只] 进入水浅处，不能行驶;比喻事情遭到阻碍而中途停顿" />
+		<phrase hz="搁误" py="gē,wù" info="犹耽误。" />
+		<phrase hz="搁置" py="gē,zhì" info="指把事情无限期地闲置一旁（如不予考虑）。" />
+		<phrase hz="平搁" py="píng,gē" info="搁置，耽搁。" />
+		<phrase hz="延搁" py="yán,gē" info="拖延耽搁。" />
+		<definition id="一">
+			<item text="放，置：把书~下. 盐~在水里就化了. (引)耽搁，放在那里不做：这事~了一个月. [搁浅]船停滞在浅处，不能进退。(喻)事情停顿。" />
+		</definition>
+	</char>
+	<char hz="搁" py="gé" multi="gē">
+		<phrase hz="搁不住" py="gé,bú,zhù" />
+		<definition id="二">
+			<item text="禁(jīn)受，承受：~不住这么沉. ~不住揉搓." />
+		</definition>
+	</char>
+</pinyin>

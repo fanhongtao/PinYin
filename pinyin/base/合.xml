@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="合" py="gě" multi="hé">
+		<definition id="二">
+			<item id="1" text="市制容量单位，一升的十分之一。" />
+			<item id="2" text="旧时量粮食的器具。" />
+		</definition>
+	</char>
+	<char hz="合" py="hé" multi="gě" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="闭，对拢：~眼. ~抱. ~围（四面包围）. [合龙]修筑堤坝或桥梁时从两端施工，最后在中间接合。 [合口呼]u韵母和以u开头的韵母叫作“合口呼”。" />
+			<item id="2" text="聚，集：~力. ~办. ~唱. [合同]两方或多方为经营事业或在特定的工作中规定彼此权利和义务所订的共同遵守的条文：产销~~. [合作]同心协力做某事。 [合作社]根据互相合作的原则自愿建立起来的经济组织，按经营业务的不同，可以分为生产合作社、信用合作社等。" />
+			<item id="3" text="总共，全：~计. ~家." />
+			<item id="4" text="不违背，一事物与另一事物相应或相符：~格. ~法. ~理. (引)应该：理~声明." />
+			<item id="5" text="计，折算：这件衣服做成了~多少钱？ 一米~多少市尺？" />
+			<item id="6" text="旧时乐谱记音符号的一个，相当于简谱中的低音“5”。" />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

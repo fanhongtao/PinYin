@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="阿" py="ā" multi="ē" main="1">
+		<phrase hz="阿巴贡" py="ā,bā,gòng" info="法国莫里哀喜剧《吝啬鬼》中的人物。" />
+		<phrase hz="阿爸" py="ā,bà" info="爸爸" />
+		<phrase hz="阿鼻" py="ā,bí" info="阿鼻地狱" />
+		<phrase hz="阿波罗" py="ā,bō,luó" info="希腊神话中的太阳神。" />
+		<phrase hz="阿布贾" py="ā,bù,jiǎ" info="尼日利亚首都。" />
+		<phrase hz="阿昌族" py="ā,chāng,zú" info="中国少数民族之一。" />
+		<phrase hz="阿大" py="ā,dà" />
+		<phrase hz="阿斗" py="ā,dǒu" info="三国时期蜀汉后主刘禅的小名。" />
+		<phrase hz="阿尔卑斯" py="ā,ěr,bēi,sī" />
+		<phrase hz="阿尔法" py="ā,ěr,fǎ" info="希腊字母α的音译" />
+		<phrase hz="阿尔泰" py="ā,ěr,tài" info="阿尔泰山脉，位于中国新疆维吾尔自治区北部和蒙古国西部。西北延伸至俄罗斯境内。" />
+		<phrase hz="阿凡提" py="ā,fán,tí" />
+		<phrase hz="阿飞" py="ā,fēi" />
+		<phrase hz="阿芙蓉" py="ā,fú,róng" info="鸦片" />
+		<phrase hz="阿富汗" py="ā,fù,hàn" />
+		<phrase hz="阿哥" py="ā,gē" />
+		<phrase hz="阿根廷" py="ā,gēn,tíng" />
+		<phrase hz="阿公" py="ā,gōng" />
+		<phrase hz="阿訇" py="ā,hōng" info="伊斯兰教宗教职业者的通称。" />
+		<phrase hz="阿基米德" py="ā,jī,mǐ,dé" info="古希腊学者" />
+		<phrase hz="阿拉伯" py="ā,lā,bó" />
+		<phrase hz="阿罗汉" py="ā,luó,hàn" />
+		<phrase hz="阿妈" py="ā,mā" />
+		<phrase hz="阿门" py="ā,mén" info="犹太教、基督宗教的宗教用语" />
+		<phrase hz="阿盟" py="ā,méng" info="阿拉伯国家联盟的简称" />
+		<phrase hz="阿妹" py="ā,mèi" />
+		<phrase hz="阿弥陀" py="ā,mí,tuó" />
+		<phrase hz="阿弥陀佛" py="ā,mí,tuó,fó" />
+		<phrase hz="阿米巴" py="ā,mǐ,bā" />
+		<phrase hz="阿姆斯特丹" py="ā,mǔ,sī,tè,dān" />
+		<phrase hz="阿片" py="ā,piàn" info="鸦片" />
+		<phrase hz="阿婆" py="ā,pó" />
+		<phrase hz="阿司匹林" py="ā,sī,pǐ,lín" />
+		<phrase hz="阿嚏" py="ā,tì" info="象声词，打喷嚏的声音" />
+		<phrase hz="阿童木" py="ā,tóng,mù" info="日本漫画人物" />
+		<phrase hz="阿姨" py="ā,yí" />
+		<phrase hz="阿育王" py="ā,yù,wáng" />
+		<phrase hz="吴下阿蒙" py="wú,xià,ā,méng" />
+		<definition id="一">
+			<item text="〈方〉词头。1. 加在排行、小名或姓的前面：~大. ~根. ~王. 2. 加在某些亲属称谓的前面: ~妹. ~公." />
+		</definition>
+	</char>
+	<char hz="阿" py="ē" multi="ā">
+		<phrase hz="东阿" py="dōng,ē" info="山东省聊城市东阿县" />
+		<phrase hz="阿堵" py="ē,dǔ" />
+		<phrase hz="阿附" py="ē,fù" />
+		<phrase hz="阿胶" py="ē,jiāo" />
+		<phrase hz="阿房宫" py="ē,páng,gōng" />
+		<phrase hz="阿其所好" py="ē,qí,suǒ,hǎo" />
+		<phrase hz="阿其那" py="ē,qí,nà" info="满语“akina”的音译。旧说是狗的意思。" />
+		<phrase hz="阿谀" py="ē,yú" />
+		<phrase hz="刚正不阿" py="gāng,zhèng,bù,ē" />
+		<phrase hz="山阿" py="shān,ē" />
+		<definition id="二">
+			<item id="1" text="迎合，偏袒：~附. ~其所好. ~谀逢迎." />
+			<item id="2" text="凹曲处：山~" />
+			<item text="[阿胶]中药名，用驴皮加水熬成的胶，有滋补养血的作用，原产山东省东阿。" />
+		</definition>
+	</char>
+</pinyin>
