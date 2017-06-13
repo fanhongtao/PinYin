@@ -2,11 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="迂" py="yū" />
 	<char hz="纡" py="yū" />
-	<char hz="於" py="yū" multi="wū,yú" info="Word主音">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:於.xml <char hz="於" py="yū" multi="wū,yú" info="Word主音" /> -->
 	<char hz="淤" py="yū" />
 	<char hz="瘀" py="yū" />
 	<char hz="于" py="yú">
@@ -17,11 +13,7 @@
 	</char>
 	<char hz="盂" py="yú" />
 	<char hz="竽" py="yú" />
-	<char hz="与" py="yú" multi="yǔ,yù">
-		<definition id="三">
-			<item text="同“欤”。" />
-		</definition>
-	</char>
+	<!-- Ref:与.xml <char hz="与" py="yú" multi="yǔ,yù" /> -->
 	<char hz="玙" py="yú">
 		<phrase hz="玙璠" py="yú,fán" />
 	</char>
@@ -31,11 +23,7 @@
 			<item id="2" text="表示感叹语气：论者之言，一倾管窥虎~！" />
 		</definition>
 	</char>
-	<char hz="予" py="yú" multi="yǔ" main="1">
-		<definition id="一">
-			<item text="文言代词，我。" />
-		</definition>
-	</char>
+	<!-- Ref:予.xml <char hz="予" py="yú" multi="yǔ" main="1" /> -->
 	<char hz="妤" py="yú" />
 	<char hz="余" py="yú">
 		<phrase hz="余兴" py="yú,xìng" />
@@ -56,11 +44,7 @@
 	<char hz="腴" py="yú" />
 	<char hz="鱼" py="yú" />
 	<char hz="渔" py="yú" />
-	<char hz="於" py="yú" multi="wū,yū" main="1">
-		<definition id="一">
-			<item text="同“于(1)”。" />
-		</definition>
-	</char>
+	<!-- Ref:於.xml <char hz="於" py="yú" multi="wū,yū" main="1" /> -->
 	<char hz="禺" py="yú" />
 	<char hz="隅" py="yú" />
 	<char hz="喁" py="yú" multi="yōng" info="Word主音">
@@ -97,55 +81,19 @@
 	<char hz="雩" py="yú" />
 	<char hz="舆" py="yú" />
 	<char hz="" py="yú" />
-	<char hz="与" py="yǔ" multi="yú,yù" main="1" suppressLog="1">
-		<phrase hz="施与" py="shī,yǔ" info="给予恩惠、财物等" />
-		<phrase hz="相与" py="xiāng,yǔ" info="1.相偕、相互。 2.結交。 3.朋友，交情好的人。" />
-		<phrase hz="与共" py="yǔ,gòng" info="无论发生什么事都不分开" />
-		<phrase hz="与其" py="yǔ,qí" info="在比较两件事的利害得失而决定取舍时，表示放弃或不赞成的一面" />
-		<phrase hz="赠与" py="zèng,yǔ" info="赠送;法律上指把自己的财产无条件地转移给他人;作为经济上的援助所给与的货币或财产。也作赠予" />
-		<definition id="一">
-			<item id="1" text="介词，跟：~疾病作斗争. ~虎谋皮." />
-			<item id="2" text="连词，和：批评~自我批评. 父亲~母亲都来." />
-			<item id="3" text="给：赠~. 交~本人. ~人方便." />
-			<item id="4" text="交往，交好：此人易~. 相~. ~国（相交好的国家）." />
-			<item id="5" text="赞助：~人为善（原指赞助人学好，后多指善意助人）." />
-			<item text="[与其]连词，常跟“宁”、“宁可”、“不如”、“不若”等连胜，表示比较：~~坐车，不如坐船." />
-		</definition>
-	</char>
+	<!-- Ref:与.xml <char hz="与" py="yǔ" multi="yú,yù" main="1" suppressLog="1" /> -->
 	<char hz="屿" py="yǔ" />
-	<char hz="予" py="yǔ" multi="yú">
-		<phrase hz="赐予" py="cì,yǔ" info="1.作为一项恩惠而授予，恩赐 2.恩赐，赏给" />
-		<phrase hz="赋予" py="fù,yǔ" info="交给重任，使命等" />
-		<phrase hz="寄予" py="jì,yǔ" info="给予关怀、同情等" />
-		<phrase hz="授予" py="shòu,yǔ" info="郑重地给予" />
-		<phrase hz="予夺" py="yǔ,duó" info="1.给予和剥夺 2.指赞许和贬低" />
-		<phrase hz="予以" py="yǔ,yǐ" info="给以" />
-		<phrase hz="准予" py="zhǔn,yǔ" info="表示准许;同意" />
-		<definition id="二">
-			<item text="给予：授~奖状. ~以协助. ~以处分." />
-		</definition>
-	</char>
+	<!-- Ref:予.xml <char hz="予" py="yǔ" multi="yú" /> -->
 	<char hz="伛" py="yǔ">
 		<phrase hz="伛偻" py="yǔ,lǚ" />
 	</char>
 	<char hz="宇" py="yǔ" />
 	<char hz="羽" py="yǔ" />
-	<char hz="雨" py="yǔ" multi="yù" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="空气中的水蒸气上升到天空中遇冷凝成云，再遇冷聚集成大水点落下来就是雨。" />
-		</definition>
-	</char>
+	<!-- Ref:雨.xml <char hz="雨" py="yǔ" multi="yù" main="1" suppressLog="1" /> -->
 	<char hz="俣" py="yǔ" />
 	<char hz="禹" py="yǔ" />
 	<char hz="瑀" py="yǔ" />
-	<char hz="语" py="yǔ" multi="yù" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="话（(连)-言）：成~. ~文. 外国~." />
-			<item id="2" text="谚语或古语：~云." />
-			<item id="3" text="代替语言的动作或方式：手~. 旗~." />
-			<item id="4" text="说：不言不~. 默默不~." />
-		</definition>
-	</char>
+	<!-- Ref:语.xml <char hz="语" py="yǔ" multi="yù" main="1" suppressLog="1" /> -->
 	<char hz="圄" py="yǔ" />
 	<char hz="敔" py="yǔ" />
 	<char hz="龉" py="yǔ" />
@@ -154,26 +102,12 @@
 	<char hz="瘐" py="yǔ" />
 	<char hz="㺄" py="yǔ" />
 	<char hz="窳" py="yǔ" />
-	<char hz="与" py="yù" multi="yú,yǔ">
-		<phrase hz="参与" py="cān,yù" info="预闻而参议其事；介入，参加。" />
-		<phrase hz="与会" py="yù,huì" info="到会" />
-		<phrase hz="与闻" py="yù,wén" info="参与并知道[内情]" />
-		<definition id="二">
-			<item text="参与，参加：~会. ~闻此事（参与并且得知此事的内情）." />
-		</definition>
-	</char>
+	<!-- Ref:与.xml <char hz="与" py="yù" multi="yú,yǔ" /> -->
 	<char hz="玉" py="yù" />
 	<char hz="钰" py="yù" />
 	<char hz="驭" py="yù" />
 	<char hz="芋" py="yù" />
-	<char hz="吁" py="yù" multi="xū">
-		<phrase hz="呼吁" py="hū,yù" info="1.因痛苦而呼号求助 2.今指某项主张，公开要求大众的支持为呼吁" />
-		<phrase hz="吁请" py="yù,qǐng" info="呼吁请求。" />
-		<phrase hz="吁求" py="yù,qiú" info="呼吁并恳求" />
-		<definition id="二">
-			<item text="为某种要求而呼喊：~请. 大声呼~." />
-		</definition>
-	</char>
+	<!-- Ref:吁.xml <char hz="吁" py="yù" multi="xū" /> -->
 	<char hz="聿" py="yù" />
 	<char hz="谷" py="yù" multi="gǔ">
 		<phrase hz="吐谷浑" py="tǔ,yù,hún" />
@@ -188,11 +122,7 @@
 	<char hz="裕" py="yù" />
 	<char hz="饫" py="yù" />
 	<char hz="妪" py="yù" />
-	<char hz="雨" py="yù" multi="yǔ">
-		<definition id="二">
-			<item text="下（雨雪）：~雪." />
-		</definition>
-	</char>
+	<!-- Ref:雨.xml <char hz="雨" py="yù" multi="yǔ" /> -->
 	<char hz="郁" py="yù">
 		<phrase hz="馥郁" py="fù,yù" />
 	</char>
@@ -202,12 +132,7 @@
 	<char hz="昱" py="yù" />
 	<char hz="煜" py="yù" />
 	<char hz="狱" py="yù" />
-	<char hz="语" py="yù" multi="yǔ">
-		<phrase hz="不可语人" py="bù,kě,yù,rén" />
-		<definition id="二">
-			<item text="告诉：不以~人." />
-		</definition>
-	</char>
+	<!-- Ref:语.xml <char hz="语" py="yù" multi="yǔ" /> -->
 	<char hz="彧" py="yù" />
 	<char hz="域" py="yù" />
 	<char hz="阈" py="yù" />
@@ -220,21 +145,8 @@
 	<char hz="谕" py="yù" />
 	<char hz="喻" py="yù" />
 	<char hz="愈" py="yù" />
-	<char hz="尉" py="yù" multi="wèi">
-		<phrase hz="尉迟" py="yù,chí" />
-		<phrase hz="尉犁" py="yù,lí" />
-		<definition id="二">
-			<item text="[尉迟]复姓。 [尉犁]地名，在新疆维吾尔自治区。" />
-		</definition>
-	</char>
-	<char hz="蔚" py="yù" multi="wèi">
-		<phrase hz="蔚县" py="yù,xiàn" />
-		<phrase hz="蔚蔚" py="yù,yù" info="1.同“鬱鬱”。茂盛貌。 2.抑郁。" />
-		<definition id="二">
-			<item id="1" text="蔚县，在河北省。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:尉.xml <char hz="尉" py="yù" multi="wèi" /> -->
+	<!-- Ref:蔚.xml <char hz="蔚" py="yù" multi="wèi" /> -->
 	<char hz="熨" py="yù" multi="yùn">
 		<phrase hz="熨帖" py="yù,tiē" />
 		<phrase hz="熨贴" py="yù,tiē" />

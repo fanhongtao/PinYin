@@ -8,22 +8,10 @@
 	<char hz="污" py="wū" />
 	<char hz="巫" py="wū" />
 	<char hz="诬" py="wū" />
-	<char hz="於" py="wū" multi="yū,yú">
-		<phrase hz="於乎" py="wū,hū" />
-		<phrase hz="於戏" py="wū,hū" />
-		<phrase hz="於菟" py="wū,tú" />
-		<definition id="三">
-			<item text="文言叹词。[於乎][於戏](-hū)同“呜呼”。" />
-			<item text="[於菟](-tú)〈古〉老虎的别称。" />
-		</definition>
-	</char>
+	<!-- Ref:於.xml <char hz="於" py="wū" multi="yū,yú" /> -->
 	<char hz="屋" py="wū" />
 	<!-- Ref:恶.xml <char hz="恶" py="wū" multi="ě,è,wù" /> -->
-	<char hz="亡" py="wú" multi="wáng">
-		<definition id="二">
-			<item text="古同“无”。" />
-		</definition>
-	</char>
+	<!-- Ref:亡.xml <char hz="亡" py="wú" multi="wáng" /> -->
 	<char hz="无" py="wú">
 		<definition>
 			<item id="1" text="没有，跟“有”相对：~产阶级. 从~到有." />

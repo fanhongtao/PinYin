@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="危" py="wēi" />
-	<char hz="委" py="wēi" multi="wěi">
-		<phrase hz="委蛇" py="wēi,yí" />
-		<definition id="二">
-			<item text="[委蛇](-yí)1.敷衍，应付：虚与~~. 2.同“逶迤”。" />
-		</definition>
-	</char>
+	<!-- Ref:委.xml <char hz="委" py="wēi" multi="wěi" /> -->
 	<char hz="逶" py="wēi">
 		<phrase hz="逶迤" py="wēi,yí" />
 		<definition>
@@ -18,12 +13,7 @@
 	<char hz="葳" py="wēi">
 		<phrase hz="葳蕤" py="wēi,ruí" />
 	</char>
-	<char hz="崴" py="wēi" multi="wǎi">
-		<phrase hz="崴嵬" py="wēi,wéi" />
-		<definition id="二">
-			<item text="[崴嵬](-wéi)山高的样子。" />
-		</definition>
-	</char>
+	<!-- Ref:崴.xml <char hz="崴" py="wēi" multi="wǎi" /> -->
 	<char hz="偎" py="wēi" />
 	<char hz="隈" py="wēi" />
 	<char hz="煨" py="wēi" />
@@ -37,343 +27,11 @@
 	<char hz="帏" py="wéi" />
 	<char hz="闱" py="wéi" />
 	<char hz="涠" py="wéi" />
-	<char hz="为" py="wéi" multi="wèi" main="1">
-		<phrase hz="败者为寇" py="bài,zhě,wéi,kòu" info="见“胜者为王”。" />
-		<phrase hz="邦以民为本" py="bāng,yǐ,mín,wéi,běn" info="古代儒家民本思想的一种反映，认为万民百姓是国家的根本。治国应以安民、得民作为根本。" />
-		<phrase hz="逼良为娼" py="bī,liáng,wéi,chāng" info="1.指强迫良家妇女卖淫。 2.比喻被迫做某件坏事。" />
-		<phrase hz="并为一谈" py="bìng,wéi,yì,tán" info="把不同的事物混在一起，当作同样的事物谈论。" />
-		<phrase hz="步步为营" py="bù,bù,wéi,yíng" info="步：古时以五尺为一步，“步步”表示距离短。 军队每向前推进一步就设下一首营垒。形容防守严密，行动谨慎。" />
-		<phrase hz="不得已而为之" py="bù,dé,yǐ,ér,wéi,zhī" info="没有办法，只能这样做。" />
-		<phrase hz="不为牛后" py="bù,wéi,niú,hòu" info="“宁为鸡口，不为牛后”：牛后:牛的肛门。 宁愿做小而洁的鸡嘴，而不愿做大而臭的牛肛门。比喻宁在局面小的地方自主，不愿在局面大的地方听人支配。" />
-		<phrase hz="不为人知" py="bù,wéi,rén,zhī" info="不被人所知道了解。" />
-		<phrase hz="不为瓦全" py="bù,wéi,wǎ,quán" info="见“宁为玉碎”。" />
-		<phrase hz="不相为谋" py="bù,xiāng,wéi,móu" info="谋：商量。相互之间没法商量。指彼此观点不同，不宜共同谋划事情。" />
-		<phrase hz="不以为耻" py="bù,yǐ,wéi,chǐ" info="不认为是可耻的。指不知羞耻。" />
-		<phrase hz="不以为然" py="bù,yǐ,wéi,rán" info="然：是，对。 不认为是对的。表示不同意或否定。" />
-		<phrase hz="不以为意" py="bù,yǐ,wéi,yì" info="不把它放在心上。表示对人、对事抱轻视态度。" />
-		<phrase hz="不知为不知" py="bù,zhī,wéi,bù,zhī" info="见“知之为知之”。" />
-		<phrase hz="不足为据" py="bù,zú,wéi,jù" info="足：够得上；据：证据。不能作为依据。" />
-		<phrase hz="不足为虑" py="bù,zú,wéi,lǜ" info="不值得忧虑担心。" />
-		<phrase hz="不足为凭" py="bù,zú,wéi,píng" info="不能作为凭据" />
-		<phrase hz="不足为奇" py="bù,zú,wéi,qí" info="足：值得。不值得奇怪。指某种事物或现象很平常，没有什么奇怪的。" />
-		<phrase hz="不足为外人道" py="bù,zú,wéi,wài,rén,dào" info="不必跟外面的人说。 现多用于要求别人不要把有关的事告诉其他的人。" />
-		<phrase hz="不足为训" py="bù,zú,wéi,xùn" info="足：够得上；训：法则，典范。不值得作为效法的准则或榜样。" />
-		<phrase hz="称为" py="chēng,wéi" info="变成。" />
-		<phrase hz="成为" py="chéng,wéi" info="1.叫做 2.用明确的名称、术语或措词把…叫做" />
-		<phrase hz="逞性妄为" py="chěng,xìng,wàng,wéi" info="由着性子胡来。 也指坏人任意干坏事。" />
-		<phrase hz="齿牙为祸" py="chǐ,yá,wéi,huò" info="齿牙：比喻谗言。指谗言拨弄，造成灾祸。" />
-		<phrase hz="除非己莫为" py="chú,fēi,jǐ,mò,wéi" info="“若要人不知，除非己莫为”：要想人家不知道，除非自己不去做。指干了坏事终究要暴露。" />
-		<phrase hz="传为美谈" py="chuán,wéi,měi,tán" info="美谈：人们津津乐道的好事。 指传扬开去，成为人们赞美、称颂的事情。" />
-		<phrase hz="传为笑柄" py="chuán,wéi,xiào,bǐng" info="笑柄：被人取笑的材料。流传开去被人们当作取笑的资料。" />
-		<phrase hz="慈悲为本" py="cí,bēi,wéi,běn" info="慈悲：慈善和怜悯。原佛教语，以恻隐怜悯之心为根本。" />
-		<phrase hz="慈悲为怀" py="cí,bēi,wéi,huái" info="慈悲：慈善和怜悯。 原佛教语，以恻隐怜悯之心为根本。" />
-		<phrase hz="摧刚为柔" py="cuī,gāng,wéi,róu" info="摧：挫败。变刚强为柔顺。" />
-		<phrase hz="大有作为" py="dà,yǒu,zuò,wéi" info="作为：做出成绩。 能够极大地发挥作用，作一番贡献。" />
-		<phrase hz="代为" py="dài,wéi" info="代替别人做(某事)" />
-		<phrase hz="胆大妄为" py="dǎn,dà,wàng,wéi" info="妄为：胡搞，乱做。毫无顾忌地干坏事。" />
-		<phrase hz="党豺为虐" py="dǎng,chái,wéi,nüè" info="党：结成团伙；豺：一种凶恶的野兽，常比喻凶残的人。虐：残暴。与凶残的人结成团伙做残害人的勾当。" />
-		<phrase hz="到此为止" py="dào,cǐ,wéi,zhǐ" info="以这里为界限" />
-		<phrase hz="倒果为因" py="dào,guǒ,wéi,yīn" info="果：结果；因：原因。把结果当成原因，颠倒了因果关系。" />
-		<phrase hz="倒因为果" py="dǎo,yīn,wéi,guǒ" info="颠倒因果关系，把原因说成结果。" />
-		<phrase hz="多文为富" py="duō,wén,wéi,fù" info="以多学知识、技能为富有。" />
-		<phrase hz="耳听为虚" py="ěr,tīng,wéi,xū" info="见“眼见为实”。" />
-		<phrase hz="二竖为虐" py="èr,shù,wéi,nüè" info="春秋時晉侯病重，夢到病症化為二個小孩在對話，說要逃到膏肓之間，使良醫來了也無可奈何。典出左傳．成公十年。後遂以二豎為虐比喻病魔纏身。" />
-		<phrase hz="翻手为云" py="fān,shǒu,wéi,yún" info="“翻手为云，覆手为雨”：形容人反复无常或惯于耍手段。" />
-		<phrase hz="反败为胜" py="fǎn,bài,wéi,shèng" info="扭转败局，变为胜利。" />
-		<phrase hz="反客为主" py="fǎn,kè,wéi,zhǔ" info="客人反过来成为主人。比喻变被动为主动。" />
-		<phrase hz="反劳为逸" py="fǎn,láo,wéi,yì" info="劳：疲劳；逸：安闲，休息。把疲劳转化为安逸。" />
-		<phrase hz="反以为荣" py="fǎn,yǐ,wéi,róng" info="“不以为耻，反以为荣”：不认为是耻辱，反而以为是光荣的。" />
-		<phrase hz="分为" py="fēn,wéi" info="判断；断定。" />
-		<phrase hz="奋发有为" py="fèn,fā,yǒu,wéi" info="奋发：精神振作。精神振作，有所作为。" />
-		<phrase hz="奉为圭臬" py="fèng,wéi,guī,niè" info="奉：信奉；圭：测日影器；臬：射箭的靶子；圭臬：比喻事物的准则。 比喻把某些言论或事当成自己的准则。" />
-		<phrase hz="奉为楷模" py="fèng,wéi,kǎi,mó" info="楷：法式；模：模范。把某种事物当作榜样。 比喻把某些言论或事当成自己的准则。" />
-		<phrase hz="奉为神明" py="fèng,wéi,shén,míng" info="形容对某人或事物极其认同" />
-		<phrase hz="奉为至宝" py="fèng,wéi,zhì,bǎo" info="奉：信奉，敬奉；至宝：最珍贵的宝物。敬奉为最珍贵的宝物。" />
-		<phrase hz="福为祸始" py="fú,wéi,huò,shǐ" info="指福与祸没有定数，享福太甚就隐伏着祸端。亦作“福为祸先”。" />
-		<phrase hz="福为祸先" py="fú,wéi,huò,xiān" info="指福与祸没有定数，享福太甚就隐伏着祸端。 同“福为祸始”。" />
-		<phrase hz="覆手为雨" py="fù,shǒu,wéi,yǔ" info="见“翻手为云”。" />
-		<phrase hz="改为" py="gǎi,wéi" info="1.另制；重造。2.改成。 3.改换；变动。为，通“譌”。" />
-		<phrase hz="敢想敢为" py="gǎn,xiǎng,gǎn,wéi" info="敢于冲破某种束缚去思考问题和发表见解并付诸于行动" />
-		<phrase hz="敢作敢为" py="gǎn,zuò,gǎn,wéi" info="形容做事无所畏惧。" />
-		<phrase hz="敢做敢为" py="gǎn,zuò,gǎn,wéi" info="做事勇敢,无所畏惧" />
-		<phrase hz="各自为战" py="gè,zì,wéi,zhàn" info="各自成为独立的单位进行战斗。" />
-		<phrase hz="各自为政" py="gè,zì,wéi,zhèng" info="为政：管理政事，泛指行事。各自按自己的主张办事，不互相配合。比喻不考虑全局，各搞一套。" />
-		<phrase hz="攻心为上" py="gōng,xīn,wéi,shàng" info="以德化、智略等勝敵為上策。" />
-		<phrase hz="古为今用" py="gǔ,wéi,jīn,yòng" info="吸收古代的优点，扬弃缺点，以使现代更进步。" />
-		<phrase hz="挂席为门" py="guà,xí,wéi,mén" info="指隐士居处。亦形容贫穷或居处简陋。" />
-		<phrase hz="过为已甚" py="guò,wéi,yǐ,shèn" info="过：过分；为：做；已甚：过头。做得太过分。" />
-		<phrase hz="旱魃为虐" py="hàn,bá,wéi,nüè" info="古時迷信鬼神，認為旱災乃旱神為虐作怪所引起。後用以指大地發生旱災。" />
-		<phrase hz="好为人师" py="hào,wéi,rén,shī" info="喜欢当别人的教师。形容不谦虚，自以为是，爱摆老资格。" />
-		<phrase hz="好为事端" py="hào,wéi,shì,duān" info="喜欢惹事生非。" />
-		<phrase hz="合而为一" py="hé,ér,wéi,yī" info="把散乱的事物合在一起。" />
-		<phrase hz="合二为一" py="hé,èr,wéi,yī" info="指将两者合为一个整体。" />
-		<phrase hz="何乐不为" py="hé,lè,bù,wéi" info="乐：乐意；为：做。有什么不乐于去做的呢？表示愿意去做。" />
-		<phrase hz="何乐而不为" py="hé,lè,ér,bù,wéi" info="有什么不乐于去做的呢？表示愿意去做。" />
-		<phrase hz="何为" py="hé,wéi" info="1.为什么，何故。2.干什么，做什么。用于询问。3.是什么。" />
-		<phrase hz="胡为" py="hú,wéi" info="1.為什麼。 2.胡作妄為。" />
-		<phrase hz="胡作非为" py="hú,zuò,fēi,wéi" info="胡：乱；非：不对。 不顾法纪或舆论，毫无顾忌地做坏事。" />
-		<phrase hz="互为表里" py="hù,wéi,biǎo,lǐ" info="甲为乙的外表，乙为甲的内里。 比喻互相依存，互相接受。" />
-		<phrase hz="互为因果" py="hù,wéi,yīn,guǒ" info="原因和结果相互联系，相互转化。" />
-		<phrase hz="户限为穿" py="hù,xiàn,wéi,chuān" info="户限：门槛；为：被。门槛都踩破了。形容进出的人很多。" />
-		<phrase hz="华为" py="huá,wéi" />
-		<phrase hz="画地为牢" py="huà,dì,wéi,láo" info="在地上画一个圈当做监狱。比喻只许在指定的范围内活动。" />
-		<phrase hz="化腐朽为神奇" py="huà,fǔ,xiǔ,wéi,shén,qí" info="神奇：神妙奇特的东西。变坏为好，变死板为灵巧，变无用为有用。" />
-		<phrase hz="化干戈为玉帛" py="huà,gān,gē,wéi,yù,bó" info="干戈：指打仗；玉帛：玉器和丝织品，指和好。比喻使战争转变为和平。" />
-		<phrase hz="化零为整" py="huà,líng,wéi,zhěng" info="把零散的部分集中为一个整体。" />
-		<phrase hz="化为泡影" py="huà,wéi,pào,yǐng" info="泡：水泡。变成像水泡和影子那样，很快就消失。" />
-		<phrase hz="化为乌有" py="huà,wéi,wū,yǒu" info="乌有：哪有，何有。变得什么都没有。指全部消失或完全落空。" />
-		<phrase hz="化险为夷" py="huà,xiǎn,wéi,yí" info="险：险阻；夷：平坦。化危险为平安。比喻转危为安。" />
-		<phrase hz="化整为零" py="huà,zhěng,wéi,líng" info="把一个整体分成许多零散部分。" />
-		<phrase hz="淮橘为枳" py="huái,jú,wéi,zhǐ" info="淮南的橘树，移植到淮河以北就变为枳树。 比喻环境变了，事物的性质也变了。" />
-		<phrase hz="混为一谈" py="hùn,wéi,yī,tán" info="把不同的事物混在一起，当作同样的事物谈论。" />
-		<phrase hz="祸为福先" py="huò,wéi,fú,xiān" info="指受尽灾祸之后好运就会降临。 多用于劝慰受难之人。" />
-		<phrase hz="饥者易为食" py="jī,zhě,yì,wéi,shí" info="“饥者易为食，渴者易为饮”：饥饿的人什么食物都可以吃，口渴的人什么饮品都可以喝。比喻需要急迫的人容易满足。" />
-		<phrase hz="见义勇为" py="jiàn,yì,yǒng,wéi" info="看到正义的事，就勇敢地去做。" />
-		<phrase hz="较为" py="jiào,wéi" info="表示某事物或某种行动在对比中程度上更进了一层，相当于较、比较，多见于书面语" />
-		<phrase hz="金石为开" py="jīn,shí,wéi,kāi" info="金石：金属和石头，比喻最坚硬的东西。 连金石都被打开了。形容一个人心诚志坚，力量无穷。" />
-		<phrase hz="尽力而为" py="jìn,lì,ér,wéi" info="尽：全部用出。 用全部的力量去做。" />
-		<phrase hz="九鼎不足为重" py="jiǔ,dǐng,bù,zú,wéi,zhòng" info="形容说话有分量，比较起来九鼎也不算重。" />
-		<phrase hz="橘化为枳" py="jú,huà,wéi,zhǐ" info="比喻人由于环境的影响而变坏。" />
-		<phrase hz="聚米为谷" py="jù,mǐ,wéi,gǔ" info="比喻指划形势，运筹决策。" />
-		<phrase hz="聚米为山" py="jù,mǐ,wéi,shān" info="东汉马援堆米成山，以代地形模型，给皇帝分析军事形势、进军计划，讲得十分明了。指形象地陈述军事形势，险要的地形。" />
-		<phrase hz="据为己有" py="jù,wéi,jǐ,yǒu" info="将别人的东西拿来作为自己的。" />
-		<phrase hz="康有为" py="kāng,yǒu,wéi" info="(1858.3.19-1927.3.21) 中国近代思想家、戊戌变法运动的领袖、学者。" />
-		<phrase hz="抗颜为师" py="kàng,yán,wéi,shī" info="抗颜：不看别人脸色，态度严正不屈；为师：为人师表。 不为他人所制约，不为潮流所左右，这种意志坚定的人可以作为学习的榜样。" />
-		<phrase hz="渴者易为饮" py="kě,zhě,yì,wéi,yǐn" info="见“饥者易为食”。" />
-		<phrase hz="刻木为吏" py="kè,mù,wéi,lì" info="意思是不能受狱吏的污辱，即使是木头做的狱吏也不能见他。 形容狱吏的凶暴可畏。" />
-		<phrase hz="宽大为怀" py="kuān,dà,wéi,huái" info="对人抱着宽大的胸怀。" />
-		<phrase hz="狼狈为奸" py="láng,bèi,wéi,jiān" info="狼和狈一同出外伤害牲畜，狼用前腿，狈用后腿，既跑得快，又能爬高。比喻互相勾结干坏事。" />
-		<phrase hz="老而不死是为贼" py="lǎo,ér,bù,sǐ,shì,wéi,zéi" info="語出論語．憲問：「子曰：『幼而不孫弟，長而無述焉，老而不死是為賊。』」責罵老而無德行者的話。" />
-		<phrase hz="老马为驹" py="lǎo,mǎ,wéi,jū" info="比喻待老人如幼兒般輕視。 亦用以比喻年老而仍有壯志。" />
-		<phrase hz="历精为治" py="lì,jīng,wéi,zhì" info="振奋精神，治理好国家。" />
-		<phrase hz="两世为人" py="liǎng,shì,wéi,rén" info="好像重新来到人间。形容在非常危险的情况中幸存下来。" />
-		<phrase hz="量才而为" py="liàng,cái,ér,wéi" info="按照自己力量的大小去做，不要勉强。" />
-		<phrase hz="量出为入" py="liàng,chū,wéi,rù" info="根据支出来决定征收的数量" />
-		<phrase hz="量力而为" py="liàng,lì,ér,wéi" info="量：估量。按照自己力量的大小去做，不要勉强。" />
-		<phrase hz="量入为出" py="liàng,rù,wéi,chū" info="量：计量。 根据收入的多少来定开支的限度。" />
-		<phrase hz="碌碌无为" py="lù,lù,wú,wéi" info="平平庸庸，无所作为。" />
-		<phrase hz="落草为寇" py="luò,cǎo,wéi,kòu" info="寇：盗贼。旧指逃入山林做强盗。" />
-		<phrase hz="落发为僧" py="luò,fà,wéi,sēng" info="剃光头发做僧人" />
-		<phrase hz="略为" py="lüè,wéi" info="用在形容词或动词前面，表示程度轻微，时间短促或数量不多，用法同略" />
-		<phrase hz="卖文为生" py="mài,wén,wéi,shēng" info="指以出卖诗文所得来维持生计。" />
-		<phrase hz="民以食为本" py="mín,yǐ,shí,wéi,běn" info="民众以粮食为根本" />
-		<phrase hz="民以食为天" py="mín,yǐ,shí,wéi,tiān" info="天：比喻赖以生存的最重要的东西。人民以粮食为自己生活所系。指民食的重要。" />
-		<phrase hz="莫此为甚" py="mò,cǐ,wéi,shèn" info="没有什么能超过这个的了。多指不良倾向或形势严重。" />
-		<phrase hz="莫知所为" py="mò,zhī,suǒ,wéi" info="形容情緒激動，不知道怎麼辦才好。" />
-		<phrase hz="谋为不轨" py="móu,wéi,bù,guǐ" info="指准备做违反法纪的事或搞叛乱活动。" />
-		<phrase hz="难以为继" py="nán,yǐ,wéi,jì" info="难于继续下去。" />
-		<phrase hz="挠直为曲" py="náo,zhí,wéi,qū" info="比喻變剛強正直為媚世阿俗。" />
-		<phrase hz="能者为师" py="néng,zhě,wéi,shī" info="会的人就当老师。即谁会就向谁学习。" />
-		<phrase hz="捻土为香" py="niǎn,tǔ,wéi,xiāng" info="捏泥成香。因不及备香，以此表示虔诚。" />
-		<phrase hz="宁为鸡口" py="nìng,wéi,jī,kǒu" info="“宁为鸡口，无为牛后”：(諺語)​雞口，雞的口，小而潔。牛後，牛的肛門，大而不淨。全句為比喻人寧可在小場面中自主，也不要在大場面為人所支配。" />
-		<phrase hz="宁为太平犬" py="nìng,wéi,tài,píng,quǎn" info="“宁为太平犬，莫作乱离人”：宁可做太平盛世的狗，也不做战乱时代的人。 用来表示生逢乱世的痛苦心情。" />
-		<phrase hz="宁为玉碎" py="nìng,wéi,yù,suì" info="“宁为玉碎，不为瓦全”：宁做玉器被打碎，不做瓦器而保全。 比喻宁愿为正义事业牺牲，不愿丧失气节，苟且偷生。" />
-		<phrase hz="扭亏为盈" py="niǔ,kuī,wéi,yíng" info="扭：扭转。扭转亏损为盈利局面。" />
-		<phrase hz="偶一为之" py="ǒu,yī,wéi,zhī" info="偶：偶尔；为：做。指平常很少这样做，偶尔才做一次。" />
-		<phrase hz="朋比为奸" py="péng,bǐ,wéi,jiān" info="朋比：依附，互相勾结。坏人勾结在一起干坏事。" />
-		<phrase hz="颇为" py="pō,wéi" info="很——用在表示心理状态的动词或形容词前面,表示程度很高,但还未达到最高点" />
-		<phrase hz="破觚为圜" py="pò,gū,wéi,yuán" info="觚：主；圜：圆。毁方为圆。比喻去严刑而从简政。" />
-		<phrase hz="破涕为笑" py="pò,tì,wéi,xiào" info="涕：眼泪。一下子停止了哭泣，露出笑容。形容转悲为喜。" />
-		<phrase hz="起偃为竖" py="qǐ,yǎn,wéi,shù" info="偃：卧躺。竖：立，站着。使躺着的人站起来。比喻给予减轻刑罚的恩惠。" />
-		<phrase hz="巧妇难为无米之炊" py="qiǎo,fù,nán,wéi,wú,mǐ,zhī,chuī" info="即使是聪明能干的妇女，没米也做不出饭来。比喻做事缺少必要条件，很难做成。" />
-		<phrase hz="清静无为" py="qīng,jìng,wú,wéi" info="道家语。 春秋时期道家的一种哲学思想和治术。指一切听其自然，人力不必强为。" />
-		<phrase hz="清净无为" py="qīng,jìng,wú,wéi" info="道家语。 指一切听其自然，人力不必强为。" />
-		<phrase hz="攘为己有" py="rǎng,wéi,jǐ,yǒu" info="窃夺别人的东西,据为己有" />
-		<phrase hz="人满为患" py="rén,mǎn,wéi,huàn" info="因人多造成了困难。" />
-		<phrase hz="人为" py="rén,wéi" info="1.人造成 2.人去干、做" />
-		<phrase hz="人为刀俎" py="rén,wéi,dāo,zǔ" info="“人为刀俎，我为鱼肉”: 刀俎:刀和刀砧板，宰割的工具。比喻生杀的权掌握在别人手里，自己处在被宰割的地位。" />
-		<phrase hz="认妄为真" py="rèn,wàng,wéi,zhēn" info="佛教用语。把虚妄当成真实。出自《圆觉经》：“认妄为真，虽真亦妄。”" />
-		<phrase hz="认为" py="rèn,wéi" info="1.把看作;把当作 2.指经过考虑的、明智的判断 3.对发表正式的意见 4.用文字或行动表示对[一个事实或真相]已经知道了并且同意了" />
-		<phrase hz="任性妄为" py="rèn,xìng,wàng,wéi" info="任性：放纵性情；妄：胡乱。凭着自己的性情胡乱作事。" />
-		<phrase hz="认贼为子" py="rèn,zéi,wéi,zǐ" info="佛家语，比喻错将妄想认为真实。" />
-		<phrase hz="融为一体" py="róng,wéi,yì,tǐ" info="融合为整体。 比喻几种事物关系密切，配合自然，如同一个整体。" />
-		<phrase hz="入土为安" py="rù,tǔ,wéi,ān" info="旧时土葬，人死后埋入土中，死者方得其所，家属方觉心安。" />
-		<phrase hz="三人为众" py="sān,rén,wèi,zhòng" info="数目达到三人即可称为众人，已不算少数。" />
-		<phrase hz="歃血为盟" py="shà,xuè,wéi,méng" info="血：古代会盟，把牲畜的血涂在嘴唇上，表示诚意；盟：宣誓缔约。泛指发誓订盟。" />
-		<phrase hz="稍为" py="shāo,wéi" info="稍微" />
-		<phrase hz="蛇化为龙" py="shé,huà,wéi,lóng" info="“蛇化为龙，不变其文”：比喻无论形式上怎样变化，实质还是一样。" />
-		<phrase hz="蛇蝎为心" py="shé,xiē,wéi,xīn" info="蝎：一种蜘蛛类的毒虫。形容心肠狠毒。" />
-		<phrase hz="甚为" py="shèn,wéi" info="非常;十分" />
-		<phrase hz="胜者为王" py="shèng,zhě,wéi,wáng" info="“胜者为王，败者为寇”：旧指在争夺政权斗争中，胜利了的就是合法的，称帝称王；失败了的就是非法的，被称为贼寇。含有胜利者权势在手，无人敢责难，失败者却有口难辩的意思。" />
-		<phrase hz="施为" py="shī,wéi" info="1.指所进行的行动 2.进行某种行动" />
-		<phrase hz="识时务者为俊杰" py="shí,shí,wù,zhě,wéi,jùn,jié" info="意思是能认清时代潮流的，是聪明能干的人。认清时代潮流势，才能成为出色的人物。" />
-		<phrase hz="食为民天" py="shí,wéi,mín,tiān" info="指粮食是人民赖以生存的最为重要的东西。" />
-		<phrase hz="势不可为" py="shì,bù,kě,wéi" info="大势已去，无能为力。" />
-		<phrase hz="视为知己" py="shì,wéi,zhī,jǐ" info="看成好朋友。" />
-		<phrase hz="事在人为" py="shì,zài,rén,wéi" info="指事情要靠人去做的。 在一定的条件下，事情能否做成要看人的主观努力如何。" />
-		<phrase hz="率性而为" py="shuài,xìng,ér,wéi" info="按照自己的性情行事。" />
-		<phrase hz="四海为家" py="sì,hǎi,wéi,jiā" info="原指帝王占有全国。 后指什么地方都可以当作自己的家。指志在四方，不留恋家乡或个人小天地。" />
-		<phrase hz="夙夜为谋" py="sù,yè,wéi,móu" info="指日夜谋划。" />
-		<phrase hz="所为" py="suǒ,wéi" info="1.所作，作为。 2.所以。表示行为动作发生的原因。 3.所谓。为，通“谓”。" />
-		<phrase hz="所作所为" py="suǒ,zuò,suǒ,wéi" info="指人所做的事。" />
-		<phrase hz="叹为观止" py="tàn,wéi,guān,zhǐ" info="叹：赞赏；观止：看到这里就够了。指赞美所见到的事物好到了极点。" />
-		<phrase hz="特特为为" py="tè,tè,wéi,wéi" info="特地、專為、故意。" />
-		<phrase hz="天下为公" py="tiān,xià,wéi,gōng" info="原意是天下是公众的，天子之位，传贤而不传子，后成为一种美好社会的政治理想。" />
-		<phrase hz="天下为家" py="tiān,xià,wéi,jiā" info="1.傳位於子，天下為一家一姓所私有。 2.將國家當作自己的家。 3.處處都可以為家。" />
-		<phrase hz="天下为笼" py="tiān,xià,wéi,lóng" info="笼：牢笼。旧时比喻为世事所束缚。" />
-		<phrase hz="恬不为怪" py="tián,bù,wéi,guài" info="恬：安然；为：认为。指看到不合理的事物，毫不觉得奇怪。" />
-		<phrase hz="恬不为意" py="tián,bù,wéi,yì" info="处之泰然，满不在乎。" />
-		<phrase hz="妄为" py="wàng,wéi" info="胡作非为" />
-		<phrase hz="为德不卒" py="wéi,dé,bù,zú" info="好事沒有做到底。" />
-		<phrase hz="为恶不悛" py="wéi,è,bù,quān" info="坚持作恶，不肯悔改。" />
-		<phrase hz="为法自弊" py="wéi,fǎ,zì,bì" info="語本史記．卷六十八．商君傳：「商君亡至關下，欲舍客舍。客人不知其是商君也，曰：『商君之法，舍人無驗者坐之。』商君喟然歎曰：『嗟乎，為法之敝一至此哉！』」指自己訂立的法規，反而讓自己受害。比喻自作自受。" />
-		<phrase hz="为非作歹" py="wéi,fēi,zuò,dǎi" info="做种种坏事。" />
-		<phrase hz="为富不仁" py="wéi,fù,bù,rén" info="为：做，引伸为谋求。剥削者为了发财致富，心狠手毒，没有一点儿仁慈的心肠。" />
-		<phrase hz="为鬼为蜮" py="wéi,guǐ,wéi,yù" info="蜮：传说中能含沙喷射人影，而使人致病的动物，比喻阴险毒辣的人。 指象鬼蜮一样阴险狠毒，在暗地里害人的人。" />
-		<phrase hz="为害" py="wéi,hài" info="祸害;形成灾害" />
-		<phrase hz="为荷" py="wéi,hè" info="书信及公文惯用语。表示承情感谢之意。" />
-		<phrase hz="为后人所不齿" py="wéi,hòu,rén,suǒ,bù,chǐ" info="被后来人所看不起、鄙视。" />
-		<phrase hz="为患" py="wéi,huàn" info="形成危险、灾祸" />
-		<phrase hz="为老不尊" py="wéi,lǎo,bù,zūn" info="作为老人自己不知道尊重自己" />
-		<phrase hz="为民父母" py="wéi,mín,fù,mǔ" info="为：作为，充当；父母：即父母官。 担任地方行政长官。" />
-		<phrase hz="为期" py="wéi,qī" info="作为约定的期限或日期" />
-		<phrase hz="为期不远" py="wéi,qī,bù,yuǎn" info="为：作为；期：日期，期限。指快到规定或算定的日子。" />
-		<phrase hz="为人" py="wéi,rén" info="1.做人和跟人交往的态度 2.与人友好地交往 3.像貌特征" />
-		<phrase hz="为仁不富" py="wéi,rén,bú,fù" info="行善者樂善好施，不聚斂財富，通常都不富有。" />
-		<phrase hz="为人师表" py="wéi,rén,shī,biǎo" info="师表：榜样，表率。 在人品学问方面作别人学习的榜样。" />
-		<phrase hz="为人所笑" py="wéi,rén,suǒ,xiào" />
-		<phrase hz="为山九仞" py="wéi,shān,jiǔ,rèn" info="“为山九仞，功亏一篑”：九仞：极言其高；亏：欠缺；篑：盛土的筐子。堆九仞高的山，只缺一筐土而不能完成。比喻做事情只差最后一点没能完成。" />
-		<phrase hz="为生" py="wéi,shēng" info="以某种手段维持生活" />
-		<phrase hz="为时" py="wéi,shí" info="从时机或时间上看" />
-		<phrase hz="为首" py="wéi,shǒu" info="当领头的人;担任领导" />
-		<phrase hz="为寿" py="wéi,shòu" info="祝颂之辞。向尊长敬酒或馈赠财物,以祈祝健康长寿" />
-		<phrase hz="为数" py="wéi,shù" info="从数量多少上看" />
-		<phrase hz="为所欲为" py="wéi,suǒ,yù,wéi" info="为：做。本指做自己想做的事。后指想干什么就干什么。" />
-		<phrase hz="唯所欲为" py="wéi,suǒ,yù,wéi" info="随心所欲，任意而为。" />
-		<phrase hz="惟所欲为" py="wéi,suǒ,yù,wéi" info="想干什么就干什么，任意而为。" />
-		<phrase hz="为天下笑" py="wéi,tiān,xià,xiào" info="指被天下人所耻笑" />
-		<phrase hz="为伍" py="wéi,wǔ" info="做同伴;看成同类" />
-		<phrase hz="为限" py="wéi,xiàn" info="在…范围内,不超过" />
-		<phrase hz="为政" py="wéi,zhèng" info="1.治理国家；执掌国政。 2.指执政者。 3.处理政事。 4.做主。 5.作官。" />
-		<phrase hz="为之一振" py="wéi,zhī,yí,zhèn" info="为：因；振：振奋。因此而振奋起来。" />
-		<phrase hz="为止" py="wéi,zhǐ" info="截止;终止" />
-		<phrase hz="为主" py="wéi,zhǔ" info="放在首要位置" />
-		<phrase hz="未为不可" py="wèi,wéi,bù,kě" info="不是不可以。委婉地肯定。" />
-		<phrase hz="我为鱼肉" py="wǒ,wéi,yú,ròu" info="见“人为刀俎”。" />
-		<phrase hz="诬良为盗" py="wū,liáng,wéi,dào" info="诬：诬陷。良：好人。指捏造事实，陷害好人。" />
-		<phrase hz="无后为大" py="wú,hòu,wéi,dà" info="旧时谓没有后嗣是最大的不孝。" />
-		<phrase hz="无能为力" py="wú,néng,wéi,lì" info="不能施展力量。指使不上劲或没有能力去做好某件事情、解决某个问题。" />
-		<phrase hz="无能为役" py="wú,néng,wéi,yì" info="役：役使。 简直连供给他们役使都不配。自谦才干远不能和别人相比。" />
-		<phrase hz="无所不为" py="wú,suǒ,bù,wéi" info="没有不干的事情。指什么坏事都干。" />
-		<phrase hz="无为" py="wú,wéi" info="1.道家思想，指要依天命，顺其自然，没必要有所作为 2.儒家指用德政感化人民，不施行刑罚 3.不要，不用" />
-		<phrase hz="无为而成" py="wú,wéi,ér,chéng" info="指不倚外力而自然有所成就。" />
-		<phrase hz="无为而治" py="wú,wéi,ér,zhì" info="无为：无所作为；治：治理。 自己无所作为而使天下得到治理。原指舜当政的时候，沿袭尧的主张，不做丝毫改变。后泛指以德化民。" />
-		<phrase hz="无为法" py="wú,wéi,fǎ" info="佛教语。同“有为法”相对。指离生灭因缘造作、永恒不变的法性真理。" />
-		<phrase hz="无为牛后" py="wú,wéi,niú,hòu" info="见“宁为鸡口”。" />
-		<phrase hz="无为自成" py="wú,wéi,zì,chéng" info="指不倚外力而自然有所成就。同“无为而成”。" />
-		<phrase hz="物稀为贵" py="wù,xī,wéi,guì" info="事物因稀少而觉得珍贵。同“物以稀为贵”。" />
-		<phrase hz="物以稀为贵" py="wù,yǐ,xī,wéi,guì" info="事物因稀少而觉得珍贵。同“物稀为贵”。" />
-		<phrase hz="习以为常" py="xí,yǐ,wéi,cháng" info="习：习惯。指某种事情经常去做，或某种现象经常看到，也就觉得很平常了。" />
-		<phrase hz="下不为例" py="xià,bù,wéi,lì" info="下次不可以再这样做。表示只通融这一次。" />
-		<phrase hz="先睹为快" py="xiān,dǔ,wéi,kuài" info="睹：看见。以能尽先看到为快乐。形容盼望殷切。" />
-		<phrase hz="先入为主" py="xiān,rù,wéi,zhǔ" info="指先听进去的话或先获得的印象往往在头脑中占有主导地位，以后再遇到不同的意见时，就不容易接受。" />
-		<phrase hz="先下手为强" py="xiān,xià,shǒu,wéi,qiáng" info="在对手没有准备好的时候首先动手，取得主动地位。" />
-		<phrase hz="鲜为人知" py="xiǎn,wéi,rén,zhī" info="很少有人知道。" />
-		<phrase hz="相恃为命" py="xiāng,shì,wéi,mìng" info="互相依靠着过日子。泛指互相依靠，谁也离不开谁。" />
-		<phrase hz="相依为命" py="xiāng,yī,wéi,mìng" info="互相依靠着过日子。泛指互相依靠，谁也离不开谁。" />
-		<phrase hz="相倚为命" py="xiāng,yī,wéi,mìng" info="互相依靠着过日子" />
-		<phrase hz="相与为一" py="xiāng,yǔ,wéi,yī" info="相与：相互。相互结合成为一体。" />
-		<phrase hz="信以为真" py="xìn,yǐ,wéi,zhēn" info="相信他是真的。指把假的当作真的。" />
-		<phrase hz="行为" py="xíng,wéi" info="谓举止行动;指受思想支配而表现出来的外表活动" />
-		<phrase hz="修为" py="xiū,wéi" info="1.实行。 2.修行。" />
-		<phrase hz="炫石为玉" py="xuàn,shí,wéi,yù" info="炫：夸耀。 拿玉吸引人，卖出的却是石头。比喻说的和做的不相符合。" />
-		<phrase hz="削发为僧" py="xuē,fà,wéi,sēng" info="指剃去头发,出家为僧尼,剃除须发，出家为僧。" />
-		<phrase hz="削职为民" py="xuē,zhí,wéi,mín" info="撤掉官职，降为平民。" />
-		<phrase hz="言为心声" py="yán,wéi,xīn,shēng" info="言语是思想的反映，从一个人的话里可以知道他的思想感情。" />
-		<phrase hz="眼不见为净" py="yǎn,bú,jiàn,wéi,jìng" info="指心里不以为然，但又没有办法，只好撇开不管。也在怀疑食品不干净时，用作自我安慰的话。" />
-		<phrase hz="眼见为实" py="yǎn,jiàn,wéi,shí" info="“眼见为实，耳听为虚”： 谓亲眼看见的比听说的要真实可靠。" />
-		<phrase hz="洋为中用" py="yáng,wéi,zhōng,yòng" info="批判地吸收外国文化中一切有益的东西，为我所用。" />
-		<phrase hz="养虎为患" py="yǎng,hǔ,wéi,huàn" info="比喻纵容敌人，留下后患，自己反受其害。" />
-		<phrase hz="咬血为盟" py="yǎo,xuè,wéi,méng" info="指咬臂出血，发誓定盟，以示坚决。" />
-		<phrase hz="一日为师" py="yí,rì,wéi,shī" info="“一日为师，终身为父”：古谚。 谓一日做了老师，就终生受到象父亲一样的尊敬。极言师徒情谊深厚。" />
-		<phrase hz="夷为平地" py="yí,wéi,píng,dì" info="铲平使成一块平地" />
-		<phrase hz="倚此为命" py="yǐ,cǐ,wéi,mìng" info="靠它作为生命的支柱。意即靠着它才能活" />
-		<phrase hz="以耳为目" py="yǐ,ěr,wéi,mù" info="拿听到的当作亲眼目睹的。比喻不亲自了解情况，只听信别人说的。" />
-		<phrase hz="以攻为守" py="yǐ,gōng,wéi,shǒu" info="以主支国进攻作为防御的手段" />
-		<phrase hz="以古为鉴" py="yǐ,gǔ,wéi,jiàn" info="借历史上的成败得失作为鉴戒。" />
-		<phrase hz="以古为镜" py="yǐ,gǔ,wéi,jìng" info="借历史上的成败得失作为鉴戒。同“以古为鉴”。" />
-		<phrase hz="以邻为壑" py="yǐ,lín,wéi,hè" info="拿邻国当做大水坑，把本国的洪水排泄到那里去。比喻只图自己一方的利益，把困难或祸害转嫁给别人。" />
-		<phrase hz="以筌为鱼" py="yǐ,quán,wéi,yú" info="筌：捕鱼的竹器。把捕鱼工具看作是鱼。比喻满足对事物表面肤浅认识，不去更深入了解事物本质。" />
-		<phrase hz="以人为本" py="yǐ,rén,wéi,běn" />
-		<phrase hz="以人为鉴" py="yǐ,rén,wéi,jiàn" info="指将别人的成败得失作为自己的鉴戒。" />
-		<phrase hz="以人为镜" py="yǐ,rén,wéi,jìng" info="指将别人的成败得失作为自己的鉴戒。" />
-		<phrase hz="以日为年" py="yǐ,rì,wéi,nián" info="过一日如同过一年的时间那样漫长难熬。 形容心情焦急。亦作“以日为岁”。" />
-		<phrase hz="以日为岁" py="yǐ,rì,wéi,suì" info="过一天象过一年那样长。形容日子很不好过。" />
-		<phrase hz="以守为攻" py="yǐ,shǒu,wéi,gōng" info="用防御作为击破敌人的手段。" />
-		<phrase hz="以天下为己任" py="yǐ,tiān,xià,wéi,jǐ,rèn" info="把国家的兴衰治乱作为自己的责任。" />
-		<phrase hz="以退为进" py="yǐ,tuì,wéi,jìn" info="本指以谦让取得德行的进步，后指以退让的姿态作为进取的手段。" />
-		<phrase hz="以为" py="yǐ,wéi" info="认为" />
-		<phrase hz="以虚为实" py="yǐ,xū,wéi,shí" info="虚：空；实：满。军事上迷惑对方，使其难辨虚实、真伪的一种战术。" />
-		<phrase hz="以言为讳" py="yǐ,yán,wéi,huì" info="人们把说话当作忌讳。形容统治阶级对言论箝制之严。" />
-		<phrase hz="以意为之" py="yǐ,yì,wéi,zhī" info="只凭自己的主观想法去做。" />
-		<phrase hz="一分为二" py="yì,fēn,wéi,èr" info="哲学用语，指事物作为矛盾的统一体，都包含着相互矛盾对立的两个方面。通常指全面看待人或事物，看到积极方面，也看到消极方面。" />
-		<phrase hz="一吐为快" py="yì,tǔ,wéi,kuài" info="指尽情说出要说的话而感到畅快。" />
-		<phrase hz="一言为定" py="yì,yán,wéi,dìng" info="一句话说定了，不再更改。比喻说话算数，决不翻悔。" />
-		<phrase hz="因祸为福" py="yīn,huò,wéi,fú" info="变坏事为好事。" />
-		<phrase hz="引以为耻" py="yǐn,yǐ,wéi,chǐ" info="以此事为自己的羞耻。" />
-		<phrase hz="引以为憾" py="yǐn,yǐ,wéi,hàn" info="以此事为遗憾。" />
-		<phrase hz="引以为戒" py="yǐn,yǐ,wéi,jiè" info="引：用；戒：鉴戒。指把过去犯错误的教训拿来作为警戒，避免重犯。" />
-		<phrase hz="引以为荣" py="yǐn,yǐ,wéi,róng" info="以此事为光荣。" />
-		<phrase hz="有所不为" py="yǒu,suǒ,bù,wéi" info="“有所不为，而后可以有为”：指人的精力是有限的，只有放弃一些事情不做，才能在别的一些事情上做出成绩。" />
-		<phrase hz="有所为" py="yǒu,suǒ,wéi" />
-		<phrase hz="有为" py="yǒu,wéi" info="做出成绩" />
-		<phrase hz="有为法" py="yǒu,wéi,fǎ" info="佛教语。 谓因缘所生、无常变幻的现象世界。" />
-		<phrase hz="与人为善" py="yǔ,rén,wéi,shàn" info="与：赞许，赞助；为：做；善：好事。 指赞成人学好。现指善意帮助人。" />
-		<phrase hz="占山为王" py="zhàn,shān,wéi,wáng" />
-		<phrase hz="知其不可而为之" py="zhī,qí,bù,kě,ér,wéi,zhī" info="明知做不到却偏要去做。表示意志坚决。有时也表示倔强固执。" />
-		<phrase hz="知之为知之" py="zhī,zhī,wéi,zhī,zhī" info="“知之为知之，不知为不知”：为：是。知道就是知道。不知道就是不知道，这是聪明的。指做学问态度要端正，也指做人要诚实。" />
-		<phrase hz="指腹为婚" py="zhǐ,fù,wéi,hūn" info="在怀孕时就为子女定下婚约。" />
-		<phrase hz="止戈为武" py="zhǐ,gē,wéi,wǔ" info="意思是武字是止戈两字合成的，所以要能止战，才是真正的武功。后也指不用武力而使对方屈服，才是真正的武功。" />
-		<phrase hz="指鹿为马" py="zhǐ,lù,wéi,mǎ" info="指着鹿，说是马。比喻故意颠倒黑白，混淆是非。" />
-		<phrase hz="指天为誓" py="zhǐ,tiān,wéi,shì" info="誓：发誓。指着天誓。表示意志坚决或对人表示忠诚。" />
-		<phrase hz="终身为父" py="zhōng,shēn,wéi,fù" info="见“一日为师”。" />
-		<phrase hz="终为江河" py="zhōng,wéi,jiāng,hé" info="“涓涓不壅，终为江河”：壅：堵塞。细小的水流如果不堵塞，终将汇合成为大江大河。比喻对细小或刚刚萌芽的问题不加注意或纠正，就会酿成大的问题。" />
-		<phrase hz="助桀为虐" py="zhù,jié,wéi,nüè" info="桀：即夏桀，夏朝最后一个君主，相传是暴君；虐：残暴。帮助夏桀行暴虐之事。比喻帮助坏人干坏事。" />
-		<phrase hz="助人为乐" py="zhù,rén,wéi,lè" info="帮助人就是快乐。" />
-		<phrase hz="助纣为虐" py="zhù,zhòu,wéi,nüè" info="比喻帮助坏人干坏事。" />
-		<phrase hz="转败为胜" py="zhuǎn,bài,wéi,shèng" info="变失败为胜利。" />
-		<phrase hz="转悲为喜" py="zhuǎn,bēi,wéi,xǐ" info="转悲哀为喜悦。" />
-		<phrase hz="转嗔为喜" py="zhuǎn,chēn,wéi,xǐ" info="由生气转为喜欢。" />
-		<phrase hz="转危为安" py="zhuǎn,wēi,wéi,ān" info="由危险转为平安（多指局势或病情）。" />
-		<phrase hz="转忧为喜" py="zhuǎn,yōu,wéi,xǐ" info="由忧愁转为欢喜。" />
-		<phrase hz="斫雕为朴" py="zhuó,diāo,wéi,pǔ" info="指去掉雕饰，崇尚质朴。 亦指斫理雕弊之俗，使返质朴。" />
-		<phrase hz="自以为是" py="zì,yǐ,wéi,shì" info="是：对。 总以为自己是对的。形容主观，不虚心。" />
-		<phrase hz="恣意妄为" py="zì,yì,wàng,wéi" info="恣意：任意，随意；妄为：胡作非为。随心所欲，胡作非为。" />
-		<phrase hz="走为上策" py="zǒu,wéi,shàng,cè" info="指遇到强敌或陷于困境时，以离开回避为最好的策略。" />
-		<phrase hz="走为上计" py="zǒu,wéi,shàng,jì" info="指遇到强敌或陷于困境时，以离开回避为最好的策略。" />
-		<phrase hz="左右为难" py="zuǒ,yòu,wéi,nán" info="左也不好，右也不是。形容无论怎样做都有难处。" />
-		<phrase hz="作歹为非" py="zuò,dǎi,wéi,fēi" info="做各种坏事。" />
-		<phrase hz="作为" py="zuò,wéi" info="1.所作所为;行为 2.人在事业中的建树与成就 3.就人的某种身分或事物的某种性质来说" />
-		<definition id="一">
-			<item id="1" text="做，行：事在人~. 所作所~. (引)作为，作事的能力：年轻有~." />
-			<item id="2" text="做，当：他被选~人大代表. 拜他~师." />
-			<item id="3" text="成为，变成：一分~二. 高岸~谷. 深谷~陵." />
-			<item id="4" text="是：十二个~一打." />
-			<item id="5" text="介词，被：~人所笑." />
-			<item id="6" text="助词，常跟“何”相应，表疑问：何以家~？" />
-			<item id="7" text="附于单音形容词后，表程度、范围：大~增色. 广~传播." />
-			<item id="8" text="附于表程度的单音副词后，加强语气：极~重要. 尤~出色." />
-		</definition>
-	</char>
+	<!-- Ref:为.xml <char hz="为" py="wéi" multi="wèi" main="1" /> -->
 	<char hz="沩" py="wéi" />
-	<char hz="圩" py="wéi" multi="xū" main="1">
-		<phrase hz="圩田" py="wéi,tián" info="周围筑有土堤的稻田" />
-		<phrase hz="圩垸" py="wéi,yuàn" info="靠近湖泊的地区为防止湖水侵袭而筑的堤称“圩”,圩内的小圩子称“垸”,合称“圩垸”" />
-		<phrase hz="圩子" py="wéi,zi" info="四周具有高起的围岸的低洼地" />
-		<phrase hz="盐圩" py="yán,wéi" />
-		<definition id="一">
-			<item id="1" text="低洼地区周围防水的堤。" />
-			<item id="2" text="有圩围住的地区：~田. 盐~." />
-			<item id="3" text="（-子）围绕村落四周的障碍物，也作“围子”：土~子. 树~子." />
-		</definition>
-	</char>
+	<!-- Ref:圩.xml <char hz="圩" py="wéi" multi="xū" main="1" /> -->
 	<char hz="桅" py="wéi" />
-	<char hz="硙" py="wéi" multi="wèi" main="1">
-		<phrase hz="硙硙" py="wéi,wéi" />
-		<definition id="一">
-			<item text="[硙硙]形容很高的样子。" />
-		</definition>
-	</char>
+	<!-- Ref:硙.xml <char hz="硙" py="wéi" multi="wèi" main="1" /> -->
 	<char hz="唯" py="wéi" />
 	<char hz="帷" py="wéi" />
 	<char hz="惟" py="wéi" />
@@ -388,90 +46,22 @@
 	<char hz="韡" py="wěi" />
 	<char hz="韪" py="wěi" />
 	<char hz="伪" py="wěi" />
-	<char hz="尾" py="wěi" multi="yǐ" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="（-巴）鸟、兽、虫、鱼等身体末端突出的部分：猪~巴. [交尾]动物交配。" />
-			<item id="2" text="末端：排~." />
-			<item id="3" text="尾随，在后面跟：~其后." />
-			<item id="4" text="量词，用于鱼。" />
-			<item id="5" text="星宿名，二十八宿之一。" />
-		</definition>
-	</char>
+	<!-- Ref:尾.xml <char hz="尾" py="wěi" multi="yǐ" main="1" suppressLog="1" /> -->
 	<char hz="娓" py="wěi" />
-	<char hz="委" py="wěi" multi="wēi" main="1" suppressLog="1">
-		<phrase hz="委靡" py="wěi,mǐ" />
-		<phrase hz="萎靡" py="wěi,mǐ" />
-		<phrase hz="委屈" py="wěi,qu" />
-		<definition id="一">
-			<item id="1" text="任，派，把事交给人办（(连)-任）：~以重任." />
-			<item id="2" text="抛弃，舍弃（(连)-）：~之于地." />
-			<item id="3" text="推诿。" />
-			<item id="4" text="曲折，婉转：话说得很~婉. [委屈](-qu)含冤受屈或心里苦闷：心里有~~，又不肯说." />
-			<item id="5" text="末，尾：原~." />
-			<item id="6" text="确实：~系实情. ~实不错." />
-			<item id="7" text="委员或委员会的简称：编~. 体~. 市~." />
-			<item text="[委靡][萎靡](-mǐ)颓丧，不振作：精神~~." />
-		</definition>
-	</char>
+	<!-- Ref:委.xml <char hz="委" py="wěi" multi="wēi" main="1" suppressLog="1" /> -->
 	<char hz="诿" py="wěi" />
 	<char hz="萎" py="wěi" />
 	<char hz="痿" py="wěi" />
 	<char hz="洧" py="wěi" />
 	<char hz="痏" py="wěi" />
 	<char hz="鲔" py="wěi" />
-	<char hz="隗" py="wěi" multi="kuí" main="1">
-		<definition id="一">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:隗.xml <char hz="隗" py="wěi" multi="kuí" main="1" /> -->
 	<char hz="頠" py="wěi" trans="1" />
 	<char hz="猥" py="wěi">
 		<phrase hz="猥亵" py="wěi,xiè" />
 	</char>
 	<char hz="卫" py="wèi" />
-	<char hz="为" py="wèi" multi="wéi">
-		<phrase hz="父为子隐" py="fù,wèi,zǐ,yǐn" info="父亲为儿子隐藏劣迹。" />
-		<phrase hz="各为其主" py="gè,wèi,qí,zhǔ" info="各人为自己的主人效力。" />
-		<phrase hz="官官相为" py="guān,guān,xiāng,wèi" info="指官员之间互相包庇。同“官官相护”。" />
-		<phrase hz="鸟为食亡" py="niǎo,wèi,shí,wáng" info="见“人为财死”。" />
-		<phrase hz="女为悦己者容" py="nǚ,wèi,yuè,jǐ,zhě,róng" />
-		<phrase hz="人不为己" py="rén,bú,wèi,jǐ" info="“人不为己，天诛地灭”：旧时指人不替自己打算，就会为天地所不容。" />
-		<phrase hz="人人为我" py="rén,rén,wèi,wǒ" info="“人人为我，我为人人”：意为在社会生活中，许多人都为我服务，因此我也应该尽力为他人服务。 是社会生活中人们应当遵循的道德准则。" />
-		<phrase hz="人为财死" py="rén,wèi,cái,sǐ" info="“人为财死，鸟为食亡”：旧时俗语。意思是为了追求金钱，连生命都可以不要。" />
-		<phrase hz="舍己为公" py="shě,jǐ,wèi,gōng" info="为公共的利益而舍弃个人的利益。" />
-		<phrase hz="舍己为人" py="shě,jǐ,wèi,rén" info="舍弃自己的利益去帮助别人。" />
-		<phrase hz="是非只为多开口" py="shì,fēi,zhǐ,wèi,duō,kāi,kǒu" info="纠纷争端都是说话太多引起的。" />
-		<phrase hz="士为知己者死" py="shì,wèi,zhī,jǐ,zhě,sǐ" info="知己者：了解自己，信用自己的人。指甘愿为赏识自己、栽培自己的人献身。" />
-		<phrase hz="特为" py="tè,wèi" info="特地、專程。" />
-		<phrase hz="为此" py="wèi,cǐ" info="因为这个;有鉴于此" />
-		<phrase hz="为丛驱雀" py="wèi,cóng,qū,què" info="丛：丛林；驱：赶。把雀赶到丛林。比喻不会团结人，把一些本来可以团结的人赶到敌对方面去。" />
-		<phrase hz="为国捐躯" py="wèi,guó,juān,qū" info="為國犧牲性命。" />
-		<phrase hz="为国为民" py="wèi,guó,wèi,mín" info="指不谋私利，为国家和人民效力。" />
-		<phrase hz="为何" py="wèi,hé" info="为什么" />
-		<phrase hz="为虎添翼" py="wèi,hǔ,tiān,yì" info="比喻為惡人助勢。" />
-		<phrase hz="为虎作伥" py="wèi,hǔ,zuò,chāng" info="伥：伥鬼，古时传说被老虎吃掉的人，死后变成伥鬼，专门引诱人来给老虎吃。替老虎做伥鬼。比喻充当恶人的帮凶。" />
-		<phrase hz="为了" py="wèi,le" info="为着一定的目的、理想、感情或其它利益" />
-		<phrase hz="为民除害" py="wèi,mín,chú,hài" info="替百姓除祸害。" />
-		<phrase hz="为民请命" py="wèi,mín,qǐng,mìng" info="请命：请示保全生命。泛指有相当地位的人代表百姓向当权者陈述困难，提出要求。" />
-		<phrase hz="为人民服务" py="wèi,rén,mín,fú,wù" />
-		<phrase hz="为人说项" py="wèi,rén,shuō,xiàng" info="为：替；项：唐朝项斯，字子迁，为杨敬之所器重。 指替人说好话。" />
-		<phrase hz="为人作嫁" py="wèi,rén,zuò,jià" info="贫穷女子常为富家女出嫁作衣。比喻徒然替他人辛苦出力" />
-		<phrase hz="为什么" py="wèi,shén,me" info="询问原因或目的。" />
-		<phrase hz="为五斗米折腰" py="wèi,wǔ,dǒu,mǐ,zhé,yāo" info="五斗米：晋代县令的俸禄，后指微薄的俸禄；折腰：弯腰行礼，指屈身于人。为了微薄的俸禄而弯腰行礼。比喻没有骨气。" />
-		<phrase hz="为小失大" py="wèi,xiǎo,shī,dà" info="為了小緣故而貽誤大事。" />
-		<phrase hz="为渊驱鱼" py="wèi,yuān,qū,yú" info="把鱼逐向深水,将鸟雀驱入丛林,结果很难捕捉到。比喻把可以依靠的人赶到敌对方面去" />
-		<phrase hz="为着" py="wèi,zhe" info="为了。" />
-		<phrase hz="我为人人" py="wǒ,wèi,rén,rén" info="见“人人为我”。" />
-		<phrase hz="相忍为国" py="xiāng,rěn,wèi,guó" info="為國家的前途著想，而彼此盡量克制、忍讓。" />
-		<phrase hz="因为" py="yīn,wèi" info="连词。表示原因或理由" />
-		<phrase hz="子为父隐" py="zǐ,wèi,fù,yǐn" info="儿子为父亲隐瞒劣迹。" />
-		<definition id="二">
-			<item id="1" text="介词，替，给：~人民服务." />
-			<item id="2" text="介词，表目的（可以和“了”连用）~早日实现四化而斗争. ~了美好的明天而努力." />
-			<item id="3" text="介词，对，向：且~诸君言之." />
-			<item id="4" text="帮助，卫护。" />
-		</definition>
-	</char>
+	<!-- Ref:为.xml <char hz="为" py="wèi" multi="wéi" /> -->
 	<char hz="未" py="wèi" />
 	<char hz="味" py="wèi" />
 	<char hz="位" py="wèi" />
@@ -482,45 +72,17 @@
 			<item text="〈方〉石磨(mò)。" />
 		</definition>
 	</char>
-	<char hz="硙" py="wèi" multi="wéi">
-		<phrase hz="硙碾" py="wèi,niǎn" info="1.石磨和碾砣。2.研磨。" />
-		<definition id="二">
-			<item text="同“碨”。" />
-		</definition>
-	</char>
+	<!-- Ref:硙.xml <char hz="硙" py="wèi" multi="wéi" /> -->
 	<char hz="胃" py="wèi" />
 	<char hz="谓" py="wèi" />
 	<char hz="猬" py="wèi" />
 	<char hz="渭" py="wèi" />
-	<char hz="尉" py="wèi" multi="yù" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="古官名：太~." />
-			<item id="2" text="军衔名：上~." />
-			<item text="[尉氏]地名，在河南省。" />
-		</definition>
-	</char>
-	<char hz="蔚" py="wèi" multi="yù" main="1">
-		<phrase hz="蔚蓝" py="wèi,lán" info="类似晴朗天空的颜色的一种蓝色" />
-		<phrase hz="蔚起" py="wèi,qǐ" info="蓬勃兴起" />
-		<phrase hz="蔚然" py="wèi,rán" info="形容繁荣或盛行" />
-		<phrase hz="蔚为大观" py="wèi,wéi,dà,guān" info="蔚：茂盛；大观：盛大的景象。发展成为盛大壮观的景象。形容事物美好繁多，给人一种盛大的印象。" />
-		<phrase hz="蔚为壮观" py="wèi,wéi,zhuàng,guān" info="形容盛大壮丽的景象" />
-		<phrase hz="蔚映" py="wèi,yìng" info="1.茂密而相映衬。2.文采映照。" />
-		<phrase hz="云蒸霞蔚" py="yún,zhēng,xiá,wèi" info="蒸：上升；蔚：聚集。象云霞升腾聚集起来。形容景物灿烂绚丽。" />
-		<definition id="一">
-			<item id="1" text="草木茂盛。(引)盛大：~为大观. [蔚蓝]晴天天空的颜色：~~的天空." />
-			<item id="2" text="文采华美：云蒸霞~." />
-		</definition>
-	</char>
+	<!-- Ref:尉.xml <char hz="尉" py="wèi" multi="yù" main="1" suppressLog="1" /> -->
+	<!-- Ref:蔚.xml <char hz="蔚" py="wèi" multi="yù" main="1" /> -->
 	<char hz="慰" py="wèi">
 		<phrase hz="慰藉" py="wèi,jiè" />
 	</char>
 	<char hz="鳚" py="wèi" />
-	<char hz="遗" py="wèi" multi="yí">
-		<phrase hz="遗之千金" py="wèi,zhī,qiān,jīn" />
-		<definition id="二">
-			<item text="赠与：~之千金." />
-		</definition>
-	</char>
+	<!-- Ref:遗.xml <char hz="遗" py="wèi" multi="yí" /> -->
 	<char hz="魏" py="wèi" />
 </pinyin>

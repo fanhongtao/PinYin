@@ -39,16 +39,7 @@
 		</definition>
 	</char>
 	<char hz="洢" py="yī" />
-	<char hz="衣" py="yī" multi="yì" main="1" suppressLog="1">
-		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
-		<phrase hz="衣服" py="yī,fu" />
-		<phrase hz="衣裳" py="yī,shang" />
-		<definition id="一">
-			<item id="1" text="衣服(fu)，衣裳(shang)。" />
-			<item id="2" text="披在或包在物体外面的东西：炮~. 糖~炮弹." />
-			<item id="3" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:衣.xml <char hz="衣" py="yī" multi="yì" main="1" suppressLog="1" /> -->
 	<char hz="依" py="yī" />
 	<char hz="铱" py="yī" />
 	<char hz="医" py="yī" />
@@ -56,11 +47,7 @@
 	<char hz="繄" py="yī" />
 	<char hz="祎" py="yī" />
 	<char hz="猗" py="yī" />
-	<char hz="椅" py="yī" multi="yǐ">
-		<definition id="二">
-			<item text="又叫“山桐子”。落叶乔木，夏天开花，黄色，结小红果，木材可以制器物。" />
-		</definition>
-	</char>
+	<!-- Ref:椅.xml <char hz="椅" py="yī" multi="yǐ" /> -->
 	<char hz="漪" py="yī" />
 	<char hz="揖" py="yī" />
 	<char hz="壹" py="yī" />
@@ -87,12 +74,7 @@
 	<char hz="怡" py="yí" />
 	<char hz="贻" py="yí" />
 	<char hz="眙" py="yí" />
-	<char hz="迤" py="yí" multi="yǐ" info="Word主音">
-		<phrase hz="逶迤" py="wēi,yí" />
-		<definition id="二">
-			<item text="见“逶”字条“逶迤”(wēi-)。" />
-		</definition>
-	</char>
+	<!-- Ref:迤.xml <char hz="迤" py="yí" multi="yǐ" info="Word主音" /> -->
 	<char hz="椸" py="yí" />
 	<char hz="宜" py="yí" />
 	<char hz="扅" py="yí" />
@@ -106,30 +88,7 @@
 			<item text="见“委”字条“委蛇”(wēi-)。" />
 		</definition>
 	</char>
-	<char hz="遗" py="yí" multi="wèi" main="1" suppressLog="1">
-		<phrase hz="补遗" py="bǔ,yí" info="增补书籍正文的遗漏。 亦指上述增补内容。" />
-		<phrase hz="路不拾遗" py="lù,bù,shí,yí" info="遗：失物。路上没有人把别人丢失的东西捡走。形容社会风气好。" />
-		<phrase hz="遗产" py="yí,chǎn" info="先人所遗留下来的财富" />
-		<phrase hz="遗传" py="yí,chuán" info="1.通过细胞染色体由祖先向后代传递的品质 2.先人所流传下来的" />
-		<phrase hz="遗骸" py="yí,hái" info="曾是有生命的躯体的化石骸骨(如人的尸体);遗体" />
-		<phrase hz="遗憾" py="yí,hàn" info="遗恨;由无法控制的或无力补救的情况所引起的后悔" />
-		<phrase hz="遗恨" py="yí,hèn" info="未尽的心愿，未完成的理想，遗憾" />
-		<phrase hz="遗迹" py="yí,jì" info="前人留下的痕迹" />
-		<phrase hz="遗漏" py="yí,lòu" info="因疏忽而漏掉" />
-		<phrase hz="遗弃" py="yí,qì" info="不顾情感、忠诚或义务的约束而抛弃;抛弃应赡养或抚养的亲属" />
-		<phrase hz="遗失" py="yí,shī" info="由于疏忽而失掉 [东西]" />
-		<phrase hz="遗孀" py="yí,shuāng" info="丈夫死后留下的妻子" />
-		<phrase hz="遗体" py="yí,tǐ" info="1.死者的尸体 2.指自己的身体，古人认为自身为父母的遗体" />
-		<phrase hz="遗忘" py="yí,wàng" info="忘记，忘却" />
-		<phrase hz="遗址" py="yí,zhǐ" info="古人遗留下来的城堡、村落或寺庙等建筑基地" />
-		<definition id="一">
-			<item id="1" text="丢失（(连)-失）：~失钢笔一枝." />
-			<item id="2" text="漏掉（(连)-漏）：~忘." />
-			<item id="3" text="丢失的东西，漏掉的部分：路不拾~. 补~." />
-			<item id="4" text="余，留：不~余力. ~憾. 特指死人留下的：~嘱. ~像. [遗传]生物体的构造和生理机能由上一代传给下一代。" />
-			<item id="5" text="不自觉地排泄粪便或精液：~尿. ~精." />
-		</definition>
-	</char>
+	<!-- Ref:遗.xml <char hz="遗" py="yí" multi="wèi" main="1" suppressLog="1" /> -->
 	<char hz="疑" py="yí" />
 	<char hz="嶷" py="yí" />
 	<char hz="彝" py="yí" />
@@ -138,24 +97,10 @@
 	<char hz="已" py="yǐ" />
 	<char hz="以" py="yǐ" />
 	<char hz="苡" py="yǐ" />
-	<char hz="尾" py="yǐ" multi="wěi">
-		<phrase hz="马尾罗" py="mǎ,yǐ,luó" />
-		<phrase hz="三尾儿" py="sān,yǐ,er" />
-		<definition id="二">
-			<item id="1" text="马尾(wěi)上的长毛：马~罗." />
-			<item id="2" text="蟋蟀等尾部的针状物：三~儿（雌蟋蟀）." />
-		</definition>
-	</char>
+	<!-- Ref:尾.xml <char hz="尾" py="yǐ" multi="wěi" /> -->
 	<char hz="矣" py="yǐ" />
 	<char hz="苢" py="yǐ" />
-	<char hz="迤" py="yǐ" multi="yí" main="1">
-		<phrase hz="迤逦" py="yǐ,lǐ" />
-		<definition id="一">
-			<item id="1" text="地势斜着延长。" />
-			<item id="2" text="延伸，向（专指方向地位）：天安门~东（向东一带）." />
-			<item text="[迤逦](-lǐ)曲折连绵：沿着蜿蜒的山势~~而行." />
-		</definition>
-	</char>
+	<!-- Ref:迤.xml <char hz="迤" py="yǐ" multi="yí" main="1" /> -->
 	<char hz="酏" py="yǐ" />
 	<char hz="蚁" py="yǐ">
 		<definition>
@@ -164,12 +109,7 @@
 	</char>
 	<char hz="舣" py="yǐ" />
 	<char hz="倚" py="yǐ" />
-	<char hz="椅" py="yǐ" multi="yī" main="1" suppressLog="1">
-		<phrase hz="椅子" py="yǐ,zi" />
-		<definition id="一">
-			<item text="（-子）有靠背的坐具。" />
-		</definition>
-	</char>
+	<!-- Ref:椅.xml <char hz="椅" py="yǐ" multi="yī" main="1" suppressLog="1" /> -->
 	<char hz="旖" py="yǐ">
 		<phrase hz="旖旎" py="yǐ,nǐ" />
 	</char>
@@ -203,13 +143,7 @@
 	<char hz="亦" py="yì" />
 	<char hz="弈" py="yì" />
 	<char hz="奕" py="yì" />
-	<char hz="衣" py="yì" multi="yī">
-		<phrase hz="解衣衣我" py="jiě,yī,yì,wǒ" />
-		<phrase hz="衣布衣" py="yì,bù,yī" />
-		<definition id="二">
-			<item text="穿：~布衣. 解衣(yī)~我." />
-		</definition>
-	</char>
+	<!-- Ref:衣.xml <char hz="衣" py="yì" multi="yī" /> -->
 	<char hz="裔" py="yì" />
 	<char hz="异" py="yì">
 		<phrase hz="分居异爨" py="fēn,jū,yì,cuàn" />

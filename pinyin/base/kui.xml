@@ -15,11 +15,7 @@
 	<char hz="蝰" py="kuí" />
 	<char hz="逵" py="kuí" />
 	<char hz="馗" py="kuí" />
-	<char hz="隗" py="kuí" multi="wěi">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:隗.xml <char hz="隗" py="kuí" multi="wěi" /> -->
 	<char hz="魁" py="kuí" />
 	<char hz="揆" py="kuí" />
 	<char hz="葵" py="kuí" />

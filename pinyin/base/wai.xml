@@ -2,15 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="歪" py="wāi" />
 	<char hz="" py="wāi" />
-	<char hz="崴" py="wǎi" multi="wēi" main="1" suppressLog="1">
-		<phrase hz="海参崴" py="hǎi,shēn,wǎi" info="位于绥芬河口海湾东岸,渤海的率宾府地,元称永明城,清属吉林珲春协领管辖。1860年《中俄北京条约》,被俄国割占,1862年改为符拉迪沃斯托克(Vladivostok),意为控制东方" />
-		<phrase hz="崴子" py="wǎi,zi" info="〈方〉 1.水弯曲的地方--多用于地名。如:迟家崴子(在辽宁省);三道崴子(在吉林省) 2.山弯曲的地方--多用于地名" />
-		<definition id="一">
-			<item id="1" text="〈方〉（-子）山、水弯曲处。多用于地名：三道~子（在吉林省靖宇）." />
-			<item id="2" text="（脚）扭伤。" />
-			<item id="3" text="山路不平。" />
-		</definition>
-	</char>
+	<!-- Ref:崴.xml <char hz="崴" py="wǎi" multi="wēi" main="1" suppressLog="1" /> -->
 	<char hz="外" py="wài">
 		<phrase hz="外行" py="wài,háng" />
 	</char>
