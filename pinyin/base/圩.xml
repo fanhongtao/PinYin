@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="圩" py="wéi" multi="xū" main="1">
+		<phrase hz="圩田" py="wéi,tián" info="周围筑有土堤的稻田" />
+		<phrase hz="圩垸" py="wéi,yuàn" info="靠近湖泊的地区为防止湖水侵袭而筑的堤称“圩”,圩内的小圩子称“垸”,合称“圩垸”" />
+		<phrase hz="圩子" py="wéi,zi" info="四周具有高起的围岸的低洼地" />
+		<phrase hz="盐圩" py="yán,wéi" />
+		<definition id="一">
+			<item id="1" text="低洼地区周围防水的堤。" />
+			<item id="2" text="有圩围住的地区：~田. 盐~." />
+			<item id="3" text="（-子）围绕村落四周的障碍物，也作“围子”：土~子. 树~子." />
+		</definition>
+	</char>
+	<char hz="圩" py="xū" multi="wéi">
+		<phrase hz="赶圩" py="gǎn,xū" />
+		<phrase hz="圩日" py="xū,rì" info="〈方〉:集市开市的日子。也叫圩期" />
+		<definition id="二">
+			<item text="闽粤等地区称集市。古书里作“虚”。" />
+		</definition>
+	</char>
+</pinyin>

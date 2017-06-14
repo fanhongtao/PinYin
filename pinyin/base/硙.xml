@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="硙" py="wéi" multi="wèi" main="1">
+		<phrase hz="硙硙" py="wéi,wéi" />
+		<definition id="一">
+			<item text="[硙硙]形容很高的样子。" />
+		</definition>
+	</char>
+	<char hz="硙" py="wèi" multi="wéi">
+		<phrase hz="硙碾" py="wèi,niǎn" info="1.石磨和碾砣。2.研磨。" />
+		<definition id="二">
+			<item text="同“碨”。" />
+		</definition>
+	</char>
+</pinyin>

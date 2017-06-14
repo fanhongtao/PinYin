@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="语" py="yǔ" multi="yù" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="话（(连)-言）：成~. ~文. 外国~." />
+			<item id="2" text="谚语或古语：~云." />
+			<item id="3" text="代替语言的动作或方式：手~. 旗~." />
+			<item id="4" text="说：不言不~. 默默不~." />
+		</definition>
+	</char>
+	<char hz="语" py="yù" multi="yǔ">
+		<phrase hz="不可语人" py="bù,kě,yù,rén" />
+		<definition id="二">
+			<item text="告诉：不以~人." />
+		</definition>
+	</char>
+</pinyin>

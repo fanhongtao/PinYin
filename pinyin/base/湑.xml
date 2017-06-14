@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="湑" py="xǔ" multi="xù" main="1">
+		<phrase hz="酣湑" py="hān,xǔ" info="谓畅饮欢乐。" />
+		<phrase hz="湑酒" py="xǔ,jiǔ" info="清酒。" />
+		<phrase hz="湑湑" py="xǔ,xǔ" info="1.茂盛貌。 2.清风吹拂貌。 3.水清澈貌。" />
+		<definition id="一">
+			<item id="1" text="滤过的酒。(引)清。" />
+			<item id="2" text="茂盛。" />
+		</definition>
+	</char>
+	<char hz="湑" py="xù" multi="xǔ">
+		<phrase hz="湑水河" py="xù,shuǐ,hé" />
+		<definition id="二">
+			<item text="湑水河，水名，在陕西省汉中。" />
+		</definition>
+	</char>
+</pinyin>

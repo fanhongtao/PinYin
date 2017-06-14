@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蔚" py="wèi" multi="yù" main="1">
+		<phrase hz="蔚蓝" py="wèi,lán" info="类似晴朗天空的颜色的一种蓝色" />
+		<phrase hz="蔚起" py="wèi,qǐ" info="蓬勃兴起" />
+		<phrase hz="蔚然" py="wèi,rán" info="形容繁荣或盛行" />
+		<phrase hz="蔚为大观" py="wèi,wéi,dà,guān" info="蔚：茂盛；大观：盛大的景象。发展成为盛大壮观的景象。形容事物美好繁多，给人一种盛大的印象。" />
+		<phrase hz="蔚为壮观" py="wèi,wéi,zhuàng,guān" info="形容盛大壮丽的景象" />
+		<phrase hz="蔚映" py="wèi,yìng" info="1.茂密而相映衬。2.文采映照。" />
+		<phrase hz="云蒸霞蔚" py="yún,zhēng,xiá,wèi" info="蒸：上升；蔚：聚集。象云霞升腾聚集起来。形容景物灿烂绚丽。" />
+		<definition id="一">
+			<item id="1" text="草木茂盛。(引)盛大：~为大观. [蔚蓝]晴天天空的颜色：~~的天空." />
+			<item id="2" text="文采华美：云蒸霞~." />
+		</definition>
+	</char>
+	<char hz="蔚" py="yù" multi="wèi">
+		<phrase hz="蔚县" py="yù,xiàn" />
+		<phrase hz="蔚蔚" py="yù,yù" info="1.同“鬱鬱”。茂盛貌。 2.抑郁。" />
+		<definition id="二">
+			<item id="1" text="蔚县，在河北省。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

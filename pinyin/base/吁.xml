@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吁" py="xū" multi="yù" main="1">
+		<phrase hz="长吁" py="cháng,xū" info="长叹。" />
+		<phrase hz="长吁短叹" py="cháng,xū,duǎn,tàn" info="吁：叹息。长一声、短一声不住地叹气。形容发愁的神情。" />
+		<phrase hz="吁气" py="xū,qì" info="1.叹气。2.呼气，吐气。" />
+		<phrase hz="吁吁" py="xū,xū" info="喘气声。如:气喘吁吁" />
+		<definition id="一">
+			<item id="1" text="叹息：长~短叹." />
+			<item id="2" text="文言叹词，表示惊疑：~，是何言欤！" />
+		</definition>
+	</char>
+	<char hz="吁" py="yù" multi="xū">
+		<phrase hz="呼吁" py="hū,yù" info="1.因痛苦而呼号求助 2.今指某项主张，公开要求大众的支持为呼吁" />
+		<phrase hz="吁请" py="yù,qǐng" info="呼吁请求。" />
+		<phrase hz="吁求" py="yù,qiú" info="呼吁并恳求" />
+		<definition id="二">
+			<item text="为某种要求而呼喊：~请. 大声呼~." />
+		</definition>
+	</char>
+</pinyin>

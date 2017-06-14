@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="予" py="yú" multi="yǔ" main="1">
+		<definition id="一">
+			<item text="文言代词，我。" />
+		</definition>
+	</char>
+	<char hz="予" py="yǔ" multi="yú">
+		<phrase hz="赐予" py="cì,yǔ" info="1.作为一项恩惠而授予，恩赐 2.恩赐，赏给" />
+		<phrase hz="赋予" py="fù,yǔ" info="交给重任，使命等" />
+		<phrase hz="寄予" py="jì,yǔ" info="给予关怀、同情等" />
+		<phrase hz="授予" py="shòu,yǔ" info="郑重地给予" />
+		<phrase hz="予夺" py="yǔ,duó" info="1.给予和剥夺 2.指赞许和贬低" />
+		<phrase hz="予以" py="yǔ,yǐ" info="给以" />
+		<phrase hz="准予" py="zhǔn,yǔ" info="表示准许;同意" />
+		<definition id="二">
+			<item text="给予：授~奖状. ~以协助. ~以处分." />
+		</definition>
+	</char>
+</pinyin>

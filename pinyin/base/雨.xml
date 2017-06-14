@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="雨" py="yǔ" multi="yù" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="空气中的水蒸气上升到天空中遇冷凝成云，再遇冷聚集成大水点落下来就是雨。" />
+		</definition>
+	</char>
+	<char hz="雨" py="yù" multi="yǔ">
+		<definition id="二">
+			<item text="下（雨雪）：~雪." />
+		</definition>
+	</char>
+</pinyin>

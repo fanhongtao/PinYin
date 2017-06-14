@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="委" py="wēi" multi="wěi">
+		<phrase hz="委蛇" py="wēi,yí" />
+		<definition id="二">
+			<item text="[委蛇](-yí)1.敷衍，应付：虚与~~. 2.同“逶迤”。" />
+		</definition>
+	</char>
+	<char hz="委" py="wěi" multi="wēi" main="1" suppressLog="1">
+		<phrase hz="委靡" py="wěi,mǐ" />
+		<phrase hz="萎靡" py="wěi,mǐ" />
+		<phrase hz="委屈" py="wěi,qu" />
+		<definition id="一">
+			<item id="1" text="任，派，把事交给人办（(连)-任）：~以重任." />
+			<item id="2" text="抛弃，舍弃（(连)-）：~之于地." />
+			<item id="3" text="推诿。" />
+			<item id="4" text="曲折，婉转：话说得很~婉. [委屈](-qu)含冤受屈或心里苦闷：心里有~~，又不肯说." />
+			<item id="5" text="末，尾：原~." />
+			<item id="6" text="确实：~系实情. ~实不错." />
+			<item id="7" text="委员或委员会的简称：编~. 体~. 市~." />
+			<item text="[委靡][萎靡](-mǐ)颓丧，不振作：精神~~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="椅" py="yī" multi="yǐ">
+		<definition id="二">
+			<item text="又叫“山桐子”。落叶乔木，夏天开花，黄色，结小红果，木材可以制器物。" />
+		</definition>
+	</char>
+	<char hz="椅" py="yǐ" multi="yī" main="1" suppressLog="1">
+		<phrase hz="椅子" py="yǐ,zi" />
+		<definition id="一">
+			<item text="（-子）有靠背的坐具。" />
+		</definition>
+	</char>
+</pinyin>

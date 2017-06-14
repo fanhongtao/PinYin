@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="於" py="wū" multi="yū,yú">
+		<phrase hz="於乎" py="wū,hū" />
+		<phrase hz="於戏" py="wū,hū" />
+		<phrase hz="於菟" py="wū,tú" />
+		<definition id="三">
+			<item text="文言叹词。[於乎][於戏](-hū)同“呜呼”。" />
+			<item text="[於菟](-tú)〈古〉老虎的别称。" />
+		</definition>
+	</char>
+	<char hz="於" py="yū" multi="wū,yú" info="Word主音">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="於" py="yú" multi="wū,yū" main="1">
+		<definition id="一">
+			<item text="同“于(1)”。" />
+		</definition>
+	</char>
+</pinyin>

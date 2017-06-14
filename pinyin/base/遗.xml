@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="遗" py="wèi" multi="yí">
+		<phrase hz="遗之千金" py="wèi,zhī,qiān,jīn" />
+		<definition id="二">
+			<item text="赠与：~之千金." />
+		</definition>
+	</char>
+	<char hz="遗" py="yí" multi="wèi" main="1" suppressLog="1">
+		<phrase hz="补遗" py="bǔ,yí" info="增补书籍正文的遗漏。 亦指上述增补内容。" />
+		<phrase hz="路不拾遗" py="lù,bù,shí,yí" info="遗：失物。路上没有人把别人丢失的东西捡走。形容社会风气好。" />
+		<phrase hz="遗产" py="yí,chǎn" info="先人所遗留下来的财富" />
+		<phrase hz="遗传" py="yí,chuán" info="1.通过细胞染色体由祖先向后代传递的品质 2.先人所流传下来的" />
+		<phrase hz="遗骸" py="yí,hái" info="曾是有生命的躯体的化石骸骨(如人的尸体);遗体" />
+		<phrase hz="遗憾" py="yí,hàn" info="遗恨;由无法控制的或无力补救的情况所引起的后悔" />
+		<phrase hz="遗恨" py="yí,hèn" info="未尽的心愿，未完成的理想，遗憾" />
+		<phrase hz="遗迹" py="yí,jì" info="前人留下的痕迹" />
+		<phrase hz="遗漏" py="yí,lòu" info="因疏忽而漏掉" />
+		<phrase hz="遗弃" py="yí,qì" info="不顾情感、忠诚或义务的约束而抛弃;抛弃应赡养或抚养的亲属" />
+		<phrase hz="遗失" py="yí,shī" info="由于疏忽而失掉 [东西]" />
+		<phrase hz="遗孀" py="yí,shuāng" info="丈夫死后留下的妻子" />
+		<phrase hz="遗体" py="yí,tǐ" info="1.死者的尸体 2.指自己的身体，古人认为自身为父母的遗体" />
+		<phrase hz="遗忘" py="yí,wàng" info="忘记，忘却" />
+		<phrase hz="遗址" py="yí,zhǐ" info="古人遗留下来的城堡、村落或寺庙等建筑基地" />
+		<definition id="一">
+			<item id="1" text="丢失（(连)-失）：~失钢笔一枝." />
+			<item id="2" text="漏掉（(连)-漏）：~忘." />
+			<item id="3" text="丢失的东西，漏掉的部分：路不拾~. 补~." />
+			<item id="4" text="余，留：不~余力. ~憾. 特指死人留下的：~嘱. ~像. [遗传]生物体的构造和生理机能由上一代传给下一代。" />
+			<item id="5" text="不自觉地排泄粪便或精液：~尿. ~精." />
+		</definition>
+	</char>
+</pinyin>

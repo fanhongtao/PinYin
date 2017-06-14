@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="亡" py="wáng" multi="wú" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="逃（(连)逃-）：~命. 流~. (引)失去：~羊补牢（喻事后补救）. 唇~齿寒（喻利害相关）." />
+			<item id="2" text="死（(连)死-）：伤~很少. (引)死去的：~弟." />
+			<item id="3" text="灭（(连)灭-）：~国." />
+		</definition>
+	</char>
+	<char hz="亡" py="wú" multi="wáng">
+		<definition id="二">
+			<item text="古同“无”。" />
+		</definition>
+	</char>
+</pinyin>

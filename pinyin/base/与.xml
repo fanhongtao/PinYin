@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="与" py="yú" multi="yǔ,yù">
+		<definition id="三">
+			<item text="同“欤”。" />
+		</definition>
+	</char>
+	<char hz="与" py="yǔ" multi="yú,yù" main="1" suppressLog="1">
+		<phrase hz="施与" py="shī,yǔ" info="给予恩惠、财物等" />
+		<phrase hz="相与" py="xiāng,yǔ" info="1.相偕、相互。 2.結交。 3.朋友，交情好的人。" />
+		<phrase hz="与共" py="yǔ,gòng" info="无论发生什么事都不分开" />
+		<phrase hz="与其" py="yǔ,qí" info="在比较两件事的利害得失而决定取舍时，表示放弃或不赞成的一面" />
+		<phrase hz="赠与" py="zèng,yǔ" info="赠送;法律上指把自己的财产无条件地转移给他人;作为经济上的援助所给与的货币或财产。也作赠予" />
+		<definition id="一">
+			<item id="1" text="介词，跟：~疾病作斗争. ~虎谋皮." />
+			<item id="2" text="连词，和：批评~自我批评. 父亲~母亲都来." />
+			<item id="3" text="给：赠~. 交~本人. ~人方便." />
+			<item id="4" text="交往，交好：此人易~. 相~. ~国（相交好的国家）." />
+			<item id="5" text="赞助：~人为善（原指赞助人学好，后多指善意助人）." />
+			<item text="[与其]连词，常跟“宁”、“宁可”、“不如”、“不若”等连胜，表示比较：~~坐车，不如坐船." />
+		</definition>
+	</char>
+	<char hz="与" py="yù" multi="yú,yǔ">
+		<phrase hz="参与" py="cān,yù" info="预闻而参议其事；介入，参加。" />
+		<phrase hz="与会" py="yù,huì" info="到会" />
+		<phrase hz="与闻" py="yù,wén" info="参与并知道[内情]" />
+		<definition id="二">
+			<item text="参与，参加：~会. ~闻此事（参与并且得知此事的内情）." />
+		</definition>
+	</char>
+</pinyin>

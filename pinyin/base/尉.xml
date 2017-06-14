@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尉" py="wèi" multi="yù" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="古官名：太~." />
+			<item id="2" text="军衔名：上~." />
+			<item text="[尉氏]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="尉" py="yù" multi="wèi">
+		<phrase hz="尉迟" py="yù,chí" />
+		<phrase hz="尉犁" py="yù,lí" />
+		<definition id="二">
+			<item text="[尉迟]复姓。 [尉犁]地名，在新疆维吾尔自治区。" />
+		</definition>
+	</char>
+</pinyin>

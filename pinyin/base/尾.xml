@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尾" py="wěi" multi="yǐ" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="（-巴）鸟、兽、虫、鱼等身体末端突出的部分：猪~巴. [交尾]动物交配。" />
+			<item id="2" text="末端：排~." />
+			<item id="3" text="尾随，在后面跟：~其后." />
+			<item id="4" text="量词，用于鱼。" />
+			<item id="5" text="星宿名，二十八宿之一。" />
+		</definition>
+	</char>
+	<char hz="尾" py="yǐ" multi="wěi">
+		<phrase hz="马尾罗" py="mǎ,yǐ,luó" />
+		<phrase hz="三尾儿" py="sān,yǐ,er" />
+		<definition id="二">
+			<item id="1" text="马尾(wěi)上的长毛：马~罗." />
+			<item id="2" text="蟋蟀等尾部的针状物：三~儿（雌蟋蟀）." />
+		</definition>
+	</char>
+</pinyin>

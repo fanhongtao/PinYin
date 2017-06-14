@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="王" py="wáng" multi="wàng" main="1" suppressLog="1">
+		<phrase hz="王子" py="wáng,zǐ" />
+		<definition id="一">
+			<item id="1" text="古代指帝王或最高的爵位。" />
+			<item id="2" text="一族或一类中的首领：兽~. 蜂~. 花中之~." />
+			<item id="3" text="大，辈分高：~父（祖父）. ~母（祖母）." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="王" py="wàng" multi="wáng">
+		<phrase hz="王此大邦" py="wàng,cǐ,dà,bāng" />
+		<phrase hz="以德行仁者王" py="yǐ,dé,xíng,rén,zhě,wàng" />
+		<definition id="二">
+			<item id="1" text="统一天下：以德行仁者~." />
+			<item id="2" text="统治：~此大邦." />
+		</definition>
+	</char>
+</pinyin>

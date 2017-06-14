@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="迤" py="yí" multi="yǐ" info="Word主音">
+		<phrase hz="逶迤" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“逶”字条“逶迤”(wēi-)。" />
+		</definition>
+	</char>
+	<char hz="迤" py="yǐ" multi="yí" main="1">
+		<phrase hz="迤逦" py="yǐ,lǐ" />
+		<definition id="一">
+			<item id="1" text="地势斜着延长。" />
+			<item id="2" text="延伸，向（专指方向地位）：天安门~东（向东一带）." />
+			<item text="[迤逦](-lǐ)曲折连绵：沿着蜿蜒的山势~~而行." />
+		</definition>
+	</char>
+</pinyin>
