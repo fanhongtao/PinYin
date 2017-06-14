@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="会" py="huì" multi="kuài" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="聚合，合拢，合在一起：在哪儿~合？就在这里~齐吧. ~审. ~话（对面说话）. [会师]从不同地方前进的军队，在某一个地方聚合在一起。" />
+			<item id="2" text="多数人的集合。 1.有一定目的的集会：纪念~. 群众大~. 开个~. 2.指某些团体：工~. 学生~." />
+			<item id="3" text="城市（通常指行政中心）：都(dū)~. 省~." />
+			<item id="4" text="彼此见面：~客. ~一~面. 你~过他没有？" />
+			<item id="5" text="付钱：~账. 饭钱我~过了." />
+			<item id="6" text="理解，领悟，懂：误~. ~意. 领~." />
+			<item id="7" text="能。 1.表示懂得怎样做或有能力做：他~游泳. 2.可能：我想他不~不懂. 3.能够：我们的理想一定~实现. 4.善于：能说~道." />
+			<item id="8" text="机会，时机，事情变化的一个时间：适逢其~. 趁着这个机~." />
+			<item id="9" text="一定，应当（(连)-当）：长风破浪~有时." />
+			<item id="10" text="恰好，正好：~天下雨，道不通." />
+			<item id="11" text="（-儿）一小段时间：一~儿. 这~儿. 那~儿. 多~儿. 用不了多大~儿." />
+		</definition>
+	</char>
+	<char hz="会" py="kuài" multi="huì">
+		<phrase hz="会计" py="kuài,jì" />
+		<definition id="二">
+			<item text="总计。 [会计]1.管理和计算财务的工作。 2.管理和计算财务的人。" />
+		</definition>
+	</char>
+</pinyin>

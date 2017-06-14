@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="混" py="hún" multi="hùn">
+		<phrase hz="混蛋" py="hún,dàn" />
+		<phrase hz="混浊" py="hún,zhuó" />
+		<definition id="二">
+			<item text="同“浑(1)(2)。" />
+		</definition>
+	</char>
+	<char hz="混" py="hùn" multi="hún" main="1" suppressLog="1">
+		<phrase hz="混沌" py="hùn,dùn" />
+		<phrase hz="混合" py="hùn,hé" />
+		<phrase hz="混乱" py="hùn,luàn" />
+		<phrase hz="混淆" py="hùn,xiáo" />
+		<phrase hz="混杂" py="hùn,zá" />
+		<definition id="一">
+			<item id="1" text="掺杂在一起：~合物. ~杂. ~入. ~充. ~为一谈." />
+			<item id="2" text="苟且度过：~日子. 鬼~." />
+			<item id="3" text="蒙混：~过去了. 鱼目~珠." />
+			<item id="4" text="胡乱：~乱. ~出主意." />
+			<item text="[混沌](-dùn)1.传说中指世界开辟前的状态。 2.糊涂，不清楚。" />
+		</definition>
+	</char>
+</pinyin>

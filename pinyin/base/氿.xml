@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="氿" py="guǐ" multi="jiǔ" main="1">
+		<phrase hz="氿泉" py="guǐ,quán" />
+		<definition id="一">
+			<item text="[氿泉]，从侧面喷出的泉。" />
+		</definition>
+	</char>
+	<char hz="氿" py="jiǔ" multi="guǐ">
+		<phrase hz="东氿" py="dōng,jiǔ" />
+		<phrase hz="西氿" py="xī,jiǔ" />
+		<definition id="二">
+			<item text="湖名，在江苏省宜兴，分东氿、西氿。" />
+		</definition>
+	</char>
+</pinyin>

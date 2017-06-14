@@ -9,13 +9,7 @@
 	<char hz="啾" py="jiū" />
 	<char hz="鬏" py="jiū" />
 	<char hz="九" py="jiǔ" />
-	<char hz="氿" py="jiǔ" multi="guǐ">
-		<phrase hz="东氿" py="dōng,jiǔ" />
-		<phrase hz="西氿" py="xī,jiǔ" />
-		<definition id="二">
-			<item text="湖名，在江苏省宜兴，分东氿、西氿。" />
-		</definition>
-	</char>
+	<!-- Ref:氿.xml <char hz="氿" py="jiǔ" multi="guǐ" /> -->
 	<char hz="久" py="jiǔ" />
 	<char hz="玖" py="jiǔ" />
 	<char hz="灸" py="jiǔ" />

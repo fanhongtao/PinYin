@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="桧" py="guì" multi="huì" main="1">
+		<phrase hz="桧柏" py="guì,bǎi" info="1.桧和柏。2.桧的一种。常绿灌木。俗称子孙柏。" />
+		<definition id="一">
+			<item text="植物学上叫“圆柏”。常绿乔木，幼树的叶子针状，大树的叶子鳞片状，果实球形，木材桃红色，有香气，可供建筑及制造铅笔杆等。" />
+		</definition>
+	</char>
+	<char hz="桧" py="huì" multi="guì">
+		<phrase hz="秦桧" py="qín,huì" />
+		<definition id="二">
+			<item text="用于人名。秦桧，南宋奸臣。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溃" py="huì" multi="kuì">
+		<phrase hz="溃脓" py="huì,nóng" />
+		<definition id="二">
+			<item text="疮溃(kuì)烂：~脓." />
+		</definition>
+	</char>
+	<char hz="溃" py="kuì" multi="huì" main="1" suppressLog="1">
+		<phrase hz="溃疡" py="kuì,yáng" />
+		<definition id="一">
+			<item id="1" text="溃决，大水冲开堤岸。" />
+			<item id="2" text="散乱，垮台：~散. 敌军~败. ~不成军. 经济崩~. [溃围]突破包围。" />
+			<item id="3" text="肌肉组织腐烂：~烂. [溃疡](-yáng)黏膜或表皮坏死而形成的缺损。" />
+		</definition>
+	</char>
+</pinyin>

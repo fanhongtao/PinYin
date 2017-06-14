@@ -30,14 +30,7 @@
 	<char hz="匮" py="kuì" />
 	<char hz="蒉" py="kuì" />
 	<char hz="馈" py="kuì" />
-	<char hz="溃" py="kuì" multi="huì" main="1" suppressLog="1">
-		<phrase hz="溃疡" py="kuì,yáng" />
-		<definition id="一">
-			<item id="1" text="溃决，大水冲开堤岸。" />
-			<item id="2" text="散乱，垮台：~散. 敌军~败. ~不成军. 经济崩~. [溃围]突破包围。" />
-			<item id="3" text="肌肉组织腐烂：~烂. [溃疡](-yáng)黏膜或表皮坏死而形成的缺损。" />
-		</definition>
-	</char>
+	<!-- Ref:溃.xml <char hz="溃" py="kuì" multi="huì" main="1" suppressLog="1" /> -->
 	<char hz="愦" py="kuì" />
 	<char hz="" py="kuì" />
 	<char hz="聩" py="kuì" />

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="珲" py="huī" multi="hún">
+		<phrase hz="瑷珲" py="ài,huī" />
+		<definition id="二">
+			<item text="见“瑷”字条“瑷珲”(ài-)。" />
+		</definition>
+	</char>
+	<char hz="珲" py="hún" multi="huī" main="1">
+		<definition id="一">
+			<item text="[珲春]地名，在吉林省。" />
+		</definition>
+	</char>
+</pinyin>
