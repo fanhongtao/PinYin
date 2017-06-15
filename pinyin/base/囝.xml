@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="囝" py="jiǎn" multi="nān" main="1">
+		<definition id="一">
+			<item text="〈方〉儿子。" />
+		</definition>
+	</char>
+	<char hz="囝" py="nān" multi="jiǎn">
+		<definition id="二">
+			<item text="〈方〉同“囡”。" />
+		</definition>
+	</char>
+</pinyin>

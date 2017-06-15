@@ -4,11 +4,7 @@
 	<char hz="奢" py="shē" />
 	<char hz="赊" py="shē" />
 	<char hz="畲" py="shē" />
-	<char hz="畬" py="shē" multi="yú" main="1">
-		<definition id="二">
-			<item text="焚烧田地里的草木，用草木灰做肥料耕种。" />
-		</definition>
-	</char>
+	<!-- Ref:畬.xml <char hz="畬" py="shē" multi="yú" main="1" /> -->
 	<char hz="猞" py="shē">
 		<phrase hz="猞猁" py="shē,lì" />
 	</char>

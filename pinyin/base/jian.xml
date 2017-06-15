@@ -1,94 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="戋" py="jiān" />
-	<char hz="浅" py="jiān" multi="qiǎn">
-		<phrase hz="浅浅" py="jiān,jiān" />
-		<definition id="二">
-			<item text="[浅浅]拟声词，形容流水声。" />
-		</definition>
-	</char>
+	<!-- Ref:浅.xml <char hz="浅" py="jiān" multi="qiǎn" /> -->
 	<char hz="笺" py="jiān" />
-	<char hz="溅" py="jiān" multi="jiàn">
-		<phrase hz="溅溅" py="jiān,jiān" />
-		<definition id="二">
-			<item text="[溅溅]同“浅浅”(jiān-)。" />
-		</definition>
-	</char>
+	<!-- Ref:溅.xml <char hz="溅" py="jiān" multi="jiàn" /> -->
 	<char hz="尖" py="jiān" />
 	<char hz="奸" py="jiān" />
 	<char hz="歼" py="jiān" />
 	<char hz="坚" py="jiān" />
 	<char hz="鲣" py="jiān" />
-	<char hz="间" py="jiān" multi="jiàn" main="1">
-		<phrase hz="包间" py="bāo,jiān" info="室内设计是一种对空间围合封闭而产生相对独立的空间，这里受外部干扰小，属于一种私密空间。" />
-		<phrase hz="车间" py="chē,jiān" info="企业完成某工序或单独生产某种产品的单位" />
-		<phrase hz="晨间" py="chén,jiān" info="早晨。" />
-		<phrase hz="尘间" py="chén,jiān" info="人间。" />
-		<phrase hz="此间" py="cǐ,jiān" info="此地。" />
-		<phrase hz="凡间" py="fán,jiān" info="人世间" />
-		<phrase hz="房间" py="fáng,jiān" />
-		<phrase hz="工间" py="gōng,jiān" info="工作间歇" />
-		<phrase hz="间架" py="jiān,jià" info="1.房屋建筑的结构。梁与梁之间叫间，桁与桁之间叫架。借使汉字的笔画构架。2.文章的布局。" />
-		<phrase hz="间距" py="jiān,jù" info="间隔的距离。" />
-		<phrase hz="开间" py="kāi,jiān" info="1.墙、屋顶、其他建筑部分或整个建筑的主要分隔间。2.旧式房屋的宽度单位,相当于一根檩的长度(约3.3米)。3.一间房的宽度。" />
-		<phrase hz="课间" py="kè,jiān" />
-		<phrase hz="空间" py="kōng,jiān" info="与时间相对的一种物质存在形式，表现为长度、宽度、高度。也指数字空间、物理空间与宇宙空间" />
-		<phrase hz="里间" py="lǐ,jiān" info="里、外间房屋中不直接与室外相通的房间。也叫里间屋" />
-		<phrase hz="眉间" py="méi,jiān" />
-		<phrase hz="民间" py="mín,jiān" />
-		<phrase hz="期间" py="qī,jiān" info="某个时期里面" />
-		<phrase hz="人间" py="rén,jiān" info="指整个人类社会;世间" />
-		<phrase hz="时间" py="shí,jiān" />
-		<phrase hz="世间" py="shì,jiān" info="人世间；世界上。" />
-		<phrase hz="瞬间" py="shùn,jiān" info="一眨眼的工夫，转瞬之间" />
-		<phrase hz="太平间" py="tài,píng,jiān" info="医院中停放尸体的房间。" />
-		<phrase hz="田间" py="tián,jiān" info="1.田地里。2.农村;乡间。" />
-		<phrase hz="晚间" py="wǎn,jiān" info="晚上。" />
-		<phrase hz="午间" py="wǔ,jiān" info="中午时分。" />
-		<phrase hz="乡间" py="xiāng,jiān" info="远离文化中心或与它没有什么接触的农村地区。" />
-		<phrase hz="洗手间" py="xǐ,shǒu,jiān" info="廁所。" />
-		<phrase hz="阳间" py="yáng,jiān" info="人世间。" />
-		<phrase hz="夜间" py="yè,jiān" />
-		<phrase hz="衣帽间" py="yī,mào,jiān" info="1.专设有存物柜的房间;尤指设有供运动员个人单独存放衣服和专用设备的柜橱并供更换运动服的房间。2.供客人临时存放衣帽的房间。" />
-		<phrase hz="阴间" py="yīn,jiān" info="人类生存的空间，称其为阳间，人类死亡后，其灵魂所在的空间，称为阴间。" />
-		<phrase hz="之间" py="zhī,jiān" />
-		<phrase hz="中间" py="zhōng,jiān" />
-		<phrase hz="字里行间" py="zì,lǐ,háng,jiān" info="文字语句中间,常形容文句言语之间的含义,跃然纸上" />
-		<definition id="一">
-			<item id="1" text="中间，两段时间或两种事物相接的地方：课~操. 彼此~有差别." />
-			<item id="2" text="在一定的地方、时间或人群的范围之内：田~. 晚~. 人~." />
-			<item id="3" text="房间，屋子：车~. 衣帽~. 卫生~." />
-			<item id="4" text="量词，用于房屋：一~房. 广厦千~." />
-		</definition>
-	</char>
+	<!-- Ref:间.xml <char hz="间" py="jiān" multi="jiàn" main="1" /> -->
 	<char hz="肩" py="jiān" />
 	<char hz="艰" py="jiān" />
-	<char hz="监" py="jiān" multi="jiàn" main="1">
-		<phrase hz="监察" py="jiān,chá" info="监督考察;监督检举" />
-		<phrase hz="监场" py="jiān,chǎng" info="监视考场。" />
-		<phrase hz="监测" py="jiān,cè" info="监管并检测" />
-		<phrase hz="监督" py="jiān,dū" info="1.察看并加以管理。2.从事监督工作的人。" />
-		<phrase hz="监工" py="jiān,gōng" info="1.负责使一队工人如期完成工作的监督者。2.在厂矿、工地监督工人工作。" />
-		<phrase hz="监管" py="jiān,guǎn" info="监视管理；监督管理。" />
-		<phrase hz="监护" py="jiān,hù" info="1.对未成年者、精神病人等的人身、财产以及其他合法权益的监督与保护。2.督察。3.对危重病人严密观察,以便及时抢救。" />
-		<phrase hz="监考" py="jiān,kǎo" info="1.看管考生，使其不舞弊。2.监考的人。" />
-		<phrase hz="监禁" py="jiān,jìn" info="把人关押起来，限制人身自由" />
-		<phrase hz="监控" py="jiān,kòng" info="监测并进行控制" />
-		<phrase hz="监牢" py="jiān,láo" info="牢房;监狱" />
-		<phrase hz="监事" py="jiān,shì" info="1.指企业或事业组织中担任监察工作的领导成员。2.封建时代朝廷官署的低级官员。" />
-		<phrase hz="监视" py="jiān,shì" info="从旁监察注视" />
-		<phrase hz="监听" py="jiān,tīng" info="利用特种设备监察别人的谈话或发出的通信信号等" />
-		<phrase hz="监押" py="jiān,yā" info="拘押;扣留" />
-		<phrase hz="监狱" py="jiān,yù" info="用以监禁犯人的建筑物" />
-		<phrase hz="收监" py="shōu,jiān" info="指关进监牢" />
-		<phrase hz="探监" py="tàn,jiān" info="去监狱探望服刑的人" />
-		<phrase hz="学监" py="xué,jiān" info="旧时学校里监督、管理学生的人员" />
-		<phrase hz="坐监" py="zuò,jiān" info="坐牢。" />
-		<definition id="一">
-			<item id="1" text="督察：~察. ~工. ~考." />
-			<item id="2" text="牢，狱（(连)-牢、-狱）：收~. 坐~. [监禁]把犯罪的人收监，限制他的自由。" />
-		</definition>
-	</char>
+	<!-- Ref:监.xml <char hz="监" py="jiān" multi="jiàn" main="1" /> -->
 	<char hz="兼" py="jiān" />
 	<char hz="搛" py="jiān" />
 	<char hz="蒹" py="jiān" />
@@ -96,27 +20,8 @@
 	<char hz="鹣" py="jiān" />
 	<char hz="鳒" py="jiān" />
 	<char hz="菅" py="jiān" />
-	<char hz="渐" py="jiān" multi="jiàn">
-		<phrase hz="东染于海" py="dōng,jiān,yú,hǎi" />
-		<phrase hz="渐染" py="jiān,rǎn" />
-		<definition id="二">
-			<item id="1" text="浸：~染." />
-			<item id="2" text="流入：东~于海." />
-		</definition>
-	</char>
-	<char hz="犍" py="jiān" multi="qián" main="1">
-		<phrase hz="八犍" py="bā,jiān" info="见“八犍度”。" />
-		<phrase hz="八犍度" py="bā,jiān,dù" info="谓佛教分诸法为八类(犍度，梵语法聚的意思)：一、杂犍度，杂说四善根、四圣果等。二、结使犍度(结使，烦恼的意思)。有三结、五盖乃至百八烦恼之说。三、智犍度，说二智、四智等。四、行犍度，说十善、十恶等业行。五、大犍度，说地、水、火及四大等法。六、根犍度，说眼耳等五根，六根乃至二十二根等。七、定犍度，说四禅、四定之禅定。八、见犍度，说断、常二见乃至六十二见等。亦省作“八犍”。" />
-		<phrase hz="犍槌" py="jiān,chuí" info="见“犍椎”。" />
-		<phrase hz="犍牛" py="jiān,niú" info="阉割过的牛。" />
-		<phrase hz="犍椎" py="jiān,zhuī" info="亦作“犍槌”。梵语的音译。意为“声鸣”。指寺院中的木鱼、钟、磬之类。" />
-		<phrase hz="千斤犍" py="qiān,jīn,jiān" info="千斤之犗牛，比喻难得的人才。" />
-		<phrase hz="乌犍" py="wū,jiān" info="阉过的公牛，驯顺、强健、易御。常泛指耕牛。" />
-		<phrase hz="诸犍" py="zhū,jiān" info="传说中的兽名。" />
-		<definition id="一">
-			<item text="阉割过的公牛。" />
-		</definition>
-	</char>
+	<!-- Ref:渐.xml <char hz="渐" py="jiān" multi="jiàn" /> -->
+	<!-- Ref:犍.xml <char hz="犍" py="jiān" multi="qián" main="1"> -->
 	<char hz="鞬" py="jiān" />
 	<char hz="湔" py="jiān" />
 	<char hz="煎" py="jiān" />
@@ -124,11 +29,7 @@
 	<char hz="瑊" py="jiān" />
 	<char hz="鞯" py="jiān" />
 	<char hz="櫼" py="jiān" />
-	<char hz="囝" py="jiǎn" multi="nān" main="1">
-		<definition id="一">
-			<item text="〈方〉儿子。" />
-		</definition>
-	</char>
+	<!-- Ref:囝.xml <char hz="囝" py="jiǎn" multi="nān" main="1" /> -->
 	<char hz="拣" py="jiǎn" />
 	<char hz="枧" py="jiǎn" />
 	<char hz="笕" py="jiǎn" />
@@ -145,74 +46,26 @@
 	<char hz="剪" py="jiǎn" />
 	<char hz="谫" py="jiǎn" />
 	<char hz="翦" py="jiǎn" />
-	<char hz="锏" py="jiǎn" multi="jiàn" main="1">
-		<phrase hz="鞭锏" py="biān,jiǎn" info="鞭简。古代兵器名。" />
-		<phrase hz="撒手锏" py="sā,shǒu,jiǎn" info="旧小说中搏斗时突然用锏投杀敌人的绝招，比喻在危急时拿出看家本领。" />
-		<phrase hz="杀手锏" py="shā,shǒu,jiǎn" info="一作撒手锏，喻指取胜的绝招。" />
-		<phrase hz="刹手锏" py="shā,shǒu,jiǎn" info="即杀手锏。锏术中的绝招。后用以比喻最厉害的一手。" />
-		<phrase hz="煞手锏" py="shà,shǒu,jiǎn" info="杀手锏。喻出奇制胜的手段和方法。" />
-		<phrase hz="四楞锏" py="sì,léng,jiǎn" info="亦作“四棱简”。有四条棱的鞭类兵器。" />
-		<definition id="二">
-			<item text="古代的一种兵器，像鞭，四棱。" />
-		</definition>
-	</char>
+	<!-- Ref:锏.xml <char hz="锏" py="jiǎn" multi="jiàn" main="1" /> -->
 	<char hz="简" py="jiǎn" />
 	<char hz="戬" py="jiǎn" />
 	<char hz="蹇" py="jiǎn" />
 	<char hz="謇" py="jiǎn" />
 	<char hz="瀽" py="jiǎn" />
 	<char hz="劗" py="jiǎn" trans="1" />
-	<char hz="见" py="jiàn" multi="xiàn" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="看到：眼~为实. (引)接触，遇到：这种病怕~风. 胶卷不能~光. [见习]学得专业知识的人初到工作岗位在现场中实习：~~技术员." />
-			<item id="2" text="看得出，显现出：病已~好. ~分晓. ~效." />
-			<item id="3" text="（文字等）出现在某处，可参考：~上. ~下. ~《史记·陈涉世家》." />
-			<item id="4" text="会见，会面：接~. 看望多年未~的老战友." />
-			<item id="5" text="见解，对于事物的看法（(连)-识）：~地. 远~. 不能固执己~." />
-			<item id="6" text="助词。 1.用在动词前面表示被动：~笑. ~疑. 2.用在动词前面表示对说话人怎么样：~谅. ~告. ~教." />
-			<item id="7" text="用在动词“听”、“看”、“闻”等字后，表示结果：看~. 听不~." />
-			<item id="8" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:见.xml <char hz="见" py="jiàn" multi="xiàn" main="1" suppressLog="1" /> -->
 	<char hz="舰" py="jiàn" />
 	<char hz="件" py="jiàn" />
 	<char hz="牮" py="jiàn" />
-	<char hz="间" py="jiàn" multi="jiān">
-		<phrase hz="反间" py="fǎn,jiàn" info="利用敌人的间谍使敌人获得虚假的情报,也指用计使敌人内部不和" />
-		<phrase hz="黑白相间" py="hēi,bái,xiāng,jiàn" />
-		<phrase hz="间谍" py="jiàn,dié" />
-		<phrase hz="间断" py="jiàn,duàn" info="连续的事情中断" />
-		<phrase hz="间隔" py="jiàn,gé" />
-		<phrase hz="间或" py="jiàn,huò" info="1.表示动作、事情时断时续地发生或者发生不是普遍的，相當于有时候、偶尓。2.时断时续。3.有时候。" />
-		<phrase hz="间接" py="jiàn,jiē" />
-		<phrase hz="间隙" py="jiàn,xì" />
-		<phrase hz="间歇" py="jiàn,xiē" info="1.动作、变化等隔一定时间就停息一会儿。2.两段时间之间的间隔。" />
-		<phrase hz="离间" py="lí,jiàn" info="1.从中挑拨，造成分离。2.使疏远;使不和睦。" />
-		<phrase hz="亲密无间" py="qīn,mì,wú,jiàn" />
-		<phrase hz="晴间多云" py="qíng,jiàn,duō,yún" />
-		<phrase hz="无间" py="wú,jiàn" info="1.中间没有间隙。2.不间断。3.不分别。" />
-		<definition id="二">
-			<item id="1" text="（-儿）空隙：当~儿. (引)嫌隙，隔阂：亲密无~." />
-			<item id="2" text="不连接，隔开：~断. 黑白相~. 晴~多云. [间或]副词，偶尔：他~~也来一两次. [间接]通过第三者发生关系的（跟“直接”相对）：~~经验." />
-			<item id="3" text="挑拨使人不和：离~. 反~计." />
-		</definition>
-	</char>
+	<!-- Ref:间.xml <char hz="间" py="jiàn" multi="jiān" /> -->
 	<char hz="涧" py="jiàn" />
-	<char hz="锏" py="jiàn" multi="jiǎn">
-		<definition id="一">
-			<item text="嵌在车轴上的铁，可以保护车轴并减少摩擦力。" />
-		</definition>
-	</char>
+	<!-- Ref:锏.xml <char hz="锏" py="jiàn" multi="jiǎn" /> -->
 	<char hz="饯" py="jiàn" />
 	<char hz="贱" py="jiàn" />
 	<char hz="践" py="jiàn">
 		<phrase hz="作践" py="zuò,jian" />
 	</char>
-	<char hz="溅" py="jiàn" multi="jiān" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="液体受冲激向四外飞射：~了一脸水. 水花四~." />
-		</definition>
-	</char>
+	<!-- Ref:溅.xml <char hz="溅" py="jiàn" multi="jiān" main="1" suppressLog="1" /> -->
 	<char hz="建" py="jiàn" />
 	<char hz="健" py="jiàn" />
 	<char hz="楗" py="jiàn" />
@@ -224,39 +77,10 @@
 	</char>
 	<char hz="荐" py="jiàn" />
 	<char hz="剑" py="jiàn" />
-	<char hz="监" py="jiàn" multi="jiān">
-		<phrase hz="国子监" py="guó,zǐ,jiàn" />
-		<phrase hz="监本" py="jiàn,běn" info="各个朝代的国子监所刻印的书" />
-		<phrase hz="监生" py="jiàn,shēng" info="明清两代称在国子监读书或取得进国子监读书资格的人" />
-		<phrase hz="钦天监" py="qīn,tiān,jiàn" />
-		<phrase hz="太监" py="tài,jiàn" />
-		<definition id="二">
-			<item id="1" text="帝王时代的官名或官府名：太~. 国子~. 钦天~（掌管天文历法的官府）." />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
-	<char hz="槛" py="jiàn" multi="kǎn" main="1">
-		<phrase hz="槛送" py="jiàn,sòng" info="以囚车押送。" />
-		<definition id="一">
-			<item id="1" text="栏杆，栏板。" />
-			<item id="2" text="圈(juān)兽类的栅栏。 [槛车]1.运兽用的有栏杆的车。 2.古代押运囚犯的车。" />
-		</definition>
-	</char>
+	<!-- Ref:监.xml <char hz="监" py="jiàn" multi="jiān" /> -->
+	<!-- Ref:槛.xml <char hz="槛" py="jiàn" multi="kǎn" main="1" /> -->
 	<char hz="鉴" py="jiàn" />
-	<char hz="渐" py="jiàn" multi="jiān" main="1">
-		<phrase hz="顿渐" py="dùn,jiàn" info="佛教语。顿悟、渐悟或顿教、渐教的并称。" />
-		<phrase hz="防微杜渐" py="fáng,wēi,dù,jiàn" info="微：微小；杜：堵住；渐：指事物的开端。比喻在坏事情坏思想萌芽的时候就加以制止，不让它发展。" />
-		<phrase hz="渐变" py="jiàn,biàn" />
-		<phrase hz="渐次" py="jiàn,cì" info="渐渐地;逐渐" />
-		<phrase hz="渐渐" py="jiàn,jiàn" />
-		<phrase hz="渐进" py="jiàn,jìn" />
-		<phrase hz="渐悟" py="jiàn,wù" info="佛教语。谓渐次修行，心明累尽，方能达到无我正觉境界。与“顿悟”相对。" />
-		<phrase hz="日渐" py="rì,jiàn" info="一天一天逐渐地" />
-		<phrase hz="逐渐" py="zhú,jiàn" />
-		<definition id="一">
-			<item text="副词，慢慢地，一点一点地（叠）：循序~进. ~入佳境. 他的病~好了." />
-		</definition>
-	</char>
+	<!-- Ref:渐.xml <char hz="渐" py="jiàn" multi="jiān" main="1" /> -->
 	<char hz="谏" py="jiàn" />
 	<char hz="僭" py="jiàn" />
 	<char hz="箭" py="jiàn" />

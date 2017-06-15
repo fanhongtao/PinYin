@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="犍" py="jiān" multi="qián" main="1">
+		<phrase hz="八犍" py="bā,jiān" info="见“八犍度”。" />
+		<phrase hz="八犍度" py="bā,jiān,dù" info="谓佛教分诸法为八类(犍度，梵语法聚的意思)：一、杂犍度，杂说四善根、四圣果等。二、结使犍度(结使，烦恼的意思)。有三结、五盖乃至百八烦恼之说。三、智犍度，说二智、四智等。四、行犍度，说十善、十恶等业行。五、大犍度，说地、水、火及四大等法。六、根犍度，说眼耳等五根，六根乃至二十二根等。七、定犍度，说四禅、四定之禅定。八、见犍度，说断、常二见乃至六十二见等。亦省作“八犍”。" />
+		<phrase hz="犍槌" py="jiān,chuí" info="见“犍椎”。" />
+		<phrase hz="犍牛" py="jiān,niú" info="阉割过的牛。" />
+		<phrase hz="犍椎" py="jiān,zhuī" info="亦作“犍槌”。梵语的音译。意为“声鸣”。指寺院中的木鱼、钟、磬之类。" />
+		<phrase hz="千斤犍" py="qiān,jīn,jiān" info="千斤之犗牛，比喻难得的人才。" />
+		<phrase hz="乌犍" py="wū,jiān" info="阉过的公牛，驯顺、强健、易御。常泛指耕牛。" />
+		<phrase hz="诸犍" py="zhū,jiān" info="传说中的兽名。" />
+		<definition id="一">
+			<item text="阉割过的公牛。" />
+		</definition>
+	</char>
+	<char hz="犍" py="qián" multi="jiān" info="Word主音">
+		<phrase hz="犍为" py="qián,wéi" />
+		<definition id="二">
+			<item text="[犍为](-wéi)地名，在四川省。" />
+		</definition>
+	</char>
+</pinyin>

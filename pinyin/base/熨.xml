@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="熨" py="yù" multi="yùn">
+		<phrase hz="熨帖" py="yù,tiē" />
+		<phrase hz="熨贴" py="yù,tiē" />
+		<definition id="二">
+			<item text="[熨帖][熨贴](-tiē)1.妥帖舒服。 2.〈方〉（事情）完全办妥。" />
+		</definition>
+	</char>
+	<char hz="熨" py="yùn" multi="yù" main="1" suppressLog="1">
+		<phrase hz="熨斗" py="yùn,dǒu" />
+		<phrase hz="熨法" py="yùn,fǎ" info="中医外治法。有药熨、汤熨、酒熨、铁熨、葱熨、土熨等法。借助药性及温暖作用，直接作用于患处或有关部位，使气血通畅，以达到治病或缓解病痛的作用。" />
+		<definition id="一">
+			<item text="用烙铁、熨斗把衣布等烫平。 [熨斗](-dǒu)加热后用来烫平衣服的金属器具。" />
+		</definition>
+	</char>
+</pinyin>

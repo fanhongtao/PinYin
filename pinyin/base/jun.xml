@@ -8,12 +8,7 @@
 	</char>
 	<char hz="均" py="jūn" />
 	<char hz="钧" py="jūn" />
-	<char hz="筠" py="jūn" multi="yún" info="Word主音">
-		<phrase hz="筠连" py="jūn,lián" />
-		<definition id="二">
-			<item text="[筠连]地名，在四川省。" />
-		</definition>
-	</char>
+	<!-- Ref:筠.xml <char hz="筠" py="jūn" multi="yún" info="Word主音" /> -->
 	<char hz="龟" py="jūn" multi="guī,qiū">
 		<phrase hz="龟裂" py="jūn,liè" />
 		<definition id="二">
@@ -45,22 +40,9 @@
 	</char>
 	<char hz="峻" py="jùn" />
 	<char hz="馂" py="jùn" />
-	<char hz="浚" py="jùn" multi="xùn" main="1">
-		<phrase hz="浚发" py="jùn,fā" info="1.迅速开发。2.谓很快显现出来。3.濬發：从深处发出。" />
-		<phrase hz="浚缮" py="jùn,shàn" info="疏浚修缮。" />
-		<phrase hz="开浚" py="kāi,jùn" info="1.开掘疏浚。2.挖掘；开采。3.比喻开导。" />
-		<phrase hz="疏浚" py="shū,jùn" info="疏通淤塞的河道、港口" />
-		<phrase hz="修浚" py="xiū,jùn" info="修理疏通。" />
-		<definition id="一">
-			<item text="疏通，挖深：~井. ~河." />
-		</definition>
-	</char>
+	<!-- Ref:浚.xml <char hz="浚" py="jùn" multi="xùn" main="1" /> -->
 	<char hz="骏" py="jùn" />
-	<char hz="焌" py="jùn" multi="qū" info="Word主音">
-		<definition id="二">
-			<item text="用火烧。" />
-		</definition>
-	</char>
+	<!-- Ref:焌.xml <char hz="焌" py="jùn" multi="qū" info="Word主音" /> -->
 	<char hz="畯" py="jùn" />
 	<char hz="竣" py="jùn" />
 	<char hz="郡" py="jùn" />

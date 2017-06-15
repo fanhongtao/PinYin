@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="浚" py="jùn" multi="xùn" main="1">
+		<phrase hz="浚发" py="jùn,fā" info="1.迅速开发。2.谓很快显现出来。3.濬發：从深处发出。" />
+		<phrase hz="浚缮" py="jùn,shàn" info="疏浚修缮。" />
+		<phrase hz="开浚" py="kāi,jùn" info="1.开掘疏浚。2.挖掘；开采。3.比喻开导。" />
+		<phrase hz="疏浚" py="shū,jùn" info="疏通淤塞的河道、港口" />
+		<phrase hz="修浚" py="xiū,jùn" info="修理疏通。" />
+		<definition id="一">
+			<item text="疏通，挖深：~井. ~河." />
+		</definition>
+	</char>
+	<char hz="浚" py="xùn" multi="jùn">
+		<phrase hz="浚县" py="xùn,xiàn" />
+		<definition id="二">
+			<item text="浚县，在河南省。" />
+		</definition>
+	</char>
+</pinyin>

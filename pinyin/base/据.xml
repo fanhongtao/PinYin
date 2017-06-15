@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="据" py="jū" multi="jù">
+		<phrase hz="拮据" py="jié,jū" />
+		<definition id="二">
+			<item text="见“拮”字条“拮据”(jié-)。" />
+		</definition>
+	</char>
+	<char hz="据" py="jù" multi="jū" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="凭依，倚仗。 [据点]军队据以作战的地点。" />
+			<item id="2" text="介词，依据：~理力争. ~我看问题不大." />
+			<item id="3" text="占（(连)占-）：~守. ~为己有." />
+			<item id="4" text="可以用作证明的事物，凭证（(连)凭-、证-）：收~. 字~. 票~. 真凭实~. 无凭无~." />
+		</definition>
+	</char>
+</pinyin>

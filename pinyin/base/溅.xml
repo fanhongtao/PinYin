@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溅" py="jiān" multi="jiàn">
+		<phrase hz="溅溅" py="jiān,jiān" />
+		<definition id="二">
+			<item text="[溅溅]同“浅浅”(jiān-)。" />
+		</definition>
+	</char>
+	<char hz="溅" py="jiàn" multi="jiān" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="液体受冲激向四外飞射：~了一脸水. 水花四~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,22 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="加" py="jiā" />
-	<char hz="伽" py="jiā" multi="gā,qié">
-		<phrase hz="伽利略" py="jiā,lì,lüè" />
-		<phrase hz="伽倻" py="jiā,yē" />
-		<phrase hz="瑜伽" py="yú,jiā" />
-		<definition id="二">
-			<item text="[伽倻](-yē)伽倻琴，朝鲜族弦乐器。 [伽利略]意大利天文学家、物理学家。" />
-		</definition>
-	</char>
-	<char hz="茄" py="jiā" multi="qié">
-		<phrase hz="茄克" py="jiā,kè" info="一種寬鬆的短外套。為英語jacket的音譯。如：「天氣涼了，別忘了加件茄克。」亦譯作「夾克」。" />
-		<phrase hz="雪茄" py="xuě,jiā" />
-		<definition id="二">
-			<item text="〈古〉荷茎。" />
-			<item text="[雪茄]（外）一种较粗较长用烟叶卷成的卷烟。" />
-		</definition>
-	</char>
+	<!-- Ref:伽.xml <char hz="伽" py="jiā" multi="gā,qié" /> -->
+	<!-- Ref:茄.xml <char hz="茄" py="jiā" multi="qié" /> -->
 	<char hz="迦" py="jiā" />
 	<char hz="珈" py="jiā" />
 	<char hz="枷" py="jiā" />
@@ -30,77 +16,18 @@
 		<phrase hz="跏趺" py="jiā,fū" />
 	</char>
 	<char hz="嘉" py="jiā" />
-	<char hz="夹" py="jiā" multi="gā,jiá" main="1">
-		<phrase hz="缠夹不清" py="chán,jiā,bù,qīng" />
-		<phrase hz="汗流夹背" py="hàn,liú,jiā,bèi" />
-		<phrase hz="夹岸" py="jiā,àn" />
-		<phrase hz="夹板" py="jiā,bǎn" />
-		<phrase hz="夹层" py="jiā,céng" />
-		<phrase hz="夹带" py="jiā,dài" />
-		<phrase hz="夹道" py="jiā,dào" />
-		<phrase hz="夹攻" py="jiā,gōng" />
-		<phrase hz="夹棍" py="jiā,gùn" />
-		<phrase hz="夹击" py="jiā,jī" />
-		<phrase hz="夹枪带棒" py="jiā,qiāng,dài,bàng" />
-		<phrase hz="夹生" py="jiā,shēng" />
-		<phrase hz="夹心" py="jiā,xīn" />
-		<phrase hz="夹杂" py="jiā,zá" />
-		<phrase hz="夹峙" py="jiā,zhì" />
-		<phrase hz="夹竹桃" py="jiā,zhú,táo" />
-		<phrase hz="夹注" py="jiā,zhù" />
-		<phrase hz="夹子" py="jiā,zi" />
-		<definition id="一">
-			<item id="1" text="从东西的两旁钳住：书里~着一张纸. (引)1.两旁有东西限制住：~道. 两山~一水. 2.从两面来的：~攻." />
-			<item id="2" text="胳膊向胁部用力，使腋下放着的东西不掉下：~着书包." />
-			<item id="3" text="掺杂（(连)-杂）：~七杂八. ~生." />
-			<item id="4" text="（-子、-儿）夹东西的器具，文件~. 皮~儿." />
-		</definition>
-	</char>
+	<!-- Ref:夹.xml <char hz="夹" py="jiā" multi="gā,jiá" main="1" /> -->
 	<char hz="浃" py="jiā" />
 	<char hz="佳" py="jiā" />
-	<char hz="家" py="jiā" multi="jie" main="1" suppressLog="1">
-		<phrase hz="家畜" py="jiā,chù" />
-		<phrase hz="家伙" py="jiā,huo" />
-		<phrase hz="家什" py="jiā,shi" />
-		<definition id="一">
-			<item id="1" text="家庭，人家：勤俭持~. 张~有五口人. 谦辞，用于对别人称自己亲属中比自己年纪大或辈分高的：~兄. ~父. [家常]家庭日常生活：~~便饭. 叙~~. [家畜](-chù)由人喂养的禽兽，如马、牛、羊、鸡、猪等。 [家伙](-huo)1.一般的用具、工具。 2.指武器。 3.指牲畜或人（轻视或玩笑）。 [家具]家庭用具，主要指床、柜、桌、椅等。 [家什](-shi)用具，器物：厨房里的~~擦得干干净净." />
-			<item id="2" text="家庭的住所：回~. 这儿就是我的~." />
-			<item id="3" text="指经营某种行业或有某种身份的人家：农~. 酒~." />
-			<item id="4" text="掌握某种专门学识或有丰富实践经验以及从事某种专门活动的人：科学~. 水稻专~. 政治~." />
-			<item id="5" text="学术流派：儒~. 道~. 百~争鸣." />
-			<item id="6" text="指相对各方中的一方：上~. 下~." />
-			<item id="7" text="(jia)词尾，指一类的人（多按年龄或性别分）：姑娘~. 孩子~." />
-			<item id="8" text="量词：一~人家. 两~饭馆." />
-			<item id="9" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:家.xml <char hz="家" py="jiā" multi="jie" main="1" suppressLog="1" /> -->
 	<char hz="傢" py="jiā" />
 	<char hz="镓" py="jiā" />
 	<char hz="葭" py="jiā">
 		<phrase hz="葭莩" py="jiā,fú" />
 	</char>
 	<char hz="豭" py="jiā" />
-	<char hz="夹" py="jiá" multi="gā,jiā" info="Word主音">
-		<phrase hz="夹袄" py="jiá,ǎo" />
-		<phrase hz="夹被" py="jiá,bèi" />
-		<phrase hz="夹克" py="jiá,kè" />
-		<phrase hz="夹裤" py="jiá,kù" />
-		<phrase hz="夹衣" py="jiá,yī" />
-		<definition id="二">
-			<item text="两层的衣物：~裤. ~被." />
-		</definition>
-	</char>
-	<char hz="袷" py="jiá" multi="qiā" main="1">
-		<phrase hz="白袷" py="bái,jiá" info="1.白色夹衣。2.旧时平民的服装。亦借指无功名的士人。3.白色圆领。亦指有白色圆领的外衣。" />
-		<phrase hz="单袷" py="dān,jiá" info="1.单衣和夹衣。2.轻便的夹衣。" />
-		<phrase hz="袷袄" py="jiá,ǎo" />
-		<phrase hz="袷衫" py="jiá,shān" />
-		<phrase hz="袷衣" py="jiá,yī" />
-		<phrase hz="领袷" py="lǐng,jiá" />
-		<definition id="二">
-			<item text="“夹”的异体字。" />
-		</definition>
-	</char>
+	<!-- Ref:夹.xml <char hz="夹" py="jiá" multi="gā,jiā" info="Word主音" /> -->
+	<!-- Ref:袷.xml <char hz="袷" py="jiá" multi="qiā" main="1" /> -->
 	<char hz="郏" py="jiá" />
 	<char hz="荚" py="jiá" />
 	<char hz="铗" py="jiá" />
@@ -115,118 +42,18 @@
 	<char hz="胛" py="jiǎ" />
 	<char hz="钾" py="jiǎ" />
 	<char hz="䖬" py="jiǎ" />
-	<char hz="贾" py="jiǎ" multi="gǔ" main="1">
-		<phrase hz="贾誉" py="jiǎ,yù" info="犹言沽名钓誉。" />
-		<definition id="一">
-			<item id="1" text="姓。" />
-			<item id="2" text="古多用于人名。" />
-			<item text="〈古〉又同“价（價）”(jià)。" />
-		</definition>
-	</char>
+	<!-- Ref:贾.xml <char hz="贾" py="jiǎ" multi="gǔ" main="1" /> -->
 	<char hz="槚" py="jiǎ" />
-	<char hz="假" py="jiǎ" multi="jià" main="1">
-		<phrase hz="不假思索" py="bù,jiǎ,sī,suǒ" info="不花时间考虑或思索马上作出反应,形容说话做事敏捷。" />
-		<phrase hz="掺假" py="chān,jiǎ" info="在真實的事物中摻入虛假的成分。" />
-		<phrase hz="狐假虎威" py="hú,jiǎ,hǔ,wēi" info="比喻依仗别人的势力来恐吓人。" />
-		<phrase hz="假扮" py="jiǎ,bàn" info="喬裝。裝扮成與本人不同的另一種面目。" />
-		<phrase hz="假充" py="jiǎ,chōng" info="假冒;冒充" />
-		<phrase hz="假大空" py="jiǎ,dà,kōng" info="指假话、大话、空话。" />
-		<phrase hz="假道学" py="jiǎ,dào,xué" info="偽君子。滿口仁義道德，而實際行為相反的人。" />
-		<phrase hz="假定" py="jiǎ,dìng" info="指推想，料想；姑且认定；如果。" />
-		<phrase hz="假发" py="jiǎ,fà" />
-		<phrase hz="假分数" py="jiǎ,fēn,shù" info="分母比分子小或与分子相等的分数。" />
-		<phrase hz="假父" py="jiǎ,fù" info="義父。" />
-		<phrase hz="假根" py="jiǎ,gēn" info="蘚苔類的根。單一細胞延長，形狀如根毛，沒有維管束，其生理作用與真根無異，以構造上不同，故稱為「假根」。" />
-		<phrase hz="假公济私" py="jiǎ,gōng,jì,sī" info="假借公家的名義以謀取個人私利。" />
-		<phrase hz="假果" py="jiǎ,guǒ" info="1.人工仿造的果实。2.果实的食用部分不是子房壁发育而成，而是花托或萼发育而成的叫做假果，如梨、苹果、无花果、桑葚等。" />
-		<phrase hz="假话" py="jiǎ,huà" info="1.不真实的话。2.不真实的或不正确的话语或说法。" />
-		<phrase hz="假货" py="jiǎ,huò" info="为欺骗顾客而制造的仿造品。" />
-		<phrase hz="假节" py="jiǎ,jié" info="1.持符節為使臣。2.借用符節。" />
-		<phrase hz="假借" py="jiǎ,jiè" info="1.借用。2.憑借、借助。3.寬容。4.六書之一。語言中某些字有音無字形，而借用同音字來表達。" />
-		<phrase hz="假吏" py="jiǎ,lì" info="临时代理职务的官吏。" />
-		<phrase hz="假令" py="jiǎ,lìng" info="1.假设,如果。2.临时代理县令。" />
-		<phrase hz="假冒" py="jiǎ,mào" info="1.以假充真。2.冒用其它商品牌名。" />
-		<phrase hz="假面" py="jiǎ,miàn" info="假面具。" />
-		<phrase hz="假名" py="jiǎ,míng" info="1.假借名義。2.虛名。3.化名。4.日文字母，多借用漢字的偏旁。楷書稱為「片假名」，草書稱為「平假名」。5.佛教用語。佛教認為世間的一切，都由語言概念成立，沒有真實的體性。" />
-		<phrase hz="假寐" py="jiǎ,mèi" info="打盹儿,打瞌睡" />
-		<phrase hz="假仁假义" py="jiǎ,rén,jiǎ,yì" info="虛偽的善心，故意裝出來的好意。" />
-		<phrase hz="假如" py="jiǎ,rú" info="假使，如果" />
-		<phrase hz="假若" py="jiǎ,ruò" info="假如。" />
-		<phrase hz="假嗓子" py="jiǎ,sǎng,zi" info="非天然嗓子,唱歌或唱戏时用。" />
-		<phrase hz="假山" py="jiǎ,shān" info="园林中用石头堆砌而成以供欣赏的小山。" />
-		<phrase hz="假设" py="jiǎ,shè" info="1.暂时认为。2.科学研究中根据事实提出的假定说明，必须经过实践证明才能成为理论。" />
-		<phrase hz="假使" py="jiǎ,shǐ" info="提出一种假设，相当于如果、假如" />
-		<phrase hz="假释" py="jiǎ,shì" info="由于表现好或其他原因而提前释放犯人，若犯人从释放到刑满期间内不再犯罪，可认为服刑期己满，否则两罪合并执行" />
-		<phrase hz="假手" py="jiǎ,shǒu" info="1.假借他人的力量以達到自己的目的。2.科舉時代稱代人作文的人。" />
-		<phrase hz="假说" py="jiǎ,shuō" info="1.见“假设”。2.假使;纵使。" />
-		<phrase hz="假死" py="jiǎ,sǐ" info="1.其状态的某些方面像休克，特点是所有自主性活动停止，看上去认为是死的姿态。2.动物为保护自己，在遇强敌时装死。" />
-		<phrase hz="假途灭虢" py="jiǎ,tú,miè,guó" info="春秋時，晉國向虞國借路，以攻打虢國。滅虢之後，回師途中，亦滅虞國。見左傳．僖公五年。後以假途滅虢代指以向對方借路為名，而行滅亡對方之實的計謀。" />
-		<phrase hz="假托" py="jiǎ,tuō" info="1.虛擬、虛構。2.假冒、偽托。3.憑借、依托。4.藉口、托詞。" />
-		<phrase hz="假戏真做" py="jiǎ,xì,zhēn,zuò" info="原本只是演戲，後來卻變成真的。指事情由假演變成真。" />
-		<phrase hz="假想" py="jiǎ,xiǎng" info="假设;想象出来的。" />
-		<phrase hz="假象" py="jiǎ,xiàng" info="不符合事物本质的表面现象。也作假相。" />
-		<phrase hz="假相" py="jiǎ,xiàng" info="假象。" />
-		<phrase hz="假心" py="jiǎ,xīn" />
-		<phrase hz="假惺惺" py="jiǎ,xīng,xīng" info="假裝、虛情假意。" />
-		<phrase hz="假牙" py="jiǎ,yá" />
-		<phrase hz="假洋鬼子" py="jiǎ,yáng,guǐ,zi" info="對本國文化失去信心，對西洋文化也一知半解，卻崇洋媚外，挾洋以自重的人。" />
-		<phrase hz="假意" py="jiǎ,yì" info="1.虚伪的心意。2.装出某个动作。" />
-		<phrase hz="假以辞色" py="jiǎ,yǐ,cí,sè" info="在言辭和態度方面表示友好。" />
-		<phrase hz="假招子" py="jiǎ,zhāo,zi" info="譏諷人的虛偽做作。" />
-		<phrase hz="假肢" py="jiǎ,zhī" info="身体失去的或截除的某一部分的人工替代物" />
-		<phrase hz="假装" py="jiǎ,zhuāng" info="故意装出某种动作或姿态，以掩盖真相" />
-		<phrase hz="弄假成真" py="nòng,jiǎ,chéng,zhēn" info="本来是想作假,结果竟成了真事。" />
-		<phrase hz="弄虚作假" py="nòng,xū,zuò,jiǎ" info="耍花招欺骗人。;不真实的" />
-		<phrase hz="通假" py="tōng,jiǎ" info="汉字中的互相通用及假借的用法" />
-		<phrase hz="虚假" py="xū,jiǎ" info="假的;不真实的" />
-		<phrase hz="真假" py="zhēn,jiǎ" />
-		<phrase hz="真真假假" py="zhēn,zhēn,jiǎ,jiǎ" />
-		<phrase hz="作假" py="zuò,jiǎ" info="1.造假。2.不率真，故作客套。" />
-		<definition id="一">
-			<item id="1" text="不真实的，不是本来的，跟“真”相对：~头发. ~话. [假如][假使]连词，如果。" />
-			<item id="2" text="借用，利用（(连)-借）：~手于人. ~公济私." />
-			<item id="3" text="据理推断，有待验证的：~设. ~说." />
-		</definition>
-	</char>
+	<!-- Ref:假.xml <char hz="假" py="jiǎ" multi="jià" main="1" /> -->
 	<!-- <char hz="嘏" py="jiǎ"/> -->
 	<char hz="瘕" py="jiǎ" />
 	<char hz="斝" py="jiǎ" />
-	<char hz="价" py="jià" multi="jiè,jie" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="价钱，商品所值的钱数：~目. 物~稳定. 减~. [价格]用货币表现出来的商品的价值。 [价值]1.政治经济学上指凝结在商品中的生产者的社会必要劳动。 2.通常指用途或重要性：有~~. [原子价]化学上称能跟某元素一个原子直接或间接相化合或替代的氢原子数为这个元素的原子价。也省称“价”。" />
-		</definition>
-	</char>
+	<!-- Ref:价.xml <char hz="价" py="jià" multi="jiè,jie" main="1" suppressLog="1" /> -->
 	<char hz="驾" py="jià">
 		<phrase hz="驾驭" py="jià,yù" />
 	</char>
 	<char hz="架" py="jià" />
-	<char hz="假" py="jià" multi="jiǎ">
-		<phrase hz="病假" py="bìng,jià" />
-		<phrase hz="补假" py="bǔ,jià" />
-		<phrase hz="产假" py="chǎn,jià" info="在职妇女产期前后的休假待遇" />
-		<phrase hz="长假" py="cháng,jià" />
-		<phrase hz="度假" py="dù,jià" />
-		<phrase hz="放假" py="fàng,jià" />
-		<phrase hz="告假" py="gào,jià" info="请假" />
-		<phrase hz="寒假" py="hán,jià" />
-		<phrase hz="婚假" py="hūn,jià" />
-		<phrase hz="节假" py="jié,jià" />
-		<phrase hz="假期" py="jià,qī" />
-		<phrase hz="假日" py="jià,rì" info="假期，或指休假的日子" />
-		<phrase hz="假条" py="jià,tiáo" info="写明原因和请假时间的条子,即请假条" />
-		<phrase hz="例假" py="lì,jià" />
-		<phrase hz="年假" py="nián,jià" />
-		<phrase hz="请假" py="qǐng,jià" />
-		<phrase hz="丧假" py="sāng,jià" />
-		<phrase hz="事假" py="shì,jià" />
-		<phrase hz="暑假" py="shǔ,jià" />
-		<phrase hz="销假" py="xiāo,jià" info="请假期满向主管的人报到" />
-		<phrase hz="休假" py="xiū,jià" info="离职休息" />
-		<phrase hz="续假" py="xù,jià" info="假期或休假满后继续请假" />
-		<definition id="二">
-			<item text="照规定或经过批准暂时离开工作、学习场所的时间：放~. 寒~. ~期. 请~." />
-		</definition>
-	</char>
+	<!-- Ref:假.xml <char hz="假" py="jià" multi="jiǎ" /> -->
 	<char hz="嫁" py="jià" />
 	<char hz="稼" py="jià">
 		<phrase hz="稼穑" py="jià,sè" />

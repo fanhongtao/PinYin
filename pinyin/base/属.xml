@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="属" py="shǔ" multi="zhǔ" main="1">
+		<phrase hz="部属" py="bù,shǔ" info="部下;下属" />
+		<phrase hz="从属" py="cóng,shǔ" info="附属;依附" />
+		<phrase hz="附属" py="fù,shǔ" info="由某机构所设并受其管辖的单位" />
+		<phrase hz="管属" py="guǎn,shǔ" info="犹管辖。" />
+		<phrase hz="归属" py="guī,shǔ" />
+		<phrase hz="家属" py="jiā,shǔ" />
+		<phrase hz="金属" py="jīn,shǔ" />
+		<phrase hz="眷属" py="juàn,shǔ" />
+		<phrase hz="军属" py="jūn,shǔ" info="现役军人的直系血亲、配偶和依靠现役军人生活的十六岁以下的弟妹，或军人自幼依靠其抚养长大，现在又必须依靠军人生活的其他亲属" />
+		<phrase hz="隶属" py="lì,shǔ" info="受统辖;从属" />
+		<phrase hz="僚属" py="liáo,shǔ" info="指贵族或大官的随员或职员" />
+		<phrase hz="烈属" py="liè,shǔ" info="革命烈士家属的简称" />
+		<phrase hz="领属" py="lǐng,shǔ" info="1.隶属，附属。2.犹记取。" />
+		<phrase hz="侨属" py="qiáo,shǔ" info="侨眷，华侨在国内的眷属" />
+		<phrase hz="亲属" py="qīn,shǔ" info="有血缘或姻缘关系的人;尤指有血缘关系的人" />
+		<phrase hz="属地" py="shǔ,dì" info="某些国家侵占的殖民地或所控制的附属国" />
+		<phrase hz="属国" py="shǔ,guó" info="1.部下;下属 2.统属下;管辖下" />
+		<phrase hz="属下" py="shǔ,xià" info="古时附属于宗主国的国家" />
+		<phrase hz="属相" py="shǔ,xiang" info="用十二地支与十二种动物(鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪)相配合来记人生出年份,如子年出生则属鼠,称属相。又称生肖" />
+		<phrase hz="属性" py="shǔ,xìng" info="事物所具有的不可缺少的性质" />
+		<phrase hz="属于" py="shǔ,yú" info="归于某一方面;为某一方面所有" />
+		<phrase hz="属员" py="shǔ,yuán" info="旧指统属下的官吏" />
+		<phrase hz="下属" py="xià,shǔ" info="1.犹言下连。2.归属或从属于下。3.部下；下级。" />
+		<phrase hz="直属" py="zhí,shǔ" info="直接归辖管属" />
+		<definition id="一">
+			<item id="1" text="同一家族的：家~." />
+			<item id="2" text="类别：金~." />
+			<item id="3" text="生物的分类单位之一，在“科”之下，“种”之上：梨~. 狐~." />
+			<item id="4" text="有管辖关系的（(连)隶-）：直~. ~局. ~员." />
+			<item id="5" text="归类：~于自然科学." />
+			<item id="6" text="为某人或某方所有：这本书~你." />
+			<item id="7" text="是：查明~实." />
+			<item id="8" text="用属相记生年（用干支纪年，十二支配合十二种动物，人生在哪年，就属哪种动物叫“属相”）：甲子、丙子等子年生的都~鼠." />
+		</definition>
+	</char>
+	<char hz="属" py="zhǔ" multi="shǔ">
+		<phrase hz="连属" py="lián,zhǔ" info="1.连接；连续。2.犹结合。" />
+		<phrase hz="联属" py="lián,zhǔ" info="1.连接。2.联系。" />
+		<phrase hz="前后相属" py="qián,hòu,xiāng,zhǔ" />
+		<phrase hz="属目" py="zhǔ,mù" info="同瞩目，注视" />
+		<phrase hz="属望" py="zhǔ,wàng" />
+		<phrase hz="属文" py="zhǔ,wén" />
+		<phrase hz="属仰" py="zhǔ,yǎng" info="谓注目仰望。" />
+		<phrase hz="属意" py="zhǔ,yì" info="意向集中或倾向于某人或某事" />
+		<definition id="二">
+			<item id="1" text="连缀：~文. 前后相~." />
+			<item id="2" text="（意念）集中在一点：~意. ~望." />
+			<item id="3" text="古同“嘱”。" />
+		</definition>
+	</char>
+</pinyin>

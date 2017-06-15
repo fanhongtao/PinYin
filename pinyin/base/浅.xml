@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="浅" py="jiān" multi="qiǎn">
+		<phrase hz="浅浅" py="jiān,jiān" />
+		<definition id="二">
+			<item text="[浅浅]拟声词，形容流水声。" />
+		</definition>
+	</char>
+	<char hz="浅" py="qiǎn" multi="jiān" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="从表面到底或从外面到里面距离小，跟“深”相对：这条河很~. 这个院子太~." />
+			<item id="2" text="不久，时间短：年代~. 相处的日子还~." />
+			<item id="3" text="程度不深的：~见. 阅历~. 交情~. 这篇文章很~. ~近的理论." />
+			<item id="4" text="颜色淡薄：~红. ~绿." />
+		</definition>
+	</char>
+</pinyin>

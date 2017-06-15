@@ -30,13 +30,7 @@
 	<char hz="偕" py="xié" />
 	<char hz="谐" py="xié" />
 	<char hz="絜" py="xié" />
-	<char hz="颉" py="xié" multi="jié" main="1">
-		<phrase hz="颉颃" py="xié,háng" />
-		<definition id="二">
-			<item id="1" text="鸟往上飞。 [颉颃](-háng)1.鸟向上向下飞。 2.不相上下：他的书法与名家相~~. (转)对抗：~~作用." />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:颉.xml <char hz="颉" py="xié" multi="jié" main="1" /> -->
 	<char hz="撷" py="xié" />
 	<char hz="缬" py="xié" />
 	<char hz="携" py="xié" />
@@ -67,15 +61,7 @@
 	<char hz="谢" py="xiè" />
 	<char hz="塮" py="xiè" />
 	<char hz="榭" py="xiè" />
-	<char hz="解" py="xiè" multi="jiě,jiè">
-		<phrase hz="解数" py="xiè,shù" info="1.武术的招式。技能;本领。2.旧指武术的架势。泛指手段、本事。" />
-		<phrase hz="解县" py="xiè,xiàn" />
-		<definition id="三">
-			<item id="1" text="明白，懂得：~不开这个理." />
-			<item id="2" text="姓。" />
-			<item id="3" text="解县，旧县名，在山西省。" />
-		</definition>
-	</char>
+	<!-- Ref:解.xml <char hz="解" py="xiè" multi="jiě,jiè" /> -->
 	<char hz="薢" py="xiè">
 		<phrase hz="薢茩" py="xiè,hòu" />
 	</char>

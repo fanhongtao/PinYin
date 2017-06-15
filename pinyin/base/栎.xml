@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="栎" py="lì" multi="yuè" main="1">
+		<phrase hz="麻栎" py="má,lì" />
+		<phrase hz="栎木" py="lì,mù" />
+		<phrase hz="栎树" py="lì,shù" />
+		<phrase hz="柞栎" py="zuò,lì" info="栎树。" />
+		<definition id="一">
+			<item text="俗叫“柞(zuò)树”或“麻栎”。落叶乔木，花黄褐色，果实叫橡子或橡斗。木材坚硬，可制家具，供建筑用。树皮可鞣皮或做染料。叶子可喂蚕。另有一种栓皮栎，树皮质地轻软，富有弹性，是制造软木器物的主要原料。" />
+		</definition>
+	</char>
+	<char hz="栎" py="yuè" multi="lì">
+		<phrase hz="栎阳" py="yuè,yáng" />
+		<definition id="二">
+			<item text="[栎阳]古地名，在今陕西省临潼。" />
+		</definition>
+	</char>
+</pinyin>

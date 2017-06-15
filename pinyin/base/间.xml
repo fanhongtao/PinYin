@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="间" py="jiān" multi="jiàn" main="1">
+		<phrase hz="包间" py="bāo,jiān" info="室内设计是一种对空间围合封闭而产生相对独立的空间，这里受外部干扰小，属于一种私密空间。" />
+		<phrase hz="车间" py="chē,jiān" info="企业完成某工序或单独生产某种产品的单位" />
+		<phrase hz="晨间" py="chén,jiān" info="早晨。" />
+		<phrase hz="尘间" py="chén,jiān" info="人间。" />
+		<phrase hz="此间" py="cǐ,jiān" info="此地。" />
+		<phrase hz="凡间" py="fán,jiān" info="人世间" />
+		<phrase hz="房间" py="fáng,jiān" />
+		<phrase hz="工间" py="gōng,jiān" info="工作间歇" />
+		<phrase hz="间架" py="jiān,jià" info="1.房屋建筑的结构。梁与梁之间叫间，桁与桁之间叫架。借使汉字的笔画构架。2.文章的布局。" />
+		<phrase hz="间距" py="jiān,jù" info="间隔的距离。" />
+		<phrase hz="开间" py="kāi,jiān" info="1.墙、屋顶、其他建筑部分或整个建筑的主要分隔间。2.旧式房屋的宽度单位,相当于一根檩的长度(约3.3米)。3.一间房的宽度。" />
+		<phrase hz="课间" py="kè,jiān" />
+		<phrase hz="空间" py="kōng,jiān" info="与时间相对的一种物质存在形式，表现为长度、宽度、高度。也指数字空间、物理空间与宇宙空间" />
+		<phrase hz="里间" py="lǐ,jiān" info="里、外间房屋中不直接与室外相通的房间。也叫里间屋" />
+		<phrase hz="眉间" py="méi,jiān" />
+		<phrase hz="民间" py="mín,jiān" />
+		<phrase hz="期间" py="qī,jiān" info="某个时期里面" />
+		<phrase hz="人间" py="rén,jiān" info="指整个人类社会;世间" />
+		<phrase hz="时间" py="shí,jiān" />
+		<phrase hz="世间" py="shì,jiān" info="人世间；世界上。" />
+		<phrase hz="瞬间" py="shùn,jiān" info="一眨眼的工夫，转瞬之间" />
+		<phrase hz="太平间" py="tài,píng,jiān" info="医院中停放尸体的房间。" />
+		<phrase hz="田间" py="tián,jiān" info="1.田地里。2.农村;乡间。" />
+		<phrase hz="晚间" py="wǎn,jiān" info="晚上。" />
+		<phrase hz="午间" py="wǔ,jiān" info="中午时分。" />
+		<phrase hz="乡间" py="xiāng,jiān" info="远离文化中心或与它没有什么接触的农村地区。" />
+		<phrase hz="洗手间" py="xǐ,shǒu,jiān" info="廁所。" />
+		<phrase hz="阳间" py="yáng,jiān" info="人世间。" />
+		<phrase hz="夜间" py="yè,jiān" />
+		<phrase hz="衣帽间" py="yī,mào,jiān" info="1.专设有存物柜的房间;尤指设有供运动员个人单独存放衣服和专用设备的柜橱并供更换运动服的房间。2.供客人临时存放衣帽的房间。" />
+		<phrase hz="阴间" py="yīn,jiān" info="人类生存的空间，称其为阳间，人类死亡后，其灵魂所在的空间，称为阴间。" />
+		<phrase hz="之间" py="zhī,jiān" />
+		<phrase hz="中间" py="zhōng,jiān" />
+		<phrase hz="字里行间" py="zì,lǐ,háng,jiān" info="文字语句中间,常形容文句言语之间的含义,跃然纸上" />
+		<definition id="一">
+			<item id="1" text="中间，两段时间或两种事物相接的地方：课~操. 彼此~有差别." />
+			<item id="2" text="在一定的地方、时间或人群的范围之内：田~. 晚~. 人~." />
+			<item id="3" text="房间，屋子：车~. 衣帽~. 卫生~." />
+			<item id="4" text="量词，用于房屋：一~房. 广厦千~." />
+		</definition>
+	</char>
+	<char hz="间" py="jiàn" multi="jiān">
+		<phrase hz="反间" py="fǎn,jiàn" info="利用敌人的间谍使敌人获得虚假的情报,也指用计使敌人内部不和" />
+		<phrase hz="黑白相间" py="hēi,bái,xiāng,jiàn" />
+		<phrase hz="间谍" py="jiàn,dié" />
+		<phrase hz="间断" py="jiàn,duàn" info="连续的事情中断" />
+		<phrase hz="间隔" py="jiàn,gé" />
+		<phrase hz="间或" py="jiàn,huò" info="1.表示动作、事情时断时续地发生或者发生不是普遍的，相當于有时候、偶尓。2.时断时续。3.有时候。" />
+		<phrase hz="间接" py="jiàn,jiē" />
+		<phrase hz="间隙" py="jiàn,xì" />
+		<phrase hz="间歇" py="jiàn,xiē" info="1.动作、变化等隔一定时间就停息一会儿。2.两段时间之间的间隔。" />
+		<phrase hz="离间" py="lí,jiàn" info="1.从中挑拨，造成分离。2.使疏远;使不和睦。" />
+		<phrase hz="亲密无间" py="qīn,mì,wú,jiàn" />
+		<phrase hz="晴间多云" py="qíng,jiàn,duō,yún" />
+		<phrase hz="无间" py="wú,jiàn" info="1.中间没有间隙。2.不间断。3.不分别。" />
+		<definition id="二">
+			<item id="1" text="（-儿）空隙：当~儿. (引)嫌隙，隔阂：亲密无~." />
+			<item id="2" text="不连接，隔开：~断. 黑白相~. 晴~多云. [间或]副词，偶尔：他~~也来一两次. [间接]通过第三者发生关系的（跟“直接”相对）：~~经验." />
+			<item id="3" text="挑拨使人不和：离~. 反~计." />
+		</definition>
+	</char>
+</pinyin>

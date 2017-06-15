@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="媛" py="yuán" multi="yuàn" info="Word主音">
+		<phrase hz="婵媛" py="chán,yuán" info="1.（姿态）美好。 2.牵连，相连。" />
+		<definition id="二">
+			<item text="[婵媛]1.（姿态）美好。 2.牵连，相连。" />
+		</definition>
+	</char>
+	<char hz="媛" py="yuàn" multi="yuán" main="1" suppressLog="1">
+		<phrase hz="名媛" py="míng,yuàn" info="有名的美女。 亦指名门闺秀。" />
+		<definition id="一">
+			<item text="美女。" />
+		</definition>
+	</char>
+</pinyin>

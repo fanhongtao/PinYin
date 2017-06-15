@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="熟" py="shóu" multi="shú">
+		<definition id="二">
+			<item text="义同“熟”(shú)，用于口语。" />
+		</definition>
+	</char>
+	<char hz="熟" py="shú" multi="shóu" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="食物烧煮到可吃的程度：饭~了. ~菜." />
+			<item id="2" text="成熟，植物的果实或种子长成：麦子~了." />
+			<item id="3" text="程度深：深思~虑. ~睡." />
+			<item id="4" text="习惯，常见，知道清楚：~悉. ~人. 这条路我~." />
+			<item id="5" text="熟练，做某种工作时间久了，精通而有经验：~手. ~能生巧." />
+			<item id="6" text="经过加工或炼制的：~铁. ~皮子." />
+		</definition>
+	</char>
+</pinyin>

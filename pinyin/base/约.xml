@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="约" py="yāo" multi="yuē">
+		<phrase hz="约约" py="yāo,yāo" />
+		<definition id="二">
+			<item text="用秤称：你~~有多重？" />
+		</definition>
+	</char>
+	<char hz="约" py="yuē" multi="yāo" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="拘束，限制（(连)-束）。" />
+			<item id="2" text="共同议定的要遵守的条款：条~. 立~. 爱国公~." />
+			<item id="3" text="预先说定：预~. 和他~好了." />
+			<item id="4" text="请：~他来. 特~记者." />
+			<item id="5" text="算术上指用公因数去除分子和分母使分数重简化：5/10可以~成1/2." />
+			<item id="6" text="俭省：节~." />
+			<item id="7" text="简单，简要：简~. 由博返~." />
+			<item id="8" text="大约，大概，不十分确定的：~计. ~数. 大~有五十人." />
+		</definition>
+	</char>
+</pinyin>

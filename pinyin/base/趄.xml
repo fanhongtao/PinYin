@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="趄" py="jū" multi="qiè" info="Word主音">
+		<phrase hz="趑趄" py="zī,jū" />
+		<definition id="二">
+			<item text="见“趑”字条“趑趄”(zī-)。" />
+		</definition>
+	</char>
+	<char hz="趄" py="qiè" multi="jū" main="1">
+		<phrase hz="列趄" py="liè,qie" info="身躯歪斜,脚步不稳" />
+		<phrase hz="趔趔趄趄" py="liè,liè,qiè,qiè" info="立脚不稳，步履踉跄。" />
+		<definition id="一">
+			<item text="倾斜：~着身子." />
+		</definition>
+	</char>
+</pinyin>

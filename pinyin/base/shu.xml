@@ -23,16 +23,7 @@
 	<char hz="秫" py="shú" />
 	<char hz="孰" py="shú" />
 	<char hz="塾" py="shú" />
-	<char hz="熟" py="shú" multi="shóu" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="食物烧煮到可吃的程度：饭~了. ~菜." />
-			<item id="2" text="成熟，植物的果实或种子长成：麦子~了." />
-			<item id="3" text="程度深：深思~虑. ~睡." />
-			<item id="4" text="习惯，常见，知道清楚：~悉. ~人. 这条路我~." />
-			<item id="5" text="熟练，做某种工作时间久了，精通而有经验：~手. ~能生巧." />
-			<item id="6" text="经过加工或炼制的：~铁. ~皮子." />
-		</definition>
-	</char>
+	<!-- Ref:熟.xml <char hz="熟" py="shú" multi="shóu" main="1" suppressLog="1" /> -->
 	<char hz="赎" py="shú">
 		<phrase hz="赎当" py="shú,dàng" />
 	</char>
@@ -45,91 +36,11 @@
 	</char>
 	<char hz="曙" py="shǔ" />
 	<char hz="黍" py="shǔ" />
-	<char hz="属" py="shǔ" multi="zhǔ" main="1">
-		<phrase hz="部属" py="bù,shǔ" info="部下;下属" />
-		<phrase hz="从属" py="cóng,shǔ" info="附属;依附" />
-		<phrase hz="附属" py="fù,shǔ" info="由某机构所设并受其管辖的单位" />
-		<phrase hz="管属" py="guǎn,shǔ" info="犹管辖。" />
-		<phrase hz="归属" py="guī,shǔ" />
-		<phrase hz="家属" py="jiā,shǔ" />
-		<phrase hz="金属" py="jīn,shǔ" />
-		<phrase hz="眷属" py="juàn,shǔ" />
-		<phrase hz="军属" py="jūn,shǔ" info="现役军人的直系血亲、配偶和依靠现役军人生活的十六岁以下的弟妹，或军人自幼依靠其抚养长大，现在又必须依靠军人生活的其他亲属" />
-		<phrase hz="隶属" py="lì,shǔ" info="受统辖;从属" />
-		<phrase hz="僚属" py="liáo,shǔ" info="指贵族或大官的随员或职员" />
-		<phrase hz="烈属" py="liè,shǔ" info="革命烈士家属的简称" />
-		<phrase hz="领属" py="lǐng,shǔ" info="1.隶属，附属。2.犹记取。" />
-		<phrase hz="侨属" py="qiáo,shǔ" info="侨眷，华侨在国内的眷属" />
-		<phrase hz="亲属" py="qīn,shǔ" info="有血缘或姻缘关系的人;尤指有血缘关系的人" />
-		<phrase hz="属地" py="shǔ,dì" info="某些国家侵占的殖民地或所控制的附属国" />
-		<phrase hz="属国" py="shǔ,guó" info="1.部下;下属 2.统属下;管辖下" />
-		<phrase hz="属下" py="shǔ,xià" info="古时附属于宗主国的国家" />
-		<phrase hz="属相" py="shǔ,xiang" info="用十二地支与十二种动物(鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪)相配合来记人生出年份,如子年出生则属鼠,称属相。又称生肖" />
-		<phrase hz="属性" py="shǔ,xìng" info="事物所具有的不可缺少的性质" />
-		<phrase hz="属于" py="shǔ,yú" info="归于某一方面;为某一方面所有" />
-		<phrase hz="属员" py="shǔ,yuán" info="旧指统属下的官吏" />
-		<phrase hz="下属" py="xià,shǔ" info="1.犹言下连。2.归属或从属于下。3.部下；下级。" />
-		<phrase hz="直属" py="zhí,shǔ" info="直接归辖管属" />
-		<definition id="一">
-			<item id="1" text="同一家族的：家~." />
-			<item id="2" text="类别：金~." />
-			<item id="3" text="生物的分类单位之一，在“科”之下，“种”之上：梨~. 狐~." />
-			<item id="4" text="有管辖关系的（(连)隶-）：直~. ~局. ~员." />
-			<item id="5" text="归类：~于自然科学." />
-			<item id="6" text="为某人或某方所有：这本书~你." />
-			<item id="7" text="是：查明~实." />
-			<item id="8" text="用属相记生年（用干支纪年，十二支配合十二种动物，人生在哪年，就属哪种动物叫“属相”）：甲子、丙子等子年生的都~鼠." />
-		</definition>
-	</char>
+	<!-- Ref:属.xml <char hz="属" py="shǔ" multi="zhǔ" main="1" /> -->
 	<char hz="蜀" py="shǔ" />
 	<char hz="鼠" py="shǔ" />
-	<char hz="数" py="shǔ" multi="shù,shuò">
-		<phrase hz="不可计数" py="bù,kě,jì,shǔ" info="形容数量很多。" />
-		<phrase hz="不可胜数" py="bù,kě,shèng,shǔ" info="形容数目极多,数不过来" />
-		<phrase hz="不足齿数" py="bù,zú,chǐ,shǔ" info="足：值得。 表示数不上，不值得一提。" />
-		<phrase hz="倒数" py="dào,shǔ" duoyin="dào,shù" info="从后向前数(shǔ)" />
-		<phrase hz="历数" py="lì,shǔ" info="一件一件地列举" />
-		<phrase hz="历历可数" py="lì,lì,kě,shǔ" info="清清楚楚的数出来" />
-		<phrase hz="寥寥可数" py="liáo,liáo,kě,shǔ" info="數量很少。" />
-		<phrase hz="屈指而数" py="qū,zhǐ,ér,shǔ" info="形容数量很少" />
-		<phrase hz="屈指可数" py="qū,zhǐ,kě,shǔ" info="1.限定于有限的或确定的数字内。 2.扳着手指头就可算出来。形容数量少。" />
-		<phrase hz="如数家珍" py="rú,shǔ,jiā,zhēn" info="好像数自己家藏的珍宝那样清楚。比喻对所讲的事情十分熟悉。 " />
-		<phrase hz="石庆数马" py="shí,qìng,shǔ,mǎ" info="在最简单的事情上也非常细心谨慎" />
-		<phrase hz="数不胜数" py="shǔ,bú,shèng,shǔ" info="数量极多,无法数清" />
-		<phrase hz="数不着" py="shǔ,bu,zháo" info="1.比较起来不算重要的 2.比较起来不算好的" />
-		<phrase hz="数叨" py="shǔ,dao" info="1.方言。数落。 2.方言。犹唠叨。" />
-		<phrase hz="数道" py="shǔ,dao" info="责备。" />
-		<phrase hz="数得上" py="shǔ,de,shàng" info="犹数得着。 如：论业务能力，在我们厂就数得上他了。" />
-		<phrase hz="数得着" py="shǔ,de,zháo" info="比较突出或够得上标准。 如：在我们生产队里，她是数得着的插秧能手。" />
-		<phrase hz="数典忘祖" py="shǔ,diǎn,wàng,zǔ" info="数：数着说；典：指历来的制度、事迹。 谈论历来的制度、事迹时，把自己祖先的职守都忘了。比喻忘本。也比喻对于本国历史的无知。" />
-		<phrase hz="数短论长" py="shǔ,duǎn,lùn,cháng" info="犹言说长道短，说三道四。" />
-		<phrase hz="数伏" py="shǔ,fú" info="伏，俗稱自夏至後第三庚日起，每十日為一伏，有三伏，共三十日，為夏季最熱的時間。數伏指進入伏日或伏日開始。" />
-		<phrase hz="数九" py="shǔ,jiǔ" info="指冬至后开始的九个九天,是一年中最寒冷的时节,也指进入这个时节" />
-		<phrase hz="数来宝" py="shǔ,lái,bǎo" info="一种曲艺形式，现多用竹板打拍，过去也用系铜铃的中骨打拍，边敲边唱，一般是即兴编词" />
-		<phrase hz="数落" py="shǔ,luo" info="1.列举过失进行指责，也泛指指责 2.不停嘴地列举着说" />
-		<phrase hz="数骂" py="shǔ,mà" info="责骂。" />
-		<phrase hz="数米而炊" py="shǔ,mǐ,ér,chuī" info="炊：烧火做饭。数着米粒做饭。比喻计较小利。也形容生活困难。" />
-		<phrase hz="数米量柴" py="shǔ,mǐ,liáng,chái" info="比喻过分计较琐碎之事。 也形容生活困窘。" />
-		<phrase hz="数念" py="shǔ,niàn" info="一件一件地说;一句一句地念诵" />
-		<phrase hz="数数" py="shǔ,shù" duoyin="shuò,shuò" info="計算數目。" />
-		<phrase hz="数说" py="shǔ,shuō" info="1.责骂;数落 2.列举叙述;逐一叙说" />
-		<phrase hz="数往知来" py="shǔ,wǎng,zhī,lái" info="数：计算；往：过去；来：未来。明了过去，可以推知未来。" />
-		<phrase hz="数一数" py="shǔ,yī,shǔ" />
-		<phrase hz="数一数二" py="shǔ,yī,shǔ,èr" info="不算第一也算第二。形容突出。" />
-		<phrase hz="凿龟数策" py="záo,guī,shǔ,cè" info="凿龟：钻灼龟甲，看灼开的裂纹推测吉凶；数策：数蓍草的茎，从分组计数中判断吉凶。 指古人用龟甲蓍草来卜筮吉凶。" />
-		<phrase hz="责数" py="zé,shǔ" info="责备数说。" />
-		<phrase hz="擢发难数" py="zhuó,fà,nán,shǔ" info="擢：拔。拔下全部头发，难以数清。形容罪行多得数不清。 " />
-		<definition id="二">
-			<item id="1" text="一个一个地计算：~一~. (引)比较起来最突出：就~他有本领." />
-			<item id="2" text="责备，列举过错：~落(luo). ~说." />
-		</definition>
-	</char>
-	<char hz="术" py="shù" multi="zhú" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="技艺：武~. 技~. 美~. [术语]学术和各种工艺上的专门用语。" />
-			<item id="2" text="方法：战~. 防御之~." />
-		</definition>
-	</char>
+	<!-- Ref:数.xml <char hz="数" py="shǔ" multi="shù,shuò" /> -->
+	<!-- Ref:术.xml <char hz="术" py="shù" multi="zhú" main="1" suppressLog="1" /> -->
 	<char hz="述" py="shù" />
 	<char hz="沭" py="shù" />
 	<char hz="鉥" py="shù" trans="1" />
@@ -140,13 +51,7 @@
 	</char>
 	<char hz="树" py="shù" />
 	<char hz="竖" py="shù" />
-	<char hz="俞" py="shù" multi="yú">
-		<phrase hz="胃俞" py="wèi,shù" />
-		<phrase hz="肺俞" py="shù,shù" info="亦作“肺腧”。人体经穴名。俞，通“腧”。" />
-		<definition id="二">
-			<item text="同“腧”。" />
-		</definition>
-	</char>
+	<!-- Ref:俞.xml <char hz="俞" py="shù" multi="yú" /> -->
 	<char hz="腧" py="shù">
 		<definition>
 			<item text="腧穴，人体上的穴道：肺~. 胃~." />
@@ -157,134 +62,7 @@
 		<phrase hz="庶几" py="shù,jī" />
 	</char>
 	<char hz="裋" py="shù" />
-	<char hz="数" py="shù" multi="shǔ,shuò" main="1">
-		<phrase hz="半数" py="bàn,shù" info="总数的一半" />
-		<phrase hz="报数" py="bào,shù" info="报告数目。常指排队时每人依次报一个数目，以便查点人数。" />
-		<phrase hz="倍数" py="bèi,shù" info="1.一数能被另一数整除时，此数即为另一数的倍数 2.一数除以另一数所得的商" />
-		<phrase hz="辈数" py="bèi,shù" info="輩分。" />
-		<phrase hz="变数" py="biàn,shù" info="与常数相对而言，在函数或方程中没有确定值的数。如 y=kx+b，y =cos x 和方程 x 2 + y 2 + z 2 = a 2 中 x 、 y 、 z 就是变数" />
-		<phrase hz="不计其数" py="bú,jì,qí,shù" info="没法计算数目。 形容很多。" />
-		<phrase hz="常数" py="cháng,shù" info="1.固定不变的数值 2.平常的礼数" />
-		<phrase hz="成数" py="chéng,shù" info="1.整数，如五百、一千 2.百分比" />
-		<phrase hz="充数" py="chōng,shù" info="以次充好，勉强凑数" />
-		<phrase hz="除数" py="chú,shù" info="數學上指兩數相除，用以除別的數的數，稱為「除數」。如15÷3＝5，3為除數。" />
-		<phrase hz="次数" py="cì,shù" info="1.同一个动作或事件重复出现的回数 2.指扭转冲击回数或振动回数，例如对于发动机曲轴的扭转振荡，指轴每旋转一周的冲击回数或振动回数" />
-		<phrase hz="凑数" py="còu,shù" info="凑足数额" />
-		<phrase hz="答数" py="dá,shù" info="算术运算的得数" />
-		<phrase hz="大数" py="dà,shù" info="1.大局;大计 2.命运注定的寿限 3.计划或策略" />
-		<phrase hz="道数" py="dào,shù" info="1.道之精理。 2.气数。 3.路数；法则。" />
-		<!-- <phrase hz="倒数" py="dào,shù" duoyin="dào,shǔ" info="与其数相乘得一的数" /> -->
-		<phrase hz="代数" py="dài,shù" info="代数是研究数、数量、关系与结构的数学分支。" />
-		<phrase hz="得数" py="dé,shù" info="数学名词。即答数。" />
-		<phrase hz="底数" py="dǐ,shù" info="1.以之为基准而构成一组数或一数学表的数 2.事情的原委" />
-		<phrase hz="顶数" py="dǐng,shù" info="1.充数，抵数。2.有效；有用。多用于否定式。如：你的说话不顶数。" />
-		<phrase hz="定数" py="dìng,shù" info="1.确定数量 2.一定的气数;定命 3.确定的数量" />
-		<phrase hz="读数" py="dú,shù" info="机器、仪表上的指针或其指示器所指示的刻度数目" />
-		<phrase hz="度数" py="dù,shù" info="用度来表示的数目" />
-		<phrase hz="对数" py="duì,shù" info="數學上指當xⁿ＝b，n就叫做以x為底時b的對數。" />
-		<phrase hz="多数" py="duō,shù" info="半数以上;数量较大" />
-		<phrase hz="额数" py="é,shù" info="额定的数量" />
-		<phrase hz="飞将数奇" py="fēi,jiàng,shù,jī" info="比喻能人而遭遇不佳。飞将指汉朝的名将“飞将军”李广。" />
-		<phrase hz="分数" py="fēn,shù" info="1.用一个式子被另一式子除表示出的商 2.评定成绩或胜负时所记的分儿的数字 3.中等或高等学校授予优秀生的学分、学衔或奖励" />
-		<phrase hz="负数" py="fù,shù" info="小于零的数。负数在数前加负号来表示，如-3，-5。" />
-		<phrase hz="复数" py="fù,shù" info="1.表示多数的变化形式或多数形式的词 2.形式为a+bi的数或表达式，其中a和b是实数，i=-1。亦称复量" />
-		<phrase hz="概数" py="gài,shù" info="大概的数目" />
-		<phrase hz="函数" py="hán,shù" info="數學名詞。代數式中，凡相關的兩數X與Y，對於每個X值，都只有一個Y的對應值。這種對應關係就表示Y是X的函數。通常我們用Y＝f(x)​ 或Y＝g(x)​ 表示。" />
-		<phrase hz="和数" py="hé,shù" info="几个数的和。 也叫和" />
-		<phrase hz="合数" py="hé,shù" info="1.符合道理。2.数学用语。自然数中除能被1和本数整除外，还能被其他的数整除的数。如：6能被1和6整除，也能被2和3整除。" />
-		<phrase hz="荒数" py="hé,shù" info="〈方〉不确定的数目" />
-		<phrase hz="恒河沙数" py="héng,hé,shā,shù" info="本为佛经用语。恒河,南亚大河,比喻数量多到像恒河里的沙子那样无法计算" />
-		<phrase hz="幻数" py="huàn,shù" info="整数8,20,28,50,82,126;原子核中的质子数、中子数为幻数时或两者均为幻数时,其稳定性和结合能均较平均值为大,且具有其它特性" />
-		<phrase hz="回数" py="huí,shù" info="1.次数。2.指章回小说的章数。3.数学上：一般的，一个自然数，如果该自然数从左向右读和从右向左读都是一样的数，则这个数为回数。比如101，32123，9999等等都是回数。" />
-		<phrase hz="浑身解数" py="hún,shēn,xiè,shù" info="浑身：全身，指所有的；解数：那套数，指武艺。所有的本领，全部的技术手腕。" />
-		<phrase hz="基数" py="jī,shù" info="1.用于表示事物个数的数。如一、二、三……一百、三千等普通整数，区别于第一、第二、第三……第一百、第三千等序数。 2.统计中计算“动态指标”时用作对比基础的数值。" />
-		<phrase hz="计数器" py="jì,shù,qì" info="能自动记录数目的仪器。 种类很多，根据机械、光电、电磁等不同原理制成，在科学研究和生产技术中广泛应用。" />
-		<phrase hz="加数" py="jiā,shù" info="數學上指相加的各數中，除了第一個數是被加數外，其餘的各數皆稱為「加數」。如A＋B＋C中，B、C即是加數。" />
-		<phrase hz="劫数" py="jié,shù" info="原为佛教语。指极漫长的时间。后亦指命中注定的厄运，大难，大限" />
-		<phrase hz="尽数" py="jìn,shù" info="全部;全数" />
-		<phrase hz="礼数" py="lǐ,shù" info="[口]礼节;礼貌的等级" />
-		<phrase hz="理数" py="lǐ,shù" info="1.道理，事理。2.天理；天数。 3.犹体统。" />
-		<phrase hz="寥寥数语" py="liáo,liáo,shù,yǔ" info="非常简括地说" />
-		<phrase hz="路数" py="lù,shù" info="1.路线;门路 2.着数;招数 3.底细;来路" />
-		<phrase hz="命数" py="mìng,shù" info="命运" />
-		<phrase hz="偶数" py="ǒu,shù" info="能被2整除的数，包括正偶数、负偶数和零" />
-		<phrase hz="平均数" py="píng,jūn,shù" info="用几个数的和除以这几个数的个数得到的商。例如(5+6+7)÷3=6,6是5、6和7的平均数" />
-		<phrase hz="气数" py="qì,shù" info="命运" />
-		<phrase hz="区区之数" py="qū,qū,zhī,shù" info="比喻数目极少，微不足道" />
-		<phrase hz="全数" py="quán,shù" info="全部[可以计数的东西];彻底" />
-		<phrase hz="确数" py="què,shù" info="准确的数目。" />
-		<phrase hz="人数" py="rén,shù" info="1.人的总数 2.花名册上的人员数额" />
-		<phrase hz="如数" py="rú,shù" info="按原来的或规定的数目" />
-		<phrase hz="商数" py="shāng,shù" info="除法运算中，被除数除以除数所得的计算结果" />
-		<phrase hz="少数" py="shǎo,shù" info="较少的数量。对“多数”而言。" />
-		<phrase hz="算数" py="suàn,shù" info="1.承认有效。2.结束;为止。3.指算术。" />
-		<phrase hz="实数" py="shí,shù" info="1.不存在虚数部分的数;有理数和无理数的总称 2.实在的数字" />
-		<phrase hz="寿数" py="shòu,shù" info="指命中注定的岁数(迷信)" />
-		<phrase hz="数词" py="shù,cí" info="代表数目的词。数词连用或者加上别的词，可以表示序数、分数、倍数、概数，如第一、七成、三分之一、两倍、三五十、七十出头" />
-		<phrase hz="数额" py="shù,é" info="科学实验、检验、统计等所获得的和用于科学研究、技术设计、查证、决策等的数值" />
-		<phrase hz="数奇不偶" py="shù,jī,bù,ǒu" info="奇：单数，古人认为单数不吉；不偶：不遇。指命运不好，事多不顺利。用以形容人的经历坎坷，潦倒失意。" />
-		<phrase hz="数奇不遇" py="shù,jī,bú,yù" info="命运不好，事多不顺利" />
-		<phrase hz="数据" py="shù,jù" info="1.规定的数目 2.指一定的数量" />
-		<phrase hz="数理化" py="shù,lǐ,huà" info="数理化就是学科上的数学、物理、化学，一般被称作理科（natural sciences）。" />
-		<phrase hz="数量" py="shù,liàng" info="事物的多少" />
-		<phrase hz="数列" py="shù,liè" info="依照某种法则排列的一列数。如：1、3、5、7……；2、4、6、8……等。数列分有限数列和无限数列两种。" />
-		<phrase hz="数论" py="shù,lùn" info="数学的一个分科，主要研究正整数的性质及其有关的规律。按研究方法的不同，大致可分为初等数论、代数数论、几何数论、解析数论等。" />
-		<phrase hz="数目" py="shù,mù" info="事物的多少" />
-		<phrase hz="数世同堂" py="shù,shì,tóng,táng" info="几代人住在一起不分家" />
-		<phrase hz="数位" py="shù,wèi" info="数的所在位置。例如从数的右面起第一位是个位，第二位是十位。" />
-		<phrase hz="数学" py="shù,xué" info="1.研究现实世界的空间形式和数量关系的科学。包括算术、代数、几何、三角、微积分等 2.即术数。古代关于天文、历法、占卜的学问" />
-		<phrase hz="数以百计" py="shù,yǐ,bǎi,jì" info="数量以百来计算" />
-		<phrase hz="数以万计" py="shù,yǐ,wàn,jì" info="1.以万来计算 2.极多的" />
-		<phrase hz="数值" py="shù,zhí" info="用数目表示的一个量的多少。例如2米的2，6 斤的6" />
-		<phrase hz="数制" py="shù,zhì" info="记数的法则。 根据进位基数的不同，有十进制、二进制、八进制等" />
-		<phrase hz="数珠" py="shù,zhū" info="佛教徒诵经时用来计数的成串的珠子。也叫念珠" />
-		<phrase hz="数字" py="shù,zì" info="数目字;表示数目的符号" />
-		<phrase hz="双数" py="shuāng,shù" info="正的偶数，如2、4、6、8等。" />
-		<phrase hz="素数" py="sù,shù" info="质数" />
-		<phrase hz="岁数" py="suì,shù" info="[口]:人的年龄" />
-		<phrase hz="套数" py="tào,shù" info="1.戏曲或散曲中连贯成套的曲子 2.比喻成系统的技巧或手法 3.指应酬的话;老一套的办法 4.又名套曲，金、元时代散曲的一种" />
-		<phrase hz="天数" py="tiān,shù" info="指由上天给安排的命运" />
-		<phrase hz="为数" py="wéi,shù" info="从数量多少上看" />
-		<phrase hz="尾数" py="wěi,shù" info="1.指位于小数点后面的数 2.结算帐目中的小数目 3.常用对数的小数部分" />
-		<phrase hz="未知数" py="wèi,zhī,shù" info="1.在数学方程式中有待证明的数字或其他符号 2.比喻还不知道的事情" />
-		<phrase hz="无量数" py="wú,liàng,shù" info="不可估量之数，极言其多。" />
-		<phrase hz="无数" py="wú,shù" info="1.无法计数，指数量极多。2.不知底细" />
-		<phrase hz="系数" py="xì,shù" info="测量某种性质或特征的数以及一般在计算中使用的因子" />
-		<phrase hz="相反数" py="xiāng,fǎn,shù" info="数轴上原点两旁，且与原点距离相等的两点所对应的两个数，互称“相反数”。两实数互为相反数的充要条件是它们的和为零。零的相反数仍是零。" />
-		<phrase hz="小数" py="xiǎo,shù" info="十进分数的一种特殊表现形式，表示成十进位小数，如85/100可以写做0.85，中间用的符号.叫做小数点，小数点右边的数就是小数" />
-		<phrase hz="心数" py="xīn,shù" info="心计" />
-		<phrase hz="虚数" py="xū,shù" info="1.虚假不实的数字 2.实数与虚数单位之积，亦即实部为零的复数(如3i)" />
-		<phrase hz="序数" py="xù,shù" info="像第一，第二等表示次序的数，还有一些惯用的表示法像大舅、二舅、头一次等。此外像一组、三级、六层等因后跟量词或名词，可以省去第" />
-		<phrase hz="衍数" py="yǎn,shù" info="1.《易·繫辞上》：“大衍之数五十，其用四十有九。”因以“衍数”指五十。 2.推算数字。" />
-		<phrase hz="阳数" py="yáng,shù" info="1.奇数。2.指阳寿。" />
-		<phrase hz="一目数行" py="yí,mù,shù,háng" info="犹一目十行。形容看书非常快。" />
-		<phrase hz="异数" py="yì,shù" info="1.亦作“异数”。 等次不同；程度不一。 2.奇异的术数。 3.特殊的礼遇。" />
-		<phrase hz="已知数" py="yǐ,zhī,shù" info="已经知道的数" />
-		<phrase hz="悉数" py="yīn,shù" info="1.完全列举或说出 2.对事情一一说明 3.全部数量" />
-		<phrase hz="因数" py="yīn,shù" info="亦称因子。 一整数被另一整数整除，后者即是前者的因数，如1，2，4都为8的因数" />
-		<phrase hz="余数" py="yú,shù" info="除后剩余的小于除数的未除尽部分" />
-		<phrase hz="约数" py="yuē,shù" info="1.指能整除某一个数的数 2.大约的数目" />
-		<phrase hz="有数" py="yǒu,shù" info="1.知道怎么回事，有信心 2.数目不多" />
-		<phrase hz="遭劫在数" py="zāo,jié,zài,shù" info="指命中注定要遇到灾难。" />
-		<phrase hz="在数" py="zài,shù" info="1.在天数之内(迷信) 2.在数额之内" />
-		<phrase hz="着数" py="zhāo,shù" info="1.下棋的步子 2.武术的动作 3.舞台上的一整套手法 4.比喻手段，计谋" />
-		<phrase hz="招数" py="zhāo,shù" info="同“着数”。" />
-		<phrase hz="真数" py="zhēn,shù" info="數學上指對數符號中一恆大於零的數。如log100=2為以10為底數時100的對數，100為真數。" />
-		<phrase hz="整数" py="zhěng,shù" info="任意自然数(如1，2，3，4，5)以及它们的负数或0" />
-		<phrase hz="正数" py="zhèng,shù" info="1.大于0的数 2.比喻积极因素" />
-		<phrase hz="指数" py="zhǐ,shù" info="1.与一特定时间当作100的数量相比的表示数量变动的数字(如成本物价或生产量) 2.写在一个数学符号、数学式或量的右上角的一个符号，用以指示应完成的某种数学运算" />
-		<phrase hz="质数" py="zhì,shù" info="素数，除本身的绝对值外，不可能为大于1的整数除尽的数" />
-		<phrase hz="烛照数计" py="zhú,zhào,shù,jì" info="用烛照着，按数计算。 比喻料事准确。 " />
-		<phrase hz="自然对数" py="zì,rán,duì,shù" info="以 e 为底的对数" />
-		<phrase hz="字数" py="zì,shù" info="中文字或外文词的数目或数量" />
-		<phrase hz="总数" py="zǒng,shù" info="总计的数目" />
-		<phrase hz="作数" py="zuò,shù" info="算数。多指说话能兑现" />
-		<definition id="一">
-			<item id="1" text="数目，划分或计算出来的量：基~. 序~. 岁~. 次~. 人~太多，坐不下. [数词]表示数目的词，如一、九、千、万等。" />
-			<item id="2" text="几，几个：~次. ~日. ~人." />
-			<item id="3" text="（迷信）劫数：在~难逃." />
-		</definition>
-	</char>
+	<!-- Ref:数.xml <char hz="数" py="shù" multi="shǔ,shuò" main="1" /> -->
 	<char hz="墅" py="shù" />
 	<char hz="漱" py="shù" />
 	<char hz="澍" py="shù" />

@@ -10,11 +10,7 @@
 	</char>
 	<char hz="兮" py="xī" />
 	<char hz="西" py="xī" />
-	<char hz="茜" py="xī" multi="qiàn">
-		<definition id="二">
-			<item text="多用于人名（人名中也有读 qiàn 的）。" />
-		</definition>
-	</char>
+	<!-- Ref:茜.xml <char hz="茜" py="xī" multi="qiàn" /> -->
 	<char hz="恓" py="xī">
 		<phrase hz="恓惶" py="xī,huáng" />
 	</char>
@@ -141,25 +137,8 @@
 	</char>
 	<char hz="隰" py="xí" />
 	<char hz="檄" py="xí" />
-	<char hz="洗" py="xǐ" multi="xiǎn" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="用水去掉污垢（(连)-涤）：~衣服. ~脸. [洗礼]1.基督教接受人入教时所举行的一种仪式。 2.指经受的锻炼和考验：战斗的~~. [洗手]比喻盗贼等不再偷抢。" />
-			<item id="2" text="清除干净：清~." />
-			<item id="3" text="冲洗，照相的显影定影：~相片." />
-			<item id="4" text="洗雪：~冤." />
-			<item id="5" text="如水洗一样抢光，杀光：~城. ~劫一空." />
-			<item id="6" text="掺和整理：~牌." />
-		</definition>
-	</char>
-	<char hz="铣" py="xǐ" multi="xiǎn">
-		<phrase hz="铣床" py="xǐ,chuáng" info="切削金属用的一种机床。" />
-		<phrase hz="铣刀" py="xǐ,dāo" info="安装在铣床上的用于金属面的铣切成形和修整的旋转式工具钢刀具" />
-		<phrase hz="铣工" py="xǐ,gōng" info="1.进行铣削加工 2.操作铣床的工人" />
-		<phrase hz="铣削" py="xǐ,xiāo" info="用铣刀对金属件进行切削" />
-		<definition id="二">
-			<item text="一种能旋转的多刃刀具切削金属工件：~床. ~刀." />
-		</definition>
-	</char>
+	<!-- Ref:洗.xml <char hz="洗" py="xǐ" multi="xiǎn" main="1" suppressLog="1" /> -->
+	<!-- Ref:铣.xml <char hz="铣" py="xǐ" multi="xiǎn" /> -->
 	<char hz="枲" py="xǐ" />
 	<char hz="玺" py="xǐ" />
 	<char hz="徙" py="xǐ" />

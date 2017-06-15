@@ -1,18 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="曰" py="yuē" />
-	<char hz="约" py="yuē" multi="yāo" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="拘束，限制（(连)-束）。" />
-			<item id="2" text="共同议定的要遵守的条款：条~. 立~. 爱国公~." />
-			<item id="3" text="预先说定：预~. 和他~好了." />
-			<item id="4" text="请：~他来. 特~记者." />
-			<item id="5" text="算术上指用公因数去除分子和分母使分数重简化：5/10可以~成1/2." />
-			<item id="6" text="俭省：节~." />
-			<item id="7" text="简单，简要：简~. 由博返~." />
-			<item id="8" text="大约，大概，不十分确定的：~计. ~数. 大~有五十人." />
-		</definition>
-	</char>
+	<!-- Ref:约.xml <char hz="约" py="yuē" multi="yāo" main="1" suppressLog="1" /> -->
 	<char hz="矱" py="yuē" />
 	<char hz="彟" py="yuē" />
 	<char hz="哕" py="yuě">
@@ -31,48 +20,11 @@
 	</char>
 	<char hz="刖" py="yuè" />
 	<char hz="玥" py="yuè" />
-	<char hz="钥" py="yuè" multi="yào" main="1">
-		<phrase hz="锁钥" py="suǒ,yuè" />
-		<definition id="一">
-			<item text="锁。 [锁钥](喻) 1.重要关键。 2.边防要地：北门~~." />
-		</definition>
-	</char>
-	<char hz="乐" py="yuè" multi="lè">
-		<phrase hz="哀乐" py="āi,yuè" />
-		<phrase hz="鼓乐" py="gǔ,yuè" />
-		<phrase hz="管乐" py="guǎn,yuè" />
-		<phrase hz="交响乐" py="jiāo,xiǎng,yuè" />
-		<phrase hz="军乐" py="jūn,yuè" info="俗称用管乐器和打击乐器演奏的音乐，因为军队中常用而得名" />
-		<phrase hz="民乐" py="mín,yuè" info="民间的音乐" />
-		<phrase hz="器乐" py="qì,yuè" />
-		<phrase hz="声乐" py="shēng,yuè" />
-		<phrase hz="音乐" py="yīn,yuè" />
-		<phrase hz="乐队" py="yuè,duì" />
-		<phrase hz="乐理" py="yuè,lǐ" info="音乐的道理、法则。" />
-		<phrase hz="乐谱" py="yuè,pǔ" />
-		<phrase hz="乐器" py="yuè,qì" />
-		<phrase hz="乐清" py="yuè,qīng" />
-		<phrase hz="乐曲" py="yuè,qǔ" />
-		<phrase hz="乐手" py="yuè,shǒu" info="演奏音乐的人。" />
-		<phrase hz="乐团" py="yuè,tuán" />
-		<phrase hz="奏乐" py="zòu,yuè" />
-		<definition id="二">
-			<item id="1" text="音乐：奏~. [乐清]地名，在浙江省。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
-	<char hz="栎" py="yuè" multi="lì">
-		<phrase hz="栎阳" py="yuè,yáng" />
-		<definition id="二">
-			<item text="[栎阳]古地名，在今陕西省临潼。" />
-		</definition>
-	</char>
+	<!-- Ref:钥.xml <char hz="钥" py="yuè" multi="yào" main="1" /> -->
+	<!-- Ref:乐.xml <char hz="乐" py="yuè" multi="lè" /> -->
+	<!-- Ref:栎.xml <char hz="栎" py="yuè" multi="lì" /> -->
 	<char hz="岳" py="yuè" />
-	<char hz="说" py="yuè" multi="shuì,shuō">
-		<definition id="三">
-			<item text="古同“悦”。" />
-		</definition>
-	</char>
+	<!-- Ref:说.xml <char hz="说" py="yuè" multi="shuì,shuō" /> -->
 	<char hz="阅" py="yuè" />
 	<char hz="悦" py="yuè">
 		<definition>

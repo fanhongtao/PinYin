@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="锏" py="jiǎn" multi="jiàn" main="1">
+		<phrase hz="鞭锏" py="biān,jiǎn" info="鞭简。古代兵器名。" />
+		<phrase hz="撒手锏" py="sā,shǒu,jiǎn" info="旧小说中搏斗时突然用锏投杀敌人的绝招，比喻在危急时拿出看家本领。" />
+		<phrase hz="杀手锏" py="shā,shǒu,jiǎn" info="一作撒手锏，喻指取胜的绝招。" />
+		<phrase hz="刹手锏" py="shā,shǒu,jiǎn" info="即杀手锏。锏术中的绝招。后用以比喻最厉害的一手。" />
+		<phrase hz="煞手锏" py="shà,shǒu,jiǎn" info="杀手锏。喻出奇制胜的手段和方法。" />
+		<phrase hz="四楞锏" py="sì,léng,jiǎn" info="亦作“四棱简”。有四条棱的鞭类兵器。" />
+		<definition id="二">
+			<item text="古代的一种兵器，像鞭，四棱。" />
+		</definition>
+	</char>
+	<char hz="锏" py="jiàn" multi="jiǎn">
+		<definition id="一">
+			<item text="嵌在车轴上的铁，可以保护车轴并减少摩擦力。" />
+		</definition>
+	</char>
+</pinyin>

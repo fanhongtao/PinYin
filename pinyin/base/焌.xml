@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="焌" py="jùn" multi="qū" info="Word主音">
+		<definition id="二">
+			<item text="用火烧。" />
+		</definition>
+	</char>
+	<char hz="焌" py="qū" multi="jùn" main="1">
+		<phrase hz="焌油" py="qū,yóu" info="一种烹调方法。把热油浇在菜肴上。" />
+		<definition id="一">
+			<item id="1" text="把燃烧着的东西弄灭。" />
+			<item id="2" text="用不带火苗的火烧烫。" />
+			<item id="3" text="烹饪法，在热锅里加油，油热后先放作料，然后放菜：~锅儿." />
+		</definition>
+	</char>
+</pinyin>

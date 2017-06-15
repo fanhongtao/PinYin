@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鲜" py="xiān" multi="xiǎn" main="1" suppressLog="1">
+		<phrase hz="鲜卑族" py="xiān,bēi,zú" />
+		<definition id="一">
+			<item id="1" text="新的，不陈的，不干枯的（(连)新-）：~果. ~花. ~肉. ~血." />
+			<item id="2" text="滋味美好：这汤真~." />
+			<item id="3" text="有光彩的：~红的旗帜. 颜色十分~艳." />
+			<item id="4" text="新鲜的食物：尝~." />
+			<item id="5" text="姓。" />
+			<item text="[鲜卑族](-bēi-)我国古代北方民族。" />
+		</definition>
+	</char>
+	<char hz="鲜" py="xiǎn" multi="xiān">
+		<phrase hz="寡廉鲜耻" py="guǎ,lián,xiǎn,chǐ" info="厚颜无耻,也缺少廉耻之心" />
+		<phrase hz="鲜见" py="xiǎn,jiàn" />
+		<phrase hz="鲜廉寡耻" py="xiǎn,lián,guǎ,chǐ" info="无廉洁之操守且不知羞耻。" />
+		<phrase hz="鲜为人知" py="xiǎn,wéi,rén,zhī" info="很少有人知道。" />
+		<phrase hz="鲜有" py="xiǎn,yǒu" />
+		<definition id="二">
+			<item text="少：~见. ~有." />
+		</definition>
+	</char>
+</pinyin>

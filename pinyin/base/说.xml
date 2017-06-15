@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="说" py="shuì" multi="shuō,yuè">
+		<phrase hz="游说" py="yóu,shuì" />
+		<definition id="二">
+			<item text="用话劝说别人，使他听从自己的意见：游~." />
+		</definition>
+	</char>
+	<char hz="说" py="shuō" multi="shuì,yuè" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="用话来表达自己的意思。" />
+			<item id="2" text="说合，介绍：~亲." />
+			<item id="3" text="言论，主张：学~. 著书立~." />
+			<item id="4" text="责备：他挨~了. ~了他一顿." />
+		</definition>
+	</char>
+	<char hz="说" py="yuè" multi="shuì,shuō">
+		<definition id="三">
+			<item text="古同“悦”。" />
+		</definition>
+	</char>
+</pinyin>

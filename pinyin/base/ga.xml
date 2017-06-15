@@ -1,20 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="夹" py="gā" multi="jiā,jiá">
-		<phrase hz="夹肢窝" py="gā,zhi,wo" />
-		<definition id="三">
-			<item text="[夹肢窝](-zhiwo)腋窝。" />
-		</definition>
-	</char>
+	<!-- Ref:夹.xml <char hz="夹" py="gā" multi="jiā,jiá" /> -->
 	<char hz="旮" py="gā">
 		<phrase hz="旮旯" py="gā,lá" />
 	</char>
-	<char hz="伽" py="gā" multi="jiā,qié" info="Word主音">
-		<phrase hz="伽马" py="gā,mǎ" />
-		<definition id="三">
-			<item text="[伽马射线]又叫“丙种射线”。波长极短，一些放射性元素的原子能放出这种射线，在工业和医学上用途很广。通常写作“γ射线”。" />
-		</definition>
-	</char>
+	<!-- Ref:伽.xml <char hz="伽" py="gā" multi="jiā,qié" info="Word主音"> -->
 	<char hz="咖" py="gā" multi="kā" main="1">
 		<phrase hz="咖喱" py="gā,lí" />
 		<definition id="一">

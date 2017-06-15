@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="慊" py="qiàn" multi="qiè">
+		<definition id="一">
+			<item text="不满，怨恨。" />
+		</definition>
+	</char>
+	<char hz="慊" py="qiè" multi="qiàn" main="1">
+		<definition id="二">
+			<item text="满足，满意：不~（不满）." />
+		</definition>
+	</char>
+</pinyin>

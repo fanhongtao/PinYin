@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="筠" py="jūn" multi="yún" info="Word主音">
+		<phrase hz="筠连" py="jūn,lián" />
+		<definition id="二">
+			<item text="[筠连]地名，在四川省。" />
+		</definition>
+	</char>
+	<char hz="筠" py="yún" multi="jūn" main="1">
+		<definition id="一">
+			<item id="1" text="竹皮。" />
+			<item id="2" text="竹子。" />
+		</definition>
+	</char>
+</pinyin>

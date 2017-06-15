@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="见" py="jiàn" multi="xiàn" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="看到：眼~为实. (引)接触，遇到：这种病怕~风. 胶卷不能~光. [见习]学得专业知识的人初到工作岗位在现场中实习：~~技术员." />
+			<item id="2" text="看得出，显现出：病已~好. ~分晓. ~效." />
+			<item id="3" text="（文字等）出现在某处，可参考：~上. ~下. ~《史记·陈涉世家》." />
+			<item id="4" text="会见，会面：接~. 看望多年未~的老战友." />
+			<item id="5" text="见解，对于事物的看法（(连)-识）：~地. 远~. 不能固执己~." />
+			<item id="6" text="助词。 1.用在动词前面表示被动：~笑. ~疑. 2.用在动词前面表示对说话人怎么样：~谅. ~告. ~教." />
+			<item id="7" text="用在动词“听”、“看”、“闻”等字后，表示结果：看~. 听不~." />
+			<item id="8" text="姓。" />
+		</definition>
+	</char>
+	<char hz="见" py="xiàn" multi="jiàn">
+		<definition id="二">
+			<item text="同“现(1)”。" />
+		</definition>
+	</char>
+</pinyin>

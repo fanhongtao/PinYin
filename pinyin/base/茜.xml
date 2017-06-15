@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="茜" py="qiàn" multi="xī" main="1">
+		<phrase hz="茜草" py="qiàn,cǎo" />
+		<phrase hz="茜罗" py="qiàn,luó" info="绛红色的薄丝织品。" />
+		<phrase hz="茜裙" py="qiàn,qún" info="1.绛红色的裙子。2.指女子。" />
+		<phrase hz="染茜" py="rǎn,qiàn" info="染成大红色。" />
+		<definition id="一">
+			<item id="1" text="茜草，多年生蔓草，茎有刺毛，初秋开花，黄色。根红色，可做染料，也可入药。" />
+			<item id="2" text="红色。" />
+		</definition>
+	</char>
+	<char hz="茜" py="xī" multi="qiàn">
+		<definition id="二">
+			<item text="多用于人名（人名中也有读 qiàn 的）。" />
+		</definition>
+	</char>
+</pinyin>

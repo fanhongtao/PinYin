@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="颉" py="jié" multi="xié">
+		<phrase hz="仓颉" py="cāng,jié" />
+		<definition id="一">
+			<item text="[仓颉]上古人名，传说是黄帝的史官，汉字的创造者。" />
+		</definition>
+	</char>
+	<char hz="颉" py="xié" multi="jié" main="1">
+		<phrase hz="颉颃" py="xié,háng" />
+		<definition id="二">
+			<item id="1" text="鸟往上飞。 [颉颃](-háng)1.鸟向上向下飞。 2.不相上下：他的书法与名家相~~. (转)对抗：~~作用." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

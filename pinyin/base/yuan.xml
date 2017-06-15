@@ -11,24 +11,11 @@
 	<char hz="渊" py="yuān" />
 	<char hz="蜎" py="yuān" />
 	<char hz="元" py="yuán" />
-	<char hz="芫" py="yuán" multi="yán" main="1">
-		<phrase hz="芫花" py="yuán,huā" info="植物名。又名芫华、鱼毒，药鱼草。瑞香科，瑞香属。中国和朝鲜的一种花" />
-		<phrase hz="芫华" py="yuán,huá" info="落叶灌木。叶小椭圆形，花小色紫，可供观赏。花蕾含芫花素，可供药用。" />
-		<definition id="一">
-			<item text="芫花，落叶灌木，开紫色小花，有毒，花蕾可入药。" />
-		</definition>
-	</char>
+	<!-- Ref:芫.xml <char hz="芫" py="yuán" multi="yán" main="1" /> -->
 	<char hz="园" py="yuán" />
 	<char hz="沅" py="yuán" />
 	<char hz="鼋" py="yuán" />
-	<char hz="员" py="yuán" multi="yún,yùn" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="指工作或学习的人：学~. 演~." />
-			<item id="2" text="指团体组织中的成员：党~. 团~. 会~." />
-			<item id="3" text="量词，用于武将等：一~大将." />
-			<item id="4" text="周围：幅~（指疆域）." />
-		</definition>
-	</char>
+	<!-- Ref:员.xml <char hz="员" py="yuán" multi="yún,yùn" main="1" suppressLog="1" /> -->
 	<char hz="圆" py="yuán">
 		<definition>
 			<item id="1" text="圆形，从它的中心点到周边任何一点距离都相等。" />
@@ -41,12 +28,7 @@
 	<char hz="爰" py="yuán" />
 	<char hz="援" py="yuán" />
 	<char hz="湲" py="yuán" />
-	<char hz="媛" py="yuán" multi="yuàn" info="Word主音">
-		<phrase hz="婵媛" py="chán,yuán" info="1.（姿态）美好。 2.牵连，相连。" />
-		<definition id="二">
-			<item text="[婵媛]1.（姿态）美好。 2.牵连，相连。" />
-		</definition>
-	</char>
+	<!-- Ref:媛.xml <char hz="媛" py="yuán" multi="yuàn" info="Word主音" /> -->
 	<char hz="袁" py="yuán" />
 	<char hz="猿" py="yuán" />
 	<char hz="辕" py="yuán" />
@@ -58,23 +40,14 @@
 	<char hz="羱" py="yuán" />
 	<char hz="缘" py="yuán" />
 	<char hz="橼" py="yuán" />
-	<char hz="圜" py="yuán" multi="huán">
-		<definition id="二">
-			<item text="同“圆”。" />
-		</definition>
-	</char>
+	<!-- Ref:圜.xml <char hz="圜" py="yuán" multi="huán" /> -->
 	<char hz="远" py="yuǎn" />
 	<char hz="苑" py="yuàn" />
 	<char hz="怨" py="yuàn" />
 	<char hz="院" py="yuàn" />
 	<char hz="垸" py="yuàn" />
 	<char hz="掾" py="yuàn" />
-	<char hz="媛" py="yuàn" multi="yuán" main="1" suppressLog="1">
-		<phrase hz="名媛" py="míng,yuàn" info="有名的美女。 亦指名门闺秀。" />
-		<definition id="一">
-			<item text="美女。" />
-		</definition>
-	</char>
+	<!-- Ref:媛.xml <char hz="媛" py="yuàn" multi="yuán" main="1" suppressLog="1" /> -->
 	<char hz="瑗" py="yuàn" />
 	<char hz="愿" py="yuàn" />
 </pinyin>

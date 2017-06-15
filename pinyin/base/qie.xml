@@ -1,92 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="切" py="qiē" multi="qiè" main="1">
-		<phrase hz="横切" py="héng,qiē" info="1.横向切断或穿过 2.用横切锯锯(如木材)" />
-		<phrase hz="剪切" py="jiǎn,qiē" info="指依靠剪切力分开材料" />
-		<phrase hz="砍瓜切菜" py="kǎn,guā,qiē,cài" info="形容操刀利落爽快" />
-		<phrase hz="切除" py="qiē,chú" info="用手术去除器官或身体的一部分，或用其他方法消除其功能" />
-		<phrase hz="切磋" py="qiē,cuō" />
-		<phrase hz="切点" py="qiē,diǎn" info="曲线转变为直反线的点或改变其曲率的点" />
-		<phrase hz="切腹" py="qiē,fù" info="剖腹自杀。" />
-		<phrase hz="切糕" py="qiē,gāo" info="糯米或黄米面制成的糕，多和以红枣或豆沙，刀切零售，故名。" />
-		<phrase hz="切割" py="qiē,gē" info="切断或烧断金属材料" />
-		<phrase hz="切口" py="qiē,kǒu" info="1.在某种东西上所作的狭长切刻口 2.外科医生在组织或器官上切开的口(如为了达到手术部位或造成引流) 3.一个阶层(如贼、乞丐)所使用的特殊而常常是秘密的词汇，通常都被认为是粗俗和下等的 4.帮会或某些行业中的暗语" />
-		<phrase hz="切片" py="qiē,piàn" info="1.从物品上切出的扁薄部分 2.适于显微镜检验的极薄片(如组织的或岩石的) 3.用小刀或开动模切机切割出(如鞋帮的某些部分)" />
-		<phrase hz="切入" py="qiē,rù" info="從中插入、進入。" />
-		<phrase hz="余切" py="yú,qiē" info="cotangent,任意角终边上除顶点外的任一点的横坐标除以该点的非零纵坐标，角的顶点与平面直角坐标系的原点重合，而该角的始边则与正x轴重合" />
-		<phrase hz="正切" py="zhèng,qiē" info="tangent,当某角的顶点与平面直角坐标系的原点重合，而该角的始边又与X轴的正向重合时，角终边上任意点的纵坐标除以该点的非零横坐标所得的商" />
-		<definition id="一">
-			<item id="1" text="用刀从上往下割：~成片. 把瓜~开. [切磋](-cuō)(喻)在业务、思想等方面互相研究讨论，取长补短。" />
-			<item id="2" text="几何学上直线与弧线或两个弧线相接于一点：~线. ~点. 两圆相~." />
-		</definition>
-	</char>
-	<char hz="伽" py="qié" multi="gā,jiā" main="1">
-		<phrase hz="伽蓝" py="qié,lán" />
-		<definition id="一">
-			<item text="[伽蓝]梵语“僧伽蓝摩”的省称，指僧众所住的园林，后指佛寺。" />
-			<item text="[伽蓝香]沉香，一种常绿乔木，木材重而坚硬，有香味，可入药。" />
-		</definition>
-	</char>
-	<char hz="茄" py="qié" multi="jiā" main="1">
-		<phrase hz="番茄" py="fān,qié" info="又叫西红柿。" />
-		<phrase hz="茄子" py="qié,zi" />
-		<definition id="一">
-			<item text="（-子）一年生草本植物，花紫色。果实也叫茄子，紫色，也有白色或绿色的，可以吃。 [番茄]一年生草本植物，花黄色。果实也叫番茄，圆形，熟时红色或黄色，可以吃。也叫“西红柿”。" />
-		</definition>
-	</char>
-	<char hz="且" py="qiě" multi="jū" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="连词，表示并列或进一层：既高~大." />
-			<item id="2" text="连词，尚且，表示让步：死~不怕，还怕困难吗？" />
-			<item id="3" text="副词，表示暂时：~慢. ~住." />
-			<item id="4" text="文言副词，将要：年~九十." />
-			<item id="5" text="且……且……，表示两个动作同时进行：~走~说. ~行~想." />
-			<item id="6" text="副词，且……呢，表示经久：这双鞋~穿呢." />
-			<item id="7" text="姓。" />
-		</definition>
-	</char>
-	<char hz="切" py="qiè" multi="qiē">
-		<phrase hz="悲切" py="bēi,qiè" info="非常悲痛" />
-		<phrase hz="不切实际" py="bú,qiè,shí,jì" />
-		<phrase hz="反切" py="fǎn,qiè" />
-		<phrase hz="关切" py="guān,qiè" info="关心" />
-		<phrase hz="激切" py="jī,qiè" info="激烈直率" />
-		<phrase hz="急切" py="jí,qiè" info="1.紧急迫切 2.匆忙;仓猝" />
-		<phrase hz="简切" py="jiǎn,qiè" info="简要切实。" />
-		<phrase hz="交切" py="jiāo,qiè" info="紧急；紧迫。" />
-		<phrase hz="恳切" py="kěn,qiè" info="1.形容态度诚恳，心情急切的样子 2.真诚地" />
-		<phrase hz="密切" py="mì,qiè" info="1.彼此间关系亲近;使关系接近 2.慎密，仔细" />
-		<phrase hz="迫切" py="pò,qiè" info="1.紧急且非常重要;至关重要 2.紧急，要求立即行动" />
-		<phrase hz="凄切" py="qī,qiè" info="凄凉悲切" />
-		<phrase hz="切齿" py="qiè,chǐ" info="上下牙齿紧紧地咬住，表示极端愤怒" />
-		<phrase hz="切肤之痛" py="qiè,fū,zhī,tòng" info="切肤：切身，亲身。亲身经受的痛苦。比喻感受深切。" />
-		<phrase hz="切记" py="qiè,jì" info="务必记住;牢记" />
-		<phrase hz="切忌" py="qiè,jì" info="禁忌;千万不要" />
-		<phrase hz="切近" py="qiè,jì" info="非常接近;非常符合" />
-		<phrase hz="切莫" py="qiè,mò" info="务必不要。" />
-		<phrase hz="切切" py="qiè,qiè" info="1.急切;急迫 2.哀怨、忧伤貌 3.务必;必须--多用于书信 4.用在布告、条令等尾，表示再三告诫 5.形容声音轻细而急促" />
-		<phrase hz="切身" py="qiè,shēn" info="关系到自身" />
-		<phrase hz="切实" py="qiè,shí" info="1.符合事实 2.踏踏实实;确实" />
-		<phrase hz="切题" py="qiè,tí" info="话题不离谱，[文章]内容和题目相符" />
-		<phrase hz="切勿" py="qiè,wù" info="务必不要。" />
-		<phrase hz="切中" py="qiè,zhòng" info="说到点子上了，恰到好处" />
-		<phrase hz="亲切" py="qīn,qiè" info="1.形容人态度亲爱和善 2.亲密;亲近 3.热情关切" />
-		<phrase hz="确切" py="què,qiè" info="准确;恰当" />
-		<phrase hz="热切" py="rè,qiè" info="急切，热情而恳切" />
-		<phrase hz="深切" py="shēn,qiè" info="1.真挚恳切 2.深刻切实" />
-		<phrase hz="贴切" py="tiē,qiè" info="妥贴，确切" />
-		<phrase hz="心切" py="xīn,qiè" />
-		<phrase hz="一切" py="yí,qiè" info="所有" />
-		<phrase hz="殷切" py="yīn,qiè" info="深厚而迫切" />
-		<phrase hz="真切" py="zhēn,qiè" info="清晰确实" />
-		<definition id="二">
-			<item id="1" text="密合，贴近：~身利害. 不~实际. [切齿]咬牙表示痛恨。" />
-			<item id="2" text="紧急：急~. 迫~需要. 回国心~." />
-			<item id="3" text="切实，实在，着实：~记. ~忌. 言辞恳~." />
-			<item id="4" text="旧时汉语标音的一种方法，取上一字的声母与下一字的韵母和声调，拼成一个音，也叫“反切”。如“同”字是徒红切。" />
-			<item text="[一切]所有的，全部。" />
-		</definition>
-	</char>
+	<!-- Ref:切.xml <char hz="切" py="qiē" multi="qiè" main="1" /> -->
+	<!-- Ref:伽.xml <char hz="伽" py="qié" multi="gā,jiā" main="1" /> -->
+	<!-- Ref:茄.xml <char hz="茄" py="qié" multi="jiā" main="1" /> -->
+	<!-- Ref:且.xml <char hz="且" py="qiě" multi="jū" main="1" suppressLog="1" /> -->
+	<!-- Ref:切.xml <char hz="切" py="qiè" multi="qiē" /> -->
 	<char hz="窃" py="qiè" />
 	<char hz="郄" py="qiè" />
 	<char hz="妾" py="qiè" />
@@ -98,16 +16,6 @@
 		<phrase hz="惬当" py="qiè,dàng" />
 	</char>
 	<char hz="箧" py="qiè" />
-	<char hz="趄" py="qiè" multi="jū" main="1">
-		<phrase hz="列趄" py="liè,qie" info="身躯歪斜,脚步不稳" />
-		<phrase hz="趔趔趄趄" py="liè,liè,qiè,qiè" info="立脚不稳，步履踉跄。" />
-		<definition id="一">
-			<item text="倾斜：~着身子." />
-		</definition>
-	</char>
-	<char hz="慊" py="qiè" multi="qiàn" main="1">
-		<definition id="二">
-			<item text="满足，满意：不~（不满）." />
-		</definition>
-	</char>
+	<!-- Ref:趄.xml <char hz="趄" py="qiè" multi="jū" main="1" /> -->
+	<!-- Ref:慊.xml <char hz="慊" py="qiè" multi="qiàn" main="1" /> -->
 </pinyin>

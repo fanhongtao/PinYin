@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="铅" py="qiān" multi="yán" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="一种金属元素，符号Pb，银灰色，质地软，熔点低。 [铅铁]指镀锌铁。 [铅字]印刷用的铅、锡、锑合金铸成的活字。" />
+			<item id="2" text="石墨：~笔." />
+		</definition>
+	</char>
+	<char hz="铅" py="yán" multi="qiān">
+		<phrase hz="铅山" py="yán,shān" />
+		<definition id="二">
+			<item text="[铅山]地名，在江西省。" />
+		</definition>
+	</char>
+</pinyin>

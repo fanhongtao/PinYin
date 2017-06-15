@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="锔" py="jū" multi="jú">
+		<phrase hz="锔缸" py="jū,gāng" />
+		<phrase hz="锔锅" py="jū,guō" />
+		<phrase hz="锔盆" py="jū,pén" />
+		<phrase hz="锔碗" py="jū,wǎn" />
+		<phrase hz="锔子" py="jū,zi" />
+		<definition id="二">
+			<item text="用锔子连合破裂的器物：~盆. ~缸. ~锅. ~碗儿. [锔子](-zi)用铜、铁等制成的扁平有钩的两脚钉，用来连合陶瓷等器物的裂缝。" />
+		</definition>
+	</char>
+	<char hz="锔" py="jú" multi="jū" main="1">
+		<definition id="一">
+			<item text="一种人造的放射性元素，符号Cm。" />
+		</definition>
+	</char>
+</pinyin>

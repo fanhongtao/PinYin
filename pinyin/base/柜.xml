@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柜" py="guì" multi="jǔ" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="（-子）一种收藏东西用的器具，通常作长方形，有盖或有门：衣~. 保险~." />
+		</definition>
+	</char>
+	<char hz="柜" py="jǔ" multi="guǐ">
+		<phrase hz="柜柳" py="jǔ,liǔ" />
+		<definition id="二">
+			<item text="柜柳，即枫杨，落叶乔木，羽状复叶，小叶长椭圆形，性耐湿、耐碱，可固沙，枝韧，可以编筐。" />
+		</definition>
+	</char>
+</pinyin>

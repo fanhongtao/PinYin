@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="槛" py="jiàn" multi="kǎn" main="1">
+		<phrase hz="槛送" py="jiàn,sòng" info="以囚车押送。" />
+		<definition id="一">
+			<item id="1" text="栏杆，栏板。" />
+			<item id="2" text="圈(juān)兽类的栅栏。 [槛车]1.运兽用的有栏杆的车。 2.古代押运囚犯的车。" />
+		</definition>
+	</char>
+	<char hz="槛" py="kǎn" multi="jiàn">
+		<phrase hz="门槛" py="mén,kǎn" />
+		<definition id="二">
+			<item text="门槛，门限。" />
+		</definition>
+	</char>
+</pinyin>

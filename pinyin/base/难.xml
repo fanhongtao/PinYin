@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="难" py="nán" multi="nàn" main="1">
+		<phrase hz="很难" py="hěn,nán" />
+		<phrase hz="艰难" py="jiān,nán" info="艰苦困难" />
+		<phrase hz="困难" py="kùn,nan" info="1.处境艰难 2.生活穷困" />
+		<phrase hz="难保" py="nán,bǎo" info="难于确保" />
+		<phrase hz="难辨真伪" py="nán,biàn,zhēn,wěi" />
+		<phrase hz="难产" py="nán,chǎn" />
+		<phrase hz="难吃" py="nán,chī" info="1.没有味道的，没有香味的。2.味道怪。" />
+		<phrase hz="难道" py="nán,dào" info="莫非，表示加强反问的语气" />
+		<phrase hz="难度" py="nán,dù" info="完成某项工作或达到某个标准的困难程度" />
+		<phrase hz="难改" py="nán,gǎi" info="自定义词" />
+		<phrase hz="难怪" py="nán,guài" info="1.表示不觉得奇怪。2.表示可以谅解，不必责怪。" />
+		<phrase hz="难过" py="nán,guò" info="1.指生活困难，日子不容易过。2.指身体不舒服。3.心情不痛快;伤心。" />
+		<phrase hz="难堪" py="nán,kān" info="1.不容易忍受。2.发窘;为难。" />
+		<phrase hz="难看" py="nán,kàn" info="1.看着不顺眼;不好看。2.不光彩;不体面。" />
+		<phrase hz="难题" py="nán,tí" info="不容易解答的题，也指难以处理的事情" />
+		<phrase hz="难色" py="nán,sè" info="感到为难的表情。" />
+		<phrase hz="难受" py="nán,shòu" info="1.身体感觉不佳。2.心中不舒服。" />
+		<phrase hz="难听" py="nán,tīng" info="1.听着不悦耳，不好听。2.言语粗俗，不堪入耳。3.指事情不光彩、不体面。" />
+		<phrase hz="难题" py="nán,tí" info="不容易解答的题，也指难以处理的事情。" />
+		<phrase hz="难为" py="nán,wei" />
+		<phrase hz="难以" py="nán,yǐ" info="根据场合或情况很难作为自然的结果或后果。" />
+		<phrase hz="千难万险" py="qiān,nán,wàn,xiǎn" info="形容困难和危险极多。" />
+		<phrase hz="盛情难却" py="shèng,qíng,nán,què" info="浓厚的情意难以推辞。" />
+		<phrase hz="为难" py="wéi,nán" info="1.难以应付。2.使人难应付。" />
+		<phrase hz="在劫难逃" py="zài,jié,nán,táo" info="旧时迷信的人认为命里注定要遭受的灾难是无法逃脱的。现有时也用来指某种灾害不可避免。" />
+		<phrase hz="作难" py="zuò,nán" info="1.为难;受窘 2.阻挠;刁难 3.作乱;闹事" />
+		<definition id="一">
+			<item id="1" text="不容易（(连)艰-）：~事. ~题. ~写. ~产. ~得." />
+			<item id="2" text="不大可能：~免. ~保. [难道]副词，加强反问语气：河水~~会倒流吗？ 他们能完成任务，~~我们就不能吗？" />
+			<item id="3" text="使人不好办：这可真~住他了. [难为](-wei)1.令人为难：他不会跳舞，就别~~他了. 2.亏得，表示感谢：这么冷天~~你还来看我. ~~你把机器修好了." />
+			<item id="4" text="不好：~听. ~看." />
+		</definition>
+	</char>
+	<char hz="难" py="nàn" multi="nán">
+		<phrase hz="大难临头" py="dà,nàn,lín,tóu" />
+		<phrase hz="非难" py="fēi,nàn" info="指摘;责备" />
+		<phrase hz="患难" py="huàn,nàn" info="忧患灾难" />
+		<phrase hz="劫难" py="jié,nàn" info="佛教语。谓宿世恶业所致的灾难" />
+		<phrase hz="苦难" py="kǔ,nàn" info="痛苦和灾难" />
+		<phrase hz="落难" py="luò,nàn" info="1.遭到不幸;遭遇灾祸。2.陷入困境。" />
+		<phrase hz="魔难" py="mó,nàn" info="见“磨难”" />
+		<phrase hz="难民" py="nàn,mín" />
+		<phrase hz="逃难" py="táo,nàn" info="1.为免受灾祸苦难而逃亡在外。2.难民逃跑。" />
+		<phrase hz="遇难" py="yù,nàn" info="1.意外死亡。2.被谋杀。3.遭遇危难。" />
+		<phrase hz="灾难" py="zāi,nàn" info="自然的或人为的严重损害" />
+		<phrase hz="遭难" py="zāo,nàn" />
+		<phrase hz="责难" py="zé,nàn" info="指摘责备;非难" />
+		<definition id="二">
+			<item id="1" text="灾患，困苦（(连)灾-、患-）：~民. 遭~. 逃~." />
+			<item id="2" text="诘责：非~. 责~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="价" py="jià" multi="jiè,jie" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="价钱，商品所值的钱数：~目. 物~稳定. 减~. [价格]用货币表现出来的商品的价值。 [价值]1.政治经济学上指凝结在商品中的生产者的社会必要劳动。 2.通常指用途或重要性：有~~. [原子价]化学上称能跟某元素一个原子直接或间接相化合或替代的氢原子数为这个元素的原子价。也省称“价”。" />
+		</definition>
+	</char>
+	<char hz="价" py="jiè" multi="jià,jie">
+		<definition id="二">
+			<item text="旧时称派遣传送东西或传达事情的人。" />
+		</definition>
+	</char>
+	<char hz="价" py="jie" multi="jià,jiè">
+		<phrase hz="成天价闹" py="chéng,tiān,jie,nào" />
+		<phrase hz="震天价响" py="zhèn,tiān,jie,xiǎng" />
+		<definition id="三">
+			<item text="词尾：震天~响. 成天~闹." />
+		</definition>
+	</char>
+</pinyin>

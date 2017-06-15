@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="洗" py="xǐ" multi="xiǎn" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="用水去掉污垢（(连)-涤）：~衣服. ~脸. [洗礼]1.基督教接受人入教时所举行的一种仪式。 2.指经受的锻炼和考验：战斗的~~. [洗手]比喻盗贼等不再偷抢。" />
+			<item id="2" text="清除干净：清~." />
+			<item id="3" text="冲洗，照相的显影定影：~相片." />
+			<item id="4" text="洗雪：~冤." />
+			<item id="5" text="如水洗一样抢光，杀光：~城. ~劫一空." />
+			<item id="6" text="掺和整理：~牌." />
+		</definition>
+	</char>
+	<char hz="洗" py="xiǎn" multi="xǐ">
+		<definition id="二">
+			<item text="同“冼”。" />
+		</definition>
+	</char>
+</pinyin>

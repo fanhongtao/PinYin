@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="家" py="jiā" multi="jie" main="1" suppressLog="1">
+		<phrase hz="家畜" py="jiā,chù" />
+		<phrase hz="家伙" py="jiā,huo" />
+		<phrase hz="家什" py="jiā,shi" />
+		<definition id="一">
+			<item id="1" text="家庭，人家：勤俭持~. 张~有五口人. 谦辞，用于对别人称自己亲属中比自己年纪大或辈分高的：~兄. ~父. [家常]家庭日常生活：~~便饭. 叙~~. [家畜](-chù)由人喂养的禽兽，如马、牛、羊、鸡、猪等。 [家伙](-huo)1.一般的用具、工具。 2.指武器。 3.指牲畜或人（轻视或玩笑）。 [家具]家庭用具，主要指床、柜、桌、椅等。 [家什](-shi)用具，器物：厨房里的~~擦得干干净净." />
+			<item id="2" text="家庭的住所：回~. 这儿就是我的~." />
+			<item id="3" text="指经营某种行业或有某种身份的人家：农~. 酒~." />
+			<item id="4" text="掌握某种专门学识或有丰富实践经验以及从事某种专门活动的人：科学~. 水稻专~. 政治~." />
+			<item id="5" text="学术流派：儒~. 道~. 百~争鸣." />
+			<item id="6" text="指相对各方中的一方：上~. 下~." />
+			<item id="7" text="(jia)词尾，指一类的人（多按年龄或性别分）：姑娘~. 孩子~." />
+			<item id="8" text="量词：一~人家. 两~饭馆." />
+			<item id="9" text="姓。" />
+		</definition>
+	</char>
+	<char hz="家" py="jie" multi="jiā">
+		<phrase hz="成年家" py="chéng,nián,jie" />
+		<phrase hz="整天家" py="zhěng,tiān,jie" />
+		<definition id="二">
+			<item text="词尾：整天~. 成年~." />
+		</definition>
+	</char>
+</pinyin>

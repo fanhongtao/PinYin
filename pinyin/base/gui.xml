@@ -34,11 +34,7 @@
 	<char hz="癸" py="guǐ" />
 	<char hz="晷" py="guǐ" />
 	<char hz="簋" py="guǐ" />
-	<char hz="柜" py="guì" multi="jǔ" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="（-子）一种收藏东西用的器具，通常作长方形，有盖或有门：衣~. 保险~." />
-		</definition>
-	</char>
+	<!-- Ref:柜.xml <char hz="柜" py="guì" multi="jǔ" main="1" suppressLog="1" /> -->
 	<char hz="炅" py="guì" multi="jiǒng">
 		<definition id="二">
 			<item text="姓。" />

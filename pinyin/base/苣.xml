@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="苣" py="jù" multi="qǔ" main="1">
+		<phrase hz="莴苣" py="wō,ju" />
+		<definition id="一">
+			<item text="见“莴”字条“莴苣”(wōju)。" />
+		</definition>
+	</char>
+	<char hz="苣" py="qǔ" multi="jù">
+		<phrase hz="苣荬菜" py="qǔ,mǎi,cài" />
+		<definition id="二">
+			<item text="[苣荬菜](-mǎi-)多年生草本植物，花黄色。茎叶嫩时可以吃。" />
+		</definition>
+	</char>
+</pinyin>

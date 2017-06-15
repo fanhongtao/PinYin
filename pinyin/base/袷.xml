@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="袷" py="jiá" multi="qiā" main="1">
+		<phrase hz="白袷" py="bái,jiá" info="1.白色夹衣。2.旧时平民的服装。亦借指无功名的士人。3.白色圆领。亦指有白色圆领的外衣。" />
+		<phrase hz="单袷" py="dān,jiá" info="1.单衣和夹衣。2.轻便的夹衣。" />
+		<phrase hz="袷袄" py="jiá,ǎo" />
+		<phrase hz="袷衫" py="jiá,shān" />
+		<phrase hz="袷衣" py="jiá,yī" />
+		<phrase hz="领袷" py="lǐng,jiá" />
+		<definition id="二">
+			<item text="“夹”的异体字。" />
+		</definition>
+	</char>
+	<char hz="袷" py="qiā" multi="jiá">
+		<phrase hz="袷袢" py="qiā,pàn" />
+		<definition id="一">
+			<item text="[袷袢](-pàn)(维)维吾尔、塔吉克等民族所穿的对襟长袍。" />
+		</definition>
+	</char>
+</pinyin>

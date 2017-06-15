@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="节" py="jiē" multi="jié">
+		<phrase hz="节骨眼儿" py="jiē,gu,yǎn,er" />
+		<definition id="二">
+			<item text="[节骨眼儿](-gu-)〈方〉(喻)紧要的、能起决定作用的环节或时机。" />
+		</definition>
+	</char>
+	<char hz="节" py="jié" multi="jiē" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="（-儿）植物学上称茎上长叶的部位。" />
+			<item id="2" text="（-儿）物体的分段或两段之间连接的地方：骨~. 两~火车." />
+			<item id="3" text="段落：季~. 时~. 章~. [节气]我国历法把一年分为二十四段，每段的开始叫作一个节气，如立春、雨水等，共有二十四个节气。也省称“节”。" />
+			<item id="4" text="节日，纪念日或庆祝的日子：五一国际劳动~. 春~." />
+			<item id="5" text="礼度：礼~." />
+			<item id="6" text="音调高低缓急的限度：~奏. ~拍." />
+			<item id="7" text="省减，限制（(连)-省、-约）：~制. 开源~流. ~衣缩食. (引)扼要摘取：~录. ~译." />
+			<item id="8" text="操守（(连)-操）：保持晚~. 守~（封建礼教称夫死不再嫁人）." />
+			<item id="9" text="事项：情~. 细~." />
+			<item id="10" text="古代出使外国所持的凭证。 [使节]派到外国的外交官员。" />
+			<item id="11" text="航海速度单位名，每小时航行1海里的速度为1节。符号kn。" />
+		</definition>
+	</char>
+</pinyin>

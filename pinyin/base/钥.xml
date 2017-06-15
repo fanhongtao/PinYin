@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钥" py="yào" multi="yuè" info="Word主音">
+		<phrase hz="钥匙" py="yào,shi" />
+		<definition id="二">
+			<item text="[钥匙](-shi)开锁的东西。" />
+		</definition>
+	</char>
+	<char hz="钥" py="yuè" multi="yào" main="1">
+		<phrase hz="锁钥" py="suǒ,yuè" />
+		<definition id="一">
+			<item text="锁。 [锁钥](喻) 1.重要关键。 2.边防要地：北门~~." />
+		</definition>
+	</char>
+</pinyin>

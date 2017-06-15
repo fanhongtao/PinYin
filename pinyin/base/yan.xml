@@ -75,13 +75,7 @@
 	<char hz="蜒" py="yán" />
 	<char hz="筵" py="yán" />
 	<char hz="闫" py="yán" />
-	<char hz="芫" py="yán" multi="yuán">
-		<phrase hz="芫荽" py="yán,sui" />
-		<phrase hz="胡荽" py="hú,suī" />
-		<definition id="二">
-			<item text="[芫荽](-sui)俗叫“香菜”，又叫“胡荽”(-suī)。一年生或二年生草本植物，花白色。果实球形，有香气，可以制药和香料。茎、叶可以吃。" />
-		</definition>
-	</char>
+	<!-- Ref:芫.xml <char hz="芫" py="yán" multi="yuán" /> -->
 	<char hz="严" py="yán" />
 	<char hz="言" py="yán" />
 	<!-- <char hz="阽" py="yán" info="(又)diàn" /> -->
@@ -90,12 +84,7 @@
 	<char hz="岩" py="yán" />
 	<char hz="炎" py="yán" />
 	<char hz="沿" py="yán" />
-	<char hz="铅" py="yán" multi="qiān">
-		<phrase hz="铅山" py="yán,shān" />
-		<definition id="二">
-			<item text="[铅山]地名，在江西省。" />
-		</definition>
-	</char>
+	<!-- Ref:铅.xml <char hz="铅" py="yán" multi="qiān" /> -->
 	<char hz="盐" py="yán" />
 	<char hz="阎" py="yán" />
 	<char hz="颜" py="yán" />

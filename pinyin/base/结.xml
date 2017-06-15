@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="结" py="jiē" multi="jié">
+		<phrase hz="结巴" py="jiē,ba" />
+		<phrase hz="结实" py="jiē,shi" />
+		<phrase hz="开花结实" py="kāi,huā,jié,shí" />
+		<definition id="二">
+			<item text="植物长果实：树上~了许多苹果. [结实]1.植物长(zhǎng)果实：开花~~. 2.(-shi)坚固耐用：这双鞋很~~. 3.(-shi)健壮：他的身体很~~." />
+			<item text="[结巴](-ba)1.口吃。 2.口吃的人。" />
+		</definition>
+	</char>
+	<char hz="结" py="jié" multi="jiē" main="1">
+		<phrase hz="巴结" py="bā,jie" />
+		<phrase hz="勾结" py="gōu,jié" />
+		<phrase hz="归结" py="guī,jié" />
+		<phrase hz="喉结" py="hóu,jié" />
+		<phrase hz="集结" py="jí,jié" />
+		<phrase hz="结伴" py="jié,bàn" />
+		<phrase hz="结冰" py="jié,bīng" />
+		<phrase hz="结关" py="jié,guān" info="海关业务用语。谓货物、行李物品、船舶等，由所有人或代理人办完海关进出口手续，经海关放行。特指船舶办清海关出口手续。" />
+		<phrase hz="结果" py="jié,guǒ" />
+		<phrase hz="结晶" py="jié,jīng" />
+		<phrase hz="结盟" py="jié,méng" />
+		<phrase hz="结束" py="jié,shù" />
+		<phrase hz="结怨" py="jié,yuàn" />
+		<phrase hz="连结" py="lián,jié" />
+		<phrase hz="联结" py="lián,jié" />
+		<phrase hz="凝结" py="níng,jié" />
+		<phrase hz="团结" py="tuán,jié" />
+		<phrase hz="完结" py="wán,jié" />
+		<phrase hz="心结" py="xīn,jié" />
+		<phrase hz="硬结" py="yìng,jié" />
+		<phrase hz="郁结" py="yù,jié" />
+		<phrase hz="终结" py="zhōng,jié" />
+		<phrase hz="总结" py="zǒng,jié" />
+		<definition id="一">
+			<item id="1" text="系(jì)，绾(wǎn)：~网. ~绳. 张灯~彩. [结构]1.各组成部分的搭配和排列：文章的~~. 2.建筑上指承重的部分：钢筋混凝土~~. [结舌]因害怕或理屈说不出话来：问得他张口~~." />
+			<item id="2" text="（-子）用绳、线或布条等绾成的扣：打~. 活." />
+			<item id="3" text="聚，合。 1.凝聚：~冰. ~晶. 2.联合，发生关系：~婚. ~交. 集合~社." />
+			<item id="4" text="收束，完了(liǎo)：~账. ~局. [结论]对人或事物所下的总结性的论断。" />
+			<item id="5" text="一种保证负责的字据：具~." />
+		</definition>
+	</char>
+</pinyin>

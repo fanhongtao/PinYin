@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="熏" py="xūn" multi="xùn" main="1" suppressLog="1">
+		<phrase hz="熏陶" py="xūn,táo" info="被一种思想、品行、习惯所濡染而渐趋同化" />
+		<definition id="一">
+			<item id="1" text="气味或烟气接触物品：~豆腐. ~肉. 把墙~黑了. 用茉莉花~茶叶." />
+			<item id="2" text="气味刺激人：臭气~人." />
+			<item id="3" text="和暖：~风." />
+		</definition>
+	</char>
+	<char hz="熏" py="xùn" multi="xūn">
+		<definition id="二">
+			<item text="〈方〉（煤气）使人窒息中毒：炉子安上烟筒，就不至于~着了." />
+		</definition>
+	</char>
+</pinyin>

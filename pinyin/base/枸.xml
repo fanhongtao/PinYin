@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="枸" py="gōu" multi="gǒu,jǔ" main="1">
+		<phrase hz="枸橘" py="gōu,jú" />
+		<definition id="一">
+			<item text="[枸橘](-jú)就是枳(zhǐ)。参看“枳”。" />
+		</definition>
+	</char>
+	<char hz="枸" py="gǒu" multi="gōu,jǔ">
+		<phrase hz="枸杞" py="gǒu,qǐ" />
+		<definition id="二">
+			<item text="[枸杞](-qǐ)落叶灌木，夏天开淡紫色花。果实红色，叫枸杞子，可入药。" />
+		</definition>
+	</char>
+	<char hz="枸" py="jǔ" multi="gōu,gǒu">
+		<phrase hz="枸橼" py="jǔ,yuán" />
+		<definition id="三">
+			<item text="[枸橼](-yuán)也叫“香橼”，常绿乔木，初夏开花，白色。果实有香气，味很酸。" />
+		</definition>
+	</char>
+</pinyin>

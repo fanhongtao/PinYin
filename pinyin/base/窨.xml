@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="窨" py="xūn" multi="yìn">
+		<phrase hz="窨茶叶" py="xūn,chá,yè" />
+		<definition id="二">
+			<item text="同“熏”，用于窨茶叶。把茉莉花等放在茶叶中，使茶叶染上花的香味。" />
+		</definition>
+	</char>
+	<char hz="窨" py="yìn" multi="xūn" main="1">
+		<phrase hz="地窨" py="dì,yìn" info="地窖；地下室。" />
+		<definition id="一">
+			<item text="地窨子，地下室。" />
+		</definition>
+	</char>
+</pinyin>

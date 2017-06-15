@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="芫" py="yán" multi="yuán">
+		<phrase hz="芫荽" py="yán,sui" />
+		<phrase hz="胡荽" py="hú,suī" />
+		<definition id="二">
+			<item text="[芫荽](-sui)俗叫“香菜”，又叫“胡荽”(-suī)。一年生或二年生草本植物，花白色。果实球形，有香气，可以制药和香料。茎、叶可以吃。" />
+		</definition>
+	</char>
+	<char hz="芫" py="yuán" multi="yán" main="1">
+		<phrase hz="芫花" py="yuán,huā" info="植物名。又名芫华、鱼毒，药鱼草。瑞香科，瑞香属。中国和朝鲜的一种花" />
+		<phrase hz="芫华" py="yuán,huá" info="落叶灌木。叶小椭圆形，花小色紫，可供观赏。花蕾含芫花素，可供药用。" />
+		<definition id="一">
+			<item text="芫花，落叶灌木，开紫色小花，有毒，花蕾可入药。" />
+		</definition>
+	</char>
+</pinyin>

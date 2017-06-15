@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="晕" py="yūn" multi="yùn" info="Word主音">
-		<phrase hz="头晕" py="tóu,yūn" info="[指头脑] 眩晕的感觉" />
-		<phrase hz="眩晕" py="xuàn,yūn" info="头晕目眩" />
-		<phrase hz="晕倒" py="yūn,dǎo" info="昏迷倒下" />
-		<phrase hz="晕过去了" py="yūn,guò,qù,le" />
-		<phrase hz="晕乎乎" py="yūn,hū,hū" info="谓头脑发昏。" />
-		<phrase hz="晕厥" py="yūn,jué" info="昏厥。大脑广泛供血不足所致的暂时性意识丧失" />
-		<phrase hz="晕头转向" py="yūn,tóu,zhuàn,xiàng" />
-		<phrase hz="晕晕" py="yūn,yūn" info="眩晕。" />
-		<definition id="二">
-			<item text="昏迷：~倒. ~过去了. (引)头脑不清：头~. ~头转向." />
-		</definition>
-	</char>
+	<!-- Ref:晕.xml <char hz="晕" py="yūn" multi="yùn" info="Word主音" /> -->
 	<char hz="氲" py="yūn" />
 	<char hz="赟" py="yūn" />
 	<char hz="云" py="yún" />
@@ -27,19 +15,9 @@
 	<char hz="匀" py="yún" />
 	<char hz="昀" py="yún" />
 	<char hz="畇" py="yún" />
-	<char hz="筠" py="yún" multi="jūn" main="1">
-		<definition id="一">
-			<item id="1" text="竹皮。" />
-			<item id="2" text="竹子。" />
-		</definition>
-	</char>
+	<!-- Ref:筠.xml <char hz="筠" py="yún" multi="jūn" main="1" /> -->
 	<char hz="鋆" py="yún" />
-	<char hz="员" py="yún" multi="yuán,yùn">
-		<phrase hz="伍员" py="wǔ,yún" />
-		<definition id="二">
-			<item text="用于人名。伍员（即伍子胥），春秋时人。" />
-		</definition>
-	</char>
+	<!-- Ref:员.xml <char hz="员" py="yún" multi="yuán,yùn" /> -->
 	<char hz="郧" py="yún" />
 	<char hz="涢" py="yún" />
 	<char hz="筼" py="yún">
@@ -54,39 +32,14 @@
 	<char hz="酝" py="yùn">
 		<phrase hz="酝酿" py="yùn,niàng" />
 	</char>
-	<char hz="员" py="yùn" multi="yuán,yún">
-		<definition id="三">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:员.xml <char hz="员" py="yùn" multi="yuán,yún" /> -->
 	<char hz="郓" py="yùn" />
 	<char hz="恽" py="yùn" />
-	<char hz="晕" py="yùn" multi="yūn" main="1">
-		<phrase hz="红晕" py="hóng,yùn" info="因血液突涌至两颊所产生的脸红状态，呈现中心浓面四周渐淡的一团红色" />
-		<phrase hz="黄晕" py="huáng,yùn" info="昏黄不明亮。晕，太阳或月亮周围的光圈，也指光亮周围的影子" />
-		<phrase hz="日晕" py="rì,yùn" info="日光通过云层中的冰晶时，经折射而形成的光的现象。围着太阳成环形，带有彩色，通常颜色不明显。日晕常被看做天气变化的预兆。通称风圏。" />
-		<phrase hz="眼晕" py="yǎn,yùn" info="因视觉关系而发晕" />
-		<phrase hz="月晕" py="yuè,yùn" info="又称风圈，月光被云层折射，在月亮周围形成光圈，可以做为天气变化预兆" />
-		<phrase hz="晕场" py="yùn,chǎng" info="演员上场或学生在考场上因精神过度紧张而头晕甚至昏厥" />
-		<phrase hz="晕车" py="yùn,chē" info="乘车(尤其是汽车)时发生的头晕、恶心，甚至呕吐" />
-		<phrase hz="晕池" py="yùn,chí" info="到池汤中洗澡的人因温度过高、湿度过大、体质较弱等关系而昏厥。也说“晕堂” " />
-		<phrase hz="晕船" py="yùn,chuán" info="因乘船引起的头晕、恶心甚至呕吐" />
-		<phrase hz="晕针" py="yùn,zhēn" info="在接受针刺治疗时头晕、呕吐甚至昏厥" />
-		<definition id="一">
-			<item id="1" text="日光或月光通过云层时因折射作用而在太阳或月亮周围形成的光圈：日~. 月~而风." />
-			<item id="2" text="头发昏：一坐船就~." />
-		</definition>
-	</char>
+	<!-- Ref:晕.xml <char hz="晕" py="yùn" multi="yūn" main="1" /> -->
 	<char hz="愠" py="yùn" />
 	<char hz="缊" py="yùn" />
 	<char hz="韫" py="yùn" />
 	<char hz="蕴" py="yùn" />
 	<char hz="韵" py="yùn" />
-	<char hz="熨" py="yùn" multi="yù" main="1" suppressLog="1">
-		<phrase hz="熨斗" py="yùn,dǒu" />
-		<phrase hz="熨法" py="yùn,fǎ" info="中医外治法。有药熨、汤熨、酒熨、铁熨、葱熨、土熨等法。借助药性及温暖作用，直接作用于患处或有关部位，使气血通畅，以达到治病或缓解病痛的作用。" />
-		<definition id="一">
-			<item text="用烙铁、熨斗把衣布等烫平。 [熨斗](-dǒu)加热后用来烫平衣服的金属器具。" />
-		</definition>
-	</char>
+	<!-- Ref:熨.xml <char hz="熨" py="yùn" multi="yù" main="1" suppressLog="1" /> -->
 </pinyin>

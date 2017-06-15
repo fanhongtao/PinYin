@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咀" py="jǔ" multi="zuǐ" main="1">
+		<phrase hz="含英咀华" py="hán,yīng,jǔ,huá" info="比喻欣赏、体味或领会诗文的精华" />
+		<phrase hz="咀嚼" py="jǔ,jué" />
+		<definition id="一">
+			<item text="含在嘴里细细玩味：含英~华（喻读书吸取精华）. [咀嚼](-jué)嚼(jiáo)。 (喻)体味。" />
+		</definition>
+	</char>
+	<char hz="咀" py="zuǐ" multi="jǔ">
+		<phrase hz="咀脸" py="zuǐ,liǎn" info="脸面，脸色。指态度表情。" />
+		<phrase hz="咀片" py="zuǐ,piàn" info="又称饮片。指经过加工处理，制成片、丝、块、段状，便于煎服的药材。古时药物加工往往不用刀具，而用牙咬，故称。" />
+		<definition id="二">
+			<item text="“嘴”俗作“咀”。" />
+		</definition>
+	</char>
+</pinyin>

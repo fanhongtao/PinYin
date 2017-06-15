@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="说" py="shuō" multi="shuì,yuè" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="用话来表达自己的意思。" />
-			<item id="2" text="说合，介绍：~亲." />
-			<item id="3" text="言论，主张：学~. 著书立~." />
-			<item id="4" text="责备：他挨~了. ~了他一顿." />
-		</definition>
-	</char>
+	<!-- Ref:说.xml <char hz="说" py="shuō" multi="shuì,yuè" main="1" suppressLog="1" /> -->
 	<char hz="妁" py="shuò" />
 	<char hz="烁" py="shuò" />
 	<char hz="铄" py="shuò" />
@@ -16,13 +9,5 @@
 	<char hz="蒴" py="shuò" />
 	<char hz="槊" py="shuò" />
 	<char hz="硕" py="shuò" />
-	<char hz="数" py="shuò" multi="shǔ,shù">
-		<phrase hz="多言数穷" py="duō,yán,shuò,qióng" info="言多必失，必有理屈的時候。" />
-		<phrase hz="频数" py="pín,shuò" info="接连多次" />
-		<phrase hz="数见不鲜" py="shuò,jiàn,bù,xiān" />
-		<!-- <phrase hz="数数" py="shuò,shuò" duoyin="shǔ,shù" info="1.屢次、頻繁。2.急迫。"/> -->
-		<definition id="三">
-			<item text="屡次（(连)频-）：~见不鲜(xiān)." />
-		</definition>
-	</char>
+	<!-- Ref:数.xml <char hz="数" py="shuò" multi="shǔ,shù" /> -->
 </pinyin>

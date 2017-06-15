@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="伽" py="gā" multi="jiā,qié" info="Word主音">
+		<phrase hz="伽马" py="gā,mǎ" />
+		<definition id="三">
+			<item text="[伽马射线]又叫“丙种射线”。波长极短，一些放射性元素的原子能放出这种射线，在工业和医学上用途很广。通常写作“γ射线”。" />
+		</definition>
+	</char>
+	<char hz="伽" py="jiā" multi="gā,qié">
+		<phrase hz="伽利略" py="jiā,lì,lüè" />
+		<phrase hz="伽倻" py="jiā,yē" />
+		<phrase hz="瑜伽" py="yú,jiā" />
+		<definition id="二">
+			<item text="[伽倻](-yē)伽倻琴，朝鲜族弦乐器。 [伽利略]意大利天文学家、物理学家。" />
+		</definition>
+	</char>
+	<char hz="伽" py="qié" multi="gā,jiā" main="1">
+		<phrase hz="伽蓝" py="qié,lán" />
+		<definition id="一">
+			<item text="[伽蓝]梵语“僧伽蓝摩”的省称，指僧众所住的园林，后指佛寺。" />
+			<item text="[伽蓝香]沉香，一种常绿乔木，木材重而坚硬，有香味，可入药。" />
+		</definition>
+	</char>
+</pinyin>

@@ -19,12 +19,7 @@
 	<char hz="牵" py="qiān">
 		<phrase hz="牵强" py="qiān,qiǎng" />
 	</char>
-	<char hz="铅" py="qiān" multi="yán" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="一种金属元素，符号Pb，银灰色，质地软，熔点低。 [铅铁]指镀锌铁。 [铅字]印刷用的铅、锡、锑合金铸成的活字。" />
-			<item id="2" text="石墨：~笔." />
-		</definition>
-	</char>
+	<!-- Ref:铅.xml <char hz="铅" py="qiān" multi="yán" main="1" suppressLog="1" /> -->
 	<char hz="悭" py="qiān" />
 	<char hz="谦" py="qiān" />
 	<char hz="愆" py="qiān" />
@@ -32,11 +27,7 @@
 	<char hz="骞" py="qiān" />
 	<char hz="搴" py="qiān" />
 	<char hz="褰" py="qiān" />
-	<char hz="荨" py="qián" multi="xún" main="1">
-		<definition id="一">
-			<item text="[荨麻]多年生草本植物，茎叶生细毛，皮肤接触时会引起刺痛。茎皮纤维可以做纺织原料。" />
-		</definition>
-	</char>
+	<!-- Ref:荨.xml <char hz="荨" py="qián" multi="xún" main="1" /> -->
 	<char hz="钤" py="qián" />
 	<char hz="黔" py="qián" />
 	<char hz="前" py="qián" />
@@ -45,22 +36,10 @@
 	<char hz="钳" py="qián" />
 	<char hz="掮" py="qián" />
 	<char hz="乾" py="qián" />
-	<char hz="犍" py="qián" multi="jiān" info="Word主音">
-		<phrase hz="犍为" py="qián,wéi" />
-		<definition id="二">
-			<item text="[犍为](-wéi)地名，在四川省。" />
-		</definition>
-	</char>
+	<!-- Ref:犍.xml <char hz="犍" py="qián" multi="jiān" info="Word主音" /> -->
 	<char hz="潜" py="qián" />
 	<char hz="肷" py="qiǎn" />
-	<char hz="浅" py="qiǎn" multi="jiān" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="从表面到底或从外面到里面距离小，跟“深”相对：这条河很~. 这个院子太~." />
-			<item id="2" text="不久，时间短：年代~. 相处的日子还~." />
-			<item id="3" text="程度不深的：~见. 阅历~. 交情~. 这篇文章很~. ~近的理论." />
-			<item id="4" text="颜色淡薄：~红. ~绿." />
-		</definition>
-	</char>
+	<!-- Ref:浅.xml <char hz="浅" py="qiǎn" multi="jiān" main="1" suppressLog="1" /> -->
 	<char hz="遣" py="qiǎn">
 		<phrase hz="差遣" py="chāi,qiǎn" />
 		<phrase hz="遣闷" py="qiǎn,mèn" />
@@ -75,31 +54,11 @@
 	</char>
 	<char hz="芡" py="qiàn" />
 	<char hz="嵌" py="qiàn" />
-	<char hz="纤" py="qiàn" multi="xiān">
-		<phrase hz="拉纤" py="lā,qiàn" />
-		<phrase hz="纤夫" py="qiàn,fū" />
-		<!-- <phrase hz="纤手" py="qiàn,shǒu" duoyin="xiān,shǒu" info="给人介绍买卖产业的人"/> -->
-		<definition id="一">
-			<item text="拉船的绳。 [纤手]给人介绍买卖产业的人。 [拉纤]1.拉着纤绳使船前进。 2.给人介绍买卖产业从中取利。" />
-		</definition>
-	</char>
-	<char hz="茜" py="qiàn" multi="xī" main="1">
-		<phrase hz="茜草" py="qiàn,cǎo" />
-		<phrase hz="茜罗" py="qiàn,luó" info="绛红色的薄丝织品。" />
-		<phrase hz="茜裙" py="qiàn,qún" info="1.绛红色的裙子。2.指女子。" />
-		<phrase hz="染茜" py="rǎn,qiàn" info="染成大红色。" />
-		<definition id="一">
-			<item id="1" text="茜草，多年生蔓草，茎有刺毛，初秋开花，黄色。根红色，可做染料，也可入药。" />
-			<item id="2" text="红色。" />
-		</definition>
-	</char>
+	<!-- Ref:纤.xml <char hz="纤" py="qiàn" multi="xiān" /> -->
+	<!-- Ref:茜.xml <char hz="茜" py="qiàn" multi="xī" main="1" /> -->
 	<char hz="倩" py="qiàn" />
 	<char hz="堑" py="qiàn" />
 	<char hz="椠" py="qiàn" />
-	<char hz="慊" py="qiàn" multi="qiè">
-		<definition id="一">
-			<item text="不满，怨恨。" />
-		</definition>
-	</char>
+	<!-- Ref:慊.xml <char hz="慊" py="qiàn" multi="qiè" /> -->
 	<char hz="歉" py="qiàn" />
 </pinyin>

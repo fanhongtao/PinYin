@@ -1,26 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="车" py="jū" multi="chē">
-		<definition id="二">
-			<item text="象棋棋子的一种。" />
-		</definition>
-	</char>
-	<char hz="且" py="jū" multi="qiě">
-		<definition id="二" text="〈古〉">
-			<item id="1" text="文言助词，相当于“啊”：狂童之狂也~." />
-			<item id="2" text="用于人名。" />
-		</definition>
-	</char>
+	<!-- Ref:车.xml <char hz="车" py="jū" multi="chē" /> -->
+	<!-- Ref:且.xml <char hz="且" py="jū" multi="qiě" /> -->
 	<char hz="苴" py="jū" />
 	<char hz="岨" py="jū" />
 	<char hz="狙" py="jū" />
 	<char hz="疽" py="jū" />
-	<char hz="趄" py="jū" multi="qiè" info="Word主音">
-		<phrase hz="趑趄" py="zī,jū" />
-		<definition id="二">
-			<item text="见“趑”字条“趑趄”(zī-)。" />
-		</definition>
-	</char>
+	<!-- Ref:趄.xml <char hz="趄" py="jū" multi="qiè" info="Word主音" /> -->
 	<char hz="雎" py="jū" />
 	<char hz="拘" py="jū">
 		<phrase hz="拘挛" py="jū,luán" />
@@ -28,21 +14,12 @@
 	<char hz="泃" py="jū" />
 	<char hz="驹" py="jū" />
 	<char hz="居" py="jū" />
-	<char hz="据" py="jū" multi="jù">
-		<phrase hz="拮据" py="jié,jū" />
-		<definition id="二">
-			<item text="见“拮”字条“拮据”(jié-)。" />
-		</definition>
-	</char>
+	<!-- Ref:据.xml <char hz="据" py="jū" multi="jù" /> -->
 	<char hz="崌" py="jū" />
 	<char hz="琚" py="jū" />
 	<char hz="椐" py="jū" />
 	<char hz="腒" py="jū" />
-	<char hz="锯" py="jū" multi="jù">
-		<definition id="二">
-			<item text="同“锔”(jū)。" />
-		</definition>
-	</char>
+	<!-- Ref:锯.xml <char hz="锯" py="jū" multi="jù" /> -->
 	<char hz="裾" py="jū" />
 	<char hz="掬" py="jū" />
 	<char hz="鞠" py="jū">
@@ -51,31 +28,14 @@
 	<char hz="娵" py="jū">
 		<phrase hz="娵隅" py="jū,yú" />
 	</char>
-	<char hz="锔" py="jū" multi="jú">
-		<phrase hz="锔缸" py="jū,gāng" />
-		<phrase hz="锔锅" py="jū,guō" />
-		<phrase hz="锔盆" py="jū,pén" />
-		<phrase hz="锔碗" py="jū,wǎn" />
-		<phrase hz="锔子" py="jū,zi" />
-		<definition id="二">
-			<item text="用锔子连合破裂的器物：~盆. ~缸. ~锅. ~碗儿. [锔子](-zi)用铜、铁等制成的扁平有钩的两脚钉，用来连合陶瓷等器物的裂缝。" />
-		</definition>
-	</char>
+	<!-- Ref:锔.xml <char hz="锔" py="jū" multi="jú" /> -->
 	<char hz="鞫" py="jū" />
 	<char hz="局" py="jú">
 		<phrase hz="局蹐" py="jú,jí" />
 	</char>
 	<char hz="焗" py="jú" />
-	<char hz="锔" py="jú" multi="jū" main="1">
-		<definition id="一">
-			<item text="一种人造的放射性元素，符号Cm。" />
-		</definition>
-	</char>
-	<char hz="桔" py="jú" multi="jié" main="1">
-		<definition id="二">
-			<item text="“橘”俗作“桔”。" />
-		</definition>
-	</char>
+	<!-- Ref:锔.xml <char hz="锔" py="jú" multi="jū" main="1" /> -->
+	<!-- Ref:桔.xml <char hz="桔" py="jú" multi="jié" main="1" /> -->
 	<char hz="菊" py="jú" />
 	<char hz="湨" py="jú" />
 	<char hz="" py="jú" />
@@ -84,38 +44,16 @@
 			<item text="橘树，常绿乔木，初夏开花，白色。果实叫橘子，味甜酸，可以吃，果皮可入药。" />
 		</definition>
 	</char>
-	<char hz="柜" py="jǔ" multi="guǐ">
-		<phrase hz="柜柳" py="jǔ,liǔ" />
-		<definition id="二">
-			<item text="柜柳，即枫杨，落叶乔木，羽状复叶，小叶长椭圆形，性耐湿、耐碱，可固沙，枝韧，可以编筐。" />
-		</definition>
-	</char>
+	<!-- Ref:柜.xml <char hz="柜" py="jǔ" multi="guǐ" /> -->
 	<char hz="矩" py="jǔ" />
-	<char hz="咀" py="jǔ" multi="zuǐ" main="1">
-		<phrase hz="含英咀华" py="hán,yīng,jǔ,huá" info="比喻欣赏、体味或领会诗文的精华" />
-		<phrase hz="咀嚼" py="jǔ,jué" />
-		<definition id="一">
-			<item text="含在嘴里细细玩味：含英~华（喻读书吸取精华）. [咀嚼](-jué)嚼(jiáo)。 (喻)体味。" />
-		</definition>
-	</char>
-	<char hz="沮" py="jǔ" multi="jù" main="1" suppressLog="1">
-		<phrase hz="沮丧" py="jǔ,sàng" />
-		<definition id="一">
-			<item id="1" text="阻止。" />
-			<item id="2" text="坏，败坏。 [沮丧](-sàng)失意，懊丧。" />
-		</definition>
-	</char>
+	<!-- Ref:咀.xml <char hz="咀" py="jǔ" multi="zuǐ" main="1" /> -->
+	<!-- Ref:沮.xml <char hz="沮" py="jǔ" multi="jù" main="1" suppressLog="1" /> -->
 	<char hz="龃" py="jǔ">
 		<phrase hz="龃龉" py="jǔ,yǔ" />
 	</char>
 	<char hz="莒" py="jǔ" />
 	<char hz="筥" py="jǔ" />
-	<char hz="枸" py="jǔ" multi="gōu,gǒu">
-		<phrase hz="枸橼" py="jǔ,yuán" />
-		<definition id="三">
-			<item text="[枸橼](-yuán)也叫“香橼”，常绿乔木，初夏开花，白色。果实有香气，味很酸。" />
-		</definition>
-	</char>
+	<!-- Ref:枸.xml <char hz="枸" py="jǔ" multi="gōu,gǒu" /> -->
 	<char hz="蒟" py="jǔ">
 		<phrase hz="蒟蒻" py="jǔ,ruò" />
 	</char>
@@ -127,46 +65,20 @@
 	<char hz="巨" py="jù" />
 	<char hz="讵" py="jù" />
 	<char hz="拒" py="jù" />
-	<char hz="苣" py="jù" multi="qǔ" main="1">
-		<phrase hz="莴苣" py="wō,ju" />
-		<definition id="一">
-			<item text="见“莴”字条“莴苣”(wōju)。" />
-		</definition>
-	</char>
+	<!-- Ref:苣.xml <char hz="苣" py="jù" multi="qǔ" main="1" /> -->
 	<char hz="炬" py="jù" />
 	<char hz="距" py="jù" />
-	<char hz="句" py="jù" multi="gōu" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="（-子）由词和词组组成的能表示一个完整意思的话。" />
-		</definition>
-	</char>
+	<!-- Ref:句.xml <char hz="句" py="jù" multi="gōu" main="1" suppressLog="1" /> -->
 	<char hz="具" py="jù" />
 	<char hz="俱" py="jù" />
 	<char hz="惧" py="jù" />
 	<char hz="犋" py="jù" />
 	<char hz="飓" py="jù" />
-	<char hz="沮" py="jù" multi="jǔ">
-		<phrase hz="沮洳" py="jù,rù" />
-		<definition id="二">
-			<item text="[沮洳](-rù)低湿的地带。" />
-		</definition>
-	</char>
+	<!-- Ref:沮.xml <char hz="沮" py="jù" multi="jǔ" /> -->
 	<char hz="倨" py="jù" />
 	<char hz="剧" py="jù" />
-	<char hz="据" py="jù" multi="jū" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="凭依，倚仗。 [据点]军队据以作战的地点。" />
-			<item id="2" text="介词，依据：~理力争. ~我看问题不大." />
-			<item id="3" text="占（(连)占-）：~守. ~为己有." />
-			<item id="4" text="可以用作证明的事物，凭证（(连)凭-、证-）：收~. 字~. 票~. 真凭实~. 无凭无~." />
-		</definition>
-	</char>
-	<char hz="锯" py="jù" multi="jū" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="用薄钢片制成有尖齿可以拉(lá)开木、石等的器具：拉~. 手~. 电~." />
-			<item id="2" text="用锯拉(lá)：~木头. ~树." />
-		</definition>
-	</char>
+	<!-- Ref:据.xml <char hz="据" py="jù" multi="jū" main="1" suppressLog="1" /> -->
+	<!-- Ref:锯.xml <char hz="锯" py="jù" multi="jū" main="1" suppressLog="1" /> -->
 	<char hz="踞" py="jù">
 		<phrase hz="龙蟠虎踞" py="lóng,pán,hǔ,jù" />
 	</char>

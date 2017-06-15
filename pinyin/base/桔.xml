@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="桔" py="jié" multi="jú">
+		<phrase hz="桔槔" py="jié,gāo" />
+		<phrase hz="桔梗" py="jié,gěng" />
+		<definition id="一">
+			<item id="1" text="[桔梗](-gěng)多年生草本植物，花紫色，根可以入药。" />
+			<item id="2" text="[桔槔](-gāo)一种汲水的设备。" />
+		</definition>
+	</char>
+	<char hz="桔" py="jú" multi="jié" main="1">
+		<definition id="二">
+			<item text="“橘”俗作“桔”。" />
+		</definition>
+	</char>
+</pinyin>

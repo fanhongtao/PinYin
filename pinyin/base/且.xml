@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="且" py="jū" multi="qiě">
+		<definition id="二" text="〈古〉">
+			<item id="1" text="文言助词，相当于“啊”：狂童之狂也~." />
+			<item id="2" text="用于人名。" />
+		</definition>
+	</char>
+	<char hz="且" py="qiě" multi="jū" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="连词，表示并列或进一层：既高~大." />
+			<item id="2" text="连词，尚且，表示让步：死~不怕，还怕困难吗？" />
+			<item id="3" text="副词，表示暂时：~慢. ~住." />
+			<item id="4" text="文言副词，将要：年~九十." />
+			<item id="5" text="且……且……，表示两个动作同时进行：~走~说. ~行~想." />
+			<item id="6" text="副词，且……呢，表示经久：这双鞋~穿呢." />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

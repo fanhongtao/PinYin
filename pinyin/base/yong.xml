@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="佣" py="yōng" multi="yòng" main="1">
-		<phrase hz="帮佣" py="bāng,yōng" info="1.替人做佣工 2.做佣工的人" />
-		<phrase hz="雇佣" py="gù,yōng" info="1.用货币购买劳动 2.支付固定工资而雇人提供服务" />
-		<phrase hz="女佣" py="nǚ,yōng" />
-		<phrase hz="佣耕" py="yōng,gēng" info="谓受雇为田主耕种。" />
-		<phrase hz="佣工" py="yōng,gōng" info="1.受雇为人做工的人。 2.谓受雇为人做工。" />
-		<phrase hz="佣人" py="yōng,rén" info="受雇用的人；仆役。" />
-		<phrase hz="佣俗" py="yōng,sú" info="1.平庸鄙俗。 2.指平庸鄙俗的人。 3.平常的习俗。" />
-		<definition id="一">
-			<item id="1" text="被人雇用：~工." />
-			<item id="2" text="受雇用的人：女~." />
-		</definition>
-	</char>
+	<!-- Ref:佣.xml <char hz="佣" py="yōng" multi="yòng" main="1" /> -->
 	<char hz="拥" py="yōng" />
 	<char hz="痈" py="yōng" />
 	<char hz="邕" py="yōng" />
@@ -31,13 +19,7 @@
 		<phrase hz="臃肿" py="yōng,zhǒng" />
 	</char>
 	<char hz="饔" py="yōng" />
-	<char hz="喁" py="yōng" multi="yú" main="1">
-		<phrase hz="喁望" py="yóng,wàng" info="犹仰望；渴望。" />
-		<phrase hz="喁喁" py="yóng,yóng" duoyin="yú,yú" info="形容众人景仰归向的样子。" />
-		<definition id="一">
-			<item text="鱼口向上，露出水面。 [喁喁](喻)众人景仰归向的样子。" />
-		</definition>
-	</char>
+	<!-- Ref:喁.xml <char hz="喁" py="yōng" multi="yú" main="1" /> -->
 	<char hz="颙" py="yóng" />
 	<char hz="永" py="yǒng" />
 	<char hz="咏" py="yǒng" />
@@ -51,11 +33,5 @@
 	<char hz="踊" py="yǒng" />
 	<char hz="鲬" py="yǒng" />
 	<char hz="用" py="yòng" />
-	<char hz="佣" py="yòng" multi="yōng">
-		<phrase hz="佣金" py="yòng,jīn" info="旧时作买卖付给中间人的报酬" />
-		<phrase hz="佣钱" py="yòng,qián" />
-		<definition id="二">
-			<item text="佣金，佣钱，买卖东西时给介绍人的钱。" />
-		</definition>
-	</char>
+	<!-- Ref:佣.xml <char hz="佣" py="yòng" multi="yōng" /> -->
 </pinyin>

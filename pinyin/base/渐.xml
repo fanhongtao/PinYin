@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="渐" py="jiān" multi="jiàn">
+		<phrase hz="东染于海" py="dōng,jiān,yú,hǎi" />
+		<phrase hz="渐染" py="jiān,rǎn" />
+		<definition id="二">
+			<item id="1" text="浸：~染." />
+			<item id="2" text="流入：东~于海." />
+		</definition>
+	</char>
+	<char hz="渐" py="jiàn" multi="jiān" main="1">
+		<phrase hz="顿渐" py="dùn,jiàn" info="佛教语。顿悟、渐悟或顿教、渐教的并称。" />
+		<phrase hz="防微杜渐" py="fáng,wēi,dù,jiàn" info="微：微小；杜：堵住；渐：指事物的开端。比喻在坏事情坏思想萌芽的时候就加以制止，不让它发展。" />
+		<phrase hz="渐变" py="jiàn,biàn" />
+		<phrase hz="渐次" py="jiàn,cì" info="渐渐地;逐渐" />
+		<phrase hz="渐渐" py="jiàn,jiàn" />
+		<phrase hz="渐进" py="jiàn,jìn" />
+		<phrase hz="渐悟" py="jiàn,wù" info="佛教语。谓渐次修行，心明累尽，方能达到无我正觉境界。与“顿悟”相对。" />
+		<phrase hz="日渐" py="rì,jiàn" info="一天一天逐渐地" />
+		<phrase hz="逐渐" py="zhú,jiàn" />
+		<definition id="一">
+			<item text="副词，慢慢地，一点一点地（叠）：循序~进. ~入佳境. 他的病~好了." />
+		</definition>
+	</char>
+</pinyin>

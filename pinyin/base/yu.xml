@@ -30,11 +30,7 @@
 	</char>
 	<char hz="馀" py="yú" />
 	<char hz="狳" py="yú" />
-	<char hz="畬" py="yú" multi="shē">
-		<definition id="一">
-			<item text="开垦过两年的地。" />
-		</definition>
-	</char>
+	<!-- Ref:畬.xml <char hz="畬" py="yú" multi="shē" /> -->
 	<char hz="艅" py="yú">
 		<phrase hz="艅艎" py="yú,huáng" />
 	</char>
@@ -47,23 +43,12 @@
 	<!-- Ref:於.xml <char hz="於" py="yú" multi="wū,yū" main="1" /> -->
 	<char hz="禺" py="yú" />
 	<char hz="隅" py="yú" />
-	<char hz="喁" py="yú" multi="yōng" info="Word主音">
-		<!-- <phrase hz="喁喁" py="yú,yú" duoyin="yóng,yóng" info="1.随声附和。2.形容说话的声音（多用于小声说话）。" /> -->
-		<phrase hz="喁喁私语" py="yú,yú,sī,yǔ" />
-		<definition id="二">
-			<item text="[喁喁]形容低声细语：~~私语." />
-		</definition>
-	</char>
+	<!-- Ref:喁.xml <char hz="喁" py="yú" multi="yōng" info="Word主音" /> -->
 	<char hz="嵎" py="yú" />
 	<char hz="愚" py="yú" />
 	<char hz="髃" py="yú" />
 	<char hz="舁" py="yú" />
-	<char hz="俞" py="yú" multi="shù" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="文言叹词，表示允许。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:俞.xml <char hz="俞" py="yú" multi="shù" main="1" suppressLog="1" /> -->
 	<char hz="揄" py="yú" />
 	<char hz="嵛" py="yú" />
 	<char hz="逾" py="yú" />
@@ -109,12 +94,7 @@
 	<char hz="芋" py="yù" />
 	<!-- Ref:吁.xml <char hz="吁" py="yù" multi="xū" /> -->
 	<char hz="聿" py="yù" />
-	<char hz="谷" py="yù" multi="gǔ">
-		<phrase hz="吐谷浑" py="tǔ,yù,hún" />
-		<definition id="二">
-			<item text="[吐谷浑](tǔ-hún)我国古代西部民族名。" />
-		</definition>
-	</char>
+	<!-- Ref:谷.xml <char hz="谷" py="yù" multi="gǔ" /> -->
 	<char hz="峪" py="yù" />
 	<char hz="浴" py="yù" />
 	<char hz="欲" py="yù" />
@@ -147,13 +127,7 @@
 	<char hz="愈" py="yù" />
 	<!-- Ref:尉.xml <char hz="尉" py="yù" multi="wèi" /> -->
 	<!-- Ref:蔚.xml <char hz="蔚" py="yù" multi="wèi" /> -->
-	<char hz="熨" py="yù" multi="yùn">
-		<phrase hz="熨帖" py="yù,tiē" />
-		<phrase hz="熨贴" py="yù,tiē" />
-		<definition id="二">
-			<item text="[熨帖][熨贴](-tiē)1.妥帖舒服。 2.〈方〉（事情）完全办妥。" />
-		</definition>
-	</char>
+	<!-- Ref:熨.xml <char hz="熨" py="yù" multi="yùn" /> -->
 	<char hz="遇" py="yù" />
 	<char hz="寓" py="yù" />
 	<char hz="御" py="yù" />

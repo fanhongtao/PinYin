@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="荨" py="qián" multi="xún" main="1">
+		<definition id="一">
+			<item text="[荨麻]多年生草本植物，茎叶生细毛，皮肤接触时会引起刺痛。茎皮纤维可以做纺织原料。" />
+		</definition>
+	</char>
+	<char hz="荨" py="xún" multi="qián">
+		<phrase hz="荨麻疹" py="xún,má,zhěn" />
+		<definition id="二">
+			<item text="[荨麻疹]一种过敏性皮疹，俗叫“风疹疙瘩”。" />
+		</definition>
+	</char>
+</pinyin>

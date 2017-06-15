@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="俞" py="shù" multi="yú">
+		<phrase hz="胃俞" py="wèi,shù" />
+		<phrase hz="肺俞" py="shù,shù" info="亦作“肺腧”。人体经穴名。俞，通“腧”。" />
+		<definition id="二">
+			<item text="同“腧”。" />
+		</definition>
+	</char>
+	<char hz="俞" py="yú" multi="shù" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="文言叹词，表示允许。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

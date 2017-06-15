@@ -4,21 +4,13 @@
 	<char hz="獾" py="huān" />
 	<!-- Ref:还.xml <char hz="还" py="huán" multi="hái" /> -->
 	<char hz="环" py="huán" />
-	<char hz="郇" py="huán" multi="xún" main="1">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:郇.xml <char hz="郇" py="huán" multi="xún" main="1" /> -->
 	<char hz="洹" py="huán" />
 	<char hz="桓" py="huán" />
 	<char hz="貆" py="huán" />
 	<char hz="萑" py="huán" />
 	<char hz="锾" py="huán" />
-	<char hz="圜" py="huán" multi="yuán" main="1">
-		<definition id="一">
-			<item text="围绕。" />
-		</definition>
-	</char>
+	<!-- Ref:圜.xml <char hz="圜" py="huán" multi="yuán" main="1" /> -->
 	<char hz="阛" py="huán">
 		<phrase hz="阛阓" py="huán,huì" />
 	</char>

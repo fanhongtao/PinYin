@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="监" py="jiān" multi="jiàn" main="1">
+		<phrase hz="监察" py="jiān,chá" info="监督考察;监督检举" />
+		<phrase hz="监场" py="jiān,chǎng" info="监视考场。" />
+		<phrase hz="监测" py="jiān,cè" info="监管并检测" />
+		<phrase hz="监督" py="jiān,dū" info="1.察看并加以管理。2.从事监督工作的人。" />
+		<phrase hz="监工" py="jiān,gōng" info="1.负责使一队工人如期完成工作的监督者。2.在厂矿、工地监督工人工作。" />
+		<phrase hz="监管" py="jiān,guǎn" info="监视管理；监督管理。" />
+		<phrase hz="监护" py="jiān,hù" info="1.对未成年者、精神病人等的人身、财产以及其他合法权益的监督与保护。2.督察。3.对危重病人严密观察,以便及时抢救。" />
+		<phrase hz="监考" py="jiān,kǎo" info="1.看管考生，使其不舞弊。2.监考的人。" />
+		<phrase hz="监禁" py="jiān,jìn" info="把人关押起来，限制人身自由" />
+		<phrase hz="监控" py="jiān,kòng" info="监测并进行控制" />
+		<phrase hz="监牢" py="jiān,láo" info="牢房;监狱" />
+		<phrase hz="监事" py="jiān,shì" info="1.指企业或事业组织中担任监察工作的领导成员。2.封建时代朝廷官署的低级官员。" />
+		<phrase hz="监视" py="jiān,shì" info="从旁监察注视" />
+		<phrase hz="监听" py="jiān,tīng" info="利用特种设备监察别人的谈话或发出的通信信号等" />
+		<phrase hz="监押" py="jiān,yā" info="拘押;扣留" />
+		<phrase hz="监狱" py="jiān,yù" info="用以监禁犯人的建筑物" />
+		<phrase hz="收监" py="shōu,jiān" info="指关进监牢" />
+		<phrase hz="探监" py="tàn,jiān" info="去监狱探望服刑的人" />
+		<phrase hz="学监" py="xué,jiān" info="旧时学校里监督、管理学生的人员" />
+		<phrase hz="坐监" py="zuò,jiān" info="坐牢。" />
+		<definition id="一">
+			<item id="1" text="督察：~察. ~工. ~考." />
+			<item id="2" text="牢，狱（(连)-牢、-狱）：收~. 坐~. [监禁]把犯罪的人收监，限制他的自由。" />
+		</definition>
+	</char>
+	<char hz="监" py="jiàn" multi="jiān">
+		<phrase hz="国子监" py="guó,zǐ,jiàn" />
+		<phrase hz="监本" py="jiàn,běn" info="各个朝代的国子监所刻印的书" />
+		<phrase hz="监生" py="jiàn,shēng" info="明清两代称在国子监读书或取得进国子监读书资格的人" />
+		<phrase hz="钦天监" py="qīn,tiān,jiàn" />
+		<phrase hz="太监" py="tài,jiàn" />
+		<definition id="二">
+			<item id="1" text="帝王时代的官名或官府名：太~. 国子~. 钦天~（掌管天文历法的官府）." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="员" py="yuán" multi="yún,yùn" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="指工作或学习的人：学~. 演~." />
+			<item id="2" text="指团体组织中的成员：党~. 团~. 会~." />
+			<item id="3" text="量词，用于武将等：一~大将." />
+			<item id="4" text="周围：幅~（指疆域）." />
+		</definition>
+	</char>
+	<char hz="员" py="yún" multi="yuán,yùn">
+		<phrase hz="伍员" py="wǔ,yún" />
+		<definition id="二">
+			<item text="用于人名。伍员（即伍子胥），春秋时人。" />
+		</definition>
+	</char>
+	<char hz="员" py="yùn" multi="yuán,yún">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+</pinyin>

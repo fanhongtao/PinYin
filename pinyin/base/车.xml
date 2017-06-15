@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="车" py="chē" multi="jū" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="陆地上有轮子的交通工具：火~. 汽~. 马~. 轿~." />
+			<item id="2" text="用轮轴来转动的器具：纺~. 水~. 滑~. (引)指机器：开~. 试~. [车间]工厂里在生产过程中能独立完成一个工作阶段的单位：翻砂~~. 加工~~. 装配~~." />
+			<item id="3" text="用旋(xuàn)床旋东西：~圆. ~光." />
+			<item id="4" text="用水车打水：~水." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="车" py="jū" multi="chē">
+		<definition id="二">
+			<item text="象棋棋子的一种。" />
+		</definition>
+	</char>
+</pinyin>

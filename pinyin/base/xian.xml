@@ -7,26 +7,7 @@
 		<phrase hz="先生" py="xiān,sheng" />
 	</char>
 	<char hz="酰" py="xiān" />
-	<char hz="纤" py="xiān" multi="qiàn" main="1">
-		<phrase hz="光纤" py="guāng,xiān" info="光学纤维的简称" />
-		<phrase hz="化纤" py="huà,xiān" info="化学合成纤维" />
-		<phrase hz="纤尘" py="xiān,chén" info="微尘，细尘" />
-		<phrase hz="纤毫" py="xiān,háo" info="极其细微。" />
-		<phrase hz="纤毛" py="xiān,máo" />
-		<phrase hz="纤巧" py="xiān,qiǎo" info="轻巧的，精致的或小巧古雅的" />
-		<phrase hz="纤柔" py="xiān,róu" info="纤细柔软" />
-		<phrase hz="纤弱" py="xiān,ruò" info="纤细而柔弱的" />
-		<phrase hz="纤手" py="xiān,shǒu" duoyin="qiàn,shǒu" info="指女子细而柔嫩的手" />
-		<phrase hz="纤维" py="xiān,wéi" />
-		<phrase hz="纤悉" py="xiān,xī" info="细致而详尽" />
-		<phrase hz="纤细" py="xiān,xì" info="细微，细小" />
-		<phrase hz="纤纤" py="xiān,xiān" info="形容小巧或细长而柔美" />
-		<phrase hz="纤小" py="xiān,xiǎo" info="细小" />
-		<phrase hz="纤秀" py="xiān,xiù" info="纤细秀丽" />
-		<definition id="二">
-			<item text="细小。 [纤尘]细小的灰尘：~~不染. [纤维]细长像丝的物质。一般分成两大类：天然纤维，如棉、麻、羊毛、石棉等；合成纤维是用高分子化合物制成的，如锦纶、维尼纶等。 [光纤]光导纤维。一种能够传导光信号的纤维状光学材料。" />
-		</definition>
-	</char>
+	<!-- Ref:纤.xml <char hz="纤" py="xiān" multi="qiàn" main="1" /> -->
 	<char hz="跹" py="xiān" />
 	<char hz="忺" py="xiān" />
 	<char hz="掀" py="xiān" />
@@ -34,17 +15,7 @@
 	<char hz="祆" py="xiān" />
 	<char hz="莶" py="xiān" />
 	<char hz="铦" py="xiān" />
-	<char hz="鲜" py="xiān" multi="xiǎn" main="1" suppressLog="1">
-		<phrase hz="鲜卑族" py="xiān,bēi,zú" />
-		<definition id="一">
-			<item id="1" text="新的，不陈的，不干枯的（(连)新-）：~果. ~花. ~肉. ~血." />
-			<item id="2" text="滋味美好：这汤真~." />
-			<item id="3" text="有光彩的：~红的旗帜. 颜色十分~艳." />
-			<item id="4" text="新鲜的食物：尝~." />
-			<item id="5" text="姓。" />
-			<item text="[鲜卑族](-bēi-)我国古代北方民族。" />
-		</definition>
-	</char>
+	<!-- Ref:鲜.xml <char hz="鲜" py="xiān" multi="xiǎn" main="1" suppressLog="1" /> -->
 	<char hz="暹" py="xiān" />
 	<char hz="闲" py="xián" />
 	<char hz="娴" py="xián" />
@@ -66,17 +37,8 @@
 			<item text="姓。" />
 		</definition>
 	</char>
-	<char hz="洗" py="xiǎn" multi="xǐ">
-		<definition id="二">
-			<item text="同“冼”。" />
-		</definition>
-	</char>
-	<char hz="铣" py="xiǎn" multi="xǐ" main="1">
-		<phrase hz="铣铁" py="xiǎn,tiě" info="生铁，铸铁。" />
-		<definition id="一">
-			<item text="有光泽的金属。 [铣铁]铸铁，生铁，质脆，适于铸造器物。" />
-		</definition>
-	</char>
+	<!-- Ref:洗.xml <char hz="洗" py="xiǎn" multi="xǐ" /> -->
+	<!-- Ref:铣.xml <char hz="铣" py="xiǎn" multi="xǐ" main="1" /> -->
 	<char hz="筅" py="xiǎn" />
 	<char hz="跣" py="xiǎn" />
 	<char hz="显" py="xiǎn" />
@@ -85,24 +47,11 @@
 		<phrase hz="猃狁" py="xiǎn,yǔn" />
 	</char>
 	<char hz="蚬" py="xiǎn" />
-	<char hz="鲜" py="xiǎn" multi="xiān">
-		<phrase hz="寡廉鲜耻" py="guǎ,lián,xiǎn,chǐ" info="厚颜无耻,也缺少廉耻之心" />
-		<phrase hz="鲜见" py="xiǎn,jiàn" />
-		<phrase hz="鲜廉寡耻" py="xiǎn,lián,guǎ,chǐ" info="无廉洁之操守且不知羞耻。" />
-		<phrase hz="鲜为人知" py="xiǎn,wéi,rén,zhī" info="很少有人知道。" />
-		<phrase hz="鲜有" py="xiǎn,yǒu" />
-		<definition id="二">
-			<item text="少：~见. ~有." />
-		</definition>
-	</char>
+	<!-- Ref:鲜.xml <char hz="鲜" py="xiǎn" multi="xiān" /> -->
 	<char hz="藓" py="xiǎn" />
 	<char hz="燹" py="xiǎn" />
 	<char hz="櫶" py="xiǎn" />
-	<char hz="见" py="xiàn" multi="jiàn">
-		<definition id="二">
-			<item text="同“现(1)”。" />
-		</definition>
-	</char>
+	<!-- Ref:见.xml <char hz="见" py="xiàn" multi="jiàn" /> -->
 	<char hz="苋" py="xiàn" />
 	<char hz="岘" py="xiàn" />
 	<char hz="现" py="xiàn">

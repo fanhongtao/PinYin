@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="曲" py="qū" multi="qǔ" main="1">
+		<phrase hz="酒曲" py="jiǔ,qū" info="酿酒用的曲" />
+		<phrase hz="卷曲" py="juǎn,qū" />
+		<phrase hz="扭曲" py="niǔ,qū" />
+		<phrase hz="曲笔" py="qū,bǐ" info="1.古指史官因顾忌而不据实记载 2.写文章时为了生动而不直接描写" />
+		<phrase hz="曲别针" py="qū,bié,zhēn" info="即回形针。" />
+		<phrase hz="曲解" py="qū,jiě" />
+		<phrase hz="曲径通幽" py="qū,jìng,tōng,yōu" info="曲：弯曲；径：小路；幽：指深远僻静之处。弯曲的小路，通到幽深僻静的地方。" />
+		<phrase hz="曲率" py="qū,lǜ" info="数学上指表明曲线在其上某一点的弯曲程度的数值。" />
+		<phrase hz="曲霉" py="qū,méi" info="发酵工业和食品加工业的重要菌种，已被利用的近60种。广泛分布在谷物、空气、土壤和各种有机物品上。主要作用是酿酒，制醋等。" />
+		<phrase hz="曲说" py="qū,shuō" info="邪曲之说;不符合常理的解说;偏颇的言论" />
+		<phrase hz="曲线" py="qū,xiàn" info="动点运动方向连续变化的轨迹" />
+		<phrase hz="曲折" py="qū,zhé" />
+		<phrase hz="曲直" py="qū,zhí" info="弯曲和平直，比喻是非" />
+		<phrase hz="歪曲" py="wāi,qū" />
+		<phrase hz="弯曲" py="wān,qū" />
+		<phrase hz="委曲" py="wěi,qū" />
+		<phrase hz="迂曲" py="yū,qū" info="迂回曲折的" />
+		<definition id="一">
+			<item id="1" text="弯，跟“直”相对（(连)弯-）：~线. ~径通幽. 山间小路~~弯弯. (喻)不公正，不合理：~解. 是非~直." />
+			<item id="2" text="弯曲的地方：河~." />
+			<item id="3" text="偏僻的地方：乡~." />
+			<item id="4" text="酿酒或制酱时引起发酵的块状物，用某种霉菌和大麦、大豆、麸皮等制成：酒~. 中~发酵饲料." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+	<char hz="曲" py="qǔ" multi="qū" info="Word主音">
+		<phrase hz="安魂曲" py="ān,hún,qǔ" info="一種天主教會的合唱歌曲。為死者安魂的彌撒曲。" />
+		<phrase hz="变奏曲" py="biàn,zòu,qǔ" info="根據某一主題為藍本，運用各種不同方法，陸續變化演奏出之樂曲。" />
+		<phrase hz="采莲曲" py="cǎi,lián,qǔ" info="樂府曲名。本于「江南可採蓮，蓮葉何田田」的江南曲。南朝梁武帝「江南弄」七曲，採蓮曲為第三首。又南朝梁羊偘有愛姬張靜婉，美麗善舞，羊偘嘗為之製「採蓮棹歌」兩曲，稱為「張靜婉採蓮曲」。見樂府詩集．卷五○．清商曲辭七．江南弄序。" />
+		<phrase hz="唱曲儿" py="chàng,qǔ,er" />
+		<phrase hz="插曲" py="chā,qǔ" info="1.比喻事情发展中插入的特殊片断。 2.穿插在电影、话剧中较有独立性的乐曲。" />
+		<phrase hz="晨曲" py="chén,qǔ" info="一般用小鼓伴风笛或双簧管演奏的器乐小夜曲" />
+		<phrase hz="词曲" py="cí,qǔ" info="词和曲的合称" />
+		<phrase hz="催眠曲" py="cuī,mián,qǔ" info="使嬰兒入睡所唱的歌曲。曲調柔和、舒緩，具有催眠的作用。" />
+		<phrase hz="歌曲" py="gē,qǔ" />
+		<phrase hz="幻想曲" py="huàn,xiǎng,qǔ" info="具有幻想而自由奔放特点的一种器乐曲" />
+		<phrase hz="交响曲" py="jiāo,xiǎng,qǔ" info="通常用奏鸣曲式,为齐全的交响乐队精心创作的器乐作品" />
+		<phrase hz="进行曲" py="jìn,xíng,qǔ" info="节拍适合于队伍行进时演奏或歌唱的雄壮乐曲" />
+		<phrase hz="练习曲" py="liàn,xí,qǔ" info="原指專為鍛鍊樂器演奏技巧或聲樂訓練所編寫的樂曲。後發展為正規的、並在其中探究某些特殊技巧問題的樂曲。" />
+		<phrase hz="狂想曲" py="kuáng,xiǎng,qǔ" info="源於十九世紀的一種史詩性樂曲。多根據民歌改編，具有敘事性，富於民族特色。樂曲自由奔放，不拘形式。如李斯特的匈牙利狂想曲。" />
+		<phrase hz="牌子曲" py="pái,zi,qǔ" info="一種曲藝。是將若干民歌小調與曲藝曲牌串連演唱構成，一般為一人演唱，也有多至五六人。伴奏樂器方面在北方以三弦為主，南方則是琵琶、揚琴、二胡為主。" />
+		<phrase hz="谱曲" py="pǔ,qǔ" info="为歌词配曲" />
+		<phrase hz="曲儿" py="qǔ,er" />
+		<phrase hz="曲剧" py="qǔ,jù" info="由曲艺发展而成的新型戏曲，有 北京 曲剧、 河南 曲剧、 安徽 曲子戏等。 亦专指 北京 曲剧。" />
+		<phrase hz="曲目" py="qǔ,mù" info="剧本或歌曲目录。亦指歌曲和其他音乐作品等的名目。" />
+		<phrase hz="曲谱" py="qǔ,pǔ" info="1.乐谱。2.辑录并分析各种曲调格式供人作曲时参考的书，如清人王奕清等所编的《曲谱》即是。" />
+		<phrase hz="曲艺" py="qǔ,yì" />
+		<phrase hz="曲子" py="qǔ,zi" />
+		<phrase hz="三部曲" py="sān,bù,qǔ" info="1.音樂上指由前、中、後三部成立的樂曲，是歌曲中形式最完備者。 2.比喻一件事由開始進展到最後的三個階段。" />
+		<phrase hz="塞上曲" py="sài,shàng,qǔ" info="1.一種古代的軍歌。主要描寫士兵在邊疆行軍作戰和紮營的情形，或思鄉之情。2.樂曲名。由思春、昭君怨、泣顏回、傍妝臺、訴怨五首小曲組成的琵琶曲。最早見於華蘋編的琵琶譜，為浙江陳牧夫傳譜。曲調婉轉細膩，以左手推、拉、揉、吟等技法，來描繪痛苦和哀怨的情緒。" />
+		<phrase hz="神曲" py="shén,qǔ" info="1.一種中藥。由麵粉、麩皮、白朮、青蒿、蒼耳等經過發酵製成，有幫助消化等功用。 2.書名。義大利詩聖但丁著。記載夢遊地獄、煉獄、天國三界的故事，為中世紀宗教精神的象徵。文辭優美，想像豐富。" />
+		<phrase hz="戏曲" py="xì,qǔ" />
+		<phrase hz="小夜曲" py="xiǎo,yè,qǔ" info="一種抒情歌曲。常為獨唱或獨奏形式，多帶有牧歌及戀愛色彩。" />
+		<phrase hz="小曲儿" py="xiǎo,qǔ,er" />
+		<phrase hz="协奏曲" py="xié,zòu,qǔ" info="由獨奏樂器與管弦樂隊以平等地位聯合演奏的器樂大曲。" />
+		<phrase hz="序曲" py="xù,qǔ" />
+		<phrase hz="摇篮曲" py="yáo,lán,qǔ" info="1.有宁静或抚慰特质的声乐曲或器乐曲。2.抚慰人的复迭句;特指使婴孩不闹或哄他们入睡的歌曲。" />
+		<phrase hz="异曲同工" py="yì,qǔ,tóng,gōng" info="工：细致，巧妙；异：不同的。 不同的曲调演得同样好。比喻话的说法不一而用意相同，或一件事情的做法不同而都巧妙地达到目的。" />
+		<phrase hz="圆舞曲" py="yuán,wǔ,qǔ" info="一種每節三拍的舞曲。源於奧國鄉間的藍特舞曲，起初被視為粗俗舞曲，十七、八世紀流行維也納宮廷後，旋律速度加快，十九世紀以後風靡全歐洲。以史特勞斯父子、蕭邦、柴可夫斯基等人的作品最有名。" />
+		<phrase hz="乐调" py="yuè,diào" />
+		<phrase hz="乐曲" py="yuè,qǔ" />
+		<phrase hz="周郎顾曲" py="zhōu,láng,gù,qǔ" info="周瑜精通音樂，雖酒過三巡，聽到別人奏曲有誤，必能辨知，知之必顧看，時人為之語曰：「曲有誤，周郎顧。」典出三國志．卷五十四．吳書．周瑜傳。後比喻聆賞音樂。" />
+		<phrase hz="奏鸣曲" py="zòu,míng,qǔ" info="一种由四个独立乐章组成的器乐曲,各乐章都具有独特的结构与风格" />
+		<phrase hz="作曲" py="zuò,qǔ" info="编写音乐作品" />
+		<definition id="二" text="（-子、-儿）">
+			<item id="1" text="歌，能唱的文辞（(连)歌-）：戏~. 小~儿. 唱~儿." />
+			<item id="2" text="歌的乐调(yuèdiào)：这支歌是他作的曲." />
+			<item id="3" text="元代盛行的一种韵文体裁，可以入乐。" />
+		</definition>
+	</char>
+</pinyin>

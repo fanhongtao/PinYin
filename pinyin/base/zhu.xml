@@ -19,13 +19,7 @@
 	<char hz="槠" py="zhū" />
 	<char hz="潴" py="zhū" />
 	<char hz="橥" py="zhū" />
-	<char hz="术" py="zhú" multi="shù">
-		<phrase hz="白术" py="bái,zhú" />
-		<phrase hz="苍术" py="cāng,zhú" />
-		<definition id="二">
-			<item text="植物名。 1.白术，多年生草本植物，秋天开紫花。要状茎有香气，可入药。 2.苍术，多年生草本植物，秋天开白花，根状茎有香气，可入药。" />
-		</definition>
-	</char>
+	<!-- Ref:术.xml <char hz="术" py="zhú" multi="shù" /> -->
 	<char hz="竹" py="zhú" />
 	<char hz="竺" py="zhú" />
 	<char hz="逐" py="zhú" />
@@ -48,21 +42,7 @@
 			<item id="2" text="囊，口袋。" />
 		</definition>
 	</char>
-	<char hz="属" py="zhǔ" multi="shǔ">
-		<phrase hz="连属" py="lián,zhǔ" info="1.连接；连续。2.犹结合。" />
-		<phrase hz="联属" py="lián,zhǔ" info="1.连接。2.联系。" />
-		<phrase hz="前后相属" py="qián,hòu,xiāng,zhǔ" />
-		<phrase hz="属目" py="zhǔ,mù" info="同瞩目，注视" />
-		<phrase hz="属望" py="zhǔ,wàng" />
-		<phrase hz="属文" py="zhǔ,wén" />
-		<phrase hz="属仰" py="zhǔ,yǎng" info="谓注目仰望。" />
-		<phrase hz="属意" py="zhǔ,yì" info="意向集中或倾向于某人或某事" />
-		<definition id="二">
-			<item id="1" text="连缀：~文. 前后相~." />
-			<item id="2" text="（意念）集中在一点：~意. ~望." />
-			<item id="3" text="古同“嘱”。" />
-		</definition>
-	</char>
+	<!-- Ref:属.xml <char hz="属" py="zhǔ" multi="shǔ" /> -->
 	<char hz="嘱" py="zhǔ">
 		<definition>
 			<item text="托付：以事相~. 遗~. [嘱咐]告诫：母亲~~他好好学习." />

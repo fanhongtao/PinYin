@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="术" py="shù" multi="zhú" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="技艺：武~. 技~. 美~. [术语]学术和各种工艺上的专门用语。" />
+			<item id="2" text="方法：战~. 防御之~." />
+		</definition>
+	</char>
+	<char hz="术" py="zhú" multi="shù">
+		<phrase hz="白术" py="bái,zhú" />
+		<phrase hz="苍术" py="cāng,zhú" />
+		<definition id="二">
+			<item text="植物名。 1.白术，多年生草本植物，秋天开紫花。要状茎有香气，可入药。 2.苍术，多年生草本植物，秋天开白花，根状茎有香气，可入药。" />
+		</definition>
+	</char>
+</pinyin>

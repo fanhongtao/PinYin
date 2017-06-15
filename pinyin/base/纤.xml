@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="纤" py="qiàn" multi="xiān">
+		<phrase hz="拉纤" py="lā,qiàn" />
+		<phrase hz="纤夫" py="qiàn,fū" />
+		<!-- <phrase hz="纤手" py="qiàn,shǒu" duoyin="xiān,shǒu" info="给人介绍买卖产业的人"/> -->
+		<definition id="一">
+			<item text="拉船的绳。 [纤手]给人介绍买卖产业的人。 [拉纤]1.拉着纤绳使船前进。 2.给人介绍买卖产业从中取利。" />
+		</definition>
+	</char>
+	<char hz="纤" py="xiān" multi="qiàn" main="1">
+		<phrase hz="光纤" py="guāng,xiān" info="光学纤维的简称" />
+		<phrase hz="化纤" py="huà,xiān" info="化学合成纤维" />
+		<phrase hz="纤尘" py="xiān,chén" info="微尘，细尘" />
+		<phrase hz="纤毫" py="xiān,háo" info="极其细微。" />
+		<phrase hz="纤毛" py="xiān,máo" />
+		<phrase hz="纤巧" py="xiān,qiǎo" info="轻巧的，精致的或小巧古雅的" />
+		<phrase hz="纤柔" py="xiān,róu" info="纤细柔软" />
+		<phrase hz="纤弱" py="xiān,ruò" info="纤细而柔弱的" />
+		<phrase hz="纤手" py="xiān,shǒu" duoyin="qiàn,shǒu" info="指女子细而柔嫩的手" />
+		<phrase hz="纤维" py="xiān,wéi" />
+		<phrase hz="纤悉" py="xiān,xī" info="细致而详尽" />
+		<phrase hz="纤细" py="xiān,xì" info="细微，细小" />
+		<phrase hz="纤纤" py="xiān,xiān" info="形容小巧或细长而柔美" />
+		<phrase hz="纤小" py="xiān,xiǎo" info="细小" />
+		<phrase hz="纤秀" py="xiān,xiù" info="纤细秀丽" />
+		<definition id="二">
+			<item text="细小。 [纤尘]细小的灰尘：~~不染. [纤维]细长像丝的物质。一般分成两大类：天然纤维，如棉、麻、羊毛、石棉等；合成纤维是用高分子化合物制成的，如锦纶、维尼纶等。 [光纤]光导纤维。一种能够传导光信号的纤维状光学材料。" />
+		</definition>
+	</char>
+</pinyin>

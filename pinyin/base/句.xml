@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="句" py="gōu" multi="jù">
+		<phrase hz="高句丽" py="gāo,gōu,lí" />
+		<phrase hz="高句骊" py="gāo,gōu,lí" />
+		<phrase hz="勾践" py="gōu,jiàn" />
+		<definition id="二">
+			<item text="古同“勾”。" />
+			<item text="[高句丽][高句骊](--lí)古族名，古国名。" />
+			<item text="[勾践]春秋时越王名。" />
+		</definition>
+	</char>
+	<char hz="句" py="jù" multi="gōu" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="（-子）由词和词组组成的能表示一个完整意思的话。" />
+		</definition>
+	</char>
+</pinyin>

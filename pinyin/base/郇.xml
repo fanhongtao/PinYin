@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="郇" py="huán" multi="xún" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="郇" py="xún" multi="huán">
+		<definition id="一">
+			<item id="1" text="周代诸侯国名，在今山西省临猗西南。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

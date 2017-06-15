@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="沮" py="jǔ" multi="jù" main="1" suppressLog="1">
+		<phrase hz="沮丧" py="jǔ,sàng" />
+		<definition id="一">
+			<item id="1" text="阻止。" />
+			<item id="2" text="坏，败坏。 [沮丧](-sàng)失意，懊丧。" />
+		</definition>
+	</char>
+	<char hz="沮" py="jù" multi="jǔ">
+		<phrase hz="沮洳" py="jù,rù" />
+		<definition id="二">
+			<item text="[沮洳](-rù)低湿的地带。" />
+		</definition>
+	</char>
+</pinyin>

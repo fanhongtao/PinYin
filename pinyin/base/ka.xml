@@ -10,35 +10,7 @@
 		<phrase hz="喀嚓" py="kā,chā" />
 	</char>
 	<char hz="擖" py="kā" />
-	<char hz="卡" py="kǎ" multi="qiǎ" main="1">
-		<phrase hz="磁卡" py="cí,kǎ" info="表面有磁性物质可存储信息的卡片，存储的信息可通过电子计算机等读取或处理。" />
-		<phrase hz="大卡" py="dà,kǎ" info="物理学名词。热量的实用单位，是一卡的一千倍。也称千卡。" />
-		<phrase hz="地铁卡" py="dì,tiě,kǎ" />
-		<phrase hz="电话卡" py="diàn,huà,kǎ" />
-		<phrase hz="公交卡" py="gōng,jiāo,kǎ" />
-		<phrase hz="贺卡" py="hè,kǎ" info="表示祝賀的卡片。" />
-		<phrase hz="贺年卡" py="hè,nián,kǎ" info="專用於祝福親朋好友新年如意吉祥的卡片，多用郵寄方式送達。" />
-		<phrase hz="卡宾枪" py="kǎ,bīn,qiāng" info="一种轻型自动或半自动军用步枪,使用威力较低的弹药,常发给非步兵部队使用" />
-		<phrase hz="卡车" py="kǎ,chē" info="运输货物、器材等的机动车辆" />
-		<phrase hz="卡尺" py="kǎ,chǐ" info="用来测量零件或工件的内外直径和厚度的量具，上面有带刻度的尺" />
-		<phrase hz="卡带" py="kǎ,dài" info="盒式录音磁带" />
-		<phrase hz="卡规" py="kǎ,guī" info="有两只脚或爪的量具，能调整以测量厚度、直径、口径及表面间的距离" />
-		<phrase hz="卡路里" py="kǎ,lù,lǐ" info="在1大气压的压强下使1克水的温度升高1C，尤其是从14.5C升至15.5C时所需要的热量" />
-		<phrase hz="卡片" py="kǎ,piàn" info="用来记录各种资料以便参考、查检的纸片" />
-		<phrase hz="卡其" py="kǎ,qí" info="卡其布是一种主要由棉、毛、化学纤维混纺而成的织品。" />
-		<phrase hz="卡钳" py="kǎ,qián" info="一种两脚可张合的钳形量具，用于测量工件的内外径或壁厚" />
-		<phrase hz="卡通" py="kǎ,tōng" info="动画片" />
-		<phrase hz="绿卡" py="lǜ,kǎ" info="某些国家发给外国侨民的长期居留证的俗称。" />
-		<phrase hz="千卡" py="qiān,kǎ" info="热量单位，等于1000卡，亦即1千克水温度升高1摄氏度所需的热量(符号kcal)" />
-		<phrase hz="信用卡" py="xìn,yòng,kǎ" info="由商业银行发行，专供消费者购买商品和支付费用的信用凭证。上面有持卡人姓名、签字和号码等信息。持卡人可在指定的银行、商店等处凭卡签字支取现金、购买商品等，有的可以透支小额现金。" />
-		<phrase hz="银行卡" py="yín,háng,kǎ" />
-		<definition id="二">
-			<item id="1" text="卡车，载重的大汽车：十轮~." />
-			<item id="2" text="卡片，小的纸片（一般是比较硬的纸）：资料~. 贺年~. [绿卡]某些国家发给外国侨民的长期居留证的俗称。" />
-			<item id="3" text="卡路里，热量的非法定计量单位，1克纯水的温度升高1摄氏度所需的热量为1卡，合4.1868焦。" />
-			<item text="[卡通](外)1.动画片。 2.漫画。" />
-		</definition>
-	</char>
+	<!-- Ref:卡.xml <char hz="卡" py="kǎ" multi="qiǎ" main="1" /> -->
 	<char hz="佧" py="kǎ">
 		<phrase hz="佧佤族" py="kǎ,wǎ,zú" />
 	</char>

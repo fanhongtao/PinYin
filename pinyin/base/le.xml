@@ -25,47 +25,7 @@
 	</char>
 	<char hz="簕" py="lè" />
 	<char hz="鳓" py="lè" />
-	<char hz="乐" py="lè" multi="yuè" main="1">
-		<phrase hz="安乐" py="ān,lè" />
-		<phrase hz="逗乐" py="dòu,lè" />
-		<phrase hz="欢乐" py="huān,lè" />
-		<phrase hz="极乐" py="jí,lè" info="1.尽情娱乐。2.非常快乐。3.指极乐世界。4.借指佛经。" />
-		<phrase hz="康乐" py="kāng,lè" />
-		<phrase hz="可乐" py="kě,lè" />
-		<phrase hz="快乐" py="kuài,lè" />
-		<phrase hz="乐不可支" py="lè,bù,kě,zhī" />
-		<phrase hz="乐不思蜀" py="lè,bù,sī,shǔ" />
-		<phrase hz="乐而忘返" py="lè,ér,wàng,fǎn" />
-		<phrase hz="乐观" py="lè,guān" />
-		<phrase hz="乐极生悲" py="lè,jí,shēng,bēi" />
-		<phrase hz="乐趣" py="lè,qù" />
-		<phrase hz="乐事" py="lè,shì" />
-		<phrase hz="乐善好施" py="lè,shàn,hào,shī" />
-		<phrase hz="乐天" py="lè,tiān" info="乐于顺应天命，引申为乐于自己的处境而无忧虑" />
-		<phrase hz="乐土" py="lè,tǔ" />
-		<phrase hz="乐玩" py="lè,wán" info="玩乐之物。" />
-		<phrase hz="乐意" py="lè,yì" />
-		<phrase hz="乐于" py="lè,yú" />
-		<phrase hz="乐园" py="lè,yuán" />
-		<phrase hz="乐在其中" py="lè,zài,qí,zhōng" />
-		<phrase hz="乐子" py="lè,zi" />
-		<phrase hz="闷闷不乐" py="mèn,mèn,bú,lè" info="闷闷：心情不舒畅，心烦。形容心事放不下，心里不快活。 " />
-		<phrase hz="取乐" py="qǔ,lè" />
-		<phrase hz="玩乐" py="wán,lè" />
-		<phrase hz="享乐" py="xiǎng,lè" />
-		<phrase hz="寻欢作乐" py="xún,huān,zuò,lè" />
-		<phrase hz="怏怏不乐" py="yāng,yāng,bú,lè" info="怏怏：形容不满意的神情。心中郁闷，很不快活。 " />
-		<phrase hz="鞅鞅不乐" py="yāng,yāng,bú,lè" info="因不满意而很不快乐。鞅，通“怏”。" />
-		<phrase hz="娱乐" py="yú,lè" />
-		<phrase hz="助人为乐" py="zhù,rén,wéi,lè" />
-		<definition id="一">
-			<item id="1" text="快乐，欢喜，快活：~趣. ~事. ~而忘返." />
-			<item id="2" text="乐于：~此不疲. [乐得]正好，正合心愿：~~这样做." />
-			<item id="3" text="(-子、-儿)使人快乐的事情：取~. 逗~儿." />
-			<item id="4" text="笑：可~. 把一屋子人都逗~了. 你~什么？" />
-			<item id="5" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:乐.xml <char hz="乐" py="lè" multi="yuè" main="1" /> -->
 	<char hz="了" py="le" multi="liǎo" main="1">
 		<phrase hz="除了" py="chú,le" />
 		<definition id="二" text="助词。">

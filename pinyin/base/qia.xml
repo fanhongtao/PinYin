@@ -1,31 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="掐" py="qiā" />
-	<char hz="袷" py="qiā" multi="jiá">
-		<phrase hz="袷袢" py="qiā,pàn" />
-		<definition id="一">
-			<item text="[袷袢](-pàn)(维)维吾尔、塔吉克等民族所穿的对襟长袍。" />
-		</definition>
-	</char>
+	<!-- Ref:袷.xml <char hz="袷" py="qiā" multi="jiá" /> -->
 	<char hz="葜" py="qiā" />
 	<char hz="拤" py="qiá" />
-	<char hz="卡" py="qiǎ" multi="kǎ">
-		<phrase hz="边卡" py="biān,qiǎ" info="边界上设置的哨所或关卡" />
-		<phrase hz="发卡" py="fà,qiǎ" info="头发夹子。" />
-		<phrase hz="关卡" py="guān,qiǎ" info="检查人、车或征收税赋的关口" />
-		<phrase hz="卡脖子" py="qiǎ,bó,zi" info="用双手掐住别人的脖子,比喻抓住对方要害,置之于死地。" />
-		<phrase hz="卡具" py="qiǎ,jù" info="用于夹住工件的夹具。" />
-		<phrase hz="卡壳" py="qiǎ,ké" info="1.枪械中的弹壳不能退出来而影响发射。2.说话或办事不顺利而停顿。" />
-		<phrase hz="卡住" py="qiǎ,zhù" />
-		<phrase hz="卡子" py="qiǎ,zi" />
-		<phrase hz="哨卡" py="shào,qiǎ" info="在边境或交通要道上设置的哨所，用以执行特定任务" />
-		<phrase hz="税卡" py="shuì,qiǎ" info="设站征税的地方。" />
-		<definition id="一">
-			<item id="1" text="（-子）在交通要道设置的检查或收税的地方：关~." />
-			<item id="2" text="（-子）夹东西的器具：头发~子." />
-			<item id="3" text="夹在中间，堵塞：鱼刺~在嗓子里. ~在里边拿不出来了." />
-		</definition>
-	</char>
+	<!-- Ref:卡.xml <char hz="卡" py="qiǎ" multi="kǎ" /> -->
 	<char hz="洽" py="qià" />
 	<char hz="恰" py="qià">
 		<phrase hz="恰如其分" py="qià,rú,qí,fèn" />

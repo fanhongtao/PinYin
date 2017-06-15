@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喁" py="yōng" multi="yú" main="1">
+		<phrase hz="喁望" py="yóng,wàng" info="犹仰望；渴望。" />
+		<phrase hz="喁喁" py="yóng,yóng" duoyin="yú,yú" info="形容众人景仰归向的样子。" />
+		<definition id="一">
+			<item text="鱼口向上，露出水面。 [喁喁](喻)众人景仰归向的样子。" />
+		</definition>
+	</char>
+	<char hz="喁" py="yú" multi="yōng" info="Word主音">
+		<!-- <phrase hz="喁喁" py="yú,yú" duoyin="yóng,yóng" info="1.随声附和。2.形容说话的声音（多用于小声说话）。" /> -->
+		<phrase hz="喁喁私语" py="yú,yú,sī,yǔ" />
+		<definition id="二">
+			<item text="[喁喁]形容低声细语：~~私语." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="区" py="ōu" multi="qū">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="区" py="qū" multi="ōu" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="分别（(连)-别、-分）。" />
+			<item id="2" text="地域：工业~. 开发~. 自然保护~." />
+			<item id="3" text="行政区划单位，有跟省平行的自治区和比市低一级的市辖区等。" />
+			<item text="[区区]小，细微。" />
+		</definition>
+	</char>
+</pinyin>

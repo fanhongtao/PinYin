@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="茄" py="jiā" multi="qié">
+		<phrase hz="茄克" py="jiā,kè" info="一種寬鬆的短外套。為英語jacket的音譯。如：「天氣涼了，別忘了加件茄克。」亦譯作「夾克」。" />
+		<phrase hz="雪茄" py="xuě,jiā" />
+		<definition id="二">
+			<item text="〈古〉荷茎。" />
+			<item text="[雪茄]（外）一种较粗较长用烟叶卷成的卷烟。" />
+		</definition>
+	</char>
+	<char hz="茄" py="qié" multi="jiā" main="1">
+		<phrase hz="番茄" py="fān,qié" info="又叫西红柿。" />
+		<phrase hz="茄子" py="qié,zi" />
+		<definition id="一">
+			<item text="（-子）一年生草本植物，花紫色。果实也叫茄子，紫色，也有白色或绿色的，可以吃。 [番茄]一年生草本植物，花黄色。果实也叫番茄，圆形，熟时红色或黄色，可以吃。也叫“西红柿”。" />
+		</definition>
+	</char>
+</pinyin>

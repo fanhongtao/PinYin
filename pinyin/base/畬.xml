@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="畬" py="shē" multi="yú" main="1">
+		<definition id="二">
+			<item text="焚烧田地里的草木，用草木灰做肥料耕种。" />
+		</definition>
+	</char>
+	<char hz="畬" py="yú" multi="shē">
+		<definition id="一">
+			<item text="开垦过两年的地。" />
+		</definition>
+	</char>
+</pinyin>
