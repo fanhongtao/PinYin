@@ -1,28 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="肋" py="lē" multi="lèi">
-		<phrase hz="肋脦" py="lē,de" />
-		<definition id="二">
-			<item text="[肋脦](-de)(-te)(又)衣裳肥大，不整洁：瞧你穿得这个~~！" />
-		</definition>
-	</char>
+	<!-- Ref:肋.xml <char hz="肋" py="lē" multi="lèi" /> -->
 	<char hz="仂" py="lè" />
 	<char hz="叻" py="lè" />
 	<char hz="泐" py="lè" />
 	<char hz="竻" py="lè" />
-	<char hz="勒" py="lè" multi="lēi" main="1" suppressLog="1">
-		<phrase hz="贝勒" py="bèi,lè" info="全称多罗贝勒。满语，贵族称号，相当于王或诸侯，地位次于亲王、郡王，是清代贵族的世袭封爵" />
-		<phrase hz="勾勒" py="gōu,lè" />
-		<phrase hz="勒令" py="lè,lìng" />
-		<phrase hz="勒索" py="lè,suǒ" />
-		<phrase hz="弥勒" py="mí,lè" info="梵语Maitreya音译，意译“慈氏”。著名的未来佛。我国的 弥勒 塑像胸腹坦露，面带笑容。传说 五代 时 布袋和尚 是其化身。" />
-		<definition id="一">
-			<item id="1" text="套在牲畜头上带嚼子的笼头。" />
-			<item id="2" text="收住缰绳不使前进：悬崖~马." />
-			<item id="3" text="强制：~令. ~索." />
-			<item id="4" text="刻：~石. ~碑." />
-		</definition>
-	</char>
+	<!-- Ref:勒.xml <char hz="勒" py="lè" multi="lēi" main="1" suppressLog="1" /> -->
 	<char hz="簕" py="lè" />
 	<char hz="鳓" py="lè" />
 	<!-- Ref:乐.xml <char hz="乐" py="lè" multi="yuè" main="1" /> -->

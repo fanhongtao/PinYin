@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="擂" py="léi" multi="lèi" main="1">
+		<phrase hz="吹擂" py="chuī,léi" info="吹军号、擂鼓。比喻夸大宣传。" />
+		<phrase hz="擂钵" py="léi,bō" info="承受杆弄碎的深碗形木容器" />
+		<phrase hz="擂鼓" py="léi,gǔ" />
+		<definition id="一">
+			<item id="1" text="研磨：~钵（研东西的钵）." />
+			<item id="2" text="打：~鼓. 自吹自~（喻自我吹嘘）." />
+		</definition>
+	</char>
+	<char hz="擂" py="lèi" multi="léi" info="Word主音">
+		<phrase hz="摆擂" py="bǎi,lèi" />
+		<phrase hz="打擂" py="dǎ,lèi" />
+		<phrase hz="擂台" py="lèi,tái" />
+		<definition id="二">
+			<item text="擂台，古时候比武的台子：摆~. 打~." />
+		</definition>
+	</char>
+</pinyin>

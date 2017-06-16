@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="累" py="léi" multi="lěi,lèi">
+		<phrase hz="果实累累" py="guǒ,shí,léi,léi" />
+		<phrase hz="累赘" py="léi,zhui" />
+		<definition id="三">
+			<item id="1" text="连缀或捆。 [累累]连续成串：果实~~. [累赘](-zhui)多余的负担，麻烦：这事多~~." />
+			<item id="2" text="绳索。" />
+			<item id="3" text="缠绕。" />
+		</definition>
+	</char>
+	<char hz="累" py="lěi" multi="léi,lèi">
+		<phrase hz="带累" py="dài,lěi" />
+		<phrase hz="挂累" py="guà,lěi" />
+		<phrase hz="积累" py="jī,lěi" />
+		<phrase hz="积年累月" py="jī,nián,lěi,yuè" />
+		<phrase hz="亏累" py="kuī,lěi" info="损失，亏欠。" />
+		<phrase hz="累次" py="lěi,cì" info="多次" />
+		<phrase hz="累犯" py="lěi,fàn" />
+		<phrase hz="累积" py="lěi,jī" />
+		<phrase hz="累及" py="lěi,jí" />
+		<phrase hz="累进" py="lěi,jìn" info="以某数为基数，另一数与它的比值按等差数列、等比数列或其他方式逐步增加。" />
+		<phrase hz="累累" py="lěi,lěi" />
+		<phrase hz="累卵" py="lěi,luǎn" info="把蛋重叠起来，形容极为危险。" />
+		<phrase hz="累年" py="lěi,nián" />
+		<phrase hz="累日" py="lěi,rì" />
+		<phrase hz="连累" py="lián,lěi" />
+		<phrase hz="连篇累牍" py="lián,piān,lěi,dú" info="累：重叠；牍：古代写字的木片。形容篇幅过多，文辞冗长。" />
+		<phrase hz="牵累" py="qiān,lěi" />
+		<phrase hz="日积月累" py="rì,jī,yuè,lěi" />
+		<phrase hz="受累" py="shòu,lěi" />
+		<phrase hz="拖累" py="tuō,lěi" />
+		<definition id="一">
+			<item id="1" text="重叠，堆积：危如~卵. 积年~月. [累累]1.屡屡。 2.形容累积得多：罪行~~. [累进]照原数目多少而递增，如 2、4、8、16 等，原数越大，增加的数也越大：~~率. ~~税." />
+			<item id="2" text="连累：~及. 受~. 牵~. ~你操心." />
+		</definition>
+	</char>
+	<char hz="累" py="lèi" multi="léi,lěi" main="1">
+		<phrase hz="劳累" py="láo,lèi" info="因劳作而疲倦" />
+		<definition id="二">
+			<item id="1" text="疲乏，过劳：我今天~了！" />
+			<item id="2" text="使疲劳：别~着他." />
+		</definition>
+	</char>
+</pinyin>
