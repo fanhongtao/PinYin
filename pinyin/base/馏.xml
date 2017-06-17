@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="馏" py="liú" multi="liù">
+		<phrase hz="分馏" py="fēn,liú" info="分离几种不同沸点的挥发性组分的混合物的一种方法;混合物先在最低沸点下蒸馏，直到蒸气温度上升前将蒸馏液作为一种成分加以收集。蒸气温度的上升表示混合物中的次一个较高沸点组分开始蒸馏。然后将这一组分开收集起来" />
+		<phrase hz="干馏" py="gān,liú" info="固体燃料的热加工方法之一。将固体燃料在隔绝空气条件下加热，使分解为固态、液态和气态物质，如煤干馏后分解成焦炭、焦油和煤气。根据加热的最终温度，一般可分为高温干馏(1000℃左右)和低温干馏(550℃左右)。" />
+		<phrase hz="精馏" py="jīng,liú" info="一种利用回流使液体混合物得到高纯度分离的蒸馏方法，是工业上应用最广的液体混合物分离操作，广泛用于石油、化工、轻工、食品、冶金等部门。" />
+		<phrase hz="蒸馏" py="zhēng,liú" />
+		<phrase hz="直馏" py="zhí,liú" info="将石油进行连续的、不伴有化学反应的蒸馏，得到按沸点顺序分离出来的产品" />
+		<definition id="二">
+			<item text="蒸馏，加热使液体变成蒸气后再凝成纯净的液体。" />
+		</definition>
+	</char>
+	<char hz="馏" py="liù" multi="liú" main="1">
+		<definition id="一">
+			<item text="把凉了的熟食品再蒸热：把馒头~一~." />
+		</definition>
+	</char>
+</pinyin>

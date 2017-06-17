@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镏" py="liú" multi="liù" main="1">
+		<phrase hz="镏金" py="liú,jīn" info="一种镀金方法。把溶解在水银里的金子涂刷在银胎或铜胎器物上" />
+		<definition id="一">
+			<item text="我国特有的镀金法，把溶解在水银里的金子用刷子涂在器物表面作装饰，所镏的金层经久不退。" />
+		</definition>
+	</char>
+	<char hz="镏" py="liù" multi="liú">
+		<phrase hz="镏子" py="liù,zi" />
+		<definition id="二">
+			<item text="[镏子]〈方〉戒指：金~~." />
+		</definition>
+	</char>
+</pinyin>

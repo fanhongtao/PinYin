@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蹓" py="liū" multi="liù" main="1">
+		<phrase hz="蹓冰" py="liū,bīng" />
+		<phrase hz="蹓跶" py="liū,da" />
+		<definition id="一">
+			<item id="1" text="滑行：~冰." />
+			<item id="2" text="悄悄走开。" />
+		</definition>
+	</char>
+	<char hz="蹓" py="liù" multi="liū">
+		<definition id="二">
+			<item text="同“遛(1)”" />
+		</definition>
+	</char>
+</pinyin>

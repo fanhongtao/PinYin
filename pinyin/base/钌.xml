@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钌" py="liǎo" multi="liào" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Ru，银灰色，质坚而脆。纯钌可以做装饰品，三氯化钌可以做防腐剂、催化剂。" />
+		</definition>
+	</char>
+	<char hz="钌" py="liào" multi="liǎo">
+		<phrase hz="钌铞儿" py="liào,diào,r" />
+		<definition id="二">
+			<item text="[钌铞儿](-diàor)钉在门窗上可以把门窗扣住的东西：门~~~." />
+		</definition>
+	</char>
+</pinyin>

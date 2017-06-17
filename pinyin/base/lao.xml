@@ -2,13 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="捞" py="lāo" />
 	<char hz="劳" py="láo" />
-	<char hz="唠" py="láo" multi="lào">
-		<phrase hz="唠叨" py="láo,dao" />
-		<phrase hz="唠唠叨叨" py="láo,lao,dāo,dāo" info="形容言语絮叨。" />
-		<definition id="二">
-			<item text="[唠叨](-dao)没完没了地说，絮叨：人老了就爱~~." />
-		</definition>
-	</char>
+	<!-- Ref:唠.xml <char hz="唠" py="láo" multi="lào" /> -->
 	<char hz="崂" py="láo" />
 	<char hz="铹" py="láo" />
 	<char hz="痨" py="láo" />
@@ -28,12 +22,7 @@
 	</char>
 	<char hz="栳" py="lǎo" />
 	<char hz="铑" py="lǎo" />
-	<char hz="潦" py="lǎo" multi="liáo">
-		<definition id="一">
-			<item id="1" text="雨水大。" />
-			<item id="2" text="路上的流水，积水。" />
-		</definition>
-	</char>
+	<!-- Ref:潦.xml <char hz="潦" py="lǎo" multi="liáo" /> -->
 	<char hz="络" py="lào" multi="luò">
 		<phrase hz="络子" py="lào,zi" />
 		<definition id="二">
@@ -62,18 +51,7 @@
 		</definition>
 	</char>
 	<char hz="酪" py="lào" />
-	<char hz="唠" py="lào" multi="láo" main="1">
-		<phrase hz="唠扯" py="lào,che" info="〈方〉闲聊，谈天，交谈" />
-		<phrase hz="唠哆" py="lào,duō" info="说话啰嗦不止。" />
-		<phrase hz="唠喀" py="lào,kā" info="犹唠嗑。" />
-		<phrase hz="唠嗑" py="lào,kē" info="闲谈，聊天。" />
-		<phrase hz="唠唠" py="lào,lào" info="形容言语絮叨。" />
-		<phrase hz="谈唠" py="tán,lào" info="方言。闲谈。" />
-		<phrase hz="闲唠" py="xián,lào" info="亦作“闲嘮”。方言。犹闲谈。" />
-		<definition id="一">
-			<item text="〈方〉说话，闲谈：来，咱们~一~." />
-		</definition>
-	</char>
+	<!-- Ref:唠.xml <char hz="唠" py="lào" multi="láo" main="1" /> -->
 	<char hz="涝" py="lào" />
 	<char hz="耢" py="lào" />
 	<char hz="嫪" py="lào" />

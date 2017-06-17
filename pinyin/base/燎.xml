@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="燎" py="liáo" multi="liǎo" main="1">
+		<phrase hz="燎泡" py="liáo,pào" info="皮肤上因火或热水烫伤而起的水泡。" />
+		<phrase hz="燎原" py="liáo,yuán" info="1.火延烧原野。2.比喻气势旺盛。" />
+		<definition id="一">
+			<item text="延烧：星星之火，可以~原." />
+		</definition>
+	</char>
+	<char hz="燎" py="liǎo" multi="liáo">
+		<phrase hz="火燎" py="huǒ,liǎo" info="灯烛；火炬。" />
+		<definition id="二">
+			<item text="挨近了火而烧焦：把头发~了." />
+		</definition>
+	</char>
+</pinyin>

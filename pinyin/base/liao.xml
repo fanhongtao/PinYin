@@ -1,108 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="撩" py="liāo" multi="liáo">
-		<phrase hz="撩起" py="liāo,qǐ" />
-		<definition id="一">
-			<item id="1" text="提，掀起：~起长衫. 把帘子~起来." />
-			<item id="2" text="用手洒水：先~上点水再扫." />
-		</definition>
-	</char>
+	<!-- Ref:撩.xml <char hz="撩" py="liāo" multi="liáo" /> -->
 	<char hz="蹽" py="liāo" />
 	<char hz="辽" py="liáo" />
 	<char hz="疗" py="liáo" />
 	<char hz="窌" py="liáo" />
 	<char hz="聊" py="liáo" />
 	<char hz="僚" py="liáo" />
-	<char hz="撩" py="liáo" multi="liāo" main="1">
-		<phrase hz="撩拨" py="liáo,bō" info="惹逗;挑逗" />
-		<phrase hz="撩逗" py="liáo,dòu" info="挑逗;挑动" />
-		<phrase hz="撩拂" py="liáo,fú" info="拨动。" />
-		<phrase hz="撩乱" py="liáo,luàn" info="1.纷乱；杂乱。2.缤纷。3.搅乱，扰乱。" />
-		<phrase hz="撩弄" py="liáo,nòng" info="挑逗。" />
-		<definition id="二">
-			<item text="挑弄，引逗：~拨. 景色~人。" />
-		</definition>
-	</char>
+	<!-- Ref:撩.xml <char hz="撩" py="liáo" multi="liāo" main="1" /> -->
 	<char hz="嘹" py="liáo" />
 	<char hz="獠" py="liáo" />
-	<char hz="潦" py="liáo" multi="lǎo" main="1">
-		<phrase hz="潦草" py="liáo,cǎo" />
-		<phrase hz="潦倒" py="liáo,dǎo" />
-		<definition id="二">
-			<item text="[潦倒](-dǎo)颓丧，不得意：穷困~~. [潦草]草率，不精细：工作不能~~. 字写得太~~." />
-		</definition>
-	</char>
+	<!-- Ref:潦.xml <char hz="潦" py="liáo" multi="lǎo" main="1" /> -->
 	<char hz="寮" py="liáo" />
 	<char hz="缭" py="liáo">
 		<phrase hz="缭缝" py="liáo,fèng" />
 	</char>
-	<char hz="燎" py="liáo" multi="liǎo" main="1">
-		<phrase hz="燎泡" py="liáo,pào" info="皮肤上因火或热水烫伤而起的水泡。" />
-		<phrase hz="燎原" py="liáo,yuán" info="1.火延烧原野。2.比喻气势旺盛。" />
-		<definition id="一">
-			<item text="延烧：星星之火，可以~原." />
-		</definition>
-	</char>
+	<!-- Ref:燎.xml <char hz="燎" py="liáo" multi="liǎo" main="1" /> -->
 	<char hz="鹩" py="liáo" />
 	<char hz="寥" py="liáo" />
-	<char hz="飂" py="liáo" multi="liù" trans="1">
-		<phrase hz="飂戾" py="liáo,lì" />
-		<definition id="二">
-			<item text="[飂戾](-lì)1.风声。 2.很快的样子." />
-		</definition>
-	</char>
+	<!-- Ref:飂.xml <char hz="飂" py="liáo" multi="liù" trans="1" /> -->
 	<char hz="髎" py="liáo" />
-	<char hz="了" py="liǎo" multi="le">
-		<phrase hz="不了" py="bù,liǎo" />
-		<phrase hz="不了了之" py="bù,liǎo,liǎo,zhī" />
-		<phrase hz="不甚了了" py="bù,shèn,liǎo,liǎo" />
-		<phrase hz="敷衍了事" py="fū,yǎn,liǎo,shì" />
-		<phrase hz="公了" py="gōng,liǎo" info="双方发生纠纷，通过主管部门或司法程序了结（跟“私了”相对）。" />
-		<phrase hz="了不得" py="liǎo,bu,de" />
-		<phrase hz="了当" py="liǎo,dàng" />
-		<phrase hz="了断" py="liǎo,duàn" info="决断，了结" />
-		<phrase hz="了得" py="liǎo,de" />
-		<phrase hz="了结" py="liǎo,jié" info="1.处理或办理[某事]至于完结。2.变得没人感兴趣了。" />
-		<phrase hz="了解" py="liǎo,jiě" info="1.知道得清楚。2.调查;询问。" />
-		<phrase hz="了却" py="liǎo,què" info="了结;办理好" />
-		<phrase hz="了然" py="liǎo,rán" info="1.明白；清楚。2.全然。3.眼明貌。4.明白；清楚。" />
-		<phrase hz="了悟" py="liǎo,wù" info="大彻大悟;醒悟。" />
-		<phrase hz="了账" py="liǎo,zhàng" info="1.〈方〉结清账目，比喻事情完结。2.死;结果了性命。" />
-		<phrase hz="明了" py="míng,liǎo" info="1.清楚地懂得。2.清楚地知道。3.清晰;明白。4.自觉察觉到。" />
-		<phrase hz="末了" py="mò,liǎo" info="1.最后;一连串事物的最后部分。2.最后;结束或完成一连串的事件或行动。" />
-		<phrase hz="没完没了" py="méi,wán,méi,liǎo" />
-		<phrase hz="私了" py="sī,liǎo" info="谓产生纠纷，不经过司法、行政等部门而私下了结。" />
-		<phrase hz="未了" py="wèi,liǎo" info="1.没有了却、结束。2.漫漫，没有终点。" />
-		<phrase hz="一目了然" py="yí,mù,liǎo,rán" />
-		<phrase hz="知了" py="zhī,liǎo" />
-		<phrase hz="终了" py="zhōng,liǎo" info="结束;完毕" />
-		<definition id="一">
-			<item id="1" text="明白：明~. 一目~然. 不甚~~. [了解]弄明白，懂得很清楚：~~情况." />
-			<item id="2" text="完了，结束：事情已经~了(le). 话犹未~. 不~~之. 没完没~. 不能敷衍~事. [了当]爽快：直截~~." />
-			<item id="3" text="在动词后，跟“不”、“得”连用，表示不可能或可能：这本书我看不~. 这事你办得~. [了不得](-bude)表示不平常，严重：他的本事真~~~. ~~~了，着了火了！ 疼得~~~. [了得](-de)1.有“能办、可以”的意思，多用于反诘语句中，表示不平常，严重：这还~~！ 2.能干，厉害：真~~." />
-		</definition>
-	</char>
-	<char hz="钌" py="liǎo" multi="liào" main="1">
-		<definition id="一">
-			<item text="一种金属元素，符号Ru，银灰色，质坚而脆。纯钌可以做装饰品，三氯化钌可以做防腐剂、催化剂。" />
-		</definition>
-	</char>
+	<!-- Ref:了.xml <char hz="了" py="liǎo" multi="le" /> -->
+	<!-- Ref:钌.xml <char hz="钌" py="liǎo" multi="liào" main="1" /> -->
 	<char hz="蓼" py="liǎo" />
-	<char hz="燎" py="liǎo" multi="liáo">
-		<phrase hz="火燎" py="huǒ,liǎo" info="灯烛；火炬。" />
-		<definition id="二">
-			<item text="挨近了火而烧焦：把头发~了." />
-		</definition>
-	</char>
+	<!-- Ref:燎.xml <char hz="燎" py="liǎo" multi="liáo" /> -->
 	<char hz="尥" py="liào">
 		<phrase hz="尥蹶子" py="liào,juě,zi" />
 	</char>
-	<char hz="钌" py="liào" multi="liǎo">
-		<phrase hz="钌铞儿" py="liào,diào,r" />
-		<definition id="二">
-			<item text="[钌铞儿](-diàor)钉在门窗上可以把门窗扣住的东西：门~~~." />
-		</definition>
-	</char>
+	<!-- Ref:钌.xml <char hz="钌" py="liào" multi="liǎo" /> -->
 	<char hz="料" py="liào" />
 	<char hz="撂" py="liào" />
 	<char hz="廖" py="liào" />

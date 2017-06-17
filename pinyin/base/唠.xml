@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="唠" py="láo" multi="lào">
+		<phrase hz="唠叨" py="láo,dao" />
+		<phrase hz="唠唠叨叨" py="láo,lao,dāo,dāo" info="形容言语絮叨。" />
+		<definition id="二">
+			<item text="[唠叨](-dao)没完没了地说，絮叨：人老了就爱~~." />
+		</definition>
+	</char>
+	<char hz="唠" py="lào" multi="láo" main="1">
+		<phrase hz="唠扯" py="lào,che" info="〈方〉闲聊，谈天，交谈" />
+		<phrase hz="唠哆" py="lào,duō" info="说话啰嗦不止。" />
+		<phrase hz="唠喀" py="lào,kā" info="犹唠嗑。" />
+		<phrase hz="唠嗑" py="lào,kē" info="闲谈，聊天。" />
+		<phrase hz="唠唠" py="lào,lào" info="形容言语絮叨。" />
+		<phrase hz="谈唠" py="tán,lào" info="方言。闲谈。" />
+		<phrase hz="闲唠" py="xián,lào" info="亦作“闲嘮”。方言。犹闲谈。" />
+		<definition id="一">
+			<item text="〈方〉说话，闲谈：来，咱们~一~." />
+		</definition>
+	</char>
+</pinyin>

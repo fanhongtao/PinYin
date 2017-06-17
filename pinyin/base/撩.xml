@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="撩" py="liāo" multi="liáo">
+		<phrase hz="撩起" py="liāo,qǐ" />
+		<definition id="一">
+			<item id="1" text="提，掀起：~起长衫. 把帘子~起来." />
+			<item id="2" text="用手洒水：先~上点水再扫." />
+		</definition>
+	</char>
+	<char hz="撩" py="liáo" multi="liāo" main="1">
+		<phrase hz="撩拨" py="liáo,bō" info="惹逗;挑逗" />
+		<phrase hz="撩逗" py="liáo,dòu" info="挑逗;挑动" />
+		<phrase hz="撩拂" py="liáo,fú" info="拨动。" />
+		<phrase hz="撩乱" py="liáo,luàn" info="1.纷乱；杂乱。2.缤纷。3.搅乱，扰乱。" />
+		<phrase hz="撩弄" py="liáo,nòng" info="挑逗。" />
+		<definition id="二">
+			<item text="挑弄，引逗：~拨. 景色~人。" />
+		</definition>
+	</char>
+</pinyin>

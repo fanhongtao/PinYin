@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溜" py="liū" multi="liù" main="1">
+		<phrase hz="哧溜" py="chī,liū" info="象声词，疾速流动、滑移发出的声响" />
+		<phrase hz="提溜" py="dī,liu" info="〈方〉垂手拿着" />
+		<phrase hz="光溜" py="guāng,liu" info="1.[口]光滑，尤指手摸上去没有粗糙、点、隆起或皱褶。2.易滑倒的" />
+		<phrase hz="滑溜" py="huá,liu" info="1.烹调方法，把肉、鱼等切好，跟芡粉拌匀，用油炒，加葱、蒜等作料，再勾上芡，使汁变稠。2.[口]非常光滑(喜欢之意)" />
+		<phrase hz="溜边" py="liū,biān" info="[口]沿着边缘走或游，比喻遇事有意避开，不介入" />
+		<phrase hz="溜达" py="liū,dá" info="也作蹓跶。闲逛;漫步" />
+		<phrase hz="溜光" py="liū,guāng" info="〈方〉1.非常光滑。2.光秃秃;一点不剩。" />
+		<phrase hz="溜号" py="liū,hào" info="〈方〉偷偷走开。" />
+		<phrase hz="溜尖" py="liū,jiān" info="很尖。" />
+		<phrase hz="溜门" py="liū,mén" info="偷偷进入别人住宅[行窃]" />
+		<phrase hz="溜平" py="liū,píng" info="〈方〉很平" />
+		<phrase hz="溜圆" py="liū,yuán" info="[口]极圆" />
+		<phrase hz="溜走" py="liū,zǒu" info="偷偷走掉" />
+		<phrase hz="顺溜" py="shùn,liu" info="〈方〉1.顺畅有次序。2.通畅顺当。3.指性情和顺,听话。" />
+		<phrase hz="直溜" py="zhí,liu" info="形容挺直。如：看她身骨儿长得真直溜。。" />
+		<definition id="一">
+			<item id="1" text="滑行：~冰. 从滑梯上~下来. (引)滑溜，平滑，无阻碍：这块石头很滑~." />
+			<item id="2" text="溜走，趁人不见走开：一眼不见他就~了." />
+			<item id="3" text="沿着，顺着：~边儿. ~着墙根儿走." />
+			<item id="4" text="同“熘”。" />
+			<item text="[溜达]（*蹓跶）散步，随便走走。" />
+		</definition>
+	</char>
+	<char hz="溜" py="liù" multi="liū">
+		<phrase hz="冰溜" py="bīng,liù" info="冰柱。" />
+		<phrase hz="大溜" py="dà,liù" />
+		<phrase hz="檐溜" py="yán,liù" />
+		<phrase hz="水溜" py="shuǐ,liù" />
+		<definition id="二">
+			<item id="1" text="急流：大~. 今天河水~很大." />
+			<item id="2" text="顺房檐滴下来的水：檐~." />
+			<item id="3" text="屋檐上安的接雨水用的长水槽：水~." />
+			<item id="4" text="（-儿）量词，用于成行(háng)列的事物：一~三间房." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="潦" py="lǎo" multi="liáo">
+		<definition id="一">
+			<item id="1" text="雨水大。" />
+			<item id="2" text="路上的流水，积水。" />
+		</definition>
+	</char>
+	<char hz="潦" py="liáo" multi="lǎo" main="1">
+		<phrase hz="潦草" py="liáo,cǎo" />
+		<phrase hz="潦倒" py="liáo,dǎo" />
+		<definition id="二">
+			<item text="[潦倒](-dǎo)颓丧，不得意：穷困~~. [潦草]草率，不精细：工作不能~~. 字写得太~~." />
+		</definition>
+	</char>
+</pinyin>

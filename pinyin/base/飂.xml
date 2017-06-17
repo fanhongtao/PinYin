@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="飂" py="liáo" multi="liù" trans="1">
+		<phrase hz="飂戾" py="liáo,lì" />
+		<definition id="二">
+			<item text="[飂戾](-lì)1.风声。 2.很快的样子." />
+		</definition>
+	</char>
+	<char hz="飂" py="liù" multi="liáo" main="1" trans="1">
+		<definition id="一">
+			<item text="西风。" />
+		</definition>
+	</char>
+</pinyin>
