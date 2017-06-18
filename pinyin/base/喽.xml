@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喽" py="lóu" multi="lou">
+		<phrase hz="喽啰" py="lóu,luo" />
+		<definition id="二">
+			<item text="[喽啰]（*偻㑩）(-luo)旧时称盗贼的部下，现在多比喻追随恶人的人。" />
+		</definition>
+	</char>
+	<char hz="喽" py="lou" multi="lóu" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="助词，意思相当于“啦”：够~，别说~！" />
+		</definition>
+	</char>
+</pinyin>

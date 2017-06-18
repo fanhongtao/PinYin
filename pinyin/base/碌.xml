@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="碌" py="liù" multi="lù">
+		<phrase hz="碌碡" py="liù,zhou" />
+		<definition id="二">
+			<item text="[碌碡](-zhou)农具名。圆柱形，用石头做成，用来轧脱谷粒或轧平场院。" />
+		</definition>
+	</char>
+	<char hz="碌" py="lù" multi="liù" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="平凡：庸~. [碌碌]平庸，无所作为：庸庸~~." />
+			<item id="2" text="繁忙：忙~." />
+		</definition>
+	</char>
+</pinyin>

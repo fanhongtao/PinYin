@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="绿" py="lù" multi="lǜ">
+		<phrase hz="绿林" py="lù,lín" />
+		<phrase hz="鸭绿江" py="yā,lù,jiāng" />
+		<definition id="二">
+			<item text="义同“绿(一)”。 [绿林]1.原指西汉末年聚焦在河北绿林山的农民起义军，后来泛指聚焦山林、反抗封建统治者的人们。 2.旧指上山为匪、抢劫财物的集团。 [鸭绿江]水名。是中国和朝鲜两国的界河。源出吉林省东南中朝边境的白头山，西南流到辽宁省丹东入黄海。" />
+		</definition>
+	</char>
+	<char hz="绿" py="lǜ" multi="lù" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="一般草和树叶的颜色，蓝和黄混合成的颜色：红花~叶. ~地. [绿色](转)无公害、无污染的：~~食品." />
+		</definition>
+	</char>
+</pinyin>

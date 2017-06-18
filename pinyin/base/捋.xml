@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="捋" py="lǚ" multi="luō">
+		<phrase hz="捋胡子" py="lǚ,hú,zi" />
+		<phrase hz="捋头发" py="lǚ,tóu,fà" />
+		<definition id="二">
+			<item text="用手指顺着抹过去，整理：~胡子. ~头发." />
+		</definition>
+	</char>
+	<char hz="捋" py="luō" multi="lǚ" main="1">
+		<phrase hz="捋虎须" py="luō,hǔ,xū" info="捋：抚摩。比喻触犯有权势的人或冒着很大的风险。" />
+		<definition id="一">
+			<item text="用手握住东西，顺着东西移动：~榆钱儿. ~虎须（喻冒险）." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,29 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="衰" py="shuāi" multi="cuī" main="1" suppressLog="1">
-		<phrase hz="年老力衰" py="nián,lǎo,lì,shuāi" />
-		<phrase hz="盛衰" py="shèng,shuāi" info="1、指兴盛与衰败。2、中医名词。盛衰，事物发展中的兴奋与抑制，生长与退化，增强与削弱等对立变化过程的两种状态趋势。" />
-		<phrase hz="衰败" py="shuāi,bài" info="衰落;衰弱" />
-		<phrase hz="衰变" py="shuāi,bài" info="亦称蜕变。指放射性元素放射出粒子而转变为另一种元素的过程，如镭放出粒子后变成氡。" />
-		<phrase hz="衰当益壮" py="shuāi,dāng,yì,zhuàng" info="犹老当益壮。" />
-		<phrase hz="衰减" py="shuāi,jiǎn" info="衰败;减退" />
-		<phrase hz="衰竭" py="shuāi,jié" info="1.因病而生理机能极度衰弱；2.过分紧张或过分劳累后出现的神经官能症" />
-		<phrase hz="衰老" py="shuāi,lǎo" info="年老而精力、体质衰弱" />
-		<phrase hz="衰落" py="shuāi,luò" info="由兴盛转向没落;由强大转为弱小" />
-		<phrase hz="衰弱" py="shuāi,ruò" info="1.生机不旺盛;软弱无力；2.由强转弱" />
-		<phrase hz="衰飒" py="shuāi,sà" info="意气消沉;颓废失落" />
-		<phrase hz="衰颓" py="shuāi,tuí" info="衰弱颓废，不振作。" />
-		<phrase hz="衰退" py="shuāi,tuì" info="衰弱减退;趋向衰落;衰弱" />
-		<phrase hz="衰亡" py="shuāi,wáng" info="衰落以至灭亡" />
-		<phrase hz="衰微" py="shuāi,wēi" info="衰落;不兴旺" />
-		<phrase hz="衰朽" py="shuāi,xiǔ" info="衰落;老朽" />
-		<phrase hz="未老先衰" py="wèi,lǎo,xiān,shuāi" info="年纪还不大就衰老了。多指由于精神或体力负担过重而导致过早衰老。" />
-		<phrase hz="兴衰" py="xīng,shuāi" info="兴旺和衰败" />
-		<phrase hz="早衰" py="zǎo,shuāi" info="未老先衰;生物体提前衰老" />
-		<definition id="一">
-			<item text="事物发展转向微弱（(连)-微）：~败. ~老. 神经~弱. [衰变]化学上指放射性元素放射出粒子后变成另一种元素。" />
-		</definition>
-	</char>
+	<!-- Ref:衰.xml <char hz="衰" py="shuāi" multi="cuī" main="1" suppressLog="1" /> -->
 	<char hz="摔" py="shuāi" />
 	<char hz="甩" py="shuǎi" />
 	<char hz="帅" py="shuài">
@@ -32,30 +9,6 @@
 			<item id="2" text="英俊，潇洒，漂亮：这个小伙儿很~. 他的动作~极了. 字写得~." />
 		</definition>
 	</char>
-	<char hz="率" py="shuài" multi="lǜ" main="1">
-		<phrase hz="表率" py="biǎo,shuài" info="榜样，模范" />
-		<phrase hz="草率" py="cǎo,shuài" info="马虎;不细致;粗略" />
-		<phrase hz="大率" py="dà,shuài" info="副词。大概、大致;大体;大略" />
-		<phrase hz="轻率" py="qīng,shuài" info="随随便便，言行不慎重，不认真" />
-		<phrase hz="率队" py="shuài,duì" />
-		<phrase hz="率领" py="shuài,lǐng" info="带领" />
-		<phrase hz="率然" py="shuài,rán" info="1.轻率;不慎重。2.形容轻捷的样子。" />
-		<phrase hz="率先" py="shuài,xiān" info="带头;首先" />
-		<phrase hz="率性" py="shuài,xìng" info="1.顺着本性，索性。2.指平素的性情;禀性。" />
-		<phrase hz="率真" py="shuài,zhēn" info="直率而真诚" />
-		<phrase hz="率直" py="shuài,zhí" info="不含蓄，坦率;爽直" />
-		<phrase hz="坦率" py="tǎn,shuài" info="直率" />
-		<phrase hz="统率" py="tǒng,shuài" info="率领;指挥" />
-		<phrase hz="直率" py="zhí,shuài" info="直截痛快。也指言行坦率、爽朗" />
-		<definition id="一">
-			<item id="1" text="带领，统领（(连)-领）：~队. ~师." />
-			<item id="2" text="轻易地，不细想，不慎重（(连)轻-、草-）：不要轻~地处理问题." />
-			<item id="3" text="爽直坦白（(连)直-）。" />
-			<item id="4" text="大率，大概，大略：~皆如此." />
-			<item id="5" text="遵循：~由旧章." />
-			<item id="6" text="模范：一方表~." />
-			<item id="7" text="同“帅(2)”。" />
-		</definition>
-	</char>
+	<!-- Ref:率.xml <char hz="率" py="shuài" multi="lǜ" main="1" /> -->
 	<char hz="蟀" py="shuài" />
 </pinyin>

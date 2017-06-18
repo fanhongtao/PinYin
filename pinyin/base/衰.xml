@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="衰" py="cuī" multi="shuāi">
+		<phrase hz="等衰" py="děng,cuī" />
+		<definition id="二" text="〈古〉">
+			<item id="1" text="等衰，等差，等次，等级。" />
+			<item id="2" text="同“缞”。" />
+		</definition>
+	</char>
+	<char hz="衰" py="shuāi" multi="cuī" main="1" suppressLog="1">
+		<phrase hz="年老力衰" py="nián,lǎo,lì,shuāi" />
+		<phrase hz="盛衰" py="shèng,shuāi" info="1、指兴盛与衰败。2、中医名词。盛衰，事物发展中的兴奋与抑制，生长与退化，增强与削弱等对立变化过程的两种状态趋势。" />
+		<phrase hz="衰败" py="shuāi,bài" info="衰落;衰弱" />
+		<phrase hz="衰变" py="shuāi,bài" info="亦称蜕变。指放射性元素放射出粒子而转变为另一种元素的过程，如镭放出粒子后变成氡。" />
+		<phrase hz="衰当益壮" py="shuāi,dāng,yì,zhuàng" info="犹老当益壮。" />
+		<phrase hz="衰减" py="shuāi,jiǎn" info="衰败;减退" />
+		<phrase hz="衰竭" py="shuāi,jié" info="1.因病而生理机能极度衰弱；2.过分紧张或过分劳累后出现的神经官能症" />
+		<phrase hz="衰老" py="shuāi,lǎo" info="年老而精力、体质衰弱" />
+		<phrase hz="衰落" py="shuāi,luò" info="由兴盛转向没落;由强大转为弱小" />
+		<phrase hz="衰弱" py="shuāi,ruò" info="1.生机不旺盛;软弱无力；2.由强转弱" />
+		<phrase hz="衰飒" py="shuāi,sà" info="意气消沉;颓废失落" />
+		<phrase hz="衰颓" py="shuāi,tuí" info="衰弱颓废，不振作。" />
+		<phrase hz="衰退" py="shuāi,tuì" info="衰弱减退;趋向衰落;衰弱" />
+		<phrase hz="衰亡" py="shuāi,wáng" info="衰落以至灭亡" />
+		<phrase hz="衰微" py="shuāi,wēi" info="衰落;不兴旺" />
+		<phrase hz="衰朽" py="shuāi,xiǔ" info="衰落;老朽" />
+		<phrase hz="未老先衰" py="wèi,lǎo,xiān,shuāi" info="年纪还不大就衰老了。多指由于精神或体力负担过重而导致过早衰老。" />
+		<phrase hz="兴衰" py="xīng,shuāi" info="兴旺和衰败" />
+		<phrase hz="早衰" py="zǎo,shuāi" info="未老先衰;生物体提前衰老" />
+		<definition id="一">
+			<item text="事物发展转向微弱（(连)-微）：~败. ~老. 神经~弱. [衰变]化学上指放射性元素放射出粒子后变成另一种元素。" />
+		</definition>
+	</char>
+</pinyin>

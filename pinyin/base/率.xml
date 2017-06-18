@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="率" py="lǜ" multi="shuài">
+		<phrase hz="出勤率" py="chū,qín,lǜ" />
+		<phrase hz="概率" py="gài,lǜ" info="又称或然率、机会率、机率（几率）或可能性，它是概率论的基本概念。" />
+		<phrase hz="汇率" py="huì,lǜ" info="某国货币对外汇的比价" />
+		<phrase hz="或然率" py="huò,rán,lǜ" info="见“概率”" />
+		<phrase hz="机会率" py="jī,huì,lǜ" info="见“概率”" />
+		<phrase hz="机率" py="jī,lǜ" info="见“概率”" />
+		<phrase hz="利率" py="lì,lǜ" info="利息占本金的百分率" />
+		<phrase hz="利润率" py="lì,rùn,lǜ" info="剩余价值与全部预付资本的比例。" />
+		<phrase hz="频率" py="pín,lǜ" />
+		<phrase hz="曲率" py="qū,lǜ" info="数学上指表明曲线在其上某一点的弯曲程度的数值。" />
+		<phrase hz="收益率" py="shōu,yì,lǜ" />
+		<phrase hz="税率" py="shuì,lǜ" info="计算税额的比率" />
+		<phrase hz="速率" py="sù,lǜ" />
+		<phrase hz="效率" py="xiào,lǜ" />
+		<phrase hz="斜率" py="xié,lǜ" info="由一条直线与X轴形成的角的正切" />
+		<phrase hz="心率" py="xīn,lǜ" info="心搏频率。" />
+		<phrase hz="圆周率" py="yuán,zhōu,lǜ" info="圆周长度与圆的直径长度之比。约等于 3.1415926" />
+		<phrase hz="增长率" py="zēng,zhǎng,lǜ" />
+		<definition id="二">
+			<item text="指两个相关的数在一定条件下的比值：速~. 增长~. 出勤~." />
+		</definition>
+	</char>
+	<char hz="率" py="shuài" multi="lǜ" main="1">
+		<phrase hz="表率" py="biǎo,shuài" info="榜样，模范" />
+		<phrase hz="草率" py="cǎo,shuài" info="马虎;不细致;粗略" />
+		<phrase hz="大率" py="dà,shuài" info="副词。大概、大致;大体;大略" />
+		<phrase hz="轻率" py="qīng,shuài" info="随随便便，言行不慎重，不认真" />
+		<phrase hz="率队" py="shuài,duì" />
+		<phrase hz="率领" py="shuài,lǐng" info="带领" />
+		<phrase hz="率然" py="shuài,rán" info="1.轻率;不慎重。2.形容轻捷的样子。" />
+		<phrase hz="率先" py="shuài,xiān" info="带头;首先" />
+		<phrase hz="率性" py="shuài,xìng" info="1.顺着本性，索性。2.指平素的性情;禀性。" />
+		<phrase hz="率真" py="shuài,zhēn" info="直率而真诚" />
+		<phrase hz="率直" py="shuài,zhí" info="不含蓄，坦率;爽直" />
+		<phrase hz="坦率" py="tǎn,shuài" info="直率" />
+		<phrase hz="统率" py="tǒng,shuài" info="率领;指挥" />
+		<phrase hz="直率" py="zhí,shuài" info="直截痛快。也指言行坦率、爽朗" />
+		<definition id="一">
+			<item id="1" text="带领，统领（(连)-领）：~队. ~师." />
+			<item id="2" text="轻易地，不细想，不慎重（(连)轻-、草-）：不要轻~地处理问题." />
+			<item id="3" text="爽直坦白（(连)直-）。" />
+			<item id="4" text="大率，大概，大略：~皆如此." />
+			<item id="5" text="遵循：~由旧章." />
+			<item id="6" text="模范：一方表~." />
+			<item id="7" text="同“帅(2)”。" />
+		</definition>
+	</char>
+</pinyin>

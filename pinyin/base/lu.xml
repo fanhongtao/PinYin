@@ -26,41 +26,16 @@
 	<char hz="鲁" py="lǔ" />
 	<char hz="橹" py="lǔ" />
 	<char hz="镥" py="lǔ" />
-	<char hz="六" py="lù" multi="liù">
-		<phrase hz="六安" py="lù,ān" />
-		<phrase hz="六合" py="lù,hé" />
-		<definition id="二">
-			<item text="[六安]地名，在安徽省。 [六合]地名，在江苏省南京。" />
-		</definition>
-	</char>
+	<!-- Ref:六.xml <char hz="六" py="lù" multi="liù" /> -->
 	<char hz="甪" py="lù" />
-	<char hz="陆" py="lù" multi="liù" main="1" suppressLog="1">
-		<phrase hz="陆地" py="lù,dì" />
-		<definition id="一">
-			<item id="1" text="陆地，高出水面的土地：登~. ~路. ~军." />
-			<item id="2" text="姓。" />
-			<item text="[陆离]形容色彩繁杂：光怪~~." />
-			<item text="[陆续]副词，接连不断：开会的人~~地到了." />
-		</definition>
-	</char>
+	<!-- Ref:陆.xml <char hz="陆" py="lù" multi="liù" main="1" suppressLog="1" /> -->
 	<char hz="录" py="lù" />
 	<char hz="㟤" py="lù" />
 	<char hz="渌" py="lù" />
 	<char hz="逯" py="lù" />
-	<char hz="绿" py="lù" multi="lǜ">
-		<phrase hz="绿林" py="lù,lín" />
-		<phrase hz="鸭绿江" py="yā,lù,jiāng" />
-		<definition id="二">
-			<item text="义同“绿(一)”。 [绿林]1.原指西汉末年聚焦在河北绿林山的农民起义军，后来泛指聚焦山林、反抗封建统治者的人们。 2.旧指上山为匪、抢劫财物的集团。 [鸭绿江]水名。是中国和朝鲜两国的界河。源出吉林省东南中朝边境的白头山，西南流到辽宁省丹东入黄海。" />
-		</definition>
-	</char>
+	<!-- Ref:绿.xml <char hz="绿" py="lù" multi="lǜ" /> -->
 	<char hz="禄" py="lù" />
-	<char hz="碌" py="lù" multi="liù" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="平凡：庸~. [碌碌]平庸，无所作为：庸庸~~." />
-			<item id="2" text="繁忙：忙~." />
-		</definition>
-	</char>
+	<!-- Ref:碌.xml <char hz="碌" py="lù" multi="liù" main="1" suppressLog="1" /> -->
 	<char hz="盝" py="lù" />
 	<char hz="箓" py="lù" />
 	<char hz="醁" py="lù" />
@@ -80,13 +55,7 @@
 	<char hz="鹭" py="lù">
 		<phrase hz="鹭鸶" py="lù,sī" />
 	</char>
-	<char hz="露" py="lù" multi="lòu" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="露水，靠近地面的水蒸气因夜间遇冷凝结成小水珠。 (引)露天，没有遮蔽，在屋外的：风餐~宿. ~营." />
-			<item id="2" text="用药料、果汁等制成的饮料：枇杷~. 果子~. 玫瑰~." />
-			<item id="3" text="显出来，现出来（(连)显-）：~骨. 暴~思想. 揭~. 不~面." />
-		</definition>
-	</char>
+	<!-- Ref:露.xml <char hz="露" py="lù" multi="lòu" main="1" suppressLog="1" /> -->
 	<char hz="僇" py="lù" />
 	<char hz="戮" py="lù" />
 	<char hz="轳" py="lu" />

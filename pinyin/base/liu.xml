@@ -30,24 +30,9 @@
 	<char hz="柳" py="liǔ" />
 	<char hz="绺" py="liǔ" />
 	<char hz="锍" py="liǔ" />
-	<char hz="六" py="liù" multi="lù" main="1" suppressLog="1">
-		<phrase hz="六丁六甲" py="liù,dīng,liù,jiǎ" />
-		<definition id="一">
-			<item id="1" text="数目字。" />
-			<item id="2" text="旧时乐谱记音符号的一个，相当于简谱的“5”。" />
-		</definition>
-	</char>
-	<char hz="陆" py="liù" multi="lù">
-		<definition id="二">
-			<item text="“六”的大写。" />
-		</definition>
-	</char>
-	<char hz="碌" py="liù" multi="lù">
-		<phrase hz="碌碡" py="liù,zhou" />
-		<definition id="二">
-			<item text="[碌碡](-zhou)农具名。圆柱形，用石头做成，用来轧脱谷粒或轧平场院。" />
-		</definition>
-	</char>
+	<!-- Ref:六.xml <char hz="六" py="liù" multi="lù" main="1" suppressLog="1" /> -->
+	<!-- Ref:陆.xml <char hz="陆" py="liù" multi="lù" /> -->
+	<!-- Ref:碌.xml <char hz="碌" py="liù" multi="lù" /> -->
 	<char hz="遛" py="liù">
 		<definition>
 			<item id="1" text="散步，慢慢走，随便走走。" />

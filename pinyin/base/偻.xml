@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="偻" py="lóu" multi="lǚ">
+		<phrase hz="偻㑩" py="lóu,luo" />
+		<definition id="二">
+			<item text="[偻㑩](-luo)旧同“喽啰”。" />
+		</definition>
+	</char>
+	<char hz="偻" py="lǚ" multi="lóu" main="1">
+		<phrase hz="不能偻指" py="bù,néng,lǚ,zhǐ" />
+		<phrase hz="伛偻" py="yǔ,lǚ" />
+		<definition id="一">
+			<item id="1" text="脊背弯曲：伛(yǔ)~." />
+			<item id="2" text="迅速：不能~指（不能迅速指出来）." />
+		</definition>
+	</char>
+</pinyin>

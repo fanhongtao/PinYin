@@ -7,23 +7,10 @@
 	<char hz="侣" py="lǚ" />
 	<char hz="铝" py="lǚ" />
 	<char hz="稆" py="lǚ" />
-	<char hz="捋" py="lǚ" multi="luō">
-		<phrase hz="捋胡子" py="lǚ,hú,zi" />
-		<phrase hz="捋头发" py="lǚ,tóu,fà" />
-		<definition id="二">
-			<item text="用手指顺着抹过去，整理：~胡子. ~头发." />
-		</definition>
-	</char>
+	<!-- Ref:捋.xml <char hz="捋" py="lǚ" multi="luō" /> -->
 	<char hz="旅" py="lǚ" />
 	<char hz="膂" py="lǚ" />
-	<char hz="偻" py="lǚ" multi="lóu" main="1">
-		<phrase hz="不能偻指" py="bù,néng,lǚ,zhǐ" />
-		<phrase hz="伛偻" py="yǔ,lǚ" />
-		<definition id="一">
-			<item id="1" text="脊背弯曲：伛(yǔ)~." />
-			<item id="2" text="迅速：不能~指（不能迅速指出来）." />
-		</definition>
-	</char>
+	<!-- Ref:偻.xml <char hz="偻" py="lǚ" multi="lóu" main="1" /> -->
 	<char hz="屡" py="lǚ" />
 	<char hz="缕" py="lǚ" />
 	<char hz="褛" py="lǚ" />
@@ -32,33 +19,7 @@
 	<char hz="葎" py="lǜ" />
 	<char hz="虑" py="lǜ" />
 	<char hz="滤" py="lǜ" />
-	<char hz="率" py="lǜ" multi="shuài">
-		<phrase hz="出勤率" py="chū,qín,lǜ" />
-		<phrase hz="概率" py="gài,lǜ" info="又称或然率、机会率、机率（几率）或可能性，它是概率论的基本概念。" />
-		<phrase hz="汇率" py="huì,lǜ" info="某国货币对外汇的比价" />
-		<phrase hz="或然率" py="huò,rán,lǜ" info="见“概率”" />
-		<phrase hz="机会率" py="jī,huì,lǜ" info="见“概率”" />
-		<phrase hz="机率" py="jī,lǜ" info="见“概率”" />
-		<phrase hz="利率" py="lì,lǜ" info="利息占本金的百分率" />
-		<phrase hz="利润率" py="lì,rùn,lǜ" info="剩余价值与全部预付资本的比例。" />
-		<phrase hz="频率" py="pín,lǜ" />
-		<phrase hz="曲率" py="qū,lǜ" info="数学上指表明曲线在其上某一点的弯曲程度的数值。" />
-		<phrase hz="收益率" py="shōu,yì,lǜ" />
-		<phrase hz="税率" py="shuì,lǜ" info="计算税额的比率" />
-		<phrase hz="速率" py="sù,lǜ" />
-		<phrase hz="效率" py="xiào,lǜ" />
-		<phrase hz="斜率" py="xié,lǜ" info="由一条直线与X轴形成的角的正切" />
-		<phrase hz="心率" py="xīn,lǜ" info="心搏频率。" />
-		<phrase hz="圆周率" py="yuán,zhōu,lǜ" info="圆周长度与圆的直径长度之比。约等于 3.1415926" />
-		<phrase hz="增长率" py="zēng,zhǎng,lǜ" />
-		<definition id="二">
-			<item text="指两个相关的数在一定条件下的比值：速~. 增长~. 出勤~." />
-		</definition>
-	</char>
-	<char hz="绿" py="lǜ" multi="lù" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="一般草和树叶的颜色，蓝和黄混合成的颜色：红花~叶. ~地. [绿色](转)无公害、无污染的：~~食品." />
-		</definition>
-	</char>
+	<!-- Ref:率.xml <char hz="率" py="lǜ" multi="shuài" /> -->
+	<!-- Ref:绿.xml <char hz="绿" py="lǜ" multi="lù" main="1" suppressLog="1" /> -->
 	<char hz="氯" py="lǜ" />
 </pinyin>

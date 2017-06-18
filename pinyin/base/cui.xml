@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="衰" py="cuī" multi="shuāi">
-		<phrase hz="等衰" py="děng,cuī" />
-		<definition id="二" text="〈古〉">
-			<item id="1" text="等衰，等差，等次，等级。" />
-			<item id="2" text="同“缞”。" />
-		</definition>
-	</char>
+	<!-- Ref:衰.xml <char hz="衰" py="cuī" multi="shuāi" /> -->
 	<char hz="缞" py="cuī">
 		<definition>
 			<item text="古时用粗麻布制成的丧服。也作“衰”。" />

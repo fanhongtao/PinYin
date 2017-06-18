@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="露" py="lòu" multi="lù">
+		<phrase hz="露怯" py="lòu,qiè" />
+		<phrase hz="露马脚" py="lòu,mǎ,jiǎo" />
+		<definition id="二">
+			<item text="义同“露(一)(3)”，用于一些口语词语，如“露怯”，“露马脚”等。" />
+		</definition>
+	</char>
+	<char hz="露" py="lù" multi="lòu" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="露水，靠近地面的水蒸气因夜间遇冷凝结成小水珠。 (引)露天，没有遮蔽，在屋外的：风餐~宿. ~营." />
+			<item id="2" text="用药料、果汁等制成的饮料：枇杷~. 果子~. 玫瑰~." />
+			<item id="3" text="显出来，现出来（(连)显-）：~骨. 暴~思想. 揭~. 不~面." />
+		</definition>
+	</char>
+</pinyin>
