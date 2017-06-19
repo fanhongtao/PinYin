@@ -1,19 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="哩" py="lī" multi="lǐ,li">
-		<phrase hz="哩哩啦啦" py="lī,lī,lā,lā" />
-		<definition id="三">
-			<item text="[哩哩啦啦]形容零零散散或断断续续的样子：瓶子漏了，~~~~地洒了一地. 雨~~~~下了一天." />
-		</definition>
-	</char>
-	<char hz="丽" py="lí" multi="lì">
-		<phrase hz="高丽" py="gāo,lí" />
-		<phrase hz="高句丽" py="gāo,gōu,lí" />
-		<phrase hz="丽水" py="lí,shuǐ" />
-		<definition id="二">
-			<item text="[高丽]1.我国古族名，古国名。又称“高句(gōu)丽”。 2.朝鲜半岛历史上的王朝，即王氏高丽。 [丽水]地名，在浙江省。" />
-		</definition>
-	</char>
+	<!-- Ref:哩.xml <char hz="哩" py="lī" multi="lǐ,li" /> -->
+	<!-- Ref:丽.xml <char hz="丽" py="lí" multi="lì" /> -->
 	<char hz="骊" py="lí" />
 	<char hz="鹂" py="lí" />
 	<char hz="鲡" py="lí" />
@@ -38,22 +26,13 @@
 	<char hz="罹" py="lí">
 		<phrase hz="罹难" py="lí,nàn" />
 	</char>
-	<char hz="蠡" py="lí" multi="lǐ" info="Word主音">
-		<phrase hz="以蠡测海" py="yǐ,lí,cè,hǎi" />
-		<definition id="二">
-			<item text="贝壳做的瓢：以~测海（喻见识浅薄）." />
-		</definition>
-	</char>
+	<!-- Ref:蠡.xml <char hz="蠡" py="lí" multi="lǐ" info="Word主音" /> -->
 	<char hz="劙" py="lí" />
 	<char hz="礼" py="lǐ" />
 	<char hz="李" py="lǐ" />
 	<char hz="里" py="lǐ" />
 	<char hz="俚" py="lǐ" />
-	<char hz="哩" py="lǐ" multi="lī,li" info="Word主音">
-		<definition id="二">
-			<item text="也读作yīnglǐ。英美制长度单位名，1哩等于5280呎，合1609米，现写作“英里”。" />
-		</definition>
-	</char>
+	<!-- Ref:哩.xml <char hz="哩" py="lǐ" multi="lī,li" info="Word主音" /> -->
 	<char hz="浬" py="lǐ" />
 	<char hz="娌" py="lǐ" />
 	<char hz="理" py="lǐ">
@@ -64,11 +43,7 @@
 	<char hz="逦" py="lǐ" />
 	<char hz="澧" py="lǐ" />
 	<char hz="醴" py="lǐ" />
-	<char hz="蠡" py="lǐ" multi="lí" main="1">
-		<definition id="一">
-			<item text="蠡县，地名，在河北省。" />
-		</definition>
-	</char>
+	<!-- Ref:蠡.xml <char hz="蠡" py="lǐ" multi="lí" main="1" /> -->
 	<char hz="力" py="lì" />
 	<char hz="荔" py="lì" />
 	<char hz="历" py="lì" />
@@ -95,12 +70,7 @@
 	<char hz="粒" py="lì" />
 	<char hz="笠" py="lì" />
 	<char hz="吏" py="lì" />
-	<char hz="丽" py="lì" multi="lí" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="好看，漂亮：美~. 秀~. 壮~. 富~. 风和日~." />
-			<item id="2" text="附着（(连)附-）。" />
-		</definition>
-	</char>
+	<!-- Ref:丽.xml <char hz="丽" py="lì" multi="lí" main="1" suppressLog="1" /> -->
 	<char hz="郦" py="lì" />
 	<char hz="俪" py="lì" />
 	<char hz="利" py="lì">
@@ -121,16 +91,8 @@
 	<!-- Ref:栎.xml <char hz="栎" py="lì" multi="yuè" main="1" /> -->
 	<char hz="轹" py="lì" />
 	<char hz="砾" py="lì" />
-	<char hz="跞" py="lì" multi="luò" main="1">
-		<definition id="一">
-			<item text="走、跨越：骐骥一~，不能千里." />
-		</definition>
-	</char>
-	<char hz="鬲" py="lì" multi="gé">
-		<definition id="一">
-			<item text="古代炊具，形状像鼎而足部中空。" />
-		</definition>
-	</char>
+	<!-- Ref:跞.xml <char hz="跞" py="lì" multi="luò" main="1" /> -->
+	<!-- Ref:鬲.xml <char hz="鬲" py="lì" multi="gé" /> -->
 	<char hz="栗" py="lì" />
 	<char hz="傈" py="lì">
 		<phrase hz="傈僳族" py="lì,sù,zú" />
@@ -138,11 +100,7 @@
 	<char hz="溧" py="lì" />
 	<char hz="篥" py="lì" />
 	<char hz="詈" py="lì" />
-	<char hz="哩" py="li" multi="lī,lǐ" main="1">
-		<definition id="一">
-			<item text="助词，同“呢(二)”。" />
-		</definition>
-	</char>
+	<!-- Ref:哩.xml <char hz="哩" py="li" multi="lī,lǐ" main="1" /> -->
 	<char hz="蜊" py="li" />
 	<char hz="璃" py="li" />
 </pinyin>

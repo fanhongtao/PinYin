@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鬲" py="gé" multi="lì" main="1" suppressLog="1">
+		<phrase hz="鬲津河" py="gé,jīn,hé" />
+		<definition id="二">
+			<item text="[鬲津河]古水名，旧称四女寺减河，即今漳卫新河，是河北、山东两省的界河。" />
+		</definition>
+	</char>
+	<char hz="鬲" py="lì" multi="gé">
+		<definition id="一">
+			<item text="古代炊具，形状像鼎而足部中空。" />
+		</definition>
+	</char>
+</pinyin>

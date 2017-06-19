@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拉" py="lā" multi="lá" main="1" suppressLog="1">
+		<phrase hz="拉倒" py="lā,dǎo" />
+		<phrase hz="拉祜族" py="lā,hù,zú" />
+		<definition id="一">
+			<item id="1" text="牵，扯，拽：~车. 把渔网~上来. (引)1.使延长：~长声儿. 2.拉拢，联络：~关系. [拉倒](-dǎo)算了，作罢：他不来~~. [拉杂]杂乱，没条理。" />
+			<item id="2" text="排泄粪便：~屎." />
+			<item id="3" text="用车运：~货. ~肥料." />
+			<item id="4" text="帮助：他有困难，应该~他一把." />
+			<item id="5" text="牵累，牵扯：一人做事一人当，不要~上别人." />
+			<item id="6" text="使某些乐器发出声音：~小提琴. ~二胡." />
+			<item id="7" text="闲谈：~话. ~家常." />
+			<item id="8" text="(la)放在某些动词后面，构成复合词。如扒拉、趿拉、拨拉等。" />
+			<item text="[拉祜族](-hù-)我国少数民族。" />
+			<item text="[拉美]指拉丁美洲，美国以南的美洲地区。" />
+		</definition>
+	</char>
+	<char hz="拉" py="lá" multi="lā">
+		<definition id="二">
+			<item text="割，用刀把东西切开一道缝或切断：~了一个口子. ~下一块肉." />
+		</definition>
+	</char>
+</pinyin>

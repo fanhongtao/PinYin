@@ -24,11 +24,7 @@
 			<item text="湖：湖~. 血~（一大摊血）. [梁山泊]古湖泊名，在今山东省西南部。" />
 		</definition>
 	</char>
-	<char hz="泺" py="pō" multi="luò">
-		<definition id="二">
-			<item text="同“泊”(pō)，湖泊。" />
-		</definition>
-	</char>
+	<!-- Ref:泺.xml <char hz="泺" py="pō" multi="luò" /> -->
 	<char hz="泼" py="pō">
 		<phrase hz="撒泼" py="sā,pō" />
 	</char>

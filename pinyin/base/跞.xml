@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="跞" py="lì" multi="luò" main="1">
+		<definition id="一">
+			<item text="走、跨越：骐骥一~，不能千里." />
+		</definition>
+	</char>
+	<char hz="跞" py="luò" multi="lì">
+		<phrase hz="卓跞" py="zhuó,luò" />
+		<phrase hz="卓荦" py="zhuó,luò" />
+		<definition id="二">
+			<item text="[卓跞][卓荦]卓绝：才华~~." />
+		</definition>
+	</char>
+</pinyin>

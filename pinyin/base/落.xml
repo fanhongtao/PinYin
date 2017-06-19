@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="落" py="là" multi="lào,luò">
+		<phrase hz="丢三落四" py="diū,sān,là,sì" />
+		<definition id="三">
+			<item text="丢下，遗漏：丢三~四. ~了一个字. 大家走得快，把他~下了." />
+		</definition>
+	</char>
+	<char hz="落" py="lào" multi="là,luò">
+		<phrase hz="落炕" py="lào,kàng" />
+		<phrase hz="落枕" py="lào,zhěn" />
+		<definition id="二">
+			<item text="同“落(一)”，用于一些口语词，如“落炕”、“落枕”等。" />
+		</definition>
+	</char>
+	<char hz="落" py="luò" multi="là,lào" main="1" suppressLog="1">
+		<phrase hz="没落" py="mò,luò" />
+		<phrase hz="落泊" py="luò,bó" />
+		<phrase hz="落难" py="luò,nàn" />
+		<phrase hz="落魄" py="luò,pò" />
+		<phrase hz="落拓" py="luò,tuò" />
+		<phrase hz="落叶" py="luò,yè" />
+		<definition id="一">
+			<item id="1" text="掉下来，往下降：~泪. 飞机降~. 太阳~山了." />
+			<item id="2" text="衰败：没(mò)~. 破~户." />
+			<item id="3" text="遗留在后面：~后. ~伍. ~选." />
+			<item id="4" text="停留：安家~户. ~脚. 小鸟在树上~着. (引)留下：不~痕迹." />
+			<item id="5" text="停留或聚居的地方：村~. 下~. 着~. [部落]1.由若干血缘相近的氏族结合成的集体。 2.我国史书上多指少数民族。" />
+			<item id="6" text="归属：今天政权~在人民手里了. (引)得到：~不是. ~埋怨. ~了个好名誉." />
+			<item id="7" text="古代指庆祝建筑物完工：新屋~成." />
+			<item id="8" text="写下：~款. ~账." />
+			<item text="[落泊](-bó)[落魄](-pò)[落拓](-tuò)1.潦倒失意。 2.豪迈，不拘束。" />
+		</definition>
+	</char>
+</pinyin>

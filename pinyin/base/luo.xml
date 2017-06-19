@@ -1,13 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:捋.xml <char hz="捋" py="luō" multi="lǚ" main="1" /> -->
-	<char hz="啰" py="luō" multi="luó,luo">
-		<phrase hz="啰唆" py="luō,suo" />
-		<phrase hz="啰嗦" py="luō,suo" />
-		<definition id="三">
-			<item text="[啰唆][啰嗦](-suo)1.说话絮絮叨叨。 2.办事使人感觉麻烦。" />
-		</definition>
-	</char>
+	<!-- Ref:啰.xml <char hz="啰" py="luō" multi="luó,luo" /> -->
 	<char hz="罗" py="luó" />
 	<char hz="萝" py="luó">
 		<phrase hz="萝卜" py="luó,bo" />
@@ -16,12 +10,7 @@
 			<item text="[萝卜](-bo)二年生草木植物，种类很多，块根也叫萝卜，可吃，种子可入药。" />
 		</definition>
 	</char>
-	<char hz="啰" py="luó" multi="luō,luo">
-		<phrase hz="啰唣" py="luó,zào" />
-		<definition id="一">
-			<item text="[啰唣](-zào)吵闹。" />
-		</definition>
-	</char>
+	<!-- Ref:啰.xml <char hz="啰" py="luó" multi="luō,luo" /> -->
 	<char hz="逻" py="luó" />
 	<char hz="猡" py="luó" />
 	<char hz="椤" py="luó" />
@@ -38,89 +27,22 @@
 		<phrase hz="瘰疬" py="luǒ,lì" />
 	</char>
 	<char hz="蠃" py="luǒ" />
-	<char hz="泺" py="luò" multi="pō" main="1">
-		<phrase hz="泺水" py="luǒ,shuǐ" info="古水名，在今山东省济南。" />
-		<phrase hz="泺口" py="luǒ,kǒu" info="地名，在山东省济南。" />
-		<definition id="一">
-			<item text="泺水，古水名，在今山东省济南。 [泺口]地名，在山东省济南。" />
-		</definition>
-	</char>
-	<char hz="跞" py="luò" multi="lì">
-		<phrase hz="卓跞" py="zhuó,luò" />
-		<phrase hz="卓荦" py="zhuó,luò" />
-		<definition id="二">
-			<item text="[卓跞][卓荦]卓绝：才华~~." />
-		</definition>
-	</char>
+	<!-- Ref:泺.xml <char hz="泺" py="luò" multi="pō" main="1" /> -->
+	<!-- Ref:跞.xml <char hz="跞" py="luò" multi="lì" /> -->
 	<char hz="荦" py="luò" />
 	<char hz="洛" py="luò" />
 	<char hz="骆" py="luò">
 		<phrase hz="骆驼" py="luò,tuo" />
 		<phrase hz="橐驼" py="tuó,tuó" />
 	</char>
-	<char hz="络" py="luò" multi="lào" main="1">
-		<phrase hz="缠络" py="chán,luò" info="缠绕。" />
-		<phrase hz="活络" py="huó,luò" info="1.灵活，不拘泥；通达。2.含糊，不明确。3.摇动，不穏定。" />
-		<phrase hz="经络" py="jīng,luò" info="中医指人体内血气运行通路，包括主干和分支" />
-		<phrase hz="橘络" py="jú,luò" info="橘皮与橘瓣之间网络形的纤维。可入药，治口渴、呕吐等。参阅 明 李时珍 《本草纲目·果二·橘》。" />
-		<phrase hz="联络" py="lián,luò" />
-		<phrase hz="络绎" py="luò,yì" />
-		<phrase hz="笼络" py="lǒng,luò" />
-		<phrase hz="脉络" py="mài,luò" />
-		<phrase hz="丝瓜络" py="sī,guā,luò" />
-		<phrase hz="网络" py="wǎng,luò" />
-		<phrase hz="缨络" py="yīng,luò" info="1.同“璎珞”。2.缠绕;束缚。比喻世俗的缠绕。" />
-		<definition id="一">
-			<item id="1" text="像网子那样的东西：脉~. 橘~. 丝瓜~." />
-			<item id="2" text="用网状物兜住，笼罩：用络(lào)子~住." />
-			<item id="3" text="缠绕：~纱. ~线." />
-			<item text="[络绎](-yì)连续不断：参观的人~~不绝." />
-		</definition>
-	</char>
+	<!-- Ref:络.xml <char hz="络" py="luò" multi="lào" main="1" /> -->
 	<char hz="珞" py="luò" />
-	<char hz="烙" py="luò" multi="lào">
-		<phrase hz="炮烙" py="páo,luò" />
-		<definition id="二">
-			<item text="见“炮”字条“炮烙”(páo-)。" />
-		</definition>
-	</char>
-	<char hz="硌" py="luò" multi="gè">
-		<definition id="一">
-			<item text="山上的大石。" />
-		</definition>
-	</char>
-	<char hz="落" py="luò" multi="là,lào" main="1" suppressLog="1">
-		<phrase hz="没落" py="mò,luò" />
-		<phrase hz="落泊" py="luò,bó" />
-		<phrase hz="落难" py="luò,nàn" />
-		<phrase hz="落魄" py="luò,pò" />
-		<phrase hz="落拓" py="luò,tuò" />
-		<phrase hz="落叶" py="luò,yè" />
-		<definition id="一">
-			<item id="1" text="掉下来，往下降：~泪. 飞机降~. 太阳~山了." />
-			<item id="2" text="衰败：没(mò)~. 破~户." />
-			<item id="3" text="遗留在后面：~后. ~伍. ~选." />
-			<item id="4" text="停留：安家~户. ~脚. 小鸟在树上~着. (引)留下：不~痕迹." />
-			<item id="5" text="停留或聚居的地方：村~. 下~. 着~. [部落]1.由若干血缘相近的氏族结合成的集体。 2.我国史书上多指少数民族。" />
-			<item id="6" text="归属：今天政权~在人民手里了. (引)得到：~不是. ~埋怨. ~了个好名誉." />
-			<item id="7" text="古代指庆祝建筑物完工：新屋~成." />
-			<item id="8" text="写下：~款. ~账." />
-			<item text="[落泊](-bó)[落魄](-pò)[落拓](-tuò)1.潦倒失意。 2.豪迈，不拘束。" />
-		</definition>
-	</char>
+	<!-- Ref:烙.xml <char hz="烙" py="luò" multi="lào" /> -->
+	<!-- Ref:硌.xml <char hz="硌" py="luò" multi="gè" /> -->
+	<!-- Ref:落.xml <char hz="落" py="luò" multi="là,lào" main="1" suppressLog="1" /> -->
 	<char hz="摞" py="luò" />
-	<char hz="漯" py="luò" multi="tà" main="1">
-		<phrase hz="漯河" py="luò,hé" duoyin="tà,hé" info="地名，在河南省。" />
-		<definition id="一">
-			<item text="[漯河]地名，在河南省。" />
-		</definition>
-	</char>
+	<!-- Ref:漯.xml <char hz="漯" py="luò" multi="tà" main="1" /> -->
 	<char hz="雒" py="luò" />
 	<char hz="㑩" py="luò" />
-	<char hz="啰" py="luo" multi="luō,luó" main="1">
-		<definition id="二">
-			<item id="1" text="助词，作用大致和“了(le)(2)”一样：你去就成~." />
-			<item id="2" text="见“喽”字条“喽啰”(lóu-)。" />
-		</definition>
-	</char>
+	<!-- Ref:啰.xml <char hz="啰" py="luo" multi="luō,luó" main="1" /> -->
 </pinyin>

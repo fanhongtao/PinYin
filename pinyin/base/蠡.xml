@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蠡" py="lí" multi="lǐ" info="Word主音">
+		<phrase hz="以蠡测海" py="yǐ,lí,cè,hǎi" />
+		<definition id="二">
+			<item text="贝壳做的瓢：以~测海（喻见识浅薄）." />
+		</definition>
+	</char>
+	<char hz="蠡" py="lǐ" multi="lí" main="1">
+		<definition id="一">
+			<item text="蠡县，地名，在河北省。" />
+		</definition>
+	</char>
+</pinyin>

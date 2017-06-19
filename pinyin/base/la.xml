@@ -3,68 +3,25 @@
 	<char hz="垃" py="lā">
 		<phrase hz="垃圾" py="lā,jī" />
 	</char>
-	<char hz="拉" py="lā" multi="lá" main="1" suppressLog="1">
-		<phrase hz="拉倒" py="lā,dǎo" />
-		<phrase hz="拉祜族" py="lā,hù,zú" />
-		<definition id="一">
-			<item id="1" text="牵，扯，拽：~车. 把渔网~上来. (引)1.使延长：~长声儿. 2.拉拢，联络：~关系. [拉倒](-dǎo)算了，作罢：他不来~~. [拉杂]杂乱，没条理。" />
-			<item id="2" text="排泄粪便：~屎." />
-			<item id="3" text="用车运：~货. ~肥料." />
-			<item id="4" text="帮助：他有困难，应该~他一把." />
-			<item id="5" text="牵累，牵扯：一人做事一人当，不要~上别人." />
-			<item id="6" text="使某些乐器发出声音：~小提琴. ~二胡." />
-			<item id="7" text="闲谈：~话. ~家常." />
-			<item id="8" text="(la)放在某些动词后面，构成复合词。如扒拉、趿拉、拨拉等。" />
-			<item text="[拉祜族](-hù-)我国少数民族。" />
-			<item text="[拉美]指拉丁美洲，美国以南的美洲地区。" />
-		</definition>
-	</char>
-	<char hz="啦" py="lā" multi="la" main="1">
-		<phrase hz="呼啦" py="hū,lā" info="象声词。形容风吹物体发出的声音。" />
-		<phrase hz="呼啦啦" py="hū,lā,lā" info="亦作“ 呼喇喇 ”。象声词。多形容风声、流水声、鸟振翅声等。" />
-		<phrase hz="叽哩呱啦" py="jī,lǐ,guā,lā" info="形容嚷嚷声或说的话别人听不懂。" />
-		<phrase hz="哇啦" py="wā,lā" info="形容吵闹的人声" />
-		<definition id="一">
-			<item text="拟声词：呼~~. 哇~乱叫. 叽哩呱~." />
-		</definition>
-	</char>
+	<!-- Ref:拉.xml <char hz="拉" py="lā" multi="lá" main="1" suppressLog="1" /> -->
+	<!-- Ref:啦.xml <char hz="啦" py="lā" multi="la" main="1" /> -->
 	<char hz="邋" py="lā">
 		<phrase hz="邋遢" py="lā,ta" />
 	</char>
 	<char hz="旯" py="lá" />
-	<char hz="拉" py="lá" multi="lā">
-		<definition id="二">
-			<item text="割，用刀把东西切开一道缝或切断：~了一个口子. ~下一块肉." />
-		</definition>
-	</char>
+	<!-- Ref:拉.xml <char hz="拉" py="lá" multi="lā" /> -->
 	<char hz="砬" py="lá" />
-	<char hz="剌" py="lá" multi="là">
-		<definition id="二">
-			<item text="划破，割开。 同“拉”(lá)。" />
-		</definition>
-	</char>
+	<!-- Ref:剌.xml <char hz="剌" py="lá" multi="là" /> -->
 	<char hz="喇" py="lǎ">
 		<phrase hz="喇叭" py="lǎ,ba" />
 		<phrase hz="喇嘛" py="lǎ,ma" />
 	</char>
-	<char hz="剌" py="là" multi="lá" main="1">
-		<phrase hz="乖剌" py="guāi,là" />
-		<phrase hz="剌谬" py="là,miù" />
-		<phrase hz="剌戾" py="là,lì" info="违逆。" />
-		<definition id="一">
-			<item text="〈古〉违背常情、事理，乖张：乖~. ~谬." />
-		</definition>
-	</char>
+	<!-- Ref:剌.xml <char hz="剌" py="là" multi="lá" main="1" /> -->
 	<char hz="瘌" py="là">
 		<phrase hz="瘌痢" py="là,lì" />
 	</char>
 	<char hz="辣" py="là" />
-	<char hz="落" py="là" multi="lào,luò">
-		<phrase hz="丢三落四" py="diū,sān,là,sì" />
-		<definition id="三">
-			<item text="丢下，遗漏：丢三~四. ~了一个字. 大家走得快，把他~下了." />
-		</definition>
-	</char>
+	<!-- Ref:落.xml <char hz="落" py="là" multi="lào,luò" /> -->
 	<char hz="腊" py="là" multi="xī" main="1">
 		<phrase hz="伏腊" py="fú,là" info="1.亦作“ 伏臈 ”。古代两种祭祀的名称。“伏”在夏季伏日，“腊”在农历十二月。2.指伏祭和腊祭之日，或泛指节日。3.借指生活或生活所需的物质资料。" />
 		<phrase hz="腊八" py="là,bā" info="农历十二月初八。民间有在这一天喝腊八粥的习俗" />
@@ -88,10 +45,6 @@
 		</definition>
 	</char>
 	<char hz="镴" py="là" />
-	<char hz="啦" py="la" multi="lā">
-		<definition id="二">
-			<item text="助词，“了”(le)“啊”(a)合音，作用大致和“了(le)(2)”接近，但感情较为强烈：他已经来~. 他早就走~." />
-		</definition>
-	</char>
+	<!-- Ref:啦.xml <char hz="啦" py="la" multi="lā" /> -->
 	<char hz="鞡" py="la" />
 </pinyin>

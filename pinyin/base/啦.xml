@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="啦" py="lā" multi="la" main="1">
+		<phrase hz="呼啦" py="hū,lā" info="象声词。形容风吹物体发出的声音。" />
+		<phrase hz="呼啦啦" py="hū,lā,lā" info="亦作“ 呼喇喇 ”。象声词。多形容风声、流水声、鸟振翅声等。" />
+		<phrase hz="叽哩呱啦" py="jī,lǐ,guā,lā" info="形容嚷嚷声或说的话别人听不懂。" />
+		<phrase hz="哇啦" py="wā,lā" info="形容吵闹的人声" />
+		<definition id="一">
+			<item text="拟声词：呼~~. 哇~乱叫. 叽哩呱~." />
+		</definition>
+	</char>
+	<char hz="啦" py="la" multi="lā">
+		<definition id="二">
+			<item text="助词，“了”(le)“啊”(a)合音，作用大致和“了(le)(2)”接近，但感情较为强烈：他已经来~. 他早就走~." />
+		</definition>
+	</char>
+</pinyin>

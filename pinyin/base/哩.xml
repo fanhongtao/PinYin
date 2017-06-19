@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哩" py="lī" multi="lǐ,li">
+		<phrase hz="哩哩啦啦" py="lī,lī,lā,lā" />
+		<definition id="三">
+			<item text="[哩哩啦啦]形容零零散散或断断续续的样子：瓶子漏了，~~~~地洒了一地. 雨~~~~下了一天." />
+		</definition>
+	</char>
+	<char hz="哩" py="lǐ" multi="lī,li" info="Word主音">
+		<definition id="二">
+			<item text="也读作yīnglǐ。英美制长度单位名，1哩等于5280呎，合1609米，现写作“英里”。" />
+		</definition>
+	</char>
+	<char hz="哩" py="li" multi="lī,lǐ" main="1">
+		<definition id="一">
+			<item text="助词，同“呢(二)”。" />
+		</definition>
+	</char>
+</pinyin>

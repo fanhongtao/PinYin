@@ -73,12 +73,7 @@
 	</char>
 	<!-- Ref:搁.xml <char hz="搁" py="gé" multi="gē" /> -->
 	<char hz="骼" py="gé" />
-	<char hz="鬲" py="gé" multi="lì" main="1" suppressLog="1">
-		<phrase hz="鬲津河" py="gé,jīn,hé" />
-		<definition id="二">
-			<item text="[鬲津河]古水名，旧称四女寺减河，即今漳卫新河，是河北、山东两省的界河。" />
-		</definition>
-	</char>
+	<!-- Ref:鬲.xml <char hz="鬲" py="gé" multi="lì" main="1" suppressLog="1" /> -->
 	<char hz="隔" py="gé">
 		<phrase hz="隔阂" py="gé,hé" />
 	</char>
@@ -101,11 +96,7 @@
 	<!-- Ref:葛.xml <char hz="葛" py="gě" multi="gé" main="1" /> -->
 	<!-- Ref:个.xml <char hz="个" py="gè" multi="gě" main="1" suppressLog="1" /> -->
 	<!-- Ref:各.xml <char hz="各" py="gè" multi="gě" main="1" suppressLog="1" /> -->
-	<char hz="硌" py="gè" multi="luò" main="1">
-		<definition id="二">
-			<item text="凸起的硬东西跟身体接触使身体感到难受或受到损伤：~脚. ~牙." />
-		</definition>
-	</char>
+	<!-- Ref:硌.xml <char hz="硌" py="gè" multi="luò" main="1" /> -->
 	<char hz="铬" py="gè" />
 	<char hz="虼" py="gè">
 		<phrase hz="虼蚤" py="gè,zao" />

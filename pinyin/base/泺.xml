@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泺" py="luò" multi="pō" main="1">
+		<phrase hz="泺水" py="luǒ,shuǐ" info="古水名，在今山东省济南。" />
+		<phrase hz="泺口" py="luǒ,kǒu" info="地名，在山东省济南。" />
+		<definition id="一">
+			<item text="泺水，古水名，在今山东省济南。 [泺口]地名，在山东省济南。" />
+		</definition>
+	</char>
+	<char hz="泺" py="pō" multi="luò">
+		<definition id="二">
+			<item text="同“泊”(pō)，湖泊。" />
+		</definition>
+	</char>
+</pinyin>

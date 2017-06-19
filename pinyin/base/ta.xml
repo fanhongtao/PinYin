@@ -64,11 +64,6 @@
 	</char>
 	<char hz="榻" py="tà" />
 	<char hz="蹋" py="tà" />
-	<char hz="漯" py="tà" multi="luò">
-		<!-- <phrase hz="漯河" py="tà,hé" duoyin="luò,hé" info="古水名，在今山东省。"/> -->
-		<definition id="二">
-			<item text="漯河，古水名，在今山东省。" />
-		</definition>
-	</char>
+	<!-- Ref:漯.xml <char hz="漯" py="tà" multi="luò" /> -->
 	<char hz="遢" py="ta" />
 </pinyin>

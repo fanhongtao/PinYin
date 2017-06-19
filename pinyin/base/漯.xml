@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="漯" py="luò" multi="tà" main="1">
+		<phrase hz="漯河" py="luò,hé" duoyin="tà,hé" info="地名，在河南省。" />
+		<definition id="一">
+			<item text="[漯河]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="漯" py="tà" multi="luò">
+		<!-- <phrase hz="漯河" py="tà,hé" duoyin="luò,hé" info="古水名，在今山东省。"/> -->
+		<definition id="二">
+			<item text="漯河，古水名，在今山东省。" />
+		</definition>
+	</char>
+</pinyin>

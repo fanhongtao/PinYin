@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="剌" py="lá" multi="là">
+		<definition id="二">
+			<item text="划破，割开。 同“拉”(lá)。" />
+		</definition>
+	</char>
+	<char hz="剌" py="là" multi="lá" main="1">
+		<phrase hz="乖剌" py="guāi,là" />
+		<phrase hz="剌谬" py="là,miù" />
+		<phrase hz="剌戾" py="là,lì" info="违逆。" />
+		<definition id="一">
+			<item text="〈古〉违背常情、事理，乖张：乖~. ~谬." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="络" py="lào" multi="luò">
+		<phrase hz="络子" py="lào,zi" />
+		<definition id="二">
+			<item text="同“络(一)(1)”，用于一些口语词。 [络子](-zi)1.用线绳结成的网状袋子。 2.绕线等的器具。" />
+		</definition>
+	</char>
+	<char hz="络" py="luò" multi="lào" main="1">
+		<phrase hz="缠络" py="chán,luò" info="缠绕。" />
+		<phrase hz="活络" py="huó,luò" info="1.灵活，不拘泥；通达。2.含糊，不明确。3.摇动，不穏定。" />
+		<phrase hz="经络" py="jīng,luò" info="中医指人体内血气运行通路，包括主干和分支" />
+		<phrase hz="橘络" py="jú,luò" info="橘皮与橘瓣之间网络形的纤维。可入药，治口渴、呕吐等。参阅 明 李时珍 《本草纲目·果二·橘》。" />
+		<phrase hz="联络" py="lián,luò" />
+		<phrase hz="络绎" py="luò,yì" />
+		<phrase hz="笼络" py="lǒng,luò" />
+		<phrase hz="脉络" py="mài,luò" />
+		<phrase hz="丝瓜络" py="sī,guā,luò" />
+		<phrase hz="网络" py="wǎng,luò" />
+		<phrase hz="缨络" py="yīng,luò" info="1.同“璎珞”。2.缠绕;束缚。比喻世俗的缠绕。" />
+		<definition id="一">
+			<item id="1" text="像网子那样的东西：脉~. 橘~. 丝瓜~." />
+			<item id="2" text="用网状物兜住，笼罩：用络(lào)子~住." />
+			<item id="3" text="缠绕：~纱. ~线." />
+			<item text="[络绎](-yì)连续不断：参观的人~~不绝." />
+		</definition>
+	</char>
+</pinyin>

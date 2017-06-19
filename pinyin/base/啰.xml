@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="啰" py="luō" multi="luó,luo">
+		<phrase hz="啰唆" py="luō,suo" />
+		<phrase hz="啰嗦" py="luō,suo" />
+		<definition id="三">
+			<item text="[啰唆][啰嗦](-suo)1.说话絮絮叨叨。 2.办事使人感觉麻烦。" />
+		</definition>
+	</char>
+	<char hz="啰" py="luó" multi="luō,luo">
+		<phrase hz="啰唣" py="luó,zào" />
+		<definition id="一">
+			<item text="[啰唣](-zào)吵闹。" />
+		</definition>
+	</char>
+	<char hz="啰" py="luo" multi="luō,luó" main="1">
+		<definition id="二">
+			<item id="1" text="助词，作用大致和“了(le)(2)”一样：你去就成~." />
+			<item id="2" text="见“喽”字条“喽啰”(lóu-)。" />
+		</definition>
+	</char>
+</pinyin>
