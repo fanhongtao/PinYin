@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瘩" py="dá" multi="da" main="1">
+		<phrase hz="瘩背" py="dá,bèi" info="中医称生在背部的痈。" />
+		<definition id="一">
+			<item text="[瘩背]中医称生在背部的痈。也叫“搭手”。" />
+		</definition>
+	</char>
+	<char hz="瘩" py="da" multi="dá">
+		<phrase hz="疙瘩" py="gē,da" />
+		<phrase hz="饹瘩" py="gē,da" info="面疙瘩。一种面食" />
+		<phrase hz="疙疙瘩瘩" py="gē,gē,da,da" />
+		<definition id="二">
+			<item text="见“疙”字条“疙瘩”(gē-)。" />
+		</definition>
+	</char>
+</pinyin>

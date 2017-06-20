@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="铊" py="tā" multi="tuó" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Tl，银白色，质柔软。铊的化合物有毒。" />
+		</definition>
+	</char>
+	<char hz="铊" py="tuó" multi="tā">
+		<phrase hz="秤铊" py="chèng,tuó" />
+		<phrase hz="称铊" py="chèng,tuó" />
+		<phrase hz="秤不离铊" py="chèng,bù,lí,tuó" />
+		<definition id="二">
+			<item text="同“砣(1)”。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嗒" py="dā" multi="tà">
+		<phrase hz="吧嗒" py="bā,dā" info="1.象声词，表示一种双音的声响。2.嘴唇开闭作声--用于表示惊奇、警告等。3.〈方〉抽[旱烟]" />
+		<phrase hz="嗒嗒" py="dā,dā" />
+		<phrase hz="嘀嗒" py="dī,dā" info="象声词。形容水滴落下或钟表摆动的声音。" />
+		<phrase hz="噶嗒" py="gá,dā" info="象声词。" />
+		<phrase hz="咕嗒" py="gū,dā" info="象声词。大口喝水或酒的声音" />
+		<phrase hz="呱嗒" py="guā,dā" info="1.短促而尖锐的清脆声。2.因不高兴而板起脸。3.说话--含贬义。4.[以不入耳的语言]讽刺、挖苦" />
+		<phrase hz="咔嗒" py="kā,dā" info="1.轻脆尖锐的响声(如扣手枪扳机或锁门发出的响声)。2.尤指坚硬物体碰撞时产生的格格、咔嗒响声" />
+		<phrase hz="啪嗒" py="pā,dā" info="形容东西落地或互相撞击的声音" />
+		<definition id="二">
+			<item text="拟声词，马蹄声、机关枪声等（叠）。" />
+		</definition>
+	</char>
+	<char hz="嗒" py="tà" multi="dā" main="1">
+		<phrase hz="嗒丧" py="tà,sàng" />
+		<phrase hz="嗒然" py="tà,rán" info="形容懊丧的神情" />
+		<definition id="一">
+			<item text="失意的样子：~丧. ~然若失." />
+		</definition>
+	</char>
+</pinyin>

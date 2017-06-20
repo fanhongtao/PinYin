@@ -2,28 +2,11 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="呆" py="dāi" />
 	<char hz="呔" py="dāi" />
-	<char hz="待" py="dāi" multi="dài">
-		<phrase hz="待了一会儿" py="dāi,le,yī,huìr," />
-		<phrase hz="待一会儿" py="dāi,yī,huìr," />
-		<definition id="二">
-			<item text="停留，逗留，迟延，也作“呆”：你~一会儿再走." />
-		</definition>
-	</char>
+	<!-- Ref:待.xml <char hz="待" py="dāi" multi="dài" /> -->
 	<char hz="歹" py="dǎi" />
-	<char hz="逮" py="dǎi" multi="dài" info="Word主音">
-		<definition id="二">
-			<item text="捉，捕，用于口语：~老鼠. ~蝗虫." />
-		</definition>
-	</char>
+	<!-- Ref:逮.xml <char hz="逮" py="dǎi" multi="dài" info="Word主音" /> -->
 	<char hz="傣" py="dǎi" />
-	<char hz="大" py="dài" multi="dà">
-		<phrase hz="大夫" py="dài,fu" duoyin="dà,fū" info="医生。" />
-		<phrase hz="大城" py="dài,chéng" info="县名。在河北省" />
-		<!-- <phrase hz="大王" py="dài,wang" duoyin="dà,wáng" info="旧戏曲、小说中对国王、山寨头领或大帮强盗首领的称呼。"/> -->
-		<definition id="二">
-			<item text="[大城]地名，在河北省。 [大夫](-fu)医生。（另dàfū，见“大”dà） [大王](-wang)旧戏曲、小说中对国王、山寨头领或大帮强盗首领的称呼。（另dàwáng，见“大”dà）" />
-		</definition>
-	</char>
+	<!-- Ref:大.xml <char hz="大" py="dài" multi="dà" /> -->
 	<char hz="轪" py="dài" />
 	<char hz="代" py="dài" />
 	<char hz="岱" py="dài" />
@@ -37,52 +20,9 @@
 	<char hz="殆" py="dài" />
 	<char hz="怠" py="dài" />
 	<char hz="带" py="dài" />
-	<char hz="待" py="dài" multi="dāi" main="1" suppressLog="1">
-		<phrase hz="担待" py="dān,dài" info="1.不予计较;原谅。2.指承担责任"/>
-		<phrase hz="待机" py="dài,jī" info="等待适当的机会;伺机"/>
-		<phrase hz="待价而沽" py="dài,jià,ér,gū"/>
-		<phrase hz="待见" py="dài,jiàn" info="喜爱。"/>
-		<phrase hz="待人接物" py="dài,rén,jiē,wù" />
-		<phrase hz="待遇" py="dài,yù" />
-		<phrase hz="等待" py="děng,dài" />
-		<phrase hz="对待" py="duì,dài" />
-		<phrase hz="管待" py="guǎn,dài" info="照顾接待;用饭菜等招待"/>
-		<phrase hz="厚待" py="hòu,dài" />
-		<phrase hz="交待" py="jiāo,dài" />
-		<phrase hz="接待" py="jiē,dài" />
-		<phrase hz="可待" py="kě,dài" info="1.可以期待。2.就要、就会。"/>
-		<phrase hz="款待" py="kuǎn,dài" />
-		<phrase hz="亏待" py="kuī,dài" />
-		<phrase hz="虐待" py="nüè,dài" />
-		<phrase hz="迫不及待" py="pò,bù,jí,dài" />
-		<phrase hz="期待" py="qī,dài" />
-		<phrase hz="时不我待" py="shí,bù,wǒ,dài" />
-		<phrase hz="拭目以待" py="shì,mù,yǐ,dài" />
-		<phrase hz="守株待兔" py="shǒu,zhū,dài,tù" />
-		<phrase hz="虚位以待" py="xū,wèi,yǐ,dài" />
-		<phrase hz="严阵以待" py="yán,zhèn,yǐ,dài" />
-		<phrase hz="以逸待劳" py="yǐ,yì,dài,láo" />
-		<phrase hz="优待" py="yōu,dài" />
-		<phrase hz="招待" py="zhāo,dài" />
-		<phrase hz="自不待言" py="zì,bú,dài,yán" />
-		<phrase hz="整装待发" py="zhěng,zhuāng,dài,fā" />
-		<phrase hz="指日可待" py="zhǐ,rì,kě,dài" />
-		<definition id="一">
-			<item id="1" text="等，等候（(连)等-）：~业. ~机出击. 尚~研究." />
-			<item id="2" text="对待，招待：~人接物. 大家~我太好了. ~客. [待遇]在社会上享有的权利、地位等：政治~~. 物质~~. 特指工资、食宿等：调整~~." />
-			<item id="3" text="需要：自不~言." />
-			<item id="4" text="将，要（古典戏曲小说和现代某些方言的用法）：正~出门，有人来了." />
-		</definition>
-	</char>
+	<!-- Ref:待.xml <char hz="待" py="dài" multi="dāi" main="1" suppressLog="1" /> -->
 	<char hz="埭" py="dài" />
-	<char hz="逮" py="dài" multi="dǎi" main="1">
-		<phrase hz="逮捕" py="dài,bǔ" />
-		<phrase hz="力有未逮" py="lì,yǒu,wèi,dài" info="指能力做不到。"/>
-		<definition id="一">
-			<item id="1" text="到，及：力有未~. ~乎清季（到了清代末年）." />
-			<item id="2" text="逮捕，捉拿。" />
-		</definition>
-	</char>
+	<!-- Ref:逮.xml <char hz="逮" py="dài" multi="dǎi" main="1" /> -->
 	<char hz="叇" py="dài" />
 	<char hz="戴" py="dài" />
 	<char hz="襶" py="dài" />

@@ -3,61 +3,26 @@
 	<char hz="他" py="tā" />
 	<char hz="她" py="tā" />
 	<char hz="它" py="tā" />
-	<char hz="铊" py="tā" multi="tuó" main="1">
-		<definition id="一">
-			<item text="一种金属元素，符号Tl，银白色，质柔软。铊的化合物有毒。" />
-		</definition>
-	</char>
+	<!-- Ref:铊.xml <char hz="铊" py="tā" multi="tuó" main="1" /> -->
 	<char hz="趿" py="tā">
 		<phrase hz="趿拉" py="tā,la" />
 	</char>
 	<char hz="塌" py="tā" />
 	<char hz="溻" py="tā" />
 	<char hz="褟" py="tā" />
-	<char hz="踏" py="tā" multi="tà">
-		<phrase hz="踏实" py="tā,shi" />
-		<definition id="二">
-			<item text="[踏实](-shi)1.切实，不浮躁：他工作很~~. 2.（情绪）安定，安稳：事情办完就~~了." />
-		</definition>
-	</char>
+	<!-- Ref:踏.xml <char hz="踏" py="tā" multi="tà" /> -->
 	<char hz="塔" py="tǎ" />
 	<char hz="溚" py="tǎ" />
 	<char hz="獭" py="tǎ" />
 	<char hz="鳎" py="tǎ" />
-	<char hz="拓" py="tà" multi="tuò">
-		<phrase hz="碑拓" py="bēi,tà" info="拓印的碑帖。" />
-		<phrase hz="拓本" py="tà,běn" info="用纸紧覆在碑帖或金石等器物的文字或花纹上，用墨或其他颜色打出其文字、图形来的印刷品。墨色深黑有光的叫乌金拓;淡而匀净的叫蝉衣拓。用朱色打拓的叫朱拓(拓片装订成的本子)" />
-		<phrase hz="拓片" py="tà,piàn" info="将碑文石刻、青铜器等文物的形状及其上面的文字、图案拓下来的纸片" />
-		<phrase hz="拓写" py="tà,xiě" info="用墨汁等摹写" />
-		<definition id="二">
-			<item text="在刻铸文字、图像的器物上，蒙一层纸，捶打后使凹凸分明，涂上墨，显出文字、图像来。" />
-		</definition>
-	</char>
-	<char hz="沓" py="tà" multi="dá" main="1">
-		<phrase hz="重沓" py="chóng,tà" info="1.重复繁冗。2.重叠堆积" />
-		<phrase hz="纷至沓来" py="fēn,zhì,tà,lái" info="纷：众多，杂乱；沓：多，重复。形容接连不断的到来。" />
-		<phrase hz="拖沓" py="tuō,tà" info="形容做事拖拉" />
-		<phrase hz="杂沓" py="zá,tà" info="亦作“杂遝”。纷杂繁多貌。" />
-		<definition id="一">
-			<item text="多，重复：杂~. 纷至~来." />
-		</definition>
-	</char>
-	<char hz="踏" py="tà" multi="tā" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="用脚踩：大~步地前进. (引)亲自到现场去：~看. ~勘." />
-		</definition>
-	</char>
+	<!-- Ref:拓.xml <char hz="拓" py="tà" multi="tuò" /> -->
+	<!-- Ref:沓.xml <char hz="沓" py="tà" multi="dá" main="1" /> -->
+	<!-- Ref:踏.xml <char hz="踏" py="tà" multi="tā" main="1" suppressLog="1" /> -->
 	<char hz="㒓" py="tà" trans="1" />
 	<char hz="挞" py="tà" />
 	<char hz="闼" py="tà" />
 	<char hz="" py="tà" />
-	<char hz="嗒" py="tà" multi="dā" main="1">
-		<phrase hz="嗒丧" py="tà,sàng" />
-		<phrase hz="嗒然" py="tà,rán" info="形容懊丧的神情" />
-		<definition id="一">
-			<item text="失意的样子：~丧. ~然若失." />
-		</definition>
-	</char>
+	<!-- Ref:嗒.xml <char hz="嗒" py="tà" multi="dā" main="1" /> -->
 	<char hz="遝" py="tà" />
 	<char hz="阘" py="tà">
 		<phrase hz="阘茸" py="tà,róng" />

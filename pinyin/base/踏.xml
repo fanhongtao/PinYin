@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="踏" py="tā" multi="tà">
+		<phrase hz="踏实" py="tā,shi" />
+		<definition id="二">
+			<item text="[踏实](-shi)1.切实，不浮躁：他工作很~~. 2.（情绪）安定，安稳：事情办完就~~了." />
+		</definition>
+	</char>
+	<char hz="踏" py="tà" multi="tā" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="用脚踩：大~步地前进. (引)亲自到现场去：~看. ~勘." />
+		</definition>
+	</char>
+</pinyin>

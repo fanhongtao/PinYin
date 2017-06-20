@@ -8,122 +8,26 @@
 	<char hz="搭" py="dā">
 		<phrase hz="搭载" py="dā,zài" />
 	</char>
-	<char hz="嗒" py="dā" multi="tà">
-		<phrase hz="吧嗒" py="bā,dā" info="1.象声词，表示一种双音的声响。2.嘴唇开闭作声--用于表示惊奇、警告等。3.〈方〉抽[旱烟]" />
-		<phrase hz="嗒嗒" py="dā,dā" />
-		<phrase hz="嘀嗒" py="dī,dā" info="象声词。形容水滴落下或钟表摆动的声音。" />
-		<phrase hz="噶嗒" py="gá,dā" info="象声词。" />
-		<phrase hz="咕嗒" py="gū,dā" info="象声词。大口喝水或酒的声音" />
-		<phrase hz="呱嗒" py="guā,dā" info="1.短促而尖锐的清脆声。2.因不高兴而板起脸。3.说话--含贬义。4.[以不入耳的语言]讽刺、挖苦" />
-		<phrase hz="咔嗒" py="kā,dā" info="1.轻脆尖锐的响声(如扣手枪扳机或锁门发出的响声)。2.尤指坚硬物体碰撞时产生的格格、咔嗒响声" />
-		<phrase hz="啪嗒" py="pā,dā" info="形容东西落地或互相撞击的声音" />
-		<definition id="二">
-			<item text="拟声词，马蹄声、机关枪声等（叠）。" />
-		</definition>
-	</char>
+	<!-- Ref:嗒.xml <char hz="嗒" py="dā" multi="tà" /> -->
 	<char hz="鎝" py="dā" trans="1" />
 	<char hz="褡" py="dā" />
-	<char hz="答" py="dā" multi="dá">
-		<phrase hz="答答" py="dā,dā" info="自定义词。如：羞答答" />
-		<phrase hz="答理" py="dā,li" />
-		<phrase hz="答应" py="dā,ying" />
-		<phrase hz="滴答" py="dī,dā" />
-		<definition id="二">
-			<item text="同“答(一)”，用于口语“答应”、“答理”等词。[答理](-li)打招呼，理睬。 [答应](-ying)1.应声回答。2.允许：我们坚决不~~." />
-		</definition>
-	</char>
-	<char hz="打" py="dá" multi="dǎ">
-		<definition id="二">
-			<item text="(外)量词，12个为1打。" />
-		</definition>
-	</char>
+	<!-- Ref:答.xml <char hz="答" py="dā" multi="dá" /> -->
+	<!-- Ref:打.xml <char hz="打" py="dá" multi="dǎ" /> -->
 	<char hz="达" py="dá" />
 	<char hz="荙" py="dá" />
 	<char hz="鞑" py="dá" />
-	<char hz="沓" py="dá" multi="tà">
-		<definition id="二">
-			<item text="（-子、-儿）量词，用于叠起来的纸张或其他薄的东西：一~子信纸." />
-		</definition>
-	</char>
+	<!-- Ref:沓.xml <char hz="沓" py="dá" multi="tà" /> -->
 	<char hz="怛" py="dá" />
 	<char hz="妲" py="dá" />
 	<char hz="炟" py="dá" />
 	<char hz="笪" py="dá" />
 	<char hz="靼" py="dá" />
-	<char hz="答" py="dá" multi="dā" main="1" suppressLog="1">
-		<phrase hz="报答" py="bào,dá" />
-		<phrase hz="笔答" py="bǐ,dá" info="书面回答问题" />
-		<phrase hz="答案" py="dá,àn" />
-		<phrase hz="答辩" py="dá,biàn" info="1.应答别人的提问;进行辩解。2.特指在法庭上为答复一种陈述、告发或起诉所作的辩护" />
-		<phrase hz="答词" py="dá,cí" info="表示感谢或回答在场人的致辞" />
-		<phrase hz="答非所问" py="dá,fēi,suǒ,wèn" />
-		<phrase hz="答复" py="dá,fù" />
-		<phrase hz="答话" py="dá,huà" />
-		<phrase hz="答卷" py="dá,juàn" />
-		<phrase hz="答谢" py="dá,xiè" />
-		<phrase hz="答数" py="dá,shù" info="算术运算的得数" />
-		<phrase hz="对答" py="duì,dá" />
-		<phrase hz="回答" py="huí,dá" />
-		<phrase hz="问答" py="wèn,dá" />
-		<phrase hz="赠答" py="zèng,dá" info="互赠礼物、诗歌等" />
-		<phrase hz="作答" py="zuò,dá" info="1.做出回答。2.指复信。" />
-		<definition id="一">
-			<item id="1" text="回答，回复（(连)-复）：问~. ~话." />
-			<item id="2" text="还报：报~. ~谢. ~礼." />
-		</definition>
-	</char>
-	<char hz="瘩" py="dá" multi="da" main="1">
-		<phrase hz="瘩背" py="dá,bèi" info="中医称生在背部的痈。" />
-		<definition id="一">
-			<item text="[瘩背]中医称生在背部的痈。也叫“搭手”。" />
-		</definition>
-	</char>
-	<char hz="打" py="dǎ" multi="dá" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="击：~铁. ~门. ~鼓. ~靶. ~垮. (引)放射：~枪. ~闪. [打击]使受到挫折：~~侵略者." />
-			<item id="2" text="表示各种动作，代替许多有具体意义的动词。1.除去：~虫. ~沫（把液体上面的沫去掉）. ~食（服药帮助消化）. 2.毁坏，损伤，破碎：衣服被虫~了. 碗~了. 3.取，收，捕：~鱼. ~粮食. ~柴. ~水. 4. 购买：~车票. ~酒. 5.举：~伞. ~灯笼. ~旗子. 6.揭开，破开：~帐子. ~西瓜. ~鸡蛋. 7. 建造：~井. ~墙. 8.制作，编织：~镰刀. ~桌椅. ~毛衣. 9. 捆扎：~铺盖卷. ~裹腿. 10.涂抹：~蜡. ~桐油. 11.玩耍，做某种文体活动：~秋千. ~球. 12.通，发：~一个电报去. ~电话. 13.计算：精~细算. 设备费~二百元. 14.立，定：~下基础. ~主意. ~草稿. 15.从事或担任某些工作：~杂儿. ~前站. 16.表示身体上的某些动作：~手势. ~冷战. ~哈欠. ~前失（马前腿跌倒）. ~滚儿." />
-			<item id="3" text="与某些动词结合为一个动词：~扮. ~扫. ~搅. ~扰." />
-			<item id="4" text="介词，从，自：~去年起. ~哪里来？" />
-		</definition>
-	</char>
-	<char hz="大" py="dà" multi="dài" main="1" suppressLog="1">
-		<phrase hz="大城市" py="dà,chéng,shì" info="1.人口在百万以上的城市。2.一国或其他地区的主要城市。3.作为一种特殊活动中心的城市,尤指重要的城市。" />
-		<phrase hz="大度" py="dà,dù" info="1.胸怀开阔,气量宽宏。2.宏伟的抱负。" />
-		<phrase hz="大方" py="dà,fang" info="1.对于财物不计较、不吝啬。2.(举止)自然不俗气;无拘束。3.衣着适当。 （4.见识广博或有专长的人，读音是“dà,fāng”）" />
-		<phrase hz="大方之家" py="dà,fāng,zhī,jiā" info="1.懂得大道理的人。2.后泛指见识广博或学有专长的人。" />
-		<!-- <phrase hz="大夫" py="dà,fū" duoyin="dài,fu" info="古代官职名称。"/> -->
-		<phrase hz="大观" py="dà,guān" info="形容事物丰富美好。" />
-		<phrase hz="大卡" py="dà,kǎ" info="物理学名词。热量的实用单位，是一卡的一千倍。也称千卡。" />
-		<phrase hz="大陆" py="dà,lù" info="1.面积广大的陆地。2.特指中国领土的大陆部分。" />
-		<phrase hz="大率" py="dà,shuài" info="副词。大概；大略。" />
-		<phrase hz="大体" py="dà,tǐ" info="1.大概;基本上。2.总体来说。3.有关大局的重要道理" />
-		<phrase hz="大同" py="dà,tóng" info="1.我国古代一些思想家提出的一种天下为公，人人平等的社会政治理想。2.基本相同，在大的方面一致。3.地名，在山西省" />
-		<phrase hz="大王" py="dà,wáng" duoyin="dài,wang" info="1.古代尊称国王. 2.指最长于某种事情的人. 3.指垄断某种行业的人." />
-		<phrase hz="大雨" py="dà,yǔ" info="强度较大的降雨。" />
-		<phrase hz="大员" py="dà,yuán" info="职位高的官员" />
-		<phrase hz="大椎" py="dà,zhuī" info="针灸穴位名。位于第七颈椎与第一胸椎棘窘突之间。主治发热、感冒、落枕等。" />
-		<phrase hz="光禄大夫" py="guāng,lù,dà,fū" info="官名。" />
-		<phrase hz="刑不上大夫" py="xíng,bù,shàng,dà,fū" info="我国古代大夫以上的贵族享受的特权之一，是宗法等级制在法律上的反映。" />
-		<phrase hz="贻笑大方" py="yí,xiào,dà,fāng" info="被有学问或内行的人所笑。" />
-		<phrase hz="御史大夫" py="yù,shǐ,dà,fū" info="官名。" />
-		<definition id="一">
-			<item id="1" text="跟“小”相对。1.占的空间较多，面积较广，容量较多：~山. ~树. 这间房比那间~. 2.数量较多：~众. ~量. 3.程度深，范围广：~冷天. ~干社会主义. ~快人心. 4.声音较响：~声说话. 5.年长，排行第一：~哥. 老~. 6.敬辞：~作. 尊姓~名. [大夫]古代官职名称。（另dàifu，见“大”dài） [大王]1.古代尊称国王. 2.指最长于某种事情的人：爆破~~. 3.指垄断某种行业的人：钢铁~~. （另dàiwang，见“大”dài）" />
-			<item id="2" text="时间更远：~前年. ~后天." />
-			<item id="3" text="不很详细，不很准确：~略. ~概. ~约." />
-			<item id="4" text="〈方〉称父亲或伯父。" />
-			<item text="[大黄](dà-)(dài-)(又) 又叫“川军”。多年生草本植物，夏季多数开黄白色小花，根及极好状茎粗壮，黄色，可入药。" />
-			<item text="〈古〉又同“太”、“泰”(tài)，如“大子”、“大山”等。" />
-		</definition>
-	</char>
+	<!-- Ref:答.xml <char hz="答" py="dá" multi="dā" main="1" suppressLog="1" /> -->
+	<!-- Ref:瘩.xml<char hz="瘩" py="dá" multi="da" main="1" /> -->
+	<!-- Ref:打.xml <char hz="打" py="dǎ" multi="dá" main="1" suppressLog="1" /> -->
+	<!-- Ref:大.xml <char hz="大" py="dà" multi="dài" main="1" suppressLog="1" /> -->
 	<char hz="垯" py="da" />
 	<char hz="繨" py="da" trans="1" />
 	<char hz="跶" py="da" />
-	<char hz="瘩" py="da" multi="dá">
-		<phrase hz="疙瘩" py="gē,da" />
-		<phrase hz="饹瘩" py="gē,da" info="面疙瘩。一种面食" />
-		<phrase hz="疙疙瘩瘩" py="gē,gē,da,da" />
-		<definition id="二">
-			<item text="见“疙”字条“疙瘩”(gē-)。" />
-		</definition>
-	</char>
+	<!-- Ref:瘩.xml <char hz="瘩" py="da" multi="dá" /> -->
 </pinyin>

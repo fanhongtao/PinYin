@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拓" py="tà" multi="tuò">
+		<phrase hz="碑拓" py="bēi,tà" info="拓印的碑帖。" />
+		<phrase hz="拓本" py="tà,běn" info="用纸紧覆在碑帖或金石等器物的文字或花纹上，用墨或其他颜色打出其文字、图形来的印刷品。墨色深黑有光的叫乌金拓;淡而匀净的叫蝉衣拓。用朱色打拓的叫朱拓(拓片装订成的本子)" />
+		<phrase hz="拓片" py="tà,piàn" info="将碑文石刻、青铜器等文物的形状及其上面的文字、图案拓下来的纸片" />
+		<phrase hz="拓写" py="tà,xiě" info="用墨汁等摹写" />
+		<definition id="二">
+			<item text="在刻铸文字、图像的器物上，蒙一层纸，捶打后使凹凸分明，涂上墨，显出文字、图像来。" />
+		</definition>
+	</char>
+	<char hz="拓" py="tuò" multi="tà" main="1">
+		<phrase hz="开拓" py="kāi,tuò" info="采掘前修建巷道等工序的总称" />
+		<phrase hz="落拓" py="luò,tuò" info="1.豪放;不受拘束 2.素小落拓有大志，不拘小节。" />
+		<phrase hz="拓跋" py="tuò,bá" info="亦作“拓拔”。北魏 皇族的姓。后改姓 元 。" />
+		<phrase hz="拓拔" py="tuò,bá" info="见“拓跋”。" />
+		<phrase hz="拓荒" py="tuò,huāng" info="开垦荒地" />
+		<phrase hz="拓宽" py="tuò,kuān" info="开拓使宽广" />
+		<phrase hz="拓扑" py="tuò,pū" info="1.涉及从严格定量测量中抽象出来的各种对象之间的关系的 2.在同胚下不变性质的或在包含于同胚下不变性质的" />
+		<phrase hz="拓销" py="tuò,xiāo" info="开辟销路；拓宽销路。" />
+		<phrase hz="拓展" py="tuò,zhǎn" info="开拓、扩展" />
+		<phrase hz="拓殖" py="tuò,zhí" info="1.帝国主义国家将不发达国家地区变为其殖民地 2.拓荒移民" />
+		<definition id="一">
+			<item id="1" text="开辟，扩充。" />
+			<item id="2" text="姓。" />
+			<item id="3" text="见“落”字条“落拓”(luò-)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="答" py="dā" multi="dá">
+		<phrase hz="答答" py="dā,dā" info="自定义词。如：羞答答" />
+		<phrase hz="答理" py="dā,li" />
+		<phrase hz="答应" py="dā,ying" />
+		<phrase hz="滴答" py="dī,dā" />
+		<definition id="二">
+			<item text="同“答(一)”，用于口语“答应”、“答理”等词。[答理](-li)打招呼，理睬。 [答应](-ying)1.应声回答。2.允许：我们坚决不~~." />
+		</definition>
+	</char>
+	<char hz="答" py="dá" multi="dā" main="1" suppressLog="1">
+		<phrase hz="报答" py="bào,dá" />
+		<phrase hz="笔答" py="bǐ,dá" info="书面回答问题" />
+		<phrase hz="答案" py="dá,àn" />
+		<phrase hz="答辩" py="dá,biàn" info="1.应答别人的提问;进行辩解。2.特指在法庭上为答复一种陈述、告发或起诉所作的辩护" />
+		<phrase hz="答词" py="dá,cí" info="表示感谢或回答在场人的致辞" />
+		<phrase hz="答非所问" py="dá,fēi,suǒ,wèn" />
+		<phrase hz="答复" py="dá,fù" />
+		<phrase hz="答话" py="dá,huà" />
+		<phrase hz="答卷" py="dá,juàn" />
+		<phrase hz="答谢" py="dá,xiè" />
+		<phrase hz="答数" py="dá,shù" info="算术运算的得数" />
+		<phrase hz="对答" py="duì,dá" />
+		<phrase hz="回答" py="huí,dá" />
+		<phrase hz="问答" py="wèn,dá" />
+		<phrase hz="赠答" py="zèng,dá" info="互赠礼物、诗歌等" />
+		<phrase hz="作答" py="zuò,dá" info="1.做出回答。2.指复信。" />
+		<definition id="一">
+			<item id="1" text="回答，回复（(连)-复）：问~. ~话." />
+			<item id="2" text="还报：报~. ~谢. ~礼." />
+		</definition>
+	</char>
+</pinyin>

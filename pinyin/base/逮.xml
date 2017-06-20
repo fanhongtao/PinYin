@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="逮" py="dǎi" multi="dài" info="Word主音">
+		<definition id="二">
+			<item text="捉，捕，用于口语：~老鼠. ~蝗虫." />
+		</definition>
+	</char>
+	<char hz="逮" py="dài" multi="dǎi" main="1">
+		<phrase hz="逮捕" py="dài,bǔ" />
+		<phrase hz="力有未逮" py="lì,yǒu,wèi,dài" info="指能力做不到。"/>
+		<definition id="一">
+			<item id="1" text="到，及：力有未~. ~乎清季（到了清代末年）." />
+			<item id="2" text="逮捕，捉拿。" />
+		</definition>
+	</char>
+</pinyin>
