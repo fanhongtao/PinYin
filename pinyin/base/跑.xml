@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="跑" py="páo" multi="pǎo">
+		<phrase hz="虎跑泉" py="hǔ,páo,quán" />
+		<phrase hz="跑槽" py="páo,cáo" />
+		<definition id="二">
+			<item text="走兽用脚刨地：~槽（牲口刨槽根）. 虎~泉（在杭州）." />
+		</definition>
+	</char>
+	<char hz="跑" py="pǎo" multi="páo" main="1" suppressLog="1">
+		<phrase hz="奔跑" py="bēn,pǎo" />
+		<phrase hz="短跑" py="duǎn,pǎo" />
+		<phrase hz="飞跑" py="fēi,pǎo" />
+		<phrase hz="跑步" py="pǎo,bù" />
+		<phrase hz="跑车" py="pǎo,chē" />
+		<phrase hz="跑道" py="pǎo,dào" />
+		<phrase hz="跑单帮" py="pǎo,dān,bāng" info="指以经商为职业的个人往来各地贩卖货物牟取利润" />
+		<phrase hz="跑旱船" py="pǎo,hàn,chuán" info="一种民间舞蹈，扮演女子的人站在用竹片和布等扎成的无底船中间，船舷系在身上。 另一人扮演艄公，手持木桨，作划船状。两人合舞，或边舞边唱，如船飘浮在水面之上，有的地区又叫采船。" />
+		<phrase hz="跑江湖" py="pǎo,jiāng,hú" info="指旧时以卖艺、算卦、相面、卖药等为职业，来往各地谋求生活。" />
+		<phrase hz="跑龙套" py="pǎo,lóng,tào" info="原指戏曲中拿着旗子做兵卒的角色，后比喻在人手下做无关紧要的事。" />
+		<phrase hz="跑马" py="pǎo,mǎ" />
+		<phrase hz="跑马卖解" py="pǎo,mǎ,mài,xiè" info="旧时指在马上表演各种技艺，以此赚钱谋生。也说“跑马解”、“跑解马”。" />
+		<phrase hz="跑码头" py="pǎo,mǎ,tou" info="旧时指来往于沿海沿江河的大城市做买卖为生" />
+		<phrase hz="跑堂" py="pǎo,táng" info="旧时称酒饭馆中的服务员。" />
+		<phrase hz="跑题" py="pǎo,tí" info="指说话，文章，事情离开了主题、正题" />
+		<phrase hz="跑鞋" py="pǎo,xié" />
+		<phrase hz="跑外" py="pǎo,wài" info="专门在外面办货、收帐或兜揽生意" />
+		<phrase hz="起跑" py="qǐ,pǎo" />
+		<phrase hz="赛跑" py="sài,pǎo" />
+		<phrase hz="逃跑" py="táo,pǎo" />
+		<definition id="一">
+			<item id="1" text="奔，两只脚或四条腿交互向前跃进：赛~. ~步. (引)很快地移动：汽车在公路上飞~." />
+			<item id="2" text="逃跑，逃走：鸟儿关在笼里~不了. (喻)漏出：~电. ~油." />
+			<item id="3" text="为某种事务而奔走：~外的. ~买卖. ~材料." />
+		</definition>
+	</char>
+</pinyin>

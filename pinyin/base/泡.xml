@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泡" py="pāo" multi="pào">
+		<phrase hz="泡货" py="pāo,huò" info="〈方〉体积大而重量轻的货物" />
+		<phrase hz="泡桐" py="pāo,tóng" info="落叶乔木，叶子大，花冠紫色，结蒴果，长圆形。 木材质地疏松，可制乐器、模型等" />
+		<phrase hz="泡子" py="pāo,zi" info="1.〈方〉小湖，池塘;虚而轻软 2.指鸦片烟泡 3.指质薄形圆中空的东西 4.〈方〉小湖" />
+		<phrase hz="眼泡" py="yǎn,pāo" info="上眼皮" />
+		<definition id="二">
+			<item id="1" text="（-儿）鼓起而松软的东西：豆腐~儿." />
+			<item id="2" text="虚而松软，不坚硬：这块木料发~." />
+			<item id="3" text="同“脬(2)”。" />
+		</definition>
+	</char>
+	<char hz="泡" py="pào" multi="pāo" main="1">
+		<phrase hz="打泡" py="dǎ,pào" />
+		<phrase hz="灯泡" py="dēng,pào" />
+		<phrase hz="肥皂泡" py="féi,zào,pào" />
+		<phrase hz="肺泡" py="fèi,pào" />
+		<phrase hz="浸泡" py="jìn,pào" />
+		<phrase hz="燎泡" py="liáo,pào" info="皮肤上因火或热水烫伤而起的水泡。" />
+		<phrase hz="燎浆泡" py="liáo,jiāng,pào" info="见“燎泡”。" />
+		<phrase hz="冒泡" py="mào,pào" />
+		<phrase hz="泡病号" py="pào,bìng,hào" info="借故称病长期不上班，或小病大养" />
+		<phrase hz="泡菜" py="pào,cài" />
+		<phrase hz="泡茶" py="pào,chá" />
+		<phrase hz="泡灯" py="pào,dēng" info="古代一种灯具。" />
+		<phrase hz="泡饭" py="pào,fàn" />
+		<phrase hz="泡面" py="pào,miàn" />
+		<phrase hz="泡蘑菇" py="pào,mó,gu" info="[口]故意东拉西扯或纠缠，来拖延时间" />
+		<phrase hz="泡沫" py="pào,mò" />
+		<phrase hz="泡妞" py="pào,niū" />
+		<phrase hz="泡泡" py="pào,pào" />
+		<phrase hz="泡汤" py="pào,tāng" />
+		<phrase hz="泡腾" py="pào,téng" info="起气泡并发出嘶嘶声(如发酵的液体或苏打水);亦指放出气泡(如从苏打水中释放出气泡)" />
+		<phrase hz="泡漩" py="pào,xuán" info="波浪翻滚并有漩涡的水流" />
+		<phrase hz="泡影" py="pào,yǐng" />
+		<phrase hz="泡澡" py="pào,zǎo" />
+		<phrase hz="起泡" py="qǐ,pào" info="1.起水泡 2.起泡沫" />
+		<phrase hz="水泡" py="shuǐ,pào" />
+		<phrase hz="液泡" py="yè,pào" info="细胞质中含有的泡状物，外有薄膜与细胞质分开，内有液体" />
+		<definition id="一">
+			<item id="1" text="（-儿）气体在液体内使液体鼓起来形成的球状或半球状体（(连)-沫）：冒~儿." />
+			<item id="2" text="（-儿）像泡一样的东西：脚上起了一个~. 电灯~儿." />
+			<item id="3" text="用液体浸物品：~茶. ~饭." />
+		</definition>
+	</char>
+</pinyin>

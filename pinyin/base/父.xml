@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="父" py="fǔ" multi="fù">
+		<phrase hz="田父" py="tián,fǔ" />
+		<phrase hz="渔父" py="yú,fǔ" />
+		<definition id="二">
+			<item id="1" text="老年人：田~. 渔~." />
+			<item id="2" text="同“甫(1)”。" />
+		</definition>
+	</char>
+	<char hz="父" py="fù" multi="fǔ" main="1">
+		<phrase hz="父老" py="fù,lǎo" />
+		<phrase hz="父母" py="fù,mǔ" />
+		<phrase hz="父亲" py="fù,qīn" />
+		<phrase hz="父业" py="fù,yè" />
+		<phrase hz="父子" py="fù,zǐ" />
+		<phrase hz="季父" py="jì,fù" />
+		<phrase hz="教父" py="jiào,fù" />
+		<phrase hz="舅父" py="jiù,fù" />
+		<phrase hz="生父" py="shēng,fù" />
+		<phrase hz="师父" py="shī,fù" />
+		<phrase hz="叔父" py="shū,fù" />
+		<phrase hz="养父" py="yǎng,fù" />
+		<phrase hz="姨父" py="yí,fù" />
+		<phrase hz="岳父" py="yuè,fù" />
+		<phrase hz="仲父" py="zhòng,fù" />
+		<phrase hz="祖父" py="zǔ,fù" />
+		<definition id="一">
+			<item id="1" text="父亲，爸爸。" />
+			<item id="2" text="对男性长辈的称呼：叔~. 姨~. 师~. ~老." />
+		</definition>
+	</char>
+</pinyin>

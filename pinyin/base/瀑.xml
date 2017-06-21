@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瀑" py="bào" multi="pù">
+		<phrase hz="瀑河" py="bào,hé" />
+		<definition id="二">
+			<item id="1" text="暴雨。" />
+			<item id="2" text="瀑河，水名，一在河北省东北部，一在河北省中部。" />
+		</definition>
+	</char>
+	<char hz="瀑" py="pù" multi="bào" main="1">
+		<phrase hz="瀑布" py="pù,bù" />
+		<definition id="一">
+			<item text="瀑布，水从高山上陡直地流下来，远看好像垂挂着的白布。" />
+		</definition>
+	</char>
+</pinyin>

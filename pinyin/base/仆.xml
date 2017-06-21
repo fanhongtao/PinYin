@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仆" py="pū" multi="pú">
+		<phrase hz="前仆后继" py="qián,pū,hòu,jì" />
+		<definition id="一">
+			<item text="向前跌倒：前~后继." />
+		</definition>
+	</char>
+	<char hz="仆" py="pú" multi="pū" main="1">
+		<phrase hz="公仆" py="gōng,pú" />
+		<phrase hz="奴仆" py="nú,pú" />
+		<phrase hz="仆从" py="pú,cóng" />
+		<phrase hz="仆夫" py="pú,fū" />
+		<phrase hz="仆人" py="pú,rén" />
+		<phrase hz="仆役" py="pú,yì" />
+		<definition id="二">
+			<item id="1" text="雇到家里做杂事、供役使的人：~人. 女~. [仆从]旧时指跟随在身边的仆人。 (喻)受人控制并追随别人的：~~国." />
+			<item id="2" text="旧时男子谦称自己。" />
+		</definition>
+	</char>
+</pinyin>

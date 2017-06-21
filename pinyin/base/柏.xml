@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柏" py="bǎi" multi="bó,bò" main="1">
+		<phrase hz="柏树" py="bǎi,shù" />
+		<phrase hz="柏油" py="bǎi,yóu" />
+		<phrase hz="扁柏" py="biǎn,bǎi" />
+		<phrase hz="刺柏" py="cì,bǎi" />
+		<phrase hz="罗汉柏" py="luó,hàn,bǎi" />
+		<phrase hz="圆柏" py="yuán,bǎi" />
+		<phrase hz="松柏" py="sōng,bǎi" />
+		<definition id="一">
+			<item id="1" text="常绿乔木，有侧柏、圆柏、罗汉柏等多种。木质坚硬，纹理致密，可供建筑及制造器物之用。" />
+			<item id="2" text="姓" />
+		</definition>
+	</char>
+	<char hz="柏" py="bó" multi="bǎi,bò">
+		<phrase hz="柏林" py="bó,lín" />
+		<phrase hz="柏辽兹" py="bó,liáo,zī" info="埃克托·柏辽兹(1803-1869)法国作曲家" />
+		<phrase hz="柏拉图" py="bó,lā,tú" info="(前427-前347)古希腊哲学家" />
+		<definition id="二">
+			<item text="[柏林] 德国的首都。" />
+		</definition>
+	</char>
+	<char hz="柏" py="bò" multi="bǎi,bó">
+		<phrase hz="黄柏" py="huáng,bò" />
+		<definition id="三">
+			<item text="[黄柏]即黄檗。" />
+		</definition>
+	</char>
+</pinyin>

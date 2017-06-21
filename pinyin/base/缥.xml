@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="缥" py="piāo" multi="piǎo">
+		<phrase hz="缥缈" py="piāo,miǎo" />
+		<definition id="二">
+			<item text="[缥缈][飘渺](-miǎo)形容隐隐约约，若有若无：山在虚无~~间." />
+		</definition>
+	</char>
+	<char hz="缥" py="piǎo" multi="piāo" main="1">
+		<definition id="一">
+			<item id="1" text="青白色。" />
+			<item id="2" text="青白色丝织品。" />
+		</definition>
+	</char>
+</pinyin>

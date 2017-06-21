@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="夫" py="fū" multi="fú" main="1" suppressLog="1">
-		<phrase hz="夫妇" py="fū,fù" />
-		<phrase hz="夫妻" py="fū,qī" />
-		<phrase hz="夫人" py="fū,rén" />
-		<phrase hz="夫子" py="fū,zǐ" />
-		<phrase hz="丈夫" py="zhàng,fū" />
-		<definition id="一">
-			<item id="1" text="成年男子的通称：农~. 渔~. (引)旧时称服劳役的人，也作“伕”（(连)-役）。" />
-			<item id="2" text="丈夫(fu)，跟“妻”、“妇”相对：~妻. ~妇. 姐~. 姑~." />
-			<item text="[夫人]对别人妻子的敬称。" />
-			<item text="[夫子]1.旧时尊称老师或学者。2.旧时妻称丈夫。" />
-		</definition>
-	</char>
+	<!-- Ref:夫.xml <char hz="夫" py="fū" multi="fú" main="1" suppressLog="1" /> -->
 	<char hz="伕" py="fū" />
 	<char hz="呋" py="fū">
 		<phrase hz="呋喃" py="fū,nán" />
@@ -29,14 +17,7 @@
 		<phrase hz="敷衍" py="fū,yǎn" />
 		<phrase hz="敷衍了事" py="fū,yǎn,liǎo,shì" />
 	</char>
-	<char hz="夫" py="fú" multi="fū">
-		<phrase hz="夫天地者" py="fú,tiān,dì,zhě" />
-		<phrase hz="逝者如斯夫" py="shì,zhě,rú,sī,fú" />
-		<definition id="二">
-			<item id="1" text="文言发语词：~天地者." />
-			<item id="2" text="文言助词：逝者如斯~." />
-		</definition>
-	</char>
+	<!-- Ref:夫.xml <char hz="夫" py="fú" multi="fū" /> -->
 	<char hz="扶" py="fú" />
 	<char hz="芙" py="fú">
 		<phrase hz="芙蓉" py="fú,róng" />
@@ -60,12 +41,7 @@
 	<char hz="茯" py="fú">
 		<phrase hz="茯苓" py="fú,líng" />
 	</char>
-	<char hz="洑" py="fú" multi="fù" main="1">
-		<definition id="一">
-			<item id="1" text="漩涡。" />
-			<item id="2" text="水在地下潜流。" />
-		</definition>
-	</char>
+	<!-- Ref:洑.xml <char hz="洑" py="fú" multi="fù" main="1" /> -->
 	<char hz="柎" py="fú" />
 	<char hz="袱" py="fú">
 		<phrase hz="包袱" py="bāo,fu" />
@@ -87,11 +63,7 @@
 	<char hz="孚" py="fú" />
 	<char hz="俘" py="fú" />
 	<char hz="郛" py="fú" />
-	<char hz="莩" py="fú" multi="piǎo" main="1">
-		<definition id="一">
-			<item text="芦苇秆子里面的薄膜。" />
-		</definition>
-	</char>
+	<!-- Ref:莩.xml <char hz="莩" py="fú" multi="piǎo" main="1" /> -->
 	<char hz="浮" py="fú" />
 	<char hz="桴" py="fú" />
 	<char hz="罦" py="fú">
@@ -102,16 +74,7 @@
 	</char>
 	<char hz="苻" py="fú" />
 	<char hz="符" py="fú" />
-	<char hz="服" py="fú" multi="fù" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="衣服，衣裳（(连)-装）：制~. ~装整齐. 旧时特指丧服。" />
-			<item id="2" text="穿（衣裳）。" />
-			<item id="3" text="承当，担任：~刑. ~兵役." />
-			<item id="4" text="信服，顺从（(连)-从）：说~. 心悦诚~. 心里不~. ~软（认输，认错）. ~从党的领导." />
-			<item id="5" text="习惯，适应：水土不~." />
-			<item id="6" text="吃（药）：~药." />
-		</definition>
-	</char>
+	<!-- Ref:服.xml <char hz="服" py="fú" multi="fù" main="1" suppressLog="1" /> -->
 	<char hz="菔" py="fú">
 		<phrase hz="莱菔" py="lái,fú" />
 	</char>
@@ -148,14 +111,7 @@
 	</char>
 	<char hz="涪" py="fú" />
 	<char hz="幞" py="fú" />
-	<char hz="父" py="fǔ" multi="fù">
-		<phrase hz="田父" py="tián,fǔ" />
-		<phrase hz="渔父" py="yú,fǔ" />
-		<definition id="二">
-			<item id="1" text="老年人：田~. 渔~." />
-			<item id="2" text="同“甫(1)”。" />
-		</definition>
-	</char>
+	<!-- Ref:父.xml <char hz="父" py="fǔ" multi="fù" /> -->
 	<char hz="斧" py="fǔ" />
 	<char hz="釜" py="fǔ" />
 	<char hz="滏" py="fǔ" />
@@ -169,16 +125,7 @@
 		</definition>
 	</char>
 	<char hz="辅" py="fǔ" />
-	<char hz="脯" py="fǔ" multi="pú" main="1">
-		<phrase hz="果脯" py="guǒ,fǔ" />
-		<phrase hz="鹿脯" py="lù,fǔ" />
-		<phrase hz="桃脯" py="táo,fǔ" />
-		<phrase hz="杏脯" py="xìng,fǔ" />
-		<definition id="一">
-			<item id="1" text="肉干：鹿~." />
-			<item id="2" text="果脯，蜜饯果干：桃~. 杏~." />
-		</definition>
-	</char>
+	<!-- Ref:脯.xml <char hz="脯" py="fǔ" multi="pú" main="1" /> -->
 	<char hz="蜅" py="fǔ">
 		<phrase hz="螟蜅鲞" py="míng,fǔ,xiǎng" />
 	</char>
@@ -196,28 +143,7 @@
 	<char hz="腐" py="fǔ">
 		<phrase hz="豆腐" py="dòu,fu" />
 	</char>
-	<char hz="父" py="fù" multi="fǔ" main="1">
-		<phrase hz="父老" py="fù,lǎo" />
-		<phrase hz="父母" py="fù,mǔ" />
-		<phrase hz="父亲" py="fù,qīn" />
-		<phrase hz="父业" py="fù,yè" />
-		<phrase hz="父子" py="fù,zǐ" />
-		<phrase hz="季父" py="jì,fù" />
-		<phrase hz="教父" py="jiào,fù" />
-		<phrase hz="舅父" py="jiù,fù" />
-		<phrase hz="生父" py="shēng,fù" />
-		<phrase hz="师父" py="shī,fù" />
-		<phrase hz="叔父" py="shū,fù" />
-		<phrase hz="养父" py="yǎng,fù" />
-		<phrase hz="姨父" py="yí,fù" />
-		<phrase hz="岳父" py="yuè,fù" />
-		<phrase hz="仲父" py="zhòng,fù" />
-		<phrase hz="祖父" py="zǔ,fù" />
-		<definition id="一">
-			<item id="1" text="父亲，爸爸。" />
-			<item id="2" text="对男性长辈的称呼：叔~. 姨~. 师~. ~老." />
-		</definition>
-	</char>
+	<!-- Ref:父.xml <char hz="父" py="fù" multi="fǔ" main="1" /> -->
 	<char hz="讣" py="fù" />
 	<char hz="赴" py="fù" />
 	<char hz="付" py="fù">
@@ -238,11 +164,7 @@
 	</char>
 	<char hz="妇" py="fù" />
 	<char hz="阜" py="fù" />
-	<char hz="服" py="fù" multi="fú">
-		<definition id="二">
-			<item text="量词，用于中药，也作“付”，吃~药就好了." />
-		</definition>
-	</char>
+	<!-- Ref:服.xml <char hz="服" py="fù" multi="fú" /> -->
 	<char hz="复" py="fù" />
 	<char hz="腹" py="fù" />
 	<char hz="蝮" py="fù" />
@@ -251,12 +173,7 @@
 		<phrase hz="覆没" py="fù,mò" />
 	</char>
 	<char hz="馥" py="fù" />
-	<char hz="洑" py="fù" multi="fú">
-		<phrase hz="洑水" py="fù,shuǐ" />
-		<definition id="二">
-			<item text="在水里游：~水." />
-		</definition>
-	</char>
+	<!-- Ref:洑.xml <char hz="洑" py="fù" multi="fú" /> -->
 	<char hz="副" py="fù">
 		<definition>
 			<item id="1" text="居第二位的，辅助的（区别于“正”或“主”）：~主席. ~排长." />

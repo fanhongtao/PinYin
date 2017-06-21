@@ -3,37 +3,11 @@
 	<char hz="趴" py="pā" />
 	<char hz="啪" py="pā" />
 	<char hz="葩" py="pā" />
-	<char hz="扒" py="pá" multi="bā">
-		<phrase hz="吃里扒外" py="chī,lǐ,pá,wài" />
-		<phrase hz="扒草" py="pá,cǎo" />
-		<phrase hz="扒灰" py="pá,huī" />
-		<phrase hz="扒窃" py="pá,qiè" />
-		<phrase hz="扒手" py="pá,shǒu" />
-		<phrase hz="扒土" py="pá,tǔ" />
-		<definition id="二">
-			<item id="1" text="用耙(pá)搂(lōu)，聚拢：~草. ~土." />
-			<item id="2" text="扒窃：~手（小偷）." />
-			<item id="3" text="炖烂，煨烂：~猪头." />
-		</definition>
-	</char>
+	<!-- Ref:扒.xml <char hz="扒" py="pá" multi="bā" /> -->
 	<char hz="杷" py="pá" />
 	<char hz="爬" py="pá" />
-	<char hz="钯" py="pá" multi="bǎ">
-		<phrase hz="钉钯" py="dīng,pá" />
-		<definition id="二">
-			<item text="同“耙”(pá)。" />
-		</definition>
-	</char>
-	<char hz="耙" py="pá" multi="bà" info="Word主音">
-		<phrase hz="钉耙" py="dīng,pá" />
-		<phrase hz="耙子" py="pá,zi" />
-		<phrase hz="耙地" py="pá,dì" />
-		<phrase hz="倒打一耙" py="dào,dǎ,yī,pá" />
-		<definition id="二">
-			<item id="1" text="（-子）聚拢谷物或平土地的用具。" />
-			<item id="2" text="用耙子聚拢谷物或平土地：~地." />
-		</definition>
-	</char>
+	<!-- Ref:钯.xml <char hz="钯" py="pá" multi="bǎ" /> -->
+	<!-- Ref:耙.xml <char hz="耙" py="pá" multi="bà" info="Word主音" /> -->
 	<char hz="筢" py="pá">
 		<phrase hz="筢子" py="pá,zi" />
 	</char>

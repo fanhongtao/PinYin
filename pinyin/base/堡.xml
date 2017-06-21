@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="堡" py="bǎo" multi="bǔ,pù" main="1">
+		<phrase hz="堡垒" py="bǎo,lěi" />
+		<phrase hz="城堡" py="chéng,bǎo" />
+		<phrase hz="碉堡" py="diāo,bǎo" />
+		<phrase hz="汉堡" py="hàn,bǎo" />
+		<phrase hz="桥头垒" py="qiáo,tóu,bǎo" />
+		<definition id="一">
+			<item id="1" text="堡垒：~. [堡垒]军事上防守用的建筑物：打下敌人最坚固的~~. (喻)难于攻破的事物：攻克科学~~." />
+			<item id="2" text="小城。" />
+		</definition>
+	</char>
+	<char hz="堡" py="bǔ" multi="bǎo,pù">
+		<phrase hz="堡子" py="bǔ,zi" />
+		<phrase hz="柴沟堡" py="chái,gōu,bǔ" />
+		<phrase hz="吴堡" py="wú,bǔ" />
+		<definition id="二">
+			<item text="堡子，有围墙的村镇。又多用于地名：吴~（在陕西省榆林）. 柴沟~（在河北省张家口）." />
+		</definition>
+	</char>
+	<char hz="堡" py="pù" multi="bǎo,bǔ">
+		<phrase hz="暗堡" py="àn,pù" info="隐蔽不露的地堡。" />
+		<phrase hz="别堡" py="bié,pù" info="谓拱卫中心城市的城堡。" />
+		<phrase hz="地堡" py="dì,pù" info="供步枪、机枪射击用的有掩盖的低矮工事。" />
+		<phrase hz="大堡礁" py="dà,pù,jiāo" info="位于澳大利亚东岸的堡礁。" />
+		<phrase hz="哥德堡" py="gē,dé,pù" info="瑞典第二大城市和最大港口。" />
+		<phrase hz="堡聚" py="pù,jù" />
+		<phrase hz="十里堡" py="shí,lǐ,pù" />
+		<phrase hz="台堡" py="tái,pù" info="军事上用于警戒防守的建筑物。" />
+		<phrase hz="戍堡" py="shù,pù" info="边防驻军的营垒、城堡。" />
+		<phrase hz="土木堡" py="tǔ,mù,pù" />
+		<phrase hz="寨堡" py="zhài,pù" info="清 朝办团练时所建的据点。" />
+		<definition id="三">
+			<item text="地名用字：十里~." />
+		</definition>
+	</char>
+</pinyin>

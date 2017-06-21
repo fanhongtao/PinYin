@@ -11,12 +11,7 @@
 	</char>
 	<char hz="飑" py="biāo" />
 	<char hz="彪" py="biāo" />
-	<char hz="骠" py="biāo" multi="piào">
-		<phrase hz="黄骠马" py="huáng,biāo,mǎ" />
-		<definition id="二">
-			<item text="[黄骠马]一种黄毛夹杂着白点子的马。" />
-		</definition>
-	</char>
+	<!-- Ref:骠.xml <char hz="骠" py="biāo" multi="piào" /> -->
 	<char hz="膘" py="biāo" />
 	<char hz="镖" py="biāo" />
 	<char hz="瘭" py="biāo">

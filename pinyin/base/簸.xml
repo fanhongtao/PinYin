@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="簸" py="bǒ" multi="bò" main="1">
+		<phrase hz="簸荡" py="bǒ,dàng" />
+		<phrase hz="簸动" py="bǒ,dòng" />
+		<phrase hz="簸谷" py="bǒ,gǔ" />
+		<phrase hz="颠簸" py="diān,bǒ" />
+		<definition id="一">
+			<item id="1" text="用簸(bò)箕颠动米粮，扬去糠秕和灰尘。" />
+			<item id="2" text="颠动得像米粮在簸箕里簸起来一样：船在海浪中颠~起伏." />
+		</definition>
+	</char>
+	<char hz="簸" py="bò" multi="bǒ" info="Word主音">
+		<phrase hz="簸箕" py="bò,ji" />
+		<definition id="二">
+			<item text="[簸箕](-ji)扬糠除秽的用具。" />
+		</definition>
+	</char>
+</pinyin>

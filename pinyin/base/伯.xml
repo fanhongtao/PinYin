@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="伯" py="bǎi" multi="bó">
+		<phrase hz="大伯子" py="dà,bǎi,zi" />
+		<definition id="二">
+			<item text="[大伯子]（--zi）丈夫的哥哥。" />
+		</definition>
+	</char>
+	<char hz="伯" py="bó" multi="bǎi" main="1" suppressLog="1">
+		<phrase hz="伯伯" py="bó,bo" />
+		<phrase hz="伯劳飞燕" py="bó,láo,fēi,yàn" />
+		<definition id="一">
+			<item id="1" text="兄弟排行(háng)常用“伯”、“仲”、“叔”、“季”做次序，伯是老大。 [伯仲] (转)不相上下，好坏差不多。" />
+			<item id="2" text="伯父，父亲的哥哥，大爷(ye)。又对年龄大、辈分高的人的尊称：老~." />
+			<item id="3" text="我国古代五等爵位（公、侯、伯、子、男）的第三等。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

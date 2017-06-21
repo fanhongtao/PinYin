@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="罢" py="bà" multi="ba" main="1">
+		<phrase hz="罢黜" py="bà,chù" />
+		<phrase hz="罢了" py="bà,le" />
+		<phrase hz="罢工" py="bà,gōng" />
+		<phrase hz="罢官" py="bà,guān" />
+		<phrase hz="罢课" py="bà,kè" />
+		<phrase hz="罢论" py="bà,lùn" />
+		<phrase hz="罢免" py="bà,miǎn" />
+		<phrase hz="罢市" py="bà,shì" />
+		<phrase hz="罢手" py="bà,shǒu" />
+		<phrase hz="罢休" py="bà,xiū" />
+		<phrase hz="罢职" py="bà,zhí" />
+		<phrase hz="善罢甘休" py="shàn,bà,gān,xiū" />
+		<phrase hz="欲罢不能" py="yù,bà,bù,néng" />
+		<phrase hz="作罢" py="zuò,bà" />
+		<definition id="一">
+			<item id="1" text="停，歇（(连)-休）：~工. ~手. 欲~不能." />
+			<item id="2" text="免去（官职）（(连)-免）：~官. ~职." />
+			<item id="3" text="完了，毕：吃~饭." />
+		</definition>
+	</char>
+	<char hz="罢" py="ba" multi="bà">
+		<definition id="二">
+			<item text="同“吧(二)”" />
+		</definition>
+	</char>
+</pinyin>

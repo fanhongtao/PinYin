@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="莩" py="fú" multi="piǎo" main="1">
+		<definition id="一">
+			<item text="芦苇秆子里面的薄膜。" />
+		</definition>
+	</char>
+	<char hz="莩" py="piǎo" multi="fú">
+		<phrase hz="饿莩" py="è,piǎo" />
+		<phrase hz="饥莩" py="jī,piǎo" />
+		<definition id="二">
+			<item text="同“殍”。" />
+		</definition>
+	</char>
+</pinyin>

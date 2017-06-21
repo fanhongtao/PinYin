@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="漂" py="piāo" multi="piǎo,piào" main="1">
+		<phrase hz="漂泊" py="piāo,bó" info="1.随流漂流或停泊 2.比喻无定所或职业，生活不固定，东奔西走" />
+		<phrase hz="漂荡" py="piāo,dàng" />
+		<phrase hz="漂浮" py="piāo,fú" info="1.停留在流体表面或悬浮在流体中 2.不踏实" />
+		<phrase hz="漂零" py="piāo,líng" />
+		<phrase hz="漂流" py="piāo,liú" info="1.漂浮流动。 2.漂泊，行踪无定。" />
+		<phrase hz="漂沦" py="piāo,lún" info="漂泊沦落" />
+		<phrase hz="漂渺" py="piāo,miǎo" info="同“缥缈”。隐隐约约，若有若无的样子。" />
+		<phrase hz="漂儿" py="piāo,r" info="钓鱼的浮标。" />
+		<phrase hz="漂移" py="piāo,yí" />
+		<phrase hz="漂游" py="piāo,yóu" />
+		<phrase hz="鱼漂" py="yú,piāo" info="钓鱼时栓在线上的能浮漂、使鱼钩不沉底、鱼漂下沉即知有鱼上钩的一种钓鱼用物" />
+		<definition id="一">
+			<item text="浮在液体上面不沉下去：树叶在水上~着. [漂泊](-bó)(喻)为了生活、职业而流浪奔走：~~在外." />
+		</definition>
+	</char>
+	<char hz="漂" py="piǎo" multi="piāo,piào">
+		<phrase hz="漂白" py="piǎo,bái" info="用水加化学药品使东西退去颜色或变白" />
+		<phrase hz="漂染" py="piǎo,rǎn" info="对织物进行漂白和染色" />
+		<phrase hz="漂洗" py="piǎo,xǐ" info="1.用水冲洗 2.通过化学工序漂白(地毯或毛毯)" />
+		<definition id="二">
+			<item id="1" text="用水加药品使东西退去颜色或变白：~白." />
+			<item id="2" text="用水淘去杂质：用水~一~. ~朱砂." />
+		</definition>
+	</char>
+	<char hz="漂" py="piào" multi="piāo,piǎo">
+		<phrase hz="漂亮" py="piào,liang" />
+		<definition id="三">
+			<item text="[漂亮](-liang)1.美，好看。 2.出色：活儿干得很~~." />
+		</definition>
+	</char>
+</pinyin>

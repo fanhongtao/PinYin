@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="擘" py="bāi" multi="bò">
+		<definition id="二">
+			<item text="同“掰”" />
+		</definition>
+	</char>
+	<char hz="擘" py="bò" multi="bāi" main="1">
+		<phrase hz="擘画" py="bò,huà" />
+		<phrase hz="擘划" py="bò,huà" />
+		<phrase hz="擘肌分理" py="bò,jī,fēn,lǐ" />
+		<phrase hz="擘笺" py="bò,jiān" />
+		<phrase hz="擘开" py="bò,kāi" />
+		<phrase hz="擘窠" py="bò,kē" />
+		<phrase hz="擘蓝" py="bò,lán" />
+		<phrase hz="擘啮" py="bò,niè" />
+		<phrase hz="擘析" py="bò,xī" />
+		<phrase hz="擘张" py="bò,zhāng" />
+		<phrase hz="分擘" py="fēn,bò" />
+		<phrase hz="巨擘" py="jù,bò" />
+		<definition id="一">
+			<item text="大拇指。[巨擘](喻)杰出的人物。" />
+		</definition>
+	</char>
+</pinyin>

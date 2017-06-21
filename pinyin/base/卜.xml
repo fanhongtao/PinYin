@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="卜" py="bo" multi="bǔ" info="Word主音">
+		<phrase hz="萝卜" py="luó,bo" />
+		<definition id="二">
+			<item text="见“萝”字条“萝卜”。" />
+		</definition>
+	</char>
+	<char hz="卜" py="bǔ" multi="bo" main="1" suppressLog="1">
+		<phrase hz="卜辞" py="bǔ,cí" />
+		<phrase hz="占卜" py="zhān,bǔ" />
+		<definition id="一">
+			<item id="1" text="占卜，古时用龟甲、兽骨等预测吉凶的一种迷信活动。后泛指用其他方法预测吉凶。(转)料定，先知道：预~. 吉凶未~. [卜辞]商代刻在龟甲、兽骨上记录占卜事情的文字。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

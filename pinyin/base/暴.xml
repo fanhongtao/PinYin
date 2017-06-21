@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="暴" py="bào" multi="pù" main="1" suppressLog="1">
+		<phrase hz="暴病" py="bào,bìng" />
+		<phrase hz="暴跌" py="bào,diē" />
+		<phrase hz="暴动" py="bào,dòng" />
+		<phrase hz="暴发" py="bào,fā" />
+		<phrase hz="暴风" py="bào,fēng" />
+		<phrase hz="暴光" py="bào,guāng" />
+		<phrase hz="暴君" py="bào,jūn" />
+		<phrase hz="暴利" py="bào,lì" />
+		<phrase hz="暴力" py="bào,lì" />
+		<phrase hz="暴戾" py="bào,lì" />
+		<phrase hz="暴烈" py="bào,liè" />
+		<phrase hz="暴露" py="bào,lù" />
+		<phrase hz="暴乱" py="bào,luàn" />
+		<phrase hz="暴民" py="bào,mín" />
+		<phrase hz="暴怒" py="bào,nù" />
+		<phrase hz="暴虐" py="bào,nüè" />
+		<phrase hz="暴殄天物" py="bào,tiǎn,tiān,wù" />
+		<phrase hz="暴起" py="bào,qǐ" />
+		<phrase hz="暴跳" py="bào,tiào" />
+		<phrase hz="暴徒" py="bào,tú" />
+		<phrase hz="暴行" py="bào,xíng" />
+		<phrase hz="暴雨" py="bào,yǔ" />
+		<phrase hz="暴躁" py="bào,zào" />
+		<phrase hz="暴涨" py="bào,zhǎng" />
+		<phrase hz="暴政" py="bào,zhèng" />
+		<phrase hz="暴卒" py="bào,zú" />
+		<phrase hz="粗暴" py="cū,bào" />
+		<phrase hz="防暴" py="fáng,bào" />
+		<phrase hz="风暴" py="fēng,bào" />
+		<phrase hz="横征暴敛" py="héng,zhēng,bào,liǎn" />
+		<phrase hz="火暴" py="huǒ,bào" />
+		<phrase hz="强暴" py="qiáng,bào" />
+		<phrase hz="沙暴" py="shā,bào" />
+		<phrase hz="以暴易暴" py="yǐ,bào,yì,bào" />
+		<phrase hz="凶暴" py="xiōng,bào" />
+		<phrase hz="自暴自弃" py="zì,bào,zì,qì" />
+		<definition id="一">
+			<item id="1" text="强大而突然来的，又猛又急的：~风雨. ~病. [暴动]为推翻原有的国家政权，破坏当时的政治制度和社会秩序而采取的集体武装行动。" />
+			<item id="2" text="过分急躁的，容易冲动的：这人脾气真~." />
+			<item id="3" text="凶恶残酷的：（(连)-虐、凶-）：~行（xíng）. ~徒. ~虐的行为." />
+			<item id="4" text="糟蹋，损害：自~自弃." />
+			<item id="5" text="姓" />
+		</definition>
+	</char>
+	<char hz="暴" py="pù" multi="bào">
+		<phrase hz="一暴十寒" py="yī,pù,shí,hán" />
+		<definition id="二">
+			<item text="晒，晒干。后作“曝”(pù)。" />
+		</definition>
+	</char>
+</pinyin>

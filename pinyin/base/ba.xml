@@ -1,18 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="八" py="bā" />
-	<char hz="扒" py="bā" multi="pá" main="1">
-		<phrase hz="扒开" py="bā,kāi" />
-		<phrase hz="扒拉" py="bā,la" />
-		<phrase hz="扒皮" py="bā,pí" />
-		<phrase hz="扒瞎" py="bā,xiā" />
-		<phrase hz="牛扒" py="niú,bā" />
-		<definition id="一">
-			<item id="1" text="抓住，把着：~着栏杆. ~着树枝." />
-			<item id="2" text="刨开，挖：城墙~了个豁口. [扒拉]（-la）拨动：~~算盘. ~~开众人." />
-			<item id="3" text="剥，脱：~皮. ~下衣裳." />
-		</definition>
-	</char>
+	<!-- Ref:扒.xml <char hz="扒" py="bā" multi="pá" main="1" /> -->
 	<char hz="叭" py="bā">
 		<definition>
 			<item text="拟声词：~的一声，弦断了." />
@@ -26,20 +15,7 @@
 		<phrase hz="皱巴" py="zhòu,ba" />
 	</char>
 	<char hz="芭" py="bā" />
-	<char hz="吧" py="bā" multi="ba" main="1">
-		<phrase hz="吧吧" py="bā,bā" />
-		<phrase hz="吧嗒" py="bā,dā" />
-		<phrase hz="吧唧" py="bā,jī" />
-		<phrase hz="吧女" py="bā,nǚ" />
-		<phrase hz="吧台" py="bā,tái" />
-		<phrase hz="酒吧" py="jiǔ,bā" />
-		<phrase hz="网吧" py="wǎng,bā" />
-		<phrase hz="氧吧" py="yǎng,bā" />
-		<definition id="一">
-			<item id="1" text="拟声词，同“叭”：~嗒（dā）. ~唧（jī）. ~的一声." />
-			<item id="2" text="（外）具备特定功能或设施的休闲场所：酒~. 网~. 氧~. ~台." />
-		</definition>
-	</char>
+	<!-- Ref:吧.xml <char hz="吧" py="bā" multi="ba" main="1" /> -->
 	<char hz="岜" py="bā" />
 	<char hz="疤" py="bā">
 		<phrase hz="疤瘌" py="bā,la" />
@@ -59,101 +35,24 @@
 	</char>
 	<char hz="魃" py="bá" />
 	<char hz="鼥" py="bá" />
-	<char hz="把" py="bǎ" multi="bà" main="1">
-		<phrase hz="把柄" py="bǎ,bǐng" />
-		<phrase hz="把持" py="bǎ,chí" />
-		<phrase hz="把舵" py="bǎ,duò" />
-		<phrase hz="把风" py="bǎ,fēng" />
-		<phrase hz="把犁" py="bǎ,lí" />
-		<phrase hz="把酒" py="bǎ,jiǔ" />
-		<phrase hz="把门" py="bǎ,mén" />
-		<phrase hz="把势" py="bǎ,shi" />
-		<phrase hz="把式" py="bǎ,shi" />
-		<phrase hz="把头" py="bǎ,tóu" />
-		<phrase hz="把玩" py="bǎ,wán" />
-		<phrase hz="把握" py="bǎ,wò" />
-		<phrase hz="把戏" py="bǎ,xì" />
-		<phrase hz="把兄" py="bǎ,xiōng" />
-		<phrase hz="把盏" py="bǎ,zhǎn" />
-		<phrase hz="投机倒把" py="tóu,jī,dǎo,bǎ" />
-		<phrase hz="一把手" py="yī,bǎ,shǒu" />
-		<definition id="一">
-			<item id="1" text="拿，抓住：~盏. 两手~住门." />
-			<item id="2" text="控制，掌握：~舵. ~犁. [把持]专权，一手独揽，不让他人参与：~~财权. [把握]1.掌握，控制，有效地处理：~~时机. 2.事情成功的可靠性：这次试验，他很有~~." />
-			<item id="3" text="把守，看守：~门. ~风（守候，防有人来）." />
-			<item id="4" text="手推车、自行车等的柄：车~." />
-			<item id="5" text="（-儿）可以用手拿的小捆：草~儿." />
-			<item id="6" text="介词，和“将”相当：~一生献给党. ~更多的工业品供应给农民." />
-			<item id="7" text="量词。1.用于有柄的：一~刀. 一~扇子. 2.用于可以一手抓的：一~粮食一~汗. 3.用于某些抽象的事物：一~年纪. 努~力." />
-			<item id="8" text="放在量词或“百、千、万”等数词的后面，表示约略估计：丈~高的树，个~月以前. 有百~人." />
-			<item id="9" text="指拜把子（结为异姓兄弟）的关系：~兄." />
-		</definition>
-	</char>
-	<char hz="钯" py="bǎ" multi="pá" main="1">
-		<definition id="一">
-			<item text="一种金属元素，符号Pd，银白色，富延展性，能吸收多量的氢，可以用来提取纯粹的氢气。又可制催化剂。它的合金可制电器仪表等。" />
-		</definition>
-	</char>
+	<!-- Ref:把.xml <char hz="把" py="bǎ" multi="bà" main="1" /> -->
+	<!-- Ref:钯.xml <char hz="钯" py="bǎ" multi="pá" main="1" /> -->
 	<char hz="靶" py="bǎ" />
 	<char hz="坝" py="bà" />
-	<char hz="把" py="bà" multi="bǎ">
-		<phrase hz="把儿" py="bà,er" />
-		<definition id="二">
-			<item text="（~儿）物体上便于手拿的部分，柄：刀~儿，茶壶~儿. [话把儿]被人作为谈笑资料的言论或行为。" />
-		</definition>
-	</char>
+	<!-- Ref:把.xml <char hz="把" py="bà" multi="bǎ" /> -->
 	<char hz="爸" py="bà" />
-	<char hz="耙" py="bà" multi="pá" main="1">
-		<definition id="一">
-			<item id="1" text="把土块弄碎的农具。" />
-			<item id="2" text="用耙弄碎土块：地已经~过了." />
-		</definition>
-	</char>
+	<!-- Ref:耙.xml <char hz="耙" py="bà" multi="pá" main="1" /> -->
 	<char hz="miss: 齿巴" py="bà" info="special" />
-	<char hz="罢" py="bà" multi="ba" main="1">
-		<phrase hz="罢黜" py="bà,chù" />
-		<phrase hz="罢了" py="bà,le" />
-		<phrase hz="罢工" py="bà,gōng" />
-		<phrase hz="罢官" py="bà,guān" />
-		<phrase hz="罢课" py="bà,kè" />
-		<phrase hz="罢论" py="bà,lùn" />
-		<phrase hz="罢免" py="bà,miǎn" />
-		<phrase hz="罢市" py="bà,shì" />
-		<phrase hz="罢手" py="bà,shǒu" />
-		<phrase hz="罢休" py="bà,xiū" />
-		<phrase hz="罢职" py="bà,zhí" />
-		<phrase hz="善罢甘休" py="shàn,bà,gān,xiū" />
-		<phrase hz="欲罢不能" py="yù,bà,bù,néng" />
-		<phrase hz="作罢" py="zuò,bà" />
-		<definition id="一">
-			<item id="1" text="停，歇（(连)-休）：~工. ~手. 欲~不能." />
-			<item id="2" text="免去（官职）（(连)-免）：~官. ~职." />
-			<item id="3" text="完了，毕：吃~饭." />
-		</definition>
-	</char>
+	<!-- Ref:罢.xml <char hz="罢" py="bà" multi="ba" main="1" /> -->
 	<char hz="" py="bà" />
 	<char hz="鲅" py="bà">
 		<definition>
 			<item text="鲅鱼，鱼名。背部黑蓝色，腹部两侧银灰色，生活在海洋中。" />
 		</definition>
 	</char>
-	<char hz="鲌" py="bà" multi="bó">
-		<phrase hz="鲌鲜" py="bà,xiān" />
-		<definition id="二">
-			<item text="同“鲅”" />
-		</definition>
-	</char>
+	<!-- Ref:鲌.xml <char hz="鲌" py="bà" multi="bó" /> -->
 	<char hz="霸" py="bà" />
 	<char hz="灞" py="bà" />
-	<char hz="吧" py="ba" multi="bā">
-		<phrase hz="好吧" py="hǎo,ba" />
-		<definition id="二">
-			<item text="助词，用在句末，也作“罢”。1.表示可以，允许：好~，就这么办~. 2.表示推测，估量：今天不会下雨~. 3.表示命令，请求：快出去~！还是你去~！ 4.用于停顿处：说~，不好意思；不说~，问题又不能解决." />
-		</definition>
-	</char>
-	<char hz="罢" py="ba" multi="bà">
-		<definition id="二">
-			<item text="同“吧(二)”" />
-		</definition>
-	</char>
+	<!-- Ref:吧.xml <char hz="吧" py="ba" multi="bā" /> -->
+	<!-- Ref:罢.xml <char hz="罢" py="ba" multi="bà" /> -->
 </pinyin>

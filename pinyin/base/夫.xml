@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="夫" py="fū" multi="fú" main="1" suppressLog="1">
+		<phrase hz="夫妇" py="fū,fù" />
+		<phrase hz="夫妻" py="fū,qī" />
+		<phrase hz="夫人" py="fū,rén" />
+		<phrase hz="夫子" py="fū,zǐ" />
+		<phrase hz="丈夫" py="zhàng,fū" />
+		<definition id="一">
+			<item id="1" text="成年男子的通称：农~. 渔~. (引)旧时称服劳役的人，也作“伕”（(连)-役）。" />
+			<item id="2" text="丈夫(fu)，跟“妻”、“妇”相对：~妻. ~妇. 姐~. 姑~." />
+			<item text="[夫人]对别人妻子的敬称。" />
+			<item text="[夫子]1.旧时尊称老师或学者。2.旧时妻称丈夫。" />
+		</definition>
+	</char>
+	<char hz="夫" py="fú" multi="fū">
+		<phrase hz="夫天地者" py="fú,tiān,dì,zhě" />
+		<phrase hz="逝者如斯夫" py="shì,zhě,rú,sī,fú" />
+		<definition id="二">
+			<item id="1" text="文言发语词：~天地者." />
+			<item id="2" text="文言助词：逝者如斯~." />
+		</definition>
+	</char>
+</pinyin>

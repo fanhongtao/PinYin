@@ -11,11 +11,7 @@
 			<item text="用手把东西分开或折断：~月饼. ~老玉米. 把这个蛤蜊~开." />
 		</definition>
 	</char>
-	<char hz="擘" py="bāi" multi="bò">
-		<definition id="二">
-			<item text="同“掰”" />
-		</definition>
-	</char>
+	<!-- Ref:擘.xml <char hz="擘" py="bāi" multi="bò" /> -->
 	<char hz="白" py="bái">
 		<phrase hz="白卷" py="bái,juàn" />
 	</char>
@@ -23,25 +19,8 @@
 		<phrase hz="百分率" py="bǎi,fēn,lǜ" />
 	</char>
 	<char hz="佰" py="bǎi" />
-	<char hz="伯" py="bǎi" multi="bó">
-		<phrase hz="大伯子" py="dà,bǎi,zi" />
-		<definition id="二">
-			<item text="[大伯子]（--zi）丈夫的哥哥。" />
-		</definition>
-	</char>
-	<char hz="柏" py="bǎi" multi="bó,bò" main="1">
-		<phrase hz="柏树" py="bǎi,shù" />
-		<phrase hz="柏油" py="bǎi,yóu" />
-		<phrase hz="扁柏" py="biǎn,bǎi" />
-		<phrase hz="刺柏" py="cì,bǎi" />
-		<phrase hz="罗汉柏" py="luó,hàn,bǎi" />
-		<phrase hz="圆柏" py="yuán,bǎi" />
-		<phrase hz="松柏" py="sōng,bǎi" />
-		<definition id="一">
-			<item id="1" text="常绿乔木，有侧柏、圆柏、罗汉柏等多种。木质坚硬，纹理致密，可供建筑及制造器物之用。" />
-			<item id="2" text="姓" />
-		</definition>
-	</char>
+	<!-- Ref:伯.xml <char hz="伯" py="bǎi" multi="bó" /> -->
+	<!-- Ref:柏.xml <char hz="柏" py="bǎi" multi="bó,bò" main="1" /> -->
 	<char hz="捭" py="bǎi">
 		<phrase hz="捭阖" py="bǎi,hé" />
 	</char>

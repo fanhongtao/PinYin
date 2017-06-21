@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="扒" py="bā" multi="pá" main="1">
+		<phrase hz="扒开" py="bā,kāi" />
+		<phrase hz="扒拉" py="bā,la" />
+		<phrase hz="扒皮" py="bā,pí" />
+		<phrase hz="扒瞎" py="bā,xiā" />
+		<phrase hz="牛扒" py="niú,bā" />
+		<definition id="一">
+			<item id="1" text="抓住，把着：~着栏杆. ~着树枝." />
+			<item id="2" text="刨开，挖：城墙~了个豁口. [扒拉]（-la）拨动：~~算盘. ~~开众人." />
+			<item id="3" text="剥，脱：~皮. ~下衣裳." />
+		</definition>
+	</char>
+	<char hz="扒" py="pá" multi="bā">
+		<phrase hz="吃里扒外" py="chī,lǐ,pá,wài" />
+		<phrase hz="扒草" py="pá,cǎo" />
+		<phrase hz="扒灰" py="pá,huī" />
+		<phrase hz="扒窃" py="pá,qiè" />
+		<phrase hz="扒手" py="pá,shǒu" />
+		<phrase hz="扒土" py="pá,tǔ" />
+		<definition id="二">
+			<item id="1" text="用耙(pá)搂(lōu)，聚拢：~草. ~土." />
+			<item id="2" text="扒窃：~手（小偷）." />
+			<item id="3" text="炖烂，煨烂：~猪头." />
+		</definition>
+	</char>
+</pinyin>

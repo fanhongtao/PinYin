@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="炮" py="bāo" multi="páo,pào">
+		<phrase hz="炮干" py="bāo,gān" />
+		<phrase hz="炮羊肉" py="bāo,yáng,ròu" />
+		<definition id="二">
+			<item id="1" text="把物品放在器物上烘烤或焙：把湿衣服搁在热炕上~干." />
+			<item id="2" text="烹调方法，在旺火上急炒：~羊肉." />
+		</definition>
+	</char>
+	<char hz="炮" py="páo" multi="bāo,pào">
+		<phrase hz="炮格" py="páo,gé" />
+		<phrase hz="炮炼" py="páo,liàn" />
+		<phrase hz="炮烙" py="páo,luò" />
+		<phrase hz="炮炙" py="páo,zhì" />
+		<phrase hz="炮制" py="páo,zhì" />
+		<definition id="一">
+			<item text="[炮烙](-luò，旧读-gé)[炮格]古代的一种酷刑。 [炮制]用烘、炒等方法把原料加工制成中药：如法~~（喻照样做）." />
+		</definition>
+	</char>
+	<char hz="炮" py="pào" multi="bāo,páo" main="1" suppressLog="1">
+		<phrase hz="鞭炮" py="biān,pào" />
+		<phrase hz="打炮" py="dǎ,pào" />
+		<phrase hz="大炮" py="dà,pào" />
+		<phrase hz="放空炮" py="fàng,kōng,pào" />
+		<phrase hz="放炮" py="fàng,pào" />
+		<phrase hz="高射炮" py="gāo,shè,pào" />
+		<phrase hz="花炮" py="huā,pào" />
+		<phrase hz="火箭炮" py="huǒ,jiàn,pào" />
+		<phrase hz="火炮" py="huǒ,pào" />
+		<phrase hz="礼炮" py="lǐ,pào" />
+		<phrase hz="连珠炮" py="lián,zhū,pào" />
+		<phrase hz="马后炮" py="mǎ,hòu,pào" />
+		<phrase hz="排炮" py="pái,pào" />
+		<phrase hz="炮兵" py="pào,bīng" />
+		<phrase hz="炮车" py="pào,chē" />
+		<phrase hz="炮铳" py="pào,chòng" />
+		<phrase hz="炮灰" py="pào,huī" />
+		<phrase hz="炮火" py="pào,huǒ" />
+		<phrase hz="炮击" py="pào,jī" />
+		<phrase hz="炮口" py="pào,kǒu" />
+		<phrase hz="炮楼" py="pào,lóu" />
+		<phrase hz="炮塔" py="pào,tǎ" />
+		<phrase hz="炮台" py="pào,tái" />
+		<phrase hz="炮艇" py="pào,tǐng" />
+		<phrase hz="炮位" py="pào,wèi" />
+		<phrase hz="炮仗" py="pào,zhang" />
+		<phrase hz="炮竹" py="pào,zhú" />
+		<phrase hz="曲射炮" py="qǔ,shè,pào" />
+		<phrase hz="瞎炮" py="xiā,pào" />
+		<phrase hz="哑炮" py="yǎ,pào" />
+		<phrase hz="重炮" py="zhòng,pào" />
+		<definition id="三">
+			<item id="1" text="武器的一类，有迫击炮、高射炮、火箭炮等。" />
+			<item id="2" text="爆竹：鞭~. ~仗(zhang)." />
+		</definition>
+	</char>
+</pinyin>

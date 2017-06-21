@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="薄" py="báo" multi="bó,bò" main="1">
+		<phrase hz="薄饼" py="báo,bǐng" />
+		<phrase hz="薄膜" py="báo,báo" />
+		<phrase hz="薄片" py="báo,piàn" />
+		<phrase hz="薄纱" py="báo,shā" />
+		<phrase hz="薄透镜" py="báo,tòu,jìng" />
+		<phrase hz="薄纸" py="báo,zhǐ" />
+		<definition id="一">
+			<item id="1" text="厚度小的：~片. ~饼. ~纸. 这块布太~." />
+			<item id="2" text="（感情）冷淡。" />
+			<item id="3" text="（味道）淡：酒味很~." />
+			<item id="4" text="不肥沃：土地~." />
+		</definition>
+	</char>
+	<char hz="薄" py="bó" multi="báo,bò">
+		<phrase hz="鄙薄" py="bǐ,bó" />
+		<phrase hz="薄产" py="bó,chǎn" />
+		<phrase hz="薄酬" py="bó,chóu" />
+		<phrase hz="薄技" py="bó,jì" />
+		<phrase hz="薄酒" py="bó,jiǔ" />
+		<phrase hz="薄礼" py="bó,lǐ" />
+		<phrase hz="薄暮" py="bó,mù" />
+		<phrase hz="薄命" py="bó,mìng" />
+		<phrase hz="薄情" py="bó,qíng" />
+		<phrase hz="薄弱" py="bó,ruò" />
+		<phrase hz="薄田" py="bó,tián" />
+		<phrase hz="薄雾" py="bó,wù" />
+		<phrase hz="薄幸" py="bó,xìng" />
+		<phrase hz="薄葬" py="bó,zàng" />
+		<phrase hz="单薄" py="dān,bó" />
+		<phrase hz="淡薄" py="dàn,bó" />
+		<phrase hz="菲薄" py="fěi,bó" />
+		<phrase hz="厚薄" py="hòu,bó" />
+		<phrase hz="厚此薄彼" py="hòu,cǐ,bó,bǐ" />
+		<phrase hz="厚古薄今" py="hòu,gǔ,bó,jīn" />
+		<phrase hz="厚积薄发" py="hòu,jī,bó,fā" />
+		<phrase hz="瘠薄" py="jí,bó" />
+		<phrase hz="尖嘴薄舌" py="jiān,zuǐ,bó,shé" />
+		<phrase hz="刻薄" py="kè,bó" />
+		<phrase hz="绵薄" py="mián,bó" />
+		<phrase hz="绵力薄材" py="mián,lì,bó,cái" />
+		<phrase hz="喷薄" py="pēn,bó" />
+		<phrase hz="轻薄" py="qīng,bó" />
+		<phrase hz="浅薄" py="qiǎn,bó" />
+		<phrase hz="日薄西山" py="rì,bó,xī,shān" />
+		<phrase hz="如履薄冰" py="rú,lǚ,bó,bīng" />
+		<phrase hz="微薄" py="wēi,bó" />
+		<phrase hz="稀薄" py="xī,bó" />
+		<phrase hz="义薄云天" py="yì,bó,yún,tiān" />
+		<definition id="二">
+			<item id="1" text="同“薄(一)”。用于合成词或成语，如厚薄、单薄、淡薄、浅薄、薄田、薄弱、尖嘴薄舌、厚古薄今等。" />
+			<item id="2" text="轻微，少：~技，~酬." />
+			<item id="3" text="不庄重：轻~." />
+			<item id="4" text="看不起，轻视，慢待：鄙~. 厚此~彼. 不可妄自菲~." />
+			<item id="5" text="迫近：~暮（天快黑）. 日~西山." />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+	<char hz="薄" py="bò" multi="báo,bó">
+		<phrase hz="薄荷" py="bò,he" />
+		<definition id="三">
+			<item text="[薄荷](-he)多年生草本植物，叶和茎有清凉香味，可入药。" />
+		</definition>
+	</char>
+</pinyin>

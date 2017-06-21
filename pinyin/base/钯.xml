@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钯" py="bǎ" multi="pá" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Pd，银白色，富延展性，能吸收多量的氢，可以用来提取纯粹的氢气。又可制催化剂。它的合金可制电器仪表等。" />
+		</definition>
+	</char>
+	<char hz="钯" py="pá" multi="bǎ">
+		<phrase hz="钉钯" py="dīng,pá" />
+		<definition id="二">
+			<item text="同“耙”(pá)。" />
+		</definition>
+	</char>
+</pinyin>

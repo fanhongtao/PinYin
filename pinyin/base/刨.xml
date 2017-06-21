@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刨" py="bào" multi="páo">
+		<phrase hz="刨冰" py="bào,bīng" />
+		<phrase hz="刨床" py="bào,chuáng" />
+		<phrase hz="刨刀" py="bào,dāo" />
+		<phrase hz="刨花" py="bào,huā" />
+		<phrase hz="刨光" py="bào,guāng" />
+		<phrase hz="刨平" py="bào,píng" />
+		<phrase hz="刨身" py="bào,shēn" />
+		<phrase hz="刨子" py="bào,zi" />
+		<phrase hz="龙门刨" py="lóng,mén,bào" />
+		<definition id="二">
+			<item id="1" text="（-子）推刮木料等使平滑的工具。[刨床]推刮金属制品使平滑的机器。" />
+			<item id="2" text="用刨子或刨床推刮：~得不光. ~平." />
+		</definition>
+	</char>
+	<char hz="刨" py="páo" multi="bào" main="1">
+		<phrase hz="镑刨" py="bàng,páo" />
+		<phrase hz="刨除" py="páo,chú" />
+		<phrase hz="刨根究底" py="páo,gēn,jiū,dǐ" />
+		<phrase hz="刨根问底" py="páo,gēn,wèn,dǐ" />
+		<phrase hz="刨工" py="páo,gōng" />
+		<phrase hz="刨花生" py="páo,huā,shēng" />
+		<phrase hz="刨坑" py="páo,kēng" />
+		<phrase hz="刨去" py="páo,qù" />
+		<phrase hz="刨梢" py="páo,shāo" info="方言。砍柴。" />
+		<phrase hz="刨食" py="páo,shí" />
+		<phrase hz="刨土" py="páo,tǔ" />
+		<phrase hz="刨削" py="páo,xuē" />
+		<phrase hz="刨治" py="páo,zhì" />
+		<phrase hz="刨祖坟" py="páo,zǔ,fén" />
+		<definition id="一">
+			<item id="1" text="挖掘：~花生. ~坑." />
+			<item id="2" text="减，除去：~去他还有俩人. 十五天~去五天，只剩下十天了." />
+		</definition>
+	</char>
+</pinyin>

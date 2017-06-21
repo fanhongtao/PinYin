@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泊" py="bó" multi="pō" main="1">
+		<phrase hz="泊车" py="bó,chē" />
+		<phrase hz="泊船" py="bó,chuán" />
+		<phrase hz="泊位" py="bó,wèi" info="港区内能停靠船舶的位置" />
+		<phrase hz="淡泊" py="dàn,bó" />
+		<phrase hz="澹泊" py="dàn,bó" />
+		<phrase hz="河泊所" py="hé,bó,suǒ" info="古代掌收鱼税的官署" />
+		<phrase hz="鸾飘凤泊" py="luán,piāo,fèng,bó" />
+		<phrase hz="落泊" py="luò,bó" />
+		<phrase hz="马泊六" py="mǎ,bó,liù" />
+		<phrase hz="锚泊" py="máo,bó" info="[船舶]抛锚停泊" />
+		<phrase hz="漂泊" py="piāo,bó" />
+		<phrase hz="飘泊" py="piāo,bó" />
+		<phrase hz="恬泊" py="tián,bó" />
+		<phrase hz="停泊" py="tíng,bó" />
+		<definition id="一">
+			<item id="1" text="停船靠岸（(连)停-）：~船." />
+			<item id="2" text="恬静。[淡泊]（*澹泊）不贪图功名利禄。" />
+		</definition>
+	</char>
+	<char hz="泊" py="pō" multi="bó">
+		<phrase hz="湖泊" py="hú,pō" />
+		<phrase hz="梁山泊" py="liáng,shān,pō" />
+		<phrase hz="泊地" py="pō,dì" info="湖边的田地" />
+		<phrase hz="血泊" py="xuè,pō" />
+		<definition id="二">
+			<item text="湖：湖~. 血~（一大摊血）. [梁山泊]古湖泊名，在今山东省西南部。" />
+		</definition>
+	</char>
+</pinyin>

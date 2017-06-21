@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="骠" py="biāo" multi="piào">
+		<phrase hz="黄骠马" py="huáng,biāo,mǎ" />
+		<definition id="二">
+			<item text="[黄骠马]一种黄毛夹杂着白点子的马。" />
+		</definition>
+	</char>
+	<char hz="骠" py="piào" multi="biāo" main="1" suppressLog="1">
+		<phrase hz="骠勇" py="piào,yǒng" />
+		<phrase hz="骠骑" py="piào,qí" />
+		<definition id="一">
+			<item id="1" text="勇猛：~勇." />
+			<item id="2" text="马快跑的样子。" />
+			<item text="[骠骑]古代将军的名号：~~将军." />
+		</definition>
+	</char>
+</pinyin>

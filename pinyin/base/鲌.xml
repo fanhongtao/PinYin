@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鲌" py="bà" multi="bó">
+		<phrase hz="鲌鲜" py="bà,xiān" />
+		<definition id="二">
+			<item text="同“鲅”" />
+		</definition>
+	</char>
+	<char hz="鲌" py="bó" multi="bà" main="1">
+		<phrase hz="翘嘴红鲌" py="qiào,zuǐ,hóng,bó" />
+		<phrase hz="短尾鲌" py="duǎn,wěi,bó" />
+		<definition id="一">
+			<item text="鱼名。身体侧扁，嘴向上翘，生活在淡水中。" />
+		</definition>
+	</char>
+</pinyin>

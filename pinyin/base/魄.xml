@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="魄" py="bó" multi="pò,tuò">
+		<definition id="三">
+			<item text="“落魄”(luòpò)的“魄”的又音。" />
+		</definition>
+	</char>
+	<char hz="魄" py="pò" multi="bó,tuò" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="迷信指依附形体而存在的精神（(连)魂-）：失魂落~." />
+			<item id="2" text="精神，精力：气~. 体~健全. 做工作要有~力." />
+		</definition>
+	</char>
+	<char hz="魄" py="tuò" multi="bó,pò">
+		<definition id="二">
+			<item text="“落魄”(luòpò)的“魄”的又音。" />
+		</definition>
+	</char>
+</pinyin>

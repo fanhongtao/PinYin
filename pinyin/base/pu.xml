@@ -1,40 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="仆" py="pū" multi="pú">
-		<phrase hz="前仆后继" py="qián,pū,hòu,jì" />
-		<definition id="一">
-			<item text="向前跌倒：前~后继." />
-		</definition>
-	</char>
+	<!-- Ref:仆.xml <char hz="仆" py="pū" multi="pú" /> -->
 	<char hz="扑" py="pū" />
-	<char hz="铺" py="pū" multi="pù" main="1">
-		<phrase hz="平铺直叙" py="píng,pū,zhí,xù" info="铺：铺陈；叙：叙述。说话或写文章不加修饰，没有起伏，重点不突出。" />
-		<phrase hz="铺垫" py="pū,diàn" info="1.铺在床上的卧具。 2.行将来临的事物的衬托。" />
-		<phrase hz="铺盖" py="pū,gài" info="1.平铺着覆盖。 2.床上供取暖或装饰用的织物(如被子、毯子、罩单或被单)。 3.床单、毯子或其他床上用品。" />
-		<phrase hz="铺天盖地" py="pū,tiān,gài,dì" info="一下子到处都是。形容来势很猛。" />
-		<phrase hz="铺叙" py="pū,xù" info="详细地叙述" />
-		<phrase hz="铺张" py="pū,zhāng" info="过分讲究排场而耗费许多财物。" />
-		<definition id="一">
-			<item text="把东西散开放置，平摆：~轨. 平~直叙（说话作文没有精彩处）. 为实现共产主义社会~平道路." />
-			<item text="[铺张]为了在形式上好看而多用人力物力：反对~~浪费." />
-		</definition>
-	</char>
+	<!-- Ref:铺.xml <char hz="铺" py="pū" multi="pù" main="1" /> -->
 	<char hz="噗" py="pū">
 		<phrase hz="噗嗤" py="pū,chī" />
 	</char>
 	<char hz="潽" py="pū" />
-	<char hz="仆" py="pú" multi="pū" main="1">
-		<phrase hz="公仆" py="gōng,pú" />
-		<phrase hz="奴仆" py="nú,pú" />
-		<phrase hz="仆从" py="pú,cóng" />
-		<phrase hz="仆夫" py="pú,fū" />
-		<phrase hz="仆人" py="pú,rén" />
-		<phrase hz="仆役" py="pú,yì" />
-		<definition id="二">
-			<item id="1" text="雇到家里做杂事、供役使的人：~人. 女~. [仆从]旧时指跟随在身边的仆人。 (喻)受人控制并追随别人的：~~国." />
-			<item id="2" text="旧时男子谦称自己。" />
-		</definition>
-	</char>
+	<!-- Ref:仆.xml <char hz="仆" py="pú" multi="pū" main="1" /> -->
 	<char hz="匍" py="pú">
 		<phrase hz="匍匐" py="pú,fú" />
 	</char>
@@ -42,13 +15,7 @@
 		<phrase hz="葡萄" py="pú,tao" />
 	</char>
 	<char hz="莆" py="pú" />
-	<char hz="脯" py="pú" multi="fǔ">
-		<phrase hz="脯子" py="pú,zi" />
-		<phrase hz="胸脯" py="xiōng,pú" />
-		<definition id="二">
-			<item text="（-子、-儿）胸脯，胸部：挺着胸~子." />
-		</definition>
-	</char>
+	<!-- Ref:脯.xml <char hz="脯" py="pú" multi="fǔ" /> -->
 	<char hz="蒲" py="pú" />
 	<char hz="酺" py="pú" />
 	<char hz="菩" py="pú">
@@ -58,31 +25,8 @@
 	<char hz="璞" py="pú" />
 	<char hz="镤" py="pú" />
 	<char hz="濮" py="pú" />
-	<char hz="朴" py="pǔ" multi="piáo,pō,pò" main="1">
-		<phrase hz="纯朴" py="chún,pǔ" info="淳朴;纯正朴素" />
-		<phrase hz="淳朴" py="chún,pǔ" info="敦厚质朴" />
-		<phrase hz="古朴" py="gǔ,pǔ" info="古老而质朴" />
-		<phrase hz="浑朴" py="hún,pǔ" info="淳朴无华;雄厚朴实" />
-		<phrase hz="简朴" py="jiǎn,pǔ" info="朴素简单" />
-		<phrase hz="俭朴" py="jiǎn,pǔ" info="俭省朴实" />
-		<phrase hz="朴厚" py="pǔ,hòu" info="质朴诚厚" />
-		<phrase hz="朴陋" py="pǔ,lòu" info="质朴无华;质朴鄙陋" />
-		<phrase hz="朴实" py="pǔ,shí" info="淳朴诚实;质朴笃实" />
-		<phrase hz="朴素" py="pǔ,sù" info="1.质朴;无文彩 2.俭仆，不奢侈" />
-		<phrase hz="朴直" py="pǔ,zhí" info="朴实直率" />
-		<phrase hz="素朴" py="sù,pǔ" info="1.朴素;朴实无华 2.刚产生的;未发展的" />
-		<phrase hz="质朴" py="zhì,pǔ" info="朴实；不矫饰" />
-		<definition id="二">
-			<item text="没有细加工的木料。 (喻)朴实，朴素。" />
-		</definition>
-	</char>
-	<char hz="埔" py="pǔ" multi="bù" main="1">
-		<phrase hz="黄埔" py="huáng,pǔ" />
-		<phrase hz="埔头" py="pǔ,tóu" info="方言。码头；交通便利的商业城市。" />
-		<definition id="一">
-			<item text="[黄埔]地名，在广东省广州。" />
-		</definition>
-	</char>
+	<!-- Ref:朴.xml <char hz="朴" py="pǔ" multi="piáo,pō,pò" main="1" /> -->
+	<!-- Ref:埔.xml <char hz="埔" py="pǔ" multi="bù" main="1" /> -->
 	<char hz="圃" py="pǔ" />
 	<char hz="浦" py="pǔ" />
 	<char hz="溥" py="pǔ" />
@@ -95,58 +39,9 @@
 	</char>
 	<char hz="镨" py="pǔ" />
 	<char hz="蹼" py="pǔ" />
-	<char hz="铺" py="pù" multi="pū">
-		<phrase hz="床铺" py="chuáng,pù" />
-		<phrase hz="店铺" py="diàn,pù" info="商店，又称铺子" />
-		<phrase hz="饭铺" py="fàn,pù" />
-		<phrase hz="临时搭铺" py="lín,shí,dā,pù" />
-		<phrase hz="三十里铺" py="sān,shí,lǐ,pù" />
-		<phrase hz="上下铺" py="shàng,xià,pù" />
-		<phrase hz="卧铺" py="wò,pù" info="火车上供旅客睡觉的铺位" />
-		<phrase hz="药铺" py="yào,pù" info="出售中药的店铺，有的兼售西药" />
-		<phrase hz="杂货铺" py="zá,huò,pù" />
-		<definition id="二">
-			<item id="1" text="（-子、-儿）商店：饭~. 杂货~." />
-			<item id="2" text="床（(连)床-）：上下~. 临时搭~." />
-			<item id="3" text="旧时的驿站，现在用于地名：三十里~." />
-		</definition>
-	</char>
-	<char hz="堡" py="pù" multi="bǎo,bǔ">
-		<phrase hz="暗堡" py="àn,pù" info="隐蔽不露的地堡。" />
-		<phrase hz="别堡" py="bié,pù" info="谓拱卫中心城市的城堡。" />
-		<phrase hz="地堡" py="dì,pù" info="供步枪、机枪射击用的有掩盖的低矮工事。" />
-		<phrase hz="大堡礁" py="dà,pù,jiāo" info="位于澳大利亚东岸的堡礁。" />
-		<phrase hz="哥德堡" py="gē,dé,pù" info="瑞典第二大城市和最大港口。" />
-		<phrase hz="堡聚" py="pù,jù" />
-		<phrase hz="十里堡" py="shí,lǐ,pù" />
-		<phrase hz="台堡" py="tái,pù" info="军事上用于警戒防守的建筑物。" />
-		<phrase hz="戍堡" py="shù,pù" info="边防驻军的营垒、城堡。" />
-		<phrase hz="土木堡" py="tǔ,mù,pù" />
-		<phrase hz="寨堡" py="zhài,pù" info="清 朝办团练时所建的据点。" />
-		<definition id="三">
-			<item text="地名用字：十里~." />
-		</definition>
-	</char>
-	<char hz="暴" py="pù" multi="bào">
-		<phrase hz="一暴十寒" py="yī,pù,shí,hán" />
-		<definition id="二">
-			<item text="晒，晒干。后作“曝”(pù)。" />
-		</definition>
-	</char>
-	<char hz="瀑" py="pù" multi="bào" main="1">
-		<phrase hz="瀑布" py="pù,bù" />
-		<definition id="一">
-			<item text="瀑布，水从高山上陡直地流下来，远看好像垂挂着的白布。" />
-		</definition>
-	</char>
-	<char hz="曝" py="pù" multi="bào" main="1">
-		<phrase hz="曝场" py="pù,chǎng" />
-		<phrase hz="曝露" py="pù,lù" />
-		<phrase hz="曝晒" py="pù,shài" />
-		<phrase hz="曝尸" py="pù,shī" />
-		<phrase hz="一曝十寒" py="yī,pù,shí,hán" />
-		<definition id="一">
-			<item text="晒：一~十寒（喻没有恒心）." />
-		</definition>
-	</char>
+	<!-- Ref:铺.xml <char hz="铺" py="pù" multi="pū" /> -->
+	<!-- Ref:堡.xml <char hz="堡" py="pù" multi="bǎo,bǔ" /> -->
+	<!-- Ref:暴.xml <char hz="暴" py="pù" multi="bào" /> -->
+	<!-- Ref:瀑.xml <char hz="瀑" py="pù" multi="bào" main="1" /> -->
+	<!-- Ref:曝.xml <char hz="曝" py="pù" multi="bào" main="1" /> -->
 </pinyin>

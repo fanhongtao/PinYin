@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="洑" py="fú" multi="fù" main="1">
+		<definition id="一">
+			<item id="1" text="漩涡。" />
+			<item id="2" text="水在地下潜流。" />
+		</definition>
+	</char>
+	<char hz="洑" py="fù" multi="fú">
+		<phrase hz="洑水" py="fù,shuǐ" />
+		<definition id="二">
+			<item text="在水里游：~水." />
+		</definition>
+	</char>
+</pinyin>

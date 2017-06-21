@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="把" py="bǎ" multi="bà" main="1">
+		<phrase hz="把柄" py="bǎ,bǐng" />
+		<phrase hz="把持" py="bǎ,chí" />
+		<phrase hz="把舵" py="bǎ,duò" />
+		<phrase hz="把风" py="bǎ,fēng" />
+		<phrase hz="把犁" py="bǎ,lí" />
+		<phrase hz="把酒" py="bǎ,jiǔ" />
+		<phrase hz="把门" py="bǎ,mén" />
+		<phrase hz="把势" py="bǎ,shi" />
+		<phrase hz="把式" py="bǎ,shi" />
+		<phrase hz="把头" py="bǎ,tóu" />
+		<phrase hz="把玩" py="bǎ,wán" />
+		<phrase hz="把握" py="bǎ,wò" />
+		<phrase hz="把戏" py="bǎ,xì" />
+		<phrase hz="把兄" py="bǎ,xiōng" />
+		<phrase hz="把盏" py="bǎ,zhǎn" />
+		<phrase hz="投机倒把" py="tóu,jī,dǎo,bǎ" />
+		<phrase hz="一把手" py="yī,bǎ,shǒu" />
+		<definition id="一">
+			<item id="1" text="拿，抓住：~盏. 两手~住门." />
+			<item id="2" text="控制，掌握：~舵. ~犁. [把持]专权，一手独揽，不让他人参与：~~财权. [把握]1.掌握，控制，有效地处理：~~时机. 2.事情成功的可靠性：这次试验，他很有~~." />
+			<item id="3" text="把守，看守：~门. ~风（守候，防有人来）." />
+			<item id="4" text="手推车、自行车等的柄：车~." />
+			<item id="5" text="（-儿）可以用手拿的小捆：草~儿." />
+			<item id="6" text="介词，和“将”相当：~一生献给党. ~更多的工业品供应给农民." />
+			<item id="7" text="量词。1.用于有柄的：一~刀. 一~扇子. 2.用于可以一手抓的：一~粮食一~汗. 3.用于某些抽象的事物：一~年纪. 努~力." />
+			<item id="8" text="放在量词或“百、千、万”等数词的后面，表示约略估计：丈~高的树，个~月以前. 有百~人." />
+			<item id="9" text="指拜把子（结为异姓兄弟）的关系：~兄." />
+		</definition>
+	</char>
+	<char hz="把" py="bà" multi="bǎ">
+		<phrase hz="把儿" py="bà,er" />
+		<definition id="二">
+			<item text="（~儿）物体上便于手拿的部分，柄：刀~儿，茶壶~儿. [话把儿]被人作为谈笑资料的言论或行为。" />
+		</definition>
+	</char>
+</pinyin>

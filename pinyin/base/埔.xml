@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="埔" py="bù" multi="pǔ">
+		<phrase hz="大埔" py="dà,bù" />
+		<definition id="二">
+			<item text="[大埔]地名，在广东省。" />
+		</definition>
+	</char>
+	<char hz="埔" py="pǔ" multi="bù" main="1">
+		<phrase hz="黄埔" py="huáng,pǔ" />
+		<phrase hz="埔头" py="pǔ,tóu" info="方言。码头；交通便利的商业城市。" />
+		<definition id="一">
+			<item text="[黄埔]地名，在广东省广州。" />
+		</definition>
+	</char>
+</pinyin>

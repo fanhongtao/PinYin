@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="脯" py="fǔ" multi="pú" main="1">
+		<phrase hz="果脯" py="guǒ,fǔ" />
+		<phrase hz="鹿脯" py="lù,fǔ" />
+		<phrase hz="桃脯" py="táo,fǔ" />
+		<phrase hz="杏脯" py="xìng,fǔ" />
+		<definition id="一">
+			<item id="1" text="肉干：鹿~." />
+			<item id="2" text="果脯，蜜饯果干：桃~. 杏~." />
+		</definition>
+	</char>
+	<char hz="脯" py="pú" multi="fǔ">
+		<phrase hz="脯子" py="pú,zi" />
+		<phrase hz="胸脯" py="xiōng,pú" />
+		<definition id="二">
+			<item text="（-子、-儿）胸脯，胸部：挺着胸~子." />
+		</definition>
+	</char>
+</pinyin>

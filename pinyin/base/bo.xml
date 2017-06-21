@@ -13,77 +13,20 @@
 	<char hz="饽" py="bō">
 		<phrase hz="饽饽" py="bō,bo" />
 	</char>
-	<char hz="剥" py="bō" multi="bāo" main="1">
-		<phrase hz="剥夺" py="bō,duó" />
-		<phrase hz="剥茧抽丝" py="bō,jiǎn,chōu,sī" />
-		<phrase hz="剥离" py="bō,lí" />
-		<phrase hz="剥落" py="bō,luò" />
-		<phrase hz="剥皮抽筋" py="bō,pí,chōu,jīn" />
-		<phrase hz="剥削" py="bō,xuē" />
-		<phrase hz="盘剥" py="pán,bō" />
-		<phrase hz="生吞活剥" py="shēng,tūn,huó,bō" />
-		<definition id="一">
-			<item text="义同“剥(二)”，用于复合词。[剥夺]1.用强制的方法夺去。2.依照法律取消：~~政治权利. [剥削](-xuē)凭借生产资料的私人所有权、政治上的特权无偿地占有别人的劳动或产品。" />
-		</definition>
-	</char>
+	<!-- Ref:剥.xml <char hz="剥" py="bō" multi="bāo" main="1" /> -->
 	<char hz="播" py="bō" />
 	<char hz="嶓" py="bō">
 		<phrase hz="嶓冢" py="bō,zhǒng" />
 	</char>
-	<char hz="伯" py="bó" multi="bǎi" main="1" suppressLog="1">
-		<phrase hz="伯伯" py="bó,bo" />
-		<phrase hz="伯劳飞燕" py="bó,láo,fēi,yàn" />
-		<definition id="一">
-			<item id="1" text="兄弟排行(háng)常用“伯”、“仲”、“叔”、“季”做次序，伯是老大。 [伯仲] (转)不相上下，好坏差不多。" />
-			<item id="2" text="伯父，父亲的哥哥，大爷(ye)。又对年龄大、辈分高的人的尊称：老~." />
-			<item id="3" text="我国古代五等爵位（公、侯、伯、子、男）的第三等。" />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:伯.xml <char hz="伯" py="bó" multi="bǎi" main="1" suppressLog="1" /> -->
 	<char hz="帛" py="bó" />
-	<char hz="泊" py="bó" multi="pō" main="1">
-		<phrase hz="泊车" py="bó,chē" />
-		<phrase hz="泊船" py="bó,chuán" />
-		<phrase hz="泊位" py="bó,wèi" info="港区内能停靠船舶的位置" />
-		<phrase hz="淡泊" py="dàn,bó" />
-		<phrase hz="澹泊" py="dàn,bó" />
-		<phrase hz="河泊所" py="hé,bó,suǒ" info="古代掌收鱼税的官署" />
-		<phrase hz="鸾飘凤泊" py="luán,piāo,fèng,bó" />
-		<phrase hz="落泊" py="luò,bó" />
-		<phrase hz="马泊六" py="mǎ,bó,liù" />
-		<phrase hz="锚泊" py="máo,bó" info="[船舶]抛锚停泊" />
-		<phrase hz="漂泊" py="piāo,bó" />
-		<phrase hz="飘泊" py="piāo,bó" />
-		<phrase hz="恬泊" py="tián,bó" />
-		<phrase hz="停泊" py="tíng,bó" />
-		<definition id="一">
-			<item id="1" text="停船靠岸（(连)停-）：~船." />
-			<item id="2" text="恬静。[淡泊]（*澹泊）不贪图功名利禄。" />
-		</definition>
-	</char>
-	<char hz="柏" py="bó" multi="bǎi,bò">
-		<phrase hz="柏林" py="bó,lín" />
-		<phrase hz="柏辽兹" py="bó,liáo,zī" info="埃克托·柏辽兹(1803-1869)法国作曲家" />
-		<phrase hz="柏拉图" py="bó,lā,tú" info="(前427-前347)古希腊哲学家" />
-		<definition id="二">
-			<item text="[柏林] 德国的首都。" />
-		</definition>
-	</char>
+	<!-- Ref:泊.xml <char hz="泊" py="bó" multi="pō" main="1" /> -->
+	<!-- Ref:柏.xml <char hz="柏" py="bó" multi="bǎi,bò" /> -->
 	<char hz="铂" py="bó" />
 	<char hz="舶" py="bó" />
-	<char hz="鲌" py="bó" multi="bà" main="1">
-		<phrase hz="翘嘴红鲌" py="qiào,zuǐ,hóng,bó" />
-		<phrase hz="短尾鲌" py="duǎn,wěi,bó" />
-		<definition id="一">
-			<item text="鱼名。身体侧扁，嘴向上翘，生活在淡水中。" />
-		</definition>
-	</char>
+	<!-- Ref:鲌.xml <char hz="鲌" py="bó" multi="bà" main="1" /> -->
 	<char hz="箔" py="bó" />
-	<char hz="魄" py="bó" multi="pò,tuò">
-		<definition id="三">
-			<item text="“落魄”(luòpò)的“魄”的又音。" />
-		</definition>
-	</char>
+	<!-- Ref:魄.xml <char hz="魄" py="bó" multi="pò,tuò" /> -->
 	<char hz="驳" py="bó" />
 	<char hz="勃" py="bó" />
 	<char hz="浡" py="bó" />
@@ -108,105 +51,17 @@
 		<phrase hz="胳膊" py="gē,bo" />
 	</char>
 	<char hz="镈" py="bó" />
-	<char hz="薄" py="bó" multi="báo,bò">
-		<phrase hz="鄙薄" py="bǐ,bó" />
-		<phrase hz="薄产" py="bó,chǎn" />
-		<phrase hz="薄酬" py="bó,chóu" />
-		<phrase hz="薄技" py="bó,jì" />
-		<phrase hz="薄酒" py="bó,jiǔ" />
-		<phrase hz="薄礼" py="bó,lǐ" />
-		<phrase hz="薄暮" py="bó,mù" />
-		<phrase hz="薄命" py="bó,mìng" />
-		<phrase hz="薄情" py="bó,qíng" />
-		<phrase hz="薄弱" py="bó,ruò" />
-		<phrase hz="薄田" py="bó,tián" />
-		<phrase hz="薄雾" py="bó,wù" />
-		<phrase hz="薄幸" py="bó,xìng" />
-		<phrase hz="薄葬" py="bó,zàng" />
-		<phrase hz="单薄" py="dān,bó" />
-		<phrase hz="淡薄" py="dàn,bó" />
-		<phrase hz="菲薄" py="fěi,bó" />
-		<phrase hz="厚薄" py="hòu,bó" />
-		<phrase hz="厚此薄彼" py="hòu,cǐ,bó,bǐ" />
-		<phrase hz="厚古薄今" py="hòu,gǔ,bó,jīn" />
-		<phrase hz="厚积薄发" py="hòu,jī,bó,fā" />
-		<phrase hz="瘠薄" py="jí,bó" />
-		<phrase hz="尖嘴薄舌" py="jiān,zuǐ,bó,shé" />
-		<phrase hz="刻薄" py="kè,bó" />
-		<phrase hz="绵薄" py="mián,bó" />
-		<phrase hz="绵力薄材" py="mián,lì,bó,cái" />
-		<phrase hz="喷薄" py="pēn,bó" />
-		<phrase hz="轻薄" py="qīng,bó" />
-		<phrase hz="浅薄" py="qiǎn,bó" />
-		<phrase hz="日薄西山" py="rì,bó,xī,shān" />
-		<phrase hz="如履薄冰" py="rú,lǚ,bó,bīng" />
-		<phrase hz="微薄" py="wēi,bó" />
-		<phrase hz="稀薄" py="xī,bó" />
-		<phrase hz="义薄云天" py="yì,bó,yún,tiān" />
-		<definition id="二">
-			<item id="1" text="同“薄(一)”。用于合成词或成语，如厚薄、单薄、淡薄、浅薄、薄田、薄弱、尖嘴薄舌、厚古薄今等。" />
-			<item id="2" text="轻微，少：~技，~酬." />
-			<item id="3" text="不庄重：轻~." />
-			<item id="4" text="看不起，轻视，慢待：鄙~. 厚此~彼. 不可妄自菲~." />
-			<item id="5" text="迫近：~暮（天快黑）. 日~西山." />
-			<item id="6" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:薄.xml <char hz="薄" py="bó" multi="báo,bò" /> -->
 	<char hz="礴" py="bó" />
 	<char hz="僰" py="bó" />
 	<char hz="踣" py="bó" />
 	<char hz="跛" py="bǒ" />
-	<char hz="簸" py="bǒ" multi="bò" main="1">
-		<phrase hz="簸荡" py="bǒ,dàng" />
-		<phrase hz="簸动" py="bǒ,dòng" />
-		<phrase hz="簸谷" py="bǒ,gǔ" />
-		<phrase hz="颠簸" py="diān,bǒ" />
-		<definition id="一">
-			<item id="1" text="用簸(bò)箕颠动米粮，扬去糠秕和灰尘。" />
-			<item id="2" text="颠动得像米粮在簸箕里簸起来一样：船在海浪中颠~起伏." />
-		</definition>
-	</char>
-	<char hz="柏" py="bò" multi="bǎi,bó">
-		<phrase hz="黄柏" py="huáng,bò" />
-		<definition id="三">
-			<item text="[黄柏]即黄檗。" />
-		</definition>
-	</char>
-	<char hz="薄" py="bò" multi="báo,bó">
-		<phrase hz="薄荷" py="bò,he" />
-		<definition id="三">
-			<item text="[薄荷](-he)多年生草本植物，叶和茎有清凉香味，可入药。" />
-		</definition>
-	</char>
+	<!-- Ref:簸.xml <char hz="簸" py="bǒ" multi="bò" main="1" /> -->
+	<!-- Ref:柏.xml <char hz="柏" py="bò" multi="bǎi,bó" /> -->
+	<!-- Ref:薄.xml <char hz="薄" py="bò" multi="báo,bó" /> -->
 	<char hz="檗" py="bò" />
-	<char hz="擘" py="bò" multi="bāi" main="1">
-		<phrase hz="擘画" py="bò,huà" />
-		<phrase hz="擘划" py="bò,huà" />
-		<phrase hz="擘肌分理" py="bò,jī,fēn,lǐ" />
-		<phrase hz="擘笺" py="bò,jiān" />
-		<phrase hz="擘开" py="bò,kāi" />
-		<phrase hz="擘窠" py="bò,kē" />
-		<phrase hz="擘蓝" py="bò,lán" />
-		<phrase hz="擘啮" py="bò,niè" />
-		<phrase hz="擘析" py="bò,xī" />
-		<phrase hz="擘张" py="bò,zhāng" />
-		<phrase hz="分擘" py="fēn,bò" />
-		<phrase hz="巨擘" py="jù,bò" />
-		<definition id="一">
-			<item text="大拇指。[巨擘](喻)杰出的人物。" />
-		</definition>
-	</char>
-	<char hz="簸" py="bò" multi="bǒ" info="Word主音">
-		<phrase hz="簸箕" py="bò,ji" />
-		<definition id="二">
-			<item text="[簸箕](-ji)扬糠除秽的用具。" />
-		</definition>
-	</char>
-	<char hz="卜" py="bo" multi="bǔ" info="Word主音">
-		<phrase hz="萝卜" py="luó,bo" />
-		<definition id="二">
-			<item text="见“萝”字条“萝卜”。" />
-		</definition>
-	</char>
+	<!-- Ref:擘.xml <char hz="擘" py="bò" multi="bāi" main="1" /> -->
+	<!-- Ref:簸.xml <char hz="簸" py="bò" multi="bǒ" info="Word主音" /> -->
+	<!-- Ref:卜.xml <char hz="卜" py="bo" multi="bǔ" info="Word主音" /> -->
 	<char hz="啵" py="bo" />
 </pinyin>

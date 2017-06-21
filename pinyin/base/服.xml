@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="服" py="fú" multi="fù" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="衣服，衣裳（(连)-装）：制~. ~装整齐. 旧时特指丧服。" />
+			<item id="2" text="穿（衣裳）。" />
+			<item id="3" text="承当，担任：~刑. ~兵役." />
+			<item id="4" text="信服，顺从（(连)-从）：说~. 心悦诚~. 心里不~. ~软（认输，认错）. ~从党的领导." />
+			<item id="5" text="习惯，适应：水土不~." />
+			<item id="6" text="吃（药）：~药." />
+		</definition>
+	</char>
+	<char hz="服" py="fù" multi="fú">
+		<definition id="二">
+			<item text="量词，用于中药，也作“付”，吃~药就好了." />
+		</definition>
+	</char>
+</pinyin>

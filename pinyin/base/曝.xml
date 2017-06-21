@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="曝" py="bào" multi="pù">
+		<phrase hz="曝光" py="bào,guāng" />
+		<definition id="二">
+			<item text="[曝光]使感光纸或摄影胶片感光。(喻)隐蔽的事情暴露出来，被众人知道。" />
+		</definition>
+	</char>
+	<char hz="曝" py="pù" multi="bào" main="1">
+		<phrase hz="曝场" py="pù,chǎng" />
+		<phrase hz="曝露" py="pù,lù" />
+		<phrase hz="曝晒" py="pù,shài" />
+		<phrase hz="曝尸" py="pù,shī" />
+		<phrase hz="一曝十寒" py="yī,pù,shí,hán" />
+		<definition id="一">
+			<item text="晒：一~十寒（喻没有恒心）." />
+		</definition>
+	</char>
+</pinyin>

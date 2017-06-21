@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吧" py="bā" multi="ba" main="1">
+		<phrase hz="吧吧" py="bā,bā" />
+		<phrase hz="吧嗒" py="bā,dā" />
+		<phrase hz="吧唧" py="bā,jī" />
+		<phrase hz="吧女" py="bā,nǚ" />
+		<phrase hz="吧台" py="bā,tái" />
+		<phrase hz="酒吧" py="jiǔ,bā" />
+		<phrase hz="网吧" py="wǎng,bā" />
+		<phrase hz="氧吧" py="yǎng,bā" />
+		<definition id="一">
+			<item id="1" text="拟声词，同“叭”：~嗒（dā）. ~唧（jī）. ~的一声." />
+			<item id="2" text="（外）具备特定功能或设施的休闲场所：酒~. 网~. 氧~. ~台." />
+		</definition>
+	</char>
+	<char hz="吧" py="ba" multi="bā">
+		<phrase hz="好吧" py="hǎo,ba" />
+		<definition id="二">
+			<item text="助词，用在句末，也作“罢”。1.表示可以，允许：好~，就这么办~. 2.表示推测，估量：今天不会下雨~. 3.表示命令，请求：快出去~！还是你去~！ 4.用于停顿处：说~，不好意思；不说~，问题又不能解决." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="剥" py="bāo" multi="bō">
+		<phrase hz="剥皮" py="bāo,pí" />
+		<phrase hz="剥辱" py="bāo,rǔ" info="谓革职之辱。" />
+		<phrase hz="剥啄" py="bāo,zhuó" />
+		<phrase hz="剥坐" py="bāo,zuò" info="革职治罪。" />
+		<phrase hz="毕剥" py="bì,bāo" />
+		<phrase hz="哔剥" py="bì,bāo" />
+		<phrase hz="必必剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="毕毕剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="哔哔剥剥" py="bì,bì,bāo,bāo" />
+		<phrase hz="残剥" py="cán,bāo" info="1.残害剥夺。2.残缺剥蚀。" />
+		<phrase hz="抽丝剥茧" py="chōu,sī,bāo,jiǎn" />
+		<phrase hz="摧剥" py="cuī,bāo" />
+		<phrase hz="凋剥" py="diāo,bāo" info="损伤。" />
+		<phrase hz="劫剥" py="jié,bāo" />
+		<definition id="二">
+			<item text="去掉外面的皮、壳或其他东西（常用于口语）：~花生. ~皮." />
+		</definition>
+	</char>
+	<char hz="剥" py="bō" multi="bāo" main="1">
+		<phrase hz="剥夺" py="bō,duó" />
+		<phrase hz="剥茧抽丝" py="bō,jiǎn,chōu,sī" />
+		<phrase hz="剥离" py="bō,lí" />
+		<phrase hz="剥落" py="bō,luò" />
+		<phrase hz="剥皮抽筋" py="bō,pí,chōu,jīn" />
+		<phrase hz="剥削" py="bō,xuē" />
+		<phrase hz="盘剥" py="pán,bō" />
+		<phrase hz="生吞活剥" py="shēng,tūn,huó,bō" />
+		<definition id="一">
+			<item text="义同“剥(二)”，用于复合词。[剥夺]1.用强制的方法夺去。2.依照法律取消：~~政治权利. [剥削](-xuē)凭借生产资料的私人所有权、政治上的特权无偿地占有别人的劳动或产品。" />
+		</definition>
+	</char>
+</pinyin>
