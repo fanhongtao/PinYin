@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蜚" py="fēi" multi="fěi" main="1" suppressLog="1">
+		<phrase hz="蜚声" py="fēi,shēng" info="扬名。" />
+		<phrase hz="蜚语" py="fēi,yǔ" info="无根据的话，诽谤。" />
+		<definition id="一">
+			<item text="古同“飞”。" />
+		</definition>
+	</char>
+	<char hz="蜚" py="fěi" multi="fēi" info="Word主音">
+		<phrase hz="蜚蠊" py="fěi,lián" />
+		<definition id="二">
+			<item text="[蜚蠊](-lián)蟑螂(zhāngláng)的别称。" />
+		</definition>
+	</char>
+</pinyin>

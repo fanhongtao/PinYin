@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="芾" py="fèi" multi="fú" main="1">
+		<phrase hz="蔽芾" py="bì,fèi" />
+		<definition id="一">
+			<item text="[蔽芾]形容树干及树叶小。" />
+		</definition>
+	</char>
+	<char hz="芾" py="fú" multi="fèi">
+		<phrase hz="米芾" py="mǐ,fú" info="米芾（1051-1107），初名黻，后改芾，字元章。北宋书法家、画家、书画理论家，与蔡襄、苏轼、黄庭坚合称“宋四家”。" />
+		<definition id="二">
+			<item id="1" text="草木茂盛。" />
+			<item id="2" text="同“黻”。宋代书画家米芾，也作米黻。" />
+		</definition>
+	</char>
+</pinyin>
