@@ -7,12 +7,7 @@
 			<item id="2" text="叹词。1.表示惋惜或后悔：~，我为什么这么糊涂！ 2.招呼人，提醒人注意：~，到这儿来." />
 		</definition>
 	</char>
-	<char hz="嗨" py="hāi" multi="hēi" main="1">
-		<phrase hz="嗨哟" py="hāi,yō" info="1.用于水手拉起缆索准备开船。2.用作号召努力的呼声或引起注意的呼声。" />
-		<definition id="一">
-			<item text="叹词，同“咳(二)(2)”。" />
-		</definition>
-	</char>
+	<!-- Ref:嗨.xml <char hz="嗨" py="hāi" multi="hēi" main="1" /> -->
 	<!-- Ref:还.xml <char hz="还" py="hái" multi="huán" main="1" /> -->
 	<char hz="孩" py="hái" />
 	<char hz="骸" py="hái" />

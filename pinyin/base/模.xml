@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="模" py="mó" multi="mú" main="1">
+		<phrase hz="规模" py="guī,mó" info="事业、工程、运动、机构等所包含的范围" />
+		<phrase hz="航模" py="háng,mó" info="外形、结构与飞机或船只相类似的模具" />
+		<phrase hz="楷模" py="kǎi,mó" info="值得学习的人或事物;榜样" />
+		<phrase hz="模本" py="mó,běn" info="照书画原件临摹或翻刻拓印的复制品" />
+		<phrase hz="模范" py="mó,fàn" info="1.学习、工作中值得树为典型的优秀人才或事迹。2.被认为是值得仿效的人或物;同类中最完美的事物。3.指制造器物的模型，模子。" />
+		<phrase hz="模仿" py="mó,fǎng" info="按照现成的样子做" />
+		<phrase hz="模糊" py="mó,hu" />
+		<phrase hz="模棱" py="mó,léng" info="[态度、意见等]不明朗;不加可否" />
+		<phrase hz="模拟" py="mó,nǐ" info="模仿，仿效" />
+		<phrase hz="模式" py="mó,shì" info="事物的标准样式" />
+		<phrase hz="模特" py="mó,tè" />
+		<phrase hz="模特儿" py="mó,tè,r" />
+		<phrase hz="模写" py="mó,xiě" info="1.模搨。 2.照原样描绘。" />
+		<phrase hz="模型" py="mó,xíng" />
+		<definition id="一">
+			<item id="1" text="法式，规范：楷~. [模型]依照原物或计划中的事物（如建筑）的形式做成的物品。" />
+			<item id="2" text="仿效（(连)-仿）：儿童常~仿成人的举止动作." />
+			<item id="3" text="模范：劳~. 英~." />
+			<item text="[模糊](-hu)不分明，不清楚。" />
+			<item text="[模棱](-léng)意见或语言含糊，不肯定：~~两可." />
+			<item text="[模特儿](外)写生、雕塑时的描摹对象或参考对象，有时也指某些示范表演者：时装~~~." />
+		</definition>
+	</char>
+	<char hz="模" py="mú" multi="mó">
+		<phrase hz="大模大样" py="dà,mú,dà,yàng" info="形容态度傲慢，目中无人的样子。" />
+		<phrase hz="假模假样" py="jiǎ,mú,jiǎ,yàng" info="故意做作，装出某种样子给人看，出自《荆钗记传奇》。" />
+		<phrase hz="模板" py="mú,bǎn" info="1.施工时浇筑混凝土用的成组模型板。2.铸造时放模型和砂箱用的底板。" />
+		<phrase hz="模儿" py="mú,er" />
+		<phrase hz="模具" py="mú,jù" info="生产上用的各种模型或模板" />
+		<phrase hz="模样" py="mú,yàng" />
+		<phrase hz="模子" py="mú,zi" />
+		<phrase hz="一模一样" py="yī,mú,yī,yàng" info="样子完全相同。" />
+		<phrase hz="装模作样" py="zhuāng,mú,zuò,yàng" info="样：模样、姿态。指故意做作，故做姿态。" />
+		<definition id="二">
+			<item text="（-儿）模子：字~儿. 铜~儿. [模子](-zi)用压制或浇灌的方法制造物品的工具。 [模样]形状，容貌。" />
+		</definition>
+	</char>
+</pinyin>

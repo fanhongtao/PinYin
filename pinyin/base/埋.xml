@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="埋" py="mái" multi="mán" main="1" suppressLog="1">
+		<phrase hz="埋没" py="mái,mò" />
+		<definition id="一">
+			<item text="把东西放在坑里用土盖上：掩~. ~地雷. (引)隐藏，使不显露：隐姓~名. [埋伏]在敌人将要经过的地方布置下军队，准备袭击。 [埋没](-mò)使人才、功绩、作用等显露不出来 ：不要~~人才. [埋头](喻)专心，下功夫：~~苦干." />
+		</definition>
+	</char>
+	<char hz="埋" py="mán" multi="mái">
+		<phrase hz="埋怨" py="mán,yuan" />
+		<definition id="二">
+			<item text="[埋怨](-yuan)因为事情不如意而对人或事物表示不满，责怪：他自己不小心，还~~别人." />
+		</definition>
+	</char>
+</pinyin>

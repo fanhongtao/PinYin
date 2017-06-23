@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蔓" py="mán" multi="màn,wàn">
+		<phrase hz="蔓菁" py="mán,jing" />
+		<definition id="三">
+			<item text="[蔓菁](-jing)芜菁，二年生草本植物，春天开花，黄色。叶大，块根扁圆形。块根也叫蔓菁，可以吃。" />
+		</definition>
+	</char>
+	<char hz="蔓" py="màn" multi="mán,wàn" main="1">
+		<phrase hz="蔓草" py="màn,cǎo" info="蔓延滋生的草。" />
+		<phrase hz="蔓生" py="màn,shēng" info="1.蔓延;指植物伸展开。2.草生长在…上面。"/>
+		<phrase hz="蔓延" py="màn,yán" />
+		<definition id="二">
+			<item text="同“蔓(一)”，多用于合成词，如蔓草，蔓延等。[蔓延]形容像蔓草一样不断扩展滋生。" />
+		</definition>
+	</char>
+	<char hz="蔓" py="wàn" multi="mán,màn">
+		<phrase hz="藤蔓" py="téng,wàn" />
+		<phrase hz="蔓儿" py="wàn,er" />
+		<definition id="一">
+			<item text="（-儿）细长能缠绕的茎：瓜~儿. 扁豆爬~儿了." />
+		</definition>
+	</char>
+</pinyin>

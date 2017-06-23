@@ -1,39 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="没" py="méi" multi="mò" main="1">
-		<phrase hz="没边儿" py="méi,biān,r" info="〈方〉1.毫无根据。2.没有边际。" />
-		<phrase hz="没出息" py="méi,chū,xī" info="不上進、不務正業。" />
-		<phrase hz="没底" py="méi,dǐ" info="没有底止。形容程度深。" />
-		<phrase hz="没分寸" py="méi,fēn,cùn" info="言行超過適當限度。" />
-		<phrase hz="没关系" py="méi,guān,xì" />
-		<phrase hz="没劲" py="méi,jìn" info="1.一点力气也没有。2.毫无趣味。" />
-		<phrase hz="没精打采" py="méi,jīng,dǎ,cǎi" info="沒有精神、提不起勁來。" />
-		<phrase hz="没救" py="méi,jiù" info="(病情、伤势等)十分危险，已经无法挽救。" />
-		<phrase hz="没空" py="méi,kòng" info="1.没有空子，无可乘之机。2.没有空闲。" />
-		<phrase hz="没来由" py="méi,lái,yóu" info="没有原因;没有理由。" />
-		<phrase hz="没脸" py="méi,liǎn" info="没有脸皮;不要脸。" />
-		<phrase hz="没良心" py="méi,liáng,xīn" info="自定义词" />
-		<phrase hz="没命" py="méi,mìng" info="1.指死亡。2.没福气。3.拼命;不顾一切。" />
-		<phrase hz="没气" py="méi,qì" info="谓停止呼吸，死了。" />
-		<phrase hz="没趣" py="méi,qù" info="1.没有面子。2.没有意思。" />
-		<phrase hz="没事" py="méi,shì" info="1.犹无端。2.没关系，不要紧。3.谓事情了结。" />
-		<phrase hz="没头苍蝇" py="méi,tóu,cāng,ying" info="形容人沒有目標和主見，像蒼蠅亂飛亂撞，慌亂而不知所措。" />
-		<phrase hz="没完" py="méi,wán" info="1.没有了结；未停止。2.不罢休。" />
-		<phrase hz="没完没了" py="méi,wán,méi,liǎo" info="沒有終結的時候。" />
-		<phrase hz="没问题" py="méi,wèn,tí" />
-		<phrase hz="没戏" py="méi,xì" info="某事没有成功的希望" />
-		<phrase hz="没心没肺" py="méi,xīn,méi,fèi" info="1.比喻不用心、心不在焉。2.沒良心。" />
-		<phrase hz="没羞" py="méi,xiū" info="不知羞耻;不知害羞" />
-		<phrase hz="没眼色" py="méi,yǎn,sè" info="1.不知趣。2.沒有眼光。" />
-		<phrase hz="没用" py="méi,yòng" info="没有用处，没价值" />
-		<phrase hz="没有" py="méi,yǒu" />
-		<phrase hz="没辙" py="méi,zhé" info="〈方〉一点办法也没有" />
-		<phrase hz="没治" py="méi,zhì" info="1.坏得无法挽救。2.好得不得了。" />
-		<definition id="一">
-			<item id="1" text="没有，无：他~哥哥. 我~那本书. 2.表示估量或比较，不够，不如：他~（不够）一米八高. 汽车~（不如）飞机快." />
-			<item id="2" text="副词，没有，不曾，未：他们~做完. 衣服~干." />
-		</definition>
-	</char>
+	<!-- Ref:没.xml <char hz="没" py="méi" multi="mò" main="1" /> -->
 	<char hz="玫" py="méi">
 		<phrase hz="玫瑰" py="méi,gui" />
 	</char>

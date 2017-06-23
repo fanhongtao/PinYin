@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="猫" py="māo" multi="máo" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="一种家畜，面呈圆形，脚有利爪，善跳跃，会捉老鼠。" />
+		</definition>
+	</char>
+	<char hz="猫" py="máo" multi="māo">
+		<phrase hz="猫腰" py="máo,yāo" />
+		<definition id="二">
+			<item text="[猫腰]弯腰。" />
+		</definition>
+	</char>
+</pinyin>

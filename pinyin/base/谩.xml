@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="谩" py="mán" multi="màn">
+		<definition id="二">
+			<item text="欺骗，蒙蔽。" />
+		</definition>
+	</char>
+	<char hz="谩" py="màn" multi="mán" main="1">
+		<phrase hz="谩骂" py="màn,mà" />
+		<definition id="一">
+			<item text="轻慢，没有礼貌：~骂." />
+		</definition>
+	</char>
+</pinyin>

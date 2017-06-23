@@ -7,35 +7,10 @@
 		</definition>
 	</char>
 	<char hz="妈" py="mā" />
-	<char hz="蚂" py="mā" multi="mǎ,mà">
-		<phrase hz="蚂螂" py="mā,lang" />
-		<definition id="二">
-			<item text="[蚂螂](-lang)〈方〉蜻蜓。" />
-		</definition>
-	</char>
-	<char hz="抹" py="mā" multi="mǒ,mò">
-		<phrase hz="抹不下脸来" py="mā,bú,xià,liǎn,lái" />
-		<phrase hz="抹布" py="mā,bù" info="专用于擦地板或桌子的织物" />
-		<phrase hz="抹脸" py="mā,liǎn" info="[口]突然改变脸色，由和气变得严厉" />
-		<phrase hz="抹澡" py="mā,zǎo" info="〈方〉擦澡" />
-		<phrase hz="抹桌子" py="mā,zhuō,zi" />
-		<definition id="三">
-			<item id="1" text="擦：~桌子." />
-			<item id="2" text="用手按着并向下移动：把帽子~下来. ~不下脸来（碍于脸面或情面）." />
-		</definition>
-	</char>
-	<char hz="摩" py="mā" multi="mó">
-		<!-- <phrase hz="摩挲" py="mā,sa" duoyin="mó,suō" info="用手轻轻按着一下一下地移动。" /> -->
-		<definition id="二">
-			<item text="[摩挲](-sa)用手轻轻按着一下一下地移动。" />
-		</definition>
-	</char>
-	<char hz="吗" py="má" multi="mǎ,ma">
-		<phrase hz="干吗" py="gàn,má" info="1.[口]为什么。2.干什么。" />
-		<definition id="二">
-			<item text="〈方〉什么？" />
-		</definition>
-	</char>
+	<!-- Ref:蚂.xml <char hz="蚂" py="mā" multi="mǎ,mà" /> -->
+	<!-- Ref:抹.xml <char hz="抹" py="mā" multi="mǒ,mò" /> -->
+	<!-- Ref:摩.xml <char hz="摩" py="mā" multi="mó" /> -->
+	<!-- Ref:吗.xml <char hz="吗" py="má" multi="mǎ,ma" /> -->
 	<char hz="麻" py="má">
 		<phrase hz="麻烦" py="má,fan" />
 		<phrase hz="芝麻" py="zhī,ma" />
@@ -45,42 +20,22 @@
 	<char hz="马" py="mǎ">
 		<phrase hz="马虎" py="mǎ,hu" />
 	</char>
-	<char hz="吗" py="mǎ" multi="má,ma">
-		<phrase hz="吗啡" py="mǎ,fēi" />
-		<definition id="三">
-			<item text="[吗啡](-fēi)(外)用鸦片制成的有机化合物，白色粉末，味很苦。医药上用作镇痛剂。" />
-		</definition>
-	</char>
+	<!-- Ref:吗.xml <char hz="吗" py="mǎ" multi="má,ma" /> -->
 	<char hz="犸" py="mǎ" />
 	<char hz="玛" py="mǎ">
 		<phrase hz="玛瑙" py="mǎ,nǎo" />
 	</char>
 	<char hz="码" py="mǎ" />
-	<char hz="蚂" py="mǎ" multi="mā,mà" main="1">
-		<phrase hz="蚂蟥" py="mǎ,huáng" />
-		<phrase hz="蚂蚁" py="mǎ,yǐ" />
-		<definition id="一">
-			<item text="[蚂蟥](-huáng)“蛭”的俗称。参见“蛭”(zhì)。 [蚂蚁](-yǐ)蚁。参见“蚁”。" />
-		</definition>
-	</char>
+	<!-- Ref:蚂.xml <char hz="蚂" py="mǎ" multi="mā,mà" main="1" /> -->
 	<char hz="祃" py="mà" />
-	<char hz="蚂" py="mà" multi="mǎ,mā">
-		<phrase hz="蚂蚱" py="mà,zha" />
-		<definition id="三">
-			<item text="[蚂蚱](-zha)蝗虫的俗称。参看“蝗”(huáng)。" />
-		</definition>
-	</char>
+	<!-- Ref:蚂.xml <char hz="蚂" py="mà" multi="mǎ,mā" /> -->
 	<char hz="骂" py="mà" />
 	<char hz="么" py="ma" multi="me,yāo">
 		<definition id="二">
 			<item text="同“吗(二)”。" />
 		</definition>
 	</char>
-	<char hz="吗" py="ma" multi="má,mǎ" main="1">
-		<definition id="一">
-			<item text="助词。1.表示疑问，用在一般直陈句子末了：你听明白了~？ 2.表有含蓄的语气，用在前半句末了：天要下雨~，我就坐车去." />
-		</definition>
-	</char>
+	<!-- Ref:吗.xml <char hz="吗" py="ma" multi="má,mǎ" main="1" /> -->
 	<char hz="嘛" py="ma" />
 	<char hz="蟆" py="ma" />
 </pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蚂" py="mā" multi="mǎ,mà">
+		<phrase hz="蚂螂" py="mā,lang" />
+		<definition id="二">
+			<item text="[蚂螂](-lang)〈方〉蜻蜓。" />
+		</definition>
+	</char>
+	<char hz="蚂" py="mǎ" multi="mā,mà" main="1">
+		<phrase hz="蚂蟥" py="mǎ,huáng" />
+		<phrase hz="蚂蚁" py="mǎ,yǐ" />
+		<definition id="一">
+			<item text="[蚂蟥](-huáng)“蛭”的俗称。参见“蛭”(zhì)。 [蚂蚁](-yǐ)蚁。参见“蚁”。" />
+		</definition>
+	</char>
+	<char hz="蚂" py="mà" multi="mǎ,mā">
+		<phrase hz="蚂蚱" py="mà,zha" />
+		<definition id="三">
+			<item text="[蚂蚱](-zha)蝗虫的俗称。参看“蝗”(huáng)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="摩" py="mā" multi="mó">
+		<!-- <phrase hz="摩挲" py="mā,sa" duoyin="mó,suō" info="用手轻轻按着一下一下地移动。" /> -->
+		<definition id="二">
+			<item text="[摩挲](-sa)用手轻轻按着一下一下地移动。" />
+		</definition>
+	</char>
+	<char hz="摩" py="mó" multi="mā" main="1" suppressLog="1">
+		<phrase hz="摩挲" py="mó,suō" duoyin="mā,sa" info="用手抚摩。" />
+		<definition id="一">
+			<item id="1" text="摩擦，蹭(cèng)：~拳擦掌." />
+			<item id="2" text="抚摩，摸：~弄. 按~. [摩挲](-suō)用手抚摩。" />
+			<item id="3" text="研究切磋。 [观摩]观察之后，加以研究，吸收别人的优点：~~教学." />
+			<item id="4" text="物质的量的单位摩尔的简称，符号mol。" />
+			<item text="[摩托](外)用汽油、柴油等发动的机器：~~车. ~~艇. ~~化部队." />
+		</definition>
+	</char>
+</pinyin>

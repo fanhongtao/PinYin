@@ -3,26 +3,12 @@
 	<char hz="颟" py="mān">
 		<phrase hz="颟顸" py="mān,han" />
 	</char>
-	<char hz="埋" py="mán" multi="mái">
-		<phrase hz="埋怨" py="mán,yuan" />
-		<definition id="二">
-			<item text="[埋怨](-yuan)因为事情不如意而对人或事物表示不满，责怪：他自己不小心，还~~别人." />
-		</definition>
-	</char>
+	<!-- Ref:埋.xml <char hz="埋" py="mán" multi="mái" /> -->
 	<char hz="蛮" py="mán">
 		<phrase hz="蛮横" py="mán,hèng" />
 	</char>
-	<char hz="谩" py="mán" multi="màn">
-		<definition id="二">
-			<item text="欺骗，蒙蔽。" />
-		</definition>
-	</char>
-	<char hz="蔓" py="mán" multi="màn,wàn">
-		<phrase hz="蔓菁" py="mán,jing" />
-		<definition id="三">
-			<item text="[蔓菁](-jing)芜菁，二年生草本植物，春天开花，黄色。叶大，块根扁圆形。块根也叫蔓菁，可以吃。" />
-		</definition>
-	</char>
+	<!-- Ref:谩.xml <char hz="谩" py="mán" multi="màn" /> -->
+	<!-- Ref:蔓.xml <char hz="蔓" py="mán" multi="màn,wàn" /> -->
 	<char hz="馒" py="mán">
 		<phrase hz="馒头" py="mán,tou" />
 	</char>
@@ -34,21 +20,9 @@
 	<char hz="满" py="mǎn" />
 	<char hz="螨" py="mǎn" />
 	<char hz="曼" py="màn" />
-	<char hz="谩" py="màn" multi="mán" main="1">
-		<phrase hz="谩骂" py="màn,mà" />
-		<definition id="一">
-			<item text="轻慢，没有礼貌：~骂." />
-		</definition>
-	</char>
+	<!-- Ref:谩.xml <char hz="谩" py="màn" multi="mán" main="1" /> -->
 	<char hz="墁" py="màn" />
-	<char hz="蔓" py="màn" multi="mán,wàn" main="1">
-		<phrase hz="蔓草" py="màn,cǎo" info="蔓延滋生的草。" />
-		<phrase hz="蔓生" py="màn,shēng" info="1.蔓延;指植物伸展开。2.草生长在…上面。"/>
-		<phrase hz="蔓延" py="màn,yán" />
-		<definition id="二">
-			<item text="同“蔓(一)”，多用于合成词，如蔓草，蔓延等。[蔓延]形容像蔓草一样不断扩展滋生。" />
-		</definition>
-	</char>
+	<!-- Ref:蔓.xml <char hz="蔓" py="màn" multi="mán,wàn" main="1" /> -->
 	<char hz="幔" py="màn" />
 	<char hz="漫" py="màn" />
 	<char hz="慢" py="màn" />

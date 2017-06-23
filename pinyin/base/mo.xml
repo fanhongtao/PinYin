@@ -5,30 +5,7 @@
 	<char hz="馍" py="mó" />
 	<char hz="嫫" py="mó" />
 	<char hz="摹" py="mó" />
-	<char hz="模" py="mó" multi="mú" main="1">
-		<phrase hz="规模" py="guī,mó" info="事业、工程、运动、机构等所包含的范围" />
-		<phrase hz="航模" py="háng,mó" info="外形、结构与飞机或船只相类似的模具" />
-		<phrase hz="楷模" py="kǎi,mó" info="值得学习的人或事物;榜样" />
-		<phrase hz="模本" py="mó,běn" info="照书画原件临摹或翻刻拓印的复制品" />
-		<phrase hz="模范" py="mó,fàn" info="1.学习、工作中值得树为典型的优秀人才或事迹。2.被认为是值得仿效的人或物;同类中最完美的事物。3.指制造器物的模型，模子。" />
-		<phrase hz="模仿" py="mó,fǎng" info="按照现成的样子做" />
-		<phrase hz="模糊" py="mó,hu" />
-		<phrase hz="模棱" py="mó,léng" info="[态度、意见等]不明朗;不加可否" />
-		<phrase hz="模拟" py="mó,nǐ" info="模仿，仿效" />
-		<phrase hz="模式" py="mó,shì" info="事物的标准样式" />
-		<phrase hz="模特" py="mó,tè" />
-		<phrase hz="模特儿" py="mó,tè,r" />
-		<phrase hz="模写" py="mó,xiě" info="1.模搨。 2.照原样描绘。" />
-		<phrase hz="模型" py="mó,xíng" />
-		<definition id="一">
-			<item id="1" text="法式，规范：楷~. [模型]依照原物或计划中的事物（如建筑）的形式做成的物品。" />
-			<item id="2" text="仿效（(连)-仿）：儿童常~仿成人的举止动作." />
-			<item id="3" text="模范：劳~. 英~." />
-			<item text="[模糊](-hu)不分明，不清楚。" />
-			<item text="[模棱](-léng)意见或语言含糊，不肯定：~~两可." />
-			<item text="[模特儿](外)写生、雕塑时的描摹对象或参考对象，有时也指某些示范表演者：时装~~~." />
-		</definition>
-	</char>
+	<!-- Ref:模.xml <char hz="模" py="mó" multi="mú" main="1" /> -->
 	<char hz="膜" py="mó" />
 	<char hz="麽" py="mó">
 		<phrase hz="幺麽" py="yāo,mó" />
@@ -36,83 +13,15 @@
 	<char hz="嬷" py="mó">
 		<phrase hz="嬷嬷" py="mó,mo" />
 	</char>
-	<char hz="摩" py="mó" multi="mā" main="1" suppressLog="1">
-		<phrase hz="摩挲" py="mó,suō" duoyin="mā,sa" info="用手抚摩。" />
-		<definition id="一">
-			<item id="1" text="摩擦，蹭(cèng)：~拳擦掌." />
-			<item id="2" text="抚摩，摸：~弄. 按~. [摩挲](-suō)用手抚摩。" />
-			<item id="3" text="研究切磋。 [观摩]观察之后，加以研究，吸收别人的优点：~~教学." />
-			<item id="4" text="物质的量的单位摩尔的简称，符号mol。" />
-			<item text="[摩托](外)用汽油、柴油等发动的机器：~~车. ~~艇. ~~化部队." />
-		</definition>
-	</char>
-	<char hz="磨" py="mó" multi="mò" main="1">
-		<phrase hz="百世不磨" py="bǎi,shì,bù,mó" info="名垂久远，永不磨灭。" />
-		<phrase hz="打磨" py="dǎ,mó" info="磨或擦器物表面，使光滑精致" />
-		<phrase hz="耳鬓厮磨" py="ěr,bìn,sī,mó" info="两人的耳部与鬓角相磨,形容经常相处在一起,关系密切" />
-		<phrase hz="好事多磨" py="hǎo,shì,duō,mó" />
-		<phrase hz="磨擦" py="mó,cā" />
-		<phrase hz="磨缠" py="mó,chán" />
-		<phrase hz="磨杵成针" py="mó,chǔ,chéng,zhēn" info="磨掉铁杵,以成细针,劝人刻苦钻研、坚持不懈的勉词" />
-		<phrase hz="磨刀" py="mó,dāo" />
-		<phrase hz="磨耗" py="mó,hào" info="由于磨擦而受损耗" />
-		<phrase hz="磨合" py="mó,hé" />
-		<phrase hz="磨砺" py="mó,lì" info="用磨擦法使物尖锐，比喻人经受磨练或锻炼" />
-		<phrase hz="磨练" py="mó,liàn" info="在艰苦困难的环境中经受锻炼" />
-		<phrase hz="磨炼" py="mó,liàn" info="同“磨练”。" />
-		<phrase hz="磨灭" py="mó,miè" info="1.[痕迹、印象、功绩、事实、道理等]随着时间的变化而逐渐消失。2.磨难;折磨。" />
-		<phrase hz="磨磨蹭蹭" py="mó,mó,cèng,cèng" info="行动迟缓，做事拖拉" />
-		<phrase hz="磨难" py="mó,nàn" info="1.在艰难困苦的逆境中遭受折磨。2.困难;阻碍。" />
-		<phrase hz="磨损" py="mó,sǔn" info="机器或别的物体因为磨擦或使用而造成的损耗。也叫磨耗。" />
-		<phrase hz="磨牙" py="mó,yá" info="1.熟睡中牙齿相互摩擦出声的现象。2.〈方〉无意义地争辩;讲些无效的话。" />
-		<phrase hz="磨洋工" py="mó,yáng,gōng" info="形容人做事不敏捷，懶散拖延。" />
-		<phrase hz="磨折" py="mó,zhé" info="折磨;磨难。" />
-		<phrase hz="磨嘴" py="mó,zuǐ" info="〈方〉磨牙。也说磨嘴皮子。" />
-		<phrase hz="临阵磨枪" py="lín,zhèn,mó,qiāng" info="临：到，快要；阵：阵地、战场；枪：指梭镖、长矛一类的武器。 到了快要上阵打仗的时候才磨刀擦枪。比喻事到临头才匆忙准备。" />
-		<phrase hz="水磨工夫" py="shuǐ,mó,gōng,fu" info="掺水细磨。形容工作深入细致，费时很多。" />
-		<phrase hz="铁杵磨成针" py="tiě,chǔ,mó,chéng,zhēn" />
-		<phrase hz="消磨" py="xiāo,mó" info="1.逐渐消耗;磨灭。2.消遣，打发时光。" />
-		<definition id="一">
-			<item id="1" text="摩擦：~刀. ~墨. [磨合]新组装的机器经过一定时期的使用，把摩擦面上的加工痕迹磨光而变得更加密合。 [磨炼][磨练]锻炼，下工夫。" />
-			<item id="2" text="阻碍，困难（(连)-难、折-）：好(hǎo)事多~. (引)纠缠：小孩子~人." />
-			<item id="3" text="拖延，耗时间：~工夫." />
-			<item id="4" text="逐渐消失，消灭：百世不~. 这是永不~灭的真理. [消磨]1.使精力等逐渐消失：~~志气. 2.消耗：大好光阴不能白白~~掉." />
-		</definition>
-	</char>
+	<!-- Ref:摩.xml <char hz="摩" py="mó" multi="mā" main="1" suppressLog="1" /> -->
+	<!-- Ref:磨.xml <char hz="磨" py="mó" multi="mò" main="1" /> -->
 	<char hz="蘑" py="mó" />
 	<char hz="魔" py="mó" />
 	<char hz="劘" py="mó" />
-	<char hz="抹" py="mǒ" multi="mā,mò" main="1">
-		<phrase hz="勾抹" py="gōu,mǒ" info="勾销；涂抹掉。" />
-		<phrase hz="抹黑" py="mǒ,hēi" />
-		<phrase hz="抹零" py="mǒ,líng" />
-		<phrase hz="抹抹嘴" py="mǒ,mǒ,zuǐ" info="自定义词" />
-		<phrase hz="抹嘴" py="mǒ,zuǐ" info="自定义词" />
-		<phrase hz="抹杀" py="mǒ,shā" />
-		<phrase hz="抹煞" py="mǒ,shā" />
-		<phrase hz="浓抹" py="nóng,mǒ" info="厚施脂粉。" />
-		<phrase hz="涂抹" py="tú,mǒ" />
-		<definition id="一">
-			<item id="1" text="涂（(连)涂-）：伤口上~点药." />
-			<item id="2" text="揩，擦：~眼泪. 一~一手黑." />
-			<item id="3" text="除去：~零儿（不计算尾数）. ~掉几个字. [抹杀][抹煞]一概不计，勾销：一笔~~." />
-		</definition>
-	</char>
-	<char hz="万" py="mò" multi="wàn">
-		<phrase hz="万俟" py="mò,qí" />
-		<definition id="二">
-			<item text="[万俟](-qí)复姓。" />
-		</definition>
-	</char>
+	<!-- Ref:抹.xml <char hz="抹" py="mǒ" multi="mā,mò" main="1" /> -->
+	<!-- Ref:万.xml <char hz="万" py="mò" multi="wàn" /> -->
 	<char hz="末" py="mò" />
-	<char hz="抹" py="mò" multi="mā,mǒ">
-		<phrase hz="拐弯抹角" py="guǎi,wān,mò,jiǎo" info="抹角：挨墙角绕过。沿着弯弯曲曲的路走。比喻说话绕弯，不直截了当。" />
-		<phrase hz="抹石灰" py="mò,shí,huī" />
-		<phrase hz="转弯抹角" py="zhuǎn,wān,mò,jiǎo" info="抹角：挨着墙角绕走。沿着弯弯曲曲的路走。比喻说话绕弯，不直截了当。" />
-		<definition id="二">
-			<item text="涂抹，泥(nì)：他正在往墙上~石灰." />
-		</definition>
-	</char>
+	<!-- Ref:抹.xml <char hz="抹" py="mò" multi="mā,mǒ" /> -->
 	<char hz="茉" py="mò">
 		<phrase hz="茉莉" py="mò,li" />
 	</char>
@@ -124,37 +33,7 @@
 	<char hz="靺" py="mò">
 		<phrase hz="靺鞨" py="mò,hé" />
 	</char>
-	<char hz="没" py="mò" multi="méi">
-		<phrase hz="抄没" py="chāo,mò" info="查抄没收。" />
-		<phrase hz="沉没" py="chén,mò" />
-		<phrase hz="出没" py="chū,mò" />
-		<phrase hz="覆没" py="fù,mò" info="1.船只倾覆而沉没水中。2.作战部队彻底溃败，整体不复存在。" />
-		<phrase hz="浸没" py="jìn,mò" info="1.沉入液体中。2.用水或其它液体覆盖或使覆盖。" />
-		<phrase hz="埋没" py="mái,mò" info="1.埋在地下。2.使显露不出来，不能发挥作用。" />
-		<phrase hz="泯没" py="mǐn,mò" info="消灭;消失。 常用为死的婉称。" />
-		<phrase hz="没齿" py="mò,chǐ" info="一辈子;终身" />
-		<phrase hz="没顶之灾" py="mò,dǐng,zhī,zāi" info="自定义词" />
-		<phrase hz="没落" py="mò,luò" />
-		<phrase hz="没没无闻" py="mò,mò,wú,wén" info="沒有名氣。" />
-		<phrase hz="没入水中" py="mò,rù,shuǐ,zhōng" />
-		<phrase hz="没世" py="mò,shì" />
-		<phrase hz="没收" py="mò,shōu" />
-		<phrase hz="辱没" py="rǔ,mò" info="玷污;使不光彩。" />
-		<phrase hz="神出鬼没" py="shén,chū,guǐ,mò" info="形容使用兵器手法高超。亦比喻行动迅速、变化莫测、难以捉摸。" />
-		<phrase hz="吞没" py="tūn,mò" info="1.侵吞经管的公共财物或他人财物。2.把[某物]完全笼罩或隐蔽。" />
-		<phrase hz="陷没" py="xiàn,mò" info="1.沉沒。2.攻破。" />
-		<phrase hz="淹没" py="yān,mò" info="1.被水覆盖或洪水泛滥。2.浸没;消失。" />
-		<phrase hz="湮没" py="yān,mò" info="清除，化为乌有。" />
-		<phrase hz="隐没" py="yǐn,mò" info="隐蔽;渐渐消失。" />
-		<phrase hz="殒没" py="yǔn,mò" info="死亡。" />
-		<definition id="二">
-			<item id="1" text="隐在水中：~入水中. (引)隐藏：深山有猛虎出~. [没落]衰落，趋向灭亡：~~阶级." />
-			<item id="2" text="漫过，高过：水~了头顶. 庄稼都长得~人了." />
-			<item id="3" text="把财物扣下：~收赃款." />
-			<item id="4" text="终，尽：~世（指终身，一辈子）." />
-			<item id="5" text="同“殁”。" />
-		</definition>
-	</char>
+	<!-- Ref:没.xml <char hz="没" py="mò" multi="méi" /> -->
 	<char hz="殁" py="mò">
 		<definition>
 			<item text="死。也作“没”。" />
@@ -166,18 +45,8 @@
 			<item text="哺乳类动物。像猪而略大，鼻子圆而长，能伸缩。产于热带，善游泳。" />
 		</definition>
 	</char>
-	<char hz="冒" py="mò" multi="mào">
-		<phrase hz="冒顿" py="mò,dú" />
-		<definition id="二">
-			<item text="[冒顿](-dú)汉初匈奴的一个首领名。" />
-		</definition>
-	</char>
-	<char hz="脉" py="mò" multi="mài">
-		<phrase hz="脉脉" py="mò,mò" />
-		<definition id="二">
-			<item text="[脉脉]形容眼神表达爱慕的情意：~~含情." />
-		</definition>
-	</char>
+	<!-- Ref:冒.xml <char hz="冒" py="mò" multi="mào" /> -->
+	<!-- Ref:脉.xml <char hz="脉" py="mò" multi="mài" /> -->
 	<char hz="莫" py="mò">
 		<phrase hz="莫邪" py="mò,yé" />
 		<definition>
@@ -195,30 +64,14 @@
 	</char>
 	<char hz="瘼" py="mò" />
 	<char hz="貘" py="mò" />
-	<char hz="嘿" py="mò" multi="hēi">
-		<definition id="二">
-			<item text="闭口不说话。同“默”。" />
-		</definition>
-	</char>
+	<!-- Ref:嘿.xml <char hz="嘿" py="mò" multi="hēi" /> -->
 	<char hz="墨" py="mò" />
 	<char hz="默" py="mò">
 		<definition>
 			<item text="不说话，不出声（叠）：沉~. ~~不语. ~读. ~写（凭记忆写出）. ~认（心里承认）." />
 		</definition>
 	</char>
-	<char hz="磨" py="mò" multi="mó">
-		<phrase hz="电磨" py="diàn,mò" />
-		<phrase hz="磨豆腐" py="mò,dòu,fu" />
-		<phrase hz="磨坊" py="mò,fáng" info="1.亦作磨房，磨面粉等的作坊。2.安装有能将谷物磨成面粉的机器的厂房。" />
-		<phrase hz="磨房" py="mò,fáng" info="见“磨坊”。" />
-		<phrase hz="磨面" py="mò,miàn" />
-		<phrase hz="石磨" py="shí,mò" />
-		<definition id="二">
-			<item id="1" text="把粮食弄碎的工具：石~. 电~." />
-			<item id="2" text="用磨把粮食弄碎：~豆腐. ~面." />
-			<item id="3" text="掉转：小胡同不能~车." />
-		</definition>
-	</char>
+	<!-- Ref:磨.xml <char hz="磨" py="mò" multi="mó" /> -->
 	<char hz="礳" py="mò" />
 	<char hz="耱" py="mò" />
 </pinyin>

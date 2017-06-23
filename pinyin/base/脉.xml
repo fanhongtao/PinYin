@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="脉" py="mài" multi="mò" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="分布在人和动物周身内的血管：动~. 静~." />
+			<item id="2" text="脉搏，动脉的跳动：诊~." />
+			<item id="3" text="像血管那样分布的东西：山~. 矿~. 叶~." />
+		</definition>
+	</char>
+	<char hz="脉" py="mò" multi="mài">
+		<phrase hz="脉脉" py="mò,mò" />
+		<definition id="二">
+			<item text="[脉脉]形容眼神表达爱慕的情意：~~含情." />
+		</definition>
+	</char>
+</pinyin>

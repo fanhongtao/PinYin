@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嗨" py="hāi" multi="hēi" main="1">
+		<phrase hz="嗨哟" py="hāi,yō" info="1.用于水手拉起缆索准备开船。2.用作号召努力的呼声或引起注意的呼声。" />
+		<definition id="一">
+			<item text="叹词，同“咳(二)(2)”。" />
+		</definition>
+	</char>
+	<char hz="嗨" py="hēi" multi="hāi" info="Word主音">
+		<definition id="二">
+			<item text="同“嘿(一)”。" />
+		</definition>
+	</char>
+</pinyin>

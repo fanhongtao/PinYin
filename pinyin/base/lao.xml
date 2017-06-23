@@ -13,13 +13,7 @@
 	<char hz="老" py="lǎo" />
 	<char hz="佬" py="lǎo" />
 	<char hz="荖" py="lǎo" />
-	<char hz="姥" py="lǎo" multi="mǔ" main="1">
-		<phrase hz="姥姥" py="lǎo,lao" />
-		<phrase hz="老老" py="lǎo,lao" />
-		<definition id="二">
-			<item text="[姥姥][老老](-lao)1.外祖母。 2.旧时接生的女人。" />
-		</definition>
-	</char>
+	<!-- Ref:姥.xml <char hz="姥" py="lǎo" multi="mǔ" main="1" /> -->
 	<char hz="栳" py="lǎo" />
 	<char hz="铑" py="lǎo" />
 	<!-- Ref:潦.xml <char hz="潦" py="lǎo" multi="liáo" /> -->

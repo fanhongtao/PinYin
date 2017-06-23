@@ -1,17 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="黑" py="hēi" />
-	<char hz="嘿" py="hēi" multi="mò" main="1">
-		<phrase hz="嘿嘿" py="hēi,hēi" />
-		<definition id="一">
-			<item text="叹词。1.表示惊异或赞叹：~，这个真好！ ~，你倒有理啦！ 2.表示招呼或提醒注意：~，老张，快走吧！ ~，你小心点，别滑倒！" />
-			<item text="[嘿嘿]拟声词，多指冷笑。" />
-		</definition>
-	</char>
+	<!-- Ref:嘿.xml <char hz="嘿" py="hēi" multi="mò" main="1" /> -->
 	<char hz="miss: 钅黑" py="hēi" info="special" />
-	<char hz="嗨" py="hēi" multi="hāi" info="Word主音">
-		<definition id="二">
-			<item text="同“嘿(一)”。" />
-		</definition>
-	</char>
+	<!-- Ref:嗨.xml <char hz="嗨" py="hēi" multi="hāi" info="Word主音" /> -->
 </pinyin>

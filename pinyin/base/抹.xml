@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抹" py="mā" multi="mǒ,mò">
+		<phrase hz="抹不下脸来" py="mā,bú,xià,liǎn,lái" />
+		<phrase hz="抹布" py="mā,bù" info="专用于擦地板或桌子的织物" />
+		<phrase hz="抹脸" py="mā,liǎn" info="[口]突然改变脸色，由和气变得严厉" />
+		<phrase hz="抹澡" py="mā,zǎo" info="〈方〉擦澡" />
+		<phrase hz="抹桌子" py="mā,zhuō,zi" />
+		<definition id="三">
+			<item id="1" text="擦：~桌子." />
+			<item id="2" text="用手按着并向下移动：把帽子~下来. ~不下脸来（碍于脸面或情面）." />
+		</definition>
+	</char>
+	<char hz="抹" py="mǒ" multi="mā,mò" main="1">
+		<phrase hz="勾抹" py="gōu,mǒ" info="勾销；涂抹掉。" />
+		<phrase hz="抹黑" py="mǒ,hēi" />
+		<phrase hz="抹零" py="mǒ,líng" />
+		<phrase hz="抹抹嘴" py="mǒ,mǒ,zuǐ" info="自定义词" />
+		<phrase hz="抹嘴" py="mǒ,zuǐ" info="自定义词" />
+		<phrase hz="抹杀" py="mǒ,shā" />
+		<phrase hz="抹煞" py="mǒ,shā" />
+		<phrase hz="浓抹" py="nóng,mǒ" info="厚施脂粉。" />
+		<phrase hz="涂抹" py="tú,mǒ" />
+		<definition id="一">
+			<item id="1" text="涂（(连)涂-）：伤口上~点药." />
+			<item id="2" text="揩，擦：~眼泪. 一~一手黑." />
+			<item id="3" text="除去：~零儿（不计算尾数）. ~掉几个字. [抹杀][抹煞]一概不计，勾销：一笔~~." />
+		</definition>
+	</char>
+	<char hz="抹" py="mò" multi="mā,mǒ">
+		<phrase hz="拐弯抹角" py="guǎi,wān,mò,jiǎo" info="抹角：挨墙角绕过。沿着弯弯曲曲的路走。比喻说话绕弯，不直截了当。" />
+		<phrase hz="抹石灰" py="mò,shí,huī" />
+		<phrase hz="转弯抹角" py="zhuǎn,wān,mò,jiǎo" info="抹角：挨着墙角绕走。沿着弯弯曲曲的路走。比喻说话绕弯，不直截了当。" />
+		<definition id="二">
+			<item text="涂抹，泥(nì)：他正在往墙上~石灰." />
+		</definition>
+	</char>
+</pinyin>

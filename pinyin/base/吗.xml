@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吗" py="má" multi="mǎ,ma">
+		<phrase hz="干吗" py="gàn,má" info="1.[口]为什么。2.干什么。" />
+		<definition id="二">
+			<item text="〈方〉什么？" />
+		</definition>
+	</char>
+	<char hz="吗" py="mǎ" multi="má,ma">
+		<phrase hz="吗啡" py="mǎ,fēi" />
+		<definition id="三">
+			<item text="[吗啡](-fēi)(外)用鸦片制成的有机化合物，白色粉末，味很苦。医药上用作镇痛剂。" />
+		</definition>
+	</char>
+	<char hz="吗" py="ma" multi="má,mǎ" main="1">
+		<definition id="一">
+			<item text="助词。1.表示疑问，用在一般直陈句子末了：你听明白了~？ 2.表有含蓄的语气，用在前半句末了：天要下雨~，我就坐车去." />
+		</definition>
+	</char>
+</pinyin>
