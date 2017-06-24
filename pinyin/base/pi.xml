@@ -19,39 +19,13 @@
 		<phrase hz="披露" py="pī,lù" />
 		<phrase hz="披靡" py="pī,mǐ" />
 	</char>
-	<char hz="劈" py="pī" multi="pǐ" main="1">
-		<phrase hz="尖劈" py="jiān,pī" />
-		<phrase hz="劈刺" py="pī,cì" info="劈刀和刺杀的统称" />
-		<phrase hz="劈刀" py="pī,dāo" info="1.刀背较厚的刀,用来劈竹子、木头等。 2.用军刀砍杀的技术。" />
-		<phrase hz="劈风斩浪" py="pī,fēng,zhǎn,làng" info="指冲破风浪。" />
-		<phrase hz="劈荆斩棘" py="pī,jīng,zhǎn,jí" info="1.砍伐荆棘。 2.比喻扫除前进中的困难和障碍。" />
-		<phrase hz="劈面" py="pī,miàn" info="迎面，正对着脸" />
-		<phrase hz="劈啪" py="pī,pā" info="形容爆裂、拍打的声音" />
-		<phrase hz="劈劈啪啪" py="pī,pī,pā,pā" />
-		<phrase hz="劈手" py="pī,shǒu" info="形容手的动作异常迅速,使人来不及防备" />
-		<phrase hz="劈头" py="pī,tóu" info="1.正冲着头;迎头 2.开头;起首" />
-		<phrase hz="劈头盖脸" py="pī,tóu,gài,liǎn" info="劈：正对着，冲着；盖：压。正对着头和脸盖下来。形容（打击、冲击、批评等）来势很猛。" />
-		<phrase hz="劈胸" py="pī,xiōng" info="对胸;对准胸前" />
-		<phrase hz="天打雷劈" py="tiān,dǎ,léi,pī" info="比喻不得好死。常用作骂人或赌咒的话。" />
-		<definition id="一">
-			<item id="1" text="用刀斧等破开：~木头." />
-			<item id="2" text="冲着，正对着：~脸. 大雨~头浇下来." />
-			<item id="3" text="雷电毁坏或击毙：大树让雷~了." />
-			<item id="4" text="尖劈，物理学上两斜面合成的助力器械，刀斧等都属于这一类。" />
-			<item text="[劈啪]拟声词。" />
-		</definition>
-	</char>
+	<!-- Ref:劈.xml <char hz="劈" py="pī" multi="pǐ" main="1" /> -->
 	<char hz="噼" py="pī" />
 	<char hz="霹" py="pī">
 		<phrase hz="霹雳" py="pī,lì" />
 	</char>
 	<char hz="皮" py="pí" />
-	<char hz="陂" py="pí" multi="bēi,pō">
-		<phrase hz="黄陂" py="huáng,pí" />
-		<definition id="二">
-			<item text="[黄陂]地名，在湖北省武汉。" />
-		</definition>
-	</char>
+	<!-- Ref:陂.xml <char hz="陂" py="pí" multi="bēi,pō" /> -->
 	<char hz="铍" py="pí" />
 	<char hz="疲" py="pí">
 		<phrase hz="疲癃" py="pí,lóng" />
@@ -79,13 +53,7 @@
 	<char hz="脾" py="pí">
 		<phrase hz="脾气" py="pí,qi" />
 	</char>
-	<char hz="裨" py="pí" multi="bì">
-		<phrase hz="裨将" py="pí,jiàng" />
-		<phrase hz="偏裨" py="piān,pí" />
-		<definition id="二">
-			<item text="副，辅佐的（(连)偏-）：~将." />
-		</definition>
-	</char>
+	<!-- Ref:裨.xml <char hz="裨" py="pí" multi="bì" /> -->
 	<char hz="蜱" py="pí" />
 	<char hz="鼙" py="pí" />
 	<char hz="罴" py="pí" />
@@ -94,36 +62,10 @@
 	<char hz="庀" py="pǐ" />
 	<char hz="圮" py="pǐ" />
 	<char hz="仳" py="pǐ" />
-	<char hz="否" py="pǐ" multi="fǒu">
-		<phrase hz="否剥" py="pǐ,bō" info="否，易經六十四卦之一，為天地不交。剝，易經六十四卦之一，為陰盛陽衰。否剝指時運乖舛。" />
-		<phrase hz="否德" py="pǐ,dé" info="德行不良。" />
-		<phrase hz="否隔" py="pǐ,gé" info="窒塞阻隔。" />
-		<phrase hz="否极泰来" py="pǐ,jí,tài,lái" />
-		<phrase hz="否极泰回" py="pǐ,jí,tài,huí" />
-		<phrase hz="否极阳回" py="pǐ,jí,yáng,huí" info="犹言否极泰来。《泰》卦内阳而外阴，故称阳。指坏运到了头好运就来了。" />
-		<phrase hz="否去泰来" py="pǐ,qù,tài,lái" />
-		<phrase hz="否泰" py="pǐ,tài" info="指世道盛衰,人世通塞或运气好坏" />
-		<phrase hz="否往泰来" py="pǐ,wǎng,tài,lái" />
-		<phrase hz="否运" py="pǐ,yùn" info="厄运，坏运。" />
-		<phrase hz="否滞" py="pǐ,zhì" info="阻塞滯留。" />
-		<phrase hz="否终复泰" py="pǐ,zhōng,fù,tài" />
-		<phrase hz="否终则泰" py="pǐ,zhōng,zé,tài" />
-		<phrase hz="泰极而否" py="tài,jí,ér,pǐ" info="泰、否是易經的卦名。泰是吉卦，否是凶卦。泰極而否指事情發展達到高峰後，就會走下坡，好的會變成壞的。" />
-		<phrase hz="臧否" py="zāng,pǐ" info="1.善惡得失。2.評論、褒貶。" />
-		<definition id="二">
-			<item id="1" text="恶，坏：~极泰来（坏的到了尽头，好的就来了。否和泰都是《周易》六十四卦中的卦名，分别代表坏和好的事情）." />
-			<item id="2" text="贬斥：臧~人物（评论人物的优劣）." />
-		</definition>
-	</char>
+	<!-- Ref:否.xml <char hz="否" py="pǐ" multi="fǒu" /> -->
 	<char hz="痞" py="pǐ" />
 	<char hz="嚭" py="pǐ" />
-	<char hz="劈" py="pǐ" multi="pī">
-		<phrase hz="劈叉" py="pǐ,chà" info="将两腿较大的叉开。" />
-		<phrase hz="劈柴" py="pǐ,chái" info="用斧子把短原木劈成的块状木柴。" />
-		<definition id="二">
-			<item text="分开：~柴. ~成两份儿. ~一半给你." />
-		</definition>
-	</char>
+	<!-- Ref:劈.xml <char hz="劈" py="pǐ" multi="pī" /> -->
 	<char hz="擗" py="pǐ" />
 	<char hz="癖" py="pǐ" />
 	<char hz="屁" py="pì" />
@@ -132,25 +74,7 @@
 	<char hz="睥" py="pì">
 		<phrase hz="睥睨" py="pì,nì" />
 	</char>
-	<char hz="辟" py="pì" multi="bì" main="1">
-		<phrase hz="鞭辟入里" py="biān,pì,rù,lǐ" />
-		<phrase hz="大辟" py="dà,pì" />
-		<phrase hz="独辟蹊径" py="dú,pì,xī,jìng" />
-		<phrase hz="鸿蒙初辟" py="hóng,méng,chū,pì" />
-		<phrase hz="精辟" py="jīng,pì" />
-		<phrase hz="开辟" py="kāi,pì" />
-		<phrase hz="开天辟地" py="kāi,tiān,pì,dì" />
-		<phrase hz="另辟蹊径" py="lìng,pì,xī,jìng" />
-		<phrase hz="辟谣" py="pì,yáo" />
-		<phrase hz="辟支佛" py="pì,zhī,fó" />
-		<definition id="二">
-			<item id="1" text="开辟，从无到有地开发建设：开天~地. 在那里开~一片新园地." />
-			<item id="2" text="驳斥，排除：~谣. ~邪说." />
-			<item id="3" text="透彻：精~." />
-			<item id="4" text="法，法律。" />
-			<item text="[大辟]古代指死刑。" />
-		</definition>
-	</char>
+	<!-- Ref:辟.xml <char hz="辟" py="pì" multi="bì" main="1" /> -->
 	<char hz="僻" py="pì" />
 	<char hz="澼" py="pì" />
 	<char hz="甓" py="pì" />

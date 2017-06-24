@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奔" py="bēn" multi="bèn" main="1">
+		<phrase hz="奔波" py="bēn,bō" />
+		<phrase hz="奔驰" py="bēn,chí" />
+		<phrase hz="奔窜" py="bēn,cuàn" />
+		<phrase hz="奔放" py="bēn,fàng" />
+		<phrase hz="奔赴" py="bēn,fù" />
+		<phrase hz="奔雷" py="bēn,léi" />
+		<phrase hz="奔流" py="bēn,liú" />
+		<phrase hz="奔忙" py="bēn,máng" />
+		<phrase hz="奔跑" py="bēn,pǎo" />
+		<phrase hz="奔丧" py="bēn,sāng" />
+		<phrase hz="奔逝" py="bēn,shì" />
+		<phrase hz="奔驶" py="bēn,shǐ" />
+		<phrase hz="奔腾" py="bēn,téng" />
+		<phrase hz="奔突" py="bēn,tū" />
+		<phrase hz="奔袭" py="bēn,xí" />
+		<phrase hz="奔泻" py="bēn,xiè" />
+		<phrase hz="奔逐" py="bēn,zhú" />
+		<phrase hz="奔走" py="bēn,zǒu" />
+		<phrase hz="奔走相告" py="bēn,zǒu,xiāng,gào" />
+		<phrase hz="出奔" py="chū,bēn" />
+		<phrase hz="东奔西走" py="dōng,bēn,xī,zǒu" />
+		<phrase hz="飞奔" py="fēi,bēn" />
+		<phrase hz="狂奔" py="kuáng,bēn" />
+		<phrase hz="狼奔豕突" py="láng,bēn,shǐ,tū" />
+		<phrase hz="疲于奔命" py="pí,yú,bēn,mìng" />
+		<phrase hz="私奔" py="sī,bēn" />
+		<definition id="一">
+			<item text="急走，跑（(连)-跑）：狂~. ~驰. 东~西跑. [奔波]劳苦奔走。" />
+		</definition>
+	</char>
+	<char hz="奔" py="bèn" multi="bēn">
+		<phrase hz="奔命" py="bèn,mìng" />
+		<phrase hz="各奔前程" py="gè,bèn,qián,chéng" />
+		<phrase hz="投奔" py="tóu,bèn" />
+		<phrase hz="直奔" py="zhí,bèn" />
+		<definition id="二">
+			<item id="1" text="直往，投向：投~. 直~工厂. 党指向哪里，就~向哪里. (引)接近（某年龄段）：他是~七十的人了." />
+			<item id="2" text="为某种目的而尽力去做：~材料. ~命." />
+		</definition>
+	</char>
+</pinyin>

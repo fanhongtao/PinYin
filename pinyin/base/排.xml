@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="排" py="pái" multi="pǎi" main="1" suppressLog="1">
+		<phrase hz="排场" py="pái,chang" />
+		<phrase hz="排行" py="pái,háng" />
+		<phrase hz="排难" py="pái,nàn" />
+		<definition id="一">
+			<item id="1" text="摆成行(háng)列（(连)-列）：~队. [排场](-chang)铺张的场面：不讲~~. [排行](-háng)兄弟姊妹的长幼次序。" />
+			<item id="2" text="排成的行列：我坐在前~." />
+			<item id="3" text="同“簰”。" />
+			<item id="4" text="军队的编制单位，是班的上一级。" />
+			<item id="5" text="量词，用于成行列的：一~椅子." />
+			<item id="6" text="除去，推开：~水. ~山倒海（喻力量大）. ~难(nàn). [排泄]生物把体内的废物如汗、尿、屎等排出体外。" />
+			<item id="7" text="排演，练习演戏：~戏. 彩~." />
+		</definition>
+	</char>
+	<char hz="排" py="pǎi" multi="pái">
+		<phrase hz="排子车" py="pǎi,zi,chē" />
+		<definition id="二">
+			<item text="[排子车]〈方〉用人拉的搬运东西的一种车。" />
+		</definition>
+	</char>
+</pinyin>

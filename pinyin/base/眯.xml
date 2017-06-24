@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="眯" py="mī" multi="mí" main="1">
+		<phrase hz="眯缝" py="mī,feng" info="眼皮没完全闭上，还有缝隙" />
+		<phrase hz="眯糊" py="mī,hu" info="〈方〉1.眯缝。2.稍微睡一会儿,时间不长。" />
+		<phrase hz="眯紧" py="mī,jǐn" />
+		<phrase hz="细眯眯" py="xì,mī,mī" info="两眼皮合成一条缝的样子" />
+		<phrase hz="笑眯眯" py="xiào,mī,mī" info="指微笑时上下眼皮稍稍合拢的样子" />
+		<definition id="二">
+			<item id="1" text="眼皮微微合拢：在床上~（合眼养神）一会儿." />
+			<item id="2" text="眯缝：~着眼笑. 他~起眼睛看了半天." />
+		</definition>
+	</char>
+	<char hz="眯" py="mí" multi="mī">
+		<definition id="一">
+			<item text="尘土入眼，不能睁开看东西。" />
+		</definition>
+	</char>
+</pinyin>

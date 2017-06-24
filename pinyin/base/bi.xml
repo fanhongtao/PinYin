@@ -26,21 +26,10 @@
 	<char hz="邲" py="bì" />
 	<char hz="苾" py="bì" />
 	<char hz="閟" py="bì" trans="1" />
-	<char hz="泌" py="bì" multi="mì">
-		<phrase hz="泌阳" py="bì,yáng" />
-		<definition id="二">
-			<item text="[泌阳]地名，在河南省。" />
-		</definition>
-	</char>
+	<!-- Ref:泌.xml <char hz="泌" py="bì" multi="mì" /> -->
 	<char hz="毖" py="bì" />
 	<char hz="铋" py="bì" />
-	<char hz="秘" py="bì" multi="mì">
-		<phrase hz="秘鲁" py="bì,lǔ" />
-		<definition id="二">
-			<item text="姓。" />
-			<item text="[秘鲁]国名，在南美洲。" />
-		</definition>
-	</char>
+	<!-- Ref:秘.xml <char hz="秘" py="bì" multi="mì" /> -->
 	<char hz="毕" py="bì" />
 	<char hz="荜" py="bì" />
 	<char hz="哔" py="bì" />
@@ -65,22 +54,11 @@
 	<char hz="畀" py="bì" />
 	<char hz="痹" py="bì" />
 	<char hz="箅" py="bì" />
-	<char hz="贲" py="bì" multi="bēn" main="1">
-		<phrase hz="贲临" py="bì,lín" />
-		<definition id="一">
-			<item text="装饰得很好：~临（客人盛装光临）." />
-		</definition>
-	</char>
+	<!-- Ref:贲.xml <char hz="贲" py="bì" multi="bēn" main="1" /> -->
 	<char hz="庳" py="bì" info="字典中还有个 bēi 的音，但输入法中是 bì，所以放在这里" />
 	<char hz="婢" py="bì" />
 	<!-- 睥 读 pì -->
-	<char hz="裨" py="bì" multi="pí" main="1">
-		<phrase hz="裨益" py="bì,yì" />
-		<phrase hz="无裨" py="wú,bì" />
-		<definition id="一">
-			<item text="补益，益处：无~于事. 对工作大有~益." />
-		</definition>
-	</char>
+	<!-- Ref:裨.xml <char hz="裨" py="bì" multi="pí" main="1" /> -->
 	<char hz="髀" py="bì" />
 	<char hz="敝" py="bì" />
 	<char hz="蔽" py="bì" />
@@ -96,17 +74,7 @@
 	</char>
 	<char hz="篦" py="bì" />
 	<char hz="滗" py="bì" />
-	<char hz="辟" py="bì" multi="pì">
-		<phrase hz="辟谷" py="bì,gǔ" />
-		<phrase hz="辟邪" py="bì,xié" />
-		<phrase hz="辟易" py="bì,yì" />
-		<phrase hz="复辟" py="fù,bì" />
-		<definition id="一">
-			<item id="1" text="君主。[复辟]失位的君主恢复君位。(引)被打垮的统治者恢复原有的统治地位或被推翻的制度复活。" />
-			<item id="2" text="旧指君主召见并授予官职。" />
-			<item id="3" text="古同“避”。" />
-		</definition>
-	</char>
+	<!-- Ref:辟.xml <char hz="辟" py="bì" multi="pì" /> -->
 	<char hz="薜" py="bì">
 		<phrase hz="薜荔" py="bì,lì" />
 	</char>
@@ -118,19 +86,7 @@
 		</definition>
 	</char>
 	<char hz="嬖" py="bì" />
-	<char hz="臂" py="bì" multi="bei" main="1" suppressLog="1">
-		<phrase hz="臂长" py="bì,cháng" />
-		<phrase hz="臂助" py="bì,zhù" />
-		<phrase hz="长臂猿" py="cháng,bì,yuán" />
-		<phrase hz="三头六臂" py="sān,tóu,liù,bì" />
-		<phrase hz="失之交臂" py="shī,zhī,jiāo,bì" />
-		<phrase hz="通臂猿" py="tōng,bì,yuán" />
-		<phrase hz="一臂之力" py="yī,bì,zhī,lì" />
-		<phrase hz="振臂" py="zhèn,bì" />
-		<definition id="一">
-			<item text="胳膊，从肩到腕的部分：振~高呼. [臂助]1.帮助。2.助手。" />
-		</definition>
-	</char>
+	<!-- Ref:臂.xml <char hz="臂" py="bì" multi="bei" main="1" suppressLog="1" /> -->
 	<char hz="璧" py="bì">
 		<phrase hz="璧还" py="bì,huán" />
 	</char>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="糜" py="méi" multi="mí">
+		<phrase hz="糜子" py="méi,zi" />
+		<definition id="二">
+			<item text="（-子）就穄。参看“穄”(jì)。" />
+		</definition>
+	</char>
+	<char hz="糜" py="mí" multi="méi" main="1">
+		<phrase hz="豆糜" py="dòu,mí" info="用豆煮成的粥。" />
+		<phrase hz="糜费" py="mí,fèi" info="浪费;耗费过多" />
+		<phrase hz="糜沸" py="mí,fèi" info="比喻世事混乱之甚，如糜粥之沸于釡中。" />
+		<phrase hz="糜耗" py="mí,hào" info="糜费。" />
+		<phrase hz="糜捐" py="mí,juān" info="粉身碎骨，舍弃生命。" />
+		<phrase hz="糜烂" py="mí,làn" info="1.表皮或粘膜上皮的局限性浅表缺损。2.腐烂;腐朽。" />
+		<phrase hz="糜躯" py="mí,qū" info="粉身碎骨，献出生命。" />
+		<phrase hz="肉糜" py="ròu,mí" info="煮烂成糊状的肉" />
+		<phrase hz="虚糜" py="xū,mí" info="白白地损耗、浪费。" />
+		<definition id="一">
+			<item id="1" text="粥。" />
+			<item id="2" text="糜烂，烂到难以收拾：~烂不堪." />
+			<item id="3" text="浪费：~财妨农." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

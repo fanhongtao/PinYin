@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="贲" py="bēn" multi="bì">
+		<phrase hz="贲门" py="bēn,mén" info="中医称胃上端的开口。即胃与食管相连的部分。" />
+		<phrase hz="虎贲" py="hǔ,bēn" />
+		<definition id="二">
+			<item id="1" text="奔走，快跑。[虎贲]古时指勇士。" />
+			<item id="2" text="姓" />
+		</definition>
+	</char>
+	<char hz="贲" py="bì" multi="bēn" main="1">
+		<phrase hz="贲临" py="bì,lín" />
+		<definition id="一">
+			<item text="装饰得很好：~临（客人盛装光临）." />
+		</definition>
+	</char>
+</pinyin>

@@ -22,12 +22,7 @@
 		<phrase hz="媒妁" py="méi,shuò" />
 	</char>
 	<char hz="煤" py="méi" />
-	<char hz="糜" py="méi" multi="mí">
-		<phrase hz="糜子" py="méi,zi" />
-		<definition id="二">
-			<item text="（-子）就穄。参看“穄”(jì)。" />
-		</definition>
-	</char>
+	<!-- Ref:糜.xml <char hz="糜" py="méi" multi="mí" /> -->
 	<char hz="每" py="měi" />
 	<char hz="美" py="měi" />
 	<char hz="镁" py="měi" />

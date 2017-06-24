@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="裨" py="bì" multi="pí" main="1">
+		<phrase hz="裨益" py="bì,yì" />
+		<phrase hz="无裨" py="wú,bì" />
+		<definition id="一">
+			<item text="补益，益处：无~于事. 对工作大有~益." />
+		</definition>
+	</char>
+	<char hz="裨" py="pí" multi="bì">
+		<phrase hz="裨将" py="pí,jiàng" />
+		<phrase hz="偏裨" py="piān,pí" />
+		<definition id="二">
+			<item text="副，辅佐的（(连)偏-）：~将." />
+		</definition>
+	</char>
+</pinyin>

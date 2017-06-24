@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="辟" py="bì" multi="pì">
+		<phrase hz="辟谷" py="bì,gǔ" />
+		<phrase hz="辟邪" py="bì,xié" />
+		<phrase hz="辟易" py="bì,yì" />
+		<phrase hz="复辟" py="fù,bì" />
+		<definition id="一">
+			<item id="1" text="君主。[复辟]失位的君主恢复君位。(引)被打垮的统治者恢复原有的统治地位或被推翻的制度复活。" />
+			<item id="2" text="旧指君主召见并授予官职。" />
+			<item id="3" text="古同“避”。" />
+		</definition>
+	</char>
+	<char hz="辟" py="pì" multi="bì" main="1">
+		<phrase hz="鞭辟入里" py="biān,pì,rù,lǐ" />
+		<phrase hz="大辟" py="dà,pì" />
+		<phrase hz="独辟蹊径" py="dú,pì,xī,jìng" />
+		<phrase hz="鸿蒙初辟" py="hóng,méng,chū,pì" />
+		<phrase hz="精辟" py="jīng,pì" />
+		<phrase hz="开辟" py="kāi,pì" />
+		<phrase hz="开天辟地" py="kāi,tiān,pì,dì" />
+		<phrase hz="另辟蹊径" py="lìng,pì,xī,jìng" />
+		<phrase hz="辟谣" py="pì,yáo" />
+		<phrase hz="辟支佛" py="pì,zhī,fó" />
+		<definition id="二">
+			<item id="1" text="开辟，从无到有地开发建设：开天~地. 在那里开~一片新园地." />
+			<item id="2" text="驳斥，排除：~谣. ~邪说." />
+			<item id="3" text="透彻：精~." />
+			<item id="4" text="法，法律。" />
+			<item text="[大辟]古代指死刑。" />
+		</definition>
+	</char>
+</pinyin>

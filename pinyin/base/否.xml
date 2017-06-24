@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="否" py="fǒu" multi="pǐ" main="1">
+		<phrase hz="否定" py="fǒu,dìng" />
+		<phrase hz="否否" py="fǒu,fǒu" info="表示不同意。" />
+		<phrase hz="否决" py="fǒu,jué" />
+		<phrase hz="否认" py="fǒu,rèn" />
+		<phrase hz="否则" py="fǒu,zé" />
+		<phrase hz="可否" py="kě,fǒu" info="可不可以，能不能。" />
+		<phrase hz="能否" py="néng,fǒu" info="1.可不可以。2.能幹與否。" />
+		<phrase hz="然否" py="rán,fǒu" info="是與不是。" />
+		<phrase hz="是否" py="shì,fǒu" />
+		<phrase hz="唯唯否否" py="wěi,wěi,fǒu,fǒu" info="1.應對之詞。2.虛與應付的態度，只應聲而不作主張。" />
+		<definition id="一">
+			<item id="1" text="不。1.用在表示疑问的词句里：是~？可~？能~？2.用在答话里，表示不同意对方的意思：~，此非吾意. [否定]1.反而的。2.不承认，作出相反的判断。 [否决]对问题作不承认、不同意的决定。 [否认]不承认。" />
+			<item id="2" text="不如此，不然：必须确定计划，~则无法施工." />
+		</definition>
+	</char>
+	<char hz="否" py="pǐ" multi="fǒu">
+		<phrase hz="否剥" py="pǐ,bō" info="否，易經六十四卦之一，為天地不交。剝，易經六十四卦之一，為陰盛陽衰。否剝指時運乖舛。" />
+		<phrase hz="否德" py="pǐ,dé" info="德行不良。" />
+		<phrase hz="否隔" py="pǐ,gé" info="窒塞阻隔。" />
+		<phrase hz="否极泰来" py="pǐ,jí,tài,lái" />
+		<phrase hz="否极泰回" py="pǐ,jí,tài,huí" />
+		<phrase hz="否极阳回" py="pǐ,jí,yáng,huí" info="犹言否极泰来。《泰》卦内阳而外阴，故称阳。指坏运到了头好运就来了。" />
+		<phrase hz="否去泰来" py="pǐ,qù,tài,lái" />
+		<phrase hz="否泰" py="pǐ,tài" info="指世道盛衰,人世通塞或运气好坏" />
+		<phrase hz="否往泰来" py="pǐ,wǎng,tài,lái" />
+		<phrase hz="否运" py="pǐ,yùn" info="厄运，坏运。" />
+		<phrase hz="否滞" py="pǐ,zhì" info="阻塞滯留。" />
+		<phrase hz="否终复泰" py="pǐ,zhōng,fù,tài" />
+		<phrase hz="否终则泰" py="pǐ,zhōng,zé,tài" />
+		<phrase hz="泰极而否" py="tài,jí,ér,pǐ" info="泰、否是易經的卦名。泰是吉卦，否是凶卦。泰極而否指事情發展達到高峰後，就會走下坡，好的會變成壞的。" />
+		<phrase hz="臧否" py="zāng,pǐ" info="1.善惡得失。2.評論、褒貶。" />
+		<definition id="二">
+			<item id="1" text="恶，坏：~极泰来（坏的到了尽头，好的就来了。否和泰都是《周易》六十四卦中的卦名，分别代表坏和好的事情）." />
+			<item id="2" text="贬斥：臧~人物（评论人物的优劣）." />
+		</definition>
+	</char>
+</pinyin>

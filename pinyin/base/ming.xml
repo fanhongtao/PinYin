@@ -10,12 +10,7 @@
 		<phrase hz="冥蒙" py="míng,méng" />
 		<phrase hz="溟濛" py="míng,méng" />
 	</char>
-	<char hz="蓂" py="míng" multi="mì">
-		<phrase hz="蓂荚" py="míng,jiá" />
-		<definition id="二">
-			<item text="[蓂荚](-jiá)传说中尧时的一种瑞草。" />
-		</definition>
-	</char>
+	<!-- Ref:蓂.xml <char hz="蓂" py="míng" multi="mì" /> -->
 	<char hz="溟" py="míng" />
 	<char hz="暝" py="míng" />
 	<char hz="瞑" py="míng" />

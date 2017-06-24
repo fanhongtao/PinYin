@@ -1,20 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="缶" py="fǒu" />
-	<char hz="否" py="fǒu" multi="pǐ" main="1">
-		<phrase hz="否定" py="fǒu,dìng" />
-		<phrase hz="否否" py="fǒu,fǒu" info="表示不同意。" />
-		<phrase hz="否决" py="fǒu,jué" />
-		<phrase hz="否认" py="fǒu,rèn" />
-		<phrase hz="否则" py="fǒu,zé" />
-		<phrase hz="可否" py="kě,fǒu" info="可不可以，能不能。" />
-		<phrase hz="能否" py="néng,fǒu" info="1.可不可以。2.能幹與否。" />
-		<phrase hz="然否" py="rán,fǒu" info="是與不是。" />
-		<phrase hz="是否" py="shì,fǒu" />
-		<phrase hz="唯唯否否" py="wěi,wěi,fǒu,fǒu" info="1.應對之詞。2.虛與應付的態度，只應聲而不作主張。" />
-		<definition id="一">
-			<item id="1" text="不。1.用在表示疑问的词句里：是~？可~？能~？2.用在答话里，表示不同意对方的意思：~，此非吾意. [否定]1.反而的。2.不承认，作出相反的判断。 [否决]对问题作不承认、不同意的决定。 [否认]不承认。" />
-			<item id="2" text="不如此，不然：必须确定计划，~则无法施工." />
-		</definition>
-	</char>
+	<!-- Ref:否.xml <char hz="否" py="fǒu" multi="pǐ" main="1" /> -->
 </pinyin>

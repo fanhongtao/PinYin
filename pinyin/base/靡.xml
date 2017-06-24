@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="靡" py="mí" multi="mǐ" main="1">
+		<phrase hz="侈靡" py="chǐ,mí" info="铺张奢侈" />
+		<phrase hz="靡荡" py="mí,dàng" info="耗尽。" />
+		<phrase hz="靡费" py="mí,fèi" info="奢侈浪费;过度地消耗费用" />
+		<phrase hz="靡散" py="mí,sàn" info="1.犹靡敝。摧残，凋敝。 2.消失；消灭。" />
+		<phrase hz="奢靡" py="shē,mí" info="指生活奢侈，挥霍无度" />
+		<definition id="一">
+			<item text="浪费（(连)奢-）：不要~费钱财." />
+		</definition>
+	</char>
+	<char hz="靡" py="mǐ" multi="mí">
+		<phrase hz="风靡" py="fēng,mǐ" info="形容事物很风行,像风吹倒草木一样" />
+		<phrase hz="靡日不思" py="mǐ,rì,bù,sī" />
+		<phrase hz="靡丽" py="mǐ,lì" info="1.奢华，奢靡。2.精美华丽。3.指文采富丽。4.指姿容艳丽。" />
+		<phrase hz="靡靡" py="mǐ,mǐ" info="1.遲緩。2.草隨風倒伏相依的樣子。3.頹廢淫蕩。4.盡。5.細好。" />
+		<phrase hz="靡然" py="mǐ,rán" info="形容一面倒的樣子。" />
+		<phrase hz="披靡" py="pī,mǐ" info="1.草木隨風散亂傾倒的樣子。2.潰敗逃散的樣子。" />
+		<phrase hz="颓靡" py="tuí,mǐ" info="精神不振" />
+		<phrase hz="萎靡" py="wěi,mǐ" info="困顿不振;意志消沉" />
+		<phrase hz="望风披靡" py="wàng,fēng,pī,mǐ" />
+		<definition id="二">
+			<item id="1" text="无，没有：~日不思." />
+			<item id="2" text="倒下：望风披~." />
+		</definition>
+	</char>
+</pinyin>

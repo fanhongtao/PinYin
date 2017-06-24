@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泌" py="bì" multi="mì">
+		<phrase hz="泌阳" py="bì,yáng" />
+		<definition id="二">
+			<item text="[泌阳]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="泌" py="mì" multi="bì" main="1" suppressLog="1">
+		<phrase hz="分泌" py="fēn,mì" />
+		<phrase hz="泌尿" py="mì,niào" />
+		<phrase hz="泌乳" py="mì,rǔ" />
+		<phrase hz="泌渗" py="mì,shèn" />
+		<definition id="一">
+			<item text="分泌，从生物体里产生出某种物质：~尿." />
+		</definition>
+	</char>
+</pinyin>

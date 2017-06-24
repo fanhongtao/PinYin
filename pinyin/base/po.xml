@@ -2,12 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:朴.xml <char hz="朴" py="pō" multi="piáo,pò,pǔ" /> -->
 	<char hz="钋" py="pō" />
-	<char hz="陂" py="pō" multi="bēi,pí">
-		<phrase hz="陂陀" py="pō,tuó" />
-		<definition id="三">
-			<item text="[陂陀](-tuó)不平坦。" />
-		</definition>
-	</char>
+	<!-- Ref:陂.xml <char hz="陂" py="pō" multi="bēi,pí" /> -->
 	<char hz="坡" py="pō" />
 	<char hz="颇" py="pō" />
 	<!-- Ref:泊.xml <char hz="泊" py="pō" multi="bó" /> -->
@@ -33,13 +28,7 @@
 		<phrase hz="笸箩" py="pǒ,luo" />
 	</char>
 	<!-- Ref:朴.xml <char hz="朴" py="pò" multi="piáo,pō,pǔ" /> -->
-	<char hz="迫" py="pò" multi="pǎi" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="用强力压制，硬逼（(连)逼-）：~害. 饥寒交~. ~使对方同意." />
-			<item id="2" text="急促（(连)急-）：~切需要. 从容不~. ~不及待." />
-			<item id="3" text="接近：~近." />
-		</definition>
-	</char>
+	<!-- Ref:迫.xml <char hz="迫" py="pò" multi="pǎi" main="1" suppressLog="1" /> -->
 	<char hz="珀" py="pò" />
 	<char hz="粕" py="pò" />
 	<!-- Ref:魄.xml <char hz="魄" py="pò" multi="bó,tuò" main="1" suppressLog="1" /> -->

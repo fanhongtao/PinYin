@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="陂" py="bēi" multi="pí,pō" main="1">
+		<phrase hz="陂池" py="bēi,chí" />
+		<phrase hz="陂塘" py="bēi,táng" />
+		<phrase hz="陂湖禀量" py="bēi,hú,bǐng,liáng" info="比喻度量宽广恢弘。" />
+		<definition id="一">
+			<item id="1" text="池塘：~塘. ~池." />
+			<item id="2" text="池塘的岸。" />
+			<item id="3" text="山坡。" />
+		</definition>
+	</char>
+	<char hz="陂" py="pí" multi="bēi,pō">
+		<phrase hz="黄陂" py="huáng,pí" />
+		<definition id="二">
+			<item text="[黄陂]地名，在湖北省武汉。" />
+		</definition>
+	</char>
+	<char hz="陂" py="pō" multi="bēi,pí">
+		<phrase hz="陂陀" py="pō,tuó" />
+		<definition id="三">
+			<item text="[陂陀](-tuó)不平坦。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="秘" py="bì" multi="mì">
+		<phrase hz="秘鲁" py="bì,lǔ" />
+		<definition id="二">
+			<item text="姓。" />
+			<item text="[秘鲁]国名，在南美洲。" />
+		</definition>
+	</char>
+	<char hz="秘" py="mì" multi="bì" main="1">
+		<phrase hz="奥秘" py="ào,mì" />
+		<phrase hz="便秘" py="biàn,mì" />
+		<phrase hz="诡秘" py="guǐ,mì" />
+		<phrase hz="揭秘" py="jiē,mì" />
+		<phrase hz="秘宝" py="mì,bǎo" />
+		<phrase hz="秘本" py="mì,běn" />
+		<phrase hz="秘藏" py="mì,cáng" info="收藏或隐藏起来;不公开" />
+		<phrase hz="秘而不宣" py="mì,ér,bù,xuān" />
+		<phrase hz="秘方" py="mì,fāng" />
+		<phrase hz="秘籍" py="mì,jí" />
+		<phrase hz="秘结" py="mì,jié" info="大便干涩难通。" />
+		<phrase hz="秘诀" py="mì,jué" />
+		<phrase hz="秘密" py="mì,mì" />
+		<phrase hz="秘丘" py="mì,qiū" />
+		<phrase hz="秘史" py="mì,shǐ" />
+		<phrase hz="秘室" py="mì,shì" />
+		<phrase hz="秘书" py="mì,shū" />
+		<phrase hz="神秘" py="shén,mì" />
+		<phrase hz="隐秘" py="yǐn,mì" />
+		<definition id="一">
+			<item text="（旧读bì）不公开的，不让大家知道的（(连)-密）：~方. ~诀. [秘书]掌管文书并协助负责人处理日常工作的人员。 [便秘]大便干燥、困难、次数少的症状。" />
+		</definition>
+	</char>
+</pinyin>

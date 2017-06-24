@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蓂" py="mì" multi="míng" main="1">
+		<phrase hz="菥蓂" py="xī,mì" />
+		<definition id="一">
+			<item text="见“菥”字条“菥蓂”(xī-)。" />
+		</definition>
+	</char>
+	<char hz="蓂" py="míng" multi="mì">
+		<phrase hz="蓂荚" py="míng,jiá" />
+		<definition id="二">
+			<item text="[蓂荚](-jiá)传说中尧时的一种瑞草。" />
+		</definition>
+	</char>
+</pinyin>
