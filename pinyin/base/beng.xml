@@ -4,40 +4,13 @@
 	<char hz="祊" py="bēng" />
 	<char hz="崩" py="bēng" />
 	<char hz="嘣" py="bēng" />
-	<char hz="绷" py="bēng" multi="běng" main="1">
-		<phrase hz="绷床" py="bēng,chuáng" />
-		<phrase hz="绷带" py="bēng,dài" />
-		<phrase hz="绷簧" py="bēng,huáng" />
-		<phrase hz="绷紧" py="bēng,jǐn" />
-		<phrase hz="绷子" py="bēng,zi" />
-		<phrase hz="绷场面" py="bēng,chǎng,miàn" />
-		<phrase hz="坑绷拐骗" py="kēng,bēng,guǎi,piàn" />
-		<phrase hz="硬绷" py="yìng,bēng" />
-		<phrase hz="棕绷" py="zōng,bēng" />
-		<definition id="一">
-			<item id="1" text="张紧，拉紧：衣服紧~在身上. ~紧绳子. [绷带]包扎伤口的纱布条。 [绷子]（-zi）刺绣用的架子，把绸布等材料张紧在上面，免得皱缩。" />
-			<item id="2" text="粗粗地缝上或用针别上：~被头." />
-		</definition>
-	</char>
+	<!-- Ref:绷.xml <char hz="绷" py="bēng" multi="běng" main="1" /> -->
 	<char hz="甭" py="béng" />
-	<char hz="绷" py="běng" multi="bēng">
-		<phrase hz="绷脸" py="běng,liǎn" />
-		<phrase hz="绷劲" py="běng,jìn" />
-		<phrase hz="绷着" py="běng,zhe" />
-		<definition id="二">
-			<item id="1" text="板着：~着个脸." />
-			<item id="2" text="强忍住：他~不住笑了." />
-		</definition>
-	</char>
+	<!-- Ref:绷.xml <char hz="绷" py="běng" multi="bēng" /> -->
 	<char hz="琫" py="běng" />
 	<char hz="泵" py="bèng" />
 	<char hz="迸" py="bèng" />
-	<char hz="蚌" py="bèng" multi="bàng">
-		<phrase hz="蚌埠" py="bèng,bù" />
-		<definition id="二">
-			<item text="[蚌埠](-bù)地名，在安徽省。" />
-		</definition>
-	</char>
+	<!-- Ref:蚌.xml <char hz="蚌" py="bèng" multi="bàng" /> -->
 	<char hz="甏" py="bèng" />
 	<char hz="镚" py="bèng" />
 	<char hz="蹦" py="bèng" />

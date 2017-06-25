@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="膀" py="bǎng" multi="pāng,páng" main="1">
+		<phrase hz="膀子" py="bǎng,zi" />
+		<phrase hz="膀臂" py="bǎng,bì" />
+		<phrase hz="膀大腰圆" py="bǎng,dà,yāo,yuán" />
+		<phrase hz="膀浪" py="bǎng,làng" info="宋 代口语。形容说话不着边际。" />
+		<phrase hz="臂膀" py="bì,bǎng" />
+		<phrase hz="并膀" py="bìng,bǎng" info="方言。差不多。" />
+		<phrase hz="翅膀" py="chì,bǎng" />
+		<phrase hz="肩膀" py="jiān,bǎng" />
+		<phrase hz="脚膀" py="jiǎo,bǎng" info="方言。指腿。" />
+		<phrase hz="蹄膀" py="tí,bǎng" />
+		<phrase hz="翼膀" py="yì,bǎng" info="翅膀。" />
+		<phrase hz="涨膀" py="zhàng,bǎng" info="方言。物浸水而膨胀。" />
+		<phrase hz="左膀右臂" py="zuǒ,bǎng,yòu,bì" />
+		<definition id="一">
+			<item id="1" text="（-子）胳膊上部靠肩的部分：他的两~真有劲." />
+			<item id="2" text="（-儿）鸟类等的翅膀。" />
+		</definition>
+	</char>
+	<char hz="膀" py="pāng" multi="bǎng,páng">
+		<definition id="二">
+			<item text="浮肿：他肾脏有病，脸有点~." />
+		</definition>
+	</char>
+	<char hz="膀" py="páng" multi="bǎng,pāng" info="Word主音">
+		<phrase hz="膀胱" py="páng,guāng" />
+		<definition id="三">
+			<item text="[膀胱](-guāng)俗叫“尿脬”(suīpāo)。暂存尿液的囊状体，在骨盆腔的前方。" />
+		</definition>
+	</char>
+</pinyin>

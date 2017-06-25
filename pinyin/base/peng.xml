@@ -5,11 +5,7 @@
 	<char hz="砰" py="pēng" />
 	<char hz="烹" py="pēng" />
 	<char hz="嘭" py="pēng" />
-	<char hz="澎" py="pēng" multi="péng">
-		<definition id="二">
-			<item text="〈方〉溅：~了一身水." />
-		</definition>
-	</char>
+	<!-- Ref:澎.xml <char hz="澎" py="pēng" multi="péng" /> -->
 	<char hz="芃" py="péng" />
 	<char hz="朋" py="péng" />
 	<char hz="堋" py="péng" />
@@ -18,14 +14,7 @@
 	<char hz="鹏" py="péng" />
 	<char hz="鬅" py="péng" />
 	<char hz="彭" py="péng" />
-	<char hz="澎" py="péng" multi="pēng" main="1">
-		<phrase hz="澎湃" py="péng,pài" />
-		<phrase hz="澎湖" py="péng,hú" />
-		<definition id="一">
-			<item text="[澎湃](-pài)大浪相激。" />
-			<item text="[澎湖](-hú)我国岛屿，在台湾海峡东南部，与附近岛屿共有64个，总称“澎湖群岛”。" />
-		</definition>
-	</char>
+	<!-- Ref:澎.xml <char hz="澎" py="péng" multi="pēng" main="1" /> -->
 	<char hz="膨" py="péng">
 		<phrase hz="膨脝" py="péng,hēng" />
 		<phrase hz="膨胀" py="péng,zhàng" />
@@ -33,21 +22,7 @@
 	<char hz="蟛" py="péng">
 		<phrase hz="蟛蜞" py="péng,qí" />
 	</char>
-	<char hz="搒" py="péng" multi="bàng">
-		<phrase hz="摽搒" py="biāo,péng" />
-		<phrase hz="笞搒" py="chī,péng" />
-		<phrase hz="棰搒" py="chuí,péng" />
-		<phrase hz="击搒" py="jī,péng" />
-		<phrase hz="搒楚" py="péng,chǔ" />
-		<phrase hz="搒捶" py="péng,chuí" />
-		<phrase hz="搒掠" py="péng,lüě" />
-		<phrase hz="搒挞" py="péng,tà" />
-		<phrase hz="搒械" py="péng,xiè" />
-		<phrase hz="敲搒" py="qiāo,péng" />
-		<definition id="二">
-			<item text="用棍子或竹板子打。" />
-		</definition>
-	</char>
+	<!-- Ref:搒.xml <char hz="搒" py="péng" multi="bàng" /> -->
 	<char hz="蓬" py="péng">
 		<phrase hz="蓬勃" py="péng,bó" />
 	</char>

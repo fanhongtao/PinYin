@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="磅" py="bàng" multi="páng" main="1">
+		<phrase hz="磅秤" py="bàng,chèng" />
+		<phrase hz="磅刷" py="bàng,shuā" info="最大号的家用油漆刷" />
+		<phrase hz="磅纸" py="bàng,zhǐ" info="一种比较高级的纸。" />
+		<phrase hz="地磅" py="dì,bàng" />
+		<phrase hz="过磅" py="guò,bàng" />
+		<phrase hz="殷磅" py="yīn,bàng" info="形容声音轰响。" />
+		<phrase hz="砰磅" py="pēng,bàng" info="象声词。形容水流激荡等声。" />
+		<definition id="一">
+			<item id="1" text="英美制重量单位。1磅等于453.6克。" />
+			<item id="2" text="磅秤：过~." />
+		</definition>
+	</char>
+	<char hz="磅" py="páng" multi="bàng">
+		<phrase hz="磅礴" py="páng,bó" />
+		<definition id="二">
+			<item text="[磅礴](-bó)1.广大无边际：大气~~. 2.扩展，充满：正义之气，~~宇内." />
+		</definition>
+	</char>
+</pinyin>

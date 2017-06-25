@@ -17,11 +17,7 @@
 	</char>
 	<char hz="鄱" py="pó" />
 	<char hz="皤" py="pó" />
-	<char hz="繁" py="pó" multi="fán">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:繁.xml <char hz="繁" py="pó" multi="fán" /> -->
 	<char hz="叵" py="pǒ" />
 	<char hz="钷" py="pǒ" />
 	<char hz="笸" py="pǒ">

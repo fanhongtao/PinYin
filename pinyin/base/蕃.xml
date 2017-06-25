@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蕃" py="fān" multi="fán" info="Word主音">
+		<definition id="二">
+			<item text="同“番(fān)(1)”" />
+		</definition>
+	</char>
+	<char hz="蕃" py="fán" multi="fān" main="1">
+		<phrase hz="蕃盛" py="fán,shèng" />
+		<phrase hz="蕃衍" py="fán,yǎn" />
+		<definition id="一">
+			<item text="茂盛：草木~盛. (喻)繁多：~衍（逐渐增多或增广，现作“繁衍”）." />
+		</definition>
+	</char>
+</pinyin>

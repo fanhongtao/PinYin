@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="番" py="fān" multi="pān" main="1" suppressLog="1">
+		<phrase hz="番邦" py="fān,bāng" info="旧指外国或外族" />
+		<phrase hz="翻番" py="fān,fān" info="数量成倍增长" />
+		<phrase hz="番号" py="fān,hào" />
+		<phrase hz="番椒" py="fān,jiāo" info="中医药上称辣椒为番椒。" />
+		<phrase hz="番茄" py="fān,qié" info="西红柿" />
+		<phrase hz="番薯" py="fān,shǔ" info="〈方〉甘薯" />
+		<phrase hz="更番" py="gēng,fān" info="轮流，替换" />
+		<phrase hz="轮番" py="lún,fān" />
+		<phrase hz="三番五次" py="sān,fān,wǔ,cì" />
+		<phrase hz="一番" py="yī,fān" />
+		<definition id="一">
+			<item id="1" text="称外国的或外族的：~茄. ~薯. ~椒." />
+			<item id="2" text="代换：轮~. 更~." />
+			<item id="3" text="量词。1.遍，次：三~五次. 费了一~心思. 解说一~. 2.倍：产量翻了一~." />
+		</definition>
+	</char>
+	<char hz="番" py="pān" multi="fān">
+		<phrase hz="番禺" py="pān,yú" />
+		<definition id="二">
+			<item text="[番禺](-yú)地名，在广东省广州。" />
+		</definition>
+	</char>
+</pinyin>

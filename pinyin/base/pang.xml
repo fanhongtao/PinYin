@@ -6,32 +6,13 @@
 		<phrase hz="滂湃" py="pāng,pài" />
 		<phrase hz="滂沱" py="pāng,tuó" />
 	</char>
-	<char hz="膀" py="pāng" multi="bǎng,páng">
-		<definition id="二">
-			<item text="浮肿：他肾脏有病，脸有点~." />
-		</definition>
-	</char>
-	<char hz="彷" py="páng" multi="fǎng" main="1">
-		<phrase hz="彷徨" py="páng,huáng" />
-		<definition id="一">
-			<item text="[彷徨]（*旁皇）(-huáng)游移不定，不知道往哪里走好。" />
-		</definition>
-	</char>
+	<!-- Ref:膀.xml <char hz="膀" py="pāng" multi="bǎng,páng" /> -->
+	<!-- Ref:彷.xml <char hz="彷" py="páng" multi="fǎng" main="1" /> -->
 	<char hz="庞" py="páng" />
 	<char hz="逄" py="páng" />
 	<char hz="旁" py="páng" />
-	<char hz="膀" py="páng" multi="bǎng,pāng" info="Word主音">
-		<phrase hz="膀胱" py="páng,guāng" />
-		<definition id="三">
-			<item text="[膀胱](-guāng)俗叫“尿脬”(suīpāo)。暂存尿液的囊状体，在骨盆腔的前方。" />
-		</definition>
-	</char>
-	<char hz="磅" py="páng" multi="bàng">
-		<phrase hz="磅礴" py="páng,bó" />
-		<definition id="二">
-			<item text="[磅礴](-bó)1.广大无边际：大气~~. 2.扩展，充满：正义之气，~~宇内." />
-		</definition>
-	</char>
+	<!-- Ref:膀.xml <char hz="膀" py="páng" multi="bǎng,pāng" info="Word主音" /> -->
+	<!-- Ref:磅.xml <char hz="磅" py="páng" multi="bàng" /> -->
 	<char hz="螃" py="páng">
 		<phrase hz="螃蟹" py="páng,xiè" />
 	</char>
@@ -40,9 +21,5 @@
 	</char>
 	<char hz="嗙" py="pǎng" />
 	<char hz="耪" py="pǎng" />
-	<char hz="胖" py="pàng" multi="pán" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="人体内含脂肪多，跟“瘦”相对：他长得很~." />
-		</definition>
-	</char>
+	<!-- Ref:胖.xml <char hz="胖" py="pàng" multi="pán" main="1" suppressLog="1" /> -->
 </pinyin>

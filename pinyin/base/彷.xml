@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="彷" py="fǎng" multi="páng">
+		<phrase hz="彷彿" py="fǎng,fú" />
+		<definition id="二">
+			<item text="[彷彿]旧同“仿佛”。参看“仿(3)”。" />
+		</definition>
+	</char>
+	<char hz="彷" py="páng" multi="fǎng" main="1">
+		<phrase hz="彷徨" py="páng,huáng" />
+		<definition id="一">
+			<item text="[彷徨]（*旁皇）(-huáng)游移不定，不知道往哪里走好。" />
+		</definition>
+	</char>
+</pinyin>

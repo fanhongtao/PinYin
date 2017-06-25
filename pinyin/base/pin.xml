@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="拚" py="pīn" multi="pàn" main="1">
-		<definition id="二">
-			<item text="同“拼”。" />
-		</definition>
-	</char>
+	<!-- Ref:拚.xml <char hz="拚" py="pīn" multi="pàn" main="1" /> -->
 	<char hz="拼" py="pīn">
 		<definition>
 			<item id="1" text="连合，凑合（(连)-凑）：~音. 东~西凑. 把两块板子~起来." />

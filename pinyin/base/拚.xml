@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拚" py="pàn" multi="pīn">
+		<phrase hz="拚命" py="pàn,mìng" info="〈方〉不顾性命去做" />
+		<phrase hz="拚弃" py="pàn,qì" info="抛弃;舍弃" />
+		<definition id="一">
+			<item text="舍弃，豁出去：~命." />
+		</definition>
+	</char>
+	<char hz="拚" py="pīn" multi="pàn" main="1">
+		<definition id="二">
+			<item text="同“拼”。" />
+		</definition>
+	</char>
+</pinyin>

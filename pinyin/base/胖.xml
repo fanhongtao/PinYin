@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="胖" py="pán" multi="pàng">
+		<phrase hz="心广体胖" py="xīn,guǎng,tǐ,pán" />
+		<definition id="二">
+			<item text="安泰舒适：心广体~." />
+		</definition>
+	</char>
+	<char hz="胖" py="pàng" multi="pán" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="人体内含脂肪多，跟“瘦”相对：他长得很~." />
+		</definition>
+	</char>
+</pinyin>

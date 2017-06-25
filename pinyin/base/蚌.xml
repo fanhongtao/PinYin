@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蚌" py="bàng" multi="bèng" main="1" suppressLog="1">
+		<phrase hz="蚌壳" py="bàng,ké" />
+		<phrase hz="蚌舞" py="bàng,wǔ" />
+		<phrase hz="蛤蚌" py="gé,bàng" />
+		<definition id="一">
+			<item text="生活在淡水里的一类软体动物，贝壳长圆形，黑褐色，壳内有珍珠层，有的可以产出珍珠。" />
+		</definition>
+	</char>
+	<char hz="蚌" py="bèng" multi="bàng">
+		<phrase hz="蚌埠" py="bèng,bù" />
+		<definition id="二">
+			<item text="[蚌埠](-bù)地名，在安徽省。" />
+		</definition>
+	</char>
+</pinyin>

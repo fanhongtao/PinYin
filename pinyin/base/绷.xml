@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="绷" py="bēng" multi="běng" main="1">
+		<phrase hz="绷床" py="bēng,chuáng" />
+		<phrase hz="绷带" py="bēng,dài" />
+		<phrase hz="绷簧" py="bēng,huáng" />
+		<phrase hz="绷紧" py="bēng,jǐn" />
+		<phrase hz="绷子" py="bēng,zi" />
+		<phrase hz="绷场面" py="bēng,chǎng,miàn" />
+		<phrase hz="坑绷拐骗" py="kēng,bēng,guǎi,piàn" />
+		<phrase hz="硬绷" py="yìng,bēng" />
+		<phrase hz="棕绷" py="zōng,bēng" />
+		<definition id="一">
+			<item id="1" text="张紧，拉紧：衣服紧~在身上. ~紧绳子. [绷带]包扎伤口的纱布条。 [绷子]（-zi）刺绣用的架子，把绸布等材料张紧在上面，免得皱缩。" />
+			<item id="2" text="粗粗地缝上或用针别上：~被头." />
+		</definition>
+	</char>
+	<char hz="绷" py="běng" multi="bēng">
+		<phrase hz="绷脸" py="běng,liǎn" />
+		<phrase hz="绷劲" py="běng,jìn" />
+		<phrase hz="绷着" py="běng,zhe" />
+		<definition id="二">
+			<item id="1" text="板着：~着个脸." />
+			<item id="2" text="强忍住：他~不住笑了." />
+		</definition>
+	</char>
+</pinyin>

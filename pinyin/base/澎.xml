@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="澎" py="pēng" multi="péng">
+		<definition id="二">
+			<item text="〈方〉溅：~了一身水." />
+		</definition>
+	</char>
+	<char hz="澎" py="péng" multi="pēng" main="1">
+		<phrase hz="澎湃" py="péng,pài" />
+		<phrase hz="澎湖" py="péng,hú" />
+		<definition id="一">
+			<item text="[澎湃](-pài)大浪相激。" />
+			<item text="[澎湖](-hú)我国岛屿，在台湾海峡东南部，与附近岛屿共有64个，总称“澎湖群岛”。" />
+		</definition>
+	</char>
+</pinyin>

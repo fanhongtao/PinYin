@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坊" py="fāng" multi="fáng" main="1">
+		<phrase hz="坊间" py="fāng,jiān" />
+		<phrase hz="街坊" py="jiē,fang" />
+		<phrase hz="牌坊" py="pái,fāng" />
+		<phrase hz="贞节坊" py="zhēn,jié,fāng" />
+		<definition id="一">
+			<item id="1" text="里巷，多用于街巷的名称。(引)街市，市中店铺：~间." />
+			<item id="2" text="牌坊，旧时为旌表“功德”、宣扬封建礼教而建造的建筑物：忠孝牌~. 贞节~." />
+		</definition>
+	</char>
+	<char hz="坊" py="fáng" multi="fāng">
+		<phrase hz="槽坊" py="cáo,fáng" info="1.酿酒的作坊。 2.手工造纸厂" />
+		<phrase hz="茶坊" py="chá,fáng" info="茶馆。" />
+		<phrase hz="粉坊" py="fěn,fáng" info="生产粉丝等制品的作坊" />
+		<phrase hz="酒坊" py="jiǔ,fáng" info="1.古代專司釀酒的官署。2.賣酒或供人飲酒的地方。" />
+		<phrase hz="磨坊" py="mò,fáng" info="1.亦作磨房，磨面粉等的作坊。 2.安装有能将谷物磨成面粉的机器的厂房" />
+		<phrase hz="碾坊" py="niǎn,fáng" info="碾米、面的作坊。也作碾房" />
+		<phrase hz="染坊" py="rǎn,fáng" info="给布、帛、衣、物染色的作坊。亦特指 唐 代掌染事的官署。" />
+		<phrase hz="油坊" py="yóu,fáng" info="使用榨油机榨植物油的作坊或工厂" />
+		<phrase hz="作坊" py="zuō,fang" />
+		<definition id="二">
+			<item text="作(zuō)坊，某些小手工业的工作场所：染~. 油~. 粉~. 磨~." />
+		</definition>
+	</char>
+</pinyin>
