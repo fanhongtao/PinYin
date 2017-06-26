@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="趟" py="tāng" multi="tàng">
+		<phrase hz="趟地" py="tāng,dì" info="用犁把土翻开，除去杂草，并给苗培土。" />
+		<phrase hz="趟浑水" py="tāng,hún,shuǐ" info="〈方〉随他人一起做坏事" />
+		<phrase hz="趟水" py="tāng,shuǐ" info="从浅水中走过去。" />
+		<definition id="一">
+			<item id="1" text="从有水、草的地方走过去：他~着水过去了." />
+			<item id="2" text="用犁、锄等把土翻开，把草锄去：~地." />
+		</definition>
+	</char>
+	<char hz="趟" py="tàng" multi="tāng" main="1">
+		<phrase hz="顶趟" py="dǐng,tàng" info="1.犹顶班，顶岗。 2.顶得上，能跟上别人。" />
+		<phrase hz="赶不上趟" py="gǎn,bú,shàng,tàng" info="1.落在后面。 2.错过。" />
+		<phrase hz="赶趟" py="gǎn,tàng" info="1.赶得上；来得及。 2.指跟上潮流，适合形势。" />
+		<phrase hz="赶趟儿" py="gǎn,tàng,r" info="1.来得及 2.引申为凑热闹" />
+		<phrase hz="跟趟" py="gēn,tàng" info="跟趟是东北方言，俗语，俚语。意思是：跟得上、来得及、还有充足的时间。" />
+		<phrase hz="跟趟儿" py="gēn,tàng,r" />
+		<phrase hz="光趟" py="guāng,tàng" info="〈方〉光滑;不粗糙 " />
+		<phrase hz="趟马" py="tàng,mǎ" info="戏曲中表演骑着马奔跑的一套程式动作。" />
+		<phrase hz="一趟" py="yí,tàng" info="自定义词。" />
+		<phrase hz="一趟平" py="yí,tàng,píng" info="形容一望无际，广阔平坦。" />
+		<phrase hz="走趟" py="zǒu,tàng" info="走；前往。" />
+		<definition id="二">
+			<item text="量词。 1.来往的次数：他来了一~. 这~火车去上海. 2.（-儿）用于成行的东西：屋里摆着两~桌子. 用线把这件衣服缝上一~." />
+		</definition>
+	</char>
+</pinyin>

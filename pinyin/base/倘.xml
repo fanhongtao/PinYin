@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="倘" py="cháng" multi="tǎng">
+		<phrase hz="倘佯" py="cháng,yáng" />
+		<definition id="二">
+			<item text="[倘佯](-yáng)旧同“徜徉”。" />
+		</definition>
+	</char>
+	<char hz="倘" py="tǎng" multi="cháng" main="1">
+		<phrase hz="俶倘" py="chù,tǎng" />
+		<phrase hz="倘或" py="tǎng,huò" />
+		<phrase hz="倘来" py="tǎng,lái" info="不应得而得或无意中得到。" />
+		<phrase hz="倘然" py="tǎng,rán" />
+		<phrase hz="倘如" py="tǎng,rú" />
+		<phrase hz="倘若" py="tǎng,ruò" />
+		<phrase hz="倘使" py="tǎng,shǐ" />
+		<definition id="一">
+			<item text="连词，假使，如果：~若. ~能努力，定可成功." />
+		</definition>
+	</char>
+</pinyin>

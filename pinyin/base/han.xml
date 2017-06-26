@@ -1,22 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="犴" py="hān" multi="àn" main="1">
-		<definition id="一">
-			<item text="就是驼鹿。也叫“堪达罕”。" />
-		</definition>
-	</char>
+	<!-- Ref:犴.xml <char hz="犴" py="hān" multi="àn" main="1" /> -->
 	<char hz="顸" py="hān" />
 	<char hz="鼾" py="hān" />
 	<char hz="蚶" py="hān" />
 	<char hz="酣" py="hān" />
 	<char hz="憨" py="hān" />
 	<char hz="邗" py="hán" />
-	<char hz="汗" py="hán" multi="hàn">
-		<phrase hz="可汗" py="kè,hán" />
-		<definition id="二">
-			<item text="指可汗。参看“可(二)”。" />
-		</definition>
-	</char>
+	<!-- Ref:汗.xml <char hz="汗" py="hán" multi="hàn" /> -->
 	<char hz="邯" py="hán">
 		<phrase hz="邯郸" py="hán,dān" />
 	</char>
@@ -34,19 +25,11 @@
 	<char hz="寒" py="hán" />
 	<char hz="罕" py="hǎn" />
 	<char hz="喊" py="hǎn" />
-	<char hz="阚" py="hǎn" multi="kàn">
-		<definition id="二">
-			<item text="虎叫声。" />
-		</definition>
-	</char>
+	<!-- Ref:阚.xml <char hz="阚" py="hǎn" multi="kàn" /> -->
 	<char hz="" py="hǎn" />
 	<char hz="汉" py="hàn" />
 	<char hz="闬" py="hàn" />
-	<char hz="汗" py="hàn" multi="hán" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="由身体的毛孔里排泄出来的液体。" />
-		</definition>
-	</char>
+	<!-- Ref:汗.xml <char hz="汗" py="hàn" multi="hán" main="1" suppressLog="1" /> -->
 	<char hz="旱" py="hàn" />
 	<char hz="捍" py="hàn" />
 	<char hz="悍" py="hàn" />

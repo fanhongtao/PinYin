@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="桄" py="guāng" multi="guàng" info="Word主音">
+		<phrase hz="桄榔" py="guāng,láng" />
+		<definition id="二">
+			<item text="[桄榔](-láng)常绿乔木，大型羽状叶，生于茎顶。花序的汁可制糖，茎髓可制淀粉，叶柄 的纤维可制绳。" />
+		</definition>
+	</char>
+	<char hz="桄" py="guàng" multi="guāng" main="1">
+		<definition id="一">
+			<item id="1" text="绕线的器具。" />
+			<item id="2" text="量词，用于线：一~线." />
+		</definition>
+	</char>
+</pinyin>

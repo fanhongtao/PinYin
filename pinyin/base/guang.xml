@@ -5,30 +5,12 @@
 	</char>
 	<char hz="咣" py="guāng" />
 	<char hz="洸" py="guāng" />
-	<char hz="桄" py="guāng" multi="guàng" info="Word主音">
-		<phrase hz="桄榔" py="guāng,láng" />
-		<definition id="二">
-			<item text="[桄榔](-láng)常绿乔木，大型羽状叶，生于茎顶。花序的汁可制糖，茎髓可制淀粉，叶柄 的纤维可制绳。" />
-		</definition>
-	</char>
+	<!-- Ref:桄.xml <char hz="桄" py="guāng" multi="guàng" info="Word主音" /> -->
 	<char hz="胱" py="guāng">
 		<phrase hz="膀胱" py="páng,guāng" />
 	</char>
-	<char hz="广" py="guǎng" multi="ān" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="宽度：长五十米，~三十米. [广袤](-mào)东西叫广，南北叫袤，指土地的面积。" />
-			<item id="2" text="宽，大：~场. 我国地~人多. [广泛]范围大，普遍：~~宣传. 意义~~." />
-			<item id="3" text="多：大庭~众." />
-			<item id="4" text="扩大，扩充：~播. 推~先进经验." />
-			<item id="5" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:广.xml <char hz="广" py="guǎng" multi="ān" main="1" suppressLog="1" /> -->
 	<char hz="犷" py="guǎng" />
-	<char hz="桄" py="guàng" multi="guāng" main="1">
-		<definition id="一">
-			<item id="1" text="绕线的器具。" />
-			<item id="2" text="量词，用于线：一~线." />
-		</definition>
-	</char>
+	<!-- Ref:桄.xml <char hz="桄" py="guàng" multi="guāng" main="1" /> -->
 	<char hz="逛" py="guàng" />
 </pinyin>

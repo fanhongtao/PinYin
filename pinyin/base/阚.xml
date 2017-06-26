@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="阚" py="hǎn" multi="kàn">
+		<definition id="二">
+			<item text="虎叫声。" />
+		</definition>
+	</char>
+	<char hz="阚" py="kàn" multi="hǎn" main="1">
+		<definition id="一">
+			<item text="姓。" />
+		</definition>
+	</char>
+</pinyin>

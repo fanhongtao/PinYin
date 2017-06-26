@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="犴" py="àn" multi="hān">
+		<phrase hz="犴狴" py="àn,bì" />
+		<phrase hz="犴户" py="àn,hù" />
+		<phrase hz="犴噬" py="àn,shì" />
+		<phrase hz="犴讼" py="àn,sòng" />
+		<phrase hz="犴庭" py="àn,tíng" />
+		<phrase hz="犴圄" py="àn,yǔ" />
+		<phrase hz="犴狱" py="àn,yù" />
+		<phrase hz="狴犴" py="bì,àn" />
+		<phrase hz="亡犴" py="wáng,àn" />
+		<definition id="二">
+			<item text="见“狴”字条“狴犴”（bì-）" />
+		</definition>
+	</char>
+	<char hz="犴" py="hān" multi="àn" main="1">
+		<definition id="一">
+			<item text="就是驼鹿。也叫“堪达罕”。" />
+		</definition>
+	</char>
+</pinyin>

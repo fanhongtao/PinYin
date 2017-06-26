@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="厂" py="ān" multi="chǎng">
+		<definition id="二">
+			<item text="同“庵”（多用于人名）。" />
+		</definition>
+	</char>
+	<char hz="厂" py="chǎng" multi="ān" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="工厂：机械~. 造纸~. 纱~." />
+			<item id="2" text="有空地可以存货或进行加工的场所：木~. 煤~." />
+			<item id="3" text="跟棚子类似的房屋。" />
+		</definition>
+	</char>
+</pinyin>

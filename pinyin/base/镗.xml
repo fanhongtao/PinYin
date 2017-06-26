@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镗" py="tāng" multi="táng" main="1">
+		<phrase hz="镗镗" py="tāng,tāng" info="1.鼓聲。 2.泛指大的聲音。" />
+		<definition id="一">
+			<item text="拟声词：~的一声，锣响了." />
+		</definition>
+	</char>
+	<char hz="镗" py="táng" multi="tāng">
+		<phrase hz="镗床" py="táng,chuáng" info="对诸如气缸 [铸件] 上的孔和冲模等内表面进行加工的一种机床，通常用来扩大工件上已有的孔，也可用来钻孔和加工端面" />
+		<definition id="二">
+			<item text="同“搪(4)”。" />
+		</definition>
+	</char>
+</pinyin>

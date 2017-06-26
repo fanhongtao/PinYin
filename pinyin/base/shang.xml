@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="伤" py="shāng" />
-	<char hz="汤" py="shāng" multi="tāng">
-		<phrase hz="汤汤" py="shāng,shāng" />
-		<definition id="二">
-			<item text="[汤汤]水流大而急：浩浩~~，横无际涯." />
-		</definition>
-	</char>
+	<!-- Ref:汤.xml <char hz="汤" py="shāng" multi="tāng" /> -->
 	<char hz="殇" py="shāng" />
 	<char hz="觞" py="shāng" />
 	<char hz="商" py="shāng" />
@@ -23,10 +18,5 @@
 	<char hz="上" py="shàng" info="(又)shǎng" />
 	<char hz="尚" py="shàng" />
 	<char hz="绱" py="shàng" />
-	<char hz="裳" py="shang" multi="cháng">
-		<phrase hz="衣裳" py="yī,shang" />
-		<definition id="二">
-			<item text="[衣裳]衣服。" />
-		</definition>
-	</char>
+	<!-- Ref:裳.xml <char hz="裳" py="shang" multi="cháng" /> -->
 </pinyin>

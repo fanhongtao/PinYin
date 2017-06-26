@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="裳" py="cháng" multi="shang" main="1">
+		<phrase hz="倒裳" py="dǎo,cháng" />
+		<phrase hz="荷裳" py="hé,cháng" />
+		<phrase hz="红裳" py="hóng,cháng" />
+		<phrase hz="兼裳" py="jiān,cháng" />
+		<phrase hz="轮裳" py="lún,cháng" />
+		<phrase hz="霓裳" py="ní,cháng" />
+		<phrase hz="青裳" py="qīng,cháng" />
+		<phrase hz="衽裳" py="rèn,cháng" />
+		<phrase hz="素裳" py="sù,cháng" />
+		<phrase hz="帏裳" py="wéi,cháng" />
+		<phrase hz="下裳" py="xià,cháng" />
+		<phrase hz="轩裳" py="xuān,cháng" />
+		<phrase hz="绣裳" py="xiù,cháng" />
+		<definition id="一">
+			<item text="遮蔽下体的衣裙。" />
+		</definition>
+	</char>
+	<char hz="裳" py="shang" multi="cháng">
+		<phrase hz="衣裳" py="yī,shang" />
+		<definition id="二">
+			<item text="[衣裳]衣服。" />
+		</definition>
+	</char>
+</pinyin>

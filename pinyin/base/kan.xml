@@ -28,10 +28,6 @@
 	<char hz="崁" py="kàn" />
 	<char hz="墈" py="kàn" />
 	<char hz="磡" py="kàn" />
-	<char hz="阚" py="kàn" multi="hǎn" main="1">
-		<definition id="一">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:阚.xml <char hz="阚" py="kàn" multi="hǎn" main="1" /> -->
 	<char hz="瞰" py="kàn" />
 </pinyin>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="汤" py="shāng" multi="tāng">
+		<phrase hz="汤汤" py="shāng,shāng" />
+		<definition id="二">
+			<item text="[汤汤]水流大而急：浩浩~~，横无际涯." />
+		</definition>
+	</char>
+	<char hz="汤" py="tāng" multi="shāng" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="热水：赴~蹈火." />
+			<item id="2" text="煮东西的汁液：米~. ~药." />
+			<item id="3" text="烹调后汁特别多的副食：白菜~." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

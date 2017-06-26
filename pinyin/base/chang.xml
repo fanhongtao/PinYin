@@ -16,42 +16,14 @@
 	<char hz="尝" py="cháng" />
 	<char hz="偿" py="cháng" />
 	<char hz="鲿" py="cháng" />
-	<char hz="倘" py="cháng" multi="tǎng">
-		<phrase hz="倘佯" py="cháng,yáng" />
-		<definition id="二">
-			<item text="[倘佯](-yáng)旧同“徜徉”。" />
-		</definition>
-	</char>
+	<!-- Ref:倘.xml <char hz="倘" py="cháng" multi="tǎng" /> -->
 	<char hz="徜" py="cháng">
 		<phrase hz="徜徉" py="cháng,yáng" />
 	</char>
 	<char hz="常" py="cháng" />
 	<char hz="嫦" py="cháng" />
-	<char hz="裳" py="cháng" multi="shang" main="1">
-		<phrase hz="倒裳" py="dǎo,cháng" />
-		<phrase hz="荷裳" py="hé,cháng" />
-		<phrase hz="红裳" py="hóng,cháng" />
-		<phrase hz="兼裳" py="jiān,cháng" />
-		<phrase hz="轮裳" py="lún,cháng" />
-		<phrase hz="霓裳" py="ní,cháng" />
-		<phrase hz="青裳" py="qīng,cháng" />
-		<phrase hz="衽裳" py="rèn,cháng" />
-		<phrase hz="素裳" py="sù,cháng" />
-		<phrase hz="帏裳" py="wéi,cháng" />
-		<phrase hz="下裳" py="xià,cháng" />
-		<phrase hz="轩裳" py="xuān,cháng" />
-		<phrase hz="绣裳" py="xiù,cháng" />
-		<definition id="一">
-			<item text="遮蔽下体的衣裙。" />
-		</definition>
-	</char>
-	<char hz="厂" py="chǎng" multi="ān" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="工厂：机械~. 造纸~. 纱~." />
-			<item id="2" text="有空地可以存货或进行加工的场所：木~. 煤~." />
-			<item id="3" text="跟棚子类似的房屋。" />
-		</definition>
-	</char>
+	<!-- Ref:裳.xml <char hz="裳" py="cháng" multi="shang" main="1" /> -->
+	<!-- Ref:厂.xml <char hz="厂" py="chǎng" multi="ān" main="1" suppressLog="1" /> -->
 	<!-- Ref:场.xml <char hz="场" py="chǎng" multi="cháng" main="1" /> -->
 	<char hz="昶" py="chǎng" />
 	<char hz="惝" py="chǎng" info="(又)tǎng" />

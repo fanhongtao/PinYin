@@ -1,15 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="厂" py="ān" multi="chǎng">
-		<definition id="二">
-			<item text="同“庵”（多用于人名）。" />
-		</definition>
-	</char>
-	<char hz="广" py="ān" multi="guǎng">
-		<definition id="二">
-			<item text="同“庵”（多用于人名）。" />
-		</definition>
-	</char>
+	<!-- Ref:厂.xml <char hz="厂" py="ān" multi="chǎng" /> -->
+	<!-- Ref:广.xml <char hz="广" py="ān" multi="guǎng" /> -->
 	<char hz="安" py="ān" />
 	<char hz="桉" py="ān" />
 	<char hz="氨" py="ān" />
@@ -30,20 +22,7 @@
 	<char hz="埯" py="ǎn" />
 	<char hz="唵" py="ǎn" />
 	<char hz="揞" py="ǎn" />
-	<char hz="犴" py="àn" multi="hān">
-		<phrase hz="犴狴" py="àn,bì" />
-		<phrase hz="犴户" py="àn,hù" />
-		<phrase hz="犴噬" py="àn,shì" />
-		<phrase hz="犴讼" py="àn,sòng" />
-		<phrase hz="犴庭" py="àn,tíng" />
-		<phrase hz="犴圄" py="àn,yǔ" />
-		<phrase hz="犴狱" py="àn,yù" />
-		<phrase hz="狴犴" py="bì,àn" />
-		<phrase hz="亡犴" py="wáng,àn" />
-		<definition id="二">
-			<item text="见“狴”字条“狴犴”（bì-）" />
-		</definition>
-	</char>
+	<!-- Ref:犴.xml <char hz="犴" py="àn" multi="hān" /> -->
 	<char hz="岸" py="àn" />
 	<char hz="按" py="àn" />
 	<char hz="案" py="àn" />

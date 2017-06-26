@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="汗" py="hán" multi="hàn">
+		<phrase hz="可汗" py="kè,hán" />
+		<definition id="二">
+			<item text="指可汗。参看“可(二)”。" />
+		</definition>
+	</char>
+	<char hz="汗" py="hàn" multi="hán" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="由身体的毛孔里排泄出来的液体。" />
+		</definition>
+	</char>
+</pinyin>
