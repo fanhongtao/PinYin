@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="扁" py="biǎn" multi="piān" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="物体平而薄：鸭子嘴~." />
+		</definition>
+	</char>
+	<char hz="扁" py="piān" multi="biǎn">
+		<phrase hz="扁舟" py="piān,zhōu" />
+		<definition id="二">
+			<item text="[扁舟]小船：一叶~~." />
+		</definition>
+	</char>
+</pinyin>

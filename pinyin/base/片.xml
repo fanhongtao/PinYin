@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="片" py="piān" multi="piàn">
+		<definition id="二">
+			<item text="（-子、-儿）同“片(一)(1)”，用于“相片儿、画片儿、唱片儿、电影片儿”等。" />
+		</definition>
+	</char>
+	<char hz="片" py="piàn" multi="piān" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）平而薄的物体：明信~. 铁~子." />
+			<item id="2" text="切削成薄片：~肉片. 把豆腐干~一~." />
+			<item id="3" text="少，零星：~言（几句话）. ~纸只字. ~刻（短时间）. [片面]不全面，偏于一面的：观点~~. 不要~~看问题." />
+			<item id="4" text="指较大地区内划分较小地区：分~儿开会." />
+			<item id="5" text="量词，用于地面、水面、景色或成片的东西等：一大~绿油油的庄稼. 一~汪洋. 两~儿药. 一~好心." />
+		</definition>
+	</char>
+</pinyin>
