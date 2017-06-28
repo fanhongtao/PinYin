@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瘪" py="biē" multi="biě">
+		<phrase hz="瘪三" py="biē,sān" />
+		<definition id="二">
+			<item text="[瘪三]〈方〉旧时上海人对城市中无正当职业而以乞讨或偷窃为生的游民的称呼。" />
+		</definition>
+	</char>
+	<char hz="瘪" py="biě" multi="biē" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="不饱满，凹下：~花生. 干~. 车带~了." />
+		</definition>
+	</char>
+</pinyin>

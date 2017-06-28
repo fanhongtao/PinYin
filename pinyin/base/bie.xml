@@ -1,36 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="瘪" py="biē" multi="biě">
-		<phrase hz="瘪三" py="biē,sān" />
-		<definition id="二">
-			<item text="[瘪三]〈方〉旧时上海人对城市中无正当职业而以乞讨或偷窃为生的游民的称呼。" />
-		</definition>
-	</char>
+	<!-- Ref:瘪.xml <char hz="瘪" py="biē" multi="biě" /> -->
 	<char hz="憋" py="biē">
 		<phrase hz="憋闷" py="biē,men" />
 	</char>
 	<char hz="鳖" py="biē" />
-	<char hz="别" py="bié" multi="biè" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="分离（(连)分-、离-）：告~. 临~赠言." />
-			<item id="2" text="分辨，区分（(连)辨-）：分门~类. 分~清楚. (引)差别，差异：天渊之~. [区别]1.划分：正确~~和处理敌我矛盾和人民内部矛盾. 2.差异：~~不大." />
-			<item id="3" text="类别，分类：性~. 职~." />
-			<item id="4" text="另外的：~人. ~名. ~开生面. [别致]跟寻常不同的，新奇的：式样~~. [别字]写错了的或念错了的字。也叫“白字”。" />
-			<item id="5" text="副词，不要（表示禁止或劝阻）：~动手！~开玩笑！" />
-			<item id="6" text="绷住或卡(qiǎ)住：用大头针把两张表格~在一起. ~针. 腰里~着旱烟袋." />
-			<item id="7" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:别.xml <char hz="别" py="bié" multi="biè" main="1" suppressLog="1" /> -->
 	<char hz="蹩" py="biě" />
-	<char hz="瘪" py="biě" multi="biē" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="不饱满，凹下：~花生. 干~. 车带~了." />
-		</definition>
-	</char>
-	<char hz="别" py="biè" multi="bié">
-		<phrase hz="别扭" py="biè,niu" />
-		<definition id="二">
-			<item text="[别扭](-niu)1.不顺，不相投：心里~~. 闹~~. 2.难对付：这人脾气很~~." />
-		</definition>
-	</char>
+	<!-- Ref:瘪.xml <char hz="瘪" py="biě" multi="biē" main="1" suppressLog="1" /> -->
+	<!-- Ref:别.xml <char hz="别" py="biè" multi="bié" /> -->
 </pinyin>
