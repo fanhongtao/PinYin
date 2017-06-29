@@ -25,29 +25,7 @@
 	<char hz="洴" py="píng">
 		<phrase hz="洴澼" py="píng,pì" />
 	</char>
-	<char hz="屏" py="píng" multi="bǐng" main="1">
-		<phrase hz="插屏" py="chā,píng" />
-		<phrase hz="耳屏" py="ěr,píng" />
-		<phrase hz="藩屏" py="fān,píng" />
-		<phrase hz="挂屏" py="guà,píng" />
-		<phrase hz="画屏" py="huà,píng" />
-		<phrase hz="屏蔽" py="píng,bì" />
-		<phrase hz="屏藩" py="píng,fān" />
-		<phrase hz="屏风" py="píng,fēng" />
-		<phrase hz="屏门" py="píng,mén" />
-		<phrase hz="屏幕" py="píng,mù" />
-		<phrase hz="屏声静气" py="píng,shēng,jìng,qì" />
-		<phrase hz="屏障" py="píng,zhàng" />
-		<phrase hz="四扇屏" py="sì,shàn,píng" />
-		<phrase hz="围屏" py="wéi,píng" />
-		<phrase hz="银屏" py="yín,píng" />
-		<phrase hz="荧屏" py="yíng,píng" />
-		<phrase hz="荧光屏" py="yíng,guāng,píng" />
-		<definition id="一">
-			<item id="1" text="摭挡，摭挡物：~藩. ~蔽. ~风（挡风或阻隔视线用的家具）. 围~. [屏障]像屏风那样遮挡着的东西（多指山岭、岛屿）：天然~~." />
-			<item id="2" text="字画的条幅，通常以四幅或八幅为一组：四扇~." />
-		</definition>
-	</char>
+	<!-- Ref:屏.xml <char hz="屏" py="píng" multi="bǐng" main="1" /> -->
 	<char hz="瓶" py="píng" />
 	<char hz="幈" py="píng" />
 </pinyin>

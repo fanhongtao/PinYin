@@ -3,12 +3,7 @@
 	<!-- Ref:奔.xml <char hz="奔" py="bēn" multi="bèn" main="1" /> -->
 	<char hz="锛" py="bēn" />
 	<!-- Ref:贲.xml <char hz="贲" py="bēn" multi="bì" /> -->
-	<char hz="栟" py="bēn" multi="bīng" main="1">
-		<phrase hz="栟茶" py="bēn,chá" />
-		<definition id="一">
-			<item text="[栟茶]地名，在江苏省如东。" />
-		</definition>
-	</char>
+	<!-- Ref:栟.xml <char hz="栟" py="bēn" multi="bīng" main="1" /> -->
 	<char hz="本" py="běn" />
 	<char hz="苯" py="běn" />
 	<char hz="畚" py="běn" />

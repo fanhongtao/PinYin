@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="槟" py="bīn" multi="bīng" main="1">
+		<phrase hz="槟树" py="bīn,shù" />
+		<phrase hz="槟椥" py="bīn,zhī" info="越南 地名。" />
+		<phrase hz="槟子" py="bīn,zǐ" />
+		<phrase hz="香槟" py="xiāng,bīn" />
+		<definition id="一">
+			<item text="槟子，苹果树的一种，果实也叫槟子，比苹果小，熟的时候紫红色，味酸甜。" />
+		</definition>
+	</char>
+	<char hz="槟" py="bīng" multi="bīn">
+		<phrase hz="槟榔" py="bīng,lang" />
+		<phrase hz="槟榔屿" py="bīng,láng,yǔ" info="槟城亦称“槟州”，马来西亚十三个联邦州之一" />
+		<phrase hz="马槟榔" py="mǎ,bīng,láng" info="果实名。色紫味甘，可食用，亦供药用。" />
+		<definition id="二">
+			<item text="[槟榔](-lang)常绿乔木，生长在热带、亚热带。果实也叫槟榔，可以吃，也可入药。" />
+		</definition>
+	</char>
+</pinyin>

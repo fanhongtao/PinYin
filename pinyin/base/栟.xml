@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="栟" py="bēn" multi="bīng" main="1">
+		<phrase hz="栟茶" py="bēn,chá" />
+		<definition id="一">
+			<item text="[栟茶]地名，在江苏省如东。" />
+		</definition>
+	</char>
+	<char hz="栟" py="bīng" multi="bēn">
+		<phrase hz="栟榈" py="bīng,lǘ" />
+		<definition id="二">
+			<item text="[栟榈](-lǘ)古书上指棕榈。" />
+		</definition>
+	</char>
+</pinyin>

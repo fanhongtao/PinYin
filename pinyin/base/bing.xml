@@ -1,59 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="冰" py="bīng" />
-	<char hz="并" py="bīng" multi="bìng">
-		<phrase hz="并州" py="bīng,zhōu" />
-		<definition id="二">
-			<item text="并州，山西太原的别称。" />
-		</definition>
-	</char>
-	<char hz="栟" py="bīng" multi="bēn">
-		<phrase hz="栟榈" py="bīng,lǘ" />
-		<definition id="二">
-			<item text="[栟榈](-lǘ)古书上指棕榈。" />
-		</definition>
-	</char>
+	<!-- Ref:并.xml <char hz="并" py="bīng" multi="bìng" /> -->
+	<!-- Ref:栟.xml <char hz="栟" py="bīng" multi="bēn" /> -->
 	<char hz="兵" py="bīng" />
-	<char hz="槟" py="bīng" multi="bīn">
-		<phrase hz="槟榔" py="bīng,lang" />
-		<phrase hz="槟榔屿" py="bīng,láng,yǔ" info="槟城亦称“槟州”，马来西亚十三个联邦州之一" />
-		<phrase hz="马槟榔" py="mǎ,bīng,láng" info="果实名。色紫味甘，可食用，亦供药用。" />
-		<definition id="二">
-			<item text="[槟榔](-lang)常绿乔木，生长在热带、亚热带。果实也叫槟榔，可以吃，也可入药。" />
-		</definition>
-	</char>
+	<!-- Ref:槟.xml <char hz="槟" py="bīng" multi="bīn" /> -->
 	<char hz="丙" py="bǐng" />
 	<char hz="邴" py="bǐng" />
 	<char hz="柄" py="bǐng" />
 	<char hz="炳" py="bǐng" />
 	<char hz="秉" py="bǐng" />
 	<char hz="饼" py="bǐng" />
-	<char hz="屏" py="bǐng" multi="píng">
-		<phrase hz="屏除" py="bǐng,chú" />
-		<phrase hz="屏弃" py="bǐng,qì" />
-		<phrase hz="屏气" py="bǐng,qì" />
-		<phrase hz="屏退" py="bǐng,tuì" />
-		<phrase hz="屏息" py="bǐng,xī" />
-		<definition id="二">
-			<item id="1" text="除去，排除（(连)-除）：~弃不用. ~退左右." />
-			<item id="2" text="抑止（呼吸）：~气. ~息." />
-		</definition>
-	</char>
+	<!-- Ref:屏.xml <char hz="屏" py="bǐng" multi="píng" /> -->
 	<char hz="禀" py="bǐng" />
 	<char hz="鞞" py="bǐng" />
-	<char hz="并" py="bìng" multi="bīng" main="1" suppressLog="1">
-		<phrase hz="合发" py="bìng,fā" />
-		<phrase hz="并行" py="bìng,xíng" />
-		<phrase hz="并且" py="bìng,qiě" />
-		<phrase hz="并重" py="bìng,zhòng" />
-		<phrase hz="合并" py="hé,bìng" />
-		<definition id="一">
-			<item id="1" text="合在一起（(连)合-）：~案办理." />
-			<item id="2" text="一齐，平排着：~驾齐驱. ~肩作战. ~排坐着." />
-			<item id="3" text="连词，表示进一层：讨论~通过了这项议案. [并且]连词，表示进一层，常跟“不但”相应：他不但赞成，~~愿意帮忙." />
-			<item id="4" text="副词。1.放在否定词前面，加强否定语气，表示不像预料的那样：~不太冷. ~非不知道. 2.同时，一起：齐头~进. 相提~论. 二者~重." />
-		</definition>
-	</char>
+	<!-- Ref:并.xml <char hz="并" py="bìng" multi="bīng" main="1" suppressLog="1" /> -->
 	<char hz="摒" py="bìng" />
 	<char hz="病" py="bìng">
 		<phrase hz="毛病" py="máo,bing" />

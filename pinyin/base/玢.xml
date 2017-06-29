@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="玢" py="bīn" multi="fēn" main="1">
+		<phrase hz="玢豳" py="bīn,bīn" />
+		<phrase hz="玢璘" py="bīn,lín" />
+		<phrase hz="璘玢" py="lín,bīn" />
+		<definition id="一">
+			<item text="玉名。" />
+		</definition>
+	</char>
+	<char hz="玢" py="fēn" multi="bīn">
+		<phrase hz="赛璐玢" py="sài,lù,fēn" />
+		<definition id="二">
+			<item text="见“赛”字条“赛璐玢”。" />
+		</definition>
+	</char>
+</pinyin>

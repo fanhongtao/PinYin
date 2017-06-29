@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="并" py="bīng" multi="bìng">
+		<phrase hz="并州" py="bīng,zhōu" />
+		<definition id="二">
+			<item text="并州，山西太原的别称。" />
+		</definition>
+	</char>
+	<char hz="并" py="bìng" multi="bīng" main="1" suppressLog="1">
+		<phrase hz="合发" py="bìng,fā" />
+		<phrase hz="并行" py="bìng,xíng" />
+		<phrase hz="并且" py="bìng,qiě" />
+		<phrase hz="并重" py="bìng,zhòng" />
+		<phrase hz="合并" py="hé,bìng" />
+		<definition id="一">
+			<item id="1" text="合在一起（(连)合-）：~案办理." />
+			<item id="2" text="一齐，平排着：~驾齐驱. ~肩作战. ~排坐着." />
+			<item id="3" text="连词，表示进一层：讨论~通过了这项议案. [并且]连词，表示进一层，常跟“不但”相应：他不但赞成，~~愿意帮忙." />
+			<item id="4" text="副词。1.放在否定词前面，加强否定语气，表示不像预料的那样：~不太冷. ~非不知道. 2.同时，一起：齐头~进. 相提~论. 二者~重." />
+		</definition>
+	</char>
+</pinyin>
