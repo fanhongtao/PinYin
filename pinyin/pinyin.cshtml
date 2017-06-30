@@ -3,7 +3,7 @@
 	<xs:element name="pinyin">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element maxOccurs="unbounded" name="char">
+				<xs:element minOccurs="0" maxOccurs="unbounded" name="char">
 					<xs:complexType>
 						<xs:sequence minOccurs="0">
 							<xs:element minOccurs="0" maxOccurs="unbounded" name="phrase">
