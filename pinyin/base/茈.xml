@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="茈" py="cí" multi="zǐ" main="1">
+		<phrase hz="凫茈" py="fú,cí" />
+		<definition id="一">
+			<item text="[凫茈](fú-)古书上指荸荠。" />
+		</definition>
+	</char>
+	<char hz="茈" py="zǐ" multi="cí">
+		<phrase hz="茈草" py="zǐ,cǎo" info="即紫草" />
+		<definition id="二">
+			<item text="茈草，即紫草，多年生草本植物。叶椭圆形或长卵形，开白色小花，根皮紫色。根可入药，又可作紫色染料。" />
+		</definition>
+	</char>
+</pinyin>

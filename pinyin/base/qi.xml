@@ -63,12 +63,7 @@
 	<char hz="颀" py="qí" />
 	<char hz="蕲" py="qí" />
 	<char hz="芪" py="qí" />
-	<char hz="祇" py="qí" multi="zhǐ" main="1">
-		<phrase hz="神祇" py="shén,qí" info="指天神和地神,泛指神明" />
-		<definition id="一">
-			<item text="古代称地神。" />
-		</definition>
-	</char>
+	<!-- Ref:祇.xml <char hz="祇" py="qí" multi="zhǐ" main="1" /> -->
 	<char hz="岐" py="qí" />
 	<char hz="歧" py="qí" />
 	<char hz="跂" py="qí" multi="qì" main="1">
@@ -128,12 +123,7 @@
 	</char>
 	<char hz="琦" py="qí" />
 	<char hz="锜" py="qí" />
-	<char hz="俟" py="qí" multi="sì">
-		<phrase hz="万俟" py="mò,qí" />
-		<definition id="二">
-			<item text="[万俟](mò-)复姓。" />
-		</definition>
-	</char>
+	<!-- Ref:俟.xml <char hz="俟" py="qí" multi="sì" /> -->
 	<char hz="耆" py="qí" />
 	<char hz="鳍" py="qí" />
 	<char hz="鬐" py="qí" />

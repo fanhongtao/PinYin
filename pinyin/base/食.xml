@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="食" py="shí" multi="sì" main="1" suppressLog="1">
+		<phrase hz="粮食" py="liáng,shí" />
+		<phrase hz="食宿" py="shí,sù" info="1.饮食和住宿 2.[旅馆、饭店的]住宿、膳食和服务" />
+		<phrase hz="食相" py="shí,xiàng" />
+		<definition id="一">
+			<item id="1" text="吃：~肉. [食言]指失信：决不~~. [食指]即示指，手的第二指。(喻)家庭人口：~~众多." />
+			<item id="2" text="吃的东西：素~. 零~. 面~. 丰衣足~." />
+			<item id="3" text="日月亏缺或完全不见的现象：日~. 月~. 全~." />
+		</definition>
+	</char>
+	<char hz="食" py="sì" multi="shí">
+		<phrase hz="食母" py="sì,mǔ" info="乳母、奶媽。" />
+		<definition id="二">
+			<item text="拿东西给人吃。" />
+		</definition>
+	</char>
+</pinyin>

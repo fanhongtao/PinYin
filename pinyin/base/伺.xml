@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="伺" py="cì" multi="sì" info="Word主音">
+		<phrase hz="伺候" py="cì,hou" />
+		<definition id="二">
+			<item text="同“伺(一)”，用于“伺候”。 [伺候](-hou)1.旧指侍奉或受役使。2.照料：~~病人." />
+		</definition>
+	</char>
+	<char hz="伺" py="sì" multi="cì" main="1" suppressLog="1">
+		<phrase hz="监伺" py="jiān,sì" info="监视探察。" />
+		<phrase hz="窥伺" py="kuī,sì" info="暗中观望，等待时机(含贬义)" />
+		<phrase hz="伺察" py="sì,chá" info="1.侦视；观察。2.指观测。" />
+		<phrase hz="伺机" py="sì,jī" info="侦候可乘之机" />
+		<phrase hz="探伺" py="tàn,sì" info="1.侦察；窥探。2.指从事侦察工作的人。" />
+		<phrase hz="侦伺" py="zhēn,sì" info="窥探，伺望。" />
+		<definition id="一">
+			<item text="守候，观察：~敌. ~隙进击敌人." />
+		</definition>
+	</char>
+</pinyin>

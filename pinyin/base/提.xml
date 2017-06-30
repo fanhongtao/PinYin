@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="提" py="dī" multi="tí">
+		<phrase hz="提防" py="dī,fang" />
+		<phrase hz="提溜" py="dī,liu" />
+		<definition id="二">
+			<item text="[提防](-fang)小心防备。 [提溜](-liu)手提(tí)。" />
+		</definition>
+	</char>
+	<char hz="提" py="tí" multi="dī" main="1" suppressLog="1">
+		<phrase hz="提案" py="tí,àn" />
+		<phrase hz="提笔" py="tí,bǐ" />
+		<phrase hz="提倡" py="tí,chàng" />
+		<phrase hz="提出" py="tí,chū" />
+		<phrase hz="提纯" py="tí,chún" />
+		<phrase hz="提单" py="tí,dān" />
+		<phrase hz="提纲挈领" py="tí,gāng,qiè,lǐng" />
+		<phrase hz="提高" py="tí,gāo" />
+		<phrase hz="提供" py="tí,gōng" />
+		<phrase hz="提货" py="tí,huò" />
+		<phrase hz="提价" py="tí,jià" />
+		<phrase hz="提炼" py="tí,liàn" />
+		<phrase hz="提梁" py="tí,liáng" />
+		<phrase hz="提名" py="tí,míng" />
+		<phrase hz="提起" py="tí,qǐ" />
+		<phrase hz="提前" py="tí,qián" />
+		<phrase hz="提挈" py="tí,qiè" />
+		<phrase hz="提亲" py="tí,qīn" />
+		<phrase hz="提取" py="tí,qǔ" />
+		<phrase hz="提神" py="tí,shén" />
+		<phrase hz="提审" py="tí,shěn" />
+		<phrase hz="提升" py="tí,shēng" />
+		<phrase hz="提问" py="tí,wèn" />
+		<phrase hz="提箱" py="tí,xiāng" />
+		<phrase hz="提携" py="tí,xié" />
+		<phrase hz="提心吊胆" py="tí,xīn,diào,dǎn" />
+		<phrase hz="提醒" py="tí,xǐng" />
+		<phrase hz="提要" py="tí,yào" />
+		<phrase hz="提议" py="tí,yì" />
+		<phrase hz="提早" py="tí,zǎo" />
+		<definition id="一">
+			<item id="1" text="垂手拿着（有环、柄或绳套的东西）：~着一壶水. ~着一个篮子. ~心吊胆（喻害怕）. ~纲挈(qiè)领（喻扼要）." />
+			<item id="2" text="使事物由低往高、由后往前移动：~升. ~高. ~前. ~早." />
+			<item id="3" text="舀取油、酒等液体的工具：油~. 醋~." />
+			<item id="4" text="说起，举出：经他一~，大家都想起来了. ~意见. ~供材料. [提倡]说明某种事物的优点，鼓励大家使用或实行：要~~顾全大局. [提醒]从旁促使别人注意或指点别人：幸亏你~~，不然我就忘了. [提议]说出意见，供人讨论或采纳。" />
+			<item id="5" text="取出（(连)-取）：把款~出来. ~单（提取货物的凭单）." />
+			<item id="6" text="汉字的一种笔形，即“挑”(tiǎo)。" />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

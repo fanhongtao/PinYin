@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="偲" py="cāi" multi="sī" main="1">
-		<definition id="一">
-			<item text="有才能。" />
-		</definition>
-	</char>
+	<!-- Ref:偲.xml <char hz="偲" py="cāi" multi="sī" main="1" /> -->
 	<char hz="猜" py="cāi" />
 	<char hz="才" py="cái">
 		<phrase hz="干才" py="gàn,cái" />
@@ -12,14 +8,7 @@
 	<char hz="材" py="cái" />
 	<char hz="财" py="cái" />
 	<char hz="裁" py="cái" />
-	<char hz="采" py="cǎi" multi="cài" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="摘取：~莲. ~茶." />
-			<item id="2" text="选取：~用. ~矿. [采访]搜集寻访，多指记者为搜集材料进行调查访问。 [采纳]接受（意见）：~~群众的意见." />
-			<item id="3" text="神采，神色，精神：兴高~烈." />
-			<item id="4" text="同“彩”。" />
-		</definition>
-	</char>
+	<!-- Ref:采.xml <char hz="采" py="cǎi" multi="cài" main="1" suppressLog="1" /> -->
 	<char hz="彩" py="cǎi">
 		<definition>
 			<item id="1" text="各种颜色：~色影片. ~排（化装排演）. [挂彩](喻)在战斗中受伤。" />
@@ -30,13 +19,7 @@
 	</char>
 	<char hz="睬" py="cǎi" />
 	<char hz="踩" py="cǎi" />
-	<char hz="采" py="cài" multi="cǎi">
-		<phrase hz="采地" py="cài,dì" />
-		<phrase hz="采邑" py="cài,yì" />
-		<definition id="二">
-			<item text="采地，采邑，古代卿大夫的封地。" />
-		</definition>
-	</char>
+	<!-- Ref:采.xml <char hz="采" py="cài" multi="cǎi" /> -->
 	<char hz="菜" py="cài" />
 	<char hz="蔡" py="cài" />
 </pinyin>

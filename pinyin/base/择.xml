@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="择" py="zé" multi="zhái" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="挑拣，挑选（(连)选-）：不~手段. ~善而从. ~友. ~业." />
+		</definition>
+	</char>
+	<char hz="择" py="zhái" multi="zé">
+		<phrase hz="择菜" py="zhái,cài" />
+		<phrase hz="择床" py="zhái,chuáng" />
+		<definition id="二">
+			<item text="义同“择(一)”，用于口语：~菜. ~席（换个地方就睡不安稳）." />
+		</definition>
+	</char>
+</pinyin>

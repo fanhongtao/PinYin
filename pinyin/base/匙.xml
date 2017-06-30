@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="匙" py="chí" multi="shi" main="1" suppressLog="1">
+		<phrase hz="茶匙" py="chá,chí" />
+		<phrase hz="汤匙" py="tāng,chí" />
+		<definition id="一">
+			<item text="舀(yǎo)汤用的小勺子。也叫“调羹”(tiáogēng)。" />
+		</definition>
+	</char>
+	<char hz="匙" py="shi" multi="chí">
+		<phrase hz="锁匙" py="suǒ,shi" />
+		<phrase hz="钥匙" py="yào,shi" />
+		<definition id="二">
+			<item text="见“钥”字条“钥匙”(yào-)。" />
+		</definition>
+	</char>
+</pinyin>

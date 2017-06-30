@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="町" py="dīng" multi="tǐng">
+		<phrase hz="畹町" py="wǎn,dīng" />
+		<definition id="二">
+			<item text="见“畹”字条“畹町”(wǎn-)。" />
+		</definition>
+	</char>
+	<char hz="町" py="tǐng" multi="dīng" main="1">
+		<definition id="一" text="〈古〉">
+			<item id="1" text="田界。" />
+			<item id="2" text="田地。" />
+		</definition>
+	</char>
+</pinyin>

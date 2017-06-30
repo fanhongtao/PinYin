@@ -3,20 +3,10 @@
 	<char hz="之" py="zhī" />
 	<char hz="芝" py="zhī" />
 	<char hz="支" py="zhī" />
-	<char hz="吱" py="zhī" multi="zī" main="1">
-		<definition id="一">
-			<item text="拟声词（叠）：车轮~~地响." />
-		</definition>
-	</char>
+	<!-- Ref:吱.xml <char hz="吱" py="zhī" multi="zī" main="1" /> -->
 	<char hz="枝" py="zhī" />
 	<char hz="肢" py="zhī" />
-	<char hz="氏" py="zhī" multi="shì">
-		<phrase hz="阏氏" py="yān,zhī" />
-		<phrase hz="月氏" py="yuè,zhī" />
-		<definition id="二">
-			<item text="见“阏”字条“阏氏”(yān-)、“月”字条“月氏”(yuè-)。" />
-		</definition>
-	</char>
+	<!-- Ref:氏.xml <char hz="氏" py="zhī" multi="shì" /> -->
 	<char hz="泜" py="zhī" />
 	<char hz="胝" py="zhī" />
 	<char hz="祗" py="zhī" />
@@ -38,11 +28,7 @@
 	<char hz="值" py="zhí" />
 	<char hz="埴" py="zhí" />
 	<char hz="植" py="zhí" />
-	<char hz="殖" py="zhí" multi="shi" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="生息，滋生（(连)生-）：繁~. [殖民地]被帝国主义国家剥夺了政治、经济的独立权力，并受它控制和掠夺的国家和地区。" />
-		</definition>
-	</char>
+	<!-- Ref:殖.xml <char hz="殖" py="zhí" multi="shi" main="1" suppressLog="1" /> -->
 	<char hz="侄" py="zhí" />
 	<char hz="职" py="zhí" />
 	<char hz="跖" py="zhí" />
@@ -53,12 +39,7 @@
 			<item text="[踯躅](-zhú)徘徊不进：~~街头." />
 		</definition>
 	</char>
-	<char hz="蹢" py="zhí" multi="dí">
-		<phrase hz="蹢躅" py="zhí,zhú" />
-		<definition id="二">
-			<item text="[蹢躅](-zhú)同“踯躅”。" />
-		</definition>
-	</char>
+	<!-- Ref:蹢.xml <char hz="蹢" py="zhí" multi="dí" /> -->
 	<char hz="止" py="zhǐ" />
 	<char hz="址" py="zhǐ" />
 	<char hz="芷" py="zhǐ" />
@@ -66,11 +47,7 @@
 	<char hz="祉" py="zhǐ" />
 	<char hz="趾" py="zhǐ" />
 	<!-- Ref:只.xml <char hz="只" py="zhǐ" multi="zhī" main="1" /> -->
-	<char hz="祇" py="zhǐ" multi="qí">
-		<definition id="二">
-			<item text="“只”的异体字。" />
-		</definition>
-	</char>
+	<!-- Ref:祇.xml <char hz="祇" py="zhǐ" multi="qí" /> -->
 	<char hz="枳" py="zhǐ">
 		<definition>
 			<item text="落叶灌木或小乔木，通称“枸橘”。小枝多硬刺，叶为三小叶的复叶，果实球形，果实及叶可入药。 [枳壳]中药上指枳、香橼等成熟的果实。 [枳实]中药上指枳、香橼等幼小的果实。" />
@@ -87,11 +64,7 @@
 	<char hz="扺" py="zhǐ" />
 	<char hz="纸" py="zhǐ" />
 	<char hz="黹" py="zhǐ" />
-	<char hz="徵" py="zhǐ" multi="zhēng">
-		<definition id="一">
-			<item text="古代五音“宫、商、角、徵、羽”之一。" />
-		</definition>
-	</char>
+	<!-- Ref:徵.xml <char hz="徵" py="zhǐ" multi="zhēng" /> -->
 	<char hz="至" py="zhì" />
 	<char hz="厔" py="zhì" />
 	<char hz="郅" py="zhì" />
@@ -114,15 +87,7 @@
 	<char hz="痣" py="zhì" />
 	<char hz="豸" py="zhì" />
 	<char hz="忮" py="zhì" />
-	<char hz="识" py="zhì" multi="shí">
-		<phrase hz="博闻强识" py="bó,wén,qiáng,zhì" info="闻：见闻。形容知识丰富，记忆力强。" />
-		<phrase hz="附识" py="fù,zhì" info="附在文章、書刊上的有關記述。" />
-		<phrase hz="款识" py="kuǎn,zhì" info="1.古代钟鼎彝器上铸刻的文字。2.在书画上的题名。" />
-		<definition id="二">
-			<item id="1" text="记住：博闻强~." />
-			<item id="2" text="标志，记号：款~." />
-		</definition>
-	</char>
+	<!-- Ref:识.xml <char hz="识" py="zhì" multi="shí" /> -->
 	<char hz="帜" py="zhì" />
 	<char hz="帙" py="zhì" />
 	<char hz="秩" py="zhì" />
@@ -138,11 +103,7 @@
 		<phrase hz="处治" py="chǔ,zhì" />
 	</char>
 	<char hz="栉" py="zhì" />
-	<char hz="峙" py="zhì" multi="shì" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="直立，耸立：两峰相~." />
-		</definition>
-	</char>
+	<!-- Ref:峙.xml <char hz="峙" py="zhì" multi="shì" main="1" suppressLog="1" /> -->
 	<char hz="庤" py="zhì" />
 	<char hz="畤" py="zhì" />
 	<char hz="痔" py="zhì" />
@@ -161,12 +122,6 @@
 	<char hz="稚" py="zhì" />
 	<char hz="滍" py="zhì" />
 	<char hz="疐" py="zhì" />
-	<char hz="瘈" py="zhì" multi="chì" main="1">
-		<phrase hz="狂瘈" py="kuáng,zhì" info="狂犬。喻恶人。" />
-		<phrase hz="瘈狗" py="zhì,gǒu" info="1.疯狗。2.指暴乱之人。" />
-		<definition id="一">
-			<item text="疯狂（特指狗）。" />
-		</definition>
-	</char>
+	<!-- Ref:瘈.xml <char hz="瘈" py="zhì" multi="chì" main="1" /> -->
 	<char hz="觯" py="zhì" />
 </pinyin>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="侧" py="cè" multi="zè,zhāi" main="1" suppressLog="1">
+		<phrase hz="侧重" py="cè,zhòng" />
+		<definition id="一">
+			<item id="1" text="旁：楼~. ~面." />
+			<item id="2" text="斜着：~耳细听. ~身而入. [侧目]斜着眼睛看，畏惧而又愤恨：世人为之~~. [侧重](-zhòng)偏重。" />
+		</definition>
+	</char>
+	<char hz="侧" py="zè" multi="cè,zhāi">
+		<phrase hz="侧声" py="zè,shēng" />
+		<definition id="三">
+			<item text="同“仄”。 [侧声]同“仄声”。" />
+		</definition>
+	</char>
+	<char hz="侧" py="zhāi" multi="cè,zè">
+		<phrase hz="侧棱" py="zhāi,leng" />
+		<phrase hz="侧歪" py="zhāi,wai" />
+		<definition id="二">
+			<item text="[侧棱](-leng)向一边的倾斜：~~着身子睡觉. [侧歪](-wai)倾斜：车在山坡上~~着走." />
+		</definition>
+	</char>
+</pinyin>

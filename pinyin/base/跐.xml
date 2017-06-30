@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="跐" py="cī" multi="cǐ" main="1">
+		<phrase hz="跐蹓" py="cī,liū" info="形容动作很快，很矫捷。" />
+		<definition id="二">
+			<item text="脚下滑动：登~了（脚没有踏稳）." />
+		</definition>
+	</char>
+	<char hz="跐" py="cǐ" multi="cī" info="Word主音">
+		<phrase hz="脚跐两只船" py="jiǎo,cǐ,liǎng,zhī,chuán" />
+		<definition id="一">
+			<item text="踩，踏：脚~两只船." />
+		</definition>
+	</char>
+</pinyin>

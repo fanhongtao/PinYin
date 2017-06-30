@@ -7,12 +7,7 @@
 	<char hz="咝" py="sī" />
 	<char hz="鸶" py="sī" />
 	<char hz="思" py="sī" />
-	<char hz="偲" py="sī" multi="cāi">
-		<phrase hz="偲偲" py="sī,sī" />
-		<definition id="二">
-			<item text="[偲偲]互相切磋，互相督促。" />
-		</definition>
-	</char>
+	<!-- Ref:偲.xml <char hz="偲" py="sī" multi="cāi" /> -->
 	<char hz="缌" py="sī" />
 	<char hz="飔" py="sī" />
 	<char hz="罳" py="sī" />
@@ -37,54 +32,17 @@
 	<char hz="泗" py="sì" />
 	<char hz="驷" py="sì" />
 	<char hz="寺" py="sì" />
-	<char hz="似" py="sì" multi="shì" main="1" suppressLog="1">
-		<phrase hz="浑似" py="hún,sì" info="完全像。" />
-		<phrase hz="近似" py="jìn,sì" info="相像而不相同" />
-		<phrase hz="酷似" py="kù,sì" info="极其相似" />
-		<phrase hz="类似" py="lèi,sì" info="大致相像" />
-		<phrase hz="恰似" py="qià,hū" info="正如;恰如" />
-		<phrase hz="神似" py="shén,sì" info="1.神态或神情相似 2.非常相似" />
-		<phrase hz="胜似" py="shèng,sì" info="胜于;超过" />
-		<phrase hz="似乎" py="sì,hū" info="仿佛;有些像" />
-		<phrase hz="形似" py="xíng,sì" info="形式、外观相似。" />
-		<phrase hz="一似" py="yī,sì" info="很象。" />
-		<phrase hz="疑似" py="yí,sì" info="好像是又好像不是" />
-		<definition id="一">
-			<item id="1" text="像，相类（(连)类-）相~. ~是而非." />
-			<item id="2" text="副词，似乎，好像，表示不确定：~应再行研究. 这个建议~欠妥当." />
-			<item id="3" text="表示比较，有超过的意思：一个高~一个. 人民生活一天好~一天." />
-		</definition>
-	</char>
+	<!-- Ref:似.xml <char hz="似" py="sì" multi="shì" main="1" suppressLog="1" /> -->
 	<char hz="姒" py="sì" />
 	<char hz="兕" py="sì" />
-	<char hz="伺" py="sì" multi="cì" main="1" suppressLog="1">
-		<phrase hz="监伺" py="jiān,sì" info="监视探察。" />
-		<phrase hz="窥伺" py="kuī,sì" info="暗中观望，等待时机(含贬义)" />
-		<phrase hz="伺察" py="sì,chá" info="1.侦视；观察。2.指观测。" />
-		<phrase hz="伺机" py="sì,jī" info="侦候可乘之机" />
-		<phrase hz="探伺" py="tàn,sì" info="1.侦察；窥探。2.指从事侦察工作的人。" />
-		<phrase hz="侦伺" py="zhēn,sì" info="窥探，伺望。" />
-		<definition id="一">
-			<item text="守候，观察：~敌. ~隙进击敌人." />
-		</definition>
-	</char>
+	<!-- Ref:伺.xml <char hz="伺" py="sì" multi="cì" main="1" suppressLog="1" /> -->
 	<char hz="饲" py="sì" />
 	<char hz="覗" py="sì" />
 	<char hz="笥" py="sì" />
 	<char hz="嗣" py="sì" />
-	<char hz="俟" py="sì" multi="qí" main="1">
-		<phrase hz="俟机" py="sì,jī" info="等待时机" />
-		<definition id="一">
-			<item text="等待：~机. ~该书出版后即寄去." />
-		</definition>
-	</char>
+	<!-- Ref:俟.xml <char hz="俟" py="sì" multi="qí" main="1" /> -->
 	<char hz="涘" py="sì" />
-	<char hz="食" py="sì" multi="shí">
-		<phrase hz="食母" py="sì,mǔ" info="乳母、奶媽。" />
-		<definition id="二">
-			<item text="拿东西给人吃。" />
-		</definition>
-	</char>
+	<!-- Ref:食.xml <char hz="食" py="sì" multi="shí" /> -->
 	<char hz="耜" py="sì" />
 	<char hz="肆" py="sì" />
 </pinyin>

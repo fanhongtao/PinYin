@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="徵" py="zhēng" multi="zhǐ" main="1">
+		<definition id="二">
+			<item text="“征(3)~(6)”的异体字。" />
+		</definition>
+	</char>
+	<char hz="徵" py="zhǐ" multi="zhēng">
+		<definition id="一">
+			<item text="古代五音“宫、商、角、徵、羽”之一。" />
+		</definition>
+	</char>
+</pinyin>

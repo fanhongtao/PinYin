@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镝" py="dī" multi="dí" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Dy，用于原子能工业等。" />
+		</definition>
+	</char>
+	<char hz="镝" py="dí" multi="dī">
+		<phrase hz="锋镝" py="fēng,dí" />
+		<phrase hz="鸣镝" py="míng,dí" />
+		<definition id="二">
+			<item text="箭头：锋~. 鸣~（响箭）." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="绨" py="tí" multi="tì" main="1">
+		<phrase hz="绨袍" py="tí,páo" info="1.厚缯制成之袍。2. 战国 时 魏 人 范雎 先事 魏 中大夫 须贾 ，遭其毁谤，笞辱几死。后逃 秦 改名 张禄 ，仕 秦 为相，权势显赫。 魏 闻 秦 将东伐，命 须贾 使 秦 ， 范雎 乔装，敝衣往见。 须贾 不知，怜其寒而赠一绨袍。迨后知 雎 即 秦 相 张禄 ，乃惶恐请罪。 雎 以 贾 尚有赠袍念旧之情，终宽释之。见《史记·范雎蔡泽列传》。后多用为眷念故旧之典。" />
+		<definition id="一">
+			<item text="光滑厚实的丝织品。" />
+		</definition>
+	</char>
+	<char hz="绨" py="tì" multi="tí" info="Word主音">
+		<definition id="二">
+			<item text="比绸子厚实、粗糙的纺织品，用丝做经，棉线做纬。" />
+		</definition>
+	</char>
+</pinyin>

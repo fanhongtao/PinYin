@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="体" py="tī" multi="tǐ">
-		<phrase hz="体己" py="tī,ji" />
-		<phrase hz="梯己" py="tī,ji" />
-		<definition id="二">
-			<item text="[体己][梯己](-ji)1.家庭成员个人积蓄的财物。 2.亲近的：~~话." />
-		</definition>
-	</char>
+	<!-- Ref:体.xml <char hz="体" py="tī" multi="tǐ" /> -->
 	<char hz="剔" py="tī" />
 	<char hz="踢" py="tī" />
 	<char hz="梯" py="tī" />
@@ -21,56 +15,11 @@
 			<item id="2" text="稗子一类的草。" />
 		</definition>
 	</char>
-	<char hz="绨" py="tí" multi="tì" main="1">
-		<phrase hz="绨袍" py="tí,páo" info="1.厚缯制成之袍。2. 战国 时 魏 人 范雎 先事 魏 中大夫 须贾 ，遭其毁谤，笞辱几死。后逃 秦 改名 张禄 ，仕 秦 为相，权势显赫。 魏 闻 秦 将东伐，命 须贾 使 秦 ， 范雎 乔装，敝衣往见。 须贾 不知，怜其寒而赠一绨袍。迨后知 雎 即 秦 相 张禄 ，乃惶恐请罪。 雎 以 贾 尚有赠袍念旧之情，终宽释之。见《史记·范雎蔡泽列传》。后多用为眷念故旧之典。" />
-		<definition id="一">
-			<item text="光滑厚实的丝织品。" />
-		</definition>
-	</char>
+	<!-- Ref:绨.xml <char hz="绨" py="tí" multi="tì" main="1" /> -->
 	<char hz="鹈" py="tí">
 		<phrase hz="鹈鹕" py="tí,hú" />
 	</char>
-	<char hz="提" py="tí" multi="dī" main="1" suppressLog="1">
-		<phrase hz="提案" py="tí,àn" />
-		<phrase hz="提笔" py="tí,bǐ" />
-		<phrase hz="提倡" py="tí,chàng" />
-		<phrase hz="提出" py="tí,chū" />
-		<phrase hz="提纯" py="tí,chún" />
-		<phrase hz="提单" py="tí,dān" />
-		<phrase hz="提纲挈领" py="tí,gāng,qiè,lǐng" />
-		<phrase hz="提高" py="tí,gāo" />
-		<phrase hz="提供" py="tí,gōng" />
-		<phrase hz="提货" py="tí,huò" />
-		<phrase hz="提价" py="tí,jià" />
-		<phrase hz="提炼" py="tí,liàn" />
-		<phrase hz="提梁" py="tí,liáng" />
-		<phrase hz="提名" py="tí,míng" />
-		<phrase hz="提起" py="tí,qǐ" />
-		<phrase hz="提前" py="tí,qián" />
-		<phrase hz="提挈" py="tí,qiè" />
-		<phrase hz="提亲" py="tí,qīn" />
-		<phrase hz="提取" py="tí,qǔ" />
-		<phrase hz="提神" py="tí,shén" />
-		<phrase hz="提审" py="tí,shěn" />
-		<phrase hz="提升" py="tí,shēng" />
-		<phrase hz="提问" py="tí,wèn" />
-		<phrase hz="提箱" py="tí,xiāng" />
-		<phrase hz="提携" py="tí,xié" />
-		<phrase hz="提心吊胆" py="tí,xīn,diào,dǎn" />
-		<phrase hz="提醒" py="tí,xǐng" />
-		<phrase hz="提要" py="tí,yào" />
-		<phrase hz="提议" py="tí,yì" />
-		<phrase hz="提早" py="tí,zǎo" />
-		<definition id="一">
-			<item id="1" text="垂手拿着（有环、柄或绳套的东西）：~着一壶水. ~着一个篮子. ~心吊胆（喻害怕）. ~纲挈(qiè)领（喻扼要）." />
-			<item id="2" text="使事物由低往高、由后往前移动：~升. ~高. ~前. ~早." />
-			<item id="3" text="舀取油、酒等液体的工具：油~. 醋~." />
-			<item id="4" text="说起，举出：经他一~，大家都想起来了. ~意见. ~供材料. [提倡]说明某种事物的优点，鼓励大家使用或实行：要~~顾全大局. [提醒]从旁促使别人注意或指点别人：幸亏你~~，不然我就忘了. [提议]说出意见，供人讨论或采纳。" />
-			<item id="5" text="取出（(连)-取）：把款~出来. ~单（提取货物的凭单）." />
-			<item id="6" text="汉字的一种笔形，即“挑”(tiǎo)。" />
-			<item id="7" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:提.xml <char hz="提" py="tí" multi="dī" main="1" suppressLog="1" /> -->
 	<char hz="騠" py="tí" trans="1">
 		<phrase hz="駃騠" py="jué,tí" />
 	</char>
@@ -82,25 +31,12 @@
 	<char hz="鳀" py="tí" />
 	<char hz="啼" py="tí" />
 	<char hz="蹄" py="tí" />
-	<char hz="体" py="tǐ" multi="tī" main="1" suppressLog="1">
-		<phrase hz="体面" py="tǐ,mian" />
-		<definition id="一">
-			<item id="1" text="人、动物的全身（(连)身-）：~重. ~温（身体的温度）. (引)身体的一部分：四~. 上~. 肢~. [体面](-mian)1.身份。 2.光彩，光荣。 3.好看。 [体育]指锻炼身体增强体质的教育：~~课. 发展~~运动，增强人民体质." />
-			<item id="2" text="事物的本身或全部：物~. 全~. 个~. ~积." />
-			<item id="3" text="形式，规格：字~. 得~（合宜）." />
-			<item id="4" text="作品的体裁：文~. 骚~. 骈~. 古~." />
-			<item id="5" text="亲身，设身处地：~验. ~味. ~谅. [体会]领会，个人的理解：我~~到你的意思. 对这个文件，我的~~还很肤浅. [体贴]揣度别人的处境和心情，给予关心、照顾：~~入微." />
-		</definition>
-	</char>
+	<!-- Ref:体.xml <char hz="体" py="tǐ" multi="tī" main="1" suppressLog="1" /> -->
 	<char hz="屉" py="tì" />
 	<char hz="剃" py="tì" />
 	<char hz="涕" py="tì" />
 	<char hz="悌" py="tì" />
-	<char hz="绨" py="tì" multi="tí" info="Word主音">
-		<definition id="二">
-			<item text="比绸子厚实、粗糙的纺织品，用丝做经，棉线做纬。" />
-		</definition>
-	</char>
+	<!-- Ref:绨.xml <char hz="绨" py="tì" multi="tí" info="Word主音" /> -->
 	<char hz="俶" py="tì" multi="chù">
 		<phrase hz="俶傥" py="tì,tǎng" />
 		<definition id="二">

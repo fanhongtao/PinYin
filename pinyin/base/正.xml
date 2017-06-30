@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="正" py="zhēng" multi="zhèng">
+		<phrase hz="正月" py="zhēng,yuè" />
+		<phrase hz="新正" py="xīn,zhēng" />
+		<definition id="二">
+			<item text="正月，夏历一年的第一个月：新~." />
+		</definition>
+	</char>
+	<char hz="正" py="zhèng" multi="zhēng" main="1" suppressLog="1">
+		<phrase hz="正经" py="zhèng,jing" />
+		<phrase hz="正觉" py="zhèng,jué" info="指真正之觉悟。又作正解、等觉、等正觉、正等正觉、正等觉、正尽觉。" />
+		<definition id="一">
+			<item id="1" text="不偏，不斜：~午. ~中. ~南~北. (引)1.合于法则、规矩的：~派. ~当. ~楷. 2.图形的各个边和各个角都相等的：~方形. [正经](-jing)1.端庄，正派：~~人. ~~话. 2.正当：~~事." />
+			<item id="2" text="副词，恰：你来得~好. 时钟~打十二下." />
+			<item id="3" text="副词，表示动作在进行中：现在~开着会. 我~出门，他来了." />
+			<item id="4" text="改去偏差或错误（(连)改-）：~误. 给他~音." />
+			<item id="5" text="纯，不杂（指色、味）：~黄. ~色. ~味." />
+			<item id="6" text="表示相对的两面的积极的一面。 1.跟“反”相对：~面. ~比. 2.跟“负”相对：~电. ~极. ~数. 3.跟“副”相对：~本. ~册." />
+			<item id="7" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呱" py="gū" multi="guā,guǎ">
+		<!-- <phrase hz="呱呱" py="gū,gū" duoyin="guā,guā" info="古书上指小儿哭声" /> -->
+		<phrase hz="呱呱坠地" py="gū,gū,zhuì,dì" info="形容婴儿出生或事物问世。" />
+		<definition id="二">
+			<item text="[呱呱]古书上指小儿哭声。" />
+		</definition>
+	</char>
+	<char hz="呱" py="guā" multi="gū,guǎ" main="1">
+		<phrase hz="顶呱呱" py="dǐng,guā,guā" />
+		<phrase hz="呱哒" py="guā,dā" />
+		<phrase hz="呱呱" py="guā,guā" duoyin="gū,gū" info="拟声词，鸭子、青蛙等的响亮叫声。" />
+		<phrase hz="呱呱叫" py="guā,guā,jiào" />
+		<definition id="一">
+			<item text="[呱哒](-dā)拟声词。 [呱哒板儿]1.唱莲花落(lào)等打拍子的器具。2.木拖鞋。 [呱呱]拟声词，鸭子、青蛙等的响亮叫声。(转)形容好：~~叫. 顶~~." />
+		</definition>
+	</char>
+	<char hz="呱" py="guǎ" multi="gū,guā">
+		<phrase hz="拉呱儿" py="lā,guǎr," />
+		<definition id="三">
+			<item text="[拉呱儿](lāguǎr)〈方〉聊天。" />
+		</definition>
+	</char>
+</pinyin>

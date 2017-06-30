@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="症" py="zhēng" multi="zhèng">
+		<phrase hz="症结" py="zhēng,jié" />
+		<definition id="二">
+			<item text="[症结]腹内结块的病。(喻)事情难解决的关键所在。" />
+		</definition>
+	</char>
+	<char hz="症" py="zhèng" multi="zhēng" main="1" suppressLog="1">
+		<phrase hz="不治之症" py="bú,zhì,zhī,zhèng" info="医治不好的病。 也比喻无法挽救的祸患。" />
+		<phrase hz="病症" py="bìng,zhèng" info="疾病" />
+		<phrase hz="对症" py="duì,zhèng" info="针对具体的病症" />
+		<phrase hz="急症" py="jí,zhèng" info="突然发作、来势很猛的病症。" />
+		<phrase hz="绝症" py="jué,zhèng" info="无法治好的疾病" />
+		<phrase hz="顽症" py="wán,zhèng" info="指难以治好的病;久治不愈的病" />
+		<phrase hz="险症" py="xiǎn,zhèng" info="危险的病症。" />
+		<phrase hz="炎症" py="yán,zhèng" info="醫學上指組織對於外來刺激所產生的防禦性反應。典型的徵候是紅、腫、熱、痛以及患部的機能障礙。" />
+		<phrase hz="症候" py="zhèng,hòu" info="1.疾病 2.症状" />
+		<phrase hz="症状" py="zhèng,zhuàng" info="患者因疾病而表现出来的不正常状态" />
+		<definition id="一">
+			<item text="病：~候. 霍乱~. 急~. 不治之~. 对~下药." />
+		</definition>
+	</char>
+</pinyin>

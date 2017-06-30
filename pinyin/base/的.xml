@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="的" py="de" multi="dí,dì" main="1" suppressLog="1">
+		<phrase hz="似的" py="shì,de" info="用作后附的比较副词，与一般、一样同义。" />
+		<definition id="三" text="助词。">
+			<item id="1" text="用在定语后。1.主要修饰名词：美丽~风光. 宏伟~建筑. 光荣而艰巨~任务. 2.表示所属的关系，旧时也写作“底”：我~书. 社会~性质." />
+			<item id="2" text="用在词或词组后，表示人或事物：吃~. 穿~. 红~. 卖菜~." />
+			<item id="3" text="用在句末，表示肯定的语气，常跟“是”相应：他是刚从北京来~." />
+		</definition>
+	</char>
+	<char hz="的" py="dí" multi="de,dì">
+		<phrase hz="的当" py="dí,dàng" />
+		<phrase hz="的确" py="dí,què" info="完全确实,毫无疑问" />
+		<phrase hz="的士" py="dí,shì" />
+		<definition id="二">
+			<item text="真实，实在：~当(dàng). ~确如此." />
+		</definition>
+	</char>
+	<char hz="的" py="dì" multi="de,dí">
+		<phrase hz="标的" py="biāo,dì" />
+		<phrase hz="的卢" py="dì,lú" info="凶马。" />
+		<phrase hz="端的" py="duān,dì" info="1.果真;确实;果然。2.究竟。3.又。4.底细;缘由;详情" />
+		<phrase hz="鹄的" py="gǔ,dì" />
+		<phrase hz="目的" py="mù,dì" />
+		<phrase hz="无的放矢" py="wú,dì,fàng,shǐ" />
+		<phrase hz="有的放矢" py="yǒu,dì,fàng,shǐ" />
+		<phrase hz="一语破的" py="yī,yǔ,pò,dì" />
+		<phrase hz="一语中的" py="yī,yǔ,zhòng,dì" />
+		<!-- <phrase hz="中的" py="zhòng,dì"/> -->
+		<phrase hz="众矢之的" py="zhòng,shǐ,zhī,dì" />
+		<definition id="一">
+			<item text="箭靶的中心：中(zhòng)~. 有~放矢. [目的]要达到的目标、境地：我们的~~一定能够达到." />
+		</definition>
+	</char>
+</pinyin>

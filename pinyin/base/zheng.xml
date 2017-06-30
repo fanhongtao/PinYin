@@ -1,17 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="丁" py="zhēng" multi="dīng">
-		<definition id="二">
-			<item text="[丁丁]拟声词，形容伐木、弹琴等声音。" />
-		</definition>
-	</char>
-	<char hz="正" py="zhēng" multi="zhèng">
-		<phrase hz="正月" py="zhēng,yuè" />
-		<phrase hz="新正" py="xīn,zhēng" />
-		<definition id="二">
-			<item text="正月，夏历一年的第一个月：新~." />
-		</definition>
-	</char>
+	<!-- Ref:丁.xml <char hz="丁" py="zhēng" multi="dīng" /> -->
+	<!-- Ref:正.xml <char hz="正" py="zhēng" multi="zhèng" /> -->
 	<char hz="征" py="zhēng">
 		<phrase hz="应征" py="yìng,zhēng" />
 		<definition>
@@ -23,34 +13,15 @@
 			<item id="6" text="现象，迹象：特~. ~兆." />
 		</definition>
 	</char>
-	<char hz="徵" py="zhēng" multi="zhǐ" main="1">
-		<definition id="二">
-			<item text="“征(3)~(6)”的异体字。" />
-		</definition>
-	</char>
+	<!-- Ref:徵.xml <char hz="徵" py="zhēng" multi="zhǐ" main="1" /> -->
 	<char hz="怔" py="zhēng">
 		<phrase hz="怔忡" py="zhēng,chōng" />
 		<phrase hz="怔忪" py="zhēng,zhōng" />
 	</char>
-	<char hz="钲" py="zhēng" multi="zhèng" main="1">
-		<definition id="一">
-			<item text="古代的一种打击乐器，用铜做成，在行军时敲打。" />
-		</definition>
-	</char>
-	<char hz="症" py="zhēng" multi="zhèng">
-		<phrase hz="症结" py="zhēng,jié" />
-		<definition id="二">
-			<item text="[症结]腹内结块的病。(喻)事情难解决的关键所在。" />
-		</definition>
-	</char>
+	<!-- Ref:钲.xml <char hz="钲" py="zhēng" multi="zhèng" main="1" /> -->
+	<!-- Ref:症.xml <char hz="症" py="zhēng" multi="zhèng" /> -->
 	<char hz="争" py="zhēng" />
-	<char hz="挣" py="zhēng" multi="zhèng">
-		<phrase hz="挣气" py="zhēng,qì" info="争气。奋发图强" />
-		<phrase hz="挣扎" py="zhēng,zhá" />
-		<definition id="二">
-			<item text="[挣扎](-zhá)尽力支撑或摆脱：垂死~~." />
-		</definition>
-	</char>
+	<!-- Ref:挣.xml <char hz="挣" py="zhēng" multi="zhèng" /> -->
 	<char hz="峥" py="zhēng">
 		<phrase hz="峥嵘" py="zhēng,róng" />
 	</char>
@@ -66,55 +37,16 @@
 	<char hz="蒸" py="zhēng" />
 	<char hz="拯" py="zhěng" />
 	<char hz="整" py="zhěng" />
-	<char hz="正" py="zhèng" multi="zhēng" main="1" suppressLog="1">
-		<phrase hz="正经" py="zhèng,jing" />
-		<phrase hz="正觉" py="zhèng,jué" info="指真正之觉悟。又作正解、等觉、等正觉、正等正觉、正等觉、正尽觉。" />
-		<definition id="一">
-			<item id="1" text="不偏，不斜：~午. ~中. ~南~北. (引)1.合于法则、规矩的：~派. ~当. ~楷. 2.图形的各个边和各个角都相等的：~方形. [正经](-jing)1.端庄，正派：~~人. ~~话. 2.正当：~~事." />
-			<item id="2" text="副词，恰：你来得~好. 时钟~打十二下." />
-			<item id="3" text="副词，表示动作在进行中：现在~开着会. 我~出门，他来了." />
-			<item id="4" text="改去偏差或错误（(连)改-）：~误. 给他~音." />
-			<item id="5" text="纯，不杂（指色、味）：~黄. ~色. ~味." />
-			<item id="6" text="表示相对的两面的积极的一面。 1.跟“反”相对：~面. ~比. 2.跟“负”相对：~电. ~极. ~数. 3.跟“副”相对：~本. ~册." />
-			<item id="7" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:正.xml <char hz="正" py="zhèng" multi="zhēng" main="1" suppressLog="1" /> -->
 	<char hz="证" py="zhèng" />
 	<char hz="政" py="zhèng" />
-	<char hz="钲" py="zhèng" multi="zhēng">
-		<definition id="二">
-			<item text="化学元素，镄(fèi)的旧称。" />
-		</definition>
-	</char>
-	<char hz="症" py="zhèng" multi="zhēng" main="1" suppressLog="1">
-		<phrase hz="不治之症" py="bú,zhì,zhī,zhèng" info="医治不好的病。 也比喻无法挽救的祸患。" />
-		<phrase hz="病症" py="bìng,zhèng" info="疾病" />
-		<phrase hz="对症" py="duì,zhèng" info="针对具体的病症" />
-		<phrase hz="急症" py="jí,zhèng" info="突然发作、来势很猛的病症。" />
-		<phrase hz="绝症" py="jué,zhèng" info="无法治好的疾病" />
-		<phrase hz="顽症" py="wán,zhèng" info="指难以治好的病;久治不愈的病" />
-		<phrase hz="险症" py="xiǎn,zhèng" info="危险的病症。" />
-		<phrase hz="炎症" py="yán,zhèng" info="醫學上指組織對於外來刺激所產生的防禦性反應。典型的徵候是紅、腫、熱、痛以及患部的機能障礙。" />
-		<phrase hz="症候" py="zhèng,hòu" info="1.疾病 2.症状" />
-		<phrase hz="症状" py="zhèng,zhuàng" info="患者因疾病而表现出来的不正常状态" />
-		<definition id="一">
-			<item text="病：~候. 霍乱~. 急~. 不治之~. 对~下药." />
-		</definition>
-	</char>
+	<!-- Ref:钲.xml <char hz="钲" py="zhèng" multi="zhēng" /> -->
+	<!-- Ref:症.xml <char hz="症" py="zhèng" multi="zhēng" main="1" suppressLog="1" /> -->
 	<char hz="郑" py="zhèng">
 		<phrase hz="郑重" py="zhèng,zhòng" />
 	</char>
 	<char hz="诤" py="zhèng" />
-	<char hz="挣" py="zhèng" multi="zhēng" main="1" suppressLog="1">
-		<phrase hz="挣揣" py="zhèng,chuài" />
-		<phrase hz="挣开" py="zhèng,kāi" />
-		<phrase hz="挣钱" py="zhèng,qián" info="做工作赚钱" />
-		<phrase hz="挣脱" py="zhèng,tuō" info="奋力摆脱。" />
-		<definition id="一">
-			<item id="1" text="用力支撑或摆脱：~脱. ~开. [挣揣](-chuài)为保全性命而挣扎。" />
-			<item id="2" text="出力量而取得报酬：~钱." />
-		</definition>
-	</char>
+	<!-- Ref:挣.xml <char hz="挣" py="zhèng" multi="zhēng" main="1" suppressLog="1" /> -->
 	<char hz="" py="zhèng">
 		<phrase hz="" py="zhèng,chuài" />
 	</char>

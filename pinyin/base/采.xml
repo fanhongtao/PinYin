@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="采" py="cǎi" multi="cài" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="摘取：~莲. ~茶." />
+			<item id="2" text="选取：~用. ~矿. [采访]搜集寻访，多指记者为搜集材料进行调查访问。 [采纳]接受（意见）：~~群众的意见." />
+			<item id="3" text="神采，神色，精神：兴高~烈." />
+			<item id="4" text="同“彩”。" />
+		</definition>
+	</char>
+	<char hz="采" py="cài" multi="cǎi">
+		<phrase hz="采地" py="cài,dì" />
+		<phrase hz="采邑" py="cài,yì" />
+		<definition id="二">
+			<item text="采地，采邑，古代卿大夫的封地。" />
+		</definition>
+	</char>
+</pinyin>

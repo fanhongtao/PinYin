@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="峙" py="shì" multi="zhì">
+		<phrase hz="繁峙" py="fán,shì" />
+		<definition id="二">
+			<item text="[繁峙]地名，在山西省。" />
+		</definition>
+	</char>
+	<char hz="峙" py="zhì" multi="shì" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="直立，耸立：两峰相~." />
+		</definition>
+	</char>
+</pinyin>

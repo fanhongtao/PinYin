@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="似" py="shì" multi="sì">
+		<phrase hz="似的" py="shì,de" />
+		<phrase hz="是的" py="shì,de" />
+		<definition id="二">
+			<item text="[似的][是的](-de)助词，跟某种事物或情况相似：雪~~那么白. 瓢泼~~大雨." />
+		</definition>
+	</char>
+	<char hz="似" py="sì" multi="shì" main="1" suppressLog="1">
+		<phrase hz="浑似" py="hún,sì" info="完全像。" />
+		<phrase hz="近似" py="jìn,sì" info="相像而不相同" />
+		<phrase hz="酷似" py="kù,sì" info="极其相似" />
+		<phrase hz="类似" py="lèi,sì" info="大致相像" />
+		<phrase hz="恰似" py="qià,hū" info="正如;恰如" />
+		<phrase hz="神似" py="shén,sì" info="1.神态或神情相似 2.非常相似" />
+		<phrase hz="胜似" py="shèng,sì" info="胜于;超过" />
+		<phrase hz="似乎" py="sì,hū" info="仿佛;有些像" />
+		<phrase hz="形似" py="xíng,sì" info="形式、外观相似。" />
+		<phrase hz="一似" py="yī,sì" info="很象。" />
+		<phrase hz="疑似" py="yí,sì" info="好像是又好像不是" />
+		<definition id="一">
+			<item id="1" text="像，相类（(连)类-）相~. ~是而非." />
+			<item id="2" text="副词，似乎，好像，表示不确定：~应再行研究. 这个建议~欠妥当." />
+			<item id="3" text="表示比较，有超过的意思：一个高~一个. 人民生活一天好~一天." />
+		</definition>
+	</char>
+</pinyin>

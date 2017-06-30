@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奀" py="dí" multi="ēn">
+		<definition id="二">
+			<item text="〈方〉小。" />
+		</definition>
+	</char>
+	<char hz="奀" py="ēn" multi="dí" main="1">
+		<definition id="一">
+			<item text="〈方〉瘦小（多用于人名）。" />
+		</definition>
+	</char>
+</pinyin>

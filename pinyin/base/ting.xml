@@ -20,28 +20,13 @@
 	</char>
 	<char hz="渟" py="tíng" />
 	<char hz="婷" py="tíng" />
-	<char hz="町" py="tǐng" multi="dīng" main="1">
-		<definition id="一" text="〈古〉">
-			<item id="1" text="田界。" />
-			<item id="2" text="田地。" />
-		</definition>
-	</char>
+	<!-- Ref:町.xml <char hz="町" py="tǐng" multi="dīng" main="1" /> -->
 	<char hz="侹" py="tǐng" />
 	<char hz="挺" py="tǐng" />
 	<char hz="珽" py="tǐng" />
-	<char hz="梃" py="tǐng" multi="tìng" main="1">
-		<definition id="一">
-			<item text="棍棒。" />
-		</definition>
-	</char>
+	<!-- Ref:梃.xml <char hz="梃" py="tǐng" multi="tìng" main="1" /> -->
 	<char hz="铤" py="tǐng" />
 	<char hz="颋" py="tǐng" />
 	<char hz="艇" py="tǐng" />
-	<char hz="梃" py="tìng" multi="tǐng" info="Word主音">
-		<phrase hz="梃猪" py="tìng,zhū" />
-		<definition id="二">
-			<item id="1" text="梃猪，杀猪后，在猪腿上割一个口子，用铁棍贴着腿皮往里捅。" />
-			<item id="2" text="梃猪用的铁棍。" />
-		</definition>
-	</char>
+	<!-- Ref:梃.xml <char hz="梃" py="tìng" multi="tǐng" info="Word主音" /> -->
 </pinyin>

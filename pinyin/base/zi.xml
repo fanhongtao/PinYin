@@ -1,29 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:仔.xml <char hz="仔" py="zī" multi="zǎi,zǐ" /> -->
-	<char hz="孖" py="zī" multi="mā" main="1">
-		<definition id="一">
-			<item text="双生子。" />
-		</definition>
-	</char>
+	<!-- Ref:孖.xml <char hz="孖" py="zī" multi="mā" main="1" /> -->
 	<char hz="孜" py="zī" />
-	<char hz="吱" py="zī" multi="zhī">
-		<definition id="二">
-			<item text="同“嗞”。" />
-		</definition>
-	</char>
+	<!-- Ref:吱.xml <char hz="吱" py="zī" multi="zhī" /> -->
 	<char hz="呲" py="zī" />
 	<char hz="赀" py="zī" />
-	<char hz="觜" py="zī" multi="zuǐ" main="1">
-		<definition id="二">
-			<item text="觜宿，二十八宿之一。" />
-		</definition>
-	</char>
-	<char hz="訾" py="zī" multi="zǐ">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:觜.xml <char hz="觜" py="zī" multi="zuǐ" main="1" /> -->
+	<!-- Ref:訾.xml <char hz="訾" py="zī" multi="zǐ" /> -->
 	<char hz="龇" py="zī" />
 	<char hz="髭" py="zī" />
 	<char hz="咨" py="zī" />
@@ -38,15 +22,7 @@
 			<item id="2" text="犹豫不前：~~不前." />
 		</definition>
 	</char>
-	<char hz="兹" py="zī" multi="cí" main="1" suppressLog="1">
-		<phrase hz="赫兹" py="hè,zī" info="周期性过程的频率单位" />
-		<phrase hz="兹事体大" py="zī,shì,tǐ,dà" info="这件事性质重要，关系重大。" />
-		<definition id="一">
-			<item id="1" text="这，这个：~日. ~理易明." />
-			<item id="2" text="现在：~订于明日开全体职工大会." />
-			<item id="3" text="〈古〉年：今~. 来~." />
-		</definition>
-	</char>
+	<!-- Ref:兹.xml <char hz="兹" py="zī" multi="cí" main="1" suppressLog="1" /> -->
 	<char hz="嗞" py="zī">
 		<definition>
 			<item text="拟声词（叠）：老鼠~的一声跑了. 小鸟~~地叫." />
@@ -74,18 +50,9 @@
 	<char hz="姊" py="zǐ" />
 	<char hz="秭" py="zǐ" />
 	<char hz="笫" py="zǐ" />
-	<char hz="茈" py="zǐ" multi="cí">
-		<phrase hz="茈草" py="zǐ,cǎo" info="即紫草" />
-		<definition id="二">
-			<item text="茈草，即紫草，多年生草本植物。叶椭圆形或长卵形，开白色小花，根皮紫色。根可入药，又可作紫色染料。" />
-		</definition>
-	</char>
+	<!-- Ref:茈.xml <char hz="茈" py="zǐ" multi="cí" /> -->
 	<char hz="紫" py="zǐ" />
-	<char hz="訾" py="zǐ" multi="zī" main="1">
-		<definition id="一">
-			<item text="说别人的坏话，诋毁：不苟~议." />
-		</definition>
-	</char>
+	<!-- Ref:訾.xml <char hz="訾" py="zǐ" multi="zī" main="1" /> -->
 	<char hz="梓" py="zǐ" />
 	<char hz="滓" py="zǐ" />
 	<char hz="自" py="zì">

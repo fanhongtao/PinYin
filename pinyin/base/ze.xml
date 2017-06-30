@@ -16,11 +16,7 @@
 	<char hz="舴" py="zé">
 		<phrase hz="舴艋" py="zé,měng" />
 	</char>
-	<char hz="择" py="zé" multi="zhái" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="挑拣，挑选（(连)选-）：不~手段. ~善而从. ~友. ~业." />
-		</definition>
-	</char>
+	<!-- Ref:择.xml <char hz="择" py="zé" multi="zhái" main="1" suppressLog="1" /> -->
 	<char hz="泽" py="zé" />
 	<char hz="仄" py="zè">
 		<definition>
@@ -30,10 +26,5 @@
 		</definition>
 	</char>
 	<char hz="昃" py="zè" />
-	<char hz="侧" py="zè" multi="cè,zhāi">
-		<phrase hz="侧声" py="zè,shēng" />
-		<definition id="三">
-			<item text="同“仄”。 [侧声]同“仄声”。" />
-		</definition>
-	</char>
+	<!-- Ref:侧.xml <char hz="侧" py="zè" multi="cè,zhāi" /> -->
 </pinyin>

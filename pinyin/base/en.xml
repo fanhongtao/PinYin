@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="奀" py="ēn" multi="dí" main="1">
-		<definition id="一">
-			<item text="〈方〉瘦小（多用于人名）。" />
-		</definition>
-	</char>
+	<!-- Ref:奀.xml <char hz="奀" py="ēn" multi="dí" main="1" /> -->
 	<char hz="恩" py="ēn" />
 	<char hz="蒽" py="ēn" />
 	<char hz="摁" py="èn" />

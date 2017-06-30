@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="俟" py="qí" multi="sì">
+		<phrase hz="万俟" py="mò,qí" />
+		<definition id="二">
+			<item text="[万俟](mò-)复姓。" />
+		</definition>
+	</char>
+	<char hz="俟" py="sì" multi="qí" main="1">
+		<phrase hz="俟机" py="sì,jī" info="等待时机" />
+		<definition id="一">
+			<item text="等待：~机. ~该书出版后即寄去." />
+		</definition>
+	</char>
+</pinyin>

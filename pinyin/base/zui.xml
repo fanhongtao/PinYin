@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:咀.xml <char hz="咀" py="zuǐ" multi="jǔ" /> -->
-	<char hz="觜" py="zuǐ" multi="zī">
-		<definition id="一">
-			<item text="同“嘴”。" />
-		</definition>
-	</char>
+	<!-- Ref:觜.xml <char hz="觜" py="zuǐ" multi="zī" /> -->
 	<char hz="嘴" py="zuǐ">
 		<definition>
 			<item id="1" text="口，人和动物吃东西、发声音的器官。" />

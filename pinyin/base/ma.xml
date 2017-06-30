@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="孖" py="mā" multi="zī">
-		<phrase hz="孖仔" py="mā,zǎi" info="方言。双生子。" />
-		<definition id="二">
-			<item text="〈方〉相连成对。" />
-		</definition>
-	</char>
+	<!-- Ref:孖.xml <char hz="孖" py="mā" multi="zī" /> -->
 	<char hz="妈" py="mā" />
 	<!-- Ref:蚂.xml <char hz="蚂" py="mā" multi="mǎ,mà" /> -->
 	<!-- Ref:抹.xml <char hz="抹" py="mā" multi="mǒ,mò" /> -->

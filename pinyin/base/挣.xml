@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挣" py="zhēng" multi="zhèng">
+		<phrase hz="挣气" py="zhēng,qì" info="争气。奋发图强" />
+		<phrase hz="挣扎" py="zhēng,zhá" />
+		<definition id="二">
+			<item text="[挣扎](-zhá)尽力支撑或摆脱：垂死~~." />
+		</definition>
+	</char>
+	<char hz="挣" py="zhèng" multi="zhēng" main="1" suppressLog="1">
+		<phrase hz="挣揣" py="zhèng,chuài" />
+		<phrase hz="挣开" py="zhèng,kāi" />
+		<phrase hz="挣钱" py="zhèng,qián" info="做工作赚钱" />
+		<phrase hz="挣脱" py="zhèng,tuō" info="奋力摆脱。" />
+		<definition id="一">
+			<item id="1" text="用力支撑或摆脱：~脱. ~开. [挣揣](-chuài)为保全性命而挣扎。" />
+			<item id="2" text="出力量而取得报酬：~钱." />
+		</definition>
+	</char>
+</pinyin>

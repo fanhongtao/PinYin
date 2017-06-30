@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尺" py="chě" multi="chǐ">
+		<definition id="二">
+			<item text="旧时乐谱记音符号的一个，相当于简谱的“2”。" />
+		</definition>
+	</char>
+	<char hz="尺" py="chǐ" multi="chě" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="市制长度单位，10寸是1尺，10尺是1丈：1米等于3市~. [尺寸](-cun)衣物的大小长短：开个~~好照着做. ~~要量得准确. [尺牍]书信（因古代的书简长约1尺）。" />
+			<item id="2" text="尺子，一种量长短的器具。" />
+			<item id="3" text="画图的器具：放大~." />
+			<item id="4" text="像尺的东西：计算~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="翟" py="dí" multi="zhái">
+		<phrase hz="墨翟" py="mò,dí" />
+		<definition id="一">
+			<item id="1" text="长尾山雉。" />
+			<item id="2" text="古代哲学家墨子名翟。" />
+		</definition>
+	</char>
+	<char hz="翟" py="zhái" multi="dí" main="1">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+</pinyin>

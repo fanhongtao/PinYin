@@ -2,11 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:车.xml <char hz="车" py="chē" multi="jū" main="1" suppressLog="1" /> -->
 	<char hz="砗" py="chē" />
-	<char hz="尺" py="chě" multi="chǐ">
-		<definition id="二">
-			<item text="旧时乐谱记音符号的一个，相当于简谱的“2”。" />
-		</definition>
-	</char>
+	<!-- Ref:尺.xml <char hz="尺" py="chě" multi="chǐ" /> -->
 	<char hz="扯" py="chě" />
 	<char hz="彻" py="chè" />
 	<char hz="坼" py="chè" />

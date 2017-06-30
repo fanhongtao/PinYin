@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="氏" py="shì" multi="zhī" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="姓。古代姓和氏有区别，氏从姓分出，后来姓和氏不分了，姓、氏可以混用。 [氏族]原始社会中由血统关系联系起来的人的集体，集体占有生产资料，集体生产，集体消费。" />
+			<item id="2" text="旧习惯对已婚妇女，通常在夫姓后再加父姓，父姓后加“氏”，作为称呼：张王~（夫姓张，父姓王）. " />
+			<item id="3" text="后世对有影响的人的称呼：神农~. 太史~. 摄~表." />
+		</definition>
+	</char>
+	<char hz="氏" py="zhī" multi="shì">
+		<phrase hz="阏氏" py="yān,zhī" />
+		<phrase hz="月氏" py="yuè,zhī" />
+		<definition id="二">
+			<item text="见“阏”字条“阏氏”(yān-)、“月”字条“月氏”(yuè-)。" />
+		</definition>
+	</char>
+</pinyin>

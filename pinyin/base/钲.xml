@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钲" py="zhēng" multi="zhèng" main="1">
+		<definition id="一">
+			<item text="古代的一种打击乐器，用铜做成，在行军时敲打。" />
+		</definition>
+	</char>
+	<char hz="钲" py="zhèng" multi="zhēng">
+		<definition id="二">
+			<item text="化学元素，镄(fèi)的旧称。" />
+		</definition>
+	</char>
+</pinyin>

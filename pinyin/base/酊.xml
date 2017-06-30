@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="酊" py="dīng" multi="dǐng" main="1">
+		<phrase hz="碘酊" py="diǎn,dīng" />
+		<phrase hz="酊剂" py="dīng,jì" info="药物在酒精或兑水酒精溶剂或酒精与乙醚混合溶剂中形成的一种药物溶液(如碘酒)" />
+		<definition id="一">
+			<item text="(外)医药上用酒精和药配合成的液体：碘~." />
+		</definition>
+	</char>
+	<char hz="酊" py="dǐng" multi="dīng">
+		<phrase hz="酩酊" py="mǐng,dǐng" />
+		<definition id="二">
+			<item text="见“酩”字条“酩酊”(mǐng-)。" />
+		</definition>
+	</char>
+</pinyin>

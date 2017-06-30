@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="刺" py="cī" multi="cì">
+		<phrase hz="刺啦" py="cī,lā" info="象声词，形容撕裂声、迅速划动声" />
+		<phrase hz="刺棱" py="cī,lēng" />
+		<phrase hz="刺溜" py="cī,liū" />
+		<definition id="二">
+			<item text="拟声词：~棱(-lēng)（动作迅速的声音）. ~溜(-liū)（脚底下滑动的声音）. ~~地冒火星儿." />
+		</definition>
+	</char>
+	<char hz="刺" py="cì" multi="cī" main="1" suppressLog="1">
+		<phrase hz="白刺" py="bái,cì" info="中药名。" />
+		<phrase hz="被刺" py="bèi,cì" />
+		<phrase hz="穿刺" py="chuān,cì" info="用特制的针刺入身体腔隙部位抽出液体或组织以达诊治目的" />
+		<phrase hz="刺鼻" py="cì,bí" info="形容气味强烈。" />
+		<phrase hz="刺刺不休" py="cì,cì,bù,xiū" info="刺刺：多话的样子。形容说话唠叨，没完没了。" />
+		<phrase hz="刺刀" py="cì,dāo" />
+		<phrase hz="刺耳" py="cì,ěr" info="1.声音或话语使人听着不舒服的; 2.说话刻薄的" />
+		<phrase hz="刺骨" py="cì,gǔ" info="[指天气]寒气侵人入骨的，形容极其寒冷" />
+		<phrase hz="刺股" py="cì,gǔ" info="刺股是一个历史典故，现在常比喻人们十分辛勤地工作、学习。" />
+		<phrase hz="刺激" py="cì,jī" />
+		<phrase hz="刺客" py="cì,kè" />
+		<phrase hz="刺目" py="cì,mù" info="惹人注意或不顺眼。" />
+		<phrase hz="刺眼" py="cì,yǎn" info="1.光线过强,使眼睛感到不舒服; 2.惹人注目且使人觉得不顺眼。" />
+		<phrase hz="刺配" py="cì,pèi" info="古代在犯人脸部刺字并发配边远地方" />
+		<phrase hz="刺破" py="cì,pò" info="用尖物刺透" />
+		<phrase hz="刺杀" py="cì,shā" />
+		<phrase hz="刺伤" py="cì,shāng" />
+		<phrase hz="刺参" py="cì,shēn" info="棘皮动物。" />
+		<phrase hz="刺史" py="cì,shǐ" info="古代官名" />
+		<phrase hz="刺探" py="cì,tàn" info="暗中侦察;探听" />
+		<phrase hz="刺痛" py="cì,tòng" info="感到剧烈的烧灼样的疼痛" />
+		<phrase hz="刺透" py="cì,tòu" info="1.穿针似地穿过[某物]; 2.用尖物刺穿" />
+		<phrase hz="刺猬" py="cì,wèi" />
+		<phrase hz="刺绣" py="cì,xiù" info="用彩线在纺织品上绣出图画，也指刺绣的产品" />
+		<phrase hz="刺谒" py="cì,yè" info="投名刺以求见。" />
+		<phrase hz="刺针" py="cì,zhēn" info="1.1.指尖细象针那样的东西。2.腔肠动物刺细胞外面的针状物，是腔肠动物的感觉器官。" />
+		<phrase hz="刺字" py="cì,zì" info="用针在皮肤上刻文字,并涂上颜色,使字迹明显,古时是一种肉刑" />
+		<phrase hz="刺儿头" py="cìr,,tóu" info="〈方〉∶遇事刁难,不好对付的人" />
+		<phrase hz="冲刺" py="chōng,cì" />
+		<phrase hz="带刺" py="dài,cì" info="谓含有讥刺意味。" />
+		<phrase hz="毒刺" py="dú,cì" info="动物或植物体上像针一样有毒的器官" />
+		<phrase hz="讽刺" py="fěng,cì" />
+		<phrase hz="骨刺" py="gǔ,cì" info="[医]∶关节边缘的骨赘" />
+		<phrase hz="讥刺" py="jī,cì" />
+		<phrase hz="棘刺" py="jí,cì" info="泛指动植物体表的针状物" />
+		<phrase hz="芒刺" py="máng,cì" info="1.草木茎叶、果壳上的小刺。2.比喻隐患。3.比喻言词尖刻。" />
+		<phrase hz="毛刺" py="máo,cì" info="1.动植物外表所丛生的尖细的毛。2.金属工件上因某种原因产生的刺状物。3.一种浅刺皮肤的方法,用来治疗皮肤麻木不仁等病。" />
+		<phrase hz="门刺" py="mén,cì" info="谒见时所用的名帖。" />
+		<phrase hz="名刺" py="míng,cì" info="名帖;名片" />
+		<phrase hz="拼刺" py="pīn,cì" info="用刺刀拼杀" />
+		<phrase hz="肉中刺" py="ròu,zhōng,cì" info="比喻最痛恨而急于除掉的人(常跟“眼中钉”连用)" />
+		<phrase hz="挑刺" py="tiāo,cì" duoyin="tiǎo,cì" info="〈方〉故意找错儿" />
+		<phrase hz="挑毛拣刺" py="tiāo,máo,jiǎn,cì" info="故意挑剔毛病。" />
+		<phrase hz="行刺" py="xíng,cì" info="用武器暗杀" />
+		<phrase hz="鱼刺" py="yú,cì" info="细而尖的鱼骨" />
+		<phrase hz="遇刺" py="yù,cì" info="被行刺,遭到暗杀" />
+		<phrase hz="针刺" py="zhēn,cì" info="1.用针刺皮肤或组织(如为了接种或排除液体); 2.昆虫身上任何带刺的或硬化的突起,尤指外生殖器的角质部分" />
+		<definition id="一">
+			<item id="1" text="用有尖的东西穿进或杀伤：~绣. ~杀. [刺激]1.光、声、热等引起生物体活动或变化的作用。(引)一切使事物起变化的作用。2.精神上受到挫折、打击：这件事对他~~很大." />
+			<item id="2" text="暗杀：~客. 被~." />
+			<item id="3" text="打听，侦探：~探." />
+			<item id="4" text="用尖刻的话指摘、嘲笑：讽~." />
+			<item id="5" text="尖锐像针的东西：鱼~. ~猬. ~槐." />
+			<item id="6" text="名片：名~. [刺刺]说话没完没了：~~不休." />
+		</definition>
+	</char>
+</pinyin>

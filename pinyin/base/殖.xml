@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="殖" py="shi" multi="zhí">
+		<phrase hz="骨殖" py="gǔ,shi" />
+		<definition id="二">
+			<item text="[骨殖](gǔ-)尸骨。" />
+		</definition>
+	</char>
+	<char hz="殖" py="zhí" multi="shi" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="生息，滋生（(连)生-）：繁~. [殖民地]被帝国主义国家剥夺了政治、经济的独立权力，并受它控制和掠夺的国家和地区。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="骨" py="gū" multi="gǔ">
+		<phrase hz="骨朵" py="gū,duo" />
+		<phrase hz="骨碌" py="gū,lu" />
+		<definition id="二">
+			<item text="[骨朵](-duo)（-儿）没有开放的花朵。 [骨节](-jie)泛指长条形东西的一段。 [骨碌](-lu)滚动。" />
+		</definition>
+	</char>
+	<char hz="骨" py="gǔ" multi="gū" main="1" suppressLog="1">
+		<phrase hz="骨干" py="gǔ,gàn" />
+		<definition id="一">
+			<item id="1" text="骨头，脊椎动物身体里面支持身体的坚硬组织，脊椎~. [骨骼]全身骨头的总称。 [骨干](-gàn)(喻)中坚有力的：~~分子. ~~作用. [骨节]两骨（或更多）相连接的关节。 [骨肉](喻)最亲近的有血统关系的人，指父母、子女、兄弟、姊妹。" />
+			<item id="2" text="像骨的东西：钢~水泥." />
+			<item id="3" text="品格，气概：~气. 媚~." />
+		</definition>
+	</char>
+</pinyin>

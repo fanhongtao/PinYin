@@ -3,124 +3,12 @@
 	<char hz="嘚" py="dē" info="Word显示为dēi">
 		<phrase hz="嘚啵" py="dē,bo" />
 	</char>
-	<char hz="得" py="dé" multi="de,děi" main="1">
-		<phrase hz="必有一得" py="bì,yǒu,yī,dé" info="愚者千虑，必有一得" />
-		<phrase hz="博得" py="bó,dé" />
-		<phrase hz="不得" py="bù,dé" info="1.不能、不可以。2.不会。3.不被。" />
-		<phrase hz="不得不" py="bù,dé,bù" info="作为义务或必要做的" />
-		<phrase hz="不可多得" py="bù,kě,duō,dé" />
-		<phrase hz="不劳不得" py="bù,láo,bù,dé" />
-		<phrase hz="得不偿失" py="dé,bù,cháng,shī" />
-		<phrase hz="得逞" py="dé,chěng" />
-		<phrase hz="得宠" py="dé,chǒng" />
-		<phrase hz="得寸进尺" py="dé,cùn,jìn,chǐ" />
-		<phrase hz="得当" py="dé,dàng" />
-		<phrase hz="得到" py="dé,dào" />
-		<phrase hz="得道" py="dé,dào" />
-		<phrase hz="得法" py="dé,fǎ" />
-		<phrase hz="得过且过" py="dé,guò,qiě,guò" />
-		<phrase hz="得陇望蜀" py="dé,lǒng,wàng,shǔ" />
-		<phrase hz="得力" py="dé,lì" />
-		<phrase hz="得空" py="dé,kòng" />
-		<phrase hz="得失" py="dé,shī" />
-		<phrase hz="得势" py="dé,shì" />
-		<phrase hz="得胜" py="dé,shèng" />
-		<phrase hz="得手" py="dé,shǒu" />
-		<phrase hz="得天独厚" py="dé,tiān,dú,hòu" />
-		<phrase hz="得体" py="dé,tǐ" />
-		<phrase hz="得心应手" py="dé,xīn,yìng,shǒu" />
-		<phrase hz="得宜" py="dé,yí" info="适当；合适" />
-		<phrase hz="得以" py="dé,yǐ" />
-		<phrase hz="得意" py="dé,yì" />
-		<phrase hz="得鱼忘筌" py="dé,yú,wàng,quán" />
-		<phrase hz="多劳多得" py="duō,láo,duō,dé" />
-		<phrase hz="分得" py="fēn,dé" />
-		<phrase hz="获得" py="huò,dé" />
-		<phrase hz="购得" py="gòu,dé" />
-		<phrase hz="净得" py="jìng,dé" info="作为利润挣得" />
-		<phrase hz="哭笑不得" py="kū,xiào,bù,dé" />
-		<phrase hz="妙手偶得" py="miào,shǒu,ǒu,dé" />
-		<phrase hz="难得" py="nán,dé" />
-		<phrase hz="千虑一得" py="qiān,lǜ,yī,dé" />
-		<phrase hz="求之不得" py="qiú,zhī,bù,dé" />
-		<phrase hz="取得" py="qǔ,dé" />
-		<phrase hz="深得人心" py="shēn,dé,rén,xīn" />
-		<phrase hz="少劳少得" py="shǎo,láo,shǎo,dé" />
-		<phrase hz="失而复得" py="shī,ér,fù,dé" />
-		<phrase hz="所得" py="suǒ,dé" />
-		<phrase hz="贪得无厌" py="tān,dé,wú,yàn" />
-		<phrase hz="唾手可得" py="tuò,shǒu,kě,dé" />
-		<phrase hz="心得" py="xīn,dé" />
-		<phrase hz="相得益彰" py="xiāng,dé,yì,zhāng" />
-		<phrase hz="一举两得" py="yī,jǔ,liǎng,dé" />
-		<phrase hz="一无所得" py="yī,wú,suǒ,dé" />
-		<phrase hz="赢得" py="yíng,dé" />
-		<phrase hz="自得" py="zì,dé" />
-		<phrase hz="罪有应得" py="zuì,yǒu,yīng,dé" />
-		<definition id="一">
-			<item id="1" text="得到（(连)获-）：大~人心. ~奖. ~胜. (引)遇到：~空(kòng). ~便." />
-			<item id="2" text="适合：~当(dàng). ~法. ~手（顺利）. ~劲." />
-			<item id="3" text="得意，满意：扬扬自~." />
-			<item id="4" text="完成：衣服做~了. 饭~了." />
-			<item id="5" text="用于某种语气。1.表示禁止：~了，别说了. 2.表示同意：~，就这么办. 3.表示无可奈何：~，今天又迟到了." />
-			<item id="6" text="可以，许可：不~随地吐痰. 正式代表均~参加表决." />
-		</definition>
-	</char>
+	<!-- Ref:得.xml <char hz="得" py="dé" multi="de,děi" main="1" /> -->
 	<char hz="锝" py="dé" />
 	<char hz="德" py="dé" />
-	<char hz="地" py="de" multi="dì">
-		<phrase hz="猛地" py="měng,de" />
-		<phrase hz="渐渐地" py="jiàn,jiàn,de" />
-		<phrase hz="胜利地" py="shèng,lì,de" />
-		<definition id="二">
-			<item text="助词，用在状语后，主要修饰动词、形容词：胜利~完成任务. 天色渐渐~黑了." />
-		</definition>
-	</char>
-	<char hz="的" py="de" multi="dí,dì" main="1" suppressLog="1">
-		<phrase hz="似的" py="shì,de" info="用作后附的比较副词，与一般、一样同义。" />
-		<definition id="三" text="助词。">
-			<item id="1" text="用在定语后。1.主要修饰名词：美丽~风光. 宏伟~建筑. 光荣而艰巨~任务. 2.表示所属的关系，旧时也写作“底”：我~书. 社会~性质." />
-			<item id="2" text="用在词或词组后，表示人或事物：吃~. 穿~. 红~. 卖菜~." />
-			<item id="3" text="用在句末，表示肯定的语气，常跟“是”相应：他是刚从北京来~." />
-		</definition>
-	</char>
-	<char hz="底" py="de" multi="dǐ">
-		<definition id="二">
-			<item text="助词，同“的(三)(1)2”。" />
-		</definition>
-	</char>
-	<char hz="得" py="de" multi="dē,děi">
-		<phrase hz="巴不得" py="bā,bù,de" />
-		<phrase hz="办得到" py="bàn,de,dào" />
-		<phrase hz="打不得" py="dǎ,bù,de" />
-		<phrase hz="当不得" py="dāng,bù,de" info="1.承担不起。2.拗不过。3.忍不住、禁不住。" />
-		<phrase hz="懂得" py="dǒng,de" info="谓了解其事或其意。" />
-		<phrase hz="记得" py="jì,de" info="想得起来;没有忘记" />
-		<phrase hz="觉得" py="jué,de" info="1.感到。2.认为。" />
-		<phrase hz="亏得" py="kuī,de" info="1.幸亏;多亏。2.反说,表示讥讽。" />
-		<phrase hz="懒得" py="lǎn,de" info="不愿意;厌恶" />
-		<phrase hz="乐得" py="lè,de" info="正合己意，求之不得" />
-		<phrase hz="离不得" py="lí,bù,de" info="1.不能离开。2.免不得、少不了。" />
-		<phrase hz="免得" py="miǎn,de" info="免去,省得" />
-		<phrase hz="少不得" py="shǎo,bù,de" info="1.免不了、不可缺。2.不得不。" />
-		<phrase hz="舍不得" py="shě,bù,de" />
-		<phrase hz="省得" py="shěng,de" info="1.避免发生某种情况;以免。2.亦作“省的”。记得,知道。" />
-		<phrase hz="使不得" py="shǐ,bù,de" />
-		<phrase hz="使得" py="shǐ,de" />
-		<phrase hz="说不得" py="shuō,bù,de" />
-		<phrase hz="算不得" py="suàn,bù,de" info="不能算、算不了、不是" />
-		<phrase hz="显得" py="xiǎn,de" />
-		<phrase hz="晓得" py="xiǎo,de" />
-		<phrase hz="行不得" py="xíng,bù,de" info="1.不能做。2.走不到。" />
-		<phrase hz="眼见得" py="yǎn,jiàn,de" info="〈方〉∶明显地看出;显然" />
-		<phrase hz="要不得" py="yào,bù,de" />
-		<phrase hz="怨不得" py="yuàn,bù,de" />
-		<phrase hz="值得" py="zhí,de" info="1.有价值，有意义。2.价钱合适;合算" />
-		<phrase hz="做得到" py="zuò,de,dào" />
-		<definition id="三" text="助词。">
-			<item id="1" text="在动词后表可能。1.再接别的词：冲~出去. 拿~起来. 2.不再接别的词：要~. 要不~. 说不~." />
-			<item id="2" text="用在动词或形容词后连接表结果或程度的补语：跑~快. 急~满脸通红. 香~很." />
-		</definition>
-	</char>
+	<!-- Ref:地.xml <char hz="地" py="de" multi="dì" /> -->
+	<!-- Ref:的.xml <char hz="的" py="de" multi="dí,dì" main="1" suppressLog="1" /> -->
+	<!-- Ref:底.xml <char hz="底" py="de" multi="dǐ" /> -->
+	<!-- Ref:得.xml <char hz="得" py="de" multi="dē,děi" /> -->
 	<char hz="脦" py="de" info="(又)te" />
 </pinyin>

@@ -17,32 +17,15 @@
 	<char hz="弛" py="chí" />
 	<char hz="驰" py="chí" />
 	<char hz="迟" py="chí" />
-	<char hz="坻" py="chí" multi="dǐ">
-		<definition id="一">
-			<item text="水中的小块高地。" />
-		</definition>
-	</char>
+	<!-- Ref:坻.xml <char hz="坻" py="chí" multi="dǐ" /> -->
 	<char hz="茌" py="chí" />
 	<char hz="持" py="chí" />
-	<char hz="匙" py="chí" multi="shi" main="1" suppressLog="1">
-		<phrase hz="茶匙" py="chá,chí" />
-		<phrase hz="汤匙" py="tāng,chí" />
-		<definition id="一">
-			<item text="舀(yǎo)汤用的小勺子。也叫“调羹”(tiáogēng)。" />
-		</definition>
-	</char>
+	<!-- Ref:匙.xml <char hz="匙" py="chí" multi="shi" main="1" suppressLog="1" /> -->
 	<char hz="漦" py="chí" info="(又)lí" />
 	<char hz="墀" py="chí" />
 	<char hz="踟" py="chí" />
 	<char hz="篪" py="chí" />
-	<char hz="尺" py="chǐ" multi="chě" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="市制长度单位，10寸是1尺，10尺是1丈：1米等于3市~. [尺寸](-cun)衣物的大小长短：开个~~好照着做. ~~要量得准确. [尺牍]书信（因古代的书简长约1尺）。" />
-			<item id="2" text="尺子，一种量长短的器具。" />
-			<item id="3" text="画图的器具：放大~." />
-			<item id="4" text="像尺的东西：计算~." />
-		</definition>
-	</char>
+	<!-- Ref:尺.xml <char hz="尺" py="chǐ" multi="chě" main="1" suppressLog="1" /> -->
 	<char hz="呎" py="chǐ" />
 	<char hz="齿" py="chǐ" />
 	<char hz="侈" py="chǐ" />
@@ -62,12 +45,7 @@
 	<char hz="鶒" py="chì" trans="1" />
 	<char hz="啻" py="chì" />
 	<char hz="傺" py="chì" />
-	<char hz="瘈" py="chì" multi="zhì">
-		<phrase hz="瘈疭" py="chì,zòng" info="痉挛，抽搐" />
-		<definition id="二">
-			<item text="同“瘛”。" />
-		</definition>
-	</char>
+	<!-- Ref:瘈.xml <char hz="瘈" py="chì" multi="zhì" /> -->
 	<char hz="瘛" py="chì">
 		<phrase hz="瘛疭" py="chì,zòng" />
 		<definition>

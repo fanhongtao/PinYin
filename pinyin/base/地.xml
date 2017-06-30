@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="地" py="de" multi="dì">
+		<phrase hz="猛地" py="měng,de" />
+		<phrase hz="渐渐地" py="jiàn,jiàn,de" />
+		<phrase hz="胜利地" py="shèng,lì,de" />
+		<definition id="二">
+			<item text="助词，用在状语后，主要修饰动词、形容词：胜利~完成任务. 天色渐渐~黑了." />
+		</definition>
+	</char>
+	<char hz="地" py="dì" multi="de" main="1">
+		<phrase hz="哀鸿遍地" py="āi,hóng,biàn,dì" />
+		<phrase hz="安身之地" py="ān,shēn,zhī,dì" />
+		<phrase hz="白兰地" py="bái,lán,dì" />
+		<phrase hz="宝地" py="bǎo,dì" />
+		<phrase hz="背地" py="bèi,dì" />
+		<phrase hz="本地" py="běn,dì" />
+		<phrase hz="必争之地" py="bì,zhēng,zhī,dì" />
+		<phrase hz="边地" py="biān,dì" />
+		<phrase hz="冰天雪地" py="bīng,tiān,xuě,dì" />
+		<phrase hz="不败之地" py="bù,bài,zhī,dì" />
+		<phrase hz="不毛之地" py="bù,máo,zhī,dì" />
+		<phrase hz="菜地" py="cài,dì" />
+		<phrase hz="草地" py="cǎo,dì" />
+		<phrase hz="产地" py="chǎn,dì" />
+		<phrase hz="场地" py="chǎng,dì" />
+		<phrase hz="出人头地" py="chū,rén,tóu,dì" />
+		<phrase hz="怆天呼地" py="chuàng,tiān,hū,dì" />
+		<phrase hz="春回大地" py="chūn,huí,dà,dì" />
+		<phrase hz="此地" py="cǐ,dì" />
+		<phrase hz="大地" py="dà,dì" />
+		<phrase hz="弹丸之地" py="dàn,wán,zhī,dì" />
+		<phrase hz="当地" py="dāng,dì" />
+		<phrase hz="道地" py="dào,dì" />
+		<phrase hz="低地" py="dī,dì" />
+		<phrase hz="地板" py="dì,bǎn" />
+		<phrase hz="地表" py="dì,biǎo" />
+		<phrase hz="地步" py="dì,bù" />
+		<phrase hz="地层" py="dì,céng" />
+		<phrase hz="地产" py="dì,chǎn" />
+		<phrase hz="地大物博" py="dì,dà,wù,bó" />
+		<!-- <phrase hz="地道" py="dì,dào" duoyin="dì,dao" info="地下的道路或坑道" /> -->
+		<phrase hz="地道战" py="dì,dào,zhàn" />
+		<phrase hz="地道" py="dì,dao" duoyin="dì,dào" info="1.没有异物;纯正的,未搀杂的。2.完全限于某一特定音乐风格之内的;未经润色的。3真正是有名产地出产的。4.(工作、活儿等)实在;够标准。" />
+		<phrase hz="地点" py="dì,diǎn" />
+		<phrase hz="地洞" py="dì,dòng" />
+		<phrase hz="地动山摇" py="dì,dòng,shān,yáo" />
+		<phrase hz="地方" py="dì,fāng" />
+		<phrase hz="地府" py="dì,fǔ" />
+		<phrase hz="地瓜" py="dì,guā" />
+		<phrase hz="地广人稀" py="dì,guǎng,rén,xī" />
+		<phrase hz="地基" py="dì,jī" />
+		<phrase hz="地久天长" py="dì,jiǔ,tiān,cháng" />
+		<phrase hz="地块" py="dì,kuài" />
+		<phrase hz="地雷" py="dì,léi" />
+		<phrase hz="地理" py="dì,lǐ" />
+		<phrase hz="地貌" py="dì,mào" />
+		<phrase hz="地面" py="dì,miàn" />
+		<phrase hz="地球" py="dì,qiú" />
+		<phrase hz="地区" py="dì,qū" />
+		<phrase hz="地热" py="dì,rè" />
+		<phrase hz="地势" py="dì,shì" />
+		<phrase hz="地毯" py="dì,tǎn" />
+		<phrase hz="地铁" py="dì,tiě" />
+		<phrase hz="地图" py="dì,tú" />
+		<phrase hz="地下" py="dì,xià" duoyin="dì,xia" info="1.地面下，土里。2.(喻)秘密的，不公开的" />
+		<!-- <phrase hz="地下" py="dì,xia" duoyin="dì,xià" info="地面上。" /> -->
+		<phrase hz="地心" py="dì,xīn" />
+		<phrase hz="地形" py="dì,xíng" />
+		<phrase hz="地位" py="dì,wèi" />
+		<phrase hz="地藏" py="dì,zàng" info="佛教四大菩薩之一。" />
+		<phrase hz="地址" py="dì,zhǐ" />
+		<phrase hz="地质" py="dì,zhì" />
+		<phrase hz="地主" py="dì,zhǔ" />
+		<phrase hz="顿地" py="dùn,dì" info="摔在地上。" />
+		<phrase hz="发祥地" py="fā,xiáng,dì" />
+		<phrase hz="发源地" py="fā,yuán,dì" />
+		<phrase hz="番地" py="fān,dì" />
+		<phrase hz="方寸之地" py="fāng,cùn,zhī,dì" />
+		<phrase hz="飞地" py="fēi,dì" />
+		<phrase hz="坟地" py="fén,dì" />
+		<phrase hz="封地" py="fēng,dì" />
+		<phrase hz="福地" py="fú,dì" />
+		<phrase hz="伏地" py="fú,dì" />
+		<phrase hz="腹地" py="fù,dì" />
+		<phrase hz="改天换地" py="gǎi,tiān,huàn,dì" />
+		<phrase hz="肝脑涂地" py="gān,nǎo,tú,dì" />
+		<phrase hz="高地" py="gāo,dì" />
+		<phrase hz="膏腴之地" py="gāo,yú,zhī,dì" />
+		<phrase hz="割地" py="gē,dì" />
+		<phrase hz="各地" py="gè,dì" />
+		<phrase hz="根据地" py="gēn,jù,dì" />
+		<phrase hz="耕地" py="gēng,dì" />
+		<phrase hz="攻城掠地" py="gōng,chéng,lüè,dì" />
+		<phrase hz="工地" py="gōng,dì" />
+		<phrase hz="呱呱堕地" py="gū,gū,duò,dì" />
+		<phrase hz="呱呱坠地" py="gū,gū,zhuì,dì" />
+		<phrase hz="谷地" py="gǔ,dì" />
+		<phrase hz="故地" py="gù,dì" />
+		<phrase hz="海地" py="hǎi,dì" info="西印度群岛岛国。" />
+		<phrase hz="花天酒地" py="huā,tiān,jiǔ,dì" />
+		<phrase hz="荒地" py="huāng,dì" />
+		<phrase hz="基地" py="jī,dì" />
+		<phrase hz="极地" py="jí,dì" info="极圈以内的区域" />
+		<phrase hz="集散地" py="jí,sàn,dì" />
+		<phrase hz="见地" py="jiàn,dì" />
+		<phrase hz="脚不点地" py="jiǎo,bù,diǎn,dì" />
+		<phrase hz="脚不沾地" py="jiǎo,bù,zhān,dì" />
+		<phrase hz="脚踏实地" py="jiǎo,tà,shí,dì" />
+		<phrase hz="经天纬地" py="jīng,tiān,wěi,dì" />
+		<phrase hz="境地" py="jìng,dì" />
+		<phrase hz="九地" py="jiǔ,dì" />
+		<phrase hz="开天辟地" py="kāi,tiān,pì,dì" />
+		<phrase hz="空地" py="kòng,dì" />
+		<phrase hz="立锥之地" py="lì,zhuī,zhī,dì" />
+		<phrase hz="立足之地" py="lì,zú,zhī,dì" />
+		<phrase hz="林地" py="lín,dì" />
+		<phrase hz="领地" py="lǐng,dì" />
+		<phrase hz="绿地" py="lǜ,dì" />
+		<phrase hz="瞒天席地" py="mán,tiān,xí,dì" />
+		<phrase hz="某地" py="mǒu,dì" />
+		<phrase hz="牧地" py="mù,dì" />
+		<phrase hz="墓地" py="mù,dì" />
+		<phrase hz="目的地" py="mù,dì,dì" />
+		<phrase hz="幕天席地" py="mù,tiān,xí,dì" />
+		<phrase hz="内地" py="nèi,dì" />
+		<phrase hz="盆地" py="pén,dì" />
+		<phrase hz="平地" py="píng,dì" />
+		<phrase hz="坡地" py="pō,dì" />
+		<phrase hz="铺天盖地" py="pū,tiān,gài,dì" />
+		<phrase hz="山崩地裂" py="shān,bēng,dì,liè" />
+		<phrase hz="扫地" py="sǎo,dì" />
+		<phrase hz="山地" py="shān,dì" />
+		<phrase hz="上天入地" py="shàng,tiān,rù,dì" />
+		<phrase hz="设身处地" py="shè,shēn,chǔ,dì" />
+		<phrase hz="生地" py="shēng,dì" />
+		<phrase hz="圣地" py="shèng,dì" />
+		<phrase hz="胜地" py="shèng,dì" />
+		<phrase hz="失地" py="shī,dì" />
+		<phrase hz="是非之地" py="shì,fēi,zhī,dì" />
+		<phrase hz="首善之地" py="shǒu,shàn,zhī,dì" />
+		<phrase hz="熟地" py="shú,dì" />
+		<phrase hz="属地" py="shǔ,dì" />
+		<phrase hz="私地" py="sī,dì" />
+		<phrase hz="斯文扫地" py="sī,wén,sǎo,dì" />
+		<phrase hz="死地" py="sǐ,dì" />
+		<phrase hz="死心搭地" py="sǐ,xīn,dā,dì" />
+		<phrase hz="随时随地" py="suí,shí,suí,dì" />
+		<phrase hz="所在地" py="suǒ,zài,dì" />
+		<phrase hz="滩地" py="tān,dì" />
+		<phrase hz="谈天说地" py="tán,tiān,shuō,dì" />
+		<phrase hz="谈天论地" py="tán,tiān,lùn,dì" />
+		<phrase hz="特地" py="tè,dì" />
+		<phrase hz="天地" py="tiān,dì" />
+		<phrase hz="田地" py="tián,dì" />
+		<phrase hz="天崩地裂" py="tiān,bēng,dì,liè" />
+		<phrase hz="天翻地覆" py="tiān,fān,dì,fù" />
+		<phrase hz="天寒地冻" py="tiān,hán,dì,dòng" />
+		<phrase hz="天塌地陷" py="tiān,tā,dì,xiàn" />
+		<phrase hz="洼地" py="wā,dì" />
+		<phrase hz="外地" py="wài,dì" />
+		<phrase hz="无人之地" py="wú,rén,zhī,dì" />
+		<phrase hz="五体投地" py="wǔ,tǐ,tóu,dì" />
+		<phrase hz="险地" py="xiǎn,dì" />
+		<phrase hz="谢天谢地" py="xiè,tiān,xiè,dì" />
+		<phrase hz="心地" py="xīn,dì" />
+		<phrase hz="凶地" py="xiōng,dì" />
+		<phrase hz="咽喉要地" py="yān,hóu,yào,dì" />
+		<phrase hz="盐碱地" py="yán,jiǎn,dì" />
+		<phrase hz="野地" py="yě,dì" />
+		<phrase hz="一败涂地" py="yī,bài,tú,dì" />
+		<phrase hz="衣不曳地" py="yī,bú,yè,dì" info="衣衫短小不能曳地。形容衣着朴素。" />
+		<phrase hz="异地" py="yì,dì" />
+		<phrase hz="易地" py="yì,dì" />
+		<phrase hz="义地" py="yì,dì" info="旧时掩埋穷人的公共墓地" />
+		<phrase hz="用武之地" py="yòng,wǔ,zhī,dì" />
+		<phrase hz="余地" py="yú,dì" />
+		<phrase hz="园地" py="yuán,dì" />
+		<phrase hz="宅地" py="zhái,dì" />
+		<phrase hz="宅基地" py="zhái,jī,dì" />
+		<phrase hz="战天斗地" py="zhàn,tiān,dòu,dì" />
+		<phrase hz="沼泽地" py="zhǎo,zé,dì" />
+		<phrase hz="阵地" py="zhèn,dì" />
+		<phrase hz="震天动地" py="zhèn,tiān,dòng,dì" />
+		<phrase hz="殖民地" py="zhí,mín,dì" />
+		<phrase hz="指天画地" py="zhǐ,tiān,huà,dì" />
+		<phrase hz="质地" py="zhì,dì" />
+		<phrase hz="重地" py="zhòng,dì" />
+		<phrase hz="种地" py="zhòng,dì" />
+		<phrase hz="坠地" py="zhuì,dì" />
+		<phrase hz="自留地" py="zì,liú,dì" />
+		<phrase hz="钻天入地" py="zuān,tiān,rù,dì" />
+		<definition id="一">
+			<item id="1" text="地球，太阳第九大行星之一，人类居住的星球：天~. ~心. ~层. (引)1.指土地、地面：~大物博. 草~. 两亩~. 2.指某一地区，地点：此~. 华东各~. 目的~. 3.指路程，用在里数或站数后：三十里~. 两站~. [地道]1.地下挖成的隧道：~~战. 2.(-dao)有名产地出产的，也说“道地”：~~药材. (转)真正的，纯粹：一口~~北京话. [地方]1.各省、市、县，对全国和中央说：~~各级人民代表大会. ~~服从中央. 2.(-fang)区域：飞机在什么~~飞？那~~出高粱. 3.(-fang)点，部分：他这话有的~~很对. [地位]人在社会关系中所处的位置。 [地下]1.地面下，土里：~~铁道. (喻)秘密的，不公开的：~~工作. 2.(-xia)地面上：掉在~~了." />
+			<item id="2" text="表示思想活动的领域：见~. 心~." />
+			<item id="3" text="底子（(连)质-）：蓝~白花布." />
+		</definition>
+	</char>
+</pinyin>

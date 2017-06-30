@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="底" py="de" multi="dǐ">
+		<definition id="二">
+			<item text="助词，同“的(三)(1)2”。" />
+		</definition>
+	</char>
+	<char hz="底" py="dǐ" multi="de" main="1" suppressLog="1">
+		<phrase hz="彻底" py="chè,dǐ" />
+		<phrase hz="到底" py="dào,dǐ" />
+		<phrase hz="底片" py="dǐ,piàn" />
+		<phrase hz="底气" py="dǐ,qì" />
+		<phrase hz="底细" py="dǐ,xì" />
+		<phrase hz="底线" py="dǐ,xiàn" />
+		<phrase hz="底蕴" py="dǐ,yùn" />
+		<phrase hz="底座" py="dǐ,zuò" />
+		<phrase hz="釜底抽薪" py="fǔ,dǐ,chōu,xīn" />
+		<phrase hz="井底之蛙" py="jǐng,dǐ,zhī,wā" />
+		<phrase hz="谜底" py="mí,dǐ" />
+		<phrase hz="刨根问底" py="páo,gēn,wèn,dǐ" />
+		<phrase hz="卧底" py="wò,dǐ" />
+		<phrase hz="歇斯底里" py="xiē,sī,dǐ,lǐ" />
+		<phrase hz="寻根问底" py="xún,gēn,wèn,dǐ" />
+		<phrase hz="有根有底" py="yǒu,gēn,yǒu,dǐ" />
+		<definition id="一">
+			<item id="1" text="（-子、-儿）最下面的部分：锅~. 鞋~儿. 海~. (引)末了：月~. 年~." />
+			<item id="2" text="（-子、-儿）根基，基础，留作根据的：~稿. ~账. 刨(páo)根问~. 那文件要留个~儿. [底细]内情，详情，事件的根底。" />
+			<item id="3" text="（-儿）图案的底子：白~儿红花碗." />
+			<item id="4" text="达到：终~于成." />
+			<item id="5" text="何，什么：~事. ~处." />
+		</definition>
+	</char>
+</pinyin>

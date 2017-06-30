@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="识" py="shí" multi="zhì" main="1" suppressLog="1">
+		<phrase hz="识相" py="shí,xiàng" info="能夠自知、自量、知趣。" />
+		<phrase hz="知识" py="zhī,shi" />
+		<definition id="一">
+			<item id="1" text="知道，认得，能辨别：~货. ~字. ~别真假." />
+			<item id="2" text="知识，所知道的道理：常~. 知~(shi)丰富." />
+			<item id="3" text="见识，辨别是非的能力：卓~." />
+		</definition>
+	</char>
+	<char hz="识" py="zhì" multi="shí">
+		<phrase hz="博闻强识" py="bó,wén,qiáng,zhì" info="闻：见闻。形容知识丰富，记忆力强。" />
+		<phrase hz="附识" py="fù,zhì" info="附在文章、書刊上的有關記述。" />
+		<phrase hz="款识" py="kuǎn,zhì" info="1.古代钟鼎彝器上铸刻的文字。2.在书画上的题名。" />
+		<definition id="二">
+			<item id="1" text="记住：博闻强~." />
+			<item id="2" text="标志，记号：款~." />
+		</definition>
+	</char>
+</pinyin>

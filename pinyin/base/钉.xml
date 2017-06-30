@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钉" py="dīng" multi="dìng" main="1">
+		<phrase hz="扒钉" py="bā,dīng" info="一种钉头有两个尖刺的钢制固定件,用来将两块木材固定在一起(如在顶撑方法中)" />
+		<phrase hz="补钉" py="bǔ,dīng" />
+		<phrase hz="道钉" py="dào,dīng" info="铁路上用于将路轨固定在轨枕上的类似的钉" />
+		<phrase hz="钉锤" py="dīng,chuí" />
+		<phrase hz="钉铰" py="dīng,jiǎo" />
+		<phrase hz="钉铃" py="dīng,líng" />
+		<phrase hz="钉螺" py="dīng,luó" info="一种锥形的卵生螺。" />
+		<phrase hz="钉帽" py="dīng,mào" info="钉子的项端" />
+		<phrase hz="钉梢" py="dīng,shāo" info="暗中跟踪监视。同“盯梢”。" />
+		<phrase hz="钉是钉" py="dīng,shì,dīng" info="后接“，铆是铆”。形容办事认真,一丝不苟。也作“丁是丁,卯是卯”" />
+		<phrase hz="钉鞋" py="dīng,xié" />
+		<phrase hz="钉子" py="dīng,zi" />
+		<phrase hz="鼓钉" py="gǔ,dīng" />
+		<phrase hz="螺钉" py="luó,dīng" />
+		<phrase hz="螺丝钉" py="luó,sī,dīng" />
+		<phrase hz="铆钉" py="mǎo,dīng" />
+		<phrase hz="门钉" py="mén,dīng" />
+		<phrase hz="命钉" py="mìng,dīng" info="钉棺材盖的钉子。" />
+		<phrase hz="木钉" py="mù,dīng" />
+		<phrase hz="揿钉" py="qìn,dīng" info="图钉;有大平头的短钢钉" />
+		<phrase hz="铁钉" py="tiě,dīng" />
+		<phrase hz="图钉" py="tú,dīng" />
+		<phrase hz="销钉" py="xiāo,dīng" />
+		<phrase hz="眼中钉" py="yǎn,zhōng,dīng" />
+		<phrase hz="斩钉截铁" py="zhǎn,dīng,jié,tiě" />
+		<definition id="一">
+			<item id="1" text="（-子、-儿）竹、金属制成的可以打入他物的细条形的东西：螺丝~儿. 碰~子（喻受打击或被拒绝）." />
+			<item id="2" text="紧跟着不放松：~住对方的前锋." />
+			<item id="3" text="督促，催问：这事得~着他点儿." />
+		</definition>
+	</char>
+	<char hz="钉" py="dìng" multi="dīng" info="Word主音">
+		<phrase hz="板上钉钉" py="bǎn,shàng,dìng,dīng" />
+		<phrase hz="钉扣子" py="dìng,kòu,zi" />
+		<phrase hz="钉书钉" py="dìng,shū,dīng" />
+		<phrase hz="铁板钉钉" py="tiě,bǎn,dìng,dīng" />
+		<definition id="二">
+			<item id="1" text="把钉子或楔(xiē)子打入他物：拿个钉子~一~. 墙上~着木橛." />
+			<item id="2" text="连接在一起：~扣子." />
+		</definition>
+	</char>
+</pinyin>

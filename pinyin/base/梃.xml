@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="梃" py="tǐng" multi="tìng" main="1">
+		<definition id="一">
+			<item text="棍棒。" />
+		</definition>
+	</char>
+	<char hz="梃" py="tìng" multi="tǐng" info="Word主音">
+		<phrase hz="梃猪" py="tìng,zhū" />
+		<definition id="二">
+			<item id="1" text="梃猪，杀猪后，在猪腿上割一个口子，用铁棍贴着腿皮往里捅。" />
+			<item id="2" text="梃猪用的铁棍。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="祇" py="qí" multi="zhǐ" main="1">
+		<phrase hz="神祇" py="shén,qí" info="指天神和地神,泛指神明" />
+		<definition id="一">
+			<item text="古代称地神。" />
+		</definition>
+	</char>
+	<char hz="祇" py="zhǐ" multi="qí">
+		<definition id="二">
+			<item text="“只”的异体字。" />
+		</definition>
+	</char>
+</pinyin>

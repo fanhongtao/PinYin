@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="兹" py="cí" multi="zī">
+		<phrase hz="龟兹" py="qiū,cí" />
+		<definition id="二">
+			<item text="见“龟”字条“龟兹”(qiū-)。" />
+		</definition>
+	</char>
+	<char hz="兹" py="zī" multi="cí" main="1" suppressLog="1">
+		<phrase hz="赫兹" py="hè,zī" info="周期性过程的频率单位" />
+		<phrase hz="兹事体大" py="zī,shì,tǐ,dà" info="这件事性质重要，关系重大。" />
+		<definition id="一">
+			<item id="1" text="这，这个：~日. ~理易明." />
+			<item id="2" text="现在：~订于明日开全体职工大会." />
+			<item id="3" text="〈古〉年：今~. 来~." />
+		</definition>
+	</char>
+</pinyin>

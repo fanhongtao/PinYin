@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瘈" py="chì" multi="zhì">
+		<phrase hz="瘈疭" py="chì,zòng" info="痉挛，抽搐" />
+		<definition id="二">
+			<item text="同“瘛”。" />
+		</definition>
+	</char>
+	<char hz="瘈" py="zhì" multi="chì" main="1">
+		<phrase hz="狂瘈" py="kuáng,zhì" info="狂犬。喻恶人。" />
+		<phrase hz="瘈狗" py="zhì,gǒu" info="1.疯狗。2.指暴乱之人。" />
+		<definition id="一">
+			<item text="疯狂（特指狗）。" />
+		</definition>
+	</char>
+</pinyin>

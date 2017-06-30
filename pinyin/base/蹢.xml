@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蹢" py="dí" multi="zhí" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="〈古〉蹄子。" />
+		</definition>
+	</char>
+	<char hz="蹢" py="zhí" multi="dí">
+		<phrase hz="蹢躅" py="zhí,zhú" />
+		<definition id="二">
+			<item text="[蹢躅](-zhú)同“踯躅”。" />
+		</definition>
+	</char>
+</pinyin>
