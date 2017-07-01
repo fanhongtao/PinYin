@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="戆" py="gàng" multi="zhuàng">
+		<phrase hz="戆头戆脑" py="gàng,tóu,gàng,nǎo" />
+		<definition id="二">
+			<item text="〈方〉鲁莽：~头~脑." />
+		</definition>
+	</char>
+	<char hz="戆" py="zhuàng" multi="gàng" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="刚直：性情~直." />
+		</definition>
+	</char>
+</pinyin>

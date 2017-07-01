@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="垌" py="dòng" multi="tóng" main="1">
+		<phrase hz="田垌" py="tián,dòng" />
+		<definition id="一">
+			<item id="1" text="田地：田~." />
+			<item id="2" text="地名用字：麻~（在广西壮族自治区桂平）. 中~（在广东省化州）." />
+		</definition>
+	</char>
+	<char hz="垌" py="tóng" multi="dòng" info="Word主音">
+		<phrase hz="垌冢" py="tóng,zhǒng" />
+		<definition id="二">
+			<item text="[垌冢](-zhǒng)地名，在湖北省汉川。" />
+		</definition>
+	</char>
+</pinyin>

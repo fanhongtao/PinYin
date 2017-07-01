@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="闶" py="kāng" multi="kàng">
+		<phrase hz="闶阆" py="kāng,láng" />
+		<definition id="一">
+			<item text="[闶阆](-láng)〈方〉建筑物中空旷的部分。也叫“闶阆子”。" />
+		</definition>
+	</char>
+	<char hz="闶" py="kàng" multi="kāng" main="1">
+		<definition id="二">
+			<item text="高大。" />
+		</definition>
+	</char>
+</pinyin>

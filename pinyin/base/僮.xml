@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="僮" py="tóng" multi="zhuàng" main="1" suppressLog="1">
+		<definition id="二">
+			<item id="1" text="封建时代受役使的未成年的人：书~." />
+			<item id="2" text="古同“童(1)”。" />
+		</definition>
+	</char>
+	<char hz="僮" py="zhuàng" multi="tóng" info="Word主音">
+		<phrase hz="僮族" py="zhuàng,zú" />
+		<definition id="一">
+			<item text="我国少数民族的“壮”字旧作“僮”。" />
+		</definition>
+	</char>
+</pinyin>

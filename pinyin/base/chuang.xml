@@ -1,30 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="创" py="chuāng" multi="chuàng">
-		<phrase hz="创伤" py="chuāng,shāng" />
-		<phrase hz="刀创" py="dāo,chuāng" />
-		<phrase hz="重创" py="zhòng,chuāng" />
-		<definition id="二">
-			<item text="伤（(连)-伤）：刀~. 予以重(zhòng)~." />
-		</definition>
-	</char>
+	<!-- Ref:创.xml <char hz="创" py="chuāng" multi="chuàng" /> -->
 	<char hz="疮" py="chuāng" />
 	<char hz="窗" py="chuāng">
 		<phrase hz="窗明几净" py="chuāng,míng,jī,jìng" />
 	</char>
 	<char hz="床" py="chuáng" />
 	<char hz="噇" py="chuáng" />
-	<char hz="幢" py="chuáng" multi="zhuàng" main="1">
-		<definition id="一">
-			<item id="1" text="古代指旗子一类的东西。" />
-			<item id="2" text="佛经的经幢。在绸伞上写经叫经幢，在石柱上刻经的叫石幢。" />
-		</definition>
-	</char>
+	<!-- Ref:幢.xml <char hz="幢" py="chuáng" multi="zhuàng" main="1" /> -->
 	<char hz="闯" py="chuǎng" />
-	<char hz="创" py="chuàng" multi="chuāng" main="1">
-		<definition id="一">
-			<item text="开始，开始做：~办. ~造. 首~. [创举]从未有过的举动或事业。 [创刊号]报刊开始刊行的一期。 [创意]独创、新颖的构思：颇具~~." />
-		</definition>
-	</char>
+	<!-- Ref:创.xml <char hz="创" py="chuàng" multi="chuāng" main="1" /> -->
 	<char hz="怆" py="chuàng" />
 </pinyin>

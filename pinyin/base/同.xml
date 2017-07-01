@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="同" py="tóng" multi="tòng" main="1" suppressLog="1">
+		<phrase hz="同伦" py="tóng,lún" />
+		<definition id="一">
+			<item id="1" text="一样，没有差异：~等. ~岁. ~感. 大~小异. [同化]1.生物休将从食物中摄取的养料转化成自身细胞的成分并储存能量。 2.使不同的事物变成相同或相近的事物。 [同情]对于别人的遭遇在感情上发生共鸣：我们~~并支持一切反殖民主义的斗争. [同时]1.在同一个时候。 2.表示进一层，并且：修好淮河可以防止水灾，~~还可以防止旱灾. [同志]一般指志同道合的人，为共同的理想、事业而奋斗的人。特指同一个政党的成员。" />
+			<item id="2" text="跟……相同：~上. ~前. “仝”~“同”." />
+			<item id="3" text="副词，共同，一起：~居. ~吃~住~劳动. 一路~行." />
+			<item id="4" text="介词，跟：他~哥哥一样勤奋. ~坏人作斗争." />
+			<item id="5" text="连词，和：我~你都去." />
+		</definition>
+	</char>
+	<char hz="同" py="tòng" multi="tóng">
+		<phrase hz="胡同" py="hú,tòng" />
+		<definition id="二">
+			<item text="[胡同]巷，较窄的街道。" />
+		</definition>
+	</char>
+</pinyin>

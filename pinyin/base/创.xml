@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="创" py="chuāng" multi="chuàng">
+		<phrase hz="创伤" py="chuāng,shāng" />
+		<phrase hz="刀创" py="dāo,chuāng" />
+		<phrase hz="重创" py="zhòng,chuāng" />
+		<definition id="二">
+			<item text="伤（(连)-伤）：刀~. 予以重(zhòng)~." />
+		</definition>
+	</char>
+	<char hz="创" py="chuàng" multi="chuāng" main="1">
+		<definition id="一">
+			<item text="开始，开始做：~办. ~造. 首~. [创举]从未有过的举动或事业。 [创刊号]报刊开始刊行的一期。 [创意]独创、新颖的构思：颇具~~." />
+		</definition>
+	</char>
+</pinyin>

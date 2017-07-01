@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="幢" py="chuáng" multi="zhuàng" main="1">
+		<definition id="一">
+			<item id="1" text="古代指旗子一类的东西。" />
+			<item id="2" text="佛经的经幢。在绸伞上写经叫经幢，在石柱上刻经的叫石幢。" />
+		</definition>
+	</char>
+	<char hz="幢" py="zhuàng" multi="chuáng" info="Word主音">
+		<definition id="二">
+			<item text="〈方〉量词：用于房子：一~楼." />
+		</definition>
+	</char>
+</pinyin>

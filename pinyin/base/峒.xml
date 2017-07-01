@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="峒" py="dòng" multi="tóng" main="1">
+		<definition id="一">
+			<item text="山洞，石洞。" />
+		</definition>
+	</char>
+	<char hz="峒" py="tóng" multi="dòng">
+		<phrase hz="崆峒" py="kōng,tóng" />
+		<definition id="二">
+			<item text="见“崆”字条“崆峒”(kōng-)。" />
+		</definition>
+	</char>
+</pinyin>

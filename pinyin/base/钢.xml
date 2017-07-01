@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钢" py="gāng" multi="gàng" main="1" suppressLog="1">
+		<phrase hz="百炼成钢" py="bǎi,liàn,chéng,gāng" />
+		<phrase hz="不锈钢" py="bú,xiù,gāng" />
+		<phrase hz="钢板" py="gāng,bǎn" />
+		<phrase hz="钢笔" py="gāng,bǐ" />
+		<phrase hz="钢材" py="gāng,cái" />
+		<phrase hz="钢锭" py="gāng,dìng" />
+		<phrase hz="钢化玻璃" py="gāng,huà,bō,li" />
+		<phrase hz="钢筋" py="gāng,jīn" />
+		<phrase hz="钢盔" py="gāng,kuī" />
+		<phrase hz="钢琴" py="gāng,qín" />
+		<phrase hz="钢铁" py="gāng,tiě" />
+		<phrase hz="钢种" py="gāng,zhǒng" />
+		<phrase hz="钢珠" py="gāng,zhū" />
+		<phrase hz="精钢" py="jīng,gāng" />
+		<phrase hz="轧钢" py="zhá,gāng" />
+		<definition id="一">
+			<item text="经过精练，不含磷、硫等杂质的铁，含碳量低于2%，比熟铁更坚硬、更富于弹性，是工业上极重要的原料。 [钢精][钢种](-zhǒng)指制造日用器皿的铝。 [钢铁](喻)坚强，坚定不移：~~的意志." />
+		</definition>
+	</char>
+	<char hz="钢" py="gàng" multi="gāng">
+		<definition id="二">
+			<item text="把刀在布、皮、石或缸沿上用力摩擦几下使它锋利：这把刀钝了，要~一~." />
+		</definition>
+	</char>
+</pinyin>

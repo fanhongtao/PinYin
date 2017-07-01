@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奘" py="zhuǎng" multi="zàng">
+		<definition id="一">
+			<item text="粗大：这棵树很~." />
+		</definition>
+	</char>
+	<char hz="奘" py="zàng" multi="zhuǎng" main="1">
+		<phrase hz="玄奘" py="xuán,zàng" info="唐代一个和尚的名字。即西游中的“唐僧”。"/>
+		<definition id="二">
+			<item id="1" text="壮大，多用于人名。玄奘，唐代一个和尚的名字。" />
+			<item id="2" text="〈方〉说话粗鲁，态度生硬。" />
+		</definition>
+	</char>
+</pinyin>

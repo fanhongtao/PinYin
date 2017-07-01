@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="岗" py="gāng" multi="gǎng">
+		<phrase hz="山岗" py="shān,gāng" />
+		<phrase hz="瓦岗军" py="wǎ,gāng,jūn" info="隋末翟让领导的农民起义军。以韦城瓦岗寨(今河南滑县)为根据地，是使隋王朝覆灭的主力军之一。" />
+		<definition id="二">
+			<item text="同“冈”。" />
+		</definition>
+	</char>
+	<char hz="岗" py="gǎng" multi="gāng" main="1" suppressLog="1">
+		<phrase hz="岗哨" py="gǎng,shào" />
+		<phrase hz="岗亭" py="gǎng,tíng" />
+		<phrase hz="岗位" py="gǎng,wèi" />
+		<phrase hz="换岗" py="huàn,gǎng" />
+		<phrase hz="门岗" py="mén,gǎng" />
+		<phrase hz="上岗" py="shàng,gǎng" />
+		<phrase hz="哨岗" py="shào,gǎng" />
+		<phrase hz="下岗" py="xià,gǎng" />
+		<phrase hz="站岗" py="zhàn,gǎng" />
+		<definition id="一">
+			<item id="1" text="（-子、-儿）高起的土坡：黄土~儿." />
+			<item id="2" text="（-子、-儿）平面上凸起的一长道：肉~子." />
+			<item id="3" text="守卫的位置：站~. 门~. 布~. [岗位]守卫、值勤的地方。也指职位：工作~~." />
+		</definition>
+	</char>
+</pinyin>

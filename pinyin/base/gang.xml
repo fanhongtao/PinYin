@@ -7,76 +7,21 @@
 	</char>
 	<char hz="刚" py="gāng" />
 	<char hz="" py="gāng" />
-	<char hz="岗" py="gāng" multi="gǎng">
-		<phrase hz="山岗" py="shān,gāng" />
-		<phrase hz="瓦岗军" py="wǎ,gāng,jūn" info="隋末翟让领导的农民起义军。以韦城瓦岗寨(今河南滑县)为根据地，是使隋王朝覆灭的主力军之一。" />
-		<definition id="二">
-			<item text="同“冈”。" />
-		</definition>
-	</char>
+	<!-- Ref:岗.xml <char hz="岗" py="gāng" multi="gǎng" /> -->
 	<char hz="纲" py="gāng" />
 	<char hz="" py="gāng" />
-	<char hz="钢" py="gāng" multi="gàng" main="1" suppressLog="1">
-		<phrase hz="百炼成钢" py="bǎi,liàn,chéng,gāng" />
-		<phrase hz="不锈钢" py="bú,xiù,gāng" />
-		<phrase hz="钢板" py="gāng,bǎn" />
-		<phrase hz="钢笔" py="gāng,bǐ" />
-		<phrase hz="钢材" py="gāng,cái" />
-		<phrase hz="钢锭" py="gāng,dìng" />
-		<phrase hz="钢化玻璃" py="gāng,huà,bō,li" />
-		<phrase hz="钢筋" py="gāng,jīn" />
-		<phrase hz="钢盔" py="gāng,kuī" />
-		<phrase hz="钢琴" py="gāng,qín" />
-		<phrase hz="钢铁" py="gāng,tiě" />
-		<phrase hz="钢种" py="gāng,zhǒng" />
-		<phrase hz="钢珠" py="gāng,zhū" />
-		<phrase hz="精钢" py="jīng,gāng" />
-		<phrase hz="轧钢" py="zhá,gāng" />
-		<definition id="一">
-			<item text="经过精练，不含磷、硫等杂质的铁，含碳量低于2%，比熟铁更坚硬、更富于弹性，是工业上极重要的原料。 [钢精][钢种](-zhǒng)指制造日用器皿的铝。 [钢铁](喻)坚强，坚定不移：~~的意志." />
-		</definition>
-	</char>
-	<char hz="扛" py="gāng" multi="káng">
-		<phrase hz="扛鼎" py="gāng,dǐng" />
-		<definition id="二">
-			<item id="1" text="两手举东西：~鼎." />
-			<item id="2" text="〈方〉抬东西。" />
-		</definition>
-	</char>
+	<!-- Ref:钢.xml <char hz="钢" py="gāng" multi="gàng" main="1" suppressLog="1" /> -->
+	<!-- Ref:扛.xml <char hz="扛" py="gāng" multi="káng" /> -->
 	<char hz="肛" py="gāng" />
 	<char hz="缸" py="gāng" />
 	<char hz="罡" py="gāng" />
 	<char hz="堽" py="gāng" />
-	<char hz="岗" py="gǎng" multi="gāng" main="1" suppressLog="1">
-		<phrase hz="岗哨" py="gǎng,shào" />
-		<phrase hz="岗亭" py="gǎng,tíng" />
-		<phrase hz="岗位" py="gǎng,wèi" />
-		<phrase hz="换岗" py="huàn,gǎng" />
-		<phrase hz="门岗" py="mén,gǎng" />
-		<phrase hz="上岗" py="shàng,gǎng" />
-		<phrase hz="哨岗" py="shào,gǎng" />
-		<phrase hz="下岗" py="xià,gǎng" />
-		<phrase hz="站岗" py="zhàn,gǎng" />
-		<definition id="一">
-			<item id="1" text="（-子、-儿）高起的土坡：黄土~儿." />
-			<item id="2" text="（-子、-儿）平面上凸起的一长道：肉~子." />
-			<item id="3" text="守卫的位置：站~. 门~. 布~. [岗位]守卫、值勤的地方。也指职位：工作~~." />
-		</definition>
-	</char>
+	<!-- Ref:岗.xml <char hz="岗" py="gǎng" multi="gāng" main="1" suppressLog="1" /> -->
 	<char hz="港" py="gǎng" />
 	<char hz="杠" py="gàng">
 		<phrase hz="杠杆" py="gàng,gǎn" />
 	</char>
-	<char hz="钢" py="gàng" multi="gāng">
-		<definition id="二">
-			<item text="把刀在布、皮、石或缸沿上用力摩擦几下使它锋利：这把刀钝了，要~一~." />
-		</definition>
-	</char>
+	<!-- Ref:钢.xml <char hz="钢" py="gàng" multi="gāng" /> -->
 	<char hz="筻" py="gàng" />
-	<char hz="戆" py="gàng" multi="zhuàng">
-		<phrase hz="戆头戆脑" py="gàng,tóu,gàng,nǎo" />
-		<definition id="二">
-			<item text="〈方〉鲁莽：~头~脑." />
-		</definition>
-	</char>
+	<!-- Ref:戆.xml <char hz="戆" py="gàng" multi="zhuàng" /> -->
 </pinyin>

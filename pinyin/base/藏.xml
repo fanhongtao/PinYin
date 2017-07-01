@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="藏" py="cáng" multi="zàng" main="1">
+		<phrase hz="苞藏" py="bāo,cáng" />
+		<phrase hz="藏垢纳污" py="cáng,gòu,nà,wū" />
+		<phrase hz="藏奸" py="cáng,jiān" />
+		<phrase hz="藏龙卧虎" py="cáng,lóng,wò,hǔ" />
+		<phrase hz="藏匿" py="cáng,nì" />
+		<phrase hz="藏怒" py="cáng,nù" />
+		<phrase hz="藏品" py="cáng,pǐn" />
+		<phrase hz="藏器待时" py="cáng,qì,dài,shí" />
+		<phrase hz="藏书" py="cáng,shū" />
+		<phrase hz="藏头露尾" py="cáng,tóu,lù,wěi" />
+		<phrase hz="藏污纳垢" py="cáng,wū,nà,gòu" />
+		<phrase hz="藏掖" py="cáng,yè" />
+		<phrase hz="藏拙" py="cáng,zhuō" />
+		<phrase hz="储藏" py="chǔ,cáng" />
+		<phrase hz="躲藏" py="duǒ,cáng" />
+		<phrase hz="窖藏" py="jiào,cáng" />
+		<phrase hz="金屋藏娇" py="jīn,wū,cáng,jiāo" />
+		<phrase hz="埋藏" py="mái,cáng" />
+		<phrase hz="慢藏诲盗" py="màn,cáng,huì,dào" />
+		<phrase hz="绵里藏针" py="mián,lǐ,cáng,zhēn" />
+		<phrase hz="鸟尽弓藏" py="niǎo,jìn,gōng,cáng" />
+		<phrase hz="剖腹藏珠" py="pōu,fù,cáng,zhū" />
+		<phrase hz="潜藏" py="qián,cáng" />
+		<phrase hz="善刀而藏" py="shàn,dāo,ér,cáng" />
+		<phrase hz="深藏若虚" py="shēn,cáng,ruò,xū" />
+		<phrase hz="收藏" py="shōu,cáng" />
+		<phrase hz="笑里藏刀" py="xiào,lǐ,cáng,dāo" />
+		<phrase hz="行藏" py="xíng,cáng" />
+		<phrase hz="隐藏" py="yǐn,cáng" />
+		<phrase hz="蕴藏" py="yùn,cáng" />
+		<phrase hz="珍藏" py="zhēn,cáng" />
+		<phrase hz="贮藏" py="zhù,cáng" />
+		<definition id="一">
+			<item id="1" text="隐避：埋~. 他~在树后头." />
+			<item id="2" text="收存：~书处. 储~室. 把这些东西收~起来." />
+		</definition>
+	</char>
+	<char hz="藏" py="zàng" multi="cāng">
+		<phrase hz="宝藏" py="bǎo,zàng" />
+		<phrase hz="川藏" py="chuān,zàng" info="四川、西藏" />
+		<phrase hz="大藏经" py="dà,zàng,jīng" />
+		<phrase hz="道藏" py="dào,zàng" />
+		<phrase hz="汉藏" py="hàn,zàng" />
+		<phrase hz="后藏" py="hòu,zàng" info="拉萨、山南地区称为“前藏”，日喀则地区则称为“后藏”" />
+		<phrase hz="进藏" py="jìn,zàng" info="进入西藏" />
+		<phrase hz="康藏" py="kāng,zàng" />
+		<phrase hz="前藏" py="qián,zàng" info="拉萨、山南地区称为“前藏”，日喀则地区则称为“后藏”" />
+		<phrase hz="青藏" py="qīng,zàng" info="青海、西藏" />
+		<phrase hz="入藏" py="rù,zàng" info="进入西藏" />
+		<phrase hz="三藏" py="sān,zàng" />
+		<phrase hz="卫藏" py="wèi,zàng" />
+		<phrase hz="西藏" py="xī,zàng" />
+		<phrase hz="雅鲁藏布江" py="yǎ,lǔ,zàng,bù,jiāng" />
+		<phrase hz="藏传" py="zàng,chuán" />
+		<phrase hz="藏府" py="zàng,fǔ" />
+		<phrase hz="藏红花" py="zàng,hóng,huā" />
+		<phrase hz="藏剧" py="zàng,jù" />
+		<phrase hz="藏蓝" py="zàng,lán" info="蓝里略透红色" />
+		<phrase hz="藏历" py="zàng,lì" />
+		<phrase hz="藏羚" py="zàng,líng" />
+		<phrase hz="藏民" py="zàng,mín" />
+		<phrase hz="藏青" py="zàng,qīng" info="颜色名。蓝而近黑" />
+		<phrase hz="藏区" py="zàng,qū" />
+		<phrase hz="藏文" py="zàng,wén" />
+		<phrase hz="藏语" py="zàng,yǔ" />
+		<phrase hz="藏族" py="zàng,zú" />
+		<definition id="二">
+			<item id="1" text="储放东西的地方：宝~." />
+			<item id="2" text="佛教、道教经典的总称：大~经. 道~. [三藏]佛教经典，包括“经”、“律”、“论”三部分，总称三藏。唐玄奘(zàng)号三藏法师。" />
+			<item id="3" text="西藏自治区的简称。" />
+			<item text="[藏族]我国少数民族。" />
+		</definition>
+	</char>
+</pinyin>
