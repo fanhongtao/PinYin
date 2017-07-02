@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="省" py="shěng" multi="xǐng" main="1" suppressLog="1">
+		<phrase hz="节省" py="jié,shěng" />
+		<phrase hz="尚书省" py="shàng,shū,shěng" info="官署名。秦、漢置尚書掌奏章文書，至唐、宋，與中書省、門下省合稱為「三省」，下統六部，分掌國政。明初設六部尚書，分為六署，屬中書省；洪武十三年撤中書省，分其政於六部，而尚書之權始重。因古時尚書省多位在宮闕的北面，故亦稱為「北省」。" />
+		<phrase hz="省便" py="shěng,biàn" info="既省事，又方便;不麻烦" />
+		<phrase hz="省城" py="shěng,chéng" info="省政府所在地，省会" />
+		<phrase hz="省份" py="shěng,fèn" />
+		<phrase hz="省略" py="shěng,lüè" />
+		<phrase hz="省会" py="shěng,huì" duoyin="xǐng,huì" info="省政府所在地。" />
+		<phrase hz="省事" py="shěng,shì" duoyin="xǐng,shì" info="1.減少辦事的手續。2.方便、不麻煩。" />
+		<phrase hz="省心" py="shěng,xīn" info="不费心;少操心" />
+		<phrase hz="省垣" py="shěng,yuán" info="省会;省城" />
+		<definition id="一">
+			<item id="1" text="行政区划单位，直属中央。" />
+			<item id="2" text="节约，不费：~钱. ~时间. ~事." />
+			<item id="3" text="简约（(连)-略）：~称. ~写." />
+		</definition>
+	</char>
+	<char hz="省" py="xǐng" multi="shěng">
+		<phrase hz="不省" py="bù,xǐng" info="1.不認識。2.不知道、不瞭解。3.不理會。" />
+		<phrase hz="不省人事" py="bù,xǐng,rén,shì" />
+		<phrase hz="晨昏定省" py="chén,hūn,dìng,xǐng" info="子女侍奉父母的日常儀節。" />
+		<phrase hz="晨省" py="chén,xǐng" info="早晨向父母问安。亦指昏定晨省之礼。" />
+		<phrase hz="定省" py="dìng,xǐng" info="1.《礼记·曲礼上》：“凡为人子之礼，冬温而夏凊，昏定而晨省。”郑玄注：“定，安其牀衽也；省，问其安否何如。”后因称子女早晚向亲长问安为“定省”。 2.泛指探望问候父母或亲长。" />
+		<phrase hz="发人深省" py="fā,rén,shēn,xǐng" info="唐·杜甫《游龙门奉先寺》:“欲觉闻晨钟,令人发深省。” 后以“发人深省”谓启发人深刻醒悟" />
+		<phrase hz="反省" py="fǎn,xǐng" info="回想自己的言行，检查其中的错误" />
+		<phrase hz="归省" py="guī,xǐng" info="回乡省亲" />
+		<phrase hz="警省" py="jǐng,xǐng" info="警戒省察；警悟自省。" />
+		<phrase hz="儆省" py="jǐng,xǐng" info="使人觉悟;反省" />
+		<phrase hz="猛省" py="měng,xǐng" info="1.深自反省。2.忽然覺悟。3.突然憶起。" />
+		<phrase hz="猛省前非" py="měng,xǐng,qián,fēi" />
+		<phrase hz="内省" py="nèi,xǐng" />
+		<phrase hz="省察" py="xǐng,chá" info="反省检查自己" />
+		<!-- <phrase hz="省会" py="xǐng,huì" duoyin="shěng,huì" info="1.知道、明白。2.吩咐、通知。3.會晤、相見。"/> -->
+		<phrase hz="省墓" py="xǐng,mù" info="祭掃先人的墳墓。" />
+		<!-- <phrase hz="省事" py="xǐng,shì" duoyin="shěng,shì" info="1.懂事，明白事理。2.視事，處理政務。"/> -->
+		<phrase hz="省亲" py="xǐng,qīn" info="探望父母或其他尊亲" />
+		<phrase hz="省视" py="xǐng,shì" info="1.看望。2.仔细地检查。" />
+		<phrase hz="省悟" py="xǐng,wù" info="同“醒悟”。" />
+		<phrase hz="自省" py="zì,xǐng" info="自我反省" />
+		<definition id="二">
+			<item id="1" text="检查自己：反~." />
+			<item id="2" text="知觉：不~人事." />
+			<item id="3" text="省悟，觉悟：猛~前非." />
+			<item id="4" text="看望，问候（父母、尊长）：~亲." />
+		</definition>
+	</char>
+</pinyin>

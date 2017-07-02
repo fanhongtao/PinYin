@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="供" py="gōng" multi="gòng">
+		<phrase hz="供不应求" py="gōng,bù,yìng,qiú" />
+		<phrase hz="供参考" py="gōng,cān,kǎo" />
+		<phrase hz="供给" py="gōng,jǐ" />
+		<phrase hz="供给制" py="gōng,jǐ,zhì" />
+		<phrase hz="供求" py="gōng,qiú" />
+		<phrase hz="供销" py="gōng,xiāo" />
+		<phrase hz="供养" py="gōng,yǎng" />
+		<phrase hz="供应" py="gōng,yìng" />
+		<phrase hz="提供" py="tí,gōng" />
+		<definition id="一">
+			<item text="供给(jǐ)，准备着东西给需要的人应用：~养. 提~. ~销. ~求相应. ~参考. [供给制]对工作人员不给工资，只供给生活必需品的一种制度。" />
+		</definition>
+	</char>
+	<char hz="供" py="gòng" multi="gōng" main="1">
+		<phrase hz="逼供" py="bī,gòng" info="強迫嫌犯招認。" />
+		<phrase hz="笔供" py="bǐ,gòng" info="用文字写出来的供词" />
+		<phrase hz="串供" py="chuàn,gòng" info="同案犯人互相串通,编造口供" />
+		<phrase hz="供词" py="gòng,cí" />
+		<phrase hz="供奉" py="gòng,fèng" />
+		<phrase hz="供品" py="gòng,pǐn" info="供奉神佛祖先用的瓜果、酒食等物品" />
+		<phrase hz="供认" py="gòng,rèn" info="1.不愿意地承认短处、失败、懈怠、过失或罪责。2.[在刑法中]被告对于某一事实或断言的真实性予以承认。" />
+		<phrase hz="供职" py="gòng,zhí" info="任职" />
+		<phrase hz="翻供" py="fān,gòng" info="推翻自己所供认的话语" />
+		<phrase hz="口供" py="kǒu,gòng" info="受审者口头陈述的供词" />
+		<phrase hz="招供" py="zhāo,gòng" info="犯人招认自供其罪状" />
+		<phrase hz="指供" py="zhǐ,gòng" info="1.审讯人员指定被告按主观性审判意图招供。2.证人指出案犯特征,提供有关证据。" />
+		<definition id="二">
+			<item id="1" text="向神佛或死者奉献祭品：~佛." />
+			<item id="2" text="指奉献的祭品：上~." />
+			<item id="3" text="被审问时在法庭上述说事实：招~. 口~. ~状. ~认." />
+		</definition>
+	</char>
+</pinyin>

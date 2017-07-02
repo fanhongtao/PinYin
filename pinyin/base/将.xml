@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="将" py="jiāng" multi="jiàng" main="1">
+		<phrase hz="即将" py="jí,jiāng" info="正要;就要" />
+		<phrase hz="将计就计" py="jiāng,jì,jiù,jì" info="利用对方所用的计策，反过来对付对方。" />
+		<phrase hz="将将" py="jiāng,jiāng" info="刚刚;刚好" />
+		<phrase hz="将近" py="jiāng,jìn" info="将要接近某数字或情况" />
+		<phrase hz="将就" py="jiāng,jiu" info="勉强适应，凑合" />
+		<phrase hz="将军" py="jiāng,jūn" info="1.武官名。2.宋将军家。--明.魏禧《大铁椎传》 3.军衔名，在校级之上。通常分四级，少将、中将、上将和大将。4.下象棋时攻击对方的将或帅。5.将国际象棋中的王暴露在对方棋子前，以致如果不是王被马上保护起来(如在其间放上另一棋子)，则下一步便可能被对方吃掉。6.比喻给人出难题，使人感到难办" />
+		<phrase hz="将来" py="jiāng,lái" />
+		<phrase hz="将息" py="jiāng,xī" info="调养休息;保养" />
+		<phrase hz="将心比心" py="jiāng,xīn,bǐ,xīn" info="设身处地地为别人着想。" />
+		<phrase hz="将信将疑" py="jiāng,xìn,jiāng,yí" info="将：且，又。有点相信，又有点怀疑。" />
+		<phrase hz="将养" py="jiāng,yǎng" info="1.休养身体。2.侍奉赡养。" />
+		<phrase hz="将要" py="jiāng,yào" info="用在动词前面，表示行为或情况在不久以后发生;即将" />
+		<phrase hz="行将" py="xíng,jiāng" info="不久就要;将要" />
+		<definition id="一">
+			<item id="1" text="副词，将要，快要：天~明. 后日~返京. [将来]未来：我们的劳动是为了更美好的~~." />
+			<item id="2" text="介词，把：~革命进行到底." />
+			<item id="3" text="下象棋时攻击对方的“将”或“帅”：~军（也比喻使人为难）." />
+			<item id="4" text="用言语刺激：别把他~急了." />
+			<item id="5" text="带，领，扶助：~雏. 扶~. [将军]对高级军官的称呼。" />
+			<item id="6" text="保养：~养. ~息." />
+			<item id="7" text="〈方〉兽类生子：~驹. ~小猪." />
+			<item id="8" text="助词，用在动词和“出来”、“起来”、“上去”等的中间：走~出来. 叫~起来. 赶~上去." />
+			<item id="9" text="姓。" />
+			<item text="[将就](-jiu)勉强适应，凑合：~~着用." />
+		</definition>
+	</char>
+	<char hz="将" py="jiàng" multi="jiāng">
+		<phrase hz="闯将" py="chuǎng,jiàng" info="冲锋陷阵的猛将。" />
+		<phrase hz="大将" py="dà,jiàng" info="1.军衔。将官的最高一级。2.比喻某一集团中的重要人物。3.高级将领的泛称。" />
+		<phrase hz="福将" py="fú,jiàng" info="1.有福运的将领。2.比喻幸运的人。" />
+		<phrase hz="副将" py="fù,jiàng" info="各级主将的辅佐将领。亦为官名。" />
+		<phrase hz="虎将" py="hǔ,jiàng" info="勇将。勇猛的人。" />
+		<phrase hz="激将" py="jī,jiàng" info="用反话去激人，促使人决心去做。" />
+		<phrase hz="健将" py="jiàn,jiàng" info="1.某种活动中的能手。2.运动员等级中最高一级的称号，由国家授予。3.古时指英勇善战的将领。" />
+		<phrase hz="将兵" py="jiàng,bīng" />
+		<phrase hz="将领" py="jiàng,lǐng" />
+		<phrase hz="将令" py="jiàng,lìng" info="将帅的命令;军令" />
+		<phrase hz="将帅" py="jiàng,shuài" info="1.将领。2.“文将帅”之省称。" />
+		<phrase hz="将校" py="jiàng,xiào" info="将官和校官，泛指高级军官;军令" />
+		<phrase hz="麻将" py="má,jiàng" info="牌类娱乐用具，用竹子、骨头或塑料制成的小长方块，上面刻有花纹或字样，每副136张。" />
+		<phrase hz="猛将" py="měng,jiàng" info="勇敢、威猛的武将。比喻不怕困难，敢于进取的人。" />
+		<phrase hz="裨将" py="pí,jiàng" info="副将;专任一方的将领" />
+		<phrase hz="儒将" py="rú,jiàng" info="有文人风度的将帅。" />
+		<phrase hz="上将" py="shàng,jiàng" info="1.指地位高的将领。2.军衔的一级。将官中的一级，低于大将，高于中将。" />
+		<phrase hz="少将" py="shào,jiàng" />
+		<phrase hz="武将" py="wǔ,jiàng" info="指军官;将领" />
+		<phrase hz="骁将" py="xiāo,jiàng" info="勇将，猛将。" />
+		<phrase hz="中将" py="zhōng,jiàng" info="军衔，低于上将，高于少将。" />
+		<phrase hz="主将" py="zhǔ,jiàng" info="1.军队的主要将领。2.起到关健作用的人。" />
+		<definition id="二">
+			<item id="1" text="军衔名。在校级之上。 [将领]较高级的军官。" />
+			<item id="2" text="统率指挥：~兵." />
+		</definition>
+	</char>
+</pinyin>

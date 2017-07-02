@@ -36,24 +36,9 @@
 	<char hz="衬" py="chèn" />
 	<char hz="疢" py="chèn" />
 	<char hz="龀" py="chèn" />
-	<char hz="称" py="chèn" multi="chēng,chèng">
-		<phrase hz="称心" py="chèn,xīn" />
-		<phrase hz="称愿" py="chèn,yuàn" />
-		<phrase hz="称职" py="chèn,zhí" />
-		<phrase hz="对称" py="duì,chèn" />
-		<phrase hz="相称" py="xiāng,chèn" />
-		<phrase hz="匀称" py="yún,chèn" />
-		<definition id="二">
-			<item text="适合：~心. ~职. 相~. [对称]两边相等或相当。" />
-		</definition>
-	</char>
+	<!-- Ref:称.xml <char hz="称" py="chèn" multi="chēng,chèng" /> -->
 	<char hz="趁" py="chèn" />
 	<char hz="榇" py="chèn" />
 	<char hz="谶" py="chèn" />
-	<char hz="伧" py="chen" multi="cāng" info="Word主音">
-		<phrase hz="寒伧" py="hán,chen" info="难看；不体面；丢脸。" />
-		<definition id="二">
-			<item text="[寒伧]旧同“寒碜”。参看“碜”(chěn)。" />
-		</definition>
-	</char>
+	<!-- Ref:伧.xml <char hz="伧" py="chen" multi="cāng" info="Word主音" /> -->
 </pinyin>

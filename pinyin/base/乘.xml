@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="乘" py="chéng" multi="shèng" main="1">
+		<phrase hz="乘便" py="chéng,biàn" />
+		<phrase hz="乘槎" py="chéng,chá" info="1.指上天。2.比喻入朝做官。" />
+		<phrase hz="乘车" py="chéng,chē" />
+		<phrase hz="乘船" py="chéng,chuán" />
+		<phrase hz="乘法" py="chéng,fǎ" />
+		<phrase hz="乘方" py="chéng,fāng" />
+		<phrase hz="乘风" py="chéng,fēng" />
+		<phrase hz="乘飞机" py="chéng,fēi,jī" />
+		<phrase hz="乘号" py="chéng,hào" />
+		<phrase hz="乘黄" py="chéng,huáng" info="传说中的神马" />
+		<phrase hz="乘机" py="chéng,jī" />
+		<phrase hz="乘积" py="chéng,jī" />
+		<phrase hz="乘坚策肥" py="chéng,jiān,cè,féi" info="乘坚车而策肥马。比喻富贵奢华" />
+		<phrase hz="乘警" py="chéng,jǐng" info="列车上的治安警察" />
+		<phrase hz="乘客" py="chéng,kè" />
+		<phrase hz="乘凉" py="chéng,liáng" />
+		<phrase hz="乘龙" py="chéng,lóng" />
+		<phrase hz="乘马" py="chéng,mǎ" />
+		<phrase hz="乘幂" py="chéng,mì" />
+		<phrase hz="乘其不备" py="chéng,qí,bù,bèi" />
+		<phrase hz="乘其不意" py="chéng,qí,bù,yì" />
+		<phrase hz="乘人之危" py="chéng,rén,zhī,wēi" />
+		<phrase hz="乘胜" py="chéng,shèng" info="胜利之后不停歇地继续干。如：乘胜追击" />
+		<phrase hz="乘时" py="chéng,shí" />
+		<phrase hz="乘势" py="chéng,shì" />
+		<phrase hz="乘数" py="chéng,shù" />
+		<phrase hz="乘务员" py="chéng,wù,yuán" />
+		<phrase hz="乘隙" py="chéng,xì" />
+		<phrase hz="乘兴" py="chéng,xìng" />
+		<phrase hz="乘虚" py="chéng,xū" info="趁着没有提防;借虚弱之机。如：乘虚而入" />
+		<phrase hz="乘坐" py="chéng,zuò" />
+		<phrase hz="出乘" py="chū,chéng" info="乘务员随车工作。" />
+		<phrase hz="搭乘" py="dā,chéng" />
+		<phrase hz="大乘" py="dà,chéng" />
+		<phrase hz="佛乘" py="fó,chéng" info="1.佛教谓教导众生成佛之法。因其为唯一之法，故又名“一佛乘”、“一乘”。2.佛教经典。" />
+		<phrase hz="可乘" py="kě,chéng" info="如：有机(隙)可乘, 无机(隙)可乘" />
+		<phrase hz="菩萨乘" py="pú,sà,chéng" info="佛教三乘之一。" />
+		<phrase hz="三乘" py="sān,chéng" info="佛教语。一般指小乘(声闻乘)、中乘(缘觉乘)和大乘(菩萨乘)。三者均为浅深不同的解脱之道。亦泛指佛法。" />
+		<phrase hz="上乘" py="shàng,chéng" duoyin="shàng,shèng" info="佛教语。" />
+		<phrase hz="声闻乘" py="shēng,wén,chéng" info="佛教三乘之一。" />
+		<phrase hz="下乘" py="xià,chéng" />
+		<phrase hz="相乘" py="xiāng,chéng" />
+		<phrase hz="小乘" py="xiǎo,chéng" />
+		<phrase hz="缘觉乘" py="yuán,jué,chéng" info="佛教三乘之一。" />
+		<phrase hz="自乘" py="zì,chéng" info="平方，将某个量或符号提升二次幂的行为或过程" />
+		<phrase hz="中乘" py="zhōng,chéng" />
+		<definition id="一">
+			<item id="1" text="骑，坐：~马. ~车. ~飞机." />
+			<item id="2" text="趁，就着：~便. ~机. ~势. ~兴(xìng)." />
+			<item id="3" text="算术中指一个数使另一个数变成若干倍：五~二等于十." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="乘" py="shèng" multi="chéng">
+		<phrase hz="千乘之国" py="qiān,shèng,zhī,guó" />
+		<phrase hz="千乘万骑" py="qiān,shèng,wàn,jì" />
+		<!-- <phrase hz="上乘" py="shàng,shèng" duoyin="shàng,chéng" info="四马共驾一车 或 上等的好马。" /> -->
+		<phrase hz="史乘" py="shǐ,shèng" />
+		<phrase hz="万乘" py="wàn,shèng" info="指天子。周制,天子地方千里,出兵车万乘,诸侯地方百里,出兵车千乘,故称天子为“万乘”" />
+		<phrase hz="野乘" py="yě,shèng" info="野史" />
+		<definition id="二">
+			<item id="1" text="春秋时晋国的史书叫乘，后因称一般的史书为乘：史~." />
+			<item id="2" text="量词，古代用于四匹马拉的兵车：千~之国." />
+		</definition>
+	</char>
+</pinyin>

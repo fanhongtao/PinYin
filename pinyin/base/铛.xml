@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="铛" py="chēng" multi="dāng">
+		<phrase hz="饼铛" py="bǐng,chēng" />
+		<phrase hz="茶铛" py="chá,chēng" info="煎茶用的釜。" />
+		<phrase hz="铛户" py="chēng,hù" info="以煎盐为业的人家。" />
+		<phrase hz="铛头" py="chēng,tóu" info="执掌烹饪的厨师。" />
+		<phrase hz="鼎铛" py="dǐng,chēng" info="鼎和铛。泛指煮器。" />
+		<phrase hz="酒铛" py="jiǔ,chēng" info="旧时一种三足温酒器。" />
+		<phrase hz="茗铛" py="míng,chēng" info="即茶铛。" />
+		<phrase hz="石铛" py="shí,chēng" info="陶制烹茶器具。" />
+		<phrase hz="瓦铛" py="wǎ,chēng" info="陶制炊器。" />
+		<phrase hz="铫铛" py="yáo,chēng" info="铫子。煎药或烧水用的器具" />
+		<phrase hz="油铛" py="yóu,chēng" info="1.指盛有沸油的锅。比喻险境。2.沾有油脂的锅。指烧菜的锅。" />
+		<definition id="二">
+			<item text="烙饼或做菜用的平底浅锅：电饼~。" />
+		</definition>
+	</char>
+	<char hz="铛" py="dāng" multi="chēng" main="1">
+		<phrase hz="锒铛" py="láng,dāng" info="锁系囚人的铁索" />
+		<phrase hz="铃铛" py="líng,dang" />
+		<definition id="一">
+			<item text="同“当(一)(7)”。" />
+		</definition>
+	</char>
+</pinyin>

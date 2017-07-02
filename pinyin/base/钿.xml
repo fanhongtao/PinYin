@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钿" py="diàn" multi="tián" main="1">
+		<phrase hz="宝钿" py="bǎo,diàn" />
+		<phrase hz="钿合" py="diàn,hé" info="亦作“钿盒”。镶嵌金、银、玉、贝的首饰盒子。" />
+		<phrase hz="钿金" py="diàn,jīn" info="1.镶嵌金、银、玉、贝的首饰、器物。2.用金、银、玉、贝等物镶嵌首饰、器物。" />
+		<phrase hz="钿窠" py="diàn,kē" info="用金、银、玉、贝等物镶嵌的界格花纹。" />
+		<phrase hz="钿筐" py="diàn,kuāng" info="镶嵌金、银、玉、贝等物的小簪。" />
+		<phrase hz="钿笼" py="diàn,lóng" info="镶嵌金、银、玉、贝等物的帘笼。" />
+		<phrase hz="钿螺" py="diàn,luó" info="。" />
+		<phrase hz="钿匣" py="diàn,xiá" info="用金、银、玉、贝等镶嵌的小箱子。如镜匣、砚匣、书画匣等。" />
+		<phrase hz="钿砌" py="diàn,qì" info="1.镶嵌金、银、玉、贝壳等物的台阶。2.用金、银、玉、贝等物砌迭。" />
+		<phrase hz="钿扇" py="diàn,shàn" info="1.镶嵌金、银、玉、贝等物的团扇。2.多比喻荷叶。" />
+		<phrase hz="宫钿" py="gōng,diàn" info="宫中用的花形金质首饰。借指宫女。" />
+		<phrase hz="螺钿" py="luó,diàn" info="一种手工艺，把贝壳镶嵌在器物上。" />
+		<phrase hz="香钿" py="xiāng,diàn" info="古时妇女贴在额上鬓颊饰物的美称。" />
+		<phrase hz="靥钿" py="yè,diàn" info="古代妇女妆饰面颊的妆饰物。" />
+		<definition id="一">
+			<item id="1" text="把金属、宝石等镶嵌(qiàn)在器物上作装饰：宝~. 螺~（一种手工艺，把贝壳镶嵌在器物上）." />
+			<item id="2" text="古代一种嵌金花的首饰。" />
+		</definition>
+	</char>
+	<char hz="钿" py="tián" multi="diàn">
+		<phrase hz="铜钿" py="tóng,tián" />
+		<phrase hz="洋钿" py="yáng,tián" />
+		<definition id="二">
+			<item text="〈方〉钱，硬币：铜~. 洋~." />
+		</definition>
+	</char>
+</pinyin>

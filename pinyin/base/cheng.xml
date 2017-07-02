@@ -3,74 +3,8 @@
 	<char hz="柽" py="chēng" />
 	<char hz="蛏" py="chēng" />
 	<char hz="琤" py="chēng" />
-	<char hz="称" py="chēng" multi="chèn,chèng" main="1">
-		<phrase hz="爱称" py="ài,chēng" />
-		<phrase hz="贬称" py="biǎn,chēng" />
-		<phrase hz="别称" py="bié,chēng" />
-		<phrase hz="称霸" py="chēng,bà" />
-		<phrase hz="称兵" py="chēng,bīng" />
-		<phrase hz="称病" py="chēng,bìng" />
-		<phrase hz="称道" py="chēng,dào" />
-		<phrase hz="称贷" py="chēng,dài" />
-		<phrase hz="称孤道寡" py="chēng,gū,dào,guǎ" />
-		<phrase hz="称号" py="chēng,hào" />
-		<phrase hz="称贺" py="chēng,hè" />
-		<phrase hz="称呼" py="chēng,hū" />
-		<phrase hz="称快" py="chēng,kuài" />
-		<phrase hz="称说" py="chēng,shuō" />
-		<phrase hz="称颂" py="chēng,sòng" />
-		<phrase hz="称谓" py="chēng,wèi" />
-		<phrase hz="称王称霸" py="chēng,wáng,chēng,bà" />
-		<phrase hz="称兄道弟" py="chēng,xiōng,dào,dì" />
-		<phrase hz="称雄" py="chēng,xióng" />
-		<phrase hz="称许" py="chēng,xǔ" />
-		<phrase hz="称扬" py="chēng,yáng" />
-		<phrase hz="称引" py="chēng,yǐn" />
-		<phrase hz="称誉" py="chēng,yù" />
-		<phrase hz="称赞" py="chēng,zàn" />
-		<phrase hz="改称" py="gǎi,chēng" />
-		<phrase hz="号称" py="hào,chēng" />
-		<phrase hz="简称" py="jiǎn,chēng" />
-		<phrase hz="堪称" py="kān,chēng" />
-		<phrase hz="口称" py="kǒu,chēng" />
-		<phrase hz="略称" py="lüè,chēng" />
-		<phrase hz="冒称" py="mào,chēng" />
-		<phrase hz="美称" py="měi,chēng" />
-		<phrase hz="名称" py="míng,chēng" />
-		<phrase hz="昵称" py="nì,chēng" />
-		<phrase hz="谦称" py="qiān,chēng" />
-		<phrase hz="人称" py="rén,chēng" />
-		<phrase hz="俗称" py="sú,chēng" />
-		<phrase hz="统称" py="tǒng,chēng" />
-		<phrase hz="妄称" py="wàng,chēng" />
-		<phrase hz="自称" py="zì,chēng" />
-		<phrase hz="总称" py="zǒng,chēng" />
-		<phrase hz="尊称" py="zūn,chēng" />
-		<definition id="一">
-			<item id="1" text="量轻重：把这包米~-~." />
-			<item id="2" text="叫，叫作：自~. ~得起英雄." />
-			<item id="3" text="名称：简~. 别~." />
-			<item id="4" text="说：~病. 连声~好. 拍手~快." />
-			<item id="5" text="赞扬：~许. ~道." />
-			<item id="6" text="举事：~兵." />
-		</definition>
-	</char>
-	<char hz="铛" py="chēng" multi="dāng">
-		<phrase hz="饼铛" py="bǐng,chēng" />
-		<phrase hz="茶铛" py="chá,chēng" info="煎茶用的釜。" />
-		<phrase hz="铛户" py="chēng,hù" info="以煎盐为业的人家。" />
-		<phrase hz="铛头" py="chēng,tóu" info="执掌烹饪的厨师。" />
-		<phrase hz="鼎铛" py="dǐng,chēng" info="鼎和铛。泛指煮器。" />
-		<phrase hz="酒铛" py="jiǔ,chēng" info="旧时一种三足温酒器。" />
-		<phrase hz="茗铛" py="míng,chēng" info="即茶铛。" />
-		<phrase hz="石铛" py="shí,chēng" info="陶制烹茶器具。" />
-		<phrase hz="瓦铛" py="wǎ,chēng" info="陶制炊器。" />
-		<phrase hz="铫铛" py="yáo,chēng" info="铫子。煎药或烧水用的器具" />
-		<phrase hz="油铛" py="yóu,chēng" info="1.指盛有沸油的锅。比喻险境。2.沾有油脂的锅。指烧菜的锅。" />
-		<definition id="二">
-			<item text="烙饼或做菜用的平底浅锅：电饼~。" />
-		</definition>
-	</char>
+	<!-- Ref:称.xml <char hz="称" py="chēng" multi="chèn,chèng" main="1" /> -->
+	<!-- Ref:铛.xml <char hz="铛" py="chēng" multi="dāng" /> -->
 	<char hz="赪" py="chēng" />
 	<char hz="撑" py="chēng" />
 	<char hz="瞠" py="chēng" />
@@ -78,15 +12,7 @@
 	<char hz="诚" py="chéng" />
 	<char hz="城" py="chéng" />
 	<char hz="宬" py="chéng" />
-	<char hz="盛" py="chéng" multi="shèng">
-		<phrase hz="盛饭" py="chéng,fàn" />
-		<phrase hz="盛器" py="chéng,qì" />
-		<phrase hz="盛水" py="chéng,shuǐ" />
-		<definition id="二">
-			<item id="1" text="把东西放进去：~饭." />
-			<item id="2" text="容纳：这礼堂能~几千人." />
-		</definition>
-	</char>
+	<!-- Ref:盛.xml <char hz="盛" py="chéng" multi="shèng" /> -->
 	<char hz="铖" py="chéng" />
 	<char hz="丞" py="chéng">
 		<phrase hz="丞相" py="chéng,xiàng" />
@@ -101,74 +27,10 @@
 		<phrase hz="承教" py="chéng,jiào" />
 		<phrase hz="承应" py="chéng,yìng" />
 	</char>
-	<char hz="乘" py="chéng" multi="shèng" main="1">
-		<phrase hz="乘便" py="chéng,biàn" />
-		<phrase hz="乘槎" py="chéng,chá" info="1.指上天。2.比喻入朝做官。" />
-		<phrase hz="乘车" py="chéng,chē" />
-		<phrase hz="乘船" py="chéng,chuán" />
-		<phrase hz="乘法" py="chéng,fǎ" />
-		<phrase hz="乘方" py="chéng,fāng" />
-		<phrase hz="乘风" py="chéng,fēng" />
-		<phrase hz="乘飞机" py="chéng,fēi,jī" />
-		<phrase hz="乘号" py="chéng,hào" />
-		<phrase hz="乘黄" py="chéng,huáng" info="传说中的神马" />
-		<phrase hz="乘机" py="chéng,jī" />
-		<phrase hz="乘积" py="chéng,jī" />
-		<phrase hz="乘坚策肥" py="chéng,jiān,cè,féi" info="乘坚车而策肥马。比喻富贵奢华" />
-		<phrase hz="乘警" py="chéng,jǐng" info="列车上的治安警察" />
-		<phrase hz="乘客" py="chéng,kè" />
-		<phrase hz="乘凉" py="chéng,liáng" />
-		<phrase hz="乘龙" py="chéng,lóng" />
-		<phrase hz="乘马" py="chéng,mǎ" />
-		<phrase hz="乘幂" py="chéng,mì" />
-		<phrase hz="乘其不备" py="chéng,qí,bù,bèi" />
-		<phrase hz="乘其不意" py="chéng,qí,bù,yì" />
-		<phrase hz="乘人之危" py="chéng,rén,zhī,wēi" />
-		<phrase hz="乘胜" py="chéng,shèng" info="胜利之后不停歇地继续干。如：乘胜追击" />
-		<phrase hz="乘时" py="chéng,shí" />
-		<phrase hz="乘势" py="chéng,shì" />
-		<phrase hz="乘数" py="chéng,shù" />
-		<phrase hz="乘务员" py="chéng,wù,yuán" />
-		<phrase hz="乘隙" py="chéng,xì" />
-		<phrase hz="乘兴" py="chéng,xìng" />
-		<phrase hz="乘虚" py="chéng,xū" info="趁着没有提防;借虚弱之机。如：乘虚而入" />
-		<phrase hz="乘坐" py="chéng,zuò" />
-		<phrase hz="出乘" py="chū,chéng" info="乘务员随车工作。" />
-		<phrase hz="搭乘" py="dā,chéng" />
-		<phrase hz="大乘" py="dà,chéng" />
-		<phrase hz="佛乘" py="fó,chéng" info="1.佛教谓教导众生成佛之法。因其为唯一之法，故又名“一佛乘”、“一乘”。2.佛教经典。" />
-		<phrase hz="可乘" py="kě,chéng" info="如：有机(隙)可乘, 无机(隙)可乘" />
-		<phrase hz="菩萨乘" py="pú,sà,chéng" info="佛教三乘之一。" />
-		<phrase hz="三乘" py="sān,chéng" info="佛教语。一般指小乘(声闻乘)、中乘(缘觉乘)和大乘(菩萨乘)。三者均为浅深不同的解脱之道。亦泛指佛法。" />
-		<phrase hz="上乘" py="shàng,chéng" duoyin="shàng,shèng" info="佛教语。" />
-		<phrase hz="声闻乘" py="shēng,wén,chéng" info="佛教三乘之一。" />
-		<phrase hz="下乘" py="xià,chéng" />
-		<phrase hz="相乘" py="xiāng,chéng" />
-		<phrase hz="小乘" py="xiǎo,chéng" />
-		<phrase hz="缘觉乘" py="yuán,jué,chéng" info="佛教三乘之一。" />
-		<phrase hz="自乘" py="zì,chéng" info="平方，将某个量或符号提升二次幂的行为或过程" />
-		<phrase hz="中乘" py="zhōng,chéng" />
-		<definition id="一">
-			<item id="1" text="骑，坐：~马. ~车. ~飞机." />
-			<item id="2" text="趁，就着：~便. ~机. ~势. ~兴(xìng)." />
-			<item id="3" text="算术中指一个数使另一个数变成若干倍：五~二等于十." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:乘.xml <char hz="乘" py="chéng" multi="shèng" main="1" /> -->
 	<char hz="惩" py="chéng" />
 	<char hz="塍" py="chéng" />
-	<char hz="澄" py="chéng" multi="dèng" main="1">
-		<phrase hz="碧澄" py="bì,chéng" info="[水、天空]碧蓝而明净" />
-		<phrase hz="澄澄" py="chéng,chéng" info="自定义词。如：红澄澄、黄澄澄" />
-		<phrase hz="澄澈" py="chéng,chè" info="清澈、明亮" />
-		<phrase hz="澄静" py="chéng,jìng" info="清澈而又不泛波澜" />
-		<phrase hz="澄净" py="chéng,jìng" info="澄澈明净" />
-		<phrase hz="澄清" py="chéng,qīng" duoyin="dèng,qīng" info="清澈，清亮。(喻)搞清楚，搞明白。" />
-		<phrase hz="清澄" py="qīng,chéng" info="清明;清澈" />
-		<definition id="一">
-			<item text="水清。[澄清]清澈，清亮：溪水~~. (喻)搞清楚，搞明白：把问题~~一下." />
-		</definition>
-	</char>
+	<!-- Ref:澄.xml <char hz="澄" py="chéng" multi="dèng" main="1" /> -->
 	<char hz="橙" py="chéng" />
 	<char hz="逞" py="chěng" />
 	<char hz="骋" py="chěng" />
@@ -177,10 +39,6 @@
 			<item text="衡量轻重的器具。" />
 		</definition>
 	</char>
-	<char hz="称" py="chèng" multi="chèn,chēng">
-		<definition id="三">
-			<item text="同“秤”。" />
-		</definition>
-	</char>
+	<!-- Ref:称.xml <char hz="称" py="chèng" multi="chèn,chēng" /> -->
 	<char hz="牚" py="chèng" />
 </pinyin>

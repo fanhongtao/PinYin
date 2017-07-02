@@ -16,24 +16,14 @@
 	<char hz="勔" py="miǎn" />
 	<char hz="湎" py="miǎn" />
 	<char hz="缅" py="miǎn" />
-	<char hz="䩄" py="miǎn" multi="tiǎn">
-		<phrase hz="䩄觍" py="miǎn,tiǎn" />
-		<definition id="一">
-			<item text="[䩄觍](-tiǎn)旧同“腼腆”。" />
-		</definition>
-	</char>
+	<!-- Ref:䩄.xml <char hz="䩄" py="miǎn" multi="tiǎn" /> -->
 	<char hz="腼" py="miǎn">
 		<phrase hz="腼腆" py="miǎn,tiǎn" />
 		<definition>
 			<item text="[腼腆](-tiǎn)害羞，不敢见生人：这孩子太~~." />
 		</definition>
 	</char>
-	<char hz="渑" py="miǎn" multi="shéng">
-		<phrase hz="渑池" py="miǎn,chí" />
-		<definition id="一">
-			<item text="[渑池]地名，在河南省。" />
-		</definition>
-	</char>
+	<!-- Ref:渑.xml <char hz="渑" py="miǎn" multi="shéng" /> -->
 	<char hz="面" py="miàn">
 		<phrase hz="面子" py="miàn,zi" />
 	</char>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="佃" py="diàn" multi="tián" main="1">
+		<phrase hz="承佃" py="chéng,diàn" info="旧社会农民向地主租种土地" />
+		<phrase hz="佃东" py="diàn,dōng" info="旧时佃户称租给他土地的地主。" />
+		<phrase hz="佃户" py="diàn,hù" />
+		<phrase hz="佃科" py="diàn,kē" info="官田收租的章程。" />
+		<phrase hz="佃农" py="diàn,nóng" />
+		<phrase hz="佃契" py="diàn,qì" />
+		<phrase hz="分佃" py="fēn,diàn" />
+		<phrase hz="田佃" py="tián,diàn" info="封建社会中，占有土地的封建主把土地租给农民耕种，收取地租。这是地主剥削农民的主要形式。" />
+		<phrase hz="永佃" py="yǒng,diàn" info="旧时佃农依约向地主交纳地租，永久使用其土地以进行生产的一种租佃形式。" />
+		<phrase hz="召佃" py="zū,diàn" info="招人租种土地。" />
+		<phrase hz="租佃" py="zū,diàn" info="土地所有者出租土地而由农民承佃" />
+		<definition id="一">
+			<item text="一般指旧社会无地或少地的农民，被迫向地主、富农租地耕种：~户. ~农." />
+		</definition>
+	</char>
+	<char hz="佃" py="tián" multi="diàn">
+		<phrase hz="佃器" py="tián,qì" info="农具。" />
+		<phrase hz="佃渔" py="tián,yú" info="1.猎兽和捕鱼。佃，通“畋”。 2.指涉猎。" />
+		<phrase hz="佃作" py="tián,zuò" />
+		<definition id="二">
+			<item text="佃作，耕种田地。" />
+		</definition>
+	</char>
+</pinyin>

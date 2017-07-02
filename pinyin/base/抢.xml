@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="抢" py="qiāng" multi="qiǎng">
+		<phrase hz="呼天抢地" py="hū,tiān,qiāng,dì" />
+		<definition id="二">
+			<item text="同“戗(qiāng)(1)”。" />
+		</definition>
+	</char>
+	<char hz="抢" py="qiǎng" multi="qiāng" main="1" suppressLog="1">
+		<phrase hz="抢占" py="qiǎng,zhàn" info="抢在敌人前面占领有利地形或重要地点的作战行动" />
+		<definition id="一">
+			<item id="1" text="夺，硬拿（(连)-夺）：~球. ~劫. 他把我的信~去了." />
+			<item id="2" text="赶快，赶紧，争先：~着把活做了. ~修河堤." />
+			<item id="3" text="刮，擦（去掉表面的一层）：磨剪子~菜刀. 摔了一跤，把肉皮~去一大块." />
+		</definition>
+	</char>
+</pinyin>

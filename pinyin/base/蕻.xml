@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蕻" py="hóng" multi="hòng" info="Word主音">
+		<phrase hz="雪里蕻" py="xuě,lǐ,hóng" />
+		<definition id="二">
+			<item text="[雪里蕻]一种像芥菜的菜，茎叶可以吃。也叫作“雪里红”。" />
+		</definition>
+	</char>
+	<char hz="蕻" py="hòng" multi="hóng" main="1">
+		<definition id="一">
+			<item id="1" text="茂盛。" />
+			<item id="2" text="〈方〉某些蔬菜的长茎：菜~." />
+		</definition>
+	</char>
+</pinyin>

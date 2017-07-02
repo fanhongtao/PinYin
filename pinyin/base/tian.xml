@@ -4,23 +4,10 @@
 	<char hz="添" py="tiān" />
 	<char hz="黇" py="tiān" />
 	<char hz="田" py="tián" />
-	<char hz="佃" py="tián" multi="diàn">
-		<phrase hz="佃器" py="tián,qì" info="农具。" />
-		<phrase hz="佃渔" py="tián,yú" info="1.猎兽和捕鱼。佃，通“畋”。 2.指涉猎。" />
-		<phrase hz="佃作" py="tián,zuò" />
-		<definition id="二">
-			<item text="佃作，耕种田地。" />
-		</definition>
-	</char>
+	<!-- Ref:佃.xml <char hz="佃" py="tián" multi="diàn" /> -->
 	<char hz="畋" py="tián" />
 	<char hz="畑" py="tián" />
-	<char hz="钿" py="tián" multi="diàn">
-		<phrase hz="铜钿" py="tóng,tián" />
-		<phrase hz="洋钿" py="yáng,tián" />
-		<definition id="二">
-			<item text="〈方〉钱，硬币：铜~. 洋~." />
-		</definition>
-	</char>
+	<!-- Ref:钿.xml <char hz="钿" py="tián" multi="diàn" /> -->
 	<char hz="恬" py="tián" />
 	<char hz="甜" py="tián" />
 	<char hz="湉" py="tián" />
@@ -39,11 +26,6 @@
 		</definition>
 	</char>
 	<char hz="腆" py="tiǎn" />
-	<char hz="䩄" py="tiǎn" multi="miǎn" main="1">
-		<definition id="二">
-			<item id="1" text="同“觍”。" />
-			<item id="2" text="〈古〉形容人脸的样子：~然人面." />
-		</definition>
-	</char>
+	<!-- Ref:䩄.xml <char hz="䩄" py="tiǎn" multi="miǎn" main="1" /> -->
 	<char hz="掭" py="tiàn" />
 </pinyin>

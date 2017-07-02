@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="浆" py="jiāng" multi="jiàng" main="1">
+		<phrase hz="豆浆" py="dòu,jiāng" info="用水冲的大豆粉或磨得很细的大豆浆" />
+		<phrase hz="翻浆" py="fān,jiāng" info="春暖解冻时地面或道路表面发生裂纹并渗出水分和泥浆。" />
+		<phrase hz="灌浆" py="guàn,jiāng" info="把水泥、灰浆等灌入砌块砖石之间的空隙中，使之凝结坚固;尤指水泥、石灰或石膏与砂子和水的混合物，在塑性状态或硬化状态下使用" />
+		<phrase hz="灰浆" py="huī,jiāng" info="一种能硬化的塑性建筑材料，用于砌筑或抹面;尤指水泥、石灰或石膏与砂子和水的混合物，在塑性状态或硬化状态下使用" />
+		<phrase hz="浆洗" py="jiāng,xǐ" info="洗涤并上浆" />
+		<phrase hz="酒浆" py="jiǔ,jiāng" info="酒" />
+		<phrase hz="脑浆" py="nǎo,jiāng" info="脑袋破裂后流出的脑髓" />
+		<phrase hz="泥浆" py="ní,jiāng" info="细粘土与水的混合物，具有乳浆稠度，用于注浆成形" />
+		<phrase hz="琼浆" py="qióng,jiāng" info="传说中神仙饮的仙水，代指好酒" />
+		<phrase hz="砂浆" py="shā,jiāng" info="砌砖石用的粘结物质，由沙子加水泥、石灰膏或粘土，再加水合成" />
+		<phrase hz="王浆" py="wáng,jiāng" info="又称“蜂乳”。工蜂上颚腺分泌的一种白色乳浆。养蜂的主要产品之一。" />
+		<phrase hz="血浆" py="xuè,jiāng" info="血液中的液体部分，区别于悬浮的物质(如细胞)，血浆不同于血清之处是它含有纤维蛋白原" />
+		<phrase hz="岩浆" py="yán,jiāng" info="地球内部呈液态或糊状的熔融岩石物质，通过冷却和结晶作用，变为火成岩的熔融物质或块体" />
+		<phrase hz="纸浆" py="zhǐ,jiāng" info="含有植物纤维的浆状物，用来造纸" />
+		<definition id="一">
+			<item id="1" text="比较浓的液体：纸~. 豆~. 泥~." />
+			<item id="2" text="用米汤或粉浆等浸润纱、布、衣服等物：~衣裳." />
+		</definition>
+	</char>
+	<char hz="浆" py="jiàng" multi="jiāng">
+		<phrase hz="浆糊" py="jiàng,hu" />
+		<phrase hz="浆子" py="jiàng,zi" />
+		<definition id="二">
+			<item text="[浆糊](-hu)[浆子](-zi)同“糨糊”、“糨子”。" />
+		</definition>
+	</char>
+</pinyin>

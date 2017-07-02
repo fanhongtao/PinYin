@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="虹" py="hóng" multi="jiàng" main="1">
+		<phrase hz="白虹" py="bái,hóng" info="日暈。" />
+		<phrase hz="彩虹" py="cǎi,hóng" />
+		<phrase hz="长虹" py="cháng,hóng" />
+		<phrase hz="丹虹" py="dān,hóng" info="1.赤色的虹。用以形容长条的彩帛。2.喻飞架的桥梁。" />
+		<phrase hz="断虹" py="duàn,hóng" info="一段彩虹；残虹。" />
+		<phrase hz="副虹" py="fù,hóng" info="即霓。大气中有时跟虹同时出现的一种光的现象，形成的原因和虹相同，只是光线在水珠中的反射比形成虹时多一次，彩带排列的顺序和虹相反，红色在内，紫色在外。颜色比虹淡。" />
+		<phrase hz="虹栋" py="hóng,dòng" info="彩色如虹的屋梁。" />
+		<phrase hz="虹旌" py="hóng,jīng" info="彩旗。" />
+		<phrase hz="虹膜" py="hóng,mó" info="位于眼球角膜和晶状体之间的圆盘状血管膜，中央为瞳孔，周围含有环形肌司瞳孔的缩小和开大。" />
+		<phrase hz="虹霓" py="hóng,ní" info="见“虹蜺”。" />
+		<phrase hz="虹蜺" py="hóng,ní" info="1.亦作“虹霓”。即螮蝀。为雨后或日出、日没之际天空中所现的七色圆弧。虹蜺常有内外二环，内环称虹，也称正虹、雄虹；外环称蜺，也称副虹、雌虹或雌蜺。 2.旧时以虹蜺色彩艳丽，比喻人的才华藻绘；又以虹蜺为二气不正之交，象征淫奔、作乱。" />
+		<phrase hz="虹旆" py="hóng,pèi" info="彩旗。" />
+		<phrase hz="虹桥" py="hóng,qiáo" info="1.拱曲如虹的长桥。2.古代攻城用具。" />
+		<phrase hz="虹吸" py="hóng,xī" info="利用液面高度差的作用力现象，将液体充满一根倒U形的管状结构内后，将开口高的一端置于装满液体的容器中，容器内的液体会持续通过虹吸管从开口于更低的位置流出。" />
+		<phrase hz="虹栈" py="hóng,zhàn" info="拱曲高悬的栈道。" />
+		<phrase hz="霓虹" py="ní,hóng" info="1.雨過天晴時，出現在天上的彩色圓弧。外環暗淡較不清楚的是霓，內環鮮麗較明豔的是虹。2.化學元素。為氖的音譯。為英語neon的音譯。" />
+		<phrase hz="文虹" py="wén,hóng" info="彩虹。" />
+		<definition id="一">
+			<item text="雨后天空中出现的彩色圆弧，有红、橙、黄、绿、蓝、靛、紫七种颜色。是由大气中的小水珠经日光照射发生折射和反射作用而形成的。这种圆弧常出现两个，红色在外，紫色在内，颜色鲜艳的叫“虹”，也叫“正虹”；红色在内，紫色在外，颜色较淡的叫“霓”，也叫“副虹”。" />
+		</definition>
+	</char>
+	<char hz="虹" py="jiàng" multi="hóng">
+		<definition id="二">
+			<item text="义同“虹”(hóng)，限于单用。" />
+		</definition>
+	</char>
+</pinyin>

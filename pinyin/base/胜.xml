@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="胜" py="shēng" multi="shèng">
+		<definition id="二">
+			<item text="“肽”的旧称。" />
+		</definition>
+	</char>
+	<char hz="胜" py="shèng" multi="shēng" main="1" suppressLog="1">
+		<phrase hz="哀兵必胜" py="āi,bīng,bì,shèng" />
+		<phrase hz="好胜" py="hào,shèng" info="各方面都想胜过他人" />
+		<definition id="一">
+			<item id="1" text="赢，胜利，跟“败”相对：打~仗. 得~." />
+			<item id="2" text="打败（对方）：以少~多." />
+			<item id="3" text="超过：今~于昔. 一个~似一个." />
+			<item id="4" text="优美的：~地. ~景. (引)优美的地方或境界：名~. 引人入~." />
+			<item id="5" text="（旧读 shēng） 能担任，能承受：~任. 不~其烦." />
+			<item id="6" text="（旧读 shēng） 尽：不~感激. 不~枚举." />
+		</definition>
+	</char>
+</pinyin>

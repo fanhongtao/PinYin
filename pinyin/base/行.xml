@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="行" py="háng" multi="xíng" main="1">
+		<phrase hz="本行" py="běn,háng" />
+		<phrase hz="懂行" py="dǒng,háng" />
+		<phrase hz="分行" py="fēn,háng" />
+		<phrase hz="改行" py="gǎi,háng" />
+		<phrase hz="各行各业" py="gè,háng,gè,yè" />
+		<phrase hz="行规" py="háng,guī" />
+		<phrase hz="行行出状元" py="háng,háng,chū,zhuàng,yuán" />
+		<phrase hz="行话" py="háng,huà" info="各行各业的专门用语" />
+		<phrase hz="行家" py="háng,jiā" info="1.对某种事务非常内行或精通的人。2.俗称介绍买卖货品的商行。" />
+		<phrase hz="行列" py="háng,liè" />
+		<phrase hz="行市" py="háng,shi" />
+		<phrase hz="行伍" py="háng,wǔ" info="泛指军队。古时兵制,五人为伍,二十五人为行" />
+		<phrase hz="行业" py="háng,yè" />
+		<phrase hz="内行" py="nèi,háng" />
+		<phrase hz="排行" py="pái,háng" />
+		<phrase hz="全武行" py="quán,wǔ,háng" info="整場戲都是武打場面的表演。比喻武力暴行或爭鬥場面。" />
+		<phrase hz="七十二行" py="qī,shí,èr,háng" />
+		<phrase hz="三百六十行" py="sān,bǎi,liù,shí,háng" info="各种行业" />
+		<phrase hz="商行" py="shāng,háng" info="指较大的商店" />
+		<phrase hz="下自成行" py="xià,zì,chéng,háng" info="桃李不言，下自成行"/>
+		<phrase hz="外行" py="wài,háng" />
+		<phrase hz="牙行" py="yá,háng" info="1.旧时提供场所、协助买卖双方成交而从中取得佣金的个人。2.协助买卖双方成交、从中获得佣金的商号或商行。" />
+		<phrase hz="洋行" py="yáng,háng" info="解放前,外国的资本家在中国开设的商行,也指专跟外国商人做买卖的商行" />
+		<phrase hz="一目十行" py="yī,mù,shí,háng" />
+		<phrase hz="银行" py="yín,háng" />
+		<phrase hz="在行" py="zài,háng" />
+		<phrase hz="转行" py="zhuǎn,háng" />
+		<phrase hz="总行" py="zǒng,háng" />
+		<definition id="二">
+			<item id="1" text="行列，排：单~. 双~." />
+			<item id="2" text="职业：咱们是同~. [行家]精通某种事务的人。" />
+			<item id="3" text="某些营业性机构：银~. 车~. 电料~. [行市](-shi)市场上商品的一般价格。" />
+			<item id="4" text="兄弟、姊妹长幼的次第：排~. 您~几？我~三." />
+			<item id="5" text="量词，用于成行的东西：几~字. 两~树." />
+		</definition>
+	</char>
+	<char hz="行" py="xíng" multi="háng">
+		<phrase hz="暴行" py="bào,xíng" />
+		<phrase hz="遍行" py="biàn,xíng" info="通行各地。" />
+		<phrase hz="并行" py="bìng,xíng" />
+		<phrase hz="步行" py="bù,xíng" />
+		<phrase hz="不行" py="bù,xíng" />
+		<phrase hz="操行" py="cāo,xíng" />
+		<phrase hz="常行" py="cháng,xíng" info="1.永久奉行的準則。2.北平方言。一般的、普通的。" />
+		<phrase hz="寸步难行" py="cùn,bù,nán,xíng" />
+		<phrase hz="单行" py="dān,xíng" />
+		<phrase hz="德行" py="dé,xíng" />
+		<phrase hz="独断专行" py="dú,duàn,zhuān,xíng" />
+		<phrase hz="独行" py="dú,xíng" info="1.一个人走路。2.坚持按自己的主张做。" />
+		<phrase hz="恶行" py="è,xíng" />
+		<phrase hz="发行" py="fā,xíng" />
+		<phrase hz="放行" py="fàng,xíng" />
+		<phrase hz="飞行" py="fēi,xíng" />
+		<phrase hz="风行" py="fēng,xíng" />
+		<phrase hz="奉行" py="fèng,xíng" />
+		<phrase hz="躬行" py="gōng,xíng" info="身体力行;亲身实行" />
+		<phrase hz="孤行" py="gū,xíng" info="獨自行事，不顧及他人的想法。" />
+		<phrase hz="航行" py="háng,xíng" />
+		<phrase hz="横行" py="héng,xíng" />
+		<phrase hz="环行" py="huán,xíng" info="繞著圈子走。" />
+		<phrase hz="缓行" py="huǎn,xíng" info="1.慢行或徐徐行驶。2.暂缓实行。" />
+		<phrase hz="祸不单行" py="huò,bù,dān,xíng" />
+		<phrase hz="秽行" py="huì,xíng" />
+		<phrase hz="疾行" py="jí,xíng" />
+		<phrase hz="即行" py="jí,xíng" />
+		<phrase hz="饯行" py="jiàn,xíng" />
+		<phrase hz="脚行" py="jiǎo,xíng" info="以搬運物件為職業的人。" />
+		<phrase hz="进行" py="jìn,xíng" />
+		<phrase hz="举行" py="jǔ,xíng" />
+		<phrase hz="刊行" py="kān,xíng" info="刊印發行。" />
+		<phrase hz="可行" py="kě,xíng" />
+		<phrase hz="苦行" py="kǔ,xíng" />
+		<phrase hz="例行" py="lì,xíng" />
+		<phrase hz="厉行" py="lì,xíng" info="严格实行" />
+		<phrase hz="粮草先行" py="liáng,cǎo,xiān,xíng" />
+		<phrase hz="量力而行" py="liàng,lì,ér,xíng" />
+		<phrase hz="另行" py="lìng,xíng" />
+		<phrase hz="流行" py="liú,xíng" />
+		<phrase hz="履行" py="lǚ,xíng" />
+		<phrase hz="旅行" py="lǚ,xíng" />
+		<phrase hz="慢行" py="màn,xíng" />
+		<phrase hz="难行" py="nán,xíng" info="1.不容易行走。2.不易施行。" />
+		<phrase hz="逆行" py="nì,xíng" />
+		<phrase hz="爬行" py="pá,xíng" />
+		<phrase hz="品行" py="pǐn,xíng" />
+		<phrase hz="平行" py="píng,xíng" />
+		<phrase hz="启行" py="qǐ,xíng" />
+		<phrase hz="前行" py="qián,xíng" />
+		<phrase hz="潜行" py="qián,xíng" info="1.在水下行走。2.秘密行走。3.专心修行。" />
+		<phrase hz="强行" py="qiáng,xíng" />
+		<phrase hz="绕行" py="rào,xíng" />
+		<phrase hz="日行千里" py="rì,xíng,qiān,lǐ" />
+		<phrase hz="三思而行" py="sān,sī,ér,xíng" />
+		<phrase hz="善行" py="shàn,xíng" />
+		<phrase hz="上行" py="shàng,xíng" />
+		<phrase hz="蛇行" py="shé,xíng" info="1.全身伏地,爬行。2.蜿蜒曲折。" />
+		<phrase hz="身体力行" py="shēn,tǐ,lì,xíng" />
+		<phrase hz="慎行" py="shèn,xíng" />
+		<phrase hz="盛行" py="shèng,xíng" />
+		<phrase hz="施行" py="shī,xíng" />
+		<phrase hz="实行" py="shí,xíng" />
+		<phrase hz="兽行" py="shòu,xíng" />
+		<phrase hz="顺行" py="shùn,xíng" />
+		<phrase hz="肆行" py="sì,xíng" info="任意妄為。" />
+		<phrase hz="送行" py="sòng,xíng" />
+		<phrase hz="特立独行" py="tè,lì,dú,xíng" />
+		<phrase hz="天马行空" py="tiān,mǎ,xíng,kōng" />
+		<phrase hz="听其言观其行" py="tīng,qí,yán,guān,qí,xíng" />
+		<phrase hz="通行" py="tōng,xíng" />
+		<phrase hz="推行" py="tuī,xíng" />
+		<phrase hz="五行" py="wǔ,xíng" />
+		<phrase hz="下行" py="xià,xíng" />
+		<phrase hz="先行" py="xiān,xíng" />
+		<phrase hz="现行" py="xiàn,xíng" info="1.现在施行的;现在有效的。2.正在进行犯罪活动的。" />
+		<phrase hz="相辅而行" py="xiāng,fǔ,ér,xíng" />
+		<phrase hz="销行" py="xiāo,xíng" />
+		<phrase hz="行兵布阵" py="xíng,bīng,bù,zhèn" />
+		<phrase hz="行不更名" py="xíng,bù,gēng,míng" info="“行不更名，坐不改姓”: 形容處事光明磊落，不怕人知。" />
+		<phrase hz="行刺" py="xíng,cì" info="用武器暗杀" />
+		<phrase hz="行动" py="xíng,dòng" />
+		<phrase hz="行房" py="xíng,fáng" />
+		<phrase hz="行个方便" py="xíng,gè,fāng,biàn" info="通融、給人方便。" />
+		<phrase hz="行贿" py="xíng,huì" />
+		<phrase hz="行将" py="xíng,jiāng" />
+		<phrase hz="行径" py="xíng,jìng" />
+		<phrase hz="行军" py="xíng,jūn" info="1.用兵打戰。2.軍事部隊基於作戰、訓練及行政等之要求所行的地面運動。" />
+		<phrase hz="行乐" py="xíng,lè" info="一般以为是“寻欢作乐”、“享乐”的同义词,只是感情色彩略有不同。" />
+		<phrase hz="行礼" py="xíng,lǐ" />
+		<phrase hz="行李" py="xíng,li" />
+		<phrase hz="行囊" py="xíng,náng" />
+		<phrase hz="行乞" py="xíng,qǐ" />
+		<phrase hz="行窃" py="xíng,qiè" />
+		<phrase hz="行箧" py="xíng,qiè" />
+		<phrase hz="行权" py="xíng,quán" />
+		<phrase hz="行人" py="xíng,rén" />
+		<phrase hz="行色匆匆" py="xíng,sè,cōng,cōng" />
+		<phrase hz="行商" py="xíng,shāng" />
+		<phrase hz="行尸走肉" py="xíng,shī,zǒu,ròu" />
+		<phrase hz="行书" py="xíng,shū" />
+		<phrase hz="行思坐想" py="xíng,sī,zuò,xiǎng" />
+		<phrase hz="行头" py="xíng,tou" />
+		<phrase hz="行为" py="xíng,wéi" />
+		<phrase hz="行文" py="xíng,wén" info="1.推行文治教化。2.作文。3.官廳的公文往來。" />
+		<phrase hz="行销" py="xíng,xiāo" />
+		<phrase hz="行星" py="xíng,xīng" />
+		<phrase hz="行凶" py="xíng,xiōng" />
+		<phrase hz="行刑" py="xíng,xíng" />
+		<phrase hz="行医" py="xíng,yī" />
+		<phrase hz="行营" py="xíng,yíng" />
+		<phrase hz="行云流水" py="xíng,yún,liú,shuǐ" />
+		<phrase hz="行辕" py="xíng,yuán" info="大吏出行時所駐的地方。" />
+		<phrase hz="行灶" py="xíng,zào" />
+		<phrase hz="行者" py="xíng,zhě" info="1.出行的人。2. (1)∶佛教语。即“头陀”。行脚乞食的苦行僧人;又指方丈的侍者及在寺院服杂役尚未剃发的出家者 (2)∶泛指修行佛道之人 (3)∶《西游记》中孙悟空的别名。" />
+		<phrase hz="行政" py="xíng,zhèng" />
+		<phrase hz="行之有效" py="xíng,zhī,yǒu,xiào" />
+		<phrase hz="行踪" py="xíng,zōng" />
+		<phrase hz="行走" py="xíng,zǒu" />
+		<phrase hz="行装" py="xíng,zhuāng" />
+		<phrase hz="修行" py="xiū,xíng" />
+		<phrase hz="言行" py="yán,xíng" />
+		<phrase hz="言从计行" py="yán,cóng,jì,xíng" />
+		<phrase hz="言听计行" py="yán,tīng,jì,xíng" />
+		<phrase hz="夜行" py="yè,xíng" />
+		<phrase hz="一言一行" py="yī,yán,yī,xíng" />
+		<phrase hz="衣锦夜行" py="yì,jǐn,yè,xíng" />
+		<phrase hz="衣食住行" py="yī,shí,zhù,xíng" />
+		<phrase hz="印行" py="yìn,xíng" info="印刷并发行" />
+		<phrase hz="鱼贯而行" py="yú,guàn,ér,xíng" />
+		<phrase hz="暂行" py="zàn,xíng" />
+		<phrase hz="择善而行" py="zé,shàn,ér,xíng" />
+		<phrase hz="真行" py="zhēn,xíng" />
+		<phrase hz="直行" py="zhí,xíng" />
+		<phrase hz="执行" py="zhí,xíng" />
+		<phrase hz="自行" py="zì,xíng" />
+		<phrase hz="罪行" py="zuì,xíng" />
+		<definition id="一">
+			<item id="1" text="走：日~千里. 步~. [行书]汉字的一种字体，形体和笔势介于草书和楷书之间。(引)出外时用的：~装. ~箧(qiè). [行李](-li)出外时所带的包裹、箱子等。 [行头](-tou)演戏时穿戴的衣物。 [一行]一组（指同行的人）。" />
+			<item id="2" text="流通，传递：~销. 通~全国. 发~报刊、书籍." />
+			<item id="3" text="流动性的，临时性的：~灶. ~商. ~营." />
+			<item id="4" text="进行：另~通知. 即~查处." />
+			<item id="5" text="实做，办：~礼. 举~. 实~." />
+			<item id="6" text="（旧读xìng）足以表明品质的举止行为：言~. 品~. 德~. 操~. 罪~." />
+			<item id="7" text="可以：不学习不~." />
+			<item id="8" text="能干：你真~." />
+			<item id="9" text="将要：~将毕业." />
+			<item id="10" text="乐府和古诗的一种体裁。" />
+			<item id="11" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

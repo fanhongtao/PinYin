@@ -1,14 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="坑" py="kēng" />
-	<char hz="吭" py="kēng" multi="háng" main="1">
-		<phrase hz="吭哧" py="kēng,chī" info="1.形容用力时发出的声音。2.形容说话吞吐不流畅。" />
-		<phrase hz="吭气" py="kēng,qì" info="说话" />
-		<phrase hz="吭声" py="kēng,shēng" info="说话" />
-		<definition id="二">
-			<item text="出声，发言：不~声. 一声也不~." />
-		</definition>
-	</char>
+	<!-- Ref:吭.xml <char hz="吭" py="kēng" multi="háng" main="1" /> -->
 	<char hz="硁" py="kēng" />
 	<char hz="铿" py="kēng">
 		<phrase hz="铿锵" py="kēng,qiāng" />

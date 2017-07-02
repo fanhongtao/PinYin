@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挡" py="dǎng" multi="dàng" main="1" suppressLog="1">
+		<phrase hz="挡驾" py="dǎng,jià" />
+		<phrase hz="挡住" py="dǎng,zhù" />
+		<phrase hz="抵挡" py="dǐ,dǎng" />
+		<phrase hz="风挡" py="fēng,dǎng" info="1.挡风的围子。2.车上挡风的屏障。" />
+		<phrase hz="拦挡" py="lán,dǎng" />
+		<phrase hz="空挡" py="kōng,dǎng" />
+		<phrase hz="排挡" py="pái,dǎng" info="机动车辆用来改变牵引力，使车辆变速或倒行的装置。" />
+		<phrase hz="遮挡" py="zhē,dǎng" />
+		<phrase hz="阻挡" py="zǔ,dǎng" />
+		<definition id="一">
+			<item id="1" text="阻拦，遮蔽（(连)阻-、拦-）：水来土~. 把风~住. 拿芭蕉扇~着太阳." />
+			<item id="2" text="（-子、-儿）用来遮蔽的东西：炉~. 窗户~儿." />
+		</definition>
+	</char>
+	<char hz="挡" py="dàng" multi="dǎng">
+		<phrase hz="摒挡" py="bìng,dàng" />
+		<definition id="二">
+			<item text="[摒挡](bìng-)收拾，料理。" />
+		</definition>
+	</char>
+</pinyin>

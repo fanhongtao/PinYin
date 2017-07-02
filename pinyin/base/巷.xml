@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="巷" py="hàng" multi="xiàng">
+		<phrase hz="巷道" py="hàng,dào" />
+		<definition id="二">
+			<item text="[巷道]采矿或探矿时挖的坑道。" />
+		</definition>
+	</char>
+	<char hz="巷" py="xiàng" multi="hàng" main="1">
+		<phrase hz="里巷" py="lǐ,xiàng" info="街巷;胡同" />
+		<phrase hz="巷战" py="xiàng,zhàn" info="在城镇街巷中进行的战斗" />
+		<phrase hz="小巷" py="xiǎo,xiàng" />
+		<definition id="一">
+			<item text="较窄的街道：大街小~." />
+		</definition>
+	</char>
+</pinyin>

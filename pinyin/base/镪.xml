@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镪" py="qiāng" multi="qiǎng">
+		<phrase hz="镪水" py="qiāng,shuǐ" />
+		<definition id="二">
+			<item text="[镪水]就是强酸：硝~~." />
+		</definition>
+	</char>
+	<char hz="镪" py="qiǎng" multi="qiāng" main="1">
+		<phrase hz="白镪" py="bái,qiǎng" info="白银的别称。" />
+		<definition id="一">
+			<item text="〈古〉指成串的钱。 [白镪]银子。" />
+		</definition>
+	</char>
+</pinyin>

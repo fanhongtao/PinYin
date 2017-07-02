@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="降" py="jiàng" multi="xiáng" main="1">
+		<phrase hz="递降" py="dì,jiàng" info="一次比一次降低" />
+		<phrase hz="降低" py="jiàng,dī" />
+		<phrase hz="降幅" py="jiàng,fú" />
+		<phrase hz="降级" py="jiàng,jí" />
+		<phrase hz="降临" py="jiàng,lín" />
+		<phrase hz="降落" py="jiàng,luò" />
+		<phrase hz="降旗" py="jiàng,qí" />
+		<phrase hz="降生" py="jiàng,shēng" info="出生，出世" />
+		<phrase hz="降水" py="jiàng,shuǐ" />
+		<phrase hz="降下" py="jiàng,xià" />
+		<phrase hz="降职" py="jiàng,zhí" />
+		<phrase hz="空降" py="kōng,jiàng" />
+		<phrase hz="升降" py="shēng,jiàng" />
+		<phrase hz="下降" py="xià,jiàng" />
+		<phrase hz="骤降" py="zhòu,jiàng" />
+		<definition id="一">
+			<item id="1" text="下落，落下（(连)-落）：~雨. 温度下~. ~落伞." />
+			<item id="2" text="使下落：~级. ~格. ~低物价." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="降" py="xiáng" multi="jiàng">
+		<phrase hz="宁死不降" py="nìng,sǐ,bù,xiáng" />
+		<phrase hz="请降" py="qǐng,xiáng" />
+		<phrase hz="受降" py="shòu,xiáng" />
+		<phrase hz="投降" py="tóu,xiáng" />
+		<phrase hz="降伏" py="xiáng,fú" />
+		<phrase hz="降服" py="xiáng,fú" />
+		<phrase hz="降龙伏虎" py="xiáng,lóng,fú,hǔ" />
+		<phrase hz="诱降" py="yòu,xiáng" />
+		<phrase hz="诈降" py="zhà,xiáng" />
+		<phrase hz="招降" py="zhāo,xiáng" />
+		<definition id="二">
+			<item id="1" text="投降，归顺：宁死不~." />
+			<item id="2" text="降服，使驯服：~龙伏虎." />
+		</definition>
+	</char>
+</pinyin>

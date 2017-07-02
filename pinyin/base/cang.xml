@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="仓" py="cāng" />
-	<char hz="伧" py="cāng" multi="chen" main="1">
-		<phrase hz="伧俗" py="cāng,sú" info="粗俗" />
-		<definition id="一">
-			<item text="古代讥人粗俗，鄙贱：~俗." />
-		</definition>
-	</char>
+	<!-- Ref:伧.xml <char hz="伧" py="cāng" multi="chen" main="1" /> -->
 	<char hz="苍" py="cāng" />
 	<char hz="沧" py="cāng" />
 	<char hz="鸧" py="cāng" />

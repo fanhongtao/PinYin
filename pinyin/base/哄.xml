@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哄" py="hōng" multi="hǒng,hòng" main="1">
+		<phrase hz="哄传" py="hōng,chuán" info="纷纷传说" />
+		<phrase hz="哄动" py="hōng,dòng" info="1.同时惊动很多人。2.挑动;煽动。" />
+		<phrase hz="哄闹" py="hōng,nào" info="众人同时喧闹。" />
+		<phrase hz="哄抢" py="hōng,qiǎng" info="1.起哄抢购。2.抢夺[财物]。" />
+		<phrase hz="哄然" py="hōng,rán" info="1.吵吵嚷嚷的叫喊声。2.突然发作，冒出。" />
+		<phrase hz="哄抬" py="hōng,tái" info="投机商人起哄抬高[物价]。" />
+		<phrase hz="哄堂大笑" py="hōng,táng,dà,xiào" />
+		<phrase hz="哄笑" py="hōng,xiào" info="起哄并大笑" />
+		<phrase hz="闹哄" py="nào,hōng" info="1.吵闹;喧哗。2.很多人在一起忙活。" />
+		<definition id="一">
+			<item text="好多人同时发声：~传(chuán). ~堂大笑." />
+		</definition>
+	</char>
+	<char hz="哄" py="hǒng" multi="hōng,hòng">
+		<phrase hz="哄局" py="hǒng,jú" info="骗局。" />
+		<phrase hz="哄弄" py="hǒng,nòng" info="方言。欺骗；耍弄。" />
+		<phrase hz="哄骗" py="hǒng,piàn" info="用假话骗人。" />
+		<phrase hz="哄劝" py="hǒng,quàn" info="用言辞劝说，使人乐意接受。" />
+		<phrase hz="哄人" py="hǒng,rén" />
+		<phrase hz="哄小孩" py="hǒng,xiǎo,hái" />
+		<phrase hz="瞒哄" py="mán,hǒng" info="隐瞒欺骗。" />
+		<phrase hz="蒙哄" py="méng,hǒng" info="指使…信假为真。" />
+		<phrase hz="骗哄" py="piàn,hǒng" info="哄骗。" />
+		<phrase hz="欺哄" py="qī,hǒng" info="欺骗；哄骗。" />
+		<phrase hz="诈哄" py="zhà,hǒng" info="哄骗。" />
+		<definition id="二">
+			<item id="1" text="说假话骗人（(连)-骗）：你不要~我." />
+			<item id="2" text="用语言或行动使人欢喜：他很会~小孩儿." />
+		</definition>
+	</char>
+	<char hz="哄" py="hòng" multi="hōng,hǒng">
+		<phrase hz="起哄" py="qǐ,hòng" />
+		<phrase hz="一哄而散" py="yī,hòng,ér,sàn" />
+		<definition id="三">
+			<item text="吵闹，搅扰：一~而散. 起~（故意吵闹扰乱）." />
+		</definition>
+	</char>
+</pinyin>

@@ -7,12 +7,7 @@
 	<char hz="本" py="běn" />
 	<char hz="苯" py="běn" />
 	<char hz="畚" py="běn" />
-	<char hz="夯" py="bèn" multi="hāng">
-		<phrase hz="夯货" py="bèn,huò" />
-		<definition id="二">
-			<item text="同“笨”（见于《西游记》、《红楼梦》等书）。" />
-		</definition>
-	</char>
+	<!-- Ref:夯.xml <char hz="夯" py="bèn" multi="hāng" /> -->
 	<char hz="坌" py="bèn" />
 	<!-- Ref:奔.xml <char hz="奔" py="bèn" multi="bēn" /> -->
 	<char hz="倴" py="bèn" />

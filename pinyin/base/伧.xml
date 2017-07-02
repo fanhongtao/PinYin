@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="伧" py="cāng" multi="chen" main="1">
+		<phrase hz="伧俗" py="cāng,sú" info="粗俗" />
+		<definition id="一">
+			<item text="古代讥人粗俗，鄙贱：~俗." />
+		</definition>
+	</char>
+	<char hz="伧" py="chen" multi="cāng" info="Word主音">
+		<phrase hz="寒伧" py="hán,chen" info="难看；不体面；丢脸。" />
+		<definition id="二">
+			<item text="[寒伧]旧同“寒碜”。参看“碜”(chěn)。" />
+		</definition>
+	</char>
+</pinyin>

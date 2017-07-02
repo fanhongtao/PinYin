@@ -2,56 +2,15 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="吽" py="hōng" />
 	<char hz="轰" py="hōng" />
-	<char hz="哄" py="hōng" multi="hǒng,hòng" main="1">
-		<phrase hz="哄传" py="hōng,chuán" info="纷纷传说" />
-		<phrase hz="哄动" py="hōng,dòng" info="1.同时惊动很多人。2.挑动;煽动。" />
-		<phrase hz="哄闹" py="hōng,nào" info="众人同时喧闹。" />
-		<phrase hz="哄抢" py="hōng,qiǎng" info="1.起哄抢购。2.抢夺[财物]。" />
-		<phrase hz="哄然" py="hōng,rán" info="1.吵吵嚷嚷的叫喊声。2.突然发作，冒出。" />
-		<phrase hz="哄抬" py="hōng,tái" info="投机商人起哄抬高[物价]。" />
-		<phrase hz="哄堂大笑" py="hōng,táng,dà,xiào" />
-		<phrase hz="哄笑" py="hōng,xiào" info="起哄并大笑" />
-		<phrase hz="闹哄" py="nào,hōng" info="1.吵闹;喧哗。2.很多人在一起忙活。" />
-		<definition id="一">
-			<item text="好多人同时发声：~传(chuán). ~堂大笑." />
-		</definition>
-	</char>
+	<!-- Ref:哄.xml <char hz="哄" py="hōng" multi="hǒng,hòng" main="1" /> -->
 	<char hz="烘" py="hōng" />
 	<char hz="訇" py="hōng" />
 	<char hz="薨" py="hōng" />
 	<char hz="弘" py="hóng" />
 	<char hz="泓" py="hóng" />
-	<char hz="红" py="hóng" multi="gōng" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="像鲜血那样的颜色。(转)1.喜庆：办~事. 2.革命的，觉悟高的：~军. ~色政权. 又~又专. 3.象征顺利、成功：开门~." />
-			<item id="2" text="指人受宠信：~人." />
-			<item id="3" text="红利：分~." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:红.xml <char hz="红" py="hóng" multi="gōng" main="1" suppressLog="1" /> -->
 	<char hz="荭" py="hóng" />
-	<char hz="虹" py="hóng" multi="jiàng" main="1">
-		<phrase hz="白虹" py="bái,hóng" info="日暈。" />
-		<phrase hz="彩虹" py="cǎi,hóng" />
-		<phrase hz="长虹" py="cháng,hóng" />
-		<phrase hz="丹虹" py="dān,hóng" info="1.赤色的虹。用以形容长条的彩帛。2.喻飞架的桥梁。" />
-		<phrase hz="断虹" py="duàn,hóng" info="一段彩虹；残虹。" />
-		<phrase hz="副虹" py="fù,hóng" info="即霓。大气中有时跟虹同时出现的一种光的现象，形成的原因和虹相同，只是光线在水珠中的反射比形成虹时多一次，彩带排列的顺序和虹相反，红色在内，紫色在外。颜色比虹淡。" />
-		<phrase hz="虹栋" py="hóng,dòng" info="彩色如虹的屋梁。" />
-		<phrase hz="虹旌" py="hóng,jīng" info="彩旗。" />
-		<phrase hz="虹膜" py="hóng,mó" info="位于眼球角膜和晶状体之间的圆盘状血管膜，中央为瞳孔，周围含有环形肌司瞳孔的缩小和开大。" />
-		<phrase hz="虹霓" py="hóng,ní" info="见“虹蜺”。" />
-		<phrase hz="虹蜺" py="hóng,ní" info="1.亦作“虹霓”。即螮蝀。为雨后或日出、日没之际天空中所现的七色圆弧。虹蜺常有内外二环，内环称虹，也称正虹、雄虹；外环称蜺，也称副虹、雌虹或雌蜺。 2.旧时以虹蜺色彩艳丽，比喻人的才华藻绘；又以虹蜺为二气不正之交，象征淫奔、作乱。" />
-		<phrase hz="虹旆" py="hóng,pèi" info="彩旗。" />
-		<phrase hz="虹桥" py="hóng,qiáo" info="1.拱曲如虹的长桥。2.古代攻城用具。" />
-		<phrase hz="虹吸" py="hóng,xī" info="利用液面高度差的作用力现象，将液体充满一根倒U形的管状结构内后，将开口高的一端置于装满液体的容器中，容器内的液体会持续通过虹吸管从开口于更低的位置流出。" />
-		<phrase hz="虹栈" py="hóng,zhàn" info="拱曲高悬的栈道。" />
-		<phrase hz="霓虹" py="ní,hóng" info="1.雨過天晴時，出現在天上的彩色圓弧。外環暗淡較不清楚的是霓，內環鮮麗較明豔的是虹。2.化學元素。為氖的音譯。為英語neon的音譯。" />
-		<phrase hz="文虹" py="wén,hóng" info="彩虹。" />
-		<definition id="一">
-			<item text="雨后天空中出现的彩色圆弧，有红、橙、黄、绿、蓝、靛、紫七种颜色。是由大气中的小水珠经日光照射发生折射和反射作用而形成的。这种圆弧常出现两个，红色在外，紫色在内，颜色鲜艳的叫“虹”，也叫“正虹”；红色在内，紫色在外，颜色较淡的叫“霓”，也叫“副虹”。" />
-		</definition>
-	</char>
+	<!-- Ref:虹.xml <char hz="虹" py="hóng" multi="jiàng" main="1" /> -->
 	<char hz="鸿" py="hóng" />
 	<char hz="闳" py="hóng" />
 	<char hz="宏" py="hóng" />
@@ -59,43 +18,11 @@
 	<char hz="竑" py="hóng" />
 	<char hz="洪" py="hóng" />
 	<char hz="葓" py="hóng" />
-	<char hz="蕻" py="hóng" multi="hòng" info="Word主音">
-		<phrase hz="雪里蕻" py="xuě,lǐ,hóng" />
-		<definition id="二">
-			<item text="[雪里蕻]一种像芥菜的菜，茎叶可以吃。也叫作“雪里红”。" />
-		</definition>
-	</char>
+	<!-- Ref:蕻.xml <char hz="蕻" py="hóng" multi="hòng" info="Word主音" /> -->
 	<char hz="黉" py="hóng" />
-	<char hz="哄" py="hǒng" multi="hōng,hòng">
-		<phrase hz="哄局" py="hǒng,jú" info="骗局。" />
-		<phrase hz="哄弄" py="hǒng,nòng" info="方言。欺骗；耍弄。" />
-		<phrase hz="哄骗" py="hǒng,piàn" info="用假话骗人。" />
-		<phrase hz="哄劝" py="hǒng,quàn" info="用言辞劝说，使人乐意接受。" />
-		<phrase hz="哄人" py="hǒng,rén" />
-		<phrase hz="哄小孩" py="hǒng,xiǎo,hái" />
-		<phrase hz="瞒哄" py="mán,hǒng" info="隐瞒欺骗。" />
-		<phrase hz="蒙哄" py="méng,hǒng" info="指使…信假为真。" />
-		<phrase hz="骗哄" py="piàn,hǒng" info="哄骗。" />
-		<phrase hz="欺哄" py="qī,hǒng" info="欺骗；哄骗。" />
-		<phrase hz="诈哄" py="zhà,hǒng" info="哄骗。" />
-		<definition id="二">
-			<item id="1" text="说假话骗人（(连)-骗）：你不要~我." />
-			<item id="2" text="用语言或行动使人欢喜：他很会~小孩儿." />
-		</definition>
-	</char>
+	<!-- Ref:哄.xml <char hz="哄" py="hǒng" multi="hōng,hòng" /> -->
 	<char hz="讧" py="hòng" />
 	<char hz="澒" py="hòng" trans="1" />
-	<char hz="哄" py="hòng" multi="hōng,hǒng">
-		<phrase hz="起哄" py="qǐ,hòng" />
-		<phrase hz="一哄而散" py="yī,hòng,ér,sàn" />
-		<definition id="三">
-			<item text="吵闹，搅扰：一~而散. 起~（故意吵闹扰乱）." />
-		</definition>
-	</char>
-	<char hz="蕻" py="hòng" multi="hóng" main="1">
-		<definition id="一">
-			<item id="1" text="茂盛。" />
-			<item id="2" text="〈方〉某些蔬菜的长茎：菜~." />
-		</definition>
-	</char>
+	<!-- Ref:哄.xml <char hz="哄" py="hòng" multi="hōng,hǒng" /> -->
+	<!-- Ref:蕻.xml <char hz="蕻" py="hòng" multi="hóng" main="1" /> -->
 </pinyin>

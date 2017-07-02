@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="红" py="gōng" multi="hóng">
+		<phrase hz="女红" py="nǚ,gōng" />
+		<definition id="二">
+			<item text="[女红]旧指女子所做的缝纫、刺绣等工作。也作“女工”。" />
+		</definition>
+	</char>
+	<char hz="红" py="hóng" multi="gōng" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="像鲜血那样的颜色。(转)1.喜庆：办~事. 2.革命的，觉悟高的：~军. ~色政权. 又~又专. 3.象征顺利、成功：开门~." />
+			<item id="2" text="指人受宠信：~人." />
+			<item id="3" text="红利：分~." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

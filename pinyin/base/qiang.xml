@@ -1,27 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="抢" py="qiāng" multi="qiǎng">
-		<phrase hz="呼天抢地" py="hū,tiān,qiāng,dì" />
-		<definition id="二">
-			<item text="同“戗(qiāng)(1)”。" />
-		</definition>
-	</char>
-	<char hz="呛" py="qiāng" multi="qiàng" main="1">
-		<definition id="一">
-			<item id="1" text="水或食物进入气管而引起不适或咳嗽：喝水~着了. 吃饭吃~了." />
-			<item id="2" text="〈方〉咳嗽。" />
-		</definition>
-	</char>
+	<!-- Ref:抢.xml <char hz="抢" py="qiāng" multi="qiǎng" /> -->
+	<!-- Ref:呛.xml <char hz="呛" py="qiāng" multi="qiàng" main="1" /> -->
 	<char hz="玱" py="qiāng" />
 	<char hz="枪" py="qiāng" />
-	<char hz="戗" py="qiāng" multi="qiàng" main="1">
-		<phrase hz="戗风" py="qiāng,fēng" info="逆风。与风向相对" />
-		<phrase hz="戗水" py="qiāng,shuǐ" info="逆水。逆着水流的方向。" />
-		<definition id="一">
-			<item id="1" text="逆，反方向：~风. ~水." />
-			<item id="2" text="（言语）冲突：说~了." />
-		</definition>
-	</char>
+	<!-- Ref:戗.xml <char hz="戗" py="qiāng" multi="qiàng" main="1" /> -->
 	<char hz="羌" py="qiāng" />
 	<char hz="蜣" py="qiāng">
 		<phrase hz="蜣螂" py="qiāng,láng" />
@@ -34,116 +17,23 @@
 	<char hz="腔" py="qiāng" />
 	<char hz="锖" py="qiāng" />
 	<char hz="锵" py="qiāng" />
-	<char hz="镪" py="qiāng" multi="qiǎng">
-		<phrase hz="镪水" py="qiāng,shuǐ" />
-		<definition id="二">
-			<item text="[镪水]就是强酸：硝~~." />
-		</definition>
-	</char>
-	<char hz="强" py="qiáng" multi="jiàng,qiǎng" main="1">
-		<phrase hz="富国强兵" py="fù,guó,qiáng,bīng" />
-		<phrase hz="富强" py="fù,qiáng" />
-		<phrase hz="刚强" py="gāng,qiáng" />
-		<phrase hz="加强" py="jiā,qiáng" />
-		<phrase hz="坚强" py="jiān,qiáng" />
-		<phrase hz="强暴" py="qiáng,bào" />
-		<phrase hz="强逼" py="qiáng,bī" info="强迫;逼迫" />
-		<phrase hz="强大" py="qiáng,dà" />
-		<phrase hz="强盗" py="qiáng,dào" />
-		<phrase hz="强调" py="qiáng,diào" />
-		<phrase hz="强度" py="qiáng,dù" />
-		<phrase hz="强固" py="qiáng,gù" />
-		<phrase hz="强悍" py="qiáng,hàn" />
-		<phrase hz="强横" py="qiáng,hèng" />
-		<phrase hz="强化" py="qiáng,huà" />
-		<phrase hz="强击机" py="qiáng,jī,jī" />
-		<phrase hz="强记" py="qiáng,jì" info="1.高强的记忆力。2.强迫记忆。" />
-		<phrase hz="强加" py="qiáng,jiā" info="1.坚持加以。2.将某种意见或作法强迫人家接受。" />
-		<phrase hz="强奸" py="qiáng,jiān" />
-		<phrase hz="强碱" py="qiáng,jiǎn" />
-		<phrase hz="强健" py="qiáng,jiàn" info="强壮健康" />
-		<phrase hz="强劲" py="qiáng,jìng" />
-		<phrase hz="强力" py="qiáng,lì" />
-		<phrase hz="强梁" py="qiáng,liáng" info="1.有力量。2.粗暴、残忍或凶狠的人。3.欺凌弱小、性情残暴的人。" />
-		<phrase hz="强烈" py="qiáng,liè" />
-		<phrase hz="强令" py="qiáng,lìng" info="强制命令" />
-		<phrase hz="强弩之末" py="qiáng,nǔ,zhī,mò" />
-		<phrase hz="强人" py="qiáng,rén" />
-		<phrase hz="强权" py="qiáng,quán" />
-		<phrase hz="强身" py="qiáng,shēn" />
-		<phrase hz="强盛" py="qiáng,shèng" />
-		<phrase hz="强似" py="qiáng,sì" info="1.超过,优先于。2.使更好,较胜于。" />
-		<phrase hz="强酸" py="qiáng,suān" />
-		<phrase hz="强项" py="qiáng,xiàng" />
-		<phrase hz="强行" py="qiáng,xíng" />
-		<phrase hz="强硬" py="qiáng,yìng" />
-		<phrase hz="强占" py="qiáng,zhàn" info="用暴力占有或夺取" />
-		<phrase hz="强者" py="qiáng,zhě" />
-		<phrase hz="强制" py="qiáng,zhì" />
-		<phrase hz="强壮" py="qiáng,zhuàng" />
-		<phrase hz="强子" py="qiáng,zǐ" info="参与强相互作用的粒子的统称。分介子和重子两类。" />
-		<phrase hz="顽强" py="wán,qiáng" />
-		<phrase hz="增强" py="zēng,qiáng" />
-		<definition id="一">
-			<item id="1" text="健壮，有力，跟“弱”相对（(连)-壮、-健）：~大. 身~力壮. (引)有余：四分之一~. [强调]特别重视，用坚决的口气提出。 [强梁]强横不讲理。" />
-			<item id="2" text="程度高：责任心很~." />
-			<item id="3" text="好：要~. 庄稼很~. 他写的字比你的~." />
-			<item id="4" text="使用强力：~制. ~占. ~索财物." />
-			<item id="5" text="使强大或强壮：~身之道. 富国~兵." />
-			<item id="6" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:镪.xml <char hz="镪" py="qiāng" multi="qiǎng" /> -->
+	<!-- Ref:强.xml <char hz="强" py="qiáng" multi="jiàng,qiǎng" main="1" /> -->
 	<char hz="墙" py="qiáng" />
 	<char hz="蔷" py="qiáng">
 		<phrase hz="蔷薇" py="qiáng,wēi" />
 	</char>
 	<char hz="嫱" py="qiáng" />
 	<char hz="樯" py="qiáng" />
-	<char hz="抢" py="qiǎng" multi="qiāng" main="1" suppressLog="1">
-		<phrase hz="抢占" py="qiǎng,zhàn" info="抢在敌人前面占领有利地形或重要地点的作战行动" />
-		<definition id="一">
-			<item id="1" text="夺，硬拿（(连)-夺）：~球. ~劫. 他把我的信~去了." />
-			<item id="2" text="赶快，赶紧，争先：~着把活做了. ~修河堤." />
-			<item id="3" text="刮，擦（去掉表面的一层）：磨剪子~菜刀. 摔了一跤，把肉皮~去一大块." />
-		</definition>
-	</char>
+	<!-- Ref:抢.xml <char hz="抢" py="qiǎng" multi="qiāng" main="1" suppressLog="1" /> -->
 	<char hz="羟" py="qiǎng" />
-	<char hz="强" py="qiǎng" multi="jiàng,qiáng">
-		<phrase hz="勉强" py="miǎn,qiǎng" />
-		<phrase hz="牵强" py="qiān,qiǎng" />
-		<phrase hz="强辩" py="qiǎng,biàn" />
-		<phrase hz="强不知以为知" py="qiǎng,bù,zhī,yǐ,wéi,zhī" info="不懂装懂。" />
-		<phrase hz="强词夺理" py="qiǎng,cí,duó,lǐ" />
-		<phrase hz="强迫" py="qiǎng,pò" />
-		<phrase hz="强求" py="qiǎng,qiú" info="硬要求;勉强以求" />
-		<phrase hz="强人所难" py="qiǎng,rén,suǒ,nán" />
-		<definition id="二">
-			<item text="硬要，迫使：~迫. 牵~. ~词夺理. 不能~人所难." />
-		</definition>
-	</char>
-	<char hz="镪" py="qiǎng" multi="qiāng" main="1">
-		<phrase hz="白镪" py="bái,qiǎng" info="白银的别称。" />
-		<definition id="一">
-			<item text="〈古〉指成串的钱。 [白镪]银子。" />
-		</definition>
-	</char>
+	<!-- Ref:强.xml <char hz="强" py="qiǎng" multi="jiàng,qiáng" /> -->
+	<!-- Ref:镪.xml <char hz="镪" py="qiǎng" multi="qiāng" main="1" /> -->
 	<char hz="襁" py="qiǎng">
 		<phrase hz="襁褓" py="qiǎng,bǎo" />
 	</char>
-	<char hz="呛" py="qiàng" multi="qiāng" info="Word主音">
-		<phrase hz="够呛" py="gòu,qiàng" />
-		<definition id="二">
-			<item text="有刺激性的气体使鼻子、嗓子等器官感到不舒服：烟~嗓子. 辣椒味~得难受." />
-		</definition>
-	</char>
-	<char hz="戗" py="qiàng" multi="qiāng">
-		<phrase hz="够戗" py="gòu,qiàng" />
-		<phrase hz="戗面" py="qiàng,miàn" info="掺揉进较多干面粉的发面" />
-		<phrase hz="戗柱" py="qiàng,zhù" info="从旁支撑房屋的木柱。" />
-		<definition id="二">
-			<item text="支持，支撑：墙要倒，拿杠子~住. [够戗]形容十分厉害，很难支持：他忙得真~~. 他病得~~." />
-		</definition>
-	</char>
+	<!-- Ref:呛.xml <char hz="呛" py="qiàng" multi="qiāng" info="Word主音" /> -->
+	<!-- Ref:戗.xml <char hz="戗" py="qiàng" multi="qiāng" /> -->
 	<char hz="炝" py="qiàng" />
 	<char hz="跄" py="qiàng" />
 </pinyin>

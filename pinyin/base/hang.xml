@@ -1,62 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="夯" py="hāng" multi="bèn" main="1">
-		<phrase hz="粗夯" py="cū,hāng" />
-		<phrase hz="打夯" py="dǎ,hāng" />
-		<phrase hz="夯地" py="hāng,dì" />
-		<phrase hz="夯歌" py="hāng,gē" />
-		<phrase hz="夯汉" py="hāng,hàn" />
-		<phrase hz="夯具" py="hāng,jù" />
-		<phrase hz="夯实" py="hāng,shí" />
-		<definition id="一">
-			<item id="1" text="砸地基的工具。" />
-			<item id="2" text="用夯砸：~地." />
-		</definition>
-	</char>
-	<char hz="行" py="háng" multi="xíng" main="1">
-		<phrase hz="本行" py="běn,háng" />
-		<phrase hz="懂行" py="dǒng,háng" />
-		<phrase hz="分行" py="fēn,háng" />
-		<phrase hz="改行" py="gǎi,háng" />
-		<phrase hz="各行各业" py="gè,háng,gè,yè" />
-		<phrase hz="行规" py="háng,guī" />
-		<phrase hz="行行出状元" py="háng,háng,chū,zhuàng,yuán" />
-		<phrase hz="行话" py="háng,huà" info="各行各业的专门用语" />
-		<phrase hz="行家" py="háng,jiā" info="1.对某种事务非常内行或精通的人。2.俗称介绍买卖货品的商行。" />
-		<phrase hz="行列" py="háng,liè" />
-		<phrase hz="行市" py="háng,shi" />
-		<phrase hz="行伍" py="háng,wǔ" info="泛指军队。古时兵制,五人为伍,二十五人为行" />
-		<phrase hz="行业" py="háng,yè" />
-		<phrase hz="内行" py="nèi,háng" />
-		<phrase hz="排行" py="pái,háng" />
-		<phrase hz="全武行" py="quán,wǔ,háng" info="整場戲都是武打場面的表演。比喻武力暴行或爭鬥場面。" />
-		<phrase hz="七十二行" py="qī,shí,èr,háng" />
-		<phrase hz="三百六十行" py="sān,bǎi,liù,shí,háng" info="各种行业" />
-		<phrase hz="商行" py="shāng,háng" info="指较大的商店" />
-		<phrase hz="下自成行" py="xià,zì,chéng,háng" info="桃李不言，下自成行"/>
-		<phrase hz="外行" py="wài,háng" />
-		<phrase hz="牙行" py="yá,háng" info="1.旧时提供场所、协助买卖双方成交而从中取得佣金的个人。2.协助买卖双方成交、从中获得佣金的商号或商行。" />
-		<phrase hz="洋行" py="yáng,háng" info="解放前,外国的资本家在中国开设的商行,也指专跟外国商人做买卖的商行" />
-		<phrase hz="一目十行" py="yī,mù,shí,háng" />
-		<phrase hz="银行" py="yín,háng" />
-		<phrase hz="在行" py="zài,háng" />
-		<phrase hz="转行" py="zhuǎn,háng" />
-		<phrase hz="总行" py="zǒng,háng" />
-		<definition id="二">
-			<item id="1" text="行列，排：单~. 双~." />
-			<item id="2" text="职业：咱们是同~. [行家]精通某种事务的人。" />
-			<item id="3" text="某些营业性机构：银~. 车~. 电料~. [行市](-shi)市场上商品的一般价格。" />
-			<item id="4" text="兄弟、姊妹长幼的次第：排~. 您~几？我~三." />
-			<item id="5" text="量词，用于成行的东西：几~字. 两~树." />
-		</definition>
-	</char>
+	<!-- Ref:夯.xml <char hz="夯" py="hāng" multi="bèn" main="1" /> -->
+	<!-- Ref:行.xml <char hz="行" py="háng" multi="xíng" main="1" /> -->
 	<char hz="绗" py="háng" />
-	<char hz="吭" py="háng" multi="kēng">
-		<phrase hz="引吭" py="yǐn,háng" />
-		<definition id="一">
-			<item text="喉咙，嗓子：引~（拉长了嗓音）高歌." />
-		</definition>
-	</char>
+	<!-- Ref:吭.xml <char hz="吭" py="háng" multi="kēng" /> -->
 	<char hz="迒" py="háng" />
 	<char hz="杭" py="háng" />
 	<char hz="航" py="háng" />
@@ -64,10 +11,5 @@
 	<char hz="沆" py="hàng">
 		<phrase hz="沆瀣" py="hàng,xiè" />
 	</char>
-	<char hz="巷" py="hàng" multi="xiàng">
-		<phrase hz="巷道" py="hàng,dào" />
-		<definition id="二">
-			<item text="[巷道]采矿或探矿时挖的坑道。" />
-		</definition>
-	</char>
+	<!-- Ref:巷.xml <char hz="巷" py="hàng" multi="xiàng" /> -->
 </pinyin>

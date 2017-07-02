@@ -3,119 +3,21 @@
 	<char hz="升" py="shēng" />
 	<char hz="生" py="shēng" />
 	<char hz="牲" py="shēng" />
-	<char hz="胜" py="shēng" multi="shèng">
-		<definition id="二">
-			<item text="“肽”的旧称。" />
-		</definition>
-	</char>
+	<!-- Ref:胜.xml <char hz="胜" py="shēng" multi="shèng" /> -->
 	<char hz="笙" py="shēng" />
 	<char hz="甥" py="shēng" />
 	<char hz="声" py="shēng">
 		<phrase hz="声调" py="shēng,diào" />
 	</char>
-	<char hz="渑" py="shéng" multi="miǎn" main="1">
-		<definition id="二">
-			<item text="古水名，在今山东省淄博一带。" />
-		</definition>
-	</char>
+	<!-- Ref:渑.xml <char hz="渑" py="shéng" multi="miǎn" main="1" /> -->
 	<char hz="绳" py="shéng" />
-	<char hz="省" py="shěng" multi="xǐng" main="1" suppressLog="1">
-		<phrase hz="节省" py="jié,shěng" />
-		<phrase hz="尚书省" py="shàng,shū,shěng" info="官署名。秦、漢置尚書掌奏章文書，至唐、宋，與中書省、門下省合稱為「三省」，下統六部，分掌國政。明初設六部尚書，分為六署，屬中書省；洪武十三年撤中書省，分其政於六部，而尚書之權始重。因古時尚書省多位在宮闕的北面，故亦稱為「北省」。" />
-		<phrase hz="省便" py="shěng,biàn" info="既省事，又方便;不麻烦" />
-		<phrase hz="省城" py="shěng,chéng" info="省政府所在地，省会" />
-		<phrase hz="省份" py="shěng,fèn" />
-		<phrase hz="省略" py="shěng,lüè" />
-		<phrase hz="省会" py="shěng,huì" duoyin="xǐng,huì" info="省政府所在地。" />
-		<phrase hz="省事" py="shěng,shì" duoyin="xǐng,shì" info="1.減少辦事的手續。2.方便、不麻煩。" />
-		<phrase hz="省心" py="shěng,xīn" info="不费心;少操心" />
-		<phrase hz="省垣" py="shěng,yuán" info="省会;省城" />
-		<definition id="一">
-			<item id="1" text="行政区划单位，直属中央。" />
-			<item id="2" text="节约，不费：~钱. ~时间. ~事." />
-			<item id="3" text="简约（(连)-略）：~称. ~写." />
-		</definition>
-	</char>
+	<!-- Ref:省.xml <char hz="省" py="shěng" multi="xǐng" main="1" suppressLog="1" /> -->
 	<char hz="眚" py="shěng" />
 	<char hz="圣" py="shèng" />
-	<char hz="胜" py="shèng" multi="shēng" main="1" suppressLog="1">
-		<phrase hz="哀兵必胜" py="āi,bīng,bì,shèng" />
-		<phrase hz="好胜" py="hào,shèng" info="各方面都想胜过他人" />
-		<definition id="一">
-			<item id="1" text="赢，胜利，跟“败”相对：打~仗. 得~." />
-			<item id="2" text="打败（对方）：以少~多." />
-			<item id="3" text="超过：今~于昔. 一个~似一个." />
-			<item id="4" text="优美的：~地. ~景. (引)优美的地方或境界：名~. 引人入~." />
-			<item id="5" text="（旧读 shēng） 能担任，能承受：~任. 不~其烦." />
-			<item id="6" text="（旧读 shēng） 尽：不~感激. 不~枚举." />
-		</definition>
-	</char>
+	<!-- Ref:胜.xml <char hz="胜" py="shèng" multi="shēng" main="1" suppressLog="1" /> -->
 	<char hz="晟" py="shèng" />
-	<char hz="盛" py="shèng" multi="chéng" main="1">
-		<phrase hz="昌盛" py="chāng,shèng" />
-		<phrase hz="鼎盛" py="dǐng,shèng" />
-		<phrase hz="繁盛" py="fán,shèng" />
-		<phrase hz="丰盛" py="fēng,shèng" />
-		<phrase hz="阜盛" py="fù,shèng" />
-		<phrase hz="很盛" py="hěn,shèng" info="自定义词" />
-		<phrase hz="隆盛" py="lóng,shèng" />
-		<phrase hz="茂盛" py="mào,shèng" />
-		<phrase hz="气盛" py="qì,shèng" />
-		<phrase hz="强盛" py="qiáng,shèng" />
-		<phrase hz="全盛" py="quán,shèng" />
-		<phrase hz="盛产" py="shèng,chǎn" />
-		<phrase hz="盛传" py="shèng,chuán" />
-		<phrase hz="盛大" py="shèng,dà" />
-		<phrase hz="盛德" py="shèng,dé" />
-		<phrase hz="盛典" py="shèng,diǎn" />
-		<phrase hz="盛冬" py="shèng,dōng" />
-		<phrase hz="盛极一时" py="shèng,jí,yī,shí" />
-		<phrase hz="盛京" py="shèng,jīng" info="清朝的留都。即今沈阳。" />
-		<phrase hz="盛举" py="shèng,jǔ" />
-		<phrase hz="盛会" py="shèng,huì" />
-		<phrase hz="盛开" py="shèng,kāi" />
-		<phrase hz="盛况" py="shèng,kuàng" />
-		<phrase hz="盛名" py="shèng,míng" />
-		<phrase hz="盛年" py="shèng,nián" />
-		<phrase hz="盛怒" py="shèng,nù" />
-		<phrase hz="盛气" py="shèng,qì" />
-		<phrase hz="盛情" py="shèng,qíng" />
-		<phrase hz="盛事" py="shèng,shì" />
-		<phrase hz="盛世" py="shèng,shì" />
-		<phrase hz="盛暑" py="shèng,shǔ" />
-		<phrase hz="盛衰" py="shèng,shuāi" />
-		<phrase hz="盛田昭夫" py="shèng,tián,zhāo,fū" info="日本索尼公司创始人" />
-		<phrase hz="盛夏" py="shèng,xià" />
-		<phrase hz="盛行" py="shèng,xíng" />
-		<phrase hz="盛筵" py="shèng,yán" />
-		<phrase hz="盛宴" py="shèng,yàn" />
-		<phrase hz="盛意" py="shèng,yì" />
-		<phrase hz="盛誉" py="shèng,yù" />
-		<phrase hz="盛赞" py="shèng,zàn" />
-		<phrase hz="盛装" py="shèng,zhuāng" />
-		<phrase hz="旺盛" py="wàng,shèng" />
-		<phrase hz="兴盛" py="xīng,shèng" />
-		<definition id="一">
-			<item id="1" text="兴旺：旺~. 茂~. 繁荣昌~. 梅花~开." />
-			<item id="2" text="炽烈：年轻气~. 火势很~." />
-			<item id="3" text="丰富，华美：~宴. ~装." />
-			<item id="4" text="热烈，大规模的：~会. ~况." />
-			<item id="5" text="深厚：~意. ~情." />
-			<item id="6" text="姓。" />
-		</definition>
-	</char>
-	<char hz="乘" py="shèng" multi="chéng">
-		<phrase hz="千乘之国" py="qiān,shèng,zhī,guó" />
-		<phrase hz="千乘万骑" py="qiān,shèng,wàn,jì" />
-		<!-- <phrase hz="上乘" py="shàng,shèng" duoyin="shàng,chéng" info="四马共驾一车 或 上等的好马。" /> -->
-		<phrase hz="史乘" py="shǐ,shèng" />
-		<phrase hz="万乘" py="wàn,shèng" info="指天子。周制,天子地方千里,出兵车万乘,诸侯地方百里,出兵车千乘,故称天子为“万乘”" />
-		<phrase hz="野乘" py="yě,shèng" info="野史" />
-		<definition id="二">
-			<item id="1" text="春秋时晋国的史书叫乘，后因称一般的史书为乘：史~." />
-			<item id="2" text="量词，古代用于四匹马拉的兵车：千~之国." />
-		</definition>
-	</char>
+	<!-- Ref:盛.xml <char hz="盛" py="shèng" multi="chéng" main="1" /> -->
+	<!-- Ref:乘.xml <char hz="乘" py="shèng" multi="chéng" /> -->
 	<char hz="剩" py="shèng" />
 	<char hz="嵊" py="shèng" />
 </pinyin>

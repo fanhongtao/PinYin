@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呛" py="qiāng" multi="qiàng" main="1">
+		<definition id="一">
+			<item id="1" text="水或食物进入气管而引起不适或咳嗽：喝水~着了. 吃饭吃~了." />
+			<item id="2" text="〈方〉咳嗽。" />
+		</definition>
+	</char>
+	<char hz="呛" py="qiàng" multi="qiāng" info="Word主音">
+		<phrase hz="够呛" py="gòu,qiàng" />
+		<definition id="二">
+			<item text="有刺激性的气体使鼻子、嗓子等器官感到不舒服：烟~嗓子. 辣椒味~得难受." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="渑" py="miǎn" multi="shéng">
+		<phrase hz="渑池" py="miǎn,chí" />
+		<definition id="一">
+			<item text="[渑池]地名，在河南省。" />
+		</definition>
+	</char>
+	<char hz="渑" py="shéng" multi="miǎn" main="1">
+		<definition id="二">
+			<item text="古水名，在今山东省淄博一带。" />
+		</definition>
+	</char>
+</pinyin>

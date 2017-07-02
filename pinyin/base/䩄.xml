@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="䩄" py="miǎn" multi="tiǎn">
+		<phrase hz="䩄觍" py="miǎn,tiǎn" />
+		<definition id="一">
+			<item text="[䩄觍](-tiǎn)旧同“腼腆”。" />
+		</definition>
+	</char>
+	<char hz="䩄" py="tiǎn" multi="miǎn" main="1">
+		<definition id="二">
+			<item id="1" text="同“觍”。" />
+			<item id="2" text="〈古〉形容人脸的样子：~然人面." />
+		</definition>
+	</char>
+</pinyin>

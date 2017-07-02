@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="戗" py="qiāng" multi="qiàng" main="1">
+		<phrase hz="戗风" py="qiāng,fēng" info="逆风。与风向相对" />
+		<phrase hz="戗水" py="qiāng,shuǐ" info="逆水。逆着水流的方向。" />
+		<definition id="一">
+			<item id="1" text="逆，反方向：~风. ~水." />
+			<item id="2" text="（言语）冲突：说~了." />
+		</definition>
+	</char>
+	<char hz="戗" py="qiàng" multi="qiāng">
+		<phrase hz="够戗" py="gòu,qiàng" />
+		<phrase hz="戗面" py="qiàng,miàn" info="掺揉进较多干面粉的发面" />
+		<phrase hz="戗柱" py="qiàng,zhù" info="从旁支撑房屋的木柱。" />
+		<definition id="二">
+			<item text="支持，支撑：墙要倒，拿杠子~住. [够戗]形容十分厉害，很难支持：他忙得真~~. 他病得~~." />
+		</definition>
+	</char>
+</pinyin>

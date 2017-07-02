@@ -2,110 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="乡" py="xiāng" />
 	<char hz="芗" py="xiāng" />
-	<char hz="相" py="xiāng" multi="xiàng" main="1">
-		<phrase hz="安危相易" py="ān,wēi,xiāng,yì" info="易：变易，转变。 平安与危难互为因果，相互转换。" />
-		<phrase hz="不相为谋" py="bù,xiāng,wéi,móu" info="“道不同，不相为谋”：比喻志趣不同的人不会在一起共事。" />
-		<phrase hz="大相径庭" py="dà,xiāng,jìng,tíng" info="指彼此相差极远或矛盾很大。" />
-		<phrase hz="倒屣相迎" py="dào,xǐ,xiāng,yíng" info="屣：鞋。古人家居脱鞋席地而坐，争于迎客，将鞋穿倒。形容热情欢迎宾客。" />
-		<phrase hz="风马牛不相及" py="fēng,mǎ,niú,bù,xiāng,jí" info="完全不相干的;明确地不包含在某事物中的" />
-		<phrase hz="肝胆相照" py="gān,dǎn,xiāng,zhào" info="肝胆：比喻真心诚意。 比喻以真心相见。" />
-		<phrase hz="骨肉相残" py="gǔ,ròu,xiāng,cán" info="亲人间相互残杀。 比喻自相残杀。" />
-		<phrase hz="互相" py="hù,xiāng" info="两个或两个以上相互动作或彼此联系的人或物中的每一个" />
-		<phrase hz="竞相" py="jìng,xiāng" info="互相争着（做）" />
-		<phrase hz="老死不相往来" py="lǎo,sǐ,bù,xiāng,wǎng,lái" info="指彼此不联系，不交流情况。" />
-		<phrase hz="两情相悦" py="liǎng,qíng,xiāng,yuè" info="形容双方对彼此都有好感。" />
-		<phrase hz="扫榻相迎" py="sǎo,tà,xiāng,yíng" info="榻：床。把床打扫干净以迎接客人。对客人表示欢迎的意思。" />
-		<phrase hz="弹冠相庆" py="tán,guān,xiāng,qìng" info="弹冠：掸去帽子上的灰尘，准备做官。指官场中一人当了官或升了官，同伙就互相庆贺将有官可做。" />
-		<phrase hz="相爱" py="xiāng,ài" info="互相亲爱、友好。" />
-		<phrase hz="相安" py="xiāng,ān" info="谓相处平安，没有矛盾。" />
-		<phrase hz="相伴" py="xiāng,bàn" info="在一起,在一块" />
-		<phrase hz="相报" py="xiāng,bào" info="1.交替；更迭。2.相互报应；报复。 3.告知，报告。" />
-		<phrase hz="相悖" py="xiāng,bèi" info="相违背。" />
-		<phrase hz="相背" py="xiāng,bèi" info="1.亦作“相倍”。互相背叛。 2.相违；相反。" />
-		<phrase hz="相比" py="xiāng,bǐ" info="1.互相考校、比较 2.互相联合，编在一起 3.相近;差不多 4.相互勾结" />
-		<phrase hz="相差" py="xiāng,chā" info="兩者之間的差異。" />
-		<phrase hz="相称" py="xiāng,chèn" info="相符;相配" />
-		<phrase hz="相持" py="xiāng,chí" info="双方对立、互不相让或妥协" />
-		<phrase hz="相处" py="xiāng,chǔ" info="共同生活;相互交往" />
-		<phrase hz="相传" py="xiāng,chuán" info="1.长期以来流传下来的 2.递相传授" />
-		<phrase hz="相从" py="xiāng,cóng" info="跟随，在一起" />
-		<phrase hz="相待" py="xiāng,dài" info="1.对待。 2.招待；款待。" />
-		<phrase hz="相当" py="xiāng,dāng" info="1.两方面差不多;配得上或能够相抵 2.适宜;合适 3.很;十分;极 4.足可以，尚" />
-		<phrase hz="相等" py="xiāng,děng" info="[数目、数、量或尺寸的] 相同" />
-		<phrase hz="相抵" py="xiāng,dǐ" info="互相折抵，互相折算" />
-		<phrase hz="相对" py="xiāng,duì" info="1.面对面;相向 2.非绝对的(跟绝对相对) 3.比较来说" />
-		<phrase hz="相烦" py="xiāng,fán" info="1.谓以事相托。2.犹麻烦。" />
-		<phrase hz="相反" py="xiāng,fǎn" info="事物的两个方面相互排斥或对立" />
-		<phrase hz="相仿" py="xiāng,fǎng" info="基本上相同;大致上一样;类似" />
-		<phrase hz="相逢" py="xiāng,féng" info="彼此遇见;会见" />
-		<phrase hz="相符" py="xiāng,fú" info="相合;彼此一致" />
-		<phrase hz="相干" py="xiāng,gān" info="相互间有联系，有关系、有牵涉，多用于否定句或疑问句" />
-		<phrase hz="相隔" py="xiāng,gé" info="彼此间距离" />
-		<phrase hz="相顾" py="xiāng,gù" info="1.相视；互看。2.互相照顾；互相照应。" />
-		<phrase hz="相关" py="xiāng,guān" info="彼此关连;相互牵涉;互相关心" />
-		<phrase hz="相好" py="xiāng,hǎo" info="1.关系亲密，感情好 2.亲密的朋友 3.恋爱(多指不正当的) 4.旧时对狎客称与之过从密切的妓女" />
-		<phrase hz="相合" py="xiāng,hé" info="1.彼此一致；相符。2.会合；集中。" />
-		<phrase hz="相互" py="xiāng,hù" info="一起，共同" />
-		<phrase hz="相会" py="xiāng,huì" info="1.相见;会面 2.指情人在特定地点或时间见面的约会" />
-		<phrase hz="相继" py="xiāng,jì" info="一个跟着一个;连续不断;相承袭;递相传授" />
-		<phrase hz="相济" py="xiāng,jì" info="1.互相帮助、促成。2.互相调济。" />
-		<phrase hz="相见" py="xiāng,jiàn" info="彼此会面" />
-		<phrase hz="相间" py="xiāng,jiàn" info="相互隔开;间隔" />
-		<phrase hz="相交" py="xiāng,jiāo" info="1.互相交叉在一起、交于一点 2.交朋友;做朋友" />
-		<phrase hz="相接" py="xiāng,jiē" info="1.交接，相交。2.连续；连接。 3.犹迎接。" />
-		<phrase hz="相近" py="xiāng,jìn" info="1.彼此近似;差不多 2.相距不远" />
-		<phrase hz="相距" py="xiāng,jù" info="彼此间距离" />
-		<phrase hz="相看" py="xiāng,kàn" info="1.彼此对看 2.亲自观看(多用于相亲)" />
-		<phrase hz="相克" py="xiāng,kè" info="五行学说术语。借木、火、土、金、水五种物质之间互相制约和排斥的关系，来说明脏腑之间相互制约的生理现象。其次序是木克土、土克水、水克火、火克金、金克木。" />
-		<phrase hz="相离" py="xiāng,lí" info="1.互相分离。 2.相附；附拢。 3.相互间距离。" />
-		<phrase hz="相连" py="xiāng,lián" info="互相连接;彼此关联" />
-		<phrase hz="相配" py="xiāng,pèi" info="彼此配合;相称" />
-		<phrase hz="相扑" py="xiāng,pū" info="一种类似摔交的体育活动，秦汉时期叫做角抵，南北朝到宋元时期叫做相扑" />
-		<phrase hz="相亲" py="xiāng,qīn" info="1.互相亲爱;相亲近 2.定亲前家长或本人到对方家相看婚姻对象是否合意" />
-		<phrase hz="相轻" py="xiāng,qīng" info="1.互相轻视、鄙薄。 2.看轻。" />
-		<phrase hz="相庆" py="xiāng,qìng" info="自定义词。" />
-		<phrase hz="相去" py="xiāng,qù" info="相距；相差。" />
-		<phrase hz="相劝" py="xiāng,quàn" info="1.互相勉励 2.劝说，劝导宽解" />
-		<phrase hz="相让" py="xiāng,ràng" info="1.退让，宽容忍耐 2.谦让，礼让" />
-		<phrase hz="相扰" py="xiāng,rǎo" info="客套语。打扰，叨扰。" />
-		<phrase hz="相认" py="xiāng,rèn" info="1.知道，认识 2.相互认出或承认亲友关系" />
-		<phrase hz="相容" py="xiāng,róng" info="同时并存;互相包容" />
-		<phrase hz="相若" py="xiāng,ruò" info="相近,相仿" />
-		<phrase hz="相商" py="xiāng,shāng" info="互相讨论、协商、商议" />
-		<phrase hz="相生" py="xiāng,shēng" info="五行学说术语。借木、火、土、金、水五种物质之间互相滋生和促进的关系。来说明脏腑相互协调的生理现象。其次序是木生火、火生土，土生金，金生水，水生木" />
-		<phrase hz="相识" py="xiāng,shí" info="1.互相认识 2.指彼此认识的人" />
-		<phrase hz="相率" py="xiāng,shuài" info="亦作“相帅”。相继；一个接一个。" />
-		<phrase hz="相思" py="xiāng,sī" info="互相思念，多指男女彼此思慕" />
-		<phrase hz="相似" py="xiāng,sì" info="相类;相像" />
-		<phrase hz="相随" py="xiāng,suí" info="相從、跟隨。" />
-		<phrase hz="相通" py="xiāng,tōng" info="彼此沟通;连通;互相通融" />
-		<phrase hz="相同" py="xiāng,tóng" info="彼此无差异" />
-		<phrase hz="相投" py="xiāng,tóu" info="1.[思想感情等]彼此投合 2.投靠;投奔;求托" />
-		<phrase hz="相违" py="xiāng,wéi" info="1.互相避开。 2.彼此违背。" />
-		<phrase hz="相向" py="xiāng,xiàng" info="相对;面对面" />
-		<phrase hz="相像" py="xiāng,xiàng" info="彼此有共同之处" />
-		<phrase hz="相信" py="xiāng,xìn" info="认为正确、确实而不怀疑" />
-		<phrase hz="相沿" py="xiāng,yán" info="递相沿袭。 " />
-		<phrase hz="相依" py="xiāng,yī" info="互相靠对方生存或立足" />
-		<phrase hz="相宜" py="xiāng,yí" info="合适，符合" />
-		<phrase hz="相忆" py="xiāng,yì" info="相思；想念。" />
-		<phrase hz="相迎" py="xiāng,yíng" info="自定义词。" />
-		<phrase hz="相应" py="xiāng,yìng" info="1.互相呼應、照應。 2.相宜、合適。 3.契合。為梵語瑜伽的義譯。 4.舒服、滿意。 5.幫忙。" />
-		<phrase hz="相映" py="xiāng,yìng" info="互相映衬。" />
-		<phrase hz="相与" py="xiāng,yǔ" info="副词。 表示同时同地做某件事。可译为共同" />
-		<phrase hz="相遇" py="xiāng,yù" info="遇见，遇到" />
-		<phrase hz="相约" py="xiāng,yuē" info="互相约好;经过商量而定好" />
-		<phrase hz="相争" py="xiāng,zhēng" info="彼此争夺；争斗。" />
-		<phrase hz="相知" py="xiāng,zhī" info="1.互相了解，知心 2.互相知心的朋友" />
-		<phrase hz="相中" py="xiāng,zhòng" info="看中" />
-		<phrase hz="相助" py="xiāng,zhù" info="互助;协助" />
-		<phrase hz="相左" py="xiāng,zuǒ" info="1.谓各以左手相交。 2.互相违异；不一致。 3.不相遇；彼此错过。" />
-		<phrase hz="形影相吊" py="xíng,yǐng,xiāng,diào" info="吊：慰问。 孤身一人，只有和自己的身影相互慰问。形容无依无靠，非常孤单。 " />
-		<definition id="一">
-			<item id="1" text="交互，动作由双方来（(连)互-）：~助. ~亲~爱. 言行~符. (引)动作由一方来而有一定对象的，常加在动词前面：~信. 好言~劝。 [相当]1.对等，等于：年纪~~. 2.副词，有一定程度的：这首诗写得~~好. [相对]依靠一定条件而存在，随着一定条件而变化的，跟“绝对”相对。" />
-			<item id="2" text="看：~中. 左~右看." />
-		</definition>
-	</char>
+	<!-- Ref:相.xml <char hz="相" py="xiāng" multi="xiàng" main="1" /> -->
 	<char hz="厢" py="xiāng" />
 	<char hz="湘" py="xiāng" />
 	<char hz="缃" py="xiāng" />
@@ -118,22 +15,7 @@
 	<char hz="详" py="xiáng" />
 	<char hz="庠" py="xiáng" />
 	<char hz="祥" py="xiáng" />
-	<char hz="降" py="xiáng" multi="jiàng">
-		<phrase hz="宁死不降" py="nìng,sǐ,bù,xiáng" />
-		<phrase hz="请降" py="qǐng,xiáng" />
-		<phrase hz="受降" py="shòu,xiáng" />
-		<phrase hz="投降" py="tóu,xiáng" />
-		<phrase hz="降伏" py="xiáng,fú" />
-		<phrase hz="降服" py="xiáng,fú" />
-		<phrase hz="降龙伏虎" py="xiáng,lóng,fú,hǔ" />
-		<phrase hz="诱降" py="yòu,xiáng" />
-		<phrase hz="诈降" py="zhà,xiáng" />
-		<phrase hz="招降" py="zhāo,xiáng" />
-		<definition id="二">
-			<item id="1" text="投降，归顺：宁死不~." />
-			<item id="2" text="降服，使驯服：~龙伏虎." />
-		</definition>
-	</char>
+	<!-- Ref:降.xml <char hz="降" py="xiáng" multi="jiàng" /> -->
 	<char hz="翔" py="xiáng" />
 	<char hz="享" py="xiǎng" />
 	<char hz="响" py="xiǎng">
@@ -146,73 +28,8 @@
 	<char hz="鲞" py="xiǎng" />
 	<char hz="向" py="xiàng" />
 	<char hz="项" py="xiàng" />
-	<char hz="巷" py="xiàng" multi="hàng" main="1">
-		<phrase hz="里巷" py="lǐ,xiàng" info="街巷;胡同" />
-		<phrase hz="巷战" py="xiàng,zhàn" info="在城镇街巷中进行的战斗" />
-		<phrase hz="小巷" py="xiǎo,xiàng" />
-		<definition id="一">
-			<item text="较窄的街道：大街小~." />
-		</definition>
-	</char>
-	<char hz="相" py="xiàng" multi="xiāng">
-		<phrase hz="扮相" py="bàn,xiàng" info="演员经化装成为剧中角色后的形象" />
-		<phrase hz="宝相" py="bǎo,xiàng" info="1.佛、菩薩的莊嚴法相。 2.一種毛筆。 3.植物名。薔薇科薔薇屬，常綠或半常綠灌木。莖蔓生或攀緣，卵狀披針形。數花簇生，花梗有腺狀長剛毛。果實近於球形或卵形。" />
-		<phrase hz="本相" py="běn,xiàng" info="本来面目，原形。" />
-		<phrase hz="变相" py="biàn,xiàng" info="1.以一种假装骗人的形式 2.谓事物的形式改变而内容或本质未变 3.改变原来的模样 4.改变相位" />
-		<phrase hz="丞相" py="chéng,xiàng" info="古代辅佐君主治理国家政务的职位最高的大臣" />
-		<phrase hz="吃相" py="chī,xiàng" info="方言。吃喝时的姿态、样子。" />
-		<phrase hz="恶相" py="è,xiàng" info="凶恶的相貌" />
-		<phrase hz="福相" py="fú,xiàng" info="未来有福分的表相" />
-		<phrase hz="假相" py="jiǎ,xiàng" info="假象。" />
-		<phrase hz="将相" py="jiàng,xiàng" info="将帅和丞相。 亦泛指文武大臣。" />
-		<phrase hz="金相" py="jīn,xiàng" info="1.五行之说，谓水胜火。2.比喻完美的形式。 3.指贴金的佛菩萨等像。" />
-		<phrase hz="看相" py="kàn,xiàng" info="一种迷信活动，观察人的相貌、骨骼或手掌的纹路来判断人的命运的好坏" />
-		<phrase hz="可怜相" py="kě,lián,xiàng" info="自定义词。" />
-		<phrase hz="狼狈相" py="láng,bèi,xiàng" />
-		<phrase hz="亮相" py="liàng,xiàng" info="1.戏曲演员上下场时或表演舞蹈时由动的身段变为短时的静止的姿势 2.说出自己的观点，公开表示态度 3.比喻公开露面或表演" />
-		<phrase hz="露相" py="lòu,xiàng" info="〈方〉呈现出真面目;显示技能" />
-		<phrase hz="卖相" py="mài,xiàng" info="〈方〉1.相貌。 2.风度;气派。" />
-		<phrase hz="貌相" py="mào,xiàng" info="1.容貌；外表。 2.谓根据外貌判断人。" />
-		<phrase hz="面相" py="miàn,xiàng" info="1.相貌。2.泛指事物的形象。" />
-		<phrase hz="命相" py="mìng,xiàng" info="1.命令三公。2.指任命宰相。 3.命运与相貌。 4.指“八字”，命数。 5.相命，算命。" />
-		<phrase hz="皮相" py="pí,xiàng" info="只看到表面现象;不透彻，不深入" />
-		<phrase hz="破相" py="pò,xiàng" info="1.面部由于受伤或其它原因而失去原来的相貌 2.指丢脸;出丑(多见于早期白话)" />
-		<phrase hz="人不可貌相" py="rén,bù,kě,mào,xiàng" />
-		<phrase hz="色相" py="sè,xiàng" info="1.色彩所呈现出来的质地面貌 2.如日光通过三棱镜分解出的红、橙、黄、绿、青、紫六种色相 3.佛教指事物的形状外貌 4.后来也指女子的姿色容貌" />
-		<phrase hz="上相" py="shàng,xiàng" info="1.指某人的照片比本人好看 2.古时尊称宰相" />
-		<phrase hz="识相" py="shí,xiàng" info="知趣。" />
-		<phrase hz="食相" py="shí,xiàng" info="日食(或月食)时，月球阴影与太阳(或地球阴影与月球)的不同位置关系。亦指不同位置发生的时刻。" />
-		<phrase hz="首相" py="shǒu,xiàng" info="君主制国家内阁的首脑。某些非君主制国家政府首脑也沿用这个名称" />
-		<phrase hz="天相" py="tiān,xiàng" info="上天佑助。" />
-		<phrase hz="相册" py="xiàng,cè" info="粘贴簿，供收集相片用的簿册" />
-		<phrase hz="相公" py="xiàng,gong" info="1.古代妻子对丈夫的敬称 2.旧称成年男子 3.相君。旧时对宰相的敬称;泛称官吏 4.男妓" />
-		<phrase hz="相机" py="xiàng,jī" info="看情况，抓时机" />
-		<phrase hz="相机行事" py="xiàng,jī,xíng,shì" />
-		<phrase hz="相马" py="xiàng,mǎ" />
-		<phrase hz="相貌" py="xiàng,mào" info="相貌端庄" />
-		<phrase hz="相面" py="xiàng,miàn" info="观察人的面貌来推测吉凶" />
-		<phrase hz="相片" py="xiàng,piàn" info="[口]像片;照片" />
-		<phrase hz="相声" py="xiàng,sheng" info="曲艺的一种。 按演员人数，其形式分为单口、对口、群口等，以说、学、逗、唱为其主要表现手段，通过幽默、滑稽的言语和表演引人发笑" />
-		<phrase hz="相书" py="xiàng,shū" info="1.谈相术的书。 2.四川口技。以四川方言在帏幔中表演。" />
-		<phrase hz="相术" py="xiàng,shù" info="旧称观察人或地的形貌以预言吉凶的一种方术。" />
-		<phrase hz="相位" py="xiàng,wèi" info="可确定作正弦变化的物理量某一时刻或某一位置的状态的一个数值" />
-		<phrase hz="星相" py="xīng,xiàng" info="星命相术" />
-		<phrase hz="凶相" py="xiōng,xiàng" info="凶恶的面目" />
-		<phrase hz="洋相" py="yáng,xiàng" info="逗人发笑的怪样子" />
-		<phrase hz="月相" py="yuè,xiàng" info="月亮明亮部分的不同形状。主要的月相有四个，即朔、上弦、望、下弦" />
-		<phrase hz="宰相" py="zǎi,xiàng" info="辅助帝王掌管国事的最高官员的通称" />
-		<phrase hz="长相" py="zhǎng,xiàng" info="相貌;容貌" />
-		<phrase hz="照相" py="zhào,xiàng" info="1.拍摄人或景物的影像，也作照像 2.相片;照片" />
-		<phrase hz="真相" py="zhēn,xiàng" info="1.佛教语。 犹言本相，实相。后指事物的本来面目或真实情况。  2.谓实任宰相。 3.犹宝相。即神、佛的画像或塑像。" />
-		<phrase hz="装相" py="zhuāng,xiàng" info="装模作样。" />
-		<definition id="二">
-			<item id="1" text="（-儿）样子，容貌（(连)-貌）：长(zhǎng)得很喜~(xiang). 狼狈~. 照~." />
-			<item id="2" text="察看：~马. ~机行事. 人不可貌~." />
-			<item id="3" text="辅助，也指辅佐的人，古代特指最高级的官：宰~." />
-			<item id="4" text="姓。" />
-			<item text="[相声](-sheng)曲艺的一种，以说、学、逗、唱，引人发笑为特色，盛行于华北地区。" />
-		</definition>
-	</char>
+	<!-- Ref:巷.xml <char hz="巷" py="xiàng" multi="hàng" main="1" /> -->
+	<!-- Ref:相.xml <char hz="相" py="xiàng" multi="xiāng" /> -->
 	<char hz="象" py="xiàng" />
 	<char hz="像" py="xiàng" />
 	<char hz="橡" py="xiàng" />
