@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="孱" py="càn" multi="chán" info="Word主音">
+		<phrase hz="孱头" py="càn,tou" />
+		<definition id="二">
+			<item text="同“孱(一)”，只用于“孱头”。[孱头](-tou)〈方〉软弱无能的人。" />
+		</definition>
+	</char>
+	<char hz="孱" py="chán" multi="càn" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="懦弱，弱小（(连)-弱）。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="划" py="huá" multi="huà,huai" main="1">
+		<phrase hz="摆划" py="bǎi,huá" info="1.办法。2.处置，安排。3.拨动，玩弄。4.比划着讲述。5.指吹嘘。" />
+		<phrase hz="划不来" py="huá,bù,lái" info="不合算，不值得。" />
+		<phrase hz="划船" py="huá,chuán" info="1.划桨行船。2.以人力划桨作动力的小船。" />
+		<phrase hz="划得来" py="huá,de,lái" info="合算，值得。" />
+		<phrase hz="划火柴" py="huá,huǒ,chái" />
+		<phrase hz="划拉" py="huá,lā" info="1.擦拭;掸扫。2.寻觅;搜罗捞取。3.潦草书写。" />
+		<phrase hz="划拳" py="huá,quán" info="即猜拳。" />
+		<phrase hz="划水" py="huá,shuǐ" />
+		<phrase hz="划算" py="huá,suàn" info="划得来;合适。" />
+		<phrase hz="划艇" py="huá,tǐng" info="1.一种比赛舟艇，形如独木舟。2.划船运动项目之一，用短柄单叶桨划水。" />
+		<phrase hz="划子" py="huá,zi" />
+		<definition id="二">
+			<item id="1" text="用刀或其他东西把别的东西分开或从上面擦过：把这个瓜用刀~开. ~了一道口子. ~火柴." />
+			<item id="2" text="用桨拨水使船行动：~船. [划子](-zi)用桨拨水行驶的小船。" />
+			<item id="3" text="合算，按利益情况来计较相宜不相宜：~不来." />
+		</definition>
+	</char>
+	<char hz="划" py="huà" multi="huá,huai">
+		<phrase hz="擘划" py="bò,huà" info="擘划，义同擘画，谋划，经营的意思。" />
+		<phrase hz="策划" py="cè,huà" />
+		<phrase hz="筹划" py="chóu,huà" />
+		<phrase hz="规划" py="guī,huà" />
+		<phrase hz="划拨" py="huà,bō" info="1.转拨钱款。2.分出给予。" />
+		<phrase hz="划分" py="huà,fēn" />
+		<phrase hz="划清" py="huà,qīng" />
+		<phrase hz="划时代" py="huà,shí,dài" />
+		<phrase hz="划一" py="huà,yī" />
+		<phrase hz="计划" py="jì,huà" />
+		<phrase hz="谋划" py="móu,huà" />
+		<phrase hz="企划" py="qǐ,huà" />
+		<definition id="一">
+			<item id="1" text="分开：~分区域. ~清界限. [划时代]由于出现了具有伟大意义的新事物，在历史上开辟一个新的时代。" />
+			<item id="2" text="设计（(连)计-、筹-）：工作计~. 你去筹~筹~这件事. [划一]使一致：~~制度." />
+		</definition>
+	</char>
+	<char hz="划" py="huai" multi="huá,huà">
+		<phrase hz="㓦划" py="bāi,huai" />
+		<definition id="三">
+			<item text="见“㓦”字条“㓦划”(bāi-)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鹄" py="gǔ" multi="hú" info="Word主音">
+		<phrase hz="鹄的" py="gǔ,dì" />
+		<definition id="一">
+			<item text="射箭的靶子。 [鹄的](-dì)箭靶子的中心，练习射击的目标。" />
+		</definition>
+	</char>
+	<char hz="鹄" py="hú" multi="gǔ" main="1">
+		<definition id="二">
+			<item text="鸟名，也叫“天鹅”，形状像鹅而较大，羽毛白色，飞得高而快，生活在海滨或湖边：~立（静静地站着等候）." />
+		</definition>
+	</char>
+</pinyin>

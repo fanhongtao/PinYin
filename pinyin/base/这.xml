@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="这" py="zhè" multi="zhèi" main="1" suppressLog="1">
+		<phrase hz="这么" py="zhè,me" />
+		<definition id="一">
+			<item id="1" text="代词，此，指较近的时间、地方或事物，跟“那”相对：~里. ~些. ~个. ~是英汉词典. [这么](-me)代词，如此：~~办就好了." />
+			<item id="2" text="这时候，指说话的同时：我~就走." />
+		</definition>
+	</char>
+	<char hz="这" py="zhèi" multi="zhè">
+		<definition id="二">
+			<item text="“这(zhè)一”的合音，但指数量时不限于一：~个. ~些. ~年. ~三年." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,47 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="折" py="zhē" multi="shé,zhé">
-		<phrase hz="折跟头" py="zhē,gēn,tou" />
-		<phrase hz="折腾" py="zhē,teng" info="1.翻来覆去 2.反复做[某事]" />
-		<definition id="三">
-			<item text="翻转，倒腾：~跟头. 用两个碗把开水~一~就凉了." />
-		</definition>
-	</char>
-	<char hz="蜇" py="zhē" multi="zhé" main="1" suppressLog="1">
-		<definition id="二">
-			<item id="1" text="有毒腺的虫子刺人或牲畜：被蝎子~了." />
-			<item id="2" text="某些东西刺激皮肤或器官使感觉不适：切洋葱~眼睛." />
-		</definition>
-	</char>
+	<!-- Ref:折.xml <char hz="折" py="zhē" multi="shé,zhé" /> -->
+	<!-- Ref:蜇.xml <char hz="蜇" py="zhē" multi="zhé" main="1" suppressLog="1" /> -->
 	<char hz="遮" py="zhē" />
-	<char hz="螫" py="zhē" multi="shì">
-		<definition id="二">
-			<item text="同“蜇(二)(1)”，用于口语。" />
-		</definition>
-	</char>
-	<char hz="折" py="zhé" multi="shé,zhē" main="1" suppressLog="1">
-		<phrase hz="折磨" py="zhé,mó" />
-		<definition id="一">
-			<item id="1" text="断，弄断：禁止攀~花木. (喻)幼年死亡：夭~. [折磨](-mó)使肉体或精神上受痛苦：解放前劳动人民受尽了~~." />
-			<item id="2" text="损失：损兵~将." />
-			<item id="3" text="弯转，屈曲：~腰. 转~点. (引)返转，回转：走到半路又~回来了. [折中]（*折衷）对不同意见采取调和态度。" />
-			<item id="4" text="叠（(连)-叠）：~衣服. ~尺." />
-			<item id="5" text="（-子、-儿）用纸折叠起来的本子：存~." />
-			<item id="6" text="杂剧一本分四折，一折相当于现代戏曲的一场。" />
-			<item id="7" text="心服：~服. 心~." />
-			<item id="8" text="折扣，按成数减少：打~扣. 九~." />
-			<item id="9" text="抵作，对换，以此代彼：~账. ~变（变卖）." />
-			<item id="10" text="汉字的一种笔形（乛），“买”字的第一笔是~." />
-		</definition>
-	</char>
+	<!-- Ref:螫.xml <char hz="螫" py="zhē" multi="shì" /> -->
+	<!-- Ref:折.xml <char hz="折" py="zhé" multi="shé,zhē" main="1" suppressLog="1" /> -->
 	<char hz="哲" py="zhé" />
 	<char hz="晢" py="zhé" />
-	<char hz="蜇" py="zhé" multi="zhē">
-		<phrase hz="海蜇" py="hǎi,zhé" />
-		<definition id="一">
-			<item text="海蜇，在海里生活的一种腔肠动物，形状像张开的伞，可供食用。" />
-		</definition>
-	</char>
+	<!-- Ref:蜇.xml <char hz="蜇" py="zhé" multi="zhē" /> -->
 	<char hz="䇽" py="zhé" />
 	<char hz="辄" py="zhé" />
 	<char hz="蛰" py="zhé" />
@@ -56,13 +22,7 @@
 	<char hz="锗" py="zhě" />
 	<char hz="赭" py="zhě" />
 	<char hz="褶" py="zhě" />
-	<char hz="这" py="zhè" multi="zhèi" main="1" suppressLog="1">
-		<phrase hz="这么" py="zhè,me" />
-		<definition id="一">
-			<item id="1" text="代词，此，指较近的时间、地方或事物，跟“那”相对：~里. ~些. ~个. ~是英汉词典. [这么](-me)代词，如此：~~办就好了." />
-			<item id="2" text="这时候，指说话的同时：我~就走." />
-		</definition>
-	</char>
+	<!-- Ref:这.xml <char hz="这" py="zhè" multi="zhèi" main="1" suppressLog="1" /> -->
 	<char hz="柘" py="zhè" />
 	<char hz="浙" py="zhè" />
 	<char hz="蔗" py="zhè" />

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="砉" py="huā" multi="xū">
+		<definition id="二">
+			<item text="拟声词，迅速动作的声音：乌鸦~的一声飞了." />
+		</definition>
+	</char>
+	<char hz="砉" py="xū" multi="huā" main="1">
+		<definition id="一">
+			<item text="皮骨相离声。" />
+		</definition>
+	</char>
+</pinyin>

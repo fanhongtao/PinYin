@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="忒" py="tè" multi="tuī">
+		<phrase hz="差忒" py="chà,tè" />
+		<definition id="一">
+			<item text="差错：差~." />
+		</definition>
+	</char>
+	<char hz="忒" py="tuī" multi="tè" main="1">
+		<definition id="二">
+			<item text="〈方〉副词，太：风~大. 路~滑." />
+		</definition>
+	</char>
+</pinyin>

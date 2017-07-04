@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="畜" py="chù" multi="xù" main="1">
+		<phrase hz="畜肥" py="chù,féi" info="以动物粪尿为主构成的肥料" />
+		<phrase hz="畜力" py="chù,lì" />
+		<phrase hz="畜栏" py="chù,lán" info="用来圈住或捕捉牲畜的栅栏或围栏" />
+		<phrase hz="畜生" py="chù,shēng" />
+		<phrase hz="畜牲" py="chù,shēng" />
+		<phrase hz="畜疫" py="chù,yì" info="能在家畜中进行传染的病疫，如马鼻疽、猪瘟、牛瘟等" />
+		<phrase hz="耕畜" py="gēng,chù" info="耕地用的牲畜,如牛、马、骡子等" />
+		<phrase hz="公畜" py="gōng,chù" info="雄性牲畜,种畜,为配种而饲养的雄性动物" />
+		<phrase hz="家畜" py="jiā,chù" />
+		<phrase hz="六畜" py="liù,chù" info="猪、牛、羊、马、鸡、狗六种禽畜;泛指家畜" />
+		<phrase hz="母畜" py="mǔ,chù" info="雌性牲畜" />
+		<phrase hz="孽畜" py="niè,chù" info="作孽的畜生，是骂人的话。亦作「业畜」。" />
+		<phrase hz="乳畜" py="rǔ,chù" info="主要用于提供乳汁的畜类,如乳牛或乳羊" />
+		<phrase hz="肉畜" py="ròu,chù" info="供宰杀食用的牲畜" />
+		<phrase hz="牲畜" py="shēng,chù" />
+		<phrase hz="五畜" py="wǔ,chù" info="牛、羊、鸡、狗、猪。" />
+		<phrase hz="业畜" py="yè,chù" info="作孽的畜生，是骂人的话。亦作「孽畜」。" />
+		<phrase hz="孕畜" py="yùn,chù" info="怀孕的牲畜。" />
+		<phrase hz="役畜" py="yì,chù" info="专门用来耕地或运输的家畜、力畜,如牛、马、骡子、驴、骆驼等" />
+		<phrase hz="幼畜" py="yòu,chù" />
+		<phrase hz="子畜" py="zǐ,chù" info="幼小的牲畜" />
+		<phrase hz="仔畜" py="zǐ,chù" info="幼小的牲畜" />
+		<phrase hz="自留畜" py="zì,liú,chù" info="留给农民个人养的牲畜,产品归个人所有" />
+		<phrase hz="种畜" py="zhǒng,chù" info="专供繁殖配种的牲畜;尤指公畜" />
+		<definition id="二">
+			<item text="禽兽，有时专指家养的兽类：家~. 牲~. 幼~. ~力." />
+		</definition>
+	</char>
+	<char hz="畜" py="xù" multi="chù">
+		<phrase hz="事畜" py="shì,xù" info="“仰事俯畜”的省略语。谓侍奉父母，养育妻儿，维持一家生计。" />
+		<phrase hz="畜产" py="xù,chǎn" info="畜产品的总称" />
+		<phrase hz="畜牧" py="xù,mù" />
+		<phrase hz="畜养" py="xù,yǎng" />
+		<phrase hz="仰事俯畜" py="yǎng,shì,fǔ,xù" info="上要侍奉父母，下要养活妻儿。泛指维持一家生活。" />
+		<definition id="一">
+			<item text="饲养：~产. ~牧业." />
+		</definition>
+	</char>
+</pinyin>

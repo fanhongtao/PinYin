@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="澹" py="dàn" multi="tán" main="1">
+		<phrase hz="澹泊" py="dàn,bó" info="恬淡寡欲;不追求名利。亦作「淡泊」。" />
+		<phrase hz="澹澹" py="dàn,dàn" info="水波荡漾的样子" />
+		<phrase hz="恬澹" py="tián,dàn" info="心境安然淡泊，不慕名利。" />
+		<definition id="一">
+			<item id="1" text="（叠）水波起伏的样子。" />
+			<item id="2" text="安静：恬~." />
+		</definition>
+	</char>
+	<char hz="澹" py="tán" multi="dàn">
+		<phrase hz="澹台" py="tán,tái" />
+		<definition id="二">
+			<item text="[澹台](-tái)复姓。" />
+		</definition>
+	</char>
+</pinyin>

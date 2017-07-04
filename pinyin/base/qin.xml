@@ -8,40 +8,17 @@
 	</char>
 	<char hz="侵" py="qīn" />
 	<char hz="骎" py="qīn" />
-	<char hz="亲" py="qīn" multi="qìng" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="亲属，有血统或夫妻关系的：~人. ~兄弟. 特指父母：双~. 养~." />
-			<item id="2" text="婚姻：定~. ~事." />
-			<item id="3" text="特指新妇：娶~." />
-			<item id="4" text="亲戚，因婚姻联成的亲属关系：姑表~." />
-			<item id="5" text="本身，自己的：~笔信. ~眼见的. ~手做的." />
-			<item id="6" text="感情好，关系密切：他们很~密. 兄弟相~." />
-			<item id="7" text="用嘴唇接触，表示喜爱：他~了~孩子的小脸蛋." />
-		</definition>
-	</char>
+	<!-- Ref:亲.xml <char hz="亲" py="qīn" multi="qìng" main="1" suppressLog="1" /> -->
 	<char hz="衾" py="qīn" />
 	<char hz="芹" py="qín" />
 	<char hz="芩" py="qín" />
-	<char hz="矜" py="qín" multi="guān,jīn">
-		<definition id="三">
-			<item text="〈古〉矛柄。" />
-		</definition>
-	</char>
+	<!-- Ref:矜.xml <char hz="矜" py="qín" multi="guān,jīn" /> -->
 	<char hz="琴" py="qín" />
 	<char hz="秦" py="qín" />
 	<char hz="嗪" py="qín" />
-	<char hz="溱" py="qín" multi="zhēn" info="Word主音">
-		<phrase hz="溱潼" py="qín,tóng" />
-		<definition id="二">
-			<item text="[溱潼](-tóng)地名，在江苏省泰州。" />
-		</definition>
-	</char>
+	<!-- Ref:溱.xml <char hz="溱" py="qín" multi="zhēn" info="Word主音" /> -->
 	<char hz="螓" py="qín" />
-	<char hz="覃" py="qín" multi="tán">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:覃.xml <char hz="覃" py="qín" multi="tán" /> -->
 	<char hz="禽" py="qín" />
 	<char hz="擒" py="qín" />
 	<char hz="噙" py="qín" />

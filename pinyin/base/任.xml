@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="任" py="rén" multi="rèn">
+		<phrase hz="任县" py="rén,xiàn" />
+		<phrase hz="任丘" py="rén,qiū" />
+		<definition id="二">
+			<item text="姓。" />
+			<item text="[任县][任丘]地名，都在河北省。" />
+		</definition>
+	</char>
+	<char hz="任" py="rèn" multi="rén" main="1" suppressLog="1">
+		<phrase hz="担任" py="dān,rèn" info="担当某种职务，工作" />
+		<phrase hz="到任" py="dào,rèn" info="指官员到职上任" />
+		<phrase hz="调任" py="diào,rèn" info="改任别的工作" />
+		<phrase hz="放任" py="fàng,rèn" info="1.不加约束，听其自然 2.不干涉" />
+		<phrase hz="赴任" py="fù,rèn" info="官吏去到某地担任职务" />
+		<phrase hz="兼任" py="jiān,rèn" info="1.担任几个职务;兼职 2.不是专门的任职" />
+		<phrase hz="接任" py="jiē,rèn" info="接替某人的职务" />
+		<phrase hz="就任" py="jiù,rèn" info="赴任;就职或担任职务" />
+		<phrase hz="离任" py="lí,rèn" info="离开职务" />
+		<phrase hz="历任" py="lì,rèn" info="谓先后连续担任各项职务。" />
+		<phrase hz="连任" py="lián,rèn" />
+		<phrase hz="留任" py="liú,rèn" />
+		<phrase hz="前任" py="qián,rèn" info="1.已由他人替代其原任职位的人 2.原先占有某种职位或地位的人" />
+		<phrase hz="去任" py="qù,rèn" />
+		<phrase hz="任从" py="rèn,cóng" />
+		<phrase hz="任何" py="rèn,hé" />
+		<phrase hz="任免" py="rèn,miǎn" info="任用或免去职务" />
+		<phrase hz="任命" py="rèn,mìng" info="委任，下文任用" />
+		<phrase hz="任凭" py="rèn,píng" />
+		<phrase hz="任事" py="rèn,shì" />
+		<phrase hz="任务" py="rèn,wù" />
+		<phrase hz="任性" py="rèn,xìng" info="听凭秉性行事;放纵不约束自己" />
+		<phrase hz="任用" py="rèn,yòng" info="任命使用;派人任职" />
+		<phrase hz="任职" py="rèn,zhí" />
+		<phrase hz="上任" py="shàng,rèn" info="1.官员就职 2.指前一任的官员" />
+		<phrase hz="升任" py="shēng,rèn" />
+		<phrase hz="胜任" py="shèng,rèn" info="足以担任" />
+		<phrase hz="委任" py="wěi,rèn" info="任命某人担任职务" />
+		<phrase hz="卸任" py="xiè,rèn" info="指官吏离职" />
+		<phrase hz="信任" py="xìn,rèn" />
+		<phrase hz="责任" py="zé,rèn" />
+		<phrase hz="主任" py="zhǔ,rèn" info="职位名称。机构或部门的主要负责人" />
+		<phrase hz="专任" py="zhuān,rèn" info="专门担任" />
+		<definition id="一">
+			<item id="1" text="相信，依赖（(连)信-）。" />
+			<item id="2" text="任命，使用，给予职务：~用." />
+			<item id="3" text="负担或担当（(连)担-）：~课. 连选连~. ~劳~怨." />
+			<item id="4" text="职务：到~. 接受重~. 一身而二~." />
+			<item id="5" text="由着，听凭：~意. ~性. 放~. 不能~其自然发展." />
+			<item id="6" text="连词，不论：~谁说也不听. ~什么都不懂. (转)任何，无论什么：~人皆知." />
+			<item text="" />
+		</definition>
+	</char>
+</pinyin>

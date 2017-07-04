@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="沈" py="chén" multi="shěn">
+		<definition id="二">
+			<item text="同“沉”。" />
+		</definition>
+	</char>
+	<char hz="沈" py="shěn" multi="chén" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="姓。" />
+			<item id="2" text="汁：墨~未干." />
+			<item id="3" text="[沈阳]地名，在辽宁省。" />
+		</definition>
+	</char>
+</pinyin>

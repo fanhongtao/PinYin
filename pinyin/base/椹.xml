@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="椹" py="shèn" multi="zhēn" info="Word主音">
+		<phrase hz="桑椹" py="sāng,shèn" />
+		<phrase hz="食椹" py="shí,shèn" info="见“食葚”。" />
+		<definition id="二">
+			<item text="同“葚”。" />
+		</definition>
+	</char>
+	<char hz="椹" py="zhēn" multi="shèn" main="1">
+		<phrase hz="椹板" py="zhēn,bǎn" info="切菜用的木板。" />
+		<phrase hz="椹斧" py="zhēn,fǔ" info="砧和斧。 古代杀人之具。" />
+		<phrase hz="椹质" py="zhēn,zhì" info="1.箭靶。2.指腰斩人时所用的垫板。" />
+		<definition id="一">
+			<item text="同“砧”。" />
+		</definition>
+	</char>
+</pinyin>

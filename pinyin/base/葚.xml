@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="葚" py="rèn" multi="shèn">
+		<phrase hz="桑葚儿" py="sāng,rèn,er" />
+		<definition id="二">
+			<item text="[桑葚儿]桑树的果实，用于口语。" />
+		</definition>
+	</char>
+	<char hz="葚" py="shèn" multi="rèn" main="1">
+		<phrase hz="桑葚" py="sāng,shèn" />
+		<phrase hz="食葚" py="shí,shèn" info="亦作“食椹”。比喻受人恩惠。" />
+		<definition id="一">
+			<item text="[桑葚]桑树结的果实。" />
+		</definition>
+	</char>
+</pinyin>

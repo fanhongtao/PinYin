@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="靓" py="jìng" multi="liàng" main="1">
+		<phrase hz="靓饰" py="jìng,shì" info="妆饰艳丽。" />
+		<phrase hz="靓妆" py="jìng,zhuāng" info="1.浓妆艳抹。2.借指妆饰华美的女子。3.打扮。4.指打扮得很美丽，浓妆艳抹。" />
+		<phrase hz="靓庄" py="jìng,zhuāng" info="1.打扮，妆饰。2.指妆饰艳丽。" />
+		<definition id="一">
+			<item text="妆饰，打扮。" />
+		</definition>
+	</char>
+	<char hz="靓" py="liàng" multi="jìng">
+		<phrase hz="靓丽" py="liàng,lì" info="艳丽。" />
+		<phrase hz="靓女" py="liàng,nǚ" info="〈方〉:漂亮的女子(多指年轻的)" />
+		<phrase hz="靓姝" py="liàng,shū" info="艳丽美好。" />
+		<phrase hz="靓仔" py="liàng,zǎi" info="〈方〉:年轻貌美的小伙子。" />
+		<phrase hz="靓装" py="liàng,zhuāng" info="借指浓妆艳抹的女子。" />
+		<definition id="二">
+			<item text="〈方〉漂亮，好看：~女." />
+		</definition>
+	</char>
+</pinyin>

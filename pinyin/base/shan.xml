@@ -8,11 +8,7 @@
 			<item text="常绿乔木，树干高而直，叶子细小，呈针状，果实球形。木材供建筑和制器具用。 [水杉]落叶乔木，叶披针形。我国特产，是世界现在的稀有植物之一。" />
 		</definition>
 	</char>
-	<char hz="钐" py="shān" multi="shàn" main="1">
-		<definition id="一">
-			<item text="一种金属元素，符号Sm，银白色，有放射性。钐的氧化物是原子反应堆上陶瓷保护层的重要成分。" />
-		</definition>
-	</char>
+	<!-- Ref:钐.xml <char hz="钐" py="shān" multi="shàn" main="1" /> -->
 	<char hz="衫" py="shān" />
 	<char hz="删" py="shān" />
 	<char hz="姗" py="shān" />
@@ -27,30 +23,15 @@
 		</definition>
 	</char>
 	<char hz="跚" py="shān" />
-	<char hz="苫" py="shān" multi="shàn" main="1">
-		<phrase hz="草苫" py="cǎo,shān" info="1.草垫。2.用草覆盖的屋顶。" />
-		<definition id="一">
-			<item text="草帘子，草垫子：草~子." />
-		</definition>
-	</char>
+	<!-- Ref:苫.xml <char hz="苫" py="shān" multi="shàn" main="1" /> -->
 	<char hz="痁" py="shān" />
 	<char hz="埏" py="shān" multi="yán" main="1">
+		<phrase hz="埏埴" py="shān,zhí" info="1.用水和(huó)泥來製作陶器。 2.陶器。 3.培養。" />
 		<definition id="一">
-			<phrase hz="埏埴" py="shān,zhí" info="1.用水和(huó)泥來製作陶器。 2.陶器。 3.培養。" />
 			<item text="用水和(huó)泥。" />
 		</definition>
 	</char>
-	<char hz="扇" py="shān" multi="shàn">
-		<phrase hz="扇动" py="shān,dòng" info="1.摇动扇子 2.煽动" />
-		<phrase hz="扇耳光" py="shān,ěr,guāng" />
-		<phrase hz="扇风" py="shān,fēng" info="1.摇扇所生的风。 2.起风，鼓风。" />
-		<phrase hz="用扇子扇" py="yòng,shàn,zi,shān" />
-		<definition id="二">
-			<item id="1" text="摇动扇子或其他东西，使空气加速流动生风：用扇子~." />
-			<item id="2" text="用手掌打：~了他一耳光." />
-			<item id="3" text="同“煽(2)”。" />
-		</definition>
-	</char>
+	<!-- Ref:扇.xml <char hz="扇" py="shān" multi="shàn" /> -->
 	<char hz="煽" py="shān">
 		<definition>
 			<item id="1" text="同“扇(二)(1)”。" />
@@ -67,43 +48,12 @@
 	<char hz="讪" py="shàn" />
 	<char hz="汕" py="shàn" />
 	<char hz="疝" py="shàn" />
-	<char hz="苫" py="shàn" multi="shān">
-		<definition id="二">
-			<item text="用席、布等遮盖：拿席~上点." />
-		</definition>
-	</char>
-	<char hz="钐" py="shàn" multi="shān">
-		<phrase hz="钐草" py="shàn,cǎo" />
-		<phrase hz="钐刀" py="shàn,dāo" />
-		<phrase hz="钐镰" py="shàn,lián" />
-		<phrase hz="钐麦" py="shàn,mài" />
-		<definition id="二">
-			<item text="抡开镰刀或钐镰割：~草. ~麦. [钐镰][钐刀]一种把儿很长的大镰刀。" />
-		</definition>
-	</char>
-	<char hz="单" py="shàn" multi="dān,chán">
-		<phrase hz="单县" py="shàn,xiàn" />
-		<definition id="二">
-			<item id="1" text="姓。" />
-			<item id="2" text="单县，在山东省。" />
-		</definition>
-	</char>
+	<!-- Ref:苫.xml <char hz="苫" py="shàn" multi="shān" /> -->
+	<!-- Ref:钐.xml <char hz="钐" py="shàn" multi="shān" /> -->
+	<!-- Ref:单.xml <char hz="单" py="shàn" multi="dān,chán" /> -->
 	<char hz="墠" py="shàn" trans="1" />
-	<char hz="掸" py="shàn" multi="dǎn">
-		<phrase hz="掸族" py="shàn,zú" />
-		<phrase hz="掸邦" py="shàn,bāng" />
-		<definition id="二">
-			<item id="1" text="我国史书对傣族的一种称呼。" />
-			<item id="2" text="掸族，缅甸民族之一，大部分居住在掸邦。 [掸邦]缅甸自治邦之一。" />
-		</definition>
-	</char>
-	<char hz="禅" py="shàn" multi="chán">
-		<phrase hz="封禅" py="fēng,shàn" />
-		<phrase hz="禅让" py="shàn,ràng" />
-		<definition id="二">
-			<item text="禅让，指古代帝王让位给别人，如尧让位给舜，舜让位给禹。" />
-		</definition>
-	</char>
+	<!-- Ref:掸.xml <char hz="掸" py="shàn" multi="dǎn" /> -->
+	<!-- Ref:禅.xml <char hz="禅" py="shàn" multi="chán" /> -->
 	<char hz="剡" py="shàn" multi="yǎn">
 		<phrase hz="剡溪" py="shàn,xī" />
 		<definition id="二">
@@ -111,34 +61,7 @@
 		</definition>
 	</char>
 	<char hz="掞" py="shàn" />
-	<char hz="扇" py="shàn" multi="shān" main="1">
-		<phrase hz="芭蕉扇" py="bā,jiāo,shàn" info="用蒲葵叶子做的扇子。" />
-		<phrase hz="窗扇" py="chuāng,shàn" info="封闭窗洞的开关窗、吊窗连同其配件或其他框架" />
-		<phrase hz="电扇" py="diàn,shàn" info="利用电动机带动叶片旋转，使空气流动达到降温目的的装置" />
-		<phrase hz="吊扇" py="diào,shàn" info="一种吊在房顶上低速电风扇，所扇的风可吹过广阔的范围，能在低速运转时排出大量的空气" />
-		<phrase hz="风扇" py="fēng,shàn" info="1.产生人工气流的一种工具或装置(如使一个宽的表面作飘荡或回旋运动) 2.用电驱动产生气流的装置" />
-		<phrase hz="画扇" py="huà,shàn" info="1.在扇上作画。 2.指有画饰的扇子。" />
-		<phrase hz="葵扇" py="kuí,shàn" info="用蒲葵叶制成的扇子。 俗称芭蕉扇。" />
-		<phrase hz="落地扇" py="luò,dì,shàn" />
-		<phrase hz="门扇" py="mén,shàn" info="门扉;门的可自由开关的部分" />
-		<phrase hz="磨扇" py="mò,shàn" info="即磨盘。" />
-		<phrase hz="蒲扇" py="pú,shàn" info="用香蒲叶做成的扇子" />
-		<phrase hz="扇贝" py="shàn,bèi" info="扇贝科海洋双壳软体动物中的一种，其外壳呈辐射肋状，边缘呈波形，套膜边缘生有发达的单眼和一块很大的闭壳肌，可食用;这种贝一般不关闭贝壳，但能藉贝壳的开合而游动" />
-		<phrase hz="扇骨" py="shàn,gǔ" info="指折扇的骨子。" />
-		<phrase hz="扇形" py="shàn,xíng" info="一种几何图形，由圆的两个半径及其间的弧围成" />
-		<phrase hz="扇子" py="shàn,zi" info="用来摇动生风使人体感觉凉爽的用具，通常呈不完全的圆形，并由安装在细杆或细条上的材料(如羽毛、纸张和丝绸)构成" />
-		<phrase hz="台扇" py="tái,shàn" info="适于放在桌几上的个体较小的有座电扇" />
-		<phrase hz="团扇" py="tuán,shàn" info="1.圆形有柄的扇子。古代宫内多用之，又称宫扇。 2.乐府歌曲名。指《团扇郎歌》。 3.乐府歌曲名。指汉班婕妤所作《怨歌行》。因诗中有“裁为合欢扇，团团似明月”等诗句，故名。" />
-		<phrase hz="纨扇" py="wán,shàn" info="用细绢制成的团扇" />
-		<phrase hz="一扇磨" py="yí,shàn,mò" />
-		<phrase hz="羽扇" py="yǔ,shàn" info="用鸟羽制成的扇子" />
-		<phrase hz="折扇" py="zhé,shàn" info="一种可以折叠的扇子，用竹、木、象牙等做骨架，上面蒙上纸或绢" />
-		<phrase hz="走扇" py="zǒu,shàn" info="门扇或窗扇由于变形等原因而关闭不严" />
-		<definition id="一">
-			<item id="1" text="（-子）摇动生风取凉的用具：折~. 蒲~. 电~." />
-			<item id="2" text="量词：一~门. 两~窗户. 一~磨(mò)." />
-		</definition>
-	</char>
+	<!-- Ref:扇.xml <char hz="扇" py="shàn" multi="shān" main="1" /> -->
 	<char hz="骟" py="shàn" />
 	<char hz="" py="shàn" />
 	<char hz="善" py="shàn" />

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鹘" py="gǔ" multi="hú">
+		<phrase hz="鹘鸼" py="gǔ,zhōu" />
+		<definition id="二">
+			<item text="[鹘鸼](-zhōu)古书上说的一种鸟，羽毛青黑色，尾巴短。" />
+		</definition>
+	</char>
+	<char hz="鹘" py="hú" multi="gǔ" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="隼(sǔn)。" />
+		</definition>
+	</char>
+</pinyin>

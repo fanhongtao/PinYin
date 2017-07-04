@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蜇" py="zhē" multi="zhé" main="1" suppressLog="1">
+		<definition id="二">
+			<item id="1" text="有毒腺的虫子刺人或牲畜：被蝎子~了." />
+			<item id="2" text="某些东西刺激皮肤或器官使感觉不适：切洋葱~眼睛." />
+		</definition>
+	</char>
+	<char hz="蜇" py="zhé" multi="zhē">
+		<phrase hz="海蜇" py="hǎi,zhé" />
+		<definition id="一">
+			<item text="海蜇，在海里生活的一种腔肠动物，形状像张开的伞，可供食用。" />
+		</definition>
+	</char>
+</pinyin>

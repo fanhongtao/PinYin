@@ -24,11 +24,7 @@
 	<char hz="阱" py="jǐng" />
 	<char hz="肼" py="jǐng" />
 	<char hz="刭" py="jǐng" />
-	<char hz="颈" py="jǐng" multi="gěng" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="脖子，头和躯干相连接的部分。" />
-		</definition>
-	</char>
+	<!-- Ref:颈.xml <char hz="颈" py="jǐng" multi="gěng" main="1" suppressLog="1" /> -->
 	<char hz="景" py="jǐng" />
 	<char hz="憬" py="jǐng" />
 	<char hz="璟" py="jǐng" />
@@ -36,21 +32,7 @@
 		<phrase hz="惩一儆百" py="chéng,yī,jǐng,bǎi" />
 	</char>
 	<char hz="警" py="jǐng" />
-	<char hz="劲" py="jìng" multi="jìn">
-		<phrase hz="苍劲" py="cāng,jìng" info="老练刚劲" />
-		<phrase hz="刚劲" py="gāng,jìng" info="强劲有力" />
-		<phrase hz="疾风知劲草" py="jí,fēng,zhī,jìng,cǎo" />
-		<phrase hz="劲拔" py="jìng,bá" info="雄健挺拔" />
-		<phrase hz="劲敌" py="jìng,dí" info="强劲的敌人或对手" />
-		<phrase hz="劲旅" py="jìng,lǚ" info="1.精锐的军队;强有力的队伍。2.强有力的军队。" />
-		<phrase hz="劲射" py="jìng,shè" info="快而有力的射球" />
-		<phrase hz="劲直" py="jìng,zhí" info="坚强正直" />
-		<phrase hz="强劲" py="qiáng,jìng" info="强大有力" />
-		<phrase hz="遒劲" py="qiú,jìng" info="强劲有力;刚健有力。多指书画的运笔" />
-		<definition id="二">
-			<item text="坚强有力：~旅. ~敌. 刚~. 疾风知~草." />
-		</definition>
-	</char>
+	<!-- Ref:劲.xml <char hz="劲" py="jìng" multi="jìn" /> -->
 	<char hz="径" py="jìng" />
 	<char hz="胫" py="jìng" />
 	<char hz="痉" py="jìng">
@@ -60,25 +42,14 @@
 	<char hz="静" py="jìng">
 		<phrase hz="更深夜静" py="gēng,shēn,yè,jìng" />
 	</char>
-	<char hz="倞" py="jìng" multi="liàng">
-		<definition id="一">
-			<item text="强，强劲。" />
-		</definition>
-	</char>
+	<!-- Ref:倞.xml <char hz="倞" py="jìng" multi="liàng" /> -->
 	<char hz="竞" py="jìng" />
 	<char hz="竟" py="jìng" />
 	<char hz="境" py="jìng" />
 	<char hz="獍" py="jìng" />
 	<char hz="镜" py="jìng" />
 	<char hz="婧" py="jìng" />
-	<char hz="靓" py="jìng" multi="liàng" main="1">
-		<phrase hz="靓饰" py="jìng,shì" info="妆饰艳丽。" />
-		<phrase hz="靓妆" py="jìng,zhuāng" info="1.浓妆艳抹。2.借指妆饰华美的女子。3.打扮。4.指打扮得很美丽，浓妆艳抹。" />
-		<phrase hz="靓庄" py="jìng,zhuāng" info="1.打扮，妆饰。2.指妆饰艳丽。" />
-		<definition id="一">
-			<item text="妆饰，打扮。" />
-		</definition>
-	</char>
+	<!-- Ref:靓.xml <char hz="靓" py="jìng" multi="liàng" main="1" /> -->
 	<char hz="靖" py="jìng" />
 	<char hz="敬" py="jìng" />
 </pinyin>

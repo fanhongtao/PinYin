@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溱" py="qín" multi="zhēn" info="Word主音">
+		<phrase hz="溱潼" py="qín,tóng" />
+		<definition id="二">
+			<item text="[溱潼](-tóng)地名，在江苏省泰州。" />
+		</definition>
+	</char>
+	<char hz="溱" py="zhēn" multi="qín" main="1">
+		<phrase hz="溱头河" py="zhēn,tóu,hé" />
+		<phrase hz="溱溱" py="zhēn,zhēn" info="1.盛多貌。2.汗出貌。" />
+		<definition id="一">
+			<item text="溱头河，水名，在河南省驻马店。今作“臻头河”。" />
+		</definition>
+	</char>
+</pinyin>

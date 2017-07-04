@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="折" py="shé" multi="zhē,zhé">
+		<phrase hz="折本" py="shé,běn" />
+		<phrase hz="折耗" py="shé,hào" />
+		<phrase hz="折了" py="shé,le" />
+		<definition id="二">
+			<item id="1" text="断：绳子~了. 棍子~了." />
+			<item id="2" text="亏损：~本. [折耗]亏耗，损失：青菜~~太大." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+	<char hz="折" py="zhē" multi="shé,zhé">
+		<phrase hz="折跟头" py="zhē,gēn,tou" />
+		<phrase hz="折腾" py="zhē,teng" info="1.翻来覆去 2.反复做[某事]" />
+		<definition id="三">
+			<item text="翻转，倒腾：~跟头. 用两个碗把开水~一~就凉了." />
+		</definition>
+	</char>
+	<char hz="折" py="zhé" multi="shé,zhē" main="1" suppressLog="1">
+		<phrase hz="折磨" py="zhé,mó" />
+		<definition id="一">
+			<item id="1" text="断，弄断：禁止攀~花木. (喻)幼年死亡：夭~. [折磨](-mó)使肉体或精神上受痛苦：解放前劳动人民受尽了~~." />
+			<item id="2" text="损失：损兵~将." />
+			<item id="3" text="弯转，屈曲：~腰. 转~点. (引)返转，回转：走到半路又~回来了. [折中]（*折衷）对不同意见采取调和态度。" />
+			<item id="4" text="叠（(连)-叠）：~衣服. ~尺." />
+			<item id="5" text="（-子、-儿）用纸折叠起来的本子：存~." />
+			<item id="6" text="杂剧一本分四折，一折相当于现代戏曲的一场。" />
+			<item id="7" text="心服：~服. 心~." />
+			<item id="8" text="折扣，按成数减少：打~扣. 九~." />
+			<item id="9" text="抵作，对换，以此代彼：~账. ~变（变卖）." />
+			<item id="10" text="汉字的一种笔形（乛），“买”字的第一笔是~." />
+		</definition>
+	</char>
+</pinyin>

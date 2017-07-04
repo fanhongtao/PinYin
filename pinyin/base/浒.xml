@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="浒" py="hǔ" multi="xǔ" main="1">
+		<phrase hz="河浒" py="hé,hǔ" info="河边。" />
+		<phrase hz="江浒" py="jiāng,hǔ" info="江边。" />
+		<phrase hz="水浒" py="shuǐ,hǔ" info="水边。" />
+		<phrase hz="溪浒" py="xī,hǔ" info="溪边。" />
+		<definition id="一">
+			<item text="水边。" />
+		</definition>
+	</char>
+	<char hz="浒" py="xǔ" multi="hǔ">
+		<phrase hz="浒浦" py="xǔ,pǔ" />
+		<phrase hz="浒墅关" py="xǔ,shù,guān" />
+		<definition id="二">
+			<item text="[浒墅关]地名，在江苏省苏州。 [浒浦]地名，在江苏省常熟。" />
+		</definition>
+	</char>
+</pinyin>

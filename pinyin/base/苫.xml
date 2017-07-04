@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="苫" py="shān" multi="shàn" main="1">
+		<phrase hz="草苫" py="cǎo,shān" info="1.草垫。2.用草覆盖的屋顶。" />
+		<definition id="一">
+			<item text="草帘子，草垫子：草~子." />
+		</definition>
+	</char>
+	<char hz="苫" py="shàn" multi="shān">
+		<definition id="二">
+			<item text="用席、布等遮盖：拿席~上点." />
+		</definition>
+	</char>
+</pinyin>

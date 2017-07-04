@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="读" py="dòu" multi="dú">
+		<phrase hz="句读" py="jù,dòu" />
+		<definition id="二">
+			<item text="旧指文章里一句话中间念起来要稍稍停顿的地方：句~." />
+		</definition>
+	</char>
+	<char hz="读" py="dú" multi="dòu" main="1" suppressLog="1">
+		<phrase hz="拜读" py="bài,dú" />
+		<phrase hz="伴读" py="bàn,dú" />
+		<phrase hz="导读" py="dǎo,dú" />
+		<phrase hz="读报" py="dú,bào" />
+		<phrase hz="读经" py="dú,jīng" />
+		<phrase hz="读书" py="dú,shū" />
+		<phrase hz="读物" py="dú,wù" />
+		<phrase hz="读音" py="dú,yīn" />
+		<phrase hz="读者" py="dú,zhě" />
+		<phrase hz="复读" py="fù,dú" />
+		<phrase hz="朗读" py="lǎng,dú" />
+		<phrase hz="默读" py="mò,dú" />
+		<phrase hz="陪读" py="péi,dú" />
+		<phrase hz="品读" py="pǐn,dú" />
+		<phrase hz="审读" py="shěn,dú" />
+		<phrase hz="诵读" py="sòng,dú" />
+		<phrase hz="宣读" py="xuān,dú" />
+		<phrase hz="研读" py="yán,dú" />
+		<phrase hz="阅读" py="yuè,dú" />
+		<definition id="一">
+			<item text="依照文字念：宣~. 朗~. ~报. (引)1.阅读，看书，阅览：~书. ~者. 2.求学：~大学." />
+		</definition>
+	</char>
+</pinyin>

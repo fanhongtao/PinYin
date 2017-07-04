@@ -4,11 +4,7 @@
 	<char hz="饦" py="tuō" />
 	<char hz="拖" py="tuō" />
 	<char hz="脱" py="tuō" />
-	<char hz="驮" py="tuó" multi="duò" main="1">
-		<definition id="一">
-			<item text="用背（多指牲口）负载人或物：那匹马~着两袋粮食." />
-		</definition>
-	</char>
+	<!-- Ref:驮.xml <char hz="驮" py="tuó" multi="duò" main="1" /> -->
 	<char hz="佗" py="tuó" />
 	<char hz="陀" py="tuó">
 		<phrase hz="陀螺" py="tuó,luó" />
@@ -16,12 +12,7 @@
 	<char hz="坨" py="tuó" />
 	<char hz="沱" py="tuó" />
 	<char hz="驼" py="tuó" />
-	<char hz="柁" py="tuó" multi="duò">
-		<phrase hz="房柁" py="fáng,tuó" />
-		<definition id="一">
-			<item text="房柁，房架前后两个柱子之间的大横梁。" />
-		</definition>
-	</char>
+	<!-- Ref:柁.xml <char hz="柁" py="tuó" multi="duò" /> -->
 	<char hz="砣" py="tuó">
 		<definition>
 			<item id="1" text="秤锤。" />

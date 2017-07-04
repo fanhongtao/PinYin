@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="舍" py="shě" multi="shè" info="Word主音">
+		<phrase hz="不舍" py="bù,shě" info="1.不停止。 2.不放弃；不忍离开。 3.不饶恕。" />
+		<phrase hz="割舍" py="gē,shě" info="抛弃;舍得" />
+		<phrase hz="老舍" py="lǎo,shě" info="老舍(1899-1966) : 小说家，剧作家。 原名舒庆春，字舍予，北京人。满族。1924年去英国任教，后参加文学研究会。回国后任山东大学教授。1936年起专事创作。1946年去美国讲学。建国后曾任中国文联副主席、中国作协副主席。曾获北京市政府授予的人民艺术家称号。著有长篇小说《骆驼祥子》、《四世同堂》，剧本《龙须沟》、《茶馆》等。有《老舍文集》。" />
+		<phrase hz="抛舍" py="pāo,shě" info="抛开，撇下。" />
+		<phrase hz="取舍" py="qǔ,shě" info="采取或舍弃;选择" />
+		<phrase hz="舍本逐末" py="shě,běn,zhú,mò" info="指做事舍弃根本的部分,却过多地追求细枝末节,形容轻重倒置。也说“舍本求末”" />
+		<phrase hz="舍得" py="shě,de" info="愿意付出，不吝惜。" />
+		<phrase hz="舍短取长" py="shě,duǎn,qǔ,cháng" info="谓弃其短处,取其长处" />
+		<phrase hz="舍己成人" py="shě,jǐ,chéng,rén" info="犧牲自己而成全他人。" />
+		<phrase hz="舍己从人" py="shě,jǐ,cóng,rén" info="放弃自己的意见而服从他人的主张" />
+		<phrase hz="舍己救人" py="shě,jǐ,jiù,rén" info="犧牲自己，拯救他人。" />
+		<phrase hz="舍己为公" py="shě,jǐ,wèi,gōng" info="為公眾利益而犧牲自己。" />
+		<phrase hz="舍己为人" py="shě,jǐ,wèi,rén" info="原指放弃自己的见解,随声附和别人。后用指舍弃自己的利益,援助他人" />
+		<phrase hz="舍己芸人" py="shě,jǐ,yún,rén" info="原指捨棄自己的田地，去耕種他人的土地。語本孟子．盡心下：「君子之守，修其身而天下平。人病舍其田，而芸人之田；所求于人者重，而所以自任者輕。」後用來比喻犧牲自己，成就他人。" />
+		<phrase hz="舍近即远" py="shě,jìn,jí,yuǎn" info="捨棄近處而謀求遠地。比喻迂拙而不切實際。孫子．九地「易其居，迂其途」句下杜牧．注：「易其居，去安從危；迂其途，捨近即遠。」亦作「舍近謀遠」。" />
+		<phrase hz="舍近谋远" py="shě,jìn,móu,yuǎn" info="捨棄近的而去謀求遠的。比喻愚拙而不切實際。" />
+		<phrase hz="舍近求远" py="shě,jìn,qiú,yuǎn" info="形容做事走弯路或追求不切实际的东西。也说“舍近谋远”" />
+		<phrase hz="舍近务远" py="shě,jìn,wù,yuǎn" info="捨棄近的而去求取遠的。比喻迂拙不切實際。" />
+		<phrase hz="舍车保帅" py="shě,jū,bǎo,shuài" info="象棋用语,比喻在某些斗争中,为了保全主要的人物,出了问题就把责任推到次要人物的身上" />
+		<phrase hz="舍脸" py="shě,liǎn" info="不得已而不顾面子" />
+		<phrase hz="舍命" py="shě,mìng" info="舍弃生命;拼命" />
+		<phrase hz="舍弃" py="shě,qì" info="放弃，抛弃" />
+		<phrase hz="舍身" py="shě,shēn" info="1.佛教徒为宣扬佛法，或为布施寺院，自作苦行，谓之“捨身”。2.牺牲自己。 3.本指佛教徒牺牲自己的肉体，以表示佛法的大慈大悲的精神。后亦用于为国家、人民和正义事业而牺牲自己。" />
+		<phrase hz="舍生存义" py="shě,shēng,cún,yì" info="捨棄性命以維護正義。" />
+		<phrase hz="舍生取义" py="shě,shēng,qǔ,yì" info="語本孟子．告子上：「生亦我所欲也；義亦我所欲也；二者不可得兼，舍生而取義者也。」指為正義真理不惜犧牲生命。" />
+		<phrase hz="舍生忘死" py="shě,shēng,wàng,sǐ" info="不顧性命。" />
+		<phrase hz="舍死忘生" py="shě,sǐ,wàng,shēng" info="不顾死亡,忘记生命。形容不顾自己的生命安危。也作“舍生忘死”" />
+		<phrase hz="舍我其谁" py="shě,wǒ,qí,shuí" info="語出孟子．公孫丑下：「如欲平治天下，當今之世，舍我其誰也？」意指除了我以外，再沒有更適當的人選。" />
+		<phrase hz="舍药" py="shě,yào" />
+		<phrase hz="舍粥" py="shě,zhōu" />
+		<phrase hz="施舍" py="shī,shě" info="以财物救济穷人或出家人" />
+		<phrase hz="四舍五入" py="sì,shě,wǔ,rù" />
+		<definition id="二">
+			<item id="1" text="放弃，不要了：~已为人. ~近求远. 四~五入." />
+			<item id="2" text="施舍：~粥. ~药." />
+		</definition>
+	</char>
+	<char hz="舍" py="shè" multi="shě" main="1">
+		<phrase hz="寒舍" py="hán,shè" info="谦辞，对人称自己的家" />
+		<phrase hz="劫舍" py="jié,shè" info="抢掠村舍。" />
+		<phrase hz="邻舍" py="lín,shè" info="〈方〉家住隔壁的人" />
+		<phrase hz="庐舍" py="lú,shè" info="1.房屋，住宅。2.建于墓侧之守丧小屋。" />
+		<phrase hz="旅舍" py="lǚ,shè" info="旅馆" />
+		<phrase hz="茅舍" py="máo,shè" info="茅屋;草屋" />
+		<phrase hz="农舍" py="nóng,shè" info="农民住的房子" />
+		<phrase hz="舍弟" py="shè,dì" info="用于对别人称自己家的弟弟。" />
+		<phrase hz="舍间" py="shè,jiān" info="对自己的家的谦称" />
+		<phrase hz="舍利" py="shè,lì" info="又作“舍利子”。意为尸体或身骨,佛教称释迦牟尼遗体火焚后结成的珠状物。后来也指高僧火化后所产生的结晶体" />
+		<phrase hz="舍妹" py="shè,mèi" info="用于对别人称自己家的妹妹。" />
+		<phrase hz="舍亲" py="shè,qīn" info="对他人称自己的亲戚的谦词" />
+		<phrase hz="舍下" py="shè,xià" info="谦称自己的家。" />
+		<phrase hz="宿舍" py="sù,shè" info="学校、机关等供学生、工作人员及其家属住的房屋" />
+		<phrase hz="退避三舍" py="tuì,bì,sān,shè" info="舍：古时行军计程以三十里为一舍。主动退让九十里。比喻退让和回避，避免冲突。" />
+		<phrase hz="校舍" py="xiào,shè" info="即学舍。 学校的房子。古代的学校;尤指小学校舍" />
+		<phrase hz="学舍" py="xué,shè" info="1.学校的房舍。2.犹学校。" />
+		<phrase hz="猪舍" py="zhū,shè" info="饲养猪群的建筑物。" />
+		<definition id="一">
+			<item id="1" text="居住的房子：旅~. 宿~." />
+			<item id="2" text="养家畜的圈：猪~. 牛~." />
+			<item id="3" text="古代行军三十里叫一舍：退避三~（喻对人让步）." />
+			<item id="4" text="谦辞，用于对别人称自己的亲戚或年纪小辈分低的亲属：~亲. ~弟. ~侄." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

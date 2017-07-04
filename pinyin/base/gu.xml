@@ -45,21 +45,11 @@
 	<char hz="榾" py="gǔ">
 		<phrase hz="榾柮" py="gǔ,duò" />
 	</char>
-	<char hz="鹘" py="gǔ" multi="hú">
-		<phrase hz="鹘鸼" py="gǔ,zhōu" />
-		<definition id="二">
-			<item text="[鹘鸼](-zhōu)古书上说的一种鸟，羽毛青黑色，尾巴短。" />
-		</definition>
-	</char>
+	<!-- Ref:鹘.xml <char hz="鹘" py="gǔ" multi="hú" /> -->
 	<!-- Ref:贾.xml <char hz="贾" py="gǔ" multi="jiǎ" /> -->
 	<char hz="羖" py="gǔ" />
 	<char hz="蛊" py="gǔ" />
-	<char hz="鹄" py="gǔ" multi="hú" info="Word主音">
-		<phrase hz="鹄的" py="gǔ,dì" />
-		<definition id="一">
-			<item text="射箭的靶子。 [鹄的](-dì)箭靶子的中心，练习射击的目标。" />
-		</definition>
-	</char>
+	<!-- Ref:鹄.xml <char hz="鹄" py="gǔ" multi="hú" info="Word主音" /> -->
 	<char hz="鼓" py="gǔ" />
 	<char hz="臌" py="gǔ" />
 	<char hz="瞽" py="gǔ" />

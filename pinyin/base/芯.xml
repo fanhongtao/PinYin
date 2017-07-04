@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="芯" py="xīn" multi="xìn" main="1">
+		<phrase hz="灯芯" py="dēng,xīn" />
+		<definition id="一">
+			<item text="去皮的灯心草：灯~." />
+		</definition>
+	</char>
+	<char hz="芯" py="xìn" multi="xīn">
+		<phrase hz="芯子" py="xìn,zǐ" />
+		<definition id="二">
+			<item id="1" text="（-子）装在器物中心的捻子或消息儿，如蜡烛的捻子、爆竹的引线等。" />
+			<item id="2" text="（-子）蛇的舌头。" />
+		</definition>
+	</char>
+</pinyin>

@@ -57,16 +57,8 @@
 	<!-- Ref:核.xml <char hz="核" py="hú" multi="hé" /> -->
 	<char hz="斛" py="hú" />
 	<char hz="槲" py="hú" />
-	<char hz="鹄" py="hú" multi="gǔ" main="1">
-		<definition id="二">
-			<item text="鸟名，也叫“天鹅”，形状像鹅而较大，羽毛白色，飞得高而快，生活在海滨或湖边：~立（静静地站着等候）." />
-		</definition>
-	</char>
-	<char hz="鹘" py="hú" multi="gǔ" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="隼(sǔn)。" />
-		</definition>
-	</char>
+	<!-- Ref:鹄.xml <char hz="鹄" py="hú" multi="gǔ" main="1" /> -->
+	<!-- Ref:鹘.xml <char hz="鹘" py="hú" multi="gǔ" main="1" suppressLog="1" /> -->
 	<char hz="縠" py="hú" />
 	<char hz="觳" py="hú">
 		<phrase hz="觳觫" py="hú,sù" />
@@ -85,15 +77,7 @@
 	<char hz="琥" py="hǔ">
 		<phrase hz="琥珀" py="hǔ,pò" />
 	</char>
-	<char hz="浒" py="hǔ" multi="xǔ" main="1">
-		<phrase hz="河浒" py="hé,hǔ" info="河边。" />
-		<phrase hz="江浒" py="jiāng,hǔ" info="江边。" />
-		<phrase hz="水浒" py="shuǐ,hǔ" info="水边。" />
-		<phrase hz="溪浒" py="xī,hǔ" info="溪边。" />
-		<definition id="一">
-			<item text="水边。" />
-		</definition>
-	</char>
+	<!-- Ref:浒.xml <char hz="浒" py="hǔ" multi="xǔ" main="1" /> -->
 	<char hz="互" py="hù" />
 	<char hz="冱" py="hù" />
 	<char hz="枑" py="hù" />

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="亲" py="qīn" multi="qìng" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="亲属，有血统或夫妻关系的：~人. ~兄弟. 特指父母：双~. 养~." />
+			<item id="2" text="婚姻：定~. ~事." />
+			<item id="3" text="特指新妇：娶~." />
+			<item id="4" text="亲戚，因婚姻联成的亲属关系：姑表~." />
+			<item id="5" text="本身，自己的：~笔信. ~眼见的. ~手做的." />
+			<item id="6" text="感情好，关系密切：他们很~密. 兄弟相~." />
+			<item id="7" text="用嘴唇接触，表示喜爱：他~了~孩子的小脸蛋." />
+		</definition>
+	</char>
+	<char hz="亲" py="qìng" multi="qīn">
+		<phrase hz="亲家" py="qìng,jia" />
+		<definition id="二">
+			<item text="[亲家]夫妻双方的父母彼此的关系或称呼。" />
+		</definition>
+	</char>
+</pinyin>

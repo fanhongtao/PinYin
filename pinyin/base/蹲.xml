@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蹲" py="cún" multi="dūn">
+		<definition id="二">
+			<item text="脚、腿猛然落地受伤：他跳下来~了腿了." />
+		</definition>
+	</char>
+	<char hz="蹲" py="dūn" multi="cún" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="两腿尽量弯曲，像坐的样子，但臀部不着地：大家都~下. (转)闲居：不能再~在家里了. [蹲班]留级：~~生. [蹲点]深入到基层单位，参加实际工作，进行调查研究等。" />
+		</definition>
+	</char>
+</pinyin>

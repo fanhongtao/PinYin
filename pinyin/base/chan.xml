@@ -4,30 +4,16 @@
 	<char hz="掺" py="chān" />
 	<char hz="搀" py="chān" />
 	<char hz="襜" py="chān" />
-	<char hz="单" py="chán" multi="dān,shàn">
-		<phrase hz="单于" py="chán,yú" />
-		<definition id="三">
-			<item text="[单于](-yú)古代匈奴的君主。" />
-		</definition>
-	</char>
+	<!-- Ref:单.xml <char hz="单" py="chán" multi="dān,shàn" /> -->
 	<char hz="婵" py="chān" />
-	<char hz="禅" py="chán" multi="shàn" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="梵语“禅那”的省称，佛教指静思：坐~." />
-			<item id="2" text="关于佛教的：~杖. ~师." />
-		</definition>
-	</char>
+	<!-- Ref:禅.xml <char hz="禅" py="chán" multi="shàn" main="1" suppressLog="1" /> -->
 	<char hz="蝉" py="chán" />
 	<char hz="鋋" py="chán" trans="1" />
 	<char hz="谗" py="chán" />
 	<char hz="馋" py="chán" />
 	<char hz="巉" py="chán" />
 	<char hz="鑱" py="chán" />
-	<char hz="孱" py="chán" multi="càn" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="懦弱，弱小（(连)-弱）。" />
-		</definition>
-	</char>
+	<!-- Ref:孱.xml <char hz="孱" py="chán" multi="càn" main="1" suppressLog="1" /> -->
 	<char hz="潺" py="chán" />
 	<char hz="缠" py="chán" />
 	<char hz="廛" py="chán" />
@@ -43,40 +29,18 @@
 			<item id="2" text="用锹(qiāo)或铲子削平或取上来：把地~平. ~土. ~菜. [铲除]去掉。" />
 		</definition>
 	</char>
-	<char hz="刬" py="chǎn" multi="chàn" main="1">
-		<definition id="二">
-			<item text="同“铲(2)”" />
-		</definition>
-	</char>
+	<!-- Ref:刬.xml <char hz="刬" py="chǎn" multi="chàn" main="1" /> -->
 	<char hz="谄" py="chǎn">
 		<phrase hz="谄曲" py="chǎn,qǔ" />
 	</char>
-	<char hz="啴" py="chǎn" multi="tān">
-		<phrase hz="啴缓" py="chǎn,huǎn" />
-		<definition id="一">
-			<item text="宽舒，和缓：~缓." />
-		</definition>
-	</char>
+	<!-- Ref:啴.xml <char hz="啴" py="chǎn" multi="tān" /> -->
 	<char hz="阐" py="chǎn" />
 	<char hz="冁" py="chǎn" />
 	<char hz="蒇" py="chǎn" />
 	<char hz="骣" py="chǎn" />
 	<char hz="忏" py="chàn" />
-	<char hz="刬" py="chàn" multi="chán">
-		<phrase hz="一刬" py="yī,chàn" />
-		<definition id="一">
-			<item text="[一刬]〈方〉全部，一律：~~新. ~~都是平川." />
-		</definition>
-	</char>
-	<char hz="颤" py="chàn" multi="zhàn" main="1">
-		<phrase hz="颤动" py="chàn,dòng" />
-		<phrase hz="颤抖" py="chàn,dǒu" />
-		<phrase hz="颤悠" py="chàn,yōu" />
-		<phrase hz="悸颤" py="jì,chàn" />
-		<definition id="一">
-			<item text="物体振动：这条扁担(dan)担上五六十斤就~了. ~动." />
-		</definition>
-	</char>
+	<!-- Ref:刬.xml <char hz="刬" py="chàn" multi="chán" /> -->
+	<!-- Ref:颤.xml <char hz="颤" py="chàn" multi="zhàn" main="1" /> -->
 	<char hz="羼" py="chàn" />
 	<char hz="韂" py="chàn" />
 </pinyin>

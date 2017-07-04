@@ -12,11 +12,7 @@
 	<char hz="宸" py="chén" />
 	<char hz="晨" py="chén" />
 	<char hz="尘" py="chén" />
-	<char hz="沈" py="chén" multi="shěn">
-		<definition id="二">
-			<item text="同“沉”。" />
-		</definition>
-	</char>
+	<!-- Ref:沈.xml <char hz="沈" py="chén" multi="shěn" /> -->
 	<char hz="忱" py="chén" />
 	<char hz="沉" py="chén">
 		<phrase hz="沉应" py="chén,yìng" />

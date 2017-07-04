@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="楯" py="dùn" multi="shǔn" main="1">
+		<phrase hz="陛楯郎" py="bì,dùn,láng" info="执楯立于殿陛两侧的侍卫。" />
+		<phrase hz="刀楯" py="dāo,dùn" info="刀和盾牌。古代短兵器。" />
+		<phrase hz="钩楯" py="gōu,dùn" info="1.即钩盾。2.弯曲如钩的栏杆。" />
+		<phrase hz="甲楯" py="jiǎ,dùn" info="1.亦作“甲盾”。盔甲和盾牌。2.泛指武器。3.指披甲持盾的士兵。4.披甲持盾。5.指仪仗卫从。" />
+		<phrase hz="矛楯" py="máo,dùn" info="亦作“矛盾”。" />
+		<phrase hz="武头楯" py="wǔ,tóu,dùn" info="即虎头盾。兵器名。" />
+		<phrase hz="杨楯" py="yáng,dùn" info="杨木做的盾牌。" />
+		<phrase hz="鬻矛誉楯" py="yù,máo,yù,dùn" info="指自相矛盾，不能两立。" />
+		<definition id="二">
+			<item text="同“盾”。" />
+		</definition>
+	</char>
+	<char hz="楯" py="shǔn" multi="dùn">
+		<phrase hz="栏楯" py="lán,shǔn" info="栏杆。纵为栏,横曰楯" />
+		<phrase hz="楯轩" py="shǔn,xuān" info="指有栏杆的长廊或小室。" />
+		<definition id="一">
+			<item text="阑干。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="单" py="chán" multi="dān,shàn">
+		<phrase hz="单于" py="chán,yú" />
+		<definition id="三">
+			<item text="[单于](-yú)古代匈奴的君主。" />
+		</definition>
+	</char>
+	<char hz="单" py="dān" multi="chán,shàn" main="1" suppressLog="1">
+		<phrase hz="被单" py="bèi,dān" />
+		<phrase hz="传单" py="chuán,dān" />
+		<phrase hz="床单" py="chuáng,dān" />
+		<phrase hz="单薄" py="dān,bó" />
+		<phrase hz="单纯" py="dān,chún" />
+		<phrase hz="单调" py="dān,diào" />
+		<phrase hz="单方" py="dān,fāng" info="1.民间流传的药方,用药不合一般习惯。也作“丹方”。2.中医方剂学“七方”中的奇方,一般药味为单数,或用一种主药。与“偶方”相对。" />
+		<phrase hz="单据" py="dān,jù" />
+		<phrase hz="单裤" py="dān,kù" />
+		<phrase hz="单枪匹马" py="dān,qiāng,pǐ,mǎ" />
+		<phrase hz="单身" py="dān,shēn" />
+		<phrase hz="单数" py="dān,shù" />
+		<phrase hz="单位" py="dān,wèi" />
+		<phrase hz="单行本" py="dān,xíng,běn" info="从成套成部的书或从报刊上抽出一部分单独印行的书" />
+		<phrase hz="单一" py="dān,yī" />
+		<phrase hz="单衣" py="dān,yī" />
+		<phrase hz="简单" py="jiǎn,dān" />
+		<phrase hz="清单" py="qīng,dān" />
+		<phrase hz="药单" py="yào,dān" />
+		<phrase hz="账单" py="zhàng,dān" />
+		<definition id="一">
+			<item id="1" text="种类少，不复杂：简~. ~纯. ~式簿记. (引)副词，只，仅：做事~靠热情不够. 不提别的，~说这件事. [单位]1.计算物体轻重、长短及数量的标准。 2.指机关、团体或属于一个机关、团体的各个部门：那里有五个直属~~." />
+			<item id="2" text="独，一：~身. ~打一. ~枪匹马. ~数（跟“复数”相对）." />
+			<item id="3" text="奇(jī)数的：~日. ~号. ~数（一、三、五、七等，跟“双数”相对）. [单薄](-bó)1.薄，少：穿得很~~. 2.弱：他身子骨太~~. 人力~~." />
+			<item id="4" text="（-子、-儿）记载事物用的纸片：~据. 传~. 账~儿. 清~. 药~." />
+			<item id="5" text="衣服被褥等只有一层的：~衣. ~裤." />
+			<item id="6" text="（-子、-儿）覆盖用的布：被~. 床~. 褥~儿." />
+		</definition>
+	</char>
+	<char hz="单" py="shàn" multi="dān,chán">
+		<phrase hz="单县" py="shàn,xiàn" />
+		<definition id="二">
+			<item id="1" text="姓。" />
+			<item id="2" text="单县，在山东省。" />
+		</definition>
+	</char>
+</pinyin>

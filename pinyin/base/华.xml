@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="华" py="huā" multi="huá,huà">
+		<definition id="三">
+			<item text="〈古〉同“花”。" />
+		</definition>
+	</char>
+	<char hz="华" py="huá" multi="huā,huà" main="1" suppressLog="1">
+		<phrase hz="华发" py="huá,fà" />
+		<definition id="一">
+			<item id="1" text="美丽有光彩的（(连)-丽）：~灯. 光~. 敬辞：~诞（生日）. ~翰（书信）." />
+			<item id="2" text="繁荣昌盛：繁~." />
+			<item id="3" text="事物最好的部分：精~. 英~." />
+			<item id="4" text="指时光，岁月：韶~. 似水年~." />
+			<item id="5" text="（头发）花白：~发(fà)." />
+			<item id="6" text="指中华民族或中国：~夏. ~侨. ~北." />
+		</definition>
+	</char>
+	<char hz="华" py="huà" multi="huā,huá">
+		<phrase hz="华山" py="huà,shān" />
+		<definition id="二">
+			<item id="1" text="华山，五岳中的西岳，在陕西省华阴。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

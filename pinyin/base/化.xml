@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="化" py="huā" multi="huà">
+		<definition id="二">
+			<item text="同“花(7)”。" />
+		</definition>
+	</char>
+	<char hz="化" py="huà" multi="huā" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="性质或形态改变：~整为零. 变~. 开~. 冰都~了. [化合]两种或两种以上的物质互相结合变成一种性质跟原来物质都不相同的新物质。 [化石]埋藏在地下的古代生物的遗骸变成的石块，或带着古代生物遗迹的石块。 [化学]研究物质的结构、组成、性质、应用及其变化规律的科学。" />
+			<item id="2" text="使思想、行为等有所转变：感~. 教~. 潜移默~." />
+			<item id="3" text="指化学：~工. ~肥." />
+			<item id="4" text="佛教道教徒募集财物：~缘. ~斋（乞食）." />
+			<item id="5" text="词尾，放在名词或形容词后，表示转变成某种性质或状态：革命~. 农业机械~. 工业现代~. 科学~. 绿~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,50 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="厾" py="dū" />
-	<char hz="都" py="dū" multi="dōu">
-		<!-- <phrase hz="大都" py="dà,dū" duoyin="dà,dōu" info="中国元朝(1271-1368)首都,即今北京" /> -->
-		<phrase hz="大都会" py="dà,dū,huì" />
-		<phrase hz="大都市" py="dà,dū,shì" />
-		<phrase hz="帝都" py="dì,dū" />
-		<phrase hz="奠都" py="diàn,dū" />
-		<phrase hz="定都" py="dìng,dū" />
-		<phrase hz="都柏林" py="dū,bó,lín" info="爱尔兰首都。" />
-		<phrase hz="督察" py="dū,chá" />
-		<phrase hz="都城" py="dū,chéng" />
-		<phrase hz="都督" py="dū,du" />
-		<phrase hz="都护" py="dū,hù" info="古代官名。设在边疆地区的最高行政长官" />
-		<phrase hz="都会" py="dū,huì" info="都市" />
-		<phrase hz="都江堰" py="dū,jiāng,yàn" />
-		<phrase hz="都灵" py="dū,líng" info="意大利城市。" />
-		<phrase hz="都市" py="dū,shì" />
-		<phrase hz="都它尔" py="dū,tā,ěr" info="维吾尔族拨奏弦鸣乐器。" />
-		<phrase hz="都头" py="dū,tóu" info="维吾尔族拨奏弦鸣乐器。" />
-		<phrase hz="督指挥使" py="dū,zhǐ,huī,shǐ" info="古代官名。" />
-		<phrase hz="酆都" py="fēng,dū" />
-		<phrase hz="古都" py="gǔ,dū" />
-		<phrase hz="故都" py="gù,dū" />
-		<phrase hz="国都" py="guó,dū" />
-		<phrase hz="魔都" py="mó,dū" />
-		<phrase hz="建都" py="jiàn,dū" />
-		<phrase hz="京都" py="jīng,dū" />
-		<phrase hz="旧都" py="jiù,dū" />
-		<phrase hz="陪都" py="péi,dū" info="旧时在首都以外另设的首都" />
-		<phrase hz="迁都" py="qiān,dū" />
-		<phrase hz="佥都御史" py="qiān,dū,yù,shǐ" info="官名。明代都察院设有此职,位在副都御史之下" />
-		<phrase hz="首都" py="shǒu,dū" />
-		<phrase hz="通都大邑" py="tōng,dū,dà,yì" />
-		<phrase hz="行都" py="xíng,dū" info="在首都之外另设的一个都城，以备必要时政府暂驻" />
-		<definition id="一">
-			<item id="1" text="首都，全国最高领导机关所在的地方：建~." />
-			<item id="2" text="大城市（(连)-市）：通~大邑." />
-			<item id="3" text="姓。" />
-		</definition>
-	</char>
-	<char hz="阇" py="dū" multi="shé" main="1">
-		<definition id="一">
-			<item text="城门上的台。" />
-		</definition>
-	</char>
+	<!-- Ref:都.xml <char hz="都" py="dū" multi="dōu" /> -->
+	<!-- Ref:阇.xml <char hz="阇" py="dū" multi="shé" main="1" /> -->
 	<char hz="嘟" py="dū">
 		<phrase hz="嘟噜" py="dū,lu" />
 		<phrase hz="嘟囔" py="dū,nang" />
@@ -55,36 +13,8 @@
 		<phrase hz="中毒" py="zhòng,dú" />
 	</char>
 	<char hz="独" py="dú" />
-	<char hz="顿" py="dú" multi="dùn">
-		<phrase hz="冒顿" py="mò,dú" />
-		<definition id="二">
-			<item text="见“冒”字条“冒顿”(mò-)。" />
-		</definition>
-	</char>
-	<char hz="读" py="dú" multi="dòu" main="1" suppressLog="1">
-		<phrase hz="拜读" py="bài,dú" />
-		<phrase hz="伴读" py="bàn,dú" />
-		<phrase hz="导读" py="dǎo,dú" />
-		<phrase hz="读报" py="dú,bào" />
-		<phrase hz="读经" py="dú,jīng" />
-		<phrase hz="读书" py="dú,shū" />
-		<phrase hz="读物" py="dú,wù" />
-		<phrase hz="读音" py="dú,yīn" />
-		<phrase hz="读者" py="dú,zhě" />
-		<phrase hz="复读" py="fù,dú" />
-		<phrase hz="朗读" py="lǎng,dú" />
-		<phrase hz="默读" py="mò,dú" />
-		<phrase hz="陪读" py="péi,dú" />
-		<phrase hz="品读" py="pǐn,dú" />
-		<phrase hz="审读" py="shěn,dú" />
-		<phrase hz="诵读" py="sòng,dú" />
-		<phrase hz="宣读" py="xuān,dú" />
-		<phrase hz="研读" py="yán,dú" />
-		<phrase hz="阅读" py="yuè,dú" />
-		<definition id="一">
-			<item text="依照文字念：宣~. 朗~. ~报. (引)1.阅读，看书，阅览：~书. ~者. 2.求学：~大学." />
-		</definition>
-	</char>
+	<!-- Ref:顿.xml <char hz="顿" py="dú" multi="dùn" /> -->
+	<!-- Ref:读.xml <char hz="读" py="dú" multi="dòu" main="1" suppressLog="1" /> -->
 	<char hz="渎" py="dú" />
 	<char hz="椟" py="dú" />
 	<char hz="犊" py="dú" />
@@ -94,12 +24,7 @@
 	<char hz="髑" py="dú">
 		<phrase hz="髑髅" py="dú,lóu" />
 	</char>
-	<char hz="肚" py="dǔ" multi="dù">
-		<!-- <phrase hz="肚子" py="dǔ,zi" duoyin="dù,zi" info="动物的胃作食品时叫肚。" /> -->
-		<definition id="二">
-			<item text="（-子、-儿）动物的胃作食品时叫肚：猪~子. 羊~儿." />
-		</definition>
-	</char>
+	<!-- Ref:肚.xml <char hz="肚" py="dǔ" multi="dù" /> -->
 	<char hz="笃" py="dǔ" />
 	<char hz="堵" py="dǔ">
 		<phrase hz="堵塞" py="dǔ,sè" />
@@ -113,75 +38,10 @@
 		<phrase hz="杜鹃" py="dù,juān" />
 		<phrase hz="杜撰" py="dù,zhuàn" />
 	</char>
-	<char hz="肚" py="dù" multi="dǔ" main="1">
-		<phrase hz="肚带" py="dù,dài" />
-		<phrase hz="肚兜" py="dù,dōu" />
-		<phrase hz="肚量" py="dù,liàng" />
-		<phrase hz="肚脐" py="dù,qí" />
-		<phrase hz="肚子" py="dù,zi" duoyin="dǔ,zi" info="1.腹部的俗称。2.圆得像人或动物肚子部分。" />
-		<phrase hz="牵肠挂肚" py="qiān,cháng,guà,dù" />
-		<phrase hz="腿肚" py="tuǐ,dù" />
-		<definition id="一">
-			<item id="1" text="（-子）腹部，胸下腿上的部分。(引)（-儿）器物中空的部分：大~儿坛子." />
-			<item id="2" text="（-子、-儿）圆而凸起像肚子的：腿~子. 手指头~儿." />
-		</definition>
-	</char>
+	<!-- Ref:肚.xml <char hz="肚" py="dù" multi="dǔ" main="1" /> -->
 	<char hz="miss: 钅杜" py="dù" info="special" />
 	<char hz="妒" py="dù" />
-	<char hz="度" py="dù" multi="duó" main="1">
-		<phrase hz="暗度陈仓" py="àn,dù,chén,cāng" />
-		<phrase hz="百度" py="bǎi,dù" />
-		<phrase hz="长度" py="cháng,dù" />
-		<phrase hz="程度" py="chéng,dù" />
-		<phrase hz="尺度" py="chǐ,dù" />
-		<phrase hz="大度" py="dà,dù" />
-		<phrase hz="低度" py="dī,dù" />
-		<phrase hz="度牒" py="dù,dié" info="旧时官府发给僧尼的证明身份的文件。也叫戒牒" />
-		<phrase hz="度过" py="dù,guò" />
-		<phrase hz="度假" py="dù,jià" />
-		<phrase hz="度量" py="dù,liàng" />
-		<phrase hz="度量衡" py="dù,liàng,héng" />
-		<phrase hz="度日" py="dù,rì" />
-		<phrase hz="法度" py="fǎ,dù" />
-		<phrase hz="风度" py="fēng,dù" />
-		<phrase hz="幅度" py="fú,dù" />
-		<phrase hz="高度" py="gāo,dù" />
-		<phrase hz="广度" py="gòng,dù" info="谓事物的范围。宽宏的气度。亦指气度宽宏的人。佛教语。犹普度。谓普遍渡人于彼岸。" />
-		<phrase hz="共度" py="gòng,dù" />
-		<phrase hz="过度" py="guò,dù" />
-		<phrase hz="厚度" py="hòu,dù" />
-		<phrase hz="极度" py="jí,dù" />
-		<phrase hz="角度" py="jiǎo,dù" />
-		<phrase hz="金针度人" py="jīn,zhēn,dù,rén" />
-		<phrase hz="进度" py="jìn,dù" />
-		<phrase hz="经度" py="jīng,dù" />
-		<phrase hz="刻度" py="kè,dù" />
-		<phrase hz="宽度" py="kuān,dù" />
-		<phrase hz="浓度" py="nóng,dù" />
-		<phrase hz="气度" py="qì,dù" />
-		<phrase hz="前度" py="qián,dù" />
-		<phrase hz="湿度" py="shī,dù" />
-		<phrase hz="适度" py="shì,dù" />
-		<phrase hz="态度" py="tài,dù" />
-		<phrase hz="剃度" py="tì,dù" info="佛教用语，指给要出家的人剃去头发" />
-		<phrase hz="纬度" py="wěi,dù" />
-		<phrase hz="温度" py="wēn,dù" />
-		<phrase hz="一年一度" py="yī,nián,yī,dù" />
-		<phrase hz="硬度" py="yìng,dù" />
-		<phrase hz="再度" py="zài,dù" />
-		<phrase hz="制度" py="zhì,dù" />
-		<phrase hz="置之度外" py="zhì,zhī,dù,wài" />
-		<definition id="一">
-			<item id="1" text="计算长短的器具或单位：~量(liàng)衡." />
-			<item id="2" text="依照计算的标准划分的单位：温~. 湿~. 经~. 用了20~电." />
-			<item id="3" text="事物所达到的程度：知名~. 高~的爱国热情." />
-			<item id="4" text="法则，应遵行的标准（(连)制-、法-）。" />
-			<item id="5" text="度量，能容受的量：气~. 适~. 过~." />
-			<item id="6" text="过，由此到彼：~日." />
-			<item id="7" text="所打算或考虑的：置之~外." />
-			<item id="8" text="量词，次：一~. 再~. 前~." />
-		</definition>
-	</char>
+	<!-- Ref:度.xml <char hz="度" py="dù" multi="duó" main="1" /> -->
 	<char hz="渡" py="dù" />
 	<char hz="镀" py="dù" />
 	<char hz="蠹" py="dù" />

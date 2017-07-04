@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="凉" py="liáng" multi="liàng" main="1">
+		<phrase hz="悲凉" py="bēi,liáng" />
+		<phrase hz="冰凉" py="bīng,liáng" />
+		<phrase hz="苍凉" py="cāng,liáng" />
+		<phrase hz="冲凉" py="chōng,liáng" />
+		<phrase hz="乘凉" py="chéng,liáng" />
+		<phrase hz="风凉" py="fēng,liáng" />
+		<phrase hz="荒凉" py="huāng,liáng" />
+		<phrase hz="凉风" py="liáng,fēng" />
+		<phrase hz="晾快" py="liáng,kuai" />
+		<phrase hz="凉棚" py="liáng,péng" />
+		<phrase hz="凉气" py="liáng,qì" />
+		<phrase hz="凉爽" py="liáng,shuǎng" />
+		<phrase hz="凉水" py="liáng,shuǐ" />
+		<phrase hz="凉亭" py="liáng,tíng" />
+		<phrase hz="凉席" py="liáng,xí" />
+		<phrase hz="凉鞋" py="liáng,xié" />
+		<phrase hz="纳凉" py="nà,liáng" />
+		<phrase hz="凄凉" py="qī,liáng" />
+		<phrase hz="清凉" py="qīng,liáng" />
+		<phrase hz="秋凉" py="qiū,liáng" />
+		<phrase hz="受凉" py="shòu,liáng" />
+		<phrase hz="歇凉" py="xiē,liáng" />
+		<phrase hz="阴凉" py="yīn,liáng" />
+		<phrase hz="荫凉" py="yìn,liáng" />
+		<phrase hz="着凉" py="zháo,liáng" />
+		<definition id="一">
+			<item text="温度低（若指天气，比“冷”和程度浅）：饭~了. 立秋之后天气~了. (喻)灰心或失望：听到这消息，我心里就~了. [凉快](-kuai)1.清凉爽快。 2.乘凉：到外头~~~~去." />
+		</definition>
+	</char>
+	<char hz="凉" py="liàng" multi="liáng">
+		<definition id="二">
+			<item text="放一会儿，使温度降低。" />
+		</definition>
+	</char>
+</pinyin>

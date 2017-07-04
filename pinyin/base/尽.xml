@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尽" py="jǐn" multi="jìn">
+		<phrase hz="尽底下" py="jǐn,dǐ,xià" />
+		<phrase hz="尽管" py="jǐn,guǎn" />
+		<phrase hz="尽里头" py="jǐn,lǐ,tou" />
+		<phrase hz="尽量" py="jǐn,liàng" />
+		<phrase hz="尽先" py="jǐn,xiān" info="表示某种动作、行为或事情优先进行或办理" />
+		<phrase hz="尽着" py="jǐn,zhe" />
+		<phrase hz="尽自" py="jǐn,zì" info="〈方〉总是;一个劲儿地" />
+		<definition id="二">
+			<item id="1" text="极，最：~底下. ~里头. ~先录用." />
+			<item id="2" text="有多少用多少：~量. ~着力气做. [尽管]1.连词，纵然，即使：~~他不接受这个意见，我还是要向他提. 2.只管，不必顾虑：有话~~说吧！" />
+			<item id="3" text="放在最先：座位先~着请来的客人坐. 先~着旧衣服穿." />
+		</definition>
+	</char>
+	<char hz="尽" py="jìn" multi="jǐn" main="1">
+		<phrase hz="耗尽" py="hào,jìn" />
+		<phrase hz="竭尽" py="jié,jìn" />
+		<phrase hz="尽瘁" py="jìn,cuì" info="尽心尽力，全身心投入" />
+		<phrase hz="尽付东流" py="jìn,fù,dōng,liú" info="一切交給東流的水。比喻希望落空或前功盡棄。" />
+		<phrase hz="尽可能" py="jìn,kě,néng" info="尽量" />
+		<phrase hz="尽力" py="jìn,lì" />
+		<phrase hz="尽其所能" py="jìn,qí,suǒ,néng" info="把所有本事都用上" />
+		<phrase hz="尽情" py="jìn,qíng" />
+		<phrase hz="尽全力" py="jìn,quán,lì" info="几乎使出了全部力气" />
+		<phrase hz="尽然" py="jìn,rán" info="1.完全如此。2.完全对。" />
+		<phrase hz="尽让" py="jìn,ràng" info="1.方言。推让，让别人占先。2.任凭；听凭。" />
+		<phrase hz="尽日" py="jìn,rì" info="整天、終日。" />
+		<phrase hz="尽善尽美" py="jìn,shàn,jìn,měi" info="极其完善，极其美好。指完美到没有一点缺点。" />
+		<phrase hz="尽是" py="jìn,shì" info="到处是，很多很多" />
+		<phrase hz="尽释前嫌" py="jìn,shì,qián,xián" info="尽释：完全放下。嫌：仇怨，怨恨。把以前的怨恨完全丢开。" />
+		<phrase hz="尽头" py="jìn,tóu" />
+		<phrase hz="尽夕" py="jìn,xī" info="整夜;彻夜" />
+		<phrase hz="尽孝" py="jìn,xiào" />
+		<phrase hz="尽心" py="jìn,xīn" />
+		<phrase hz="尽信书不如无书" py="jìn,xìn,shū,bù,rú,wú,shū" />
+		<phrase hz="尽兴" py="jìn,xìng" />
+		<phrase hz="尽性" py="jìn,xìng" info="1.由着性子。2.尽量发挥天赋的个性。" />
+		<phrase hz="尽言" py="jìn,yán" info="1.把话都说完。2.无保留的话;直言。" />
+		<phrase hz="尽意" py="jìn,yì" info="1.充分表达心意、情感。2.尽情;尽兴。" />
+		<phrase hz="尽义务" py="jìn,yì,wù" info="1.盡應盡的本分。2.做事而不接受報酬。" />
+		<phrase hz="尽责" py="jìn,zé" />
+		<phrase hz="尽职" py="jìn,zhí" />
+		<phrase hz="尽致" py="jìn,zhì" info="指表现或表达得详尽彻底" />
+		<phrase hz="尽忠" py="jìn,zhōng" />
+		<phrase hz="历尽" py="lì,jìn" info="多次经历或遭受" />
+		<phrase hz="穷尽" py="qióng,jìn" info="1.尽头;终点。2.探究到尽头。" />
+		<phrase hz="人尽其才" py="rén,jìn,qí,cái" info="每个人都能充分发挥自己的才能。" />
+		<phrase hz="仁至义尽" py="rén,zhì,yì,jìn" info="至：极，最；尽：全部用出。竭尽仁义之道。指人的善意和帮助已经做到了最大限度。" />
+		<phrase hz="无尽" py="wú,jìn" info="无穷尽的" />
+		<phrase hz="物尽其用" py="wù,jìn,qí,yòng" info="各种东西凡有可用之处，都要尽量利用。指充分利用资源，一点不浪费。 " />
+		<phrase hz="小尽" py="xiǎo,jìn" info="指夏历小月。亦指小月的末日。" />
+		<phrase hz="用尽" py="yòng,jìn" />
+		<phrase hz="自尽" py="zì,jìn" info="自杀" />
+		<definition id="一">
+			<item id="1" text="完毕：用~力气. 说不~的好处. (引)达到极端：~善~美. ~头. [自尽]自杀。" />
+			<item id="2" text="全部用出：~心. ~力. 仁至义~. (引)竭力做到：~职." />
+			<item id="3" text="都，全：到会的~是战斗英雄." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="参" py="cān" multi="cēn,shēn" main="1">
+		<phrase hz="参半" py="cān,bàn" />
+		<phrase hz="参拜" py="cān,bài" />
+		<phrase hz="参禅" py="cān,chán" />
+		<phrase hz="参订" py="cān,dìng" />
+		<phrase hz="参革" py="cān,gé" />
+		<phrase hz="参股" py="cān,gǔ" />
+		<phrase hz="参观" py="cān,guān" />
+		<phrase hz="参加" py="cān,jiā" />
+		<phrase hz="参检" py="cān,jiǎn" />
+		<phrase hz="参见" py="cān,jiàn" />
+		<phrase hz="参军" py="cān,jūn" />
+		<phrase hz="参看" py="cān,kàn" />
+		<phrase hz="参考" py="cān,kǎo" />
+		<phrase hz="参谋" py="cān,móu" />
+		<phrase hz="参破" py="cān,pò" />
+		<phrase hz="参赛" py="cān,sài" />
+		<phrase hz="参审" py="cān,shěn" />
+		<phrase hz="参数" py="cān,shù" />
+		<phrase hz="参天" py="cān,tiān" />
+		<phrase hz="参透" py="cān,tòu" />
+		<phrase hz="参悟" py="cān,wù" />
+		<phrase hz="参详" py="cān,xiáng" />
+		<phrase hz="参省" py="cān,xǐng" />
+		<phrase hz="参选" py="cān,xuǎn" />
+		<phrase hz="参验" py="cān,yàn" />
+		<phrase hz="参谒" py="cān,yè" />
+		<phrase hz="参议" py="cān,yì" />
+		<phrase hz="参与" py="cān,yù" />
+		<phrase hz="参预" py="cān,yù" />
+		<phrase hz="参阅" py="cān,yuè" />
+		<phrase hz="参杂" py="cān,zá" />
+		<phrase hz="参赞" py="cān,zàn" />
+		<phrase hz="参战" py="cān,zhàn" />
+		<phrase hz="参照" py="cān,zhào" />
+		<phrase hz="参政" py="cān,zhèng" />
+		<phrase hz="参酌" py="cān,zhuó" />
+		<phrase hz="参奏" py="cān,zòu" />
+		<phrase hz="高参" py="gāo,cān" />
+		<definition id="一">
+			<item id="1" text="参加，加入：~军. ~战. [参半]占半数：疑信~~. [参观]实地观察（事业、设施、名胜等）。[参考]用有关的材料帮助了解、研究某事物。 [参天]高入云霄：古木~~." />
+			<item id="2" text="进见：~谒. ~拜." />
+			<item id="3" text="封建时代指弹劾(tánhé)：~他一本." />
+		</definition>
+	</char>
+	<char hz="参" py="cēn" multi="cān,shēn">
+		<phrase hz="参差" py="cēn,cī" />
+		<phrase hz="参错" py="cēn,cuò" info="参差交错" />
+		<definition id="三">
+			<item text="[参差](-cī)长短不齐：~~不齐." />
+		</definition>
+	</char>
+	<char hz="参" py="shēn" multi="cān,cēn">
+		<phrase hz="岑参" py="cén,shēn" info="岑参（约715-770年），唐代边塞诗人，南阳人" />
+		<phrase hz="丹参" py="dān,shēn" info="多年生草本植物,俗称红根" />
+		<phrase hz="党参" py="dǎng,shēn" info="多年生草本植物,根可入药。过去多产于山西上党地区" />
+		<phrase hz="东洋参" py="dōng,yáng,shēn" />
+		<phrase hz="斗转参横" py="dǒu,zhuǎn,shēn,héng" />
+		<phrase hz="花旗参" py="huā,qí,shēn" />
+		<phrase hz="人参" py="rén,shēn" />
+		<phrase hz="参辰卯酉" py="shēn,chén,mǎo,yǒu" />
+		<phrase hz="参横斗转" py="shēn,héng,dǒu,zhuǎn" info="北斗转向，参星打横。指天快峦的时候。" />
+		<phrase hz="参回斗转" py="shēn,huí,dǒu,zhuǎn" info="指夜深。参，参星；斗，北斗星。" />
+		<phrase hz="参商" py="shēn,shāng" />
+		<phrase hz="西洋参" py="xī,yáng,shēn" />
+		<phrase hz="洋参" py="yáng,shēn" />
+		<phrase hz="月落参横" py="yuè,luò,shēn,héng" />
+		<definition id="二">
+			<item id="1" text="星宿名，二十八宿之一。 [参商]参和商都是二十八宿之一，两者不同时在天空出现。(喻)1.分离不得相见。 2.不和睦。" />
+			<item id="2" text="人参，多年生草本植物。根肥大，略像人形，可入药。" />
+		</definition>
+	</char>
+</pinyin>

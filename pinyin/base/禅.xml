@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="禅" py="chán" multi="shàn" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="梵语“禅那”的省称，佛教指静思：坐~." />
+			<item id="2" text="关于佛教的：~杖. ~师." />
+		</definition>
+	</char>
+	<char hz="禅" py="shàn" multi="chán">
+		<phrase hz="封禅" py="fēng,shàn" />
+		<phrase hz="禅让" py="shàn,ràng" />
+		<definition id="二">
+			<item text="禅让，指古代帝王让位给别人，如尧让位给舜，舜让位给禹。" />
+		</definition>
+	</char>
+</pinyin>

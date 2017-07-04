@@ -19,11 +19,7 @@
 	<char hz="湿" py="shī" />
 	<char hz="蓍" py="shī" />
 	<char hz="酾" py="shī" info="(又)shāi" />
-	<char hz="嘘" py="shī" multi="xū">
-		<definition id="二">
-			<item text="叹词，表示反对、制止、驱逐等。" />
-		</definition>
-	</char>
+	<!-- Ref:嘘.xml <char hz="嘘" py="shī" multi="xū" /> -->
 	<char hz="十" py="shí">
 		<definition>
 			<item id="1" text="数目。" />
@@ -31,26 +27,8 @@
 			<item id="3" text="法定计量单位中十进倍数单位词头之一，表示10^1，符号 da。" />
 		</definition>
 	</char>
-	<char hz="什" py="shí" multi="shén" main="1" suppressLog="1">
-		<phrase hz="家什" py="jiā,shi" info="1.家庭用具;器物;家具 2.个人有用的东西的总和" />
-		<phrase hz="什锦" py="shí,jǐn" info="多种花样的或多种原料制成的 [食品]" />
-		<phrase hz="什物" py="shí,wù" info="泛指日常应用的衣物及零碎用品" />
-		<definition id="一">
-			<item id="1" text="同“十(1)”（多用于分数或倍数）：~一（十分之一）. ~百（十倍或百倍）." />
-			<item id="2" text="各种的，杂样的：~物. 家~（家用杂物）. [什锦]各种各样东西凑成的（多指食品）：~~糖. 素~~." />
-		</definition>
-	</char>
-	<char hz="石" py="shí" multi="dàn" main="1" suppressLog="1">
-		<phrase hz="石头" py="shí,tou" />
-		<definition id="一">
-			<item id="1" text="（-头）(tou)构成地壳的坚硬物质，是由矿物集合而成的。" />
-			<item id="2" text="用石制成的：~砚. ~磨." />
-			<item id="3" text="指石刻：金~." />
-			<item id="4" text="古代容量单位，一石合十斗。" />
-			<item id="5" text="古代重量单位，一石合一百二十斤。" />
-			<item id="6" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:什.xml <char hz="什" py="shí" multi="shén" main="1" suppressLog="1" /> -->
+	<!-- Ref:石.xml <char hz="石" py="shí" multi="dàn" main="1" suppressLog="1" /> -->
 	<char hz="炻" py="shí" />
 	<char hz="祏" py="shí" />
 	<char hz="鼫" py="shí" />
@@ -118,11 +96,7 @@
 	<char hz="噬" py="shì" />
 	<char hz="奭" py="shì" />
 	<char hz="襫" py="shì" />
-	<char hz="螫" py="shì" multi="zhē" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="有毒腺的虫子刺人或牲畜。" />
-		</definition>
-	</char>
+	<!-- Ref:螫.xml <char hz="螫" py="shì" multi="zhē" main="1" suppressLog="1" /> -->
 	<!-- Ref:匙.xml <char hz="匙" py="shi" multi="chí" /> -->
 	<!-- Ref:殖.xml <char hz="殖" py="shi" multi="zhí" /> -->
 </pinyin>

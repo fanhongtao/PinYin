@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="驮" py="duò" multi="tuó">
+		<definition id="二">
+			<item text="（-子）骡马等负载的成捆的货物：把~子卸下来，让牲口休息一会儿." />
+		</definition>
+	</char>
+	<char hz="驮" py="tuó" multi="duò" main="1">
+		<definition id="一">
+			<item text="用背（多指牲口）负载人或物：那匹马~着两袋粮食." />
+		</definition>
+	</char>
+</pinyin>

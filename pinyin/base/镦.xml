@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镦" py="duì" multi="dūn" info="Word主音">
+		<definition id="一">
+			<item text="古代矛戟柄末的金属箍。" />
+		</definition>
+	</char>
+	<char hz="镦" py="dūn" multi="duì" main="1">
+		<phrase hz="镦短" py="dūn,duǎn" info="施压力于加热了的铁棒的一端，把它锻粗锻短(如用锤击)" />
+		<phrase hz="镦宽" py="dūn,kuān" info="加宽[锯齿的]尖端，使其宽度大于锯的厚度" />
+		<phrase hz="冷镦" py="lěng,dūn" />
+		<phrase hz="热镦" py="rè,dūn" />
+		<definition id="二">
+			<item text="冲压金属板，使其变形。不加热叫冷镦，加热叫热镦。" />
+		</definition>
+	</char>
+</pinyin>

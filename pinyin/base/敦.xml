@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="敦" py="duì" multi="dūn">
+		<definition id="二">
+			<item text="古时盛黍稷的器具。" />
+		</definition>
+	</char>
+	<char hz="敦" py="dūn" multi="duì" main="1" suppressLog="1">
+		<phrase hz="敦促" py="dūn,cù" info="以诚恳或迫切的态度催促或提请注意" />
+		<phrase hz="敦厚" py="dūn,hòu" />
+		<phrase hz="敦煌" py="dūn,huáng" />
+		<phrase hz="敦睦" py="dūn,mù" info="1.亲善和睦。2.使和睦。亦作“敦穆”。" />
+		<phrase hz="敦穆" py="dūn,mù" info="见“敦睦”。" />
+		<phrase hz="敦慕" py="dūn,mù" info="勉力。" />
+		<phrase hz="敦聘" py="dūn,pìn" info="恳切而真诚的聘请" />
+		<phrase hz="敦朴" py="dūn,pǔ" info="敦厚朴实;忠厚朴实" />
+		<phrase hz="敦请" py="dūn,qǐng" info="恳切地邀请" />
+		<phrase hz="敦劝" py="dūn,quàn" info="恳切地劝说;敦促劝说" />
+		<phrase hz="敦如" py="dūn,rú" info="厚重貌。" />
+		<phrase hz="敦实" py="dūn,shí" info="1.结实;粗壮。2.敦厚诚实。" />
+		<definition id="一">
+			<item id="1" text="敦厚，厚道：~睦邦交." />
+			<item id="2" text="诚心诚意：~聘. ~请." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

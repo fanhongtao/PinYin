@@ -36,13 +36,7 @@
 			<item text="[畹町](-dīng)地名，在云南省瑞丽。" />
 		</definition>
 	</char>
-	<char hz="莞" py="wǎn" multi="guǎn" main="1">
-		<phrase hz="莞尔" py="wǎn,ěr" />
-		<phrase hz="莞然" py="wǎn,rán" info="莞尔。" />
-		<definition id="二">
-			<item text="[莞尔]微笑的样子。" />
-		</definition>
-	</char>
+	<!-- Ref:莞.xml <char hz="莞" py="wǎn" multi="guǎn" main="1" /> -->
 	<char hz="脘" py="wǎn" />
 	<char hz="皖" py="wǎn" />
 	<char hz="挽" py="wǎn" />

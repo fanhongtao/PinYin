@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="什" py="shén" multi="shí" info="Word主音">
+		<phrase hz="什么" py="shén,me" />
+		<definition id="二">
+			<item text="[什么](-me)代词。 1.表示疑问：想~~？ ~~人？ 2.指不确定的或任何事物：我想吃点儿~~. ~~事都难不住他. 3.表示惊讶或不满：~~！明天就走？ 这是~~破东西！" />
+		</definition>
+	</char>
+	<char hz="什" py="shí" multi="shén" main="1" suppressLog="1">
+		<phrase hz="家什" py="jiā,shi" info="1.家庭用具;器物;家具 2.个人有用的东西的总和" />
+		<phrase hz="什锦" py="shí,jǐn" info="多种花样的或多种原料制成的 [食品]" />
+		<phrase hz="什物" py="shí,wù" info="泛指日常应用的衣物及零碎用品" />
+		<definition id="一">
+			<item id="1" text="同“十(1)”（多用于分数或倍数）：~一（十分之一）. ~百（十倍或百倍）." />
+			<item id="2" text="各种的，杂样的：~物. 家~（家用杂物）. [什锦]各种各样东西凑成的（多指食品）：~~糖. 素~~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肚" py="dǔ" multi="dù">
+		<!-- <phrase hz="肚子" py="dǔ,zi" duoyin="dù,zi" info="动物的胃作食品时叫肚。" /> -->
+		<definition id="二">
+			<item text="（-子、-儿）动物的胃作食品时叫肚：猪~子. 羊~儿." />
+		</definition>
+	</char>
+	<char hz="肚" py="dù" multi="dǔ" main="1">
+		<phrase hz="肚带" py="dù,dài" />
+		<phrase hz="肚兜" py="dù,dōu" />
+		<phrase hz="肚量" py="dù,liàng" />
+		<phrase hz="肚脐" py="dù,qí" />
+		<phrase hz="肚子" py="dù,zi" duoyin="dǔ,zi" info="1.腹部的俗称。2.圆得像人或动物肚子部分。" />
+		<phrase hz="牵肠挂肚" py="qiān,cháng,guà,dù" />
+		<phrase hz="腿肚" py="tuǐ,dù" />
+		<definition id="一">
+			<item id="1" text="（-子）腹部，胸下腿上的部分。(引)（-儿）器物中空的部分：大~儿坛子." />
+			<item id="2" text="（-子、-儿）圆而凸起像肚子的：腿~子. 手指头~儿." />
+		</definition>
+	</char>
+</pinyin>

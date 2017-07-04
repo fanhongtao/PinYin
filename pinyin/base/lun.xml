@@ -1,51 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="抡" py="lūn" multi="lún" main="1">
-		<phrase hz="胡抡" py="hú,lūn" info="〈方〉乱干;胡来" />
-		<phrase hz="抡动" py="lūn,dòng" info="使像风车般转动" />
-		<definition id="一">
-			<item text="手臂用力挥动：~刀. ~拳." />
-		</definition>
-	</char>
+	<!-- Ref:抡.xml <char hz="抡" py="lūn" multi="lún" main="1" /> -->
 	<char hz="仑" py="lún" />
 	<char hz="伦" py="lún" />
-	<char hz="论" py="lún" multi="lùn">
-		<phrase hz="论语" py="lún,yǔ" />
-		<definition id="二">
-			<item text="论语，古书名，主要记载孔子及其门人的言行。" />
-		</definition>
-	</char>
-	<char hz="抡" py="lún" multi="lūn">
-		<phrase hz="抡材" py="lún,cái" />
-		<phrase hz="抡魁" py="lún,kuí" info="科举考试的第一名。亦指中选第一名。" />
-		<phrase hz="抡选" py="lún,xuǎn" info="选拔，挑选。" />
-		<phrase hz="抡元" py="lún,yuán" info="科举考试中选第一名。" />
-		<phrase hz="校抡" py="xiào,lún" info="考核选择。" />
-		<phrase hz="选抡" py="xuǎn,lún" info="亦作“选论”。选拔；选择。" />
-		<definition id="二">
-			<item text="选择，选拔：~材." />
-		</definition>
-	</char>
+	<!-- Ref:论.xml <char hz="论" py="lún" multi="lùn" /> -->
+	<!-- Ref:抡.xml <char hz="抡" py="lún" multi="lūn" /> -->
 	<char hz="囵" py="lún" />
 	<char hz="沦" py="lún" />
-	<char hz="纶" py="lún" multi="guān" main="1" suppressLog="1">
-		<phrase hz="涤纶" py="dí,lún" />
-		<phrase hz="锦纶" py="jǐn,lún" />
-		<phrase hz="经纶" py="jīng,lún" info="1.整理过的蚕丝。2.比喻筹划治理国家大事。3.借指抱负与才干" />
-		<definition id="一">
-			<item id="1" text="钓鱼用的线：垂~." />
-			<item id="2" text="指某些合成的纤维：锦~. 涤~." />
-		</definition>
-	</char>
+	<!-- Ref:纶.xml <char hz="纶" py="lún" multi="guān" main="1" suppressLog="1" /> -->
 	<char hz="轮" py="lún">
 		<phrase hz="轮廓" py="lún,kuò" />
 	</char>
-	<char hz="论" py="lùn" multi="lún" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="分析、判断事物的道理（(连)评-、议-）：不能一概而~. 大家讨~一下吧！" />
-			<item id="2" text="分析、阐明事物道理的文章、理论和言论：实践~. 唯物~. 社~. 舆~." />
-			<item id="3" text="按照某种单位或类别说：~件. ~天. 买西瓜~斤还是~个儿？" />
-			<item id="4" text="衡量，评定：按质~价. ~功行赏." />
-		</definition>
-	</char>
+	<!-- Ref:论.xml <char hz="论" py="lùn" multi="lún" main="1" suppressLog="1" /> -->
 </pinyin>

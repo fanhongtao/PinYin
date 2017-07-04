@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="矜" py="guān" multi="jīn,qín">
+		<definition id="二" text="〈古〉">
+			<item id="1" text="同“鳏”。" />
+			<item id="2" text="同“瘝”。" />
+		</definition>
+	</char>
+	<char hz="矜" py="jīn" multi="guān,qín" main="1">
+		<phrase hz="哀矜" py="āi,jīn" info="哀怜;怜悯" />
+		<phrase hz="骄矜" py="jiāo,jīn" info="骄傲自负。" />
+		<phrase hz="矜持" py="jīn,chí" />
+		<phrase hz="矜夸" py="jīn,kuā" />
+		<phrase hz="自矜" py="zì,jīn" info="自夸;自尊自大" />
+		<definition id="一">
+			<item id="1" text="怜悯，怜惜。" />
+			<item id="2" text="自尊自大，自夸：自~其功." />
+			<item id="3" text="慎重，拘谨：~持." />
+		</definition>
+	</char>
+	<char hz="矜" py="qín" multi="guān,jīn">
+		<definition id="三">
+			<item text="〈古〉矛柄。" />
+		</definition>
+	</char>
+</pinyin>

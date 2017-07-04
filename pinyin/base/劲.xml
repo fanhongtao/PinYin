@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="劲" py="jìn" multi="jìng" main="1">
+		<phrase hz="吃劲" py="chī,jìn" info="1.费力气。2.经得住。3.〈方〉关系重大，要紧。" />
+		<phrase hz="闯劲" py="chuǎng,jìn" info="猛冲猛干或勇于创新的劲头。" />
+		<phrase hz="带劲" py="dài,jìn" info="1.有力量，有生气。2.引起兴趣。" />
+		<phrase hz="对劲" py="duì,jìn" info="1.合适；对头；称心。2.比力气。" />
+		<phrase hz="费劲" py="fèi,jìn" info="使劲，奋发，努力" />
+		<phrase hz="干劲" py="gàn,jìn" info="做事的积极性。" />
+		<phrase hz="后劲" py="hòu,jìn" info="1.显露较慢的作用或力量。2.其原因已停歇了一段时间后出现的效应。3.耐久力。4.古时指行军时殿后的精兵。" />
+		<phrase hz="加劲" py="jiā,jìn" info="增加气力;努力。" />
+		<phrase hz="较劲" py="jiào,jìn" info="1.各不相让或互不服气，要比出高低。2.坚持自己的想法，不听劝阻。" />
+		<phrase hz="叫劲" py="jiào,jìn" info="较劲;比试。" />
+		<phrase hz="劲头" py="jìn,tóu" info="1.积极的情绪。2.劲儿;力气。" />
+		<phrase hz="来劲" py="lái,jìn" info="1.热心肠、干什么就爱什么。2.立时引起一种情感波动，深深地感动人的状态。" />
+		<phrase hz="没劲" py="méi,jìn" info="1.一点力气也没有。2.毫无趣味。" />
+		<phrase hz="韧劲" py="rèn,jìn" info="坚韧不拔的劲头" />
+		<phrase hz="使劲" py="shǐ,jìn" info="把力用在某件事情上" />
+		<phrase hz="松劲" py="sōng,jìn" info="1.劲头松懈下来。2.降低用力的程度，减少紧张状态。" />
+		<phrase hz="下劲" py="xià,jìn" info="下功夫;使劲" />
+		<phrase hz="懈劲" py="xiè,jìn" info="放松干劲" />
+		<definition id="一">
+			<item text="（-儿）力气，力量：有多大~使多大~. (引)1.效力，作用：酒~儿上来了. 药~不够. 2.精神、情绪、兴趣等：干活儿起~. 一股子~头儿. 一个~儿地做. 老玩儿这个真没~. 3.指属性的程度：你瞧这块布这个白~儿. 咸~儿. 香~儿." />
+		</definition>
+	</char>
+	<char hz="劲" py="jìng" multi="jìn">
+		<phrase hz="苍劲" py="cāng,jìng" info="老练刚劲" />
+		<phrase hz="刚劲" py="gāng,jìng" info="强劲有力" />
+		<phrase hz="疾风知劲草" py="jí,fēng,zhī,jìng,cǎo" />
+		<phrase hz="劲拔" py="jìng,bá" info="雄健挺拔" />
+		<phrase hz="劲敌" py="jìng,dí" info="强劲的敌人或对手" />
+		<phrase hz="劲旅" py="jìng,lǚ" info="1.精锐的军队;强有力的队伍。2.强有力的军队。" />
+		<phrase hz="劲射" py="jìng,shè" info="快而有力的射球" />
+		<phrase hz="劲直" py="jìng,zhí" info="坚强正直" />
+		<phrase hz="强劲" py="qiáng,jìng" info="强大有力" />
+		<phrase hz="遒劲" py="qiú,jìng" info="强劲有力;刚健有力。多指书画的运笔" />
+		<definition id="二">
+			<item text="坚强有力：~旅. ~敌. 刚~. 疾风知~草." />
+		</definition>
+	</char>
+</pinyin>

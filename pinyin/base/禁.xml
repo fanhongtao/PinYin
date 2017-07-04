@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="禁" py="jīn" multi="jìn">
+		<phrase hz="不禁" py="bù,jīn" />
+		<phrase hz="禁穿" py="jīn,chuān" />
+		<phrase hz="禁得起" py="jīn,de,qǐ" />
+		<phrase hz="禁受" py="jīn,shòu" info="经受;忍受" />
+		<definition id="二">
+			<item id="1" text="禁受，受得住，耐（用）：~得起考验. 这种布~穿." />
+			<item id="2" text="忍耐：他不~（忍不住）笑起来." />
+		</definition>
+	</char>
+	<char hz="禁" py="jìn" multi="jīn" main="1">
+		<phrase hz="不禁止" py="bú,jìn,zhǐ" />
+		<phrase hz="弛禁" py="chí,jìn" info="解除禁令，放宽禁令" />
+		<phrase hz="犯禁" py="fàn,jìn" />
+		<phrase hz="海禁" py="hǎi,jìn" />
+		<phrase hz="监禁" py="jiān,jìn" />
+		<phrase hz="禁闭" py="jìn,bì" />
+		<phrase hz="禁地" py="jìn,dì" />
+		<phrase hz="禁锢" py="jìn,gù" />
+		<phrase hz="禁忌" py="jìn,jì" info="1.被禁止或忌讳的言行。2.指医药上应避免的事物。" />
+		<phrase hz="禁绝" py="jìn,jué" info="彻底禁止" />
+		<phrase hz="禁军" py="jìn,jūn" info="古代称保卫京城或宫廷的军队" />
+		<phrase hz="禁令" py="jìn,lìng" info="禁止某种活动的法令" />
+		<phrase hz="禁脔" py="jìn,luán" />
+		<phrase hz="禁律" py="jìn,lǜ" />
+		<phrase hz="禁区" py="jìn,qū" />
+		<phrase hz="禁曲" py="jìn,qǔ" />
+		<phrase hz="禁书" py="jìn,shū" />
+		<phrase hz="禁卫" py="jìn,wèi" info="1.古时指保卫京城或宫廷。2.指保卫帝王或京城的卫兵。" />
+		<phrase hz="禁欲" py="jìn,yù" />
+		<phrase hz="禁苑" py="jìn,yuàn" info="1.帝王的园林。2.指宫廷。3.指宫廷文学侍从官署。" />
+		<phrase hz="禁运" py="jìn,yùn" />
+		<phrase hz="禁止" py="jìn,zhǐ" />
+		<phrase hz="解禁" py="jiě,jìn" info="解除禁令" />
+		<phrase hz="开禁" py="kāi,jìn" info="宣布原有的禁令无效" />
+		<phrase hz="门禁" py="mén,jìn" />
+		<phrase hz="囚禁" py="qiú,jìn" />
+		<phrase hz="软禁" py="ruǎn,jìn" />
+		<phrase hz="违禁" py="wéi,jìn" />
+		<phrase hz="宵禁" py="xiāo,jìn" />
+		<phrase hz="幽禁" py="yōu,jìn" />
+		<phrase hz="自禁" py="zì,jìn" info="控制自己的感情" />
+		<definition id="一">
+			<item id="1" text="不许，制止：~止攀折花木. ~赛." />
+			<item id="2" text="法律或习惯上制止的事：入国问~. 犯~." />
+			<item id="3" text="拘押：~闭. 监~." />
+			<item id="4" text="旧时称皇帝居住的地方：~中. 紫~城. (引)不能随便通行的地方：~地." />
+			<item id="5" text="避忌：~忌." />
+		</definition>
+	</char>
+</pinyin>

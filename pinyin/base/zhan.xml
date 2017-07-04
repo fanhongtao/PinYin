@@ -33,14 +33,6 @@
 	<char hz="栈" py="zhàn" />
 	<char hz="绽" py="zhàn" />
 	<char hz="湛" py="zhàn" />
-	<char hz="颤" py="zhàn" multi="chàn">
-		<phrase hz="打颤" py="dǎ,zhàn" />
-		<phrase hz="寒颤" py="hán,zhàn" />
-		<phrase hz="冷颤" py="lěng,zhàn" />
-		<phrase hz="颤栗" py="zhàn,lì" />
-		<definition id="二">
-			<item text="同“战(2)”。" />
-		</definition>
-	</char>
+	<!-- Ref:颤.xml <char hz="颤" py="zhàn" multi="chàn" /> -->
 	<char hz="蘸" py="zhàn" />
 </pinyin>

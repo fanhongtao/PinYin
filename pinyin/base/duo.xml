@@ -16,31 +16,11 @@
 	</char>
 	<char hz="裰" py="duō" />
 	<char hz="夺" py="duó" />
-	<char hz="度" py="duó" multi="dù">
-		<phrase hz="猜度" py="cāi,duó" info="料想" />
-		<phrase hz="测度" py="cè,duó" info="猜测揣度" />
-		<phrase hz="揣度" py="chuǎi,duó" info="考虑估量" />
-		<phrase hz="忖度" py="cǔn,duó" info="推测;估计" />
-		<phrase hz="度德量力" py="duó,dé,liàng,lì" />
-		<phrase hz="审时度势" py="shěn,shí,duó,shì" />
-		<phrase hz="臆度" py="yì,duó" info="凭主观猜测" />
-		<definition id="二">
-			<item text="忖度，揣度，计算，推测：~德量力." />
-		</definition>
-	</char>
+	<!-- Ref:度.xml <char hz="度" py="duó" multi="dù" /> -->
 	<char hz="踱" py="duó" />
 	<char hz="铎" py="duó" />
 	<char hz="朵" py="duǒ" />
-	<char hz="垛" py="duǒ" multi="duò" main="1">
-		<phrase hz="城垛" py="chéng,duǒ" info="城墙上的垛子。" />
-		<phrase hz="垛子" py="duǒ,zi" info="墙两侧或上头伸出的部分。" />
-		<phrase hz="箭垛" py="jiàn,duǒ" info="1.城上的短墙。亦称为「女墙」。2.射箭的标的物。或称为「箭靶子」、「箭垛子」。" />
-		<phrase hz="门垛" py="mén,duǒ" info="门两旁向前方伸出的墙。" />
-		<phrase hz="墙垛" py="qiáng,duǒ" info="两扇门窗或其他洞口之间的墙。" />
-		<definition id="一">
-			<item text="（-子）用泥土、砖石等筑成的掩蔽物：箭~子. 门~子. 城墙~口." />
-		</definition>
-	</char>
+	<!-- Ref:垛.xml <char hz="垛" py="duǒ" multi="duò" main="1" /> -->
 	<char hz="哚" py="duǒ">
 		<phrase hz="吲哚" py="yǐn,duǒ" />
 	</char>
@@ -48,35 +28,14 @@
 	<char hz="埵" py="duǒ" />
 	<char hz="痑" py="duǒ" />
 	<char hz="亸" py="duǒ" />
-	<char hz="驮" py="duò" multi="tuó">
-		<definition id="二">
-			<item text="（-子）骡马等负载的成捆的货物：把~子卸下来，让牲口休息一会儿." />
-		</definition>
-	</char>
+	<!-- Ref:驮.xml <char hz="驮" py="duò" multi="tuó" /> -->
 	<char hz="剁" py="duò" />
-	<char hz="垛" py="duò" multi="duǒ">
-		<phrase hz="草垛" py="cǎo,duò" />
-		<phrase hz="堆垛" py="duī,duò" info="1.堆积、堆砌。2.比喻文字上的堆砌。" />
-		<phrase hz="垛叠" py="duò,dié" info="堆积重叠" />
-		<phrase hz="码垛" py="mǎ,duò" info="把物品整齐地堆叠好" />
-		<phrase hz="麦垛" py="mài,duò" />
-		<phrase hz="砖垛" py="zhuān,duò" />
-		<definition id="二">
-			<item id="1" text="整齐地堆成堆：麦~. 砖~." />
-			<item id="2" text="整齐地堆积：柴火~得比房还高." />
-		</definition>
-	</char>
+	<!-- Ref:垛.xml <char hz="垛" py="duò" multi="duǒ" /> -->
 	<char hz="跺" py="duò" />
 	<char hz="饳" py="duò" />
 	<char hz="柮" py="duò" />
 	<char hz="沲" py="duò" />
-	<char hz="柁" py="duò" multi="tuó" main="1">
-		<phrase hz="柁工" py="duò,gōng" info="船上掌舵的人。" />
-		<phrase hz="趁风使柁" py="chèn,fēng,shǐ,duò" info="犹看风使舵。比喻随机应变或迎合别人行事。" />
-		<definition id="二">
-			<item text="同“舵”。" />
-		</definition>
-	</char>
+	<!-- Ref:柁.xml <char hz="柁" py="duò" multi="tuó" main="1" /> -->
 	<char hz="舵" py="duò">
 		<definition>
 			<item text="控制行船方向的设备，多装在船尾：掌~. ~手. (引)飞机等交通工具上控制方向的装置。" />

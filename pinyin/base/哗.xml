@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哗" py="huā" multi="huá">
+		<phrase hz="哗哗" py="huā,huā" />
+		<definition id="二">
+			<item text="拟声词：水~~地流." />
+		</definition>
+	</char>
+	<char hz="哗" py="huá" multi="huā" main="1">
+		<phrase hz="哗变" py="huá,biàn" />
+		<phrase hz="哗然" py="huá,rán" info="人多声杂的样子" />
+		<phrase hz="哗众" py="huá,zhòng" info="用浮夸的言行使众人兴奋激动。" />
+		<phrase hz="喧哗" py="xuān,huá" />
+		<definition id="一">
+			<item text="人多声杂，乱吵（(连)喧-）：全体大~. ~众取宠（在别人前面夸耀自己，骗取别人称赞）." />
+		</definition>
+	</char>
+</pinyin>

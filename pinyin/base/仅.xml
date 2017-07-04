@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仅" py="jǐn" multi="jìn" main="1">
+		<phrase hz="不仅" py="bù,jǐn" />
+		<phrase hz="仅次于" py="jǐn,cì,yú" />
+		<phrase hz="仅此" py="jǐn,cǐ" />
+		<phrase hz="仅存" py="jǐn,cún" />
+		<phrase hz="仅见" py="jǐn,jiàn" info="极少见" />
+		<phrase hz="仅仅" py="jǐn,jǐn" />
+		<phrase hz="仅容旋马" py="jǐn,róng,xuán,mǎ" info="指住宅地方狭小。" />
+		<phrase hz="仅以身免" py="jǐn,yǐ,shēn,miǎn" info="仅：才能够；身：自身；免：避免。指没有被杀或只身逃出了险境。" />
+		<phrase hz="绝无仅有" py="jué,wú,jǐn,yǒu" />
+		<definition id="一">
+			<item text="副词，只（叠）：~~三个月就建成了. ~写过两篇短文. 这些意见~供参考." />
+		</definition>
+	</char>
+	<char hz="仅" py="jìn" multi="jǐn">
+		<phrase hz="尽收眼底" py="jìn,shōu,yǎn,dǐ" />
+		<definition id="二">
+			<item text="将近，几乎（多见于唐人诗文）：山城~百层. 士卒~万人." />
+		</definition>
+	</char>
+</pinyin>

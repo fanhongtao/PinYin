@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="阇" py="dū" multi="shé" main="1">
+		<definition id="一">
+			<item text="城门上的台。" />
+		</definition>
+	</char>
+	<char hz="阇" py="shé" multi="dū">
+		<phrase hz="阇梨" py="shé,lí" info="梵语“阿阇梨”的省称。佛教指高僧，泛指僧。" />
+		<definition id="二">
+			<item text="[阇梨]梵语“阿阇梨”的省称。佛教指高僧，泛指僧。" />
+		</definition>
+	</char>
+</pinyin>

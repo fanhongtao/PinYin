@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="弹" py="dàn" multi="tán" main="1">
+		<phrase hz="臭弹" py="chòu,dàn" info="失效打不响的炮弹" />
+		<phrase hz="弹道" py="dàn,dào" info="炮弹、火箭等的质心从发射开始点到终点的运动轨迹。" />
+		<phrase hz="弹弓" py="dàn,gōng" />
+		<phrase hz="弹夹" py="dàn,jiā" info="夹子弹用的长条夹。用来将子弹成排夹住,以便压入弹匣" />
+		<phrase hz="弹尽粮绝" py="dàn,jìn,liáng,jué" />
+		<phrase hz="弹头" py="dàn,tóu" />
+		<phrase hz="弹壳" py="dàn,ké" />
+		<phrase hz="弹丸" py="dàn,wán" />
+		<phrase hz="弹无虚发" py="dàn,wú,xū,fā" />
+		<phrase hz="弹膛" py="dàn,táng" />
+		<phrase hz="弹匣" py="dàn,xiá" />
+		<phrase hz="弹药" py="dàn,yào" />
+		<phrase hz="弹子锁" py="dàn,zǐ,suǒ" />
+		<phrase hz="弹着点" py="dàn,zhuó,diǎn" info="弹道与目标或地表面的交点。" />
+		<phrase hz="导弹" py="dǎo,dàn" />
+		<phrase hz="防弹" py="fáng,dàn" />
+		<phrase hz="荷枪实弹" py="hè,qiāng,shí,dàn" />
+		<phrase hz="流弹" py="liú,dàn" />
+		<phrase hz="榴弹" py="liú,dàn" />
+		<phrase hz="炮弹" py="pào,dàn" />
+		<phrase hz="枪弹" py="qiāng,dàn" />
+		<phrase hz="实弹" py="shí,dàn" />
+		<phrase hz="糖弹" py="táng,dàn" />
+		<phrase hz="糖衣炮弹" py="táng,yī,pào,dàn" />
+		<phrase hz="霰弹" py="xiàn,dàn" />
+		<phrase hz="饮弹" py="yǐn,dàn" />
+		<phrase hz="炸弹" py="zhà,dàn" />
+		<phrase hz="中弹" py="zhòng,dàn" info="被子弹打中" />
+		<phrase hz="子弹" py="zǐ,dàn" />
+		<!-- 各种“弹”（dàn） 开始 -->
+		<phrase hz="白磷弹" py="bái,lín,dàn" />
+		<phrase hz="穿甲弹" py="chuān,jiǎ,dàn" />
+		<phrase hz="催泪弹" py="cuī,lèi,dàn" />
+		<phrase hz="达姆弹" py="dá,mǔ,dàn" info="枪弹的一种。弹头射入身体后变形，造成重创。" />
+		<phrase hz="豆袋弹" py="dòu,dài,dàn" />
+		<phrase hz="反物质弹" py="fǎn,wù,zhì,dàn" />
+		<phrase hz="钢芯弹" py="gāng,xīn,dàn" />
+		<phrase hz="高爆弹" py="gāo,bào,dàn" />
+		<phrase hz="核弹" py="hé,dàn" />
+		<phrase hz="火箭弹" py="huǒ,jiàn,dàn" />
+		<phrase hz="空包弹" py="kōng,bāo,dàn" />
+		<phrase hz="雷帽弹" py="léi,mào,dàn" />
+		<phrase hz="贫铀弹" py="pín,yóu,dàn" />
+		<phrase hz="破门弹" py="pò,mén,dàn" />
+		<phrase hz="破甲弹" py="pò,jiǎ,dàn" />
+		<phrase hz="汽油弹" py="qì,yóu,dàn" />
+		<phrase hz="铅弹" py="qiān,dàn" />
+		<phrase hz="氢弹" py="qīng,dàn" />
+		<phrase hz="闪光弹" py="shǎn,guāng,dàn" />
+		<phrase hz="射钉弹" py="shè,dīng,dàn" />
+		<phrase hz="碎甲弹" py="suì,jiǎ,dàn" />
+		<phrase hz="突缘弹" py="tū,yuán,dàn" />
+		<phrase hz="钨心弹" py="wū,xīn,dàn" />
+		<phrase hz="无缘弹" py="wú,yuán,dàn" />
+		<phrase hz="无壳弹" py="wú,ké,dàn" />
+		<phrase hz="温压弹" py="wēn,yā,dàn" />
+		<phrase hz="信号弹" py="xìn,hào,dàn" />
+		<phrase hz="宣传弹" py="xuān,chuán,dàn" />
+		<phrase hz="烟雾弹" py="yān,wù,dàn" />
+		<phrase hz="云爆弹" py="yún,bào,dàn" />
+		<phrase hz="原子弹" py="yuán,zǐ,dàn" />
+		<phrase hz="脏弹" py="zāng,dàn" />
+		<phrase hz="震撼弹" py="zhèn,hàn,dàn" />
+		<phrase hz="震荡弹" py="zhèn,dàng,dàn" />
+		<phrase hz="中子弹" py="zhōng,zǐ,dàn" />
+		<phrase hz="子母弹" py="zǐ,mǔ,dàn" />
+		<!-- 各种“弹”（dàn） 结束 -->
+		<definition id="一">
+			<item id="1" text="可以用弹(tán)力发射出去的小丸：~丸." />
+			<item id="2" text="装有爆炸物可以击毁人、物的东西：炮~. 炸~. 手榴~." />
+		</definition>
+	</char>
+	<char hz="弹" py="tán" multi="dàn">
+		<phrase hz="重弹" py="chóng,tán" />
+		<phrase hz="吹弹" py="chuī,tán" />
+		<phrase hz="反弹" py="fǎn,tán" />
+		<phrase hz="讥弹" py="jī,tán" info="指责缺点和错误" />
+		<phrase hz="乱弹" py="luàn,tán" info="1.戏曲名词。2.乱说，胡扯。" />
+		<phrase hz="男儿有泪不轻弹" py="nán,ér,yǒu,lèi,bù,qīng,tán" />
+		<phrase hz="弹唱" py="tán,chàng" info="弹奏唱歌" />
+		<phrase hz="弹词" py="tán,cí" info="曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />
+		<phrase hz="弹力" py="tán,lì" />
+		<phrase hz="弹钢琴" py="tán,gāng,qín" />
+		<phrase hz="弹冠" py="tán,guān" info="1.弹除帽子上的灰尘。2.整理帽冠。" />
+		<phrase hz="弹劾" py="tán,hé" />
+		<phrase hz="弹簧" py="tán,huáng" />
+		<phrase hz="弹吉它" py="tán,jí,tā" />
+		<phrase hz="弹棉花" py="tán,mián,huā" />
+		<phrase hz="弹琵琶" py="tán,pí,pá" />
+		<phrase hz="弹琴" py="tán,qín" info="自定义词" />
+		<phrase hz="弹射" py="tán,shè" />
+		<phrase hz="弹弦子" py="tán,xián,zi" />
+		<phrase hz="弹性" py="tán,xìng" />
+		<phrase hz="弹压" py="tán,yā" info="用武力压制（骚乱等）。" />
+		<phrase hz="弹指" py="tán,zhǐ" info="极短时间" />
+		<phrase hz="弹奏" py="tán,zòu" info="1.弹琴演奏。2.弹劾奏闻" />
+		<definition id="二">
+			<item id="1" text="被其他手指压住的手指用力伸开：用手指~他一下. 把帽子上的土~下去." />
+			<item id="2" text="使弦振动：~弦子. ~琵琶. ~棉花. [弹词]曲艺的一种，流行于南方各省，有说有唱，用三弦、琵琶等伴奏。" />
+			<item id="3" text="利用一个物体的弹性把另一个物体放射出去：~射. [弹性]物体因受外力暂变形状，外力一去即恢复原状的性质。" />
+			<item id="4" text="指检举违法失职的官吏（(连)-劾）。" />
+			<item text="" />
+		</definition>
+	</char>
+</pinyin>

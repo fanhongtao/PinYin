@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="钐" py="shān" multi="shàn" main="1">
+		<definition id="一">
+			<item text="一种金属元素，符号Sm，银白色，有放射性。钐的氧化物是原子反应堆上陶瓷保护层的重要成分。" />
+		</definition>
+	</char>
+	<char hz="钐" py="shàn" multi="shān">
+		<phrase hz="钐草" py="shàn,cǎo" />
+		<phrase hz="钐刀" py="shàn,dāo" />
+		<phrase hz="钐镰" py="shàn,lián" />
+		<phrase hz="钐麦" py="shàn,mài" />
+		<definition id="二">
+			<item text="抡开镰刀或钐镰割：~草. ~麦. [钐镰][钐刀]一种把儿很长的大镰刀。" />
+		</definition>
+	</char>
+</pinyin>

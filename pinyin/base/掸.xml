@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="掸" py="dǎn" multi="shàn" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="拂，打去尘土：~桌子. ~衣服." />
+		</definition>
+	</char>
+	<char hz="掸" py="shàn" multi="dǎn">
+		<phrase hz="掸族" py="shàn,zú" />
+		<phrase hz="掸邦" py="shàn,bāng" />
+		<definition id="二">
+			<item id="1" text="我国史书对傣族的一种称呼。" />
+			<item id="2" text="掸族，缅甸民族之一，大部分居住在掸邦。 [掸邦]缅甸自治邦之一。" />
+		</definition>
+	</char>
+</pinyin>

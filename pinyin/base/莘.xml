@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="莘" py="shēn" multi="xīn" main="1">
+		<phrase hz="莘莘" py="shēn,shēn" info="数量众多的样子" />
+		<phrase hz="莘县" py="shēn,xiàn" info="山东省聊城市辖县，位于山东省西部、聊城市西南部，冀鲁豫三省交界处。" />
+		<definition id="一">
+			<item id="1" text="莘县，在山东省。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="莘" py="xīn" multi="shēn">
+		<phrase hz="莘庄" py="xīn,zhuāng" />
+		<definition id="二">
+			<item text="古指细辛。一种草本植物，花暗紫色，根细，有辣味，可入药。" />
+			<item text="[莘庄]地名，在上海市。" />
+		</definition>
+	</char>
+</pinyin>

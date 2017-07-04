@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="观" py="guān" multi="guàn" main="1">
+		<phrase hz="悲观" py="bēi,guān" />
+		<phrase hz="参观" py="cān,guān" />
+		<phrase hz="达观" py="dá,guān" info="心胸开朗，见解通达" />
+		<phrase hz="改观" py="gǎi,guān" />
+		<phrase hz="观测" py="guān,cè" />
+		<phrase hz="观察" py="guān,chá" />
+		<phrase hz="观点" py="guān,diǎn" />
+		<phrase hz="观光" py="guān,guāng" />
+		<phrase hz="观看" py="guān,kàn" />
+		<phrase hz="观摩" py="guān,mó" />
+		<phrase hz="观念" py="guān,niàn" />
+		<phrase hz="观赏" py="guān,shǎng" />
+		<phrase hz="观望" py="guān,wàng" />
+		<phrase hz="观瞻" py="guān,zhān" />
+		<phrase hz="观照" py="guān,zhào" />
+		<phrase hz="观众" py="guān,zhòng" />
+		<phrase hz="宏观" py="hóng,guān" />
+		<phrase hz="价值观" py="jià,zhí,guān" />
+		<phrase hz="景观" py="jǐng,guān" info="指某地区或某种类型的自然景色，也指人工创造的景色" />
+		<phrase hz="旧观" py="jiù,guān" info="旧时的样子" />
+		<phrase hz="客观" py="kè,guān" />
+		<phrase hz="乐观" py="lè,guān" />
+		<phrase hz="美观" py="měi,guān" />
+		<phrase hz="旁观" py="páng,guān" />
+		<phrase hz="奇观" py="qí,guān" />
+		<phrase hz="人生观" py="rén,shēng,guān" />
+		<phrase hz="三观" py="sān,guān" info="三观一般而言是指世界观、价值观、人生观，这是被大多数人所认知的三观，即老三观，它们辩证统一，相互作用，崇高的真善美为三观的追求目标。新三观是由2009年中央纪委十七届三次全会上，胡锦涛同志提出的。即事业观、工作观、政绩观，佛教中的三观为即是一心三观，为空观、假观、中观。" />
+		<phrase hz="世界观" py="shì,jiè,guān" />
+		<phrase hz="外观" py="wài,guān" />
+		<phrase hz="微观" py="wēi,guān" />
+		<phrase hz="围观" py="wéi,guān" />
+		<phrase hz="雅观" py="yǎ,guān" />
+		<phrase hz="主观" py="zhǔ,guān" />
+		<phrase hz="壮观" py="zhuàng,guān" />
+		<definition id="一">
+			<item id="1" text="看（(连)-看）：坐井~天. ~摩. 走马~花. [观察]仔细考察：细心~~一切客观现象. [观光]参观别国或别处的文物、建设等。" />
+			<item id="2" text="看到的景象（(连)-瞻）：奇~. 壮~. " />
+			<item id="3" text="对事物的认识，看法：乐~. 人生~. 宇宙~. [观点]从某一角度或立场出发形成对事物的看法。 [观念]1.思想，理性认识。2.客观事物在意识中构成的形象。" />
+		</definition>
+	</char>
+	<char hz="观" py="guàn" multi="guān">
+		<phrase hz="白云观" py="bái,yún,guàn" />
+		<phrase hz="五庄观" py="wǔ,zhuāng,guàn" />
+		<definition id="二">
+			<item text="道教的庙宇。" />
+		</definition>
+	</char>
+</pinyin>

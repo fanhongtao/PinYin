@@ -11,10 +11,5 @@
 		<phrase hz="耲耙" py="huái,bà" />
 	</char>
 	<char hz="坏" py="huài" />
-	<char hz="划" py="huai" multi="huá,huà">
-		<phrase hz="㓦划" py="bāi,huai" />
-		<definition id="三">
-			<item text="见“㓦”字条“㓦划”(bāi-)。" />
-		</definition>
-	</char>
+	<!-- Ref:划.xml <char hz="划" py="huai" multi="huá,huà" /> -->
 </pinyin>

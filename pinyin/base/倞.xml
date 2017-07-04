@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="倞" py="jìng" multi="liàng">
+		<definition id="一">
+			<item text="强，强劲。" />
+		</definition>
+	</char>
+	<char hz="倞" py="liàng" multi="jìng" main="1">
+		<definition id="二">
+			<item text="求索。" />
+		</definition>
+	</char>
+</pinyin>

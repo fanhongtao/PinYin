@@ -1,35 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="更" py="gēng" multi="gèng">
-		<phrase hz="变更" py="biàn,gēng" />
-		<phrase hz="打更" py="dǎ,gēng" />
-		<phrase hz="定更" py="dìng,gēng" info="旧时晚上八时左右，打鼓报告初更开始，称为“定更”。" />
-		<phrase hz="更次" py="gēng,cì" info="古时用敲击更梆的次数来计算和划分夜晚的时间，一夜五更，每更约两小时 " />
-		<phrase hz="更迭" py="gēng,dié" />
-		<phrase hz="更定" py="gēng,dìng" info="改订；修订。" />
-		<phrase hz="更动" py="gēng,dòng" />
-		<phrase hz="更番" py="gēng,fān" />
-		<phrase hz="更夫" py="gēng,fū" info="旧时打更巡夜的人。又叫更人" />
-		<phrase hz="更改" py="gēng,gǎi" />
-		<phrase hz="更换" py="gēng,huàn" />
-		<phrase hz="更阑" py="gēng,lán" info="更深夜残。" />
-		<phrase hz="更漏" py="gēng,lòu" info="1.古时夜间凭漏壶表示的时刻报更，所以漏壶又叫更漏。2.用以指夜晚的时间" />
-		<phrase hz="更名" py="gēng,míng" info="改易名称" />
-		<phrase hz="更年期" py="gēng,nián,qī" />
-		<phrase hz="更生" py="gēng,shēng" info="1.死而复生，比喻复兴。2.对废品加工，使重新能够使用。如:更生布;更生纸" />
-		<phrase hz="更易" py="gēng,yì" info="改变；改换。" />
-		<phrase hz="更张" py="gēng,zhāng" info="改施弓弦，重新张设，比喻变更或改革" />
-		<phrase hz="更正" py="gēng,zhèng" />
-		<phrase hz="起更" py="qǐ,gēng" />
-		<phrase hz="三更半夜" py="sān,gēng,bàn,yè" />
-		<phrase hz="少不更事" py="shào,bù,gēng,shì" />
-		<phrase hz="万象更新" py="wàn,xiàng,gēng,xīn" />
-		<definition id="一">
-			<item id="1" text="改变，改换（(连)-改、-换、变-）：~动. 万象~新. ~番（轮流调换）. ~正错误." />
-			<item id="2" text="经历：少(shào)不更事." />
-			<item id="3" text="旧时一夜分五更：三~半夜. 打~（打梆敲锣报时巡夜）." />
-		</definition>
-	</char>
+	<!-- Ref:更.xml <char hz="更" py="gēng" multi="gèng" /> -->
 	<char hz="庚" py="gēng" />
 	<char hz="赓" py="gēng" />
 	<char hz="鹒" py="gēng">
@@ -47,20 +18,7 @@
 	<char hz="梗" py="gěng" />
 	<char hz="鲠" py="gěng" />
 	<char hz="耿" py="gěng" />
-	<char hz="颈" py="gěng" multi="jǐng">
-		<phrase hz="脖颈子" py="bó,gěng,zi" />
-		<definition id="二">
-			<item text="义同“颈(一)”，用于“脖颈子”。" />
-		</definition>
-	</char>
-	<char hz="更" py="gèng" multi="gēng" main="1">
-		<phrase hz="更好" py="gèng,hǎo" />
-		<phrase hz="更加" py="gèng,jiā" />
-		<phrase hz="更上一层楼" py="gèng,shàng,yì,céng,lóu" />
-		<definition id="二" text="副词">
-			<item id="1" text="再，又：~上一层楼." />
-			<item id="2" text="越发，愈加：~好. ~明显了." />
-		</definition>
-	</char>
+	<!-- Ref:颈.xml <char hz="颈" py="gěng" multi="jǐng" /> -->
+	<!-- Ref:更.xml <char hz="更" py="gèng" multi="gēng" main="1" /> -->
 	<char hz="暅" py="gèng" />
 </pinyin>

@@ -7,16 +7,8 @@
 	<char hz="对" py="duì" />
 	<char hz="怼" py="duì" />
 	<char hz="兑" py="duì" />
-	<char hz="敦" py="duì" multi="dūn">
-		<definition id="二">
-			<item text="古时盛黍稷的器具。" />
-		</definition>
-	</char>
+	<!-- Ref:敦.xml <char hz="敦" py="duì" multi="dūn" /> -->
 	<char hz="憝" py="duì" />
-	<char hz="镦" py="duì" multi="dūn" info="Word主音">
-		<definition id="一">
-			<item text="古代矛戟柄末的金属箍。" />
-		</definition>
-	</char>
+	<!-- Ref:镦.xml <char hz="镦" py="duì" multi="dūn" info="Word主音" /> -->
 	<char hz="碓" py="duì" />
 </pinyin>

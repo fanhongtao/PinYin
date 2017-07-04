@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="颤" py="chàn" multi="zhàn" main="1">
+		<phrase hz="颤动" py="chàn,dòng" />
+		<phrase hz="颤抖" py="chàn,dǒu" />
+		<phrase hz="颤悠" py="chàn,yōu" />
+		<phrase hz="悸颤" py="jì,chàn" />
+		<definition id="一">
+			<item text="物体振动：这条扁担(dan)担上五六十斤就~了. ~动." />
+		</definition>
+	</char>
+	<char hz="颤" py="zhàn" multi="chàn">
+		<phrase hz="打颤" py="dǎ,zhàn" />
+		<phrase hz="寒颤" py="hán,zhàn" />
+		<phrase hz="冷颤" py="lěng,zhàn" />
+		<phrase hz="颤栗" py="zhàn,lì" />
+		<definition id="二">
+			<item text="同“战(2)”。" />
+		</definition>
+	</char>
+</pinyin>

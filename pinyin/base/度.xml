@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="度" py="dù" multi="duó" main="1">
+		<phrase hz="暗度陈仓" py="àn,dù,chén,cāng" />
+		<phrase hz="百度" py="bǎi,dù" />
+		<phrase hz="长度" py="cháng,dù" />
+		<phrase hz="程度" py="chéng,dù" />
+		<phrase hz="尺度" py="chǐ,dù" />
+		<phrase hz="大度" py="dà,dù" />
+		<phrase hz="低度" py="dī,dù" />
+		<phrase hz="度牒" py="dù,dié" info="旧时官府发给僧尼的证明身份的文件。也叫戒牒" />
+		<phrase hz="度过" py="dù,guò" />
+		<phrase hz="度假" py="dù,jià" />
+		<phrase hz="度量" py="dù,liàng" />
+		<phrase hz="度量衡" py="dù,liàng,héng" />
+		<phrase hz="度日" py="dù,rì" />
+		<phrase hz="法度" py="fǎ,dù" />
+		<phrase hz="风度" py="fēng,dù" />
+		<phrase hz="幅度" py="fú,dù" />
+		<phrase hz="高度" py="gāo,dù" />
+		<phrase hz="广度" py="gòng,dù" info="谓事物的范围。宽宏的气度。亦指气度宽宏的人。佛教语。犹普度。谓普遍渡人于彼岸。" />
+		<phrase hz="共度" py="gòng,dù" />
+		<phrase hz="过度" py="guò,dù" />
+		<phrase hz="厚度" py="hòu,dù" />
+		<phrase hz="极度" py="jí,dù" />
+		<phrase hz="角度" py="jiǎo,dù" />
+		<phrase hz="金针度人" py="jīn,zhēn,dù,rén" />
+		<phrase hz="进度" py="jìn,dù" />
+		<phrase hz="经度" py="jīng,dù" />
+		<phrase hz="刻度" py="kè,dù" />
+		<phrase hz="宽度" py="kuān,dù" />
+		<phrase hz="浓度" py="nóng,dù" />
+		<phrase hz="气度" py="qì,dù" />
+		<phrase hz="前度" py="qián,dù" />
+		<phrase hz="湿度" py="shī,dù" />
+		<phrase hz="适度" py="shì,dù" />
+		<phrase hz="态度" py="tài,dù" />
+		<phrase hz="剃度" py="tì,dù" info="佛教用语，指给要出家的人剃去头发" />
+		<phrase hz="纬度" py="wěi,dù" />
+		<phrase hz="温度" py="wēn,dù" />
+		<phrase hz="一年一度" py="yī,nián,yī,dù" />
+		<phrase hz="硬度" py="yìng,dù" />
+		<phrase hz="再度" py="zài,dù" />
+		<phrase hz="制度" py="zhì,dù" />
+		<phrase hz="置之度外" py="zhì,zhī,dù,wài" />
+		<definition id="一">
+			<item id="1" text="计算长短的器具或单位：~量(liàng)衡." />
+			<item id="2" text="依照计算的标准划分的单位：温~. 湿~. 经~. 用了20~电." />
+			<item id="3" text="事物所达到的程度：知名~. 高~的爱国热情." />
+			<item id="4" text="法则，应遵行的标准（(连)制-、法-）。" />
+			<item id="5" text="度量，能容受的量：气~. 适~. 过~." />
+			<item id="6" text="过，由此到彼：~日." />
+			<item id="7" text="所打算或考虑的：置之~外." />
+			<item id="8" text="量词，次：一~. 再~. 前~." />
+		</definition>
+	</char>
+	<char hz="度" py="duó" multi="dù">
+		<phrase hz="猜度" py="cāi,duó" info="料想" />
+		<phrase hz="测度" py="cè,duó" info="猜测揣度" />
+		<phrase hz="揣度" py="chuǎi,duó" info="考虑估量" />
+		<phrase hz="忖度" py="cǔn,duó" info="推测;估计" />
+		<phrase hz="度德量力" py="duó,dé,liàng,lì" />
+		<phrase hz="审时度势" py="shěn,shí,duó,shì" />
+		<phrase hz="臆度" py="yì,duó" info="凭主观猜测" />
+		<definition id="二">
+			<item text="忖度，揣度，计算，推测：~德量力." />
+		</definition>
+	</char>
+</pinyin>

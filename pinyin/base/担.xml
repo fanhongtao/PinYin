@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="担" py="dān" multi="dǎn,dàn" main="1">
+		<phrase hz="承担" py="chéng,dān" />
+		<phrase hz="担保" py="dān,bǎo" info="表示负责，保证做到或保证不出问题" />
+		<phrase hz="担当" py="dān,dāng" />
+		<phrase hz="担风险" py="dān,fēng,xiǎn" />
+		<phrase hz="担负" py="dān,fù" info="承当[职务、义务或任务]" />
+		<phrase hz="担搁" py="dān,gē" info="耽搁，迟延" />
+		<phrase hz="担架" py="dān,jià" info="指送病人、伤员的简易用具，架子中间绷着帆布或绳子" />
+		<phrase hz="担惊受怕" py="dān,jīng,shòu,pà" info="形容提心吊胆,十分害怕的状态" />
+		<phrase hz="担任" py="dān,rèn" />
+		<phrase hz="担心" py="dān,xīn" />
+		<phrase hz="担忧" py="dān,yōu" />
+		<phrase hz="分担" py="fēn,dān" info="1.分别负担;担负一部分。2.共同承担" />
+		<phrase hz="负担" py="fù,dān" info="1.费用，开支。2.承受的责任。3.承当[责任、工作、费用等]" />
+		<phrase hz="石担" py="shí,dān" info="一种在木杠或竹杠两端装有石轮的练习举重用的器械" />
+		<definition id="一">
+			<item id="1" text="用肩膀挑：~水. ~着两筐青菜. [担心]忧虑，顾虑：我~~他身体受不了." />
+			<item id="2" text="担负，承当：~风险. ~责任." />
+		</definition>
+	</char>
+	<char hz="担" py="dǎn" multi="dān,dàn">
+		<definition id="三">
+			<item text="拂，拂拭。后作“掸”。" />
+		</definition>
+	</char>
+	<char hz="担" py="dàn" multi="dān,dǎn">
+		<phrase hz="扁担" py="biǎn,dàn" />
+		<phrase hz="担子" py="dàn,zi" />
+		<phrase hz="货郎担" py="huò,láng,dàn" />
+		<phrase hz="零担" py="líng,dàn" info="零担是相对于整车而言。在实际的市场操作中，对于零担和整车的划分，基本上是以能否装满一车做为区别。" />
+		<phrase hz="挑担" py="tiāo,dàn" info="1.担子。2.挑上担子" />
+		<phrase hz="一担挑" py="yī,dàn,tiāo" />
+		<phrase hz="重担" py="zhòng,dàn" />
+		<definition id="二">
+			<item id="1" text="扁担，挑东西的用具，多用竹、木做成。" />
+			<item id="2" text="（-子）一挑儿东西：货郎~. (喻)担负的责任：重~. 不怕~子重." />
+			<item id="3" text="市制重量单位，1担是100斤，合50千克。" />
+			<item id="4" text="量词：一~水。" />
+		</definition>
+	</char>
+</pinyin>

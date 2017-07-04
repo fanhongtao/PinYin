@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="囤" py="dùn" multi="tún" main="1">
+		<phrase hz="大囤满" py="dà,dùn,mǎn" />
+		<phrase hz="火囤" py="huǒ,dùn" info="1.犹火盆，火塘。2.谓利用女色设圈套骗人。" />
+		<phrase hz="粮囤" py="liáng,dùn" />
+		<phrase hz="露囤" py="lù,dùn" info="露天的粮囤。" />
+		<phrase hz="牛囤" py="niú,dùn" info="牛栏。" />
+		<phrase hz="人皮囤" py="rén,pí,dùn" info="犹言酒囊饭袋。用以讥讽只会吃喝、不会做事的人。" />
+		<phrase hz="石囤" py="shí,dùn" info="又称蛇笼。用以阻止水流的盛石竹笼。" />
+		<phrase hz="小囤流" py="xiǎo,dùn,liú" />
+		<definition id="一">
+			<item text="用竹篾、荆条等编成的或用席箔等围成的盛粮食等的器物：大~满，小~流." />
+		</definition>
+	</char>
+	<char hz="囤" py="tún" multi="dùn">
+		<phrase hz="囤积" py="tún,jī" />
+		<phrase hz="囤积居奇" py="tún,jī,jū,qí" info="囤、居：积聚；奇：稀少的物品。把稀少的货物储藏起来。指商人囤积大量商品，等待高价出卖，牟取暴利。（贬义）" />
+		<phrase hz="囤集" py="tún,jí" />
+		<phrase hz="囤聚" py="tún,jù" info="储存聚集(货物)" />
+		<phrase hz="囤货" py="tún,huò" />
+		<definition id="二">
+			<item text="囤积，积存，存储货物、粮食：~货." />
+		</definition>
+	</char>
+</pinyin>

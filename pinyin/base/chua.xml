@@ -1,11 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="欻" py="chuā" multi="xū" main="1">
-		<phrase hz="欻欻" py="chuā,chuā" info="象声词" />
-		<phrase hz="欻拉" py="chuā,lā" info="象声词" />
-		<phrase hz="欻的" py="chuā,de" info="自定义词" />
-		<definition id="一">
-			<item text="拟声词。" />
-		</definition>
-	</char>
+	<!-- Ref:欻.xml <char hz="欻" py="chuā" multi="xū" main="1" /> -->
 </pinyin>

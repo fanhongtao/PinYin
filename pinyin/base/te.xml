@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="忑" py="tè" />
-	<char hz="忒" py="tè" multi="tuī">
-		<phrase hz="差忒" py="chà,tè" />
-		<definition id="一">
-			<item text="差错：差~." />
-		</definition>
-	</char>
+	<!-- Ref:忒.xml <char hz="忒" py="tè" multi="tuī" /> -->
 	<char hz="铽" py="tè" />
 	<char hz="特" py="tè" />
 	<char hz="慝" py="tè" />

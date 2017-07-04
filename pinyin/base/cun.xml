@@ -3,11 +3,7 @@
 	<char hz="村" py="cūn" />
 	<char hz="皴" py="cūn" />
 	<char hz="存" py="cún" />
-	<char hz="蹲" py="cún" multi="dūn">
-		<definition id="二">
-			<item text="脚、腿猛然落地受伤：他跳下来~了腿了." />
-		</definition>
-	</char>
+	<!-- Ref:蹲.xml <char hz="蹲" py="cún" multi="dūn" /> -->
 	<char hz="忖" py="cǔn">
 		<phrase hz="忖度" py="cǔn,duó" />
 		<phrase hz="自忖" py="zì,cǔn" />

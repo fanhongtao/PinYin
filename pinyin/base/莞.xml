@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="莞" py="guǎn" multi="wǎn">
+		<phrase hz="东莞" py="dōng,guǎn" />
+		<definition id="一">
+			<item text="[东莞]地名，在广东省。" />
+		</definition>
+	</char>
+	<char hz="莞" py="wǎn" multi="guǎn" main="1">
+		<phrase hz="莞尔" py="wǎn,ěr" />
+		<phrase hz="莞然" py="wǎn,rán" info="莞尔。" />
+		<definition id="二">
+			<item text="[莞尔]微笑的样子。" />
+		</definition>
+	</char>
+</pinyin>

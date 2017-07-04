@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="冠" py="guān" multi="guàn">
+		<phrase hz="凤冠" py="fèng,guān" info="古代皇帝后妃的帽子，其上饰有凤凰样珠宝。亦指妇女出嫁时的礼帽。" />
+		<phrase hz="冠盖" py="guān,gài" info="1.泛指官员的冠服和车乘。2.指仕宦，贵官。3.特指使者。4.犹冠族。官宦之家。5.像帽子样盖着。" />
+		<phrase hz="冠冕" py="guān,miǎn" />
+		<phrase hz="冠子" py="guān,zi" />
+		<phrase hz="桂冠" py="guì,guān" />
+		<phrase hz="花冠" py="huā,guān" />
+		<phrase hz="皇冠" py="huáng,guān" />
+		<phrase hz="鸡冠" py="jī,guān" />
+		<phrase hz="免冠" py="miǎn,guān" info="1.脱去帽子，古时表示谢罪，后来表示敬意。2.不戴帽子" />
+		<phrase hz="树冠" py="shù,guān" info="乔木树干的上部及其枝叶" />
+		<phrase hz="衣冠" py="yī,guān" />
+		<phrase hz="羽冠" py="yǔ,guān" info="鸟类头上长的羽毛" />
+		<definition id="一">
+			<item id="1" text="帽子：衣~整齐." />
+			<item id="2" text="（-子）鸟类头上的肉瘤或高出的羽毛：鸡~子." />
+		</definition>
+	</char>
+	<char hz="冠" py="guàn" multi="guān" main="1">
+		<phrase hz="夺冠" py="duó,guàn" />
+		<phrase hz="冠军" py="guàn,jūn" />
+		<phrase hz="冠序" py="guàn,xù" info="在书前加序言。" />
+		<phrase hz="弱冠" py="ruò,guàn" info="古代男子二十岁行冠礼,表示已经成人,但体还未壮,所以称做弱冠,后泛指男子二十左右的年纪。" />
+		<definition id="二">
+			<item id="1" text="把帽子戴在头上。" />
+			<item id="2" text="超出众人，居第一位：勇~三军. [冠军](转)比赛的第一名。" />
+			<item id="3" text="在前面加上某种名号：~以诗人的桂冠(guān)." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="踉" py="liáng" multi="liàng" main="1">
+		<phrase hz="跳踉" py="tiào,liáng" />
+		<definition id="一">
+			<item text="[跳踉]跳跃。" />
+		</definition>
+	</char>
+	<char hz="踉" py="liàng" multi="liáng">
+		<phrase hz="踉跄" py="liàng,qiàng" />
+		<definition id="二">
+			<item text="[踉跄](-qiàng)走路不稳。" />
+		</definition>
+	</char>
+</pinyin>

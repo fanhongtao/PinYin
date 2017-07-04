@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="颈" py="gěng" multi="jǐng">
+		<phrase hz="脖颈子" py="bó,gěng,zi" />
+		<definition id="二">
+			<item text="义同“颈(一)”，用于“脖颈子”。" />
+		</definition>
+	</char>
+	<char hz="颈" py="jǐng" multi="gěng" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="脖子，头和躯干相连接的部分。" />
+		</definition>
+	</char>
+</pinyin>

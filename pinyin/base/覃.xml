@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="覃" py="qín" multi="tán">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="覃" py="tán" multi="qín" main="1">
+		<phrase hz="覃恩" py="tán,ēn" info="广施恩泽。 旧时多用以称帝王对臣民的封赏、赦免等。" />
+		<phrase hz="覃思" py="tán,sī" info="深思。" />
+		<definition id="一">
+			<item id="1" text="深：~思." />
+			<item id="2" text="延伸：葛之~兮." />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

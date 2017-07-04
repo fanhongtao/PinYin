@@ -1,80 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="关" py="guān" />
-	<char hz="观" py="guān" multi="guàn" main="1">
-		<phrase hz="悲观" py="bēi,guān" />
-		<phrase hz="参观" py="cān,guān" />
-		<phrase hz="达观" py="dá,guān" info="心胸开朗，见解通达" />
-		<phrase hz="改观" py="gǎi,guān" />
-		<phrase hz="观测" py="guān,cè" />
-		<phrase hz="观察" py="guān,chá" />
-		<phrase hz="观点" py="guān,diǎn" />
-		<phrase hz="观光" py="guān,guāng" />
-		<phrase hz="观看" py="guān,kàn" />
-		<phrase hz="观摩" py="guān,mó" />
-		<phrase hz="观念" py="guān,niàn" />
-		<phrase hz="观赏" py="guān,shǎng" />
-		<phrase hz="观望" py="guān,wàng" />
-		<phrase hz="观瞻" py="guān,zhān" />
-		<phrase hz="观照" py="guān,zhào" />
-		<phrase hz="观众" py="guān,zhòng" />
-		<phrase hz="宏观" py="hóng,guān" />
-		<phrase hz="价值观" py="jià,zhí,guān" />
-		<phrase hz="景观" py="jǐng,guān" info="指某地区或某种类型的自然景色，也指人工创造的景色" />
-		<phrase hz="旧观" py="jiù,guān" info="旧时的样子" />
-		<phrase hz="客观" py="kè,guān" />
-		<phrase hz="乐观" py="lè,guān" />
-		<phrase hz="美观" py="měi,guān" />
-		<phrase hz="旁观" py="páng,guān" />
-		<phrase hz="奇观" py="qí,guān" />
-		<phrase hz="人生观" py="rén,shēng,guān" />
-		<phrase hz="三观" py="sān,guān" info="三观一般而言是指世界观、价值观、人生观，这是被大多数人所认知的三观，即老三观，它们辩证统一，相互作用，崇高的真善美为三观的追求目标。新三观是由2009年中央纪委十七届三次全会上，胡锦涛同志提出的。即事业观、工作观、政绩观，佛教中的三观为即是一心三观，为空观、假观、中观。" />
-		<phrase hz="世界观" py="shì,jiè,guān" />
-		<phrase hz="外观" py="wài,guān" />
-		<phrase hz="微观" py="wēi,guān" />
-		<phrase hz="围观" py="wéi,guān" />
-		<phrase hz="雅观" py="yǎ,guān" />
-		<phrase hz="主观" py="zhǔ,guān" />
-		<phrase hz="壮观" py="zhuàng,guān" />
-		<definition id="一">
-			<item id="1" text="看（(连)-看）：坐井~天. ~摩. 走马~花. [观察]仔细考察：细心~~一切客观现象. [观光]参观别国或别处的文物、建设等。" />
-			<item id="2" text="看到的景象（(连)-瞻）：奇~. 壮~. " />
-			<item id="3" text="对事物的认识，看法：乐~. 人生~. 宇宙~. [观点]从某一角度或立场出发形成对事物的看法。 [观念]1.思想，理性认识。2.客观事物在意识中构成的形象。" />
-		</definition>
-	</char>
-	<char hz="纶" py="guān" multi="lún">
-		<phrase hz="纶巾" py="guān,jīn" />
-		<definition id="二">
-			<item text="青丝带。 [纶巾]古代配有青丝带的头巾。传说三国时诸葛亮平常戴这种头巾。" />
-		</definition>
-	</char>
+	<!-- Ref:观.xml <char hz="观" py="guān" multi="guàn" main="1" /> -->
+	<!-- Ref:纶.xml <char hz="纶" py="guān" multi="lún" /> -->
 	<char hz="官" py="guān" />
 	<char hz="倌" py="guān" />
 	<char hz="棺" py="guān" />
-	<char hz="冠" py="guān" multi="guàn">
-		<phrase hz="凤冠" py="fèng,guān" info="古代皇帝后妃的帽子，其上饰有凤凰样珠宝。亦指妇女出嫁时的礼帽。" />
-		<phrase hz="冠盖" py="guān,gài" info="1.泛指官员的冠服和车乘。2.指仕宦，贵官。3.特指使者。4.犹冠族。官宦之家。5.像帽子样盖着。" />
-		<phrase hz="冠冕" py="guān,miǎn" />
-		<phrase hz="冠子" py="guān,zi" />
-		<phrase hz="桂冠" py="guì,guān" />
-		<phrase hz="花冠" py="huā,guān" />
-		<phrase hz="皇冠" py="huáng,guān" />
-		<phrase hz="鸡冠" py="jī,guān" />
-		<phrase hz="免冠" py="miǎn,guān" info="1.脱去帽子，古时表示谢罪，后来表示敬意。2.不戴帽子" />
-		<phrase hz="树冠" py="shù,guān" info="乔木树干的上部及其枝叶" />
-		<phrase hz="衣冠" py="yī,guān" />
-		<phrase hz="羽冠" py="yǔ,guān" info="鸟类头上长的羽毛" />
-		<definition id="一">
-			<item id="1" text="帽子：衣~整齐." />
-			<item id="2" text="（-子）鸟类头上的肉瘤或高出的羽毛：鸡~子." />
-		</definition>
-	</char>
-	<char hz="矜" py="guān" multi="jīn,qín">
-		<definition id="二" text="〈古〉">
-			<item id="1" text="同“鳏”。" />
-			<item id="2" text="同“瘝”。" />
-		</definition>
-	</char>
+	<!-- Ref:冠.xml <char hz="冠" py="guān" multi="guàn" /> -->
+	<!-- Ref:矜.xml <char hz="矜" py="guān" multi="jīn,qín" /> -->
 	<char hz="瘝" py="guān">
 		<definition>
 			<item text="病，痛苦。" />
@@ -85,37 +18,16 @@
 			<item text="鳏夫，无妻或丧妻的男人：~寡孤独." />
 		</definition>
 	</char>
-	<char hz="莞" py="guǎn" multi="wǎn">
-		<phrase hz="东莞" py="dōng,guǎn" />
-		<definition id="一">
-			<item text="[东莞]地名，在广东省。" />
-		</definition>
-	</char>
+	<!-- Ref:莞.xml <char hz="莞" py="guǎn" multi="wǎn" /> -->
 	<char hz="馆" py="guǎn" />
 	<char hz="琯" py="guǎn" />
 	<char hz="管" py="guǎn" />
 	<char hz="鳤" py="guǎn" />
-	<char hz="观" py="guàn" multi="guān">
-		<phrase hz="白云观" py="bái,yún,guàn" />
-		<phrase hz="五庄观" py="wǔ,zhuāng,guàn" />
-		<definition id="二">
-			<item text="道教的庙宇。" />
-		</definition>
-	</char>
+	<!-- Ref:观.xml <char hz="观" py="guàn" multi="guān" /> -->
 	<char hz="贯" py="guàn" />
 	<char hz="掼" py="guàn" />
 	<char hz="惯" py="guàn" />
-	<char hz="冠" py="guàn" multi="guān" main="1">
-		<phrase hz="夺冠" py="duó,guàn" />
-		<phrase hz="冠军" py="guàn,jūn" />
-		<phrase hz="冠序" py="guàn,xù" info="在书前加序言。" />
-		<phrase hz="弱冠" py="ruò,guàn" info="古代男子二十岁行冠礼,表示已经成人,但体还未壮,所以称做弱冠,后泛指男子二十左右的年纪。" />
-		<definition id="二">
-			<item id="1" text="把帽子戴在头上。" />
-			<item id="2" text="超出众人，居第一位：勇~三军. [冠军](转)比赛的第一名。" />
-			<item id="3" text="在前面加上某种名号：~以诗人的桂冠(guān)." />
-		</definition>
-	</char>
+	<!-- Ref:冠.xml <char hz="冠" py="guàn" multi="guān" main="1" /> -->
 	<char hz="涫" py="guàn" />
 	<char hz="祼" py="guàn" />
 	<char hz="盥" py="guàn" />

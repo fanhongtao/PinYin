@@ -4,80 +4,8 @@
 	<char hz="叁" py="sān" />
 	<char hz="毵" py="sān" />
 	<char hz="伞" py="sǎn" />
-	<char hz="散" py="sǎn" multi="sàn">
-		<phrase hz="健胃散" py="jiàn,wèi,sǎn" />
-		<phrase hz="懒散" py="lǎn,sǎn" info="懒惰散漫" />
-		<phrase hz="零零散散" py="líng,líng,sǎn,sǎn" />
-		<phrase hz="零散" py="líng,sǎn" info="零落离散" />
-		<phrase hz="散光" py="sǎn,guāng" info="一种视力缺陷，看到的东西的影像分成许多部分而模糊不清" />
-		<phrase hz="散户" py="sǎn,hù" info="零星小户头。" />
-		<phrase hz="散剂" py="sǎn,jì" info="松散而干燥的颗粒状或粉末状药物" />
-		<phrase hz="散架" py="sǎn,jià" info="1.常用于形容极端疲劳 2.架子散开，比喻组织、结构解体" />
-		<phrase hz="散居" py="sǎn,jū" info="分散居住" />
-		<phrase hz="散乱" py="sǎn,luàn" info="不整齐;没条理;纷乱" />
-		<phrase hz="散漫" py="sǎn,màn" />
-		<phrase hz="散人" py="sǎn,rén" info="1.平庸无用的人。 2.不为世用的人；闲散自在的人。" />
-		<phrase hz="散射" py="sǎn,shè" info="由于粒子、光子或光波与其所穿过的媒介物的粒子互撞而射向不同方向" />
-		<phrase hz="散碎" py="sǎn,suì" info="散乱而碎成小块的" />
-		<phrase hz="散文" py="sǎn,wén" />
-		<phrase hz="散仙" py="sǎn,xiān" info="1.道教语。仙人未授仙职者之称。 2.比喻放旷不羁、自由闲散的人。" />
-		<phrase hz="散装" py="sǎn,zhuāng" />
-		<phrase hz="松散" py="sōng,sǎn" info="1.结构或排列不紧密 2.松懈精神不集中 3.使轻松舒畅" />
-		<phrase hz="丸散膏丹" py="wán,sǎn,gāo,dān" />
-		<phrase hz="闲散" py="xián,sǎn" info="1.清闲而又无管束 2.闲着不使用的" />
-		<definition id="二">
-			<item id="1" text="没有约束，松开：披~着头发. 绳子~了. (引)分散(sàn)：~居. 把队伍~开. [散漫]随随便便，不守纪律：自由~~. 生活~~. [散文]文体的名称，对“韵文”而言，不用韵，字句不要求整齐。现多指杂文、随笔、特定等文学作品。" />
-			<item id="2" text="零碎的：~装. 零零~~." />
-			<item id="3" text="药末（多用于中药名）：丸~膏丹. 健胃~." />
-		</definition>
-	</char>
+	<!-- Ref:散.xml <char hz="散" py="sǎn" multi="sàn" /> -->
 	<char hz="馓" py="sǎn" />
-	<char hz="糁" py="sǎn" multi="shēn">
-		<definition id="二">
-			<item text="〈方〉米粒（指煮熟的）。" />
-		</definition>
-	</char>
-	<char hz="散" py="sàn" multi="sǎn" main="1">
-		<phrase hz="不欢而散" py="bù,huān,ér,sàn" />
-		<phrase hz="拆散" py="chāi,sàn" info="1.使成套的东西分散 2.使家庭、集体的成员分散" />
-		<phrase hz="飞散" py="fēi,sàn" info="飘飞四散。" />
-		<phrase hz="分散" py="fēn,sàn" info="分在各处;不集中。" />
-		<phrase hz="耗散" py="hào,sàn" info="减少，散失" />
-		<phrase hz="涣散" py="huàn,sàn" info="[精神、组织、纪律等] 散漫;松懈" />
-		<phrase hz="家散人亡" py="jiā,sàn,rén,wáng" info="家庭破产，家人死散。同“家破人亡”。" />
-		<phrase hz="解散" py="jiě,sàn" info="1.取消团体等 2.集合的人分散开 3.分散;离散" />
-		<phrase hz="聚散" py="jù,sàn" info="会聚与分散" />
-		<phrase hz="扩散" py="kuò,sàn" info="1.向外扩展分散 2.到新的部位再生长" />
-		<phrase hz="离散" py="lí,sàn" info="1.分离；分散。2.涣散。" />
-		<phrase hz="流散" py="liú,sàn" info="流转失散" />
-		<phrase hz="弥散" py="mí,sàn" info="弥漫消散" />
-		<phrase hz="飘散" py="piāo,sàn" info="向四处漂动;飞散" />
-		<phrase hz="遣散" py="qiǎn,sàn" info="1.严厉地遣走 2.使某一团体解散;尤指解散一军事组织" />
-		<phrase hz="驱散" py="qū,sàn" info="赶跑;驱逐" />
-		<phrase hz="散步" py="sàn,bù" />
-		<phrase hz="散财" py="sàn,cái" info="分发财物。" />
-		<phrase hz="散场" py="sàn,chǎng" info="演出、比赛等结束后，观众离开" />
-		<phrase hz="散朝" py="sàn,cháo" info="指朝见结束。" />
-		<phrase hz="散花" py="sàn,huā" info="1.使花朵飘散。2.谓为供佛而散撒花朵。3.指散花天女。 " />
-		<phrase hz="散会" py="sàn,huì" info="一次会议结束，参加的人离开会场" />
-		<phrase hz="散伙" py="sàn,huǒ" info="指原来结合在一起的人解体分散" />
-		<phrase hz="散闷" py="sàn,mèn" info="排遣烦闷;散心" />
-		<phrase hz="散开" py="sàn,kāi" />
-		<phrase hz="散心" py="sàn,xīn" info="排除烦闷，使心情舒畅" />
-		<phrase hz="散散心" py="sàn,sàn,xīn" />
-		<phrase hz="散学" py="sàn,xué" info="〈方〉放学" />
-		<phrase hz="失散" py="shī,sàn" />
-		<phrase hz="疏散" py="shū,sàn" />
-		<phrase hz="四散" py="sì,sàn" info="向四周分散" />
-		<phrase hz="逃散" py="táo,sàn" info="奔逃流散" />
-		<phrase hz="雾散" py="wù,sàn" info="1.喻消失净尽。 2.喻盛多、广泛。" />
-		<phrase hz="星散" py="xīng,sàn" info="分散；四散。" />
-		<phrase hz="烟消云散" py="yān,xiāo,yún,sàn" />
-		<definition id="一">
-			<item id="1" text="分开，由聚焦而分离：~会. 云彩~了." />
-			<item id="2" text="分布，分给：~传单. 撒种(zhǒng)~粪." />
-			<item id="3" text="排遣：~心. ~闷." />
-			<item id="4" text="〈方〉解雇：过去资本家随便~工人." />
-		</definition>
-	</char>
+	<!-- Ref:糁.xml <char hz="糁" py="sǎn" multi="shēn" /> -->
+	<!-- Ref:散.xml <char hz="散" py="sàn" multi="sǎn" main="1" /> -->
 </pinyin>

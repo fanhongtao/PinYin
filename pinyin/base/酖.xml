@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="酖" py="dān" multi="zhèn" main="1">
+		<definition id="一">
+			<item text="同“耽(2)”" />
+		</definition>
+	</char>
+	<char hz="酖" py="zhèn" multi="dān">
+		<definition id="二">
+			<item text="“鸩(2)(3)”的异体字。" />
+		</definition>
+	</char>
+</pinyin>

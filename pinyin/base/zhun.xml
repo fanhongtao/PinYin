@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="屯" py="zhūn" multi="tún">
-		<phrase hz="屯邅" py="zhūn,zhān" />
-		<definition id="二">
-			<item text="困难。 [屯邅](-zhān)同“迍邅”。" />
-		</definition>
-	</char>
+	<!-- Ref:屯.xml <char hz="屯" py="zhūn" multi="tún" /> -->
 	<char hz="迍" py="zhūn">
 		<phrase hz="迍邅" py="zhūn,zhān" />
 		<definition>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="石" py="dàn" multi="shí">
+		<definition id="二">
+			<item text="市制容量单位，1石是10斗，合100升。（此义在古书中读shí，如“二千石”）" />
+		</definition>
+	</char>
+	<char hz="石" py="shí" multi="dàn" main="1" suppressLog="1">
+		<phrase hz="石头" py="shí,tou" />
+		<definition id="一">
+			<item id="1" text="（-头）(tou)构成地壳的坚硬物质，是由矿物集合而成的。" />
+			<item id="2" text="用石制成的：~砚. ~磨." />
+			<item id="3" text="指石刻：金~." />
+			<item id="4" text="古代容量单位，一石合十斗。" />
+			<item id="5" text="古代重量单位，一石合一百二十斤。" />
+			<item id="6" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

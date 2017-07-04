@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柁" py="duò" multi="tuó" main="1">
+		<phrase hz="柁工" py="duò,gōng" info="船上掌舵的人。" />
+		<phrase hz="趁风使柁" py="chèn,fēng,shǐ,duò" info="犹看风使舵。比喻随机应变或迎合别人行事。" />
+		<definition id="二">
+			<item text="同“舵”。" />
+		</definition>
+	</char>
+	<char hz="柁" py="tuó" multi="duò">
+		<phrase hz="房柁" py="fáng,tuó" />
+		<definition id="一">
+			<item text="房柁，房架前后两个柱子之间的大横梁。" />
+		</definition>
+	</char>
+</pinyin>

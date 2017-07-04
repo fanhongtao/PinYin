@@ -1,8 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="这" py="zhèi" multi="zhè">
-		<definition id="二">
-			<item text="“这(zhè)一”的合音，但指数量时不限于一：~个. ~些. ~年. ~三年." />
-		</definition>
-	</char>
+	<!-- Ref:这.xml <char hz="这" py="zhèi" multi="zhè" /> -->
 </pinyin>

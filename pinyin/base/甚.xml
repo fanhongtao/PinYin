@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="甚" py="shén" multi="shèn">
+		<phrase hz="甚么" py="shén,me" />
+		<definition id="二">
+			<item text="同“什”(shén)。" />
+		</definition>
+	</char>
+	<char hz="甚" py="shèn" multi="shén" main="1" suppressLog="1">
+		<phrase hz="甚至" py="shèn,zhì" info="表示所提出的是突出的、进一步的事例" />
+		<definition id="一">
+			<item id="1" text="很，极：进步~快. 他说得未免过~. [甚至][甚至于]连词，表示更进一层：不学习就会落后，~~会犯错误. 这件事扰乱了他的生活，~~~影响了他的工作." />
+			<item id="2" text="超过，胜过：更有~者. 日~一日." />
+			<item id="3" text="〈方〉代词，什么：要它做~？ 姓~名谁？" />
+		</definition>
+	</char>
+</pinyin>
