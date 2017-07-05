@@ -14,71 +14,15 @@
 	<char hz="玦" py="jué" />
 	<char hz="miss: 鸟夬" py="jué" info="special" />
 	<char hz="觖" py="jué" />
-	<char hz="角" py="jué" multi="jiǎo">
-		<phrase hz="角斗" py="jué,dòu" info="搏斗比赛;格斗" />
-		<phrase hz="角力" py="jué,lì" info="徒手相搏，较量武力" />
-		<phrase hz="角色" py="jué,sè" info="1.如小说或戏剧中的人物。2.某一类型的人物。3.演员扮演的剧中人物。" />
-		<phrase hz="角逐" py="jué,zhú" info="较量;争逐" />
-		<phrase hz="坤角" py="kūn,jué" info="旧时称戏曲女演员。也叫坤伶。" />
-		<phrase hz="口角" py="kǒu,jué" />
-		<phrase hz="名角" py="míng,jué" info="著名的演员。" />
-		<phrase hz="配角" py="pèi,jué" info="1.演次要角色的人，也比喻做辅助工作的人。2.相互配合演出一出戏，都扮主要角色。" />
-		<phrase hz="主角" py="zhǔ,jué" info="1.影、剧的领衔主演者或处于中心地位的人物角色。2.主要当事人。亦作主脚。" />
-		<definition id="二">
-			<item id="1" text="竞争，争胜：~斗. ~逐. 口~（吵嘴）." />
-			<item id="2" text="（-儿）演员，角色：主~. 他演什么~儿？ [角色]（*脚色）1.戏曲演员按所分演人物的性别和性格等分的类型。如京剧的“生、旦、净、丑”。也叫“行当”。 2.戏剧或电影里演员所扮演的剧中人物。" />
-			<item id="3" text="古代五音“宫、商、角、徵(zhǐ)、羽”之一。" />
-			<item id="4" text="古代形状像爵的酒器。" />
-			<item id="5" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:角.xml <char hz="角" py="jué" multi="jiǎo" /> -->
 	<char hz="桷" py="jué" />
 	<char hz="珏" py="jué" />
-	<char hz="觉" py="jué" multi="jiào" main="1">
-		<phrase hz="察觉" py="chá,jué" />
-		<phrase hz="触觉" py="chù,jué" />
-		<phrase hz="错觉" py="cuò,jué" />
-		<phrase hz="独觉" py="dú,jué" info="1.独自睡醒。2.佛教语。又称缘觉。谓无佛之世，修行功成，自己觉悟缘起之理者。3.指道教所称自悟玄理。" />
-		<phrase hz="发觉" py="fā,jué" />
-		<phrase hz="感觉" py="gǎn,jué" />
-		<phrase hz="后觉" py="hòu,jué" info="觉悟较晚者。" />
-		<phrase hz="幻觉" py="huàn,jué" />
-		<phrase hz="警觉" py="jǐng,jué" />
-		<phrase hz="觉察" py="jué,chá" />
-		<phrase hz="觉得" py="jué,de" />
-		<phrase hz="觉悟" py="jué,wù" />
-		<phrase hz="觉醒" py="jué,xǐng" />
-		<phrase hz="视觉" py="shì,jué" />
-		<phrase hz="听觉" py="tīng,jué" />
-		<phrase hz="味觉" py="wèi,jué" />
-		<phrase hz="先觉" py="xiān,jué" info="事先认识觉察的人;觉悟早于常人的人" />
-		<phrase hz="醒觉" py="xǐng,jué" />
-		<phrase hz="嗅觉" py="xiù,jué" />
-		<phrase hz="缘觉" py="yuán,jué" info="佛教语。梵语Pratyeka－buddha。旧译为辟支佛，意译为缘觉，也作独觉。一般谓出于佛世，观十二因缘而得悟者为缘觉；出于无佛世，观外缘而无师自悟者为独觉。" />
-		<phrase hz="知觉" py="zhī,jué" />
-		<phrase hz="自觉" py="zì,jué" />
-		<definition id="一">
-			<item id="1" text="（人或动物的器官）对刺激的感受和辨别：视~. 听~. 他~得这本书很好. 不知不~." />
-			<item id="2" text="睡醒、醒悟：如梦初~. ~醒. ~悟." />
-		</definition>
-	</char>
+	<!-- Ref:觉.xml <char hz="觉" py="jué" multi="jiào" main="1" /> -->
 	<char hz="绝" py="jué" />
-	<char hz="倔" py="jué" multi="juè">
-		<phrase hz="倔强" py="jué,jiàng" info="（性情）刚强不屈。也作“倔犟”。" />
-		<phrase hz="倔犟" py="jué,jiàng" info="见“倔强”。" />
-		<definition id="一">
-			<item text="义同“倔(二)”，只用于“倔强”。 [倔强](-jiàng)（性情）刚强不屈，固执：性格~~。" />
-		</definition>
-	</char>
+	<!-- Ref:倔.xml <char hz="倔" py="jué" multi="juè" /> -->
 	<char hz="掘" py="jué" />
 	<char hz="崛" py="jué" />
-	<char hz="脚" py="jué" multi="jiǎo">
-		<phrase hz="脚色" py="jué,sè" />
-		<phrase hz="主脚" py="zhǔ,jué" />
-		<definition id="二">
-			<item text="（-儿）同“角(二)(2)”。" />
-		</definition>
-	</char>
+	<!-- Ref:脚.xml <char hz="脚" py="jué" multi="jiǎo" /> -->
 	<char hz="厥" py="jué" />
 	<char hz="劂" py="jué" />
 	<char hz="蕨" py="jué" />
@@ -86,48 +30,19 @@
 	<char hz="㵐" py="jué" />
 	<char hz="橛" py="jué" />
 	<char hz="镢" py="jué" />
-	<char hz="蹶" py="jué" multi="juě" main="1">
-		<phrase hz="竭蹶" py="jié,jué" info="1.亦作“竭蹷”。颠仆倾跌，行步匆遽貌。2.尽力。3.枯竭；匮乏。" />
-		<phrase hz="一蹶不振" py="yì,jué,bù,zhèn" info="蹶：栽跟头；振：振作。一跌倒就再也爬不起来。比喻遭受一次挫折以后就再也振作不起来。" />
-		<definition id="一">
-			<item text="跌倒。 (喻)挫折，失败：一~不振." />
-		</definition>
-	</char>
+	<!-- Ref:蹶.xml <char hz="蹶" py="jué" multi="juě" main="1" /> -->
 	<char hz="傕" py="jué" />
 	<char hz="谲" py="jué" />
 	<char hz="鐍" py="jué" trans="1" />
-	<char hz="噱" py="jué" multi="xué" main="1">
-		<phrase hz="笑噱" py="xiào,jué" info="大笑" />
-		<definition id="一">
-			<item text="大笑。" />
-		</definition>
-	</char>
+	<!-- Ref:噱.xml <char hz="噱" py="jué" multi="xué" main="1" /> -->
 	<char hz="爵" py="jué" />
-	<char hz="嚼" py="jué" multi="jiáo,jiào">
-		<phrase hz="咀嚼" py="jǔ,jué" />
-		<definition id="二">
-			<item text="义同“嚼(一)”，用于书面语复合词：咀(jǔ)~." />
-		</definition>
-	</char>
+	<!-- Ref:嚼.xml <char hz="嚼" py="jué" multi="jiáo,jiào" /> -->
 	<char hz="爝" py="jué" info="(又)jiào" />
 	<char hz="矍" py="jué">
 		<phrase hz="矍铄" py="jué,shuò" />
 	</char>
 	<char hz="攫" py="jué" />
 	<char hz="" py="jué" />
-	<char hz="蹶" py="juě" multi="jué" info="Word主音">
-		<phrase hz="尥蹶子" py="liào,juě,zi" />
-		<definition id="二">
-			<item text="[尥蹶子](liào-zi)骡马等跳起来用后腿向后踢。" />
-		</definition>
-	</char>
-	<char hz="倔" py="juè" multi="jué" main="1">
-		<phrase hz="佶倔" py="jí,juè" info="佶屈。" />
-		<phrase hz="倔巴" py="juè,ba" info="〈方〉∶性格直爽执拗,言语行动粗鲁生硬。" />
-		<phrase hz="倔起" py="juè,qǐ" info="1.高高拱起。2.突然兴起。" />
-		<phrase hz="倔然" py="juè,rán" info="生硬鲁莽的样子。" />
-		<definition id="二">
-			<item text="言语直，态度生硬：那老头子真~." />
-		</definition>
-	</char>
+	<!-- Ref:蹶.xml <char hz="蹶" py="juě" multi="jué" info="Word主音" /> -->
+	<!-- Ref:倔.xml <char hz="倔" py="juè" multi="jué" main="1" /> -->
 </pinyin>

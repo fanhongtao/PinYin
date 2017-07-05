@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咯" py="gē" multi="kǎ,lo">
+		<phrase hz="咯噔" py="gē,dēng" />
+		<phrase hz="咯咯" py="gē,gē" />
+		<phrase hz="咯吱" py="gē,zhī" />
+		<definition id="三">
+			<item text="[咯噔](-dēng)拟声词：~~~~的皮鞋声. [咯咯]拟声词：传来一阵~~的笑声. 牙齿咬得~~响. [咯吱](-zhī)拟声词：~~~~地直响." />
+		</definition>
+	</char>
+	<char hz="咯" py="kǎ" multi="gē,lo" main="1">
+		<phrase hz="咯出来" py="kǎ,chū,lái" />
+		<phrase hz="咯血" py="kǎ,xiě" />
+		<phrase hz="咯痰" py="kǎ,tán" />
+		<definition id="一">
+			<item text="用力使东西从食道或气管里出来：把鱼剌~出来. ~血. ~痰." />
+		</definition>
+	</char>
+	<char hz="咯" py="lo" multi="gē,kǎ">
+		<definition id="二">
+			<item text="助词：那倒好~！" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="缴" py="jiǎo" multi="zhuó" main="1">
+		<phrase hz="缴付" py="jiǎo,fù" />
+		<phrase hz="缴获" py="jiǎo,huò" />
+		<phrase hz="缴纳" py="jiǎo,nà" />
+		<phrase hz="缴送" py="jiǎo,sòng" />
+		<phrase hz="缴销" py="jiǎo,xiāo" info="把东西收回然后注销" />
+		<phrase hz="缴械" py="jiǎo,xiè" />
+		<phrase hz="盘缴" py="pán,jiǎo" info="花费。" />
+		<phrase hz="上缴" py="shàng,jiǎo" />
+		<phrase hz="收缴" py="shōu,jiǎo" />
+		<phrase hz="追缴" py="zhuī,jiǎo" />
+		<definition id="一">
+			<item id="1" text="交纳，交出（多指履行义务或被迫）：~公粮. ~纳税款." />
+			<item id="2" text="迫使交出：~了敌人的械." />
+		</definition>
+	</char>
+	<char hz="缴" py="zhuó" multi="jiǎo">
+		<definition id="二">
+			<item text="系在箭上的绳。" />
+		</definition>
+	</char>
+</pinyin>

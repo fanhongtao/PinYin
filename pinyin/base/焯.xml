@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="焯" py="chāo" multi="zhuō" info="Word主音">
+		<phrase hz="焯菠菜" py="chāo,bō,cài" />
+		<definition id="二">
+			<item text="把蔬菜放在开水里略微一煮就拿出来：~菠菜." />
+		</definition>
+	</char>
+	<char hz="焯" py="zhuō" multi="chāo" main="1">
+		<phrase hz="焯见" py="zhuō,jiàn" info="同“灼见”" />
+		<definition id="一">
+			<item text="显明，明白。" />
+		</definition>
+	</char>
+</pinyin>

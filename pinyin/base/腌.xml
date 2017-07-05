@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="腌" py="ā" multi="yān">
+		<phrase hz="腌臜" py="ā,za" />
+		<definition id="二">
+			<item text="[腌臜]〈方〉不干净" />
+		</definition>
+	</char>
+	<char hz="腌" py="yān" multi="ā" main="1">
+		<phrase hz="腌菜" py="yān,cài" />
+		<phrase hz="腌肉" py="yān,ròu" />
+		<phrase hz="腌咸菜" py="yān,xián,cài" />
+		<phrase hz="腌制" py="yān,zhì" />
+		<phrase hz="腌渍" py="yān,zì" />
+		<definition id="一">
+			<item text="用盐等浸渍食品：~肉. ~咸菜." />
+		</definition>
+	</char>
+</pinyin>

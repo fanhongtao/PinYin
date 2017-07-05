@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="貉" py="háo" multi="hé">
+		<phrase hz="貉绒" py="háo,róng" />
+		<phrase hz="貉子" py="háo,zi" />
+		<definition id="二">
+			<item text="同“貉(一)”，用于“貉子、貉绒”。" />
+		</definition>
+	</char>
+	<char hz="貉" py="hé" multi="háo" main="1">
+		<phrase hz="一丘之貉" py="yì,qiū,zhī,hé" />
+		<definition id="一">
+			<item text="野兽名。毛棕灰色，耳小，嘴尖，昼伏夜出，捕食虫类，皮很珍贵。" />
+			<item text="[一丘之貉](喻)彼此相似，没什么差别，指坏人。" />
+			<item text="〈古〉又同“貊”(mò)。" />
+		</definition>
+	</char>
+</pinyin>

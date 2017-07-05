@@ -24,11 +24,7 @@
 		<phrase hz="嵖岈山" py="chá,yá,shān" />
 	</char>
 	<char hz="猹" py="chá" />
-	<char hz="楂" py="chá" multi="zhā" main="1">
-		<definition id="二">
-			<item text="同“茬”。" />
-		</definition>
-	</char>
+	<!-- Ref:楂.xml <char hz="楂" py="chá" multi="zhā" main="1" /> -->
 	<char hz="碴" py="chá" />
 	<char hz="槎" py="chá" />
 	<char hz="察" py="chá" />

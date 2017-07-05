@@ -8,24 +8,7 @@
 		<phrase hz="忸怩" py="niǔ,ní" />
 	</char>
 	<char hz="纽" py="niǔ" />
-	<char hz="杻" py="niǔ" multi="chǒu">
-		<definition id="二">
-			<item text="古书上说的一种树。" />
-		</definition>
-	</char>
+	<!-- Ref:杻.xml <char hz="杻" py="niǔ" multi="chǒu" /> -->
 	<char hz="钮" py="niǔ" />
-	<char hz="拗" py="niù" multi="ǎo,ào">
-		<phrase hz="别拗" py="biè,niù" />
-		<phrase hz="拗别" py="niù,bié" />
-		<phrase hz="拗不过" py="niù,bú,guò" />
-		<phrase hz="拗劲" py="niù,jìn" />
-		<phrase hz="拗抗" py="niù,kàng" />
-		<phrase hz="拗性" py="niù,xìng" />
-		<phrase hz="拗执" py="niù,zhí" />
-		<phrase hz="执拗" py="zhí,niù" />
-		<phrase hz="直拗" py="zhí,niù" />
-		<definition id="三">
-			<item text="固执，不驯顺：执~. 脾气很~." />
-		</definition>
-	</char>
+	<!-- Ref:拗.xml <char hz="拗" py="niù" multi="ǎo,ào" /> -->
 </pinyin>

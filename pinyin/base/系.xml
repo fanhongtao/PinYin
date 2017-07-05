@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="系" py="jì" multi="xì">
+		<definition id="二">
+			<item text="结，扣：把鞋带~上." />
+		</definition>
+	</char>
+	<char hz="系" py="xì" multi="jì" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="有连属关系的：~统. 一~列的事实. 水~. 世~." />
+			<item id="2" text="高等学校中按学科分的教学单位：中文~. 化学~." />
+			<item id="3" text="关联：干~." />
+			<item id="4" text="联结，拴：~马. (引)牵挂：~念. [联系]联络，接头：时常和他~~." />
+			<item id="5" text="是：确~实情." />
+			<item id="6" text="把人或东西捆住往上提或向下送：从房上把东西~下来." />
+			<item id="7" text="地层系统分类的第三级，在“界”之下，是地质年代“纪”的时间内形成的地层：第四~. 侏罗~. 寒武~." />
+		</definition>
+	</char>
+</pinyin>

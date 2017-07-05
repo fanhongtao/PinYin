@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="峤" py="jiào" multi="qiáo">
+		<definition id="一">
+			<item text="山道。" />
+		</definition>
+	</char>
+	<char hz="峤" py="qiáo" multi="jiào" main="1">
+		<phrase hz="峤岳" py="qiáo,yuè" info="同“乔岳”。高大的山。特指 泰山 。" />
+		<definition id="二">
+			<item text="山尖而高。" />
+		</definition>
+	</char>
+</pinyin>

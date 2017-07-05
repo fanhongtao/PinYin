@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="叶" py="xié" multi="yè">
+		<phrase hz="叶韵" py="xié,yùn" />
+		<definition id="二">
+			<item text="和洽，合：~韵." />
+		</definition>
+	</char>
+	<char hz="叶" py="yè" multi="xié" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="（-子、-儿）植物的营养器官之一，多呈片状、绿色，长在茎上：树~. 菜~." />
+			<item id="2" text="像叶子的：铜~. 铁~." />
+			<item id="3" text="同“页”。" />
+			<item id="4" text="较长时期的分段：20世纪中~." />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

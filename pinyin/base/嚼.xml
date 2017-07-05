@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嚼" py="jiáo" multi="jiào,jué" main="1">
+		<phrase hz="嚼舌" py="jiáo,shé" info="1.瞎说;没有事实根据地议论。2.作无谓的争辩。也说嚼舌根、嚼舌头。" />
+		<phrase hz="嚼牙" py="jiáo,yá" info="犹嚼舌。搬弄是非；胡扯。" />
+		<phrase hz="嚼用" py="jiáo,yòng" info="〈方〉缴裹儿;日常生活的开支，花费" />
+		<phrase hz="嚼子" py="jiáo,zǐ" info="横勒在牲口嘴里的小铁链，两端连在缰绳上，以便驾驭" />
+		<phrase hz="味同嚼蜡" py="wèi,tóng,jiáo,là" />
+		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
+		<phrase hz="咬文嚼字" py="yǎo,wén,jiáo,zì" />
+		<definition id="一">
+			<item text="用牙齿磨碎食物。 [嚼舌]信口胡说，搬弄是非。" />
+		</definition>
+	</char>
+	<char hz="嚼" py="jiào" multi="jiáo,jué">
+		<phrase hz="倒嚼" py="dǎo,jiào" />
+		<definition id="三">
+			<item text="[倒嚼](dǎo-)反刍。" />
+		</definition>
+	</char>
+	<char hz="嚼" py="jué" multi="jiáo,jiào">
+		<phrase hz="咀嚼" py="jǔ,jué" />
+		<definition id="二">
+			<item text="义同“嚼(一)”，用于书面语复合词：咀(jǔ)~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蛸" py="shāo" multi="xiāo">
+		<phrase hz="蟏蛸" py="xiāo,shāo" />
+		<definition id="二">
+			<item text="见“蟏”字条“蟏蛸”(xiāo-)。" />
+		</definition>
+	</char>
+	<char hz="蛸" py="xiāo" multi="shāo" main="1">
+		<phrase hz="螵蛸" py="piāo,xiāo" />
+		<definition id="一">
+			<item text="[螵蛸](piāo-)螳螂的卵块。" />
+		</definition>
+	</char>
+</pinyin>

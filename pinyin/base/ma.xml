@@ -25,11 +25,7 @@
 	<char hz="祃" py="mà" />
 	<!-- Ref:蚂.xml <char hz="蚂" py="mà" multi="mǎ,mā" /> -->
 	<char hz="骂" py="mà" />
-	<char hz="么" py="ma" multi="me,yāo">
-		<definition id="二">
-			<item text="同“吗(二)”。" />
-		</definition>
-	</char>
+	<!-- Ref:么.xml <char hz="么" py="ma" multi="me,yāo" /> -->
 	<!-- Ref:吗.xml <char hz="吗" py="ma" multi="má,mǎ" main="1" /> -->
 	<char hz="嘛" py="ma" />
 	<char hz="蟆" py="ma" />

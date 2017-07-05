@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="殷" py="yān" multi="yīn">
+		<phrase hz="殷红" py="yān,hóng" />
+		<phrase hz="朱殷" py="zhū,yān" />
+		<definition id="二">
+			<item text="黑红色：~红. 朱~." />
+		</definition>
+	</char>
+	<char hz="殷" py="yīn" multi="yān" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="深厚，丰盛：情意甚~. ~切的期望. [殷实]富足，富裕：家道~~." />
+			<item id="2" text="[殷勤]周到，尽心：做事很~~. ~~招待." />
+			<item id="3" text="殷朝，商朝的后期，由盘庚起称殷（公元前1300——公元前1046年）。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

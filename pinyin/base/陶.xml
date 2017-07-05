@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="陶" py="táo" multi="yáo" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="用黏土烧制的器物. [陶土]烧制陶器的黏土。" />
+			<item id="2" text="制造陶器：~铸. ~冶（制陶器和炼金属，喻造就良好的品格、情操等）." />
+			<item id="3" text="隐然，快乐的样子：~醉." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="陶" py="yáo" multi="táo">
+		<phrase hz="皋陶" py="gāo,yáo" />
+		<definition id="二">
+			<item text="[皋陶](gāo-)传说中上古人名。" />
+		</definition>
+	</char>
+</pinyin>

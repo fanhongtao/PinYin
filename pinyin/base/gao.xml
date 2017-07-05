@@ -5,28 +5,7 @@
 		<phrase hz="桔槔" py="jié,gāo" />
 	</char>
 	<char hz="高" py="gāo" />
-	<char hz="膏" py="gāo" multi="gào" main="1">
-		<phrase hz="唇膏" py="chún,gāo" />
-		<phrase hz="福寿膏" py="fú,shòu,gāo" info="阿片的別名。" />
-		<phrase hz="膏肓" py="gāo,huāng" info="1.人體心臟與橫膈膜之間的部分。舊說以為是藥效無法達到的地方，故引申為病症已達難治的階段。2.比喻百姓的痛苦。3.位於肩背部的穴道，約在背部第四胸椎棘突起下方外側三寸處的穴道" />
-		<phrase hz="膏粱" py="gāo,liáng" info="1.肥肉和细粮。泛指肥美的食物。2.借指富贵人家子弟。" />
-		<phrase hz="膏药" py="gāo,yào" info="中药外用的一种，古称薄贴，用植物油或动物油加药熬成胶状物质，涂在布、纸或皮的一面，可以较长时间地贴在患处，主要用来治疗疮疖、消肿痛等。" />
-		<phrase hz="膏腴" py="gāo,yú" />
-		<phrase hz="民膏民脂" py="mín,gāo,mín,zhī" />
-		<phrase hz="民脂民膏" py="mín,zhī,mín,gāo" />
-		<phrase hz="软膏" py="ruǎn,gāo" />
-		<phrase hz="石膏" py="shí,gāo" />
-		<phrase hz="雪花膏" py="xuě,huā,gāo" info="一種用以滋潤肌膚的面霜。以硬脂酸、甘油、苛性鉀及香料等製成，因色白而得名。" />
-		<phrase hz="牙膏" py="yá,gāo" />
-		<phrase hz="药膏" py="yào,gāo" />
-		<phrase hz="油膏" py="yóu,gāo" info="用于皮肤的软膏,特指含脂类或油脂类物质(如凡士林、猪油、羊毛脂)为基质的半固体药物制剂" />
-		<phrase hz="脂膏" py="zhī,gāo" info="1.油脂。2.人民辛勤劳动所得的财富。" />
-		<definition id="一">
-			<item id="1" text="肥或肥肉：~粱（肥肉和细粮）. [膏腴](-yú)土地肥沃。" />
-			<item id="2" text="脂，油。" />
-			<item id="3" text="很稠的、糊状的东西：梨~. 牙~. ~药." />
-		</definition>
-	</char>
+	<!-- Ref:膏.xml <char hz="膏" py="gāo" multi="gào" main="1" /> -->
 	<char hz="篙" py="gāo" />
 	<char hz="羔" py="gāo" />
 	<char hz="糕" py="gāo" />
@@ -35,25 +14,12 @@
 	<char hz="搞" py="gǎo" />
 	<char hz="缟" py="gǎo" />
 	<char hz="槁" py="gǎo" />
-	<char hz="镐" py="gǎo" multi="hào" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="刨土的工具。" />
-		</definition>
-	</char>
+	<!-- Ref:镐.xml <char hz="镐" py="gǎo" multi="hào" main="1" suppressLog="1" /> -->
 	<char hz="稿" py="gǎo" />
 	<char hz="藁" py="gǎo" />
 	<char hz="告" py="gào" />
 	<char hz="郜" py="gào" />
 	<char hz="诰" py="gào" />
 	<char hz="锆" py="gào" />
-	<char hz="膏" py="gào" multi="gāo">
-		<phrase hz="膏油" py="gào,yóu" />
-		<phrase hz="膏车" py="gào,chē" />
-		<phrase hz="膏笔" py="gào,bǐ" />
-		<phrase hz="膏墨" py="gào,mò" />
-		<definition id="二">
-			<item id="1" text="把油加在车轴或机械上：~油. ~车." />
-			<item id="2" text="把毛笔蘸上墨汁在砚台边上掭：~笔. ~墨." />
-		</definition>
-	</char>
+	<!-- Ref:膏.xml <char hz="膏" py="gào" multi="gāo" /> -->
 </pinyin>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="饮" py="yǐn" multi="yìn" main="1" suppressLog="1">
+		<phrase hz="餐饮" py="cān,yǐn" />
+		<phrase hz="冷饮" py="lěng,yǐn" />
+		<phrase hz="饮弹" py="yǐn,dàn" info="身体中弹" />
+		<phrase hz="饮恨" py="yǐn,hèn" />
+		<definition id="一">
+			<item id="1" text="喝：~水思源." />
+			<item id="2" text="可喝的东西：冷~." />
+			<item id="3" text="含忍：~恨." />
+		</definition>
+	</char>
+	<char hz="饮" py="yìn" multi="yǐn">
+		<phrase hz="饮马" py="yìn,mǎ" />
+		<phrase hz="饮牛" py="yìn,niú" />
+		<definition id="二">
+			<item text="给牲畜水喝：~马. ~牛." />
+		</definition>
+	</char>
+</pinyin>

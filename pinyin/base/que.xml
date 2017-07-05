@@ -4,45 +4,15 @@
 		<phrase hz="炔烃" py="quē,tīng" />
 	</char>
 	<char hz="缺" py="quē" />
-	<char hz="阙" py="quē" multi="què">
-		<phrase hz="阙如" py="quē,rú" />
-		<phrase hz="阙失" py="quē,shī" />
-		<phrase hz="阙疑" py="quē,yí" />
-		<definition id="二">
-			<item id="1" text="古代用作“缺”字。 [阙如]空缺：尚付~~. [阙疑]有怀疑的事情暂时不下断语，留待查考。" />
-			<item id="2" text="过错：~失。" />
-			<item id="3" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:阙.xml <char hz="阙" py="quē" multi="què" /> -->
 	<char hz="瘸" py="qué" />
 	<char hz="却" py="què" />
 	<char hz="埆" py="què" />
 	<char hz="确" py="què" />
 	<char hz="悫" py="què" />
-	<char hz="雀" py="què" multi="qiāo,qiǎo" main="1" suppressLog="1">
-		<phrase hz="孔雀" py="kǒng,què" />
-		<phrase hz="麻雀" py="má,què" />
-		<phrase hz="雀斑" py="què,bān" info="皮肤病，患者多为女性。中医认为是由于火郁于孙络之血分，风邪外搏而成，生于面上，其色黄淡" />
-		<phrase hz="雀盲" py="què,máng" />
-		<phrase hz="雀跃" py="què,yuè" info="1.高兴地或欢闹地活动 2.如雀跳跃。比喻欣喜兴奋到极点" />
-		<phrase hz="朱雀" py="zhū,què" />
-		<definition id="一">
-			<item text="鸟的一类，身体小，翅膀长，雌雄羽毛颜色多不相同，吃粮食粒和昆虫。特指麻雀，泛指小鸟。 [雀斑]脸上密集的褐色斑点。 [雀盲]夜盲。也说“雀盲眼”(qiǎomangyǎn)。 [雀跃](喻)高兴得像麻雀那样跳跃。" />
-		</definition>
-	</char>
+	<!-- Ref:雀.xml <char hz="雀" py="què" multi="qiāo,qiǎo" main="1" suppressLog="1" /> -->
 	<char hz="阕" py="què" />
-	<char hz="阙" py="què" multi="quē" main="1">
-		<phrase hz="北阙" py="běi,què" info="1.古代宫殿北面的门楼。 是臣子等候朝见或上书奏事之处。 2.用为宫禁或朝廷的别称。" />
-		<phrase hz="城阙" py="chéng,què" info="1.城门两旁的瞭望阁楼。 2.宫殿。 3.城市,特指京城。" />
-		<phrase hz="宫阙" py="gōng,què" info="古时帝王所居住的宫殿。 因宫门外有双阙，故称宫阙" />
-		<phrase hz="京阙" py="jīng,què" info="京城、皇宮。" />
-		<phrase hz="墓阙" py="mù,què" info="古代陵墓前的石建筑，通常左右各一。" />
-		<phrase hz="天阙" py="tiān,què" info="1.天上的宮闕。 2.京城，皇帝所住的地方。 3.星名。" />
-		<definition id="一" text="〈古〉">
-			<item id="1" text="皇宫门前面两边的楼：宫~." />
-			<item id="2" text="墓道外所立的石牌坊。" />
-		</definition>
-	</char>
+	<!-- Ref:阙.xml <char hz="阙" py="què" multi="quē" main="1" /> -->
 	<char hz="搉" py="què" />
 	<char hz="榷" py="què" />
 	<char hz="鹊" py="què" />

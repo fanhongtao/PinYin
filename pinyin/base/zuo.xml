@@ -1,65 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="作" py="zuō" multi="zuò">
-		<phrase hz="洗衣作" py="xǐ,yī,zuō" />
-		<phrase hz="油漆作" py="yóu,qī,zuō" />
-		<phrase hz="作坊" py="zuō,fang" />
-		<definition id="二">
-			<item text="作坊(fang)，旧时手工业制造或加工的地方：油漆~. 洗衣~." />
-		</definition>
-	</char>
-	<char hz="嘬" py="zuō" multi="chuài" main="1" suppressLog="1">
-		<phrase hz="吮嘬" py="shǔn,zuō" info="犹吮吸。" />
-		<definition id="一">
-			<item text="聚缩嘴唇吸取：小孩~奶." />
-		</definition>
-	</char>
+	<!-- Ref:作.xml <char hz="作" py="zuō" multi="zuò" /> -->
+	<!-- Ref:嘬.xml <char hz="嘬" py="zuō" multi="chuài" main="1" suppressLog="1" /> -->
 	<char hz="昨" py="zuó" />
-	<char hz="笮" py="zuó" multi="zé" main="1">
-		<phrase hz="笮桥" py="zuó,qiáo" info="用竹索编成的桥。" />
-		<definition id="一">
-			<item text="用竹子做成的索。 [笮桥]用竹索编成的桥。" />
-		</definition>
-	</char>
+	<!-- Ref:笮.xml <char hz="笮" py="zuó" multi="zé" main="1" /> -->
 	<char hz="捽" py="zuó" />
-	<char hz="琢" py="zuó" multi="zhuó">
-		<phrase hz="琢磨" py="zuó,mo" duoyin="zhuó,mó" info="反复思索、考虑" />
-		<definition id="二">
-			<item text="[琢磨](-mo)反复思索、考虑：这个问题我~~了很久. 你~~一下，是不是这个理儿." />
-		</definition>
-	</char>
+	<!-- Ref:琢.xml <char hz="琢" py="zuó" multi="zhuó" /> -->
 	<char hz="左" py="zuǒ" />
 	<char hz="佐" py="zuǒ" />
-	<char hz="撮" py="zuǒ" multi="cuō">
-		<definition id="二">
-			<item text="（-子、-儿）量词，用于成丛的毛发：剪下一~子头发." />
-		</definition>
-	</char>
-	<char hz="作" py="zuò" multi="zuō" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="起，兴起：振~精神. 锣鼓大~. 日出而~. 一鼓~气. [作用]功能，使事物发生变化的力量：起~~. 带头~~." />
-			<item id="2" text="劳作，制造：深耕细~. 操~." />
-			<item id="3" text="写作：~文. ~画. ~曲. 吟诗~赋." />
-			<item id="4" text="作品，指文学、艺术方面的创作：佳~. 杰~." />
-			<item id="5" text="进行某种活动：~乱. ~报告. 向不良倾向~斗争. [作风]人们在工作或行动中表现出来的态度和风格。" />
-		</definition>
-	</char>
+	<!-- Ref:撮.xml <char hz="撮" py="zuǒ" multi="cuō" /> -->
+	<!-- Ref:作.xml <char hz="作" py="zuò" multi="zuō" main="1" suppressLog="1" /> -->
 	<char hz="阼" py="zuò" />
 	<char hz="岞" py="zuò" />
 	<char hz="怍" py="zuò" />
-	<char hz="柞" py="zuò" multi="zhà" main="1">
-		<definition id="一">
-			<item text="柞树，即栎树：~蚕. ~丝（柞蚕吐的丝）." />
-		</definition>
-	</char>
+	<!-- Ref:柞.xml <char hz="柞" py="zuò" multi="zhà" main="1" /> -->
 	<char hz="胙" py="zuò" />
 	<char hz="祚" py="zuò" />
-	<char hz="酢" py="zuò" multi="cù" main="1">
-		<phrase hz="酬酢" py="chóu,zuò" />
-		<definition id="一">
-			<item text="客人用酒回敬主人。" />
-		</definition>
-	</char>
+	<!-- Ref:酢.xml <char hz="酢" py="zuò" multi="cù" main="1" /> -->
 	<char hz="坐" py="zuò" />
 	<char hz="唑" py="zuò" />
 	<char hz="座" py="zuò" />

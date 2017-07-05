@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挨" py="āi" multi="ái" main="1">
+		<phrase hz="挨擦" py="āi,cā" />
+		<phrase hz="挨次" py="āi,cì" />
+		<phrase hz="挨个" py="āi,gè" />
+		<phrase hz="挨户" py="āi,hù" />
+		<phrase hz="挨家" py="āi,jiā" />
+		<phrase hz="挨肩儿" py="āi,jiānr," />
+		<phrase hz="挨近" py="āi,jìn" />
+		<phrase hz="挨着" py="āi,zhe" />
+		<definition id="一">
+			<item id="1" text="靠近：居民区~着一条河." />
+			<item id="2" text="顺着（一定次序）：~家查问. ~着号叫." />
+		</definition>
+	</char>
+	<char hz="挨" py="ái" multi="āi">
+		<phrase hz="挨板子" py="ái,bǎn,zi" />
+		<phrase hz="挨呲儿" py="ái,cīr," />
+		<phrase hz="挨打" py="ái,dǎ" />
+		<phrase hz="挨冻" py="ái,dòng" />
+		<phrase hz="挨斗" py="ái,dòu" />
+		<phrase hz="挨饿" py="ái,è" />
+		<phrase hz="挨挤" py="ái,jǐ" />
+		<phrase hz="挨剋" py="ái,kēi" />
+		<phrase hz="挨骂" py="ái,mà" />
+		<phrase hz="挨批" py="ái,pī" />
+		<phrase hz="挨日子" py="ái,rì,zi" />
+		<phrase hz="挨时间" py="ái,shí,jiān" />
+		<phrase hz="挨头子" py="ái,tóu,zi" />
+		<phrase hz="挨延" py="ái,yán" />
+		<phrase hz="挨整" py="ái,zhěng" />
+		<phrase hz="挨揍" py="ái,zòu" />
+		<definition id="二">
+			<item id="1" text="遭受，亲身受到：~饿. ~打. ~骂." />
+			<item id="2" text="困难地度过（岁月）：~日子." />
+			<item id="3" text="拖延：别~磨了，快走吧." />
+		</definition>
+	</char>
+</pinyin>

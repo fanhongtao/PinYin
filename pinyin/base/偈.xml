@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="偈" py="jì" multi="jié" main="1" suppressLog="1">
+		<phrase hz="宝偈" py="bǎo,jì" info="1.佛教语。对偈颂的敬称。2.道教亦借以指修炼的歌诀。" />
+		<phrase hz="笔偈" py="bǐ,jì" info="仿照佛家偈语编成的书法口诀。" />
+		<phrase hz="偈句" py="jì,jù" info="即偈颂。" />
+		<phrase hz="偈颂" py="jì,sòng" info="梵语“偈佗”的又称。即佛经中的唱颂词。每句三字、四字、五字、六字、七字以至多字不等，通常以四句为一偈。亦多指释家隽永的诗作。" />
+		<phrase hz="偈言" py="jì,yán" info="即偈颂。" />
+		<phrase hz="偈语" py="jì,yǔ" info="即偈颂。" />
+		<phrase hz="偈子" py="jì,zǐ" info="即偈颂。" />
+		<phrase hz="妙偈" py="miào,jì" info="佛教语。含意深远的偈语。" />
+		<phrase hz="颂偈" py="sòng,jì" info="佛经中的唱颂词。" />
+		<definition id="一">
+			<item text="和尚唱的词句。" />
+		</definition>
+	</char>
+	<char hz="偈" py="jié" multi="jì">
+		<phrase hz="偈偈" py="jié,jié" info="1.急驰貌。2.用力貌。" />
+		<definition id="二">
+			<item id="1" text="勇武。" />
+			<item id="2" text="跑得快。" />
+		</definition>
+	</char>
+</pinyin>

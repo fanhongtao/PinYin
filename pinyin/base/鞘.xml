@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="鞘" py="qiào" multi="shāo" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="装刀、剑的套子：刀~." />
+		</definition>
+	</char>
+	<char hz="鞘" py="shāo" multi="qiào" info="Word主音">
+		<phrase hz="鞭鞘" py="biān,shāo" />
+		<phrase hz="乌鞘岭" py="wū,shāo,lǐng" />
+		<definition id="二">
+			<item text="鞭鞘，拴在鞭子头上的细皮条。" />
+			<item text="[乌鞘岭]岭名，在甘肃省天祝。" />
+		</definition>
+	</char>
+</pinyin>

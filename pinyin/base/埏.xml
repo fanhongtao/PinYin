@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="埏" py="shān" multi="yán" main="1">
+		<phrase hz="埏埴" py="shān,zhí" info="1.用水和(huó)泥來製作陶器。 2.陶器。 3.培養。" />
+		<definition id="一">
+			<item text="用水和(huó)泥。" />
+		</definition>
+	</char>
+	<char hz="埏" py="yán" multi="shān">
+		<phrase hz="八埏" py="bā,yán" info="八方邊遠之地。" />
+		<phrase hz="垓埏" py="gāi,yán" info="天地的邊際，指至遠之地。" />
+		<phrase hz="埏隧" py="yán,suì" info="墓道。" />
+		<definition id="二">
+			<item id="1" text="大地的边沿。" />
+			<item id="2" text="墓道。" />
+		</definition>
+	</char>
+</pinyin>

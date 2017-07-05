@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挑" py="tiāo" multi="tiǎo" main="1">
+		<phrase hz="挑槽" py="tiāo,cáo" info="喜新厭舊，另結新歡。" />
+		<phrase hz="挑错" py="tiāo,cuò" info="发现或宣布某种缺陷或该受指责的行为或品质;令人不快地批评" />
+		<phrase hz="挑大梁" py="tiāo,dà,liáng" info="泛指承担重要的、起支柱作用的工作。" />
+		<phrase hz="挑担" py="tiāo,dàn" info="1.担子。 2.挑上担子。 3.方言中是连襟的俗称。指姐姐与妺妹的丈夫间的亲戚关系。" />
+		<phrase hz="挑肥拣瘦" py="tiāo,féi,jiǎn,shòu" info="本指买肉时挑选肥瘦,现在常用来比喻为了个人利益,对工作或事物反复挑选" />
+		<phrase hz="挑夫" py="tiāo,fū" info="以挑运货物、行李谋生的人" />
+		<phrase hz="挑拣" py="tiāo,jiǎn" info="挑选;拣选" />
+		<phrase hz="挑脚" py="tiāo,jiǎo" info="旧时指专门替人挑担以维持生活的职业。亦称“挑夫”。" />
+		<phrase hz="挑礼" py="tiāo,lǐ" info="在礼节形式上挑毛病" />
+		<phrase hz="挑毛病" py="tiāo,máo,bing" info="自定义词。" />
+		<phrase hz="挑毛拣刺" py="tiāo,máo,jiǎn,cì" info="故意挑剔別人的缺點。" />
+		<phrase hz="挑取" py="tiāo,qǔ" info="1.獨取。 2.挑選、擇取。" />
+		<phrase hz="挑水" py="tiāo,shuǐ" info="自定义词。" />
+		<phrase hz="挑剔" py="tiāo,tī" info="1.拨动；拨弄；2.过分指摘细微差错；3.指点；4.书法中由下而上的一种笔划。" />
+		<phrase hz="挑选" py="tiāo,xuǎn" info="从一些人或事物中选出合乎要求的" />
+		<phrase hz="挑雪填井" py="tiāo,xuě,tián,jǐng" info="比喻白費力氣，徒勞無功。" />
+		<phrase hz="挑牙" py="tiāo,yá" info="1.清除牙縫中的穢物。 2.金或銀製的牙籤。古人將它和耳挖子、香茶餅盒串在一起，可作裝飾品。" />
+		<phrase hz="挑眼" py="tiāo,yǎn" info="〈方〉 故意找毛病，挑别人不对之处" />
+		<phrase hz="挑针打眼" py="tiāo,zhēn,dǎ,yǎn" info="苛评,往往是带有一定程度的敌意的批评或评论;吹毛求疵" />
+		<phrase hz="挑中" py="tiāo,zhòng" info="选中并予以特别注意;为特殊目的或理由而选出" />
+		<phrase hz="挑子" py="tiāo,zi" info="一根扁担加上它两头所挑的物品，喻指一个人的责任" />
+		<phrase hz="挑字眼儿" py="tiāo,zì,yǎn,r" info="从措辞用字上找小毛病" />
+		<phrase hz="挑嘴" py="tiāo,zuǐ" info="1.挑拣食物。2.摇口舌，说空话。" />
+		<definition id="一">
+			<item id="1" text="用肩担着：~水. 别人~一担，他~两担." />
+			<item id="2" text="（-子、-儿）挑、担的东西：挑着空~子." />
+			<item id="3" text="（-儿）量词：一~儿水. 两~儿粪." />
+			<item id="4" text="选，拣（(连)-选、-拣）：~好的送给他. ~错. ~毛病. [挑剔]严格地拣选，把不合规格的除去。(转)故意找错。" />
+		</definition>
+	</char>
+	<char hz="挑" py="tiǎo" multi="tiāo">
+		<phrase hz="高挑" py="gāo,tiǎo" info="指身材瘦长。" />
+		<phrase hz="高挑儿" py="gāo,tiǎo,r" info="指身材瘦长。" />
+		<phrase hz="高挑子" py="gāo,tiǎo,zi" info="个子瘦高的人。" />
+		<phrase hz="挑拨" py="tiǎo,bō" info="1.拨动灯芯使灯火明亮。 引申为启发。 2.拨物使动；挑动。 3.播弄是非，调唆。 4.逗引，撩拨。" />
+		<!-- <phrase hz="挑刺" py="tiǎo,cì" duoyin="tiāo,cì" info="把刺挑开" /> -->
+		<phrase hz="挑灯" py="tiǎo,dēng" info="撥動燈心、燭蕊，點燈。" />
+		<phrase hz="挑动" py="tiǎo,dòng" info="1.撩拨逗引；拨动。2.开挖，疏浚。 3.挑拨煽动。如：挑动武斗。 4.指向上掀扬的动作。" />
+		<phrase hz="挑逗" py="tiǎo,dòu" info="亦作“挑斗”。撩拨；逗引。" />
+		<phrase hz="挑斗" py="tiǎo,dòu" info="1.见“挑逗”。 2.挑战；战斗。" />
+		<phrase hz="挑花" py="tiǎo,huā" info="1.刺绣。 亦指某种刺绣的针法。如十字挑花，即在平布上依纱眼用花线逐眼扣上十字形，组成各种花纹。 2.织花布或织锦缎时，依据花样设计，在经线上挑成花本，作为织花的根据。花本经计算经纱根数后，用钩针或梭子顺次将一部分经纱挑起，而后让纬纱穿过，逐梭交织，呈现花纹。" />
+		<phrase hz="挑开" py="tiǎo,kāi" />
+		<phrase hz="挑明" py="tiǎo,míng" info="將意思表達清楚，使對方明瞭。" />
+		<phrase hz="挑弄" py="tiǎo,nòng" info="1.挑動戲弄。 2.挑撥、搬弄。" />
+		<phrase hz="挑唆" py="tiǎo,suō" info="挑拨教唆。" />
+		<phrase hz="挑头" py="tiǎo,tóu" info="带头干;领头" />
+		<phrase hz="挑衅" py="tiǎo,xìn" info="故意惹起爭端。" />
+		<phrase hz="挑战" py="tiǎo,zhàn" info="1.激使敌方出战。 2.谓首开衅端。 3.鼓动对方与自己竞赛。" />
+		<definition id="二">
+			<item id="1" text="用竿子等把东西举起或支起：~起帘子来. 把旗子~起来." />
+			<item id="2" text="用条状物或有尖的东西拨开或弄出：把火~开. ~了~灯心. ~刺." />
+			<item id="3" text="一种刺绣的方法：~花." />
+			<item id="4" text="拨弄，引动（(连)-拨）：~衅. ~拨是非. [挑战]1.激怒敌人出来打仗。 2.鼓动对方和自己闺中竞赛：两个作业队互相~~." />
+			<item id="5" text="汉字由下斜着向上写的笔形。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="给" py="gěi" multi="jǐ" main="1" suppressLog="1">
+		<phrase hz="赐给" py="cì,gěi" info="赏给。" />
+		<phrase hz="给以" py="gěi,yǐ" info="给;给予。" />
+		<phrase hz="交给" py="jiāo,gěi" info="给与；付给。" />
+		<phrase hz="送给" py="sòng,gěi" />
+		<definition id="一">
+			<item id="1" text="交付，送与：~他一本书. 是谁~你的？(引)把动作或态度加到对方：~他一顿批评." />
+			<item id="2" text="介词。1.替，为：医生~他看病. ~大家帮忙. 2.被，表示遭受：~火烧掉了. ~拉走了. 3.向，对：快~大伙儿说说. ~人家赔不是." />
+			<item id="3" text="助词，跟前面“让”、“叫”、“把”相应，可有可无：窗户叫风（~）吹开了. 羊让狼（~）吃了. 狼把小羊（~）叼走了." />
+		</definition>
+	</char>
+	<char hz="给" py="jǐ" multi="gěi">
+		<phrase hz="补给" py="bǔ,jǐ" />
+		<phrase hz="供给" py="gōng,jǐ" info="1.满足社会购买力的需要。 2.按一定规格供应或作为伴随物而配给" />
+		<phrase hz="给付" py="jǐ,fù" info="1.付给（应付的款项等）。2.保险人对索赔人提交的单证进行审核，根据合同约定赔付保险金。" />
+		<phrase hz="给水工程" py="jǐ,shuǐ,gōng,chéng" info="也叫上水工程。供给生活用水和工业用水等的工程。" />
+		<phrase hz="给养" py="jǐ,yǎng" />
+		<phrase hz="给与" py="jǐ,yǔ" info="亦作“给予”。使对方有所得。" />
+		<phrase hz="家给人足" py="jiā,jǐ,rén,zú" />
+		<phrase hz="日不暇给" py="rì,bù,xiá,jǐ" info="形容事情太多,时间不够用" />
+		<phrase hz="仰给" py="yǎng,jǐ" info="依靠别人供给。" />
+		<phrase hz="自给" py="zì,jǐ" info="依靠自己生产，满足自己需要" />
+		<definition id="二">
+			<item id="1" text="供应：自~自足. 补~. ~养（军队中主副食、燃料，以及牲畜饲料等物资供应的统称）." />
+			<item id="2" text="富裕，充足：家~人足." />
+		</definition>
+	</char>
+</pinyin>

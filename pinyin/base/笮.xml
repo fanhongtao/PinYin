@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="笮" py="zé" multi="zuó">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="笮" py="zuó" multi="zé" main="1">
+		<phrase hz="笮桥" py="zuó,qiáo" info="用竹索编成的桥。" />
+		<definition id="一">
+			<item text="用竹子做成的索。 [笮桥]用竹索编成的桥。" />
+		</definition>
+	</char>
+</pinyin>

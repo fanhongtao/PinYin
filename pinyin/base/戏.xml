@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="戏" py="hū" multi="xì">
+		<phrase hz="於戏" py="wū,hū" />
+		<definition id="二">
+			<item text="见“於”字条“於戏”(wū-)。" />
+		</definition>
+	</char>
+	<char hz="戏" py="xì" multi="hū" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="玩耍：集体游~. 不要当作儿~." />
+			<item id="2" text="嘲弄，开玩笑：~言." />
+			<item id="3" text="戏剧，也指杂技：看~. 唱~. 听~. 马~. 皮影~." />
+		</definition>
+	</char>
+</pinyin>

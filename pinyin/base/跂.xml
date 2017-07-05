@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="跂" py="qí" multi="qì" main="1">
+		<definition id="一">
+			<item text="多生出的脚趾。" />
+		</definition>
+	</char>
+	<char hz="跂" py="qì" multi="qí">
+		<phrase hz="跂望" py="qì,wàng" />
+		<definition id="二">
+			<item text="踮着脚站着：~望." />
+		</definition>
+	</char>
+</pinyin>

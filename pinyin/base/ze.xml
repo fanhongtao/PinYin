@@ -8,11 +8,7 @@
 	<char hz="赜" py="zé" />
 	<!-- Ref:咋.xml <char hz="咋" py="zé" multi="zǎ,zhā" /> -->
 	<char hz="迮" py="zé" />
-	<char hz="笮" py="zé" multi="zuó">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:笮.xml <char hz="笮" py="zé" multi="zuó" /> -->
 	<char hz="舴" py="zé">
 		<phrase hz="舴艋" py="zé,měng" />
 	</char>

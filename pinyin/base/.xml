@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="" py="chōu" multi="chóu" main="1">
+		<phrase hz="绎" py="chōu,yì" />
+		<phrase hz="阅" py="chōu,yuè" info="翻检阅读。" />
+		<definition id="一">
+			<item text="引出，缀辑。[绎][抽绎](-yì)引出头绪。" />
+		</definition>
+	</char>
+	<char hz="" py="chóu" multi="chōu">
+		<definition id="二">
+			<item text="同“绸”。" />
+		</definition>
+	</char>
+</pinyin>

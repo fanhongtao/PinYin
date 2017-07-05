@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="亟" py="jí" multi="qì" main="1">
+		<phrase hz="亟待" py="jí,dài" info="迫切等待。" />
+		<phrase hz="亟亟" py="jí,jí" info="急忙；急迫。" />
+		<phrase hz="危亟" py="wēi,jí" info="危急。" />
+		<definition id="一">
+			<item text="副词，急切地：~待解决. 缺点~应纠正." />
+		</definition>
+	</char>
+	<char hz="亟" py="qì" multi="jí">
+		<phrase hz="亟来问讯" py="qì,lái,wèn,xùn" />
+		<definition id="二">
+			<item text="屡次：~来问讯." />
+		</definition>
+	</char>
+</pinyin>

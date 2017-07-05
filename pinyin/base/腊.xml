@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="腊" py="là" multi="xī" main="1">
+		<phrase hz="伏腊" py="fú,là" info="1.亦作“ 伏臈 ”。古代两种祭祀的名称。“伏”在夏季伏日，“腊”在农历十二月。2.指伏祭和腊祭之日，或泛指节日。3.借指生活或生活所需的物质资料。" />
+		<phrase hz="腊八" py="là,bā" info="农历十二月初八。民间有在这一天喝腊八粥的习俗" />
+		<phrase hz="腊肠" py="là,cháng" />
+		<phrase hz="腊祭" py="là,jì" info="古时岁终祭祀。" />
+		<phrase hz="腊梅" py="là,méi" />
+		<phrase hz="腊日" py="là,rì" info="1.古时腊祭之日。农历十二月初八。2.泛指农历十二月的时候。" />
+		<phrase hz="腊肉" py="là,ròu" />
+		<phrase hz="腊味" py="là,wèi" info="1.指腊酒。2.腊鱼、腊肉、腊鸡、腊鸭等食品的总称。" />
+		<phrase hz="腊药" py="là,yào" info="腊冬所制药剂。多供滋补用。" />
+		<phrase hz="腊月" py="là,yuè" info="农历十二月" />
+		<definition id="一">
+			<item id="1" text="古代在夏历十二月举行的一种祭祀。 (转)夏历十二月：~八（夏历十二月初八）. ~肉（腊月或冬天腌制后风干或熏干的肉）." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="腊" py="xī" multi="là">
+		<definition id="二">
+			<item text="干肉。" />
+		</definition>
+	</char>
+</pinyin>

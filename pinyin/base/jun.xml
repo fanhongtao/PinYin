@@ -9,29 +9,14 @@
 	<char hz="均" py="jūn" />
 	<char hz="钧" py="jūn" />
 	<!-- Ref:筠.xml <char hz="筠" py="jūn" multi="yún" info="Word主音" /> -->
-	<char hz="龟" py="jūn" multi="guī,qiū">
-		<phrase hz="龟裂" py="jūn,liè" />
-		<definition id="二">
-			<item text="同“皲”。" />
-		</definition>
-	</char>
+	<!-- Ref:龟.xml <char hz="龟" py="jūn" multi="guī,qiū" /> -->
 	<char hz="君" py="jūn" />
 	<char hz="莙" py="jūn">
 		<phrase hz="莙荙菜" py="jūn,dá,cài" />
 	</char>
 	<char hz="鲪" py="jūn" />
-	<char hz="菌" py="jūn" multi="jùn" main="1" suppressLog="1">
-		<phrase hz="细菌" py="xì,jūn" />
-		<phrase hz="真菌" py="zhēn,jūn" />
-		<definition id="二">
-			<item text="低等生物名。 1.真菌，不开花，没有茎和叶子，不含叶绿素，不能自己制造养料，营寄生生活，种类很多。 2.细菌，一大类单细胞的微生物，特指能使人生病的病原细菌。" />
-		</definition>
-	</char>
-	<char hz="麇" py="jūn" multi="qún">
-		<definition id="一">
-			<item text="古书里指獐子。" />
-		</definition>
-	</char>
+	<!-- Ref:菌.xml <char hz="菌" py="jūn" multi="jùn" main="1" suppressLog="1" /> -->
+	<!-- Ref:麇.xml <char hz="麇" py="jūn" multi="qún" /> -->
 	<char hz="俊" py="jùn">
 		<definition>
 			<item id="1" text="才智过人的：~杰. ~士." />
@@ -50,16 +35,6 @@
 		<phrase hz="捃摭" py="jùn,zhí" />
 	</char>
 	<char hz="珺" py="jùn" />
-	<char hz="隽" py="jùn" multi="juàn" main="1">
-		<phrase hz="隽敏" py="jùn,mǐn" info="俊秀敏快。" />
-		<phrase hz="隽秀" py="jùn,xiù" info="1.优异出众。2.指优异出众者。3.清雅秀丽。" />
-		<definition id="二">
-			<item text="同“俊(1)”。" />
-		</definition>
-	</char>
-	<char hz="菌" py="jùn" multi="jūn">
-		<definition id="一">
-			<item text="就是蕈(xùn)。" />
-		</definition>
-	</char>
+	<!-- Ref:隽.xml <char hz="隽" py="jùn" multi="juàn" main="1" /> -->
+	<!-- Ref:菌.xml <char hz="菌" py="jùn" multi="jūn" /> -->
 </pinyin>

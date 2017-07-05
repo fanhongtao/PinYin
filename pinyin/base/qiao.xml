@@ -1,60 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="悄" py="qiāo" multi="qiǎo" info="Word主音">
-		<phrase hz="静悄" py="jìng,qiāo" />
-		<phrase hz="静悄悄" py="jìng,qiāo,qiāo" />
-		<phrase hz="悄悄" py="qiāo,qiāo" />
-		<definition id="二">
-			<item text="[悄悄]没有声音或声音很低：静~~. 部队~~地出动." />
-		</definition>
-	</char>
+	<!-- Ref:悄.xml <char hz="悄" py="qiāo" multi="qiǎo" info="Word主音" /> -->
 	<char hz="硗" py="qiāo" />
 	<char hz="跷" py="qiāo">
 		<phrase hz="跷蹊" py="qiāo,qi" />
 		<phrase hz="蹊跷" py="qī,qiāo" />
 	</char>
-	<char hz="雀" py="qiāo" multi="qiǎo,què">
-		<phrase hz="雀子" py="qiāo,zi" />
-		<definition id="二">
-			<item text="雀子，雀(què)斑。" />
-		</definition>
-	</char>
+	<!-- Ref:雀.xml <char hz="雀" py="qiāo" multi="qiǎo,què" /> -->
 	<char hz="锹" py="qiāo" />
 	<char hz="劁" py="qiāo" />
 	<char hz="敲" py="qiāo" />
 	<char hz="橇" py="qiāo" />
-	<char hz="缲" py="qiāo" multi="sāo" main="1">
-		<phrase hz="缲边" py="qiāo,biān" />
-		<definition id="一">
-			<item text="做衣服边儿或带子时藏着针脚的缝法：~一根带子. ~边." />
-		</definition>
-	</char>
+	<!-- Ref:缲.xml <char hz="缲" py="qiāo" multi="sāo" main="1" /> -->
 	<char hz="乔" py="qiáo" />
 	<char hz="侨" py="qiáo" />
 	<char hz="荞" py="qiáo" />
-	<char hz="峤" py="qiáo" multi="jiào" main="1">
-		<phrase hz="峤岳" py="qiáo,yuè" info="同“乔岳”。高大的山。特指 泰山 。" />
-		<definition id="二">
-			<item text="山尖而高。" />
-		</definition>
-	</char>
+	<!-- Ref:峤.xml <char hz="峤" py="qiáo" multi="jiào" main="1" /> -->
 	<char hz="桥" py="qiáo" />
 	<char hz="硚" py="qiáo" />
 	<char hz="鞒" py="qiáo" />
 	<char hz="荍" py="qiáo" />
-	<char hz="翘" py="qiáo" multi="qiào" main="1">
-		<phrase hz="连翘" py="lián,qiáo" info="一种落叶灌木。果实干燥后可入中药，有清热解毒的效用。" />
-		<phrase hz="翘楚" py="qiáo,chǔ" info="原指高出杂树丛的荆树，后来用来比喻杰出的人才或事物。" />
-		<phrase hz="翘棱" py="qiáo,leng" />
-		<phrase hz="翘企" py="qiáo,qǐ" info="翘头踮足，形容盼望急切的样子" />
-		<phrase hz="翘首" py="qiáo,shǒu" info="抬头" />
-		<phrase hz="翘望" py="qiáo,wàng" info="1.抬头远望 2.热切盼望" />
-		<phrase hz="翘足引领" py="qiáo,zú,yǐn,lǐng" info="踮塌郐，伸长脖子。形容盼望殷切。" />
-		<definition id="一">
-			<item id="1" text="举起，抬起，向上：~首. ~望." />
-			<item id="2" text="翘棱(leng)，板状物体因由湿变干而弯曲不平：桌面~棱了." />
-		</definition>
-	</char>
+	<!-- Ref:翘.xml <char hz="翘" py="qiáo" multi="qiào" main="1" /> -->
 	<char hz="谯" py="qiáo" />
 	<char hz="憔" py="qiáo">
 		<phrase hz="憔悴" py="qiáo,cuì" />
@@ -62,52 +28,15 @@
 	<char hz="樵" py="qiáo" />
 	<char hz="瞧" py="qiáo" />
 	<char hz="巧" py="qiǎo" />
-	<char hz="悄" py="qiǎo" multi="qiāo" main="1">
-		<phrase hz="悄寂" py="qiǎo,jì" info="寂静无声" />
-		<phrase hz="悄然" py="qiǎo,rán" info="1.忧愁地 2.寂静地" />
-		<phrase hz="悄声" py="qiǎo,shēng" info="低声" />
-		<phrase hz="悄然无声" py="qiǎo,rán,wú,shēng" />
-		<phrase hz="忧心悄悄" py="yōu,xīn,qiǎo,qiǎo" />
-		<definition id="一">
-			<item id="1" text="忧愁（叠）：忧心~~." />
-			<item id="2" text="寂静无声或声音很低：~然无声. 低声~语." />
-		</definition>
-	</char>
-	<char hz="雀" py="qiǎo" multi="qiāo,què">
-		<phrase hz="家雀儿" py="jiā,qiǎo,er" />
-		<phrase hz="雀盲眼" py="qiǎo,mang,yǎn" info="〈方〉夜盲，也指夜盲人的眼睛" />
-		<definition id="三">
-			<item text="义同“雀(一)”，用于“家雀儿”等口语词。" />
-		</definition>
-	</char>
+	<!-- Ref:悄.xml <char hz="悄" py="qiǎo" multi="qiāo" main="1" /> -->
+	<!-- Ref:雀.xml <char hz="雀" py="qiǎo" multi="qiāo,què" /> -->
 	<char hz="愀" py="qiǎo" />
-	<char hz="壳" py="qiào" multi="ké">
-		<phrase hz="地壳" py="dì,qiào" />
-		<phrase hz="甲壳" py="jiǎ,qiào" info="动物身上的坚硬外壳，如乌龟、虾、蟹等" />
-		<phrase hz="金蝉脱壳" py="jīn,chán,tuō,qiào" info="蝉变为成虫时要脱去一层壳。比喻用计脱身，使人不能及时发觉。" />
-		<phrase hz="壳菜" py="qiào,cài" info="1.用以称有壳的海贝。指蛤蜊。2.用以称有壳的海贝。指贻贝。通常指其肉，俗称淡菜。" />
-		<phrase hz="躯壳" py="qū,qiào" info="指有形的身体;肉体(对精神而言)。" />
-		<definition id="二">
-			<item text="坚硬的外皮：甲~. 地~." />
-		</definition>
-	</char>
+	<!-- Ref:壳.xml <char hz="壳" py="qiào" multi="ké" /> -->
 	<char hz="俏" py="qiào" />
 	<char hz="诮" py="qiào" />
 	<char hz="峭" py="qiào" />
-	<char hz="鞘" py="qiào" multi="shāo" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="装刀、剑的套子：刀~." />
-		</definition>
-	</char>
+	<!-- Ref:鞘.xml <char hz="鞘" py="qiào" multi="shāo" main="1" suppressLog="1" /> -->
 	<char hz="窍" py="qiào" />
-	<char hz="翘" py="qiào" multi="qiáo" info="Word主音">
-		<phrase hz="翘板" py="qiào,bǎn" info="一种活动器械，木板中部用东西固定，两头可上下起落，多供儿童游戏玩耍。也叫翘翘板、压板" />
-		<phrase hz="翘辫子" py="qiào,biàn,zi" info="谑语，即死。清代男人也梳辫子，刽子手杀人时要把辫子提起，翘辫子也就成为杀头的同义词，后来借指死亡。" />
-		<phrase hz="翘翘板" py="qiào,qiào,bǎn" />
-		<phrase hz="翘尾巴" py="qiào,wěi,ba" info="(喻)傲慢或自鸣得意。" />
-		<definition id="二">
-			<item text="一头向上仰起：板凳~起来了. [翘尾巴](喻)傲慢或自鸣得意。" />
-		</definition>
-	</char>
+	<!-- Ref:翘.xml <char hz="翘" py="qiào" multi="qiáo" info="Word主音" /> -->
 	<char hz="撬" py="qiào" />
 </pinyin>

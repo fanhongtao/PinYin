@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="缉" py="jī" multi="qī" main="1">
+		<phrase hz="查缉" py="chá,jī" info="搜查捕拿。" />
+		<phrase hz="缉捕" py="jī,bǔ" info="亦称缉捕使臣。捉拿罪犯的衙役" />
+		<phrase hz="缉查" py="jī,chá" info="搜查" />
+		<phrase hz="缉获" py="jī,huò" info="拿获;查获" />
+		<phrase hz="缉拿" py="jī,ná" info="搜查逮捕" />
+		<phrase hz="缉私" py="jī,sī" info="搜捕逃避关税走私货物的人" />
+		<phrase hz="缉凶" py="jī,xiōng" />
+		<phrase hz="通缉" py="tōng,jī" />
+		<phrase hz="侦缉" py="zhēn,jī" info="侦查缉捕" />
+		<definition id="一">
+			<item text="搜捕，捉拿：~私. 通~." />
+		</definition>
+	</char>
+	<char hz="缉" py="qī" multi="jī">
+		<phrase hz="缉鞋口" py="qī,xié,kǒu" />
+		<definition id="二">
+			<item text="一针对一针地缝：~鞋口." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="轴" py="zhóu" multi="zhòu" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="穿在轮子中间的圆柱形物件。" />
+			<item id="2" text="（-儿）用来缠绕东西的像车轴的器物：线~儿. 画~. (引)量词：一~儿线." />
+			<item id="3" text="把平面或立体分成对称部分的直线。" />
+		</definition>
+	</char>
+	<char hz="轴" py="zhòu" multi="zhóu">
+		<phrase hz="轴子" py="zhòu,zǐ" />
+		<definition id="二">
+			<item text="[（大）轴子]一次戏曲演出的节目中排在最末的一出戏：压~~（倒数第二出戏）." />
+		</definition>
+	</char>
+</pinyin>

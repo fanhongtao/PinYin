@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="歙" py="shè" multi="xī" info="Word主音">
+		<phrase hz="歙县" py="shè,xiàn" />
+		<definition id="二">
+			<item text="歙县，在安徽省。" />
+		</definition>
+	</char>
+	<char hz="歙" py="xī" multi="shè" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="吸气。" />
+		</definition>
+	</char>
+</pinyin>

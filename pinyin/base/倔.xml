@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="倔" py="jué" multi="juè">
+		<phrase hz="倔强" py="jué,jiàng" info="（性情）刚强不屈。也作“倔犟”。" />
+		<phrase hz="倔犟" py="jué,jiàng" info="见“倔强”。" />
+		<definition id="一">
+			<item text="义同“倔(二)”，只用于“倔强”。 [倔强](-jiàng)（性情）刚强不屈，固执：性格~~。" />
+		</definition>
+	</char>
+	<char hz="倔" py="juè" multi="jué" main="1">
+		<phrase hz="佶倔" py="jí,juè" info="佶屈。" />
+		<phrase hz="倔巴" py="juè,ba" info="〈方〉∶性格直爽执拗,言语行动粗鲁生硬。" />
+		<phrase hz="倔起" py="juè,qǐ" info="1.高高拱起。2.突然兴起。" />
+		<phrase hz="倔然" py="juè,rán" info="生硬鲁莽的样子。" />
+		<definition id="二">
+			<item text="言语直，态度生硬：那老头子真~." />
+		</definition>
+	</char>
+</pinyin>

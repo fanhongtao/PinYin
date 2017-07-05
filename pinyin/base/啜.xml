@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="啜" py="chuài" multi="chuò">
+		<phrase hz="啜喇" py="chuài,lǎ" info="复姓" />
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="啜" py="chuò" multi="chuài" main="1">
+		<phrase hz="哺糟啜醨" py="bǔ,zāo,chuò,lí" info="吃酒糟，喝薄酒。指追求一醉。亦比喻屈志从俗；随波逐流。亦比喻文字优美，令人陶醉。" />
+		<phrase hz="抽啜" py="chōu,chuò" info="犹抽泣。" />
+		<phrase hz="啜哺" py="chuò,bǔ" info="饮食；吃喝。" />
+		<phrase hz="啜持" py="chuò,chí" info="哄骗、玩弄。" />
+		<phrase hz="啜哄" py="chuò,chí" info="以好言哄劝。" />
+		<phrase hz="啜茗" py="chuò,míng" info="喝茶" />
+		<phrase hz="啜泣" py="chuò,qì" info="抽噎;抽抽搭搭地哭" />
+		<phrase hz="啜食" py="chuò,shí" info="犹言吃喝。" />
+		<phrase hz="啜菽饮水" py="chuò,shū,yǐn,shuǐ" info="吃豆类,喝清水,形容生活清苦" />
+		<phrase hz="啜涕" py="chuò,tì" info="哭泣。" />
+		<phrase hz="啜血" py="chuò,xuè" info="犹泣血。极其悲痛而无声的哭泣。" />
+		<phrase hz="啜饮" py="chuò,yǐn" info="饮；喝。" />
+		<phrase hz="啜汁" py="chuò,zhī" info="喝汤。比喻乘机邀功或沾光吃闲饭。" />
+		<phrase hz="啜粥" py="chuò,zhōu" />
+		<phrase hz="啜赚" py="chuò,zhuàn" info="哄弄、哄骗。" />
+		<phrase hz="嚼啜" py="jiáo,chuò" info="犹言吃喝；饮用。" />
+		<phrase hz="强啜" py="qiáng,chuò" info="勉强喝下。" />
+		<phrase hz="忘啜废枕" py="wàng,chuò,fèi,zhěn" info="指不食不眠。" />
+		<phrase hz="呷啜" py="xiā,chuò" info="喝，吃。" />
+		<phrase hz="饮啜" py="yǐn,chuò" info="1.喝；吃喝。2.特指喝茶。3.谓饥食渴饮，无他要求。" />
+		<phrase hz="赚啜" py="zuàn,chuò" info="犹哄骗。" />
+		<definition id="一">
+			<item id="1" text="饮，吃：~茗（喝茶）. ~粥." />
+			<item id="2" text="哭泣的时候抽噎的样子：~泣." />
+		</definition>
+	</char>
+</pinyin>

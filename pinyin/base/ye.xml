@@ -1,30 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="耶" py="yē" multi="yé" info="Word主音">
-		<phrase hz="耶路撒冷" py="yē,lù,sā,lěng" />
-		<phrase hz="耶稣" py="yē,sū" />
-		<definition id="二">
-			<item text="用于译音，如耶路撒冷。" />
-		</definition>
-	</char>
+	<!-- Ref:耶.xml <char hz="耶" py="yē" multi="yé" info="Word主音" /> -->
 	<char hz="倻" py="yē">
 		<phrase hz="伽倻琴" py="jiā,yē,qín" />
 	</char>
 	<char hz="椰" py="yē" />
-	<char hz="掖" py="yē" multi="yè">
-		<definition id="二">
-			<item text="把东西塞在衣袋或夹缝里：把钱~在兜里. 把书~在书包里." />
-		</definition>
-	</char>
+	<!-- Ref:掖.xml <char hz="掖" py="yē" multi="yè" /> -->
 	<char hz="暍" py="yē" />
 	<char hz="噎" py="yē" />
-	<char hz="邪" py="yé" multi="xié">
-		<phrase hz="莫邪" py="mò,yé" />
-		<definition id="二">
-			<item id="1" text="见“莫”字条“莫邪”。" />
-			<item id="2" text="古同“耶(一)(1)”。" />
-		</definition>
-	</char>
+	<!-- Ref:邪.xml <char hz="邪" py="yé" multi="xié" /> -->
 	<char hz="铘" py="yé" />
 	<char hz="爷" py="yé">
 		<definition>
@@ -35,12 +19,7 @@
 			<item id="5" text="迷信的人对神的称呼：土地~. 财神~." />
 		</definition>
 	</char>
-	<char hz="耶" py="yé" multi="yē" main="1">
-		<definition id="一" text="〈古〉">
-			<item id="1" text="助词，表示疑问：是~非~？" />
-			<item id="2" text="同“爷”。" />
-		</definition>
-	</char>
+	<!-- Ref:耶.xml <char hz="耶" py="yé" multi="yē" main="1" /> -->
 	<char hz="揶" py="yé">
 		<phrase hz="揶揄" py="yé,yú" />
 	</char>
@@ -49,15 +28,7 @@
 	<char hz="野" py="yě" />
 	<char hz="业" py="yè" />
 	<char hz="邺" py="yè" />
-	<char hz="叶" py="yè" multi="xié" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="（-子、-儿）植物的营养器官之一，多呈片状、绿色，长在茎上：树~. 菜~." />
-			<item id="2" text="像叶子的：铜~. 铁~." />
-			<item id="3" text="同“页”。" />
-			<item id="4" text="较长时期的分段：20世纪中~." />
-			<item id="5" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:叶.xml <char hz="叶" py="yè" multi="xié" main="1" suppressLog="1" /> -->
 	<char hz="页" py="yè">
 		<definition>
 			<item id="1" text="篇，张（指书、画、纸等）：活~. [网页]可以在互联网上进行信息查询的信息页。 [主页]可以在互联网上进行信息查询的起始网页。" />
@@ -69,34 +40,12 @@
 			<item text="拖，拉，牵引：~光弹. 弃甲~兵." />
 		</definition>
 	</char>
-	<char hz="拽" py="yè" multi="zhuāi,zhuài">
-		<phrase hz="拖拽" py="tuō,yè" info="牽引。亦作「拖曳」。" />
-		<definition id="三">
-			<item text="同“曳”。" />
-		</definition>
-	</char>
+	<!-- Ref:拽.xml <char hz="拽" py="yè" multi="zhuāi,zhuài" /> -->
 	<char hz="夜" py="yè" />
-	<char hz="掖" py="yè" multi="yē" main="1">
-		<phrase hz="扶掖" py="fú,yè" info="扶持，提携" />
-		<phrase hz="奖掖" py="jiǎng,yè" info="奖励提拔" />
-		<phrase hz="掖县" py="yè,xiàn" info="县名，在山东" />
-		<definition id="一">
-			<item id="1" text="用手扶着别人的胳膊。 [奖掖]奖励，提拔。" />
-			<item id="2" text="掖县，旧县名，今莱州，在山东省。" />
-		</definition>
-	</char>
+	<!-- Ref:掖.xml <char hz="掖" py="yè" multi="yē" main="1" /> -->
 	<char hz="液" py="yè" />
 	<char hz="腋" py="yè" />
-	<char hz="咽" py="yè" multi="yān,yàn">
-		<phrase hz="悲咽" py="bēi,yè" info="悲伤呜咽。" />
-		<phrase hz="哽咽" py="gěng,yè" info="不能痛快的出声哭" />
-		<phrase hz="梗咽" py="gěng,yè" info="哽咽。因悲愤而气结喉塞。" />
-		<phrase hz="呜咽" py="wū,yè" info="1.伤心哽泣的声音 2.形容水、风等的声音凄切" />
-		<phrase hz="幽咽" py="yōu,yè" info="1.微弱的哭泣 2.形容低微的流水声" />
-		<definition id="三">
-			<item text="呜咽，哽咽，悲哀得说不出话来。" />
-		</definition>
-	</char>
+	<!-- Ref:咽.xml <char hz="咽" py="yè" multi="yān,yàn" /> -->
 	<char hz="晔" py="yè" />
 	<char hz="烨" py="yè" />
 	<char hz="谒" py="yè" />

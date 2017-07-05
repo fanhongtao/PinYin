@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="裼" py="tì" multi="xī">
+		<definition id="二">
+			<item text="婴儿的包被。" />
+		</definition>
+	</char>
+	<char hz="裼" py="xī" multi="tì" main="1">
+		<phrase hz="袒裼" py="tǎn,xī" info="脫去外衣，露出裡衣。" />
+		<definition id="一">
+			<item text="敞开或脱去上衣，露出身体的一部分（(连)袒-）。" />
+		</definition>
+	</char>
+</pinyin>

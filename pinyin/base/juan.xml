@@ -4,92 +4,18 @@
 	<char hz="涓" py="juān" />
 	<char hz="娟" py="juān" />
 	<char hz="鹃" py="juān" />
-	<char hz="圈" py="juān" multi="juàn,quān">
-		<definition id="三">
-			<item text="关闭起来，用栅栏等围起来：把小鸡~起来." />
-		</definition>
-	</char>
+	<!-- Ref:圈.xml <char hz="圈" py="juān" multi="juàn,quān" /> -->
 	<char hz="朘" py="juān" />
 	<char hz="镌" py="juān" />
 	<char hz="蠲" py="juān" />
-	<char hz="卷" py="juǎn" multi="juàn" main="1">
-		<phrase hz="春卷" py="chūn,juǎn" info="食品，用薄面皮裹馅，卷成细长形，放在油里炸熟" />
-		<phrase hz="蛋卷" py="dàn,juǎn" info="以鸡蛋面团制成卷筒,内填切碎的蔬菜,放在深油锅中炸熟" />
-		<phrase hz="翻卷" py="fān,juǎn" info="翻动、旋转" />
-		<phrase hz="风卷残云" py="fēng,juǎn,cán,yún" info="风卷走了残云。比喻一扫而光" />
-		<phrase hz="胶卷" py="jiāo,juǎn" />
-		<phrase hz="卷尺" py="juǎn,chǐ" />
-		<phrase hz="卷款" py="juǎn,kuǎn" info="将大宗的钱全部带上。" />
-		<phrase hz="卷起" py="juǎn,qǐ" />
-		<phrase hz="卷曲" py="juǎn,qū" info="1.形成许多短的弯头或转折。2.使获得、采取或呈现有皱痕或有波纹的外观。" />
-		<phrase hz="卷入" py="juǎn,rù" info="自定义词" />
-		<phrase hz="卷逃" py="juǎn,táo" info="[家中的或单位的人或者经管的人] 携带所有的贵重物品逃走" />
-		<phrase hz="卷土重来" py="juǎn,tǔ,chóng,lái" info="形容失败后组织力量,恢复势力,重新猛扑过来。" />
-		<phrase hz="卷烟" py="juǎn,yān" info="1.香烟，纸烟。2.指雪茄。" />
-		<phrase hz="龙卷风" py="lóng,juǎn,fēng" />
-		<phrase hz="舒卷" py="shū,juǎn" info="1.張開或捲起。2.志向的伸展與退藏。" />
-		<phrase hz="席卷" py="xí,juǎn" />
-		<phrase hz="烟卷" py="yān,juǎn" />
-		<definition id="二">
-			<item id="1" text="把东西弯转裹成圆筒形：~行李. ~帘子." />
-			<item id="2" text="一种大的力量把东西撮(cuō)起或裹住：风~着雨点劈面打来. ~入旋涡（喻被牵连到不利的事件中）." />
-			<item id="3" text="（-儿）弯转裹成的筒形的东西：烟~儿. 行李~儿. 纸~儿." />
-			<item id="4" text="（-儿）量词，用于成卷儿的东西：一~胶布. 两~纸." />
-		</definition>
-	</char>
+	<!-- Ref:卷.xml <char hz="卷" py="juǎn" multi="juàn" main="1" /> -->
 	<char hz="锩" py="juǎn" />
-	<char hz="卷" py="juàn" multi="juǎn">
-		<phrase hz="白卷" py="bái,juàn" info="没有写出答案的试卷" />
-		<phrase hz="宝卷" py="bǎo,juàn" info="一種講唱文學。由唐代變文和宋代和尚的說經發展而成。本為敷演宗教故事，以引起人們的信心，其後題材不斷衍生、擴大，有改編自戲劇、小說與民間故事，甚至於也有敷演時事。" />
-		<phrase hz="闭卷" py="bì,juàn" info="一种考试方法，参加考试的人答题时不能查阅有关资料（区别于‘开卷’）。" />
-		<phrase hz="长卷" py="cháng,juàn" />
-		<phrase hz="答卷" py="dá,juàn" info="1.回答试卷上试题。2.做完的试卷。" />
-		<phrase hz="读书破万卷" py="dú,shū,pò,wàn,juàn" info="讀完一萬卷書。形容讀過很多書。" />
-		<phrase hz="画卷" py="huà,juàn" info="1.成卷轴形的画。2.比喻动人的壮丽场面。" />
-		<phrase hz="交卷" py="jiāo,juàn" info="1.应考的人交出答完的试卷。2.比喻完成所接受的任务。" />
-		<phrase hz="经卷" py="jīng,juàn" info="指宗教经典。" />
-		<phrase hz="卷次" py="juàn,cì" info="书籍按卷分的次序。" />
-		<phrase hz="卷帙" py="juàn,zhì" info="指书籍可舒卷的叫卷，编次的叫帙(多就数量说)" />
-		<phrase hz="卷轴" py="juàn,zhóu" info="古代图书都以贯轴舒卷。所以卷轴成为书籍、著作或裱好装轴的书画的泛称" />
-		<phrase hz="卷子" py="juàn,zi" />
-		<phrase hz="卷宗" py="juàn,zōng" />
-		<phrase hz="开卷" py="kāi,juàn" info="1.翻開書本。指讀書。2.一種可以自由查閱資料的考試方法。" />
-		<phrase hz="开卷有益" py="kāi,juàn,yǒu,yì" info="打開書本閱讀，即能得好處。" />
-		<phrase hz="考卷" py="kǎo,juàn" info="试卷" />
-		<phrase hz="试卷" py="shì,juàn" info="考试时准备应试人写答案或应试人已经写上答案的卷子" />
-		<phrase hz="释卷" py="shì,juàn" info="把书本放下" />
-		<phrase hz="书卷" py="shū,juàn" info="书籍,因古时书籍多为卷轴形,所以叫书卷" />
-		<phrase hz="手卷" py="shǒu,juàn" info="書畫橫幅之類的長卷，因便於用手卷舒，故稱為「手卷」。" />
-		<phrase hz="掩卷" py="yǎn,juàn" info="合上书本" />
-		<definition id="一">
-			<item id="1" text="可以舒卷(juǎn)的书画：手~. 长~." />
-			<item id="2" text="书籍的册本或篇章：第一~. 上~. ~二." />
-			<item id="3" text="（-子、-儿）考试写答案的纸：试~. 交~. 历史~子." />
-			<item id="4" text="案卷，机关里分类汇存的档案、文件：~宗. 查一查底~." />
-		</definition>
-	</char>
+	<!-- Ref:卷.xml <char hz="卷" py="juàn" multi="juǎn" /> -->
 	<char hz="倦" py="juàn" />
-	<char hz="圈" py="juàn" multi="juān,quān">
-		<phrase hz="圈肥" py="juàn,féi" info="厩肥" />
-		<phrase hz="圈舍" py="juàn,shè" info="养牲畜、兽类的棚、舍" />
-		<phrase hz="圈养" py="juàn,yǎng" info="关在圈里饲养" />
-		<phrase hz="棚圈" py="péng,juàn" info="饲养牲畜的有棚子的圈。" />
-		<phrase hz="起圈" py="qǐ,juàn" info="把猪圈、羊圈、牛栏等里面的粪便和所垫的草、土挖起做肥料。有的地区叫清栏。" />
-		<phrase hz="羊圈" py="yáng,juàn" />
-		<phrase hz="猪圈" py="zhū,juàn" />
-		<definition id="二">
-			<item text="养家畜等的栅栏：猪~. 羊~." />
-		</definition>
-	</char>
+	<!-- Ref:圈.xml <char hz="圈" py="juàn" multi="juān,quān" /> -->
 	<char hz="桊" py="juàn" />
 	<char hz="眷" py="juàn" />
-	<char hz="隽" py="juàn" multi="jùn">
-		<phrase hz="隽永" py="juàn,yǒng" />
-		<definition id="一">
-			<item text="肥肉。" />
-			<item text="[隽永]（言论、文章）意味深长。" />
-		</definition>
-	</char>
+	<!-- Ref:隽.xml <char hz="隽" py="juàn" multi="jùn" /> -->
 	<char hz="狷" py="juàn" />
 	<char hz="绢" py="juàn" />
 	<char hz="罥" py="juàn" />

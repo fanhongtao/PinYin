@@ -5,12 +5,7 @@
 		<phrase hz="旮旯" py="gā,lá" />
 	</char>
 	<!-- Ref:伽.xml <char hz="伽" py="gā" multi="jiā,qié" info="Word主音"> -->
-	<char hz="咖" py="gā" multi="kā" main="1">
-		<phrase hz="咖喱" py="gā,lí" />
-		<definition id="一">
-			<item text="[咖喱](-li)(外)用胡椒、姜黄等做的调味品。" />
-		</definition>
-	</char>
+	<!-- Ref:咖.xml <char hz="咖" py="gā" multi="kā" main="1" /> -->
 	<!-- Ref:嘎.xml <char hz="嘎" py="gā" multi="gá,gǎ" main="1" /> -->
 	<!-- Ref:轧.xml <char hz="轧" py="gá" multi="yà,zhá" /> -->
 	<char hz="钆" py="gá" />

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="血" py="xiě" multi="xuè">
+		<definition id="二">
+			<item text="义同“血(一)”，用于口语。多单用，如“流了点儿血”。也用于口语常用词，如“鸡血”、“血块子”。" />
+		</definition>
+	</char>
+	<char hz="血" py="xuè" multi="xiě" main="1" suppressLog="1">
+		<phrase hz="血泊" py="xuè,pō" />
+		<definition id="一">
+			<item id="1" text="血液，人或高等动物体内的一种红色液体（由红细胞、白细胞、血小板和血浆组成），周身循环，分配养分给各组织，同时把废物带到排泄器官内：~压. ~泊(pō). 出~." />
+			<item id="2" text="同一祖先的：~统. ~族." />
+			<item id="3" text="比喻刚强热烈：~性.（读xuè时用于复音词及成语。如“贫血”、“呕心沥血”等。）" />
+		</definition>
+	</char>
+</pinyin>

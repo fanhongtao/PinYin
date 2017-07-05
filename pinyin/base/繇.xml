@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="繇" py="yáo" multi="yóu,zhòu" main="1">
+		<definition id="二">
+			<item text="同“徭”。" />
+		</definition>
+	</char>
+	<char hz="繇" py="yóu" multi="yáo,zhòu">
+		<definition id="一">
+			<item text="古书里同“由(4)1.2.”。" />
+		</definition>
+	</char>
+	<char hz="繇" py="zhòu" multi="yáo,yóu">
+		<definition id="三">
+			<item text="古时占卜用的文辞。" />
+		</definition>
+	</char>
+</pinyin>

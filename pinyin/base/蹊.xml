@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蹊" py="qī" multi="xī" info="Word主音">
+		<phrase hz="蹊跷" py="qī,qiāo" />
+		<definition id="二">
+			<item text="[蹊跷](-qiāo)奇怪，跷蹊。" />
+		</definition>
+	</char>
+	<char hz="蹊" py="xī" multi="qī" main="1">
+		<phrase hz="蹊径" py="xī,jìng" info="路径;办法" />
+		<phrase hz="下自成蹊" py="xià,zì,chéng,xī" info="“桃李不言，下自成蹊”：原意是桃树不招引人，但因它有花和果实，人们在它下面走来走去，走成了一条小路。比喻人只要真诚、忠实，就能感动别人。" />
+		<definition id="一">
+			<item text="小路（(连)-径）。" />
+		</definition>
+	</char>
+</pinyin>

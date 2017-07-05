@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="琢" py="zhuó" multi="zuó" main="1" suppressLog="1">
+		<phrase hz="雕琢" py="diāo,zhuó" info="1.雕刻玉石使成器物 2.过分地修饰文辞" />
+		<phrase hz="精雕细琢" py="jīng,diāo,xì,zhuó" info="比喻做事情精益求精。" />
+		<phrase hz="玉不琢" py="yù,bù,zhuó" info="“玉不琢，不成器”：谓玉不加工，不成器皿。后以喻人不经过培养﹑锻炼，不能成材。" />
+		<!-- <phrase hz="琢磨" py="zhuó,mó" duoyin="zuó,mo" info="1.琢和打磨[玉石]。2.通过润色加以修改(指文章等)。" /> -->
+		<definition id="一">
+			<item text="雕刻玉石，使成器物：精雕细~. [琢磨] 1.雕刻和打磨（玉石）。 2.加工使精美（指文章等）。" />
+		</definition>
+	</char>
+	<char hz="琢" py="zuó" multi="zhuó">
+		<phrase hz="琢磨" py="zuó,mo" duoyin="zhuó,mó" info="反复思索、考虑" />
+		<definition id="二">
+			<item text="[琢磨](-mo)反复思索、考虑：这个问题我~~了很久. 你~~一下，是不是这个理儿." />
+		</definition>
+	</char>
+</pinyin>

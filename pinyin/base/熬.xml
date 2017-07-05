@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="熬" py="āo" multi="áo">
+		<phrase hz="熬菜" py="āo,cài" />
+		<definition id="二">
+			<item text="烹调方法，把蔬菜等放在水里煮：~菜." />
+		</definition>
+	</char>
+	<char hz="熬" py="áo" multi="āo" main="1">
+		<phrase hz="熬更守夜" py="áo,gēng,shǒu,yè" />
+		<phrase hz="熬煎" py="áo,jiān" />
+		<phrase hz="熬炼" py="áo,liàn" />
+		<phrase hz="熬汤" py="áo,tāng" />
+		<phrase hz="熬心费力" py="áo,xīn,fèi,lì" />
+		<phrase hz="熬药" py="áo,yào" />
+		<phrase hz="熬夜" py="áo,yè" />
+		<phrase hz="熬粥" py="áo,zhōu" />
+		<phrase hz="苦熬" py="kǔ,áo" />
+		<phrase hz="煎熬" py="jiān,áo" />
+		<phrase hz="难熬" py="nán,áo" />
+		<definition id="一">
+			<item id="1" text="久煮：~粥. ~药." />
+			<item id="2" text="忍受，耐苦支撑：~夜. ~红了眼睛." />
+		</definition>
+	</char>
+</pinyin>

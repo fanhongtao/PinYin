@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="旋" py="xuán" multi="xuàn" main="1">
+		<phrase hz="打旋" py="dǎ,xuán" info="1.因焦急而轉來轉去的樣子。 2.設法借錢。 3.旋轉。" />
+		<phrase hz="飞旋" py="fēi,xuán" info="飞舞回旋。" />
+		<phrase hz="风旋电掣" py="fēng,xuán,diàn,chè" info="掣：闪过；旋：奔跑。你风一样飞驰而过，像闪电一样一角即逝。形容非常迅速。" />
+		<phrase hz="回旋" py="huí,xuán" info="可变通;可进退;可商量" />
+		<phrase hz="凯旋" py="kǎi,xuán" info="打仗得胜后返回" />
+		<phrase hz="螺旋" py="luó,xuán" info="1.像螺蛳壳纹理的曲线形 2.一种斜面型的简单机械，由一个带有螺旋槽的实心圆柱和一个有相应沟槽的相同尺寸的空心圆筒组成，外加力在其中沿槽的螺旋路线作用，而阻力沿圆柱的轴线作用" />
+		<phrase hz="盘旋" py="pán,xuán" info="1.沿着螺旋轨道运动;旋绕飞行 2.指大致呈圆形地运动，也可指迂回绕圈儿 3.逗留，徘徊" />
+		<phrase hz="气旋" py="qì,xuán" info="绕一个低气压中心旋转的风暴或气流系统" />
+		<phrase hz="时来运旋" py="shí,lái,yùn,xuán" info="本来处境不利，遇到机会，命运开始好转。 同“时来运转”。" />
+		<phrase hz="涡旋" py="wō,xuán" info="1.亦作“涡漩”。 水流回旋。 2.指漩涡。" />
+		<phrase hz="蜗旋" py="wō,xuán" info="绕圈来回旋转" />
+		<phrase hz="斡旋" py="wò,xuán" info="1.调解周旋 2.扭转;挽回" />
+		<phrase hz="旋得旋失" py="xuán,dé,xuán,shī" info="很快得到，不久又失去。形容得失都很快。" />
+		<phrase hz="旋干转坤" py="xuán,qián,zhuǎn,kūn" info="扭转天地。 比喻从根本上改变社会面貌或已成的局面。也指人魄力极大。" />
+		<phrase hz="旋即" py="xuán,jí" info="马上;立刻" />
+		<phrase hz="旋律" py="xuán,lǜ" info="单个音符或乐音的节奏上的编排和有含义的连续，彼此间有明确的关系并形成美学上的整体" />
+		<phrase hz="旋乾转坤" py="xuán,qián,zhuǎn,kūn" info="乾、坤是八卦中的天和地。意为把天地倒转过来。比喻根本改变局面" />
+		<phrase hz="旋绕" py="xuán,rào" info="作涡旋状地缠绕或转动" />
+		<phrase hz="旋生旋灭" py="xuán,shēng,xuán,miè" info="指产生不久随即消亡。" />
+		<phrase hz="旋梯" py="xuán,tī" info="螺旋形楼梯" />
+		<phrase hz="旋涡" py="xuán,wō" info="急速自旋的水流" />
+		<phrase hz="旋旋" py="xuán,xuán" info="1.缓缓。 2.陆续；逐渐。 3.回环貌。 4.频频。" />
+		<phrase hz="旋翼" py="xuán,yì" info="提供支承飞机的全部或大部分升力的整套旋翼系统" />
+		<phrase hz="旋踵" py="xuán,zhǒng" info="掉转脚跟，比喻时间极短" />
+		<phrase hz="旋转" py="xuán,zhuǎn" info="绕一个轴转动" />
+		<phrase hz="旋转干坤" py="xuán,zhuǎn,gàn,kūn" info="扭转天地。比喻从根本上改变社会面貌或已成的局面。也指人魄力极大" />
+		<phrase hz="周旋" py="zhōu,xuán" info="1.本為古代行禮時進退揖讓的動作，後引申為應酬、交際。 2.追逐，指戰爭之事。 3.對抗、應付。 4.盤旋、環繞。 5.周而復始。 6.照顧。 7.美麗、漂亮。" />
+		<definition id="一">
+			<item id="1" text="旋转，转动：螺~. 回~." />
+			<item id="2" text="回，归：~里. 凯~." />
+			<item id="3" text="不久：~即离去." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="旋" py="xuàn" multi="xuán">
+		<phrase hz="旋吃旋做" py="xuàn,chī,xuàn,zuò" />
+		<phrase hz="旋床" py="xuàn,chuáng" />
+		<phrase hz="旋风" py="xuàn,fēng" info="螺旋状的疾风;亦形容迅疾的动作" />
+		<phrase hz="旋子" py="xuàn,zi" />
+		<definition id="二">
+			<item id="1" text="旋转的：~风." />
+			<item id="2" text="临时（做）：~吃~做." />
+			<item id="3" text="（-子）温酒的器具。" />
+			<item id="4" text="用车床或刀子转(zhuàn)着圈地削：用车床~零件. [旋床]把金属或木料切削成圆形或球形的机器。也叫“车床”。" />
+		</definition>
+	</char>
+</pinyin>

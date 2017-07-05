@@ -7,14 +7,7 @@
 	<char hz="䏲" py="tī" />
 	<char hz="锑" py="tī" />
 	<char hz="" py="tī" />
-	<char hz="荑" py="tí" multi="yí">
-		<phrase hz="丹荑" py="dān,tí" info="一種菌類。古人以為芝是靈草，吃了有益健康。" />
-		<phrase hz="柔荑" py="róu,tí" info="植物初生的叶芽。 旧时多用来比喻女子柔嫩洁白的手，也借指女子的手" />
-		<definition id="二">
-			<item id="1" text="草木初生的叶芽。" />
-			<item id="2" text="稗子一类的草。" />
-		</definition>
-	</char>
+	<!-- Ref:荑.xml <char hz="荑" py="tí" multi="yí" /> -->
 	<!-- Ref:绨.xml <char hz="绨" py="tí" multi="tì" main="1" /> -->
 	<char hz="鹈" py="tí">
 		<phrase hz="鹈鹕" py="tí,hú" />
@@ -37,12 +30,7 @@
 	<char hz="涕" py="tì" />
 	<char hz="悌" py="tì" />
 	<!-- Ref:绨.xml <char hz="绨" py="tì" multi="tí" info="Word主音" /> -->
-	<char hz="俶" py="tì" multi="chù">
-		<phrase hz="俶傥" py="tì,tǎng" />
-		<definition id="二">
-			<item text="[俶傥](-tǎng)同“倜傥”。" />
-		</definition>
-	</char>
+	<!-- Ref:俶.xml <char hz="俶" py="tì" multi="chù" /> -->
 	<char hz="倜" py="tì">
 		<phrase hz="倜傥" py="tì,tǎng" />
 		<definition>
@@ -51,11 +39,7 @@
 	</char>
 	<char hz="逖" py="tì" />
 	<char hz="惕" py="tì" />
-	<char hz="裼" py="tì" multi="xī">
-		<definition id="二">
-			<item text="婴儿的包被。" />
-		</definition>
-	</char>
+	<!-- Ref:裼.xml <char hz="裼" py="tì" multi="xī" /> -->
 	<char hz="替" py="tì" />
 	<char hz="殢" py="tì" trans="1" />
 	<char hz="薙" py="tì" />

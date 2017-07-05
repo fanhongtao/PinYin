@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="俶" py="chù" multi="tì" main="1">
+		<phrase hz="俶尔" py="chù,ěr" />
+		<definition id="一">
+			<item text="〈古〉开始。[俶尔]忽然：~~远逝." />
+		</definition>
+	</char>
+	<char hz="俶" py="tì" multi="chù">
+		<phrase hz="俶傥" py="tì,tǎng" />
+		<definition id="二">
+			<item text="[俶傥](-tǎng)同“倜傥”。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="菌" py="jūn" multi="jùn" main="1" suppressLog="1">
+		<phrase hz="细菌" py="xì,jūn" />
+		<phrase hz="真菌" py="zhēn,jūn" />
+		<definition id="二">
+			<item text="低等生物名。 1.真菌，不开花，没有茎和叶子，不含叶绿素，不能自己制造养料，营寄生生活，种类很多。 2.细菌，一大类单细胞的微生物，特指能使人生病的病原细菌。" />
+		</definition>
+	</char>
+	<char hz="菌" py="jùn" multi="jūn">
+		<definition id="一">
+			<item text="就是蕈(xùn)。" />
+		</definition>
+	</char>
+</pinyin>

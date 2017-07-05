@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="藉" py="jí" multi="jiè">
+		<phrase hz="藉藉" py="jí,jí" info="杂乱众多的样子" />
+		<phrase hz="狼藉" py="láng,jí" info="乱七八糟;散乱、零散" />
+		<definition id="二">
+			<item id="1" text="践踏，凌辱。 [狼藉]（*狼籍）乱七八糟：杯盘~~. 声名~~." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+	<char hz="藉" py="jiè" multi="jí" main="1">
+		<phrase hz="藉口" py="jiè,kǒu" info="1.借用別人的話，作為自己論說的依據。2.以某事為理由。3.假託的理由。" />
+		<phrase hz="慰藉" py="wèi,jiè" info="安慰;抚慰" />
+		<phrase hz="蕴藉" py="yùn,jiè" info="含而不露" />
+		<phrase hz="枕藉" py="zhěn,jiè" info="纵横交错地躺在一起" />
+		<definition id="一">
+			<item id="1" text="垫在下面的东西。" />
+			<item id="2" text="垫衬：枕~." />
+			<item id="3" text="同“借(3)(4)”。" />
+		</definition>
+	</char>
+</pinyin>

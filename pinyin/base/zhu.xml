@@ -34,14 +34,7 @@
 	<char hz="拄" py="zhǔ" />
 	<char hz="渚" py="zhǔ" />
 	<char hz="煮" py="zhǔ" />
-	<char hz="褚" py="zhǔ" multi="chǔ">
-		<phrase hz="褚小怀大" py="zhǔ,xiǎo,huái,dà" info="用小口袋装大东西。比喻能力不能胜任。" />
-		<phrase hz="褚衣" py="zhǔ,yī" info="绵衣。" />
-		<definition id="一">
-			<item id="1" text="在衣服里铺丝绵。" />
-			<item id="2" text="囊，口袋。" />
-		</definition>
-	</char>
+	<!-- Ref:褚.xml <char hz="褚" py="zhǔ" multi="chǔ" /> -->
 	<!-- Ref:属.xml <char hz="属" py="zhǔ" multi="shǔ" /> -->
 	<char hz="嘱" py="zhǔ">
 		<definition>
@@ -65,14 +58,7 @@
 	<char hz="蛀" py="zhù" />
 	<char hz="杼" py="zhù" />
 	<char hz="祝" py="zhù" />
-	<char hz="著" py="zhù" multi="zhuó" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="显明，显出（(连)显-、昭-）：卓~. ~名. 颇~成效." />
-			<item id="2" text="写文章，写书：~书立说." />
-			<item id="3" text="著作，写出来的文章或书：名~. 大~. 译~." />
-			<item text="[土著]1.世代居住在一定的地方。 2.世居本地的人。" />
-		</definition>
-	</char>
+	<!-- Ref:著.xml <char hz="著" py="zhù" multi="zhuó" main="1" suppressLog="1" /> -->
 	<char hz="翥" py="zhù" />
 	<char hz="箸" py="zhù" />
 	<char hz="铸" py="zhù" />

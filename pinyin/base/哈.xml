@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哈" py="hā" multi="hǎ,hà" main="1">
+		<phrase hz="啊哈" py="ā,hā" />
+		<phrase hz="哈哈" py="hā,hā" />
+		<phrase hz="哈喇" py="hā,la" />
+		<phrase hz="哈气" py="hā,qì" />
+		<phrase hz="哈呀" py="hā,yā" info="叹词。表惊讶、惋惜。" />
+		<phrase hz="哈腰" py="hā,yāo" />
+		<definition id="一">
+			<item id="1" text="张口呼气。[哈哈]拟声词，笑声。" />
+			<item id="2" text="叹词，表示得意或惊喜（叠）：~，我赢啦！" />
+			<item id="3" text="哈腰，稍微弯腰，表示礼貌。" />
+			<item text="[哈喇](-la)1.含油的食物日子久了起了变化的味道。2.铁树杀死（元曲多用）。" />
+			<item text="[哈尼族]我国少数民族。" />
+			<item text="[哈萨克族]1.我国少数民族。 2.哈萨克斯坦的主要民族。" />
+		</definition>
+	</char>
+	<char hz="哈" py="hǎ" multi="hā,hà">
+		<phrase hz="哈巴狗" py="hǎ,ba,gǒu" />
+		<phrase hz="哈达" py="hǎ,dá" />
+		<definition id="二">
+			<item text="姓。" />
+			<item text="[哈达](藏)一种长形薄绢，藏族和部分蒙古族人用以表示敬意或祝贺。" />
+			<item text="[哈巴狗](-ba-)一种个儿小腿短的狗。也叫“狮子狗”、“巴儿狗”。常用来比喻驯顺的奴才。" />
+		</definition>
+	</char>
+	<char hz="哈" py="hà" multi="hā,hǎ">
+		<phrase hz="哈什蚂" py="hà,shi,mǎ" />
+		<definition id="三">
+			<item text="[哈什蚂](-shimǎ)蛙的一种，灰褐色，生活在阴湿的地方，主要产在我国东北各省。雌的腹内有脂肪状物质，叫哈什蚂油，中医用作补品。" />
+		</definition>
+	</char>
+</pinyin>

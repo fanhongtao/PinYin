@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="杉" py="shā" multi="shān">
+		<phrase hz="杉木" py="shā,mù" />
+		<phrase hz="杉篙" py="shā,gāo" />
+		<definition id="二">
+			<item text="义同“杉(一)”，用于“杉木、杉篙”等。" />
+		</definition>
+	</char>
+	<char hz="杉" py="shān" multi="shā" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="常绿乔木，树干高而直，叶子细小，呈针状，果实球形。木材供建筑和制器具用。 [水杉]落叶乔木，叶披针形。我国特产，是世界现在的稀有植物之一。" />
+		</definition>
+	</char>
+</pinyin>

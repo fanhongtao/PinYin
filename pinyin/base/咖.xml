@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咖" py="gā" multi="kā" main="1">
+		<phrase hz="咖喱" py="gā,lí" />
+		<definition id="一">
+			<item text="[咖喱](-li)(外)用胡椒、姜黄等做的调味品。" />
+		</definition>
+	</char>
+	<char hz="咖" py="kā" multi="gā">
+		<phrase hz="咖啡" py="kā,fēi" />
+		<definition id="二">
+			<item text="[咖啡](-fēi)(外)常绿灌木或小乔木，产在热带，花白色，果实红色，种子可制饮料。也指这种饮料。" />
+		</definition>
+	</char>
+</pinyin>

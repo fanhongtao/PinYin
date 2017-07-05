@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="吓" py="hè" multi="xià">
+		<phrase hz="恫吓" py="dòng,hè" />
+		<phrase hz="恐吓" py="kǒng,hè" />
+		<phrase hz="威吓" py="wēi,hè" />
+		<definition id="二">
+			<item id="1" text="恫吓，恐吓。" />
+			<item id="2" text="叹词，表示不满：~，怎么能这样呢！" />
+		</definition>
+	</char>
+	<char hz="吓" py="xià" multi="hè" main="1">
+		<phrase hz="惊吓" py="jīng,xià" />
+		<phrase hz="吓唬" py="xià,hu" />
+		<phrase hz="吓人" py="xià,rén" />
+		<phrase hz="吓杀人香" py="xià,shā,rén,xiāng" info="茶名，即碧螺春" />
+		<definition id="一">
+			<item text="使害怕：困难~不倒英雄汉. [吓唬](-hu)使人害怕，威胁：你别~~人." />
+		</definition>
+	</char>
+</pinyin>

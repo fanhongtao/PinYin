@@ -13,14 +13,7 @@
 	<char hz="羞" py="xiū" />
 	<char hz="馐" py="xiū" />
 	<char hz="朽" py="xiū" />
-	<char hz="宿" py="xiǔ" multi="sù,xiù">
-		<phrase hz="半宿" py="bàn,xiǔ" info="半夜。" />
-		<phrase hz="通宿" py="tōng,xiǔ" info="整夜;整个晚上" />
-		<phrase hz="整宿" py="zhěng,xiǔ" info="整夜。" />
-		<definition id="二">
-			<item text="夜：住了一~. 谈了半~." />
-		</definition>
-	</char>
+	<!-- Ref:宿.xml <char hz="宿" py="xiǔ" multi="sù,xiù" /> -->
 	<char hz="滫" py="xiǔ" />
 	<char hz="秀" py="xiù">
 		<phrase hz="秀才" py="xiù,cai" />
@@ -33,58 +26,12 @@
 	</char>
 	<char hz="岫" py="xiù" />
 	<char hz="袖" py="xiù" />
-	<char hz="臭" py="xiù" multi="chòu">
-		<phrase hz="口尚乳臭" py="kǒu,shàng,rǔ,xiù" />
-		<phrase hz="乳臭未除" py="rǔ,xiù,wèi,chú" />
-		<phrase hz="乳臭未干" py="rǔ,xiù,wèi,gān" />
-		<phrase hz="无色无臭" py="wú,sè,wú,xiù" />
-		<definition id="二">
-			<item id="1" text="气味：空气是无色无~的." />
-			<item id="2" text="同“嗅”。" />
-		</definition>
-	</char>
+	<!-- Ref:臭.xml <char hz="臭" py="xiù" multi="chòu" /> -->
 	<char hz="嗅" py="xiù">
 		<definition>
 			<item text="用鼻子辨别气味：~觉." />
 		</definition>
 	</char>
 	<char hz="溴" py="xiù" />
-	<char hz="宿" py="xiù" multi="sù,xiǔ">
-		<phrase hz="二十八宿" py="èr,shí,bā,xiù" info="1.指我国古代天文学家把周天黄道(太阳和月亮所经天区)的恒星分成二十八个星座。二十八宿是中国古代天文学家把天空中可见的星分成二十八组，分东南西北四方各七宿，叫二十八宿。东方苍龙七宿是角、亢、氐、房、心、尾、箕；北方玄武七宿是斗、牛、女、虚、危、室、壁；西方白虎七宿是奎、娄、胃、昴、毕、觜、参；南方朱雀七宿是井、鬼、柳、星、张、翼、轸。2.指东汉中兴二十八将。" />
-		<!-- 东方苍龙七宿 -->
-		<phrase hz="角宿" py="jiǎo,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第一宿。" />
-		<phrase hz="亢宿" py="kàng,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第二宿。有星四颗，在室女星座中。" />
-		<phrase hz="氐宿" py="dī,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第三宿。有星四颗。也称天根。" />
-		<phrase hz="房宿" py="fáng,xiù" info="星宿名。二十八宿之一，东方苍龙七宿之第四宿。有星四颗，即天蝎座的π，ρ，δ，β四星。古时以为主车马，故称之为天驷、房驷。" />
-		<phrase hz="心宿" py="xīn,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第五宿，有星三颗。其主星亦称商星、鹑火、大火、大辰。" />
-		<phrase hz="尾宿" py="wěi,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第六宿。" />
-		<phrase hz="箕宿" py="jī,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第七宿。" />
-		<!-- 南方朱雀七宿 -->
-		<phrase hz="井宿" py="jǐng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第一宿。也称“东井”、“鶉首”。有星八颗，属双子座。" />
-		<phrase hz="鬼宿" py="guǐ,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第二宿。有微弱的星四颗，皆属巨蟹座。鬼宿四星围形似柜，中有一星团，叫“积尸气”，也叫鬼星团。" />
-		<phrase hz="柳宿" py="liǔ,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第三宿。" />
-		<phrase hz="星宿" py="xīng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第四宿。" />
-		<phrase hz="张宿" py="zhāng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第五宿。有星六颗，在长蛇座内。" />
-		<phrase hz="翼宿" py="yì,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第六宿。" />
-		<phrase hz="轸宿" py="zhěn,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第七宿。" />
-		<!-- 西方白虎七宿 -->
-		<phrase hz="奎宿" py="kuí,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第一宿。有星十六颗。因其形似胯而得名。古人多因其形亦似文字而认为它主文运和文章。" />
-		<phrase hz="娄宿" py="lóu,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第二宿。在白羊座，有β、γ、α三星。" />
-		<phrase hz="胃宿" py="wèi,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第三宿。" />
-		<phrase hz="昴宿" py="mǎo,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第四宿。又名髦头、旄头。有亮星七颗(古代以为五颗，故有昴宿之精转化为五老的传说)。传说 汉 相 萧何 为昴星精转世，后因借为颂人之辞。" />
-		<phrase hz="毕宿" py="bì,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第五宿。有八星，形狀像捕兔的網，故稱為「畢宿」。" />
-		<phrase hz="觜宿" py="zī,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第六宿。" />
-		<phrase hz="参宿" py="shēn,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第七宿。即猎户座的七颗亮星。" />
-		<!-- 北方玄武七宿 -->
-		<phrase hz="斗宿" py="dǒu,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第一宿。位于人马座，共设星官10位，其中主星官斗包含6颗星：斗宿一到斗宿六，是北方玄武的蛇头和蛇身，也是著名的南斗六星，与北斗七星遥相呼应。" />
-		<phrase hz="牛宿" py="niú,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第二宿。有星六颗。又称牵牛。" />
-		<phrase hz="女宿" py="nǚ,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第三宿。有四星，属宝瓶座。星群组合状如箕，亦似“女”字，也称须女、婺女。" />
-		<phrase hz="虚宿" py="xū,xiù" info="星宿名。二十八星宿之一。北方玄武七宿的第四宿。" />
-		<phrase hz="危宿" py="wēi,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第五宿。" />
-		<phrase hz="室宿" py="shì,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第六宿。" />
-		<phrase hz="壁宿" py="bì,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第七宿。有星二颗，即飞马座γ和仙女座α星。" />
-		<definition id="三">
-			<item text="我国古代的天文学家把天上某些星的集合体叫作宿：星~. 二十八~." />
-		</definition>
-	</char>
+	<!-- Ref:宿.xml <char hz="宿" py="xiù" multi="sù,xiǔ" /> -->
 </pinyin>

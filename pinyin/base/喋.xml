@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喋" py="dié" multi="zhá" main="1">
+		<phrase hz="喋喋" py="dié,dié" />
+		<phrase hz="喋血" py="dié,xuè" info="血流满地，形容杀人多" />
+		<definition id="一">
+			<item text="[喋喋]啰唆，语言烦琐：~~不休. [喋血]流血满地。" />
+		</definition>
+	</char>
+	<char hz="喋" py="zhá" multi="dié">
+		<phrase hz="唼喋" py="shà,zhá" info="形容鱼或水鸟吃食的声音,也指鱼或水鸟吃食" />
+		<definition id="二">
+			<item text="见“唼”字条“唼喋”(shà-)" />
+		</definition>
+	</char>
+</pinyin>

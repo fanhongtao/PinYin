@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="戈" py="gē" />
-	<char hz="仡" py="gē" multi="yì">
-		<phrase hz="仡佬族" py="gē,lǎo,zú" />
-		<definition id="一">
-			<item text="[仡佬族](-lǎo-)我国少数民族。" />
-		</definition>
-	</char>
+	<!-- Ref:仡.xml <char hz="仡" py="gē" multi="yì" /> -->
 	<char hz="圪" py="gē">
 		<phrase hz="圪垯" py="gē,da" />
 	</char>
@@ -17,14 +12,7 @@
 			<item text="[疙瘩](-da)1.皮肤上突起或肌肉上结成的病块：头上起了个~~. 2.小球形或块状的东西：面~~. 芥菜~~. 3.不易解决的问题：思想~~. 这件事有点儿~~. 4.不通畅、不爽利的话：文字上有些~~. 5.〈方〉量词：一~~石头. 一~~糕." />
 		</definition>
 	</char>
-	<char hz="咯" py="gē" multi="kǎ,lo">
-		<phrase hz="咯噔" py="gē,dēng" />
-		<phrase hz="咯咯" py="gē,gē" />
-		<phrase hz="咯吱" py="gē,zhī" />
-		<definition id="三">
-			<item text="[咯噔](-dēng)拟声词：~~~~的皮鞋声. [咯咯]拟声词：传来一阵~~的笑声. 牙齿咬得~~响. [咯吱](-zhī)拟声词：~~~~地直响." />
-		</definition>
-	</char>
+	<!-- Ref:咯.xml <char hz="咯" py="gē" multi="kǎ,lo" /> -->
 	<char hz="胳" py="gē">
 		<phrase hz="胳膊" py="gē,bo" />
 		<phrase hz="胳臂" py="gē,bei" />
@@ -40,27 +28,9 @@
 	<char hz="歌" py="gē" />
 	<char hz="鸽" py="gē" />
 	<char hz="割" py="gē" />
-	<char hz="革" py="gé" multi="jí" main="1" suppressLog="1">
-		<phrase hz="革除" py="gé,chú" />
-		<phrase hz="革命" py="gé,mìng" />
-		<phrase hz="革新" py="gé,xīn" />
-		<phrase hz="革职" py="gé,zhí" />
-		<phrase hz="改革" py="gǎi,gé" />
-		<phrase hz="皮革" py="pí,gé" />
-		<definition id="一">
-			<item id="1" text="去了毛，经过加工的兽皮（(连)皮-）：制~." />
-			<item id="2" text="改变（(连)改-）：~新. 洗心~面. (引)革除，撤销（职务）。[革命]1.被压迫阶级用暴力夺取政权，摧毁旧的腐朽的社会制度，建立新的进步的社会制度。2.事物的根本变革：思想~~. 技术~~." />
-		</definition>
-	</char>
+	<!-- Ref:革.xml <char hz="革" py="gé" multi="jí" main="1" suppressLog="1" /> -->
 	<!-- Ref:閤.xml <char hz="閤" py="gé" multi="hé" trans="1" main="1" /> -->
-	<char hz="蛤" py="gé" multi="há" main="1" suppressLog="1">
-		<phrase hz="蛤蜊" py="gé,li" />
-		<phrase hz="蛤蚧" py="gé,jiè" />
-		<definition id="一">
-			<item text="蛤蜊(li)，软体动物，生活在近海泥沙中。体外有双壳，颜色美丽。肉可吃。" />
-			<item text="[蛤蚧](-jiè)爬行动物，即大壁虎，头大，尾部灰色，有红色斑点。中医用作强壮剂。" />
-		</definition>
-	</char>
+	<!-- Ref:蛤.xml <char hz="蛤" py="gé" multi="há" main="1" suppressLog="1" /> -->
 	<!-- Ref:颌.xml <char hz="颌" py="gé" multi="hé" main="1" /> -->
 	<char hz="阁" py="gé">
 		<definition>
@@ -88,11 +58,7 @@
 	<!-- Ref:各.xml <char hz="各" py="gě" multi="gè" /> -->
 	<char hz="哿" py="gě" />
 	<char hz="舸" py="gě" />
-	<char hz="盖" py="gě" multi="gài">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:盖.xml <char hz="盖" py="gě" multi="gài" /> -->
 	<!-- Ref:葛.xml <char hz="葛" py="gě" multi="gé" main="1" /> -->
 	<!-- Ref:个.xml <char hz="个" py="gè" multi="gě" main="1" suppressLog="1" /> -->
 	<!-- Ref:各.xml <char hz="各" py="gè" multi="gě" main="1" suppressLog="1" /> -->

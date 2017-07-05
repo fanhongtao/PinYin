@@ -3,50 +3,22 @@
 	<char hz="七" py="qī" />
 	<char hz="柒" py="qī" />
 	<char hz="沏" py="qī" />
-	<char hz="妻" py="qī" multi="qì" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="（-子）男子的配偶，跟“夫”相对。" />
-		</definition>
-	</char>
+	<!-- Ref:妻.xml <char hz="妻" py="qī" multi="qì" main="1" suppressLog="1" /> -->
 	<char hz="凄" py="qī" />
 	<char hz="郪" py="qī" />
 	<char hz="萋" py="qī" />
-	<char hz="栖" py="qī" multi="xī" main="1">
-		<phrase hz="两栖" py="liǎng,qī" info="能在水中与陆上生活或活动。如：两栖动物，水陆两栖坦克。" />
-		<phrase hz="栖身" py="qī,shēn" info="寄生;暂住" />
-		<phrase hz="栖息" py="qī,xī" info="1.止息；寄居；2.指寄居之所；3.谓隐居。" />
-		<definition id="一">
-			<item text="鸟停留在树上。 (引)居住，停留：两~. ~身之处." />
-			<item text="[栖霞]地名，在山东省。" />
-		</definition>
-	</char>
+	<!-- Ref:栖.xml <char hz="栖" py="qī" multi="xī" main="1" /> -->
 	<char hz="桤" py="qī" />
 	<char hz="戚" py="qī" />
 	<char hz="嘁" py="qī">
 		<phrase hz="嘁嘁喳喳" py="qī,qī,chā,chā" />
 	</char>
-	<char hz="期" py="qī" multi="jī" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="规定的时间或一段时间：定~举行. 分~付款. 过~作废. 如~完成任务. (引)刊物出版的号数。" />
-			<item id="2" text="约定时日：不~而遇. [期货交易]一种非现金、非现货的买卖。双方按约定的条件、时间交割货物、外汇或有价证券等。" />
-			<item id="3" text="盼望，希望（(连)-望）：决不辜负大家的~望. ~待. ~盼. 以~得到良好的效果." />
-		</definition>
-	</char>
+	<!-- Ref:期.xml <char hz="期" py="qī" multi="jī" main="1" suppressLog="1" /> -->
 	<char hz="欺" py="qī" />
 	<char hz="䫏" py="qī" trans="1" />
 	<char hz="攲" py="qī" />
-	<char hz="缉" py="qī" multi="jī">
-		<phrase hz="缉鞋口" py="qī,xié,kǒu" />
-		<definition id="二">
-			<item text="一针对一针地缝：~鞋口." />
-		</definition>
-	</char>
-	<char hz="蹊" py="qī" multi="xī" info="Word主音">
-		<phrase hz="蹊跷" py="qī,qiāo" />
-		<definition id="二">
-			<item text="[蹊跷](-qiāo)奇怪，跷蹊。" />
-		</definition>
-	</char>
+	<!-- Ref:缉.xml <char hz="缉" py="qī" multi="jī" /> -->
+	<!-- Ref:蹊.xml <char hz="蹊" py="qī" multi="xī" info="Word主音" /> -->
 	<char hz="漆" py="qī" />
 	<char hz="㬤" py="qī" />
 	<char hz="亓" py="qí" />
@@ -66,11 +38,7 @@
 	<!-- Ref:祇.xml <char hz="祇" py="qí" multi="zhǐ" main="1" /> -->
 	<char hz="岐" py="qí" />
 	<char hz="歧" py="qí" />
-	<char hz="跂" py="qí" multi="qì" main="1">
-		<definition id="一">
-			<item text="多生出的脚趾。" />
-		</definition>
-	</char>
+	<!-- Ref:跂.xml <char hz="跂" py="qí" multi="qì" main="1" /> -->
 	<char hz="其" py="qí" />
 	<char hz="萁" py="qí" />
 	<char hz="淇" py="qí" />
@@ -83,32 +51,7 @@
 	<char hz="旗" py="qí" />
 	<char hz="鲯" py="qí" />
 	<char hz="麒" py="qí" />
-	<char hz="奇" py="qí" multi="jī" main="1" suppressLog="1">
-		<phrase hz="传奇" py="chuán,qí" />
-		<phrase hz="诡奇" py="guǐ,qí" info="1.诡异怪奇的事情。2.怪异奇特。" />
-		<phrase hz="惊奇" py="jīng,qí" />
-		<phrase hz="离奇" py="lí,qí" />
-		<phrase hz="奇怪" py="qí,guài" />
-		<phrase hz="奇观" py="qí,guān" />
-		<phrase hz="奇诡" py="qí,guǐ" info="奇特，诡异。" />
-		<phrase hz="奇幻" py="qí,huàn" />
-		<phrase hz="奇迹" py="qí,jì" />
-		<phrase hz="奇丽" py="qí,lì" info="新奇美丽" />
-		<phrase hz="奇妙" py="qí,miào" />
-		<phrase hz="奇葩" py="qí,pā" info="1.珍奇的花。2.喻出众的作品。" />
-		<phrase hz="奇特" py="qí,tè" info="不寻常，特别" />
-		<phrase hz="奇伟" py="qí,wěi" info="1.奇特怪异;奇特壮美。2.奇特雄伟。" />
-		<phrase hz="奇异" py="qí,yì" />
-		<phrase hz="神奇" py="shén,qí" />
-		<phrase hz="稀奇" py="xī,qí" />
-		<phrase hz="新奇" py="xīn,qí" />
-		<phrase hz="珍奇" py="zhēn,qí" info="珍贵而稀奇" />
-		<definition id="一">
-			<item id="1" text="特殊的，稀罕的，不常见的：~事. ~闻. ~冷. ~丑. (引)出人意料的，令人不测的：~兵. ~计. ~袭. 出~制胜." />
-			<item id="2" text="惊异，引以为奇：世人~之." />
-			<item id="3" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:奇.xml <char hz="奇" py="qí" multi="jī" main="1" suppressLog="1" /> -->
 	<char hz="埼" py="qí" />
 	<char hz="䓫" py="qí" />
 	<char hz="崎" py="qí">
@@ -145,68 +88,25 @@
 	<char hz="棨" py="qǐ" />
 	<char hz="䏿" py="qǐ" />
 	<char hz="绮" py="qǐ" />
-	<char hz="稽" py="qǐ" multi="jī">
-		<phrase hz="稽首" py="qǐ,shǒu" />
-		<definition id="二">
-			<item text="稽首，古时跪下叩头的礼节。" />
-		</definition>
-	</char>
+	<!-- Ref:稽.xml <char hz="稽" py="qǐ" multi="jī" /> -->
 	<char hz="气" py="qì" />
 	<char hz="汽" py="qì" />
 	<char hz="讫" py="qì" />
 	<char hz="迄" py="qì" />
 	<char hz="汔" py="qì" />
 	<char hz="弃" py="qì" />
-	<char hz="妻" py="qì" multi="qī">
-		<definition id="二">
-			<item text="〈古〉以女嫁人。" />
-		</definition>
-	</char>
+	<!-- Ref:妻.xml <char hz="妻" py="qì" multi="qī" /> -->
 	<char hz="炁" py="qì" />
 	<char hz="泣" py="qì" />
-	<char hz="亟" py="qì" multi="jí">
-		<phrase hz="亟来问讯" py="qì,lái,wèn,xùn" />
-		<definition id="二">
-			<item text="屡次：~来问讯." />
-		</definition>
-	</char>
-	<char hz="契" py="qì" multi="xiè" main="1" suppressLog="1">
-		<phrase hz="房契" py="fáng,qì" info="房产生意成交后的契据" />
-		<phrase hz="活契" py="huó,qì" info="出卖房地产时所立的，规定还可以赎回的契约。" />
-		<phrase hz="默契" py="mò,qì" info="1.心声情意暗相符合 2.默默承认的条件、限定或规定" />
-		<phrase hz="契合" py="qì,hé" info="1.投合，意气相投 2.结盟;结拜" />
-		<phrase hz="契机" py="qì,jī" info="机会，转折变化的机缘" />
-		<phrase hz="契友" py="qì,yǒu" info="情投意合的朋友" />
-		<phrase hz="契约" py="qì,yuē" info="双方或多方共同协议订立的有关买卖、抵押、租赁等关系的文书" />
-		<phrase hz="死契" py="sǐ,qì" info="注明不得赎回的契约。" />
-		<phrase hz="田契" py="tián,qì" info="旧时拥有、买卖、转让田地的书面凭证" />
-		<phrase hz="投契" py="tóu,qì" info="投合;见解或意气相投" />
-		<phrase hz="贤契" py="xián,qì" info="对弟子或朋友子侄辈的敬称(多用于书面)" />
-		<definition id="一">
-			<item id="1" text="用刀雕刻。" />
-			<item id="2" text="刻的文字：书~." />
-			<item id="3" text="契约，证明买卖、抵押、租赁等关系的合同、文书、字据：地~. 房~. 卖身~." />
-			<item id="4" text="相合，情意相投：默~. 相~. ~友." />
-			<item text="[契丹]我国古代东北地区的一个民族，曾建立辽国。" />
-		</definition>
-	</char>
+	<!-- Ref:亟.xml <char hz="亟" py="qì" multi="jí" /> -->
+	<!-- Ref:契.xml <char hz="契" py="qì" multi="xiè" main="1" suppressLog="1" /> -->
 	<char hz="碶" py="qì" />
 	<char hz="砌" py="qì" />
-	<char hz="跂" py="qì" multi="qí">
-		<phrase hz="跂望" py="qì,wàng" />
-		<definition id="二">
-			<item text="踮着脚站着：~望." />
-		</definition>
-	</char>
+	<!-- Ref:跂.xml <char hz="跂" py="qì" multi="qí" /> -->
 	<char hz="葺" py="qì" />
 	<char hz="碛" py="qì" />
 	<char hz="槭" py="qì" />
 	<char hz="器" py="qì" />
 	<char hz="憩" py="qì" />
-	<char hz="荠" py="qi" multi="jì" info="Word主音；Word显示为qí">
-		<phrase hz="荸荠" py="bí,qi" />
-		<definition id="二">
-			<item text="见“荸”字条“荸荠”(bí-)。" />
-		</definition>
-	</char>
+	<!-- Ref:荠.xml <char hz="荠" py="qi" multi="jì" info="Word主音；Word显示为qí" /> -->
 </pinyin>

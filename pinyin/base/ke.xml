@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="坷" py="kē" multi="kě" main="1">
-		<phrase hz="坷垃" py="kē,la" />
-		<definition id="一">
-			<item text="[坷垃](-la)土块。" />
-		</definition>
-	</char>
+	<!-- Ref:坷.xml <char hz="坷" py="kē" multi="kě" main="1" /> -->
 	<char hz="苛" py="kē" />
 	<char hz="珂" py="kē" />
 	<char hz="柯" py="kē" />
@@ -31,65 +26,16 @@
 	<char hz="榼" py="kē" />
 	<char hz="磕" py="kē" />
 	<char hz="瞌" py="kē" />
-	<char hz="壳" py="ké" multi="qiào" main="1">
-		<phrase hz="蚌壳" py="bàng,ké" />
-		<phrase hz="贝壳" py="bèi,ké" />
-		<phrase hz="出壳" py="chū,ké" info="鸟或虫类的胚胎在卵内发育完成后破壳而出。" />
-		<phrase hz="蛋壳" py="dàn,ké" />
-		<phrase hz="卵壳" py="luǎn,ké" info="卵生动物卵子外面所包围着的坚硬或坚韧的保护层，具有与外界进行气体交换小孔。" />
-		<phrase hz="壳壳" py="ké,ké" />
-		<phrase hz="壳果" py="ké,guǒ" info="带硬壳的果品。" />
-		<phrase hz="壳叶" py="ké,yè" info="硬封面。" />
-		<phrase hz="脑壳" py="nǎo,ké" />
-		<phrase hz="破壳" py="pò,ké" />
-		<phrase hz="蜕壳" py="tuì,ké" info="1.犹蜕皮。2.指遗骸。" />
-		<phrase hz="外壳" py="wài,ké" />
-		<phrase hz="蚬壳" py="xiǎn,ké" info="蚬子的甲壳。" />
-		<phrase hz="硬壳" py="yìng,ké" />
-		<definition id="一">
-			<item text="（-儿）坚硬的外皮：核桃~儿. 鸡蛋~儿. 贝~儿." />
-		</definition>
-	</char>
-	<char hz="咳" py="ké" multi="hāi" main="1">
-		<phrase hz="百日咳" py="bǎi,rì,ké" info="一种由百日咳嗜血杆菌引起的呼吸道传染性炎症,流行于冬春季节,以五岁以下婴幼儿为多见,临床以阵发性、痉挛性咳嗽和痉咳后伴有特殊的吸气性回声为特征。" />
-		<phrase hz="干咳" py="gān,ké" info="无痰的咳嗽" />
-		<phrase hz="咳嗽" py="ké,sou" />
-		<phrase hz="咳血" py="ké,xiě" info="呼吸道出血由咳嗽咯出。痰血相杂、痰中带血丝或纯血无痰。为肺结核、支气管扩张、肺脓肿、肺癌等疾病的症状之一。中医学认为多因风热伤肺、肝火犯肺、肺阴亏损等所致。" />
-		<phrase hz="乾咳" py="qián,ké" info="1. 中医学名词，指有声无痰的咳嗽，多由阴虚火旺或燥邪在肺所引起。2. 指故意咳嗽。" />
-		<definition id="一">
-			<item text="咳嗽，呼吸器官受刺激而起一种反射作用，把吸入的气急急呼出，声带振动发声。" />
-		</definition>
-	</char>
+	<!-- Ref:壳.xml <char hz="壳" py="ké" multi="qiào" main="1" /> -->
+	<!-- Ref:咳.xml <char hz="咳" py="ké" multi="hāi" main="1" /> -->
 	<char hz="揢" py="ké" />
-	<char hz="可" py="kě" multi="kè" main="1" suppressLog="1">
-		<phrase hz="可恶" py="kě,wù" />
-		<definition id="一">
-			<item id="1" text="是，对，表示准许：许~. 认~. 不加~否. [可以]1.表示允许：~~，你去吧！ 2.适宜，能：现在~~穿棉衣了. 马铃薯~~当饭吃. 3.过甚，程度深：这几天冷得真~~. 4.还好，差不多：这篇文章还~~. [小可]1.寻常：不同~~. 2.旧时谦称自己为小可。" />
-			<item id="2" text="能够：牢不~破的友谊. ~大~小. [可能]能够，有实现的条件：这个计划~~提前实现." />
-			<item id="3" text="值得，够得上（用在动词前）：~怜. ~爱. ~恶(wù)." />
-			<item id="4" text="适合：~心. 饭菜~口. (引)尽(jǐn)，就某种范围不加增减：~着钱花. ~着脑袋做帽子." />
-			<item id="5" text="连词，可是，但，却：大家很累(lèi)，~都很愉快." />
-			<item id="6" text="副词。 1.加强语气：这工具使着~得劲了. 他写字~快了. 这篇文章~写完了. 2.表示疑问：你~知道？ 这话~是真的？ 3.和“岂”字义近：~不是吗！ ~不就糟了吗！ 4.大约：年~三十许. 长~六米." />
-			<item id="7" text="义同“可以 2”：根~食." />
-			<item id="8" text="义同“可以 4”：尚可." />
-		</definition>
-	</char>
-	<char hz="坷" py="kě" multi="kē">
-		<phrase hz="坎坷" py="kǎn,kě" />
-		<definition id="二">
-			<item text="见“坎”字条“坎坷”(kǎn-)。" />
-		</definition>
-	</char>
+	<!-- Ref:可.xml <char hz="可" py="kě" multi="kè" main="1" suppressLog="1" /> -->
+	<!-- Ref:坷.xml <char hz="坷" py="kě" multi="kē" /> -->
 	<char hz="岢" py="kě">
 		<phrase hz="岢岚" py="kě,lán" />
 	</char>
 	<char hz="渴" py="kě" />
-	<char hz="可" py="kè" multi="kě">
-		<phrase hz="可汗" py="kè,hán" />
-		<definition id="二">
-			<item text="[可汗](-hán)古代鲜卑、突厥、回紇、蒙古等族君主的称号。" />
-		</definition>
-	</char>
+	<!-- Ref:可.xml <char hz="可" py="kè" multi="kě" /> -->
 	<char hz="克" py="kè" />
 	<char hz="氪" py="kè" />
 	<char hz="刻" py="kè" />

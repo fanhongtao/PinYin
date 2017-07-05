@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="觉" py="jiào" multi="jué" info="Word主音">
+		<phrase hz="困觉" py="kùn,jiào" info="〈方〉睡觉" />
+		<phrase hz="睡觉" py="shuì,jiào" />
+		<phrase hz="午觉" py="wǔ,jiào" />
+		<definition id="二">
+			<item text="睡眠。" />
+		</definition>
+	</char>
+	<char hz="觉" py="jué" multi="jiào" main="1">
+		<phrase hz="察觉" py="chá,jué" />
+		<phrase hz="触觉" py="chù,jué" />
+		<phrase hz="错觉" py="cuò,jué" />
+		<phrase hz="独觉" py="dú,jué" info="1.独自睡醒。2.佛教语。又称缘觉。谓无佛之世，修行功成，自己觉悟缘起之理者。3.指道教所称自悟玄理。" />
+		<phrase hz="发觉" py="fā,jué" />
+		<phrase hz="感觉" py="gǎn,jué" />
+		<phrase hz="后觉" py="hòu,jué" info="觉悟较晚者。" />
+		<phrase hz="幻觉" py="huàn,jué" />
+		<phrase hz="警觉" py="jǐng,jué" />
+		<phrase hz="觉察" py="jué,chá" />
+		<phrase hz="觉得" py="jué,de" />
+		<phrase hz="觉悟" py="jué,wù" />
+		<phrase hz="觉醒" py="jué,xǐng" />
+		<phrase hz="视觉" py="shì,jué" />
+		<phrase hz="听觉" py="tīng,jué" />
+		<phrase hz="味觉" py="wèi,jué" />
+		<phrase hz="先觉" py="xiān,jué" info="事先认识觉察的人;觉悟早于常人的人" />
+		<phrase hz="醒觉" py="xǐng,jué" />
+		<phrase hz="嗅觉" py="xiù,jué" />
+		<phrase hz="缘觉" py="yuán,jué" info="佛教语。梵语Pratyeka－buddha。旧译为辟支佛，意译为缘觉，也作独觉。一般谓出于佛世，观十二因缘而得悟者为缘觉；出于无佛世，观外缘而无师自悟者为独觉。" />
+		<phrase hz="知觉" py="zhī,jué" />
+		<phrase hz="自觉" py="zì,jué" />
+		<definition id="一">
+			<item id="1" text="（人或动物的器官）对刺激的感受和辨别：视~. 听~. 他~得这本书很好. 不知不~." />
+			<item id="2" text="睡醒、醒悟：如梦初~. ~醒. ~悟." />
+		</definition>
+	</char>
+</pinyin>

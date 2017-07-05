@@ -5,32 +5,18 @@
 	<char hz="蚯" py="qiū">
 		<phrase hz="蚯蚓" py="qiū,yǐn" />
 	</char>
-	<char hz="龟" py="qiū" multi="guī,jūn">
-		<phrase hz="龟兹" py="qiū,cí" />
-		<definition id="三">
-			<item text="[龟兹](-cí)汉代西域国名，在今新疆维吾尔自治区库车一带。" />
-		</definition>
-	</char>
+	<!-- Ref:龟.xml <char hz="龟" py="qiū" multi="guī,jūn" /> -->
 	<char hz="秋" py="qiū">
 		<phrase hz="秋千" py="qiū,qiān" />
 	</char>
 	<char hz="萩" py="qiū" />
-	<char hz="湫" py="qiū" multi="jiǎo" main="1">
-		<definition id="一">
-			<item text="水池。 [大龙湫]瀑布名，在浙江省北雁荡山。" />
-		</definition>
-	</char>
+	<!-- Ref:湫.xml <char hz="湫" py="qiū" multi="jiǎo" main="1" /> -->
 	<char hz="楸" py="qiū" />
 	<char hz="鹙" py="qiū" />
 	<char hz="鳅" py="qiū" />
 	<char hz="" py="qiū" />
 	<char hz="鞧" py="qiū" />
-	<char hz="仇" py="qiú" multi="chóu">
-		<phrase hz="仇英" py="qiú,yīng" info="（约1502-1552）明代画家。" />
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:仇.xml <char hz="仇" py="qiú" multi="chóu" /> -->
 	<char hz="犰" py="qiú">
 		<phrase hz="犰狳" py="qiú,yú" />
 	</char>
@@ -48,12 +34,7 @@
 	<char hz="虬" py="qiú" />
 	<char hz="酋" py="qiú" />
 	<char hz="遒" py="qiú" />
-	<char hz="蝤" py="qiú" multi="yóu" main="1">
-		<phrase hz="蝤蛴" py="qiú,qí" />
-		<definition id="一">
-			<item text="[蝤蛴](-qí)天牛的幼虫，身长足短，白色。" />
-		</definition>
-	</char>
+	<!-- Ref:蝤.xml <char hz="蝤" py="qiú" multi="yóu" main="1" /> -->
 	<char hz="巯" py="qiú" />
 	<char hz="璆" py="qiú" />
 	<char hz="糗" py="qiǔ" />

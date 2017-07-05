@@ -1,16 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="刀" py="dāo" />
-	<char hz="叨" py="dāo" multi="tāo">
-		<phrase hz="叨叨" py="dāo,dao" />
-		<phrase hz="叨唠" py="dāo,lao" />
-		<phrase hz="叨念" py="dāo,niàn" info="1.因思念而常谈起。2.自言自语" />
-		<phrase hz="念叨" py="niàn,dāo" info="1.不断地谈起。2.讲;说" />
-		<phrase hz="絮叨" py="xù,dao" info="多言，唠叨。也作絮叨叨、絮絮叨叨" />
-		<definition id="二">
-			<item text="[叨叨](-dao)话多。 [叨唠](-lao)翻来覆去地说。" />
-		</definition>
-	</char>
+	<!-- Ref:叨.xml <char hz="叨" py="dāo" multi="tāo" /> -->
 	<char hz="忉" py="dāo" />
 	<char hz="鱽" py="dāo" />
 	<char hz="氘" py="dāo" />
@@ -20,106 +11,12 @@
 	<char hz="导" py="dǎo" />
 	<char hz="岛" py="dǎo" />
 	<char hz="捣" py="dǎo" />
-	<char hz="倒" py="dǎo" multi="dào" main="1">
-		<phrase hz="打倒" py="dǎ,dǎo" />
-		<phrase hz="倒把" py="dǎo,bǎ" info="转手倒卖以牟暴利" />
-		<phrase hz="倒班" py="dǎo,bān" info="分班轮换" />
-		<phrase hz="倒闭" py="dǎo,bì" info="法律上的破产,指企业或商店因亏本而停业" />
-		<phrase hz="倒仓" py="dǎo,cāng" />
-		<phrase hz="倒茬" py="dǎo,chá" info="农作物轮作" />
-		<!-- <phrase hz="倒车" py="dǎo,chē" duoyin="dào,chē" info="换乘车辆" /> -->
-		<phrase hz="倒地" py="dǎo,dì" info="1.倒在地上。2.把人杀死。" />
-		<phrase hz="倒吊" py="dǎo,diào" info="上下颠倒悬挂起來。" />
-		<phrase hz="倒凤颠鸾" py="dǎo,fèng,diān,luán" />
-		<phrase hz="倒戈" py="dǎo,gē" />
-		<phrase hz="倒海翻江" py="dǎo,hǎi,fān,jiāng" />
-		<phrase hz="倒换" py="dǎo,huàn" />
-		<phrase hz="倒汇" py="dǎo,huì" />
-		<phrase hz="倒乱" py="dǎo,luàn" />
-		<phrase hz="倒买倒卖" py="dǎo,mǎi,dǎo,mài" />
-		<phrase hz="倒卖" py="dǎo,mài" />
-		<phrase hz="倒霉" py="dǎo,méi" />
-		<phrase hz="倒弄" py="dǎo,nòng" info="1.翻动;移动。2.倒买倒卖(含贬义)" />
-		<phrase hz="倒塌" py="dǎo,tā" info="建筑物墙壁倾倒,塌落下来" />
-		<phrase hz="倒替" py="dǎo,tì" />
-		<phrase hz="倒头" py="dǎo,tóu" />
-		<phrase hz="倒胃口" py="dǎo,wèi,kǒu" info="原指某种东西吃得太多而把胃口弄坏。现在常用来比喻对一件事的厌烦情绪" />
-		<phrase hz="倒卧" py="dǎo,wò" info="1.卧倒在地。2.〈方〉∶因饥饿、寒冷而死在街头的流浪者" />
-		<phrase hz="倒下" py="dǎo,xià" />
-		<phrase hz="倒心" py="dǎo,xīn" />
-		<phrase hz="倒爷" py="dǎo,yé" info="〈方〉∶称从事倒买倒卖的个体商人" />
-		<phrase hz="倒运" py="dǎo,yùn" info="1.见“倒霉”。2.转运。3.从甲地贩运货物到乙地出卖,再把乙地货物贩运到甲地出卖。" />
-		<phrase hz="倒灶" py="dǎo,zào" info="1.垮台;败落。2.倒霉;运气不好" />
-		<phrase hz="倒账" py="dǎo,zhàng" info="无法收回来的账" />
-		<phrase hz="倒指" py="dǎo,zhǐ" info="弯曲手指计算。" />
-		<phrase hz="颠倒" py="diān,dǎo" />
-		<phrase hz="颠鸾倒凤" py="diān,luán,dǎo,fèng" />
-		<phrase hz="跌倒" py="diē,dǎo" />
-		<phrase hz="翻江倒海" py="fān,jiāng,dǎo,hǎi" />
-		<phrase hz="官倒" py="guān,dǎo" info="主要指国家机关、团体、企事业单位违反工商管理法规,进行投机倒把的活动" />
-		<phrase hz="绝倒" py="jué,dǎo" />
-		<phrase hz="拉倒" py="lā,dǎo" />
-		<phrase hz="潦倒" py="liáo,dǎo" />
-		<phrase hz="排山倒海" py="pái,shān,dǎo,hǎi" />
-		<phrase hz="倾倒" py="qīng,dǎo" duoyin="qīng,dào" info="1.倒塌;倒下。2.心折,佩服。3.使人倾心、爱慕。" />
-		<phrase hz="摔倒" py="shuāi,dǎo" />
-		<phrase hz="随风倒" py="suí,fēng,dǎo" info="自己没有主见,顺着一时的形势办事,看哪边的势力大就跟着哪一边走。常用搭配：“墙头草，随风倒”。" />
-		<phrase hz="瘫倒" py="tān,dǎo" />
-		<phrase hz="卧倒" py="wò,dǎo" info="趴在地上" />
-		<phrase hz="移山倒海" py="yí,shān,dǎo,hǎi" />
-		<definition id="一">
-			<item id="1" text="竖立的东西躺下来：墙~了. 摔~了. (引)指工商业因亏累而关门：~闭. [倒霉]（*倒楣）事情不顺利，受挫折。" />
-			<item id="2" text="转移，更换：~手. ~车. ~换." />
-			<item id="3" text="倒买倒卖，进行投机活动：~汇. ~邮票." />
-			<item id="4" text="指食欲变得不好：老吃白菜，真~胃口." />
-		</definition>
-	</char>
+	<!-- Ref:倒.xml <char hz="倒" py="dǎo" multi="dào" main="1" /> -->
 	<char hz="祷" py="dǎo" />
 	<char hz="蹈" py="dǎo" />
 	<char hz="到" py="dào" />
-	<char hz="倒" py="dào" multi="dǎo">
-		<phrase hz="倒背如流" py="dào,bèi,rú,liú" />
-		<phrase hz="倒彩" py="dào,cǎi" info="倒好儿。在演出中出现差错或比赛失利时观众故意叫好" />
-		<phrase hz="倒插" py="dào,chā" />
-		<phrase hz="倒茶" py="dào,chá" />
-		<phrase hz="倒车" py="dào,chē" duoyin="dǎo,chē" info="车向后退" />
-		<phrase hz="倒春寒" py="dào,chūn,hán" />
-		<phrase hz="倒刺" py="dào,cì" />
-		<phrase hz="倒打一耙" py="dào,dǎ,yī,pá" />
-		<phrase hz="倒放" py="dào,fàng" />
-		<phrase hz="倒粪" py="dào,fèn" />
-		<phrase hz="倒挂" py="dào,guà" />
-		<phrase hz="倒果为因" py="dào,guǒ,wéi,yīn" info="错把结果当成原因" />
-		<phrase hz="倒苦水" py="dào,kǔ,shuǐ" />
-		<phrase hz="倒立" py="dào,lì" />
-		<phrase hz="倒赔" py="dào,péi" />
-		<phrase hz="倒数" py="dào,shǔ" duoyin="dào,shù" info="从后往前数。" />
-		<!-- <phrase hz="倒数" py="dào,shù" duoyin="dào,shǔ" info="一个不等于零的数，它的倒数就是1除以这个数的结果。" /> -->
-		<phrase hz="倒水" py="dào,shuǐ" />
-		<phrase hz="倒贴" py="dào,tiē" />
-		<phrase hz="倒退" py="dào,tuì" />
-		<phrase hz="倒叙" py="dào,xù" info="作品的一种叙述方法:把后发生的关键情节或结果提前叙述介绍,然后回过来按时间顺序叙述发生在先的情节" />
-		<phrase hz="倒悬" py="dào,xuán" info="头向下脚向上悬挂着。比喻处境非常困苦。" />
-		<phrase hz="倒行逆施" py="dào,xíng,nì,shī" info="原指做事违反常理，不择手段。现多指所作所为违背时代潮流或人民意愿。（贬义）" />
-		<phrase hz="倒影" py="dào,yǐng" info="倒立的影子" />
-		<phrase hz="倒映" py="dào,yìng" info="人或物的形象倒着映在水面上" />
-		<phrase hz="倒栽葱" py="dào,zāi,cōng" info="原指栽跟斗时头先着地,即栽得很重。现在也用来比喻一次惨重的失败" />
-		<phrase hz="倒置" py="dào,zhì" info="颠倒位置、次序或关系" />
-		<phrase hz="倒装句" py="dào,zhuāng,jù" info="修辞句式的一种，为了强调某一句子成分而改变其结构顺序的句子" />
-		<phrase hz="反倒" py="fǎn,dào" info="反而" />
-		<!-- <phrase hz="倾倒" py="qīng,dào" duoyin="qīng,dǎo" info="1.全部倒出;大量付出。2.倾吐;畅谈。" /> -->
-		<definition id="二">
-			<item id="1" text="上下或前后颠倒：这面镜子挂~了. 把那几本书~过来. ~数第一. [倒粪]把堆着的粪来回翻动弄碎。" />
-			<item id="2" text="把容器反转或倾斜使里面的东西出来：~茶. ~水." />
-			<item id="3" text="向后，往回退：~退. ~车（车向后退）." />
-			<item id="4" text="副词，反而，却，相反：这~好了. 跑了一天，~不觉得累." />
-		</definition>
-	</char>
-	<char hz="帱" py="dào" multi="chóu">
-		<definition id="二">
-			<item text="覆盖。" />
-		</definition>
-	</char>
+	<!-- Ref:倒.xml <char hz="倒" py="dào" multi="dǎo" /> -->
+	<!-- Ref:帱.xml <char hz="帱" py="dào" multi="chóu" /> -->
 	<char hz="焘" py="dào" info="(又)tāo" />
 	<char hz="盗" py="dào" />
 	<char hz="悼" py="dào" />

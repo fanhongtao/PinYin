@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="唬" py="hǔ" multi="xià" main="1">
+		<phrase hz="吹唬" py="chuī,hǔ" info="1.吹嘘，说大话。2.方言。大声训斥。" />
+		<phrase hz="骇唬" py="hài,hǔ" info="惊吓。" />
+		<phrase hz="唬弄" py="hǔ,nòng" info="糊弄。欺骗；蒙混。" />
+		<phrase hz="咋唬" py="zhā,hǔ" info="1.见“咋呼”。2.夸口；炫耀。" />
+		<phrase hz="诈唬" py="zhà,hǔ" info="欺骗吓唬。" />
+		<definition id="一">
+			<item text="威吓(hè)或蒙混：你别~人了." />
+		</definition>
+	</char>
+	<char hz="唬" py="xià" multi="hǔ">
+		<phrase hz="唬杀" py="xià,shā" info="犹吓坏；吓死。" />
+		<definition id="二">
+			<item text="同“吓”。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="炅" py="guì" multi="jiǒng">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="炅" py="jiǒng" multi="guì" main="1">
+		<phrase hz="炅炅" py="jiǒng,jiǒng" info="明亮貌。" />
+		<phrase hz="炅然" py="jiǒng,rán" info="明亮貌。" />
+		<definition id="一">
+			<item text="火光。" />
+		</definition>
+	</char>
+</pinyin>

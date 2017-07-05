@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī">
+		<definition id="一">
+			<item text="(又)同“欸(一)”。" />
+		</definition>
+	</char>
+	<char hz="诶" py="éi" multi="ēi,ěi,èi">
+		<definition id="二">
+			<item text="(又)同“欸(二)”。" />
+		</definition>
+	</char>
+	<char hz="诶" py="ěi" multi="ēi,éi,èi">
+		<definition id="三">
+			<item text="(又)同“欸(三)”。" />
+		</definition>
+	</char>
+	<char hz="诶" py="èi" multi="ēi,éi,ěi">
+		<definition id="四">
+			<item text="(又)同“欸(四)”。" />
+		</definition>
+	</char>
+</pinyin>

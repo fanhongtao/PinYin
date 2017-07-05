@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="湫" py="jiǎo" multi="qiū">
+		<phrase hz="湫隘" py="jiǎo,ài" />
+		<definition id="二">
+			<item text="低洼。 [湫隘]低湿狭小。" />
+		</definition>
+	</char>
+	<char hz="湫" py="qiū" multi="jiǎo" main="1">
+		<definition id="一">
+			<item text="水池。 [大龙湫]瀑布名，在浙江省北雁荡山。" />
+		</definition>
+	</char>
+</pinyin>

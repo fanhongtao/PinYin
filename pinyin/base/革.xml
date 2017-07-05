@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="革" py="gé" multi="jí" main="1" suppressLog="1">
+		<phrase hz="革除" py="gé,chú" />
+		<phrase hz="革命" py="gé,mìng" />
+		<phrase hz="革新" py="gé,xīn" />
+		<phrase hz="革职" py="gé,zhí" />
+		<phrase hz="改革" py="gǎi,gé" />
+		<phrase hz="皮革" py="pí,gé" />
+		<definition id="一">
+			<item id="1" text="去了毛，经过加工的兽皮（(连)皮-）：制~." />
+			<item id="2" text="改变（(连)改-）：~新. 洗心~面. (引)革除，撤销（职务）。[革命]1.被压迫阶级用暴力夺取政权，摧毁旧的腐朽的社会制度，建立新的进步的社会制度。2.事物的根本变革：思想~~. 技术~~." />
+		</definition>
+	</char>
+	<char hz="革" py="jí" multi="gé">
+		<definition id="二">
+			<item text="〈古〉（病）危急。" />
+		</definition>
+	</char>
+</pinyin>

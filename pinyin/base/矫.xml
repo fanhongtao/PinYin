@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="矫" py="jiáo" multi="jiǎo">
+		<phrase hz="矫情" py="jiáo,qing" />
+		<definition id="二">
+			<item text="[矫情](-qing)〈方〉指强词夺理：瞎~~." />
+		</definition>
+	</char>
+	<char hz="矫" py="jiǎo" multi="jiáo" main="1">
+		<phrase hz="矫健" py="jiǎo,jiàn" info="强壮有力;英勇威武" />
+		<phrase hz="矫捷" py="jiǎo,jié" info="动作迅速、矫健、灵活" />
+		<phrase hz="矫揉造作" py="jiǎo,róu,zào,zuò" info="矫：使弯的变成直的；揉：使直的变成弯的。比喻故意做作，不自然。" />
+		<phrase hz="矫饰" py="jiǎo,shì" info="1.亦作“矫飭”。整饬；整改。2.造作夸饰，掩盖真相。" />
+		<phrase hz="矫枉过正" py="jiǎo,wǎng,guò,zhèng" info="矫：扭转；枉：弯曲。把弯的东西扳正，又歪到了另一边。比喻纠正错误超过了应有的限度。" />
+		<phrase hz="矫形" py="jiǎo,xíng" info="通过外科手术使人体恢复正常形态" />
+		<phrase hz="矫正" py="jiǎo,zhèng" />
+		<phrase hz="矫治" py="jiǎo,zhì" info="把生理缺陷通过医治矫正过来" />
+		<definition id="一">
+			<item id="1" text="纠正，把弯曲的弄直：~正. ~枉过正. ~揉造作（喻故意做作）. [矫情]故意违反常情，表示与众不同。" />
+			<item id="2" text="假托：~命." />
+			<item id="3" text="强健，勇武（(连)-健）：~捷." />
+			<item id="4" text="古同“挢”。" />
+		</definition>
+	</char>
+</pinyin>

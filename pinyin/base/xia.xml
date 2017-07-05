@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="呷" py="xiā" />
-	<char hz="虾" py="xiā" multi="há" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="节肢动物，身上有壳，腹部有很多环节。生活在水里，种类很多，可以吃。" />
-		</definition>
-	</char>
+	<!-- Ref:虾.xml <char hz="虾" py="xiā" multi="há" main="1" suppressLog="1" /> -->
 	<char hz="瞎" py="xiā" />
 	<char hz="匣" py="xiá" />
 	<char hz="狎" py="xiá" />
@@ -25,28 +21,9 @@
 	<char hz="下" py="xià">
 		<phrase hz="正中下怀" py="zhèng,zhòng,xià,huái" />
 	</char>
-	<char hz="吓" py="xià" multi="hè" main="1">
-		<phrase hz="惊吓" py="jīng,xià" />
-		<phrase hz="吓唬" py="xià,hu" />
-		<phrase hz="吓人" py="xià,rén" />
-		<phrase hz="吓杀人香" py="xià,shā,rén,xiāng" info="茶名，即碧螺春" />
-		<definition id="一">
-			<item text="使害怕：困难~不倒英雄汉. [吓唬](-hu)使人害怕，威胁：你别~~人." />
-		</definition>
-	</char>
+	<!-- Ref:吓.xml <char hz="吓" py="xià" multi="hè" main="1" /> -->
 	<char hz="夏" py="xià" />
-	<char hz="厦" py="xià" multi="shà">
-		<phrase hz="噶厦" py="gá,xià" info="藏语。意为发布命令的机关。旧 西藏 地方政府。 清 乾隆 时废原封郡王，命由噶布伦四人主持噶厦，秉承驻 藏 大臣和 达赖喇嘛 的旨意，共同管理 西藏 地方行政事务。1959年 西藏 叛乱事件发生后解散。" />
-		<phrase hz="厦门" py="xià,mén" />
-		<definition id="二">
-			<item text="[厦门]地名，在福建省。" />
-		</definition>
-	</char>
-	<char hz="唬" py="xià" multi="hǔ">
-		<phrase hz="唬杀" py="xià,shā" info="犹吓坏；吓死。" />
-		<definition id="二">
-			<item text="同“吓”。" />
-		</definition>
-	</char>
+	<!-- Ref:厦.xml <char hz="厦" py="xià" multi="shà" /> -->
+	<!-- Ref:唬.xml <char hz="唬" py="xià" multi="hǔ" /> -->
 	<char hz="罅" py="xià" />
 </pinyin>

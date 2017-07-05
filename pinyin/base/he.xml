@@ -32,11 +32,7 @@
 	<char hz="阂" py="hé" />
 	<!-- Ref:核.xml <char hz="核" py="hé" multi="hú" main="1" suppressLog="1" /> -->
 	<char hz="曷" py="hé" />
-	<char hz="餲" py="hé" multi="ài" trans="1">
-		<definition id="二">
-			<item text="馓子，一种油炸的面食。" />
-		</definition>
-	</char>
+	<!-- Ref:餲.xml <char hz="餲" py="hé" multi="ài" trans="1" /> -->
 	<char hz="鹖" py="hé" />
 	<char hz="鞨" py="hé" />
 	<char hz="盍" py="hé">
@@ -46,24 +42,9 @@
 	</char>
 	<char hz="阖" py="hé" />
 	<char hz="涸" py="hé" />
-	<char hz="貉" py="hé" multi="háo" main="1">
-		<phrase hz="一丘之貉" py="yì,qiū,zhī,hé" />
-		<definition id="一">
-			<item text="野兽名。毛棕灰色，耳小，嘴尖，昼伏夜出，捕食虫类，皮很珍贵。" />
-			<item text="[一丘之貉](喻)彼此相似，没什么差别，指坏人。" />
-			<item text="〈古〉又同“貊”(mò)。" />
-		</definition>
-	</char>
+	<!-- Ref:貉.xml <char hz="貉" py="hé" multi="háo" main="1" /> -->
 	<char hz="翮" py="hé" />
-	<char hz="吓" py="hè" multi="xià">
-		<phrase hz="恫吓" py="dòng,hè" />
-		<phrase hz="恐吓" py="kǒng,hè" />
-		<phrase hz="威吓" py="wēi,hè" />
-		<definition id="二">
-			<item id="1" text="恫吓，恐吓。" />
-			<item id="2" text="叹词，表示不满：~，怎么能这样呢！" />
-		</definition>
-	</char>
+	<!-- Ref:吓.xml <char hz="吓" py="hè" multi="xià" /> -->
 	<!-- Ref:和.xml <char hz="和" py="hè" multi="hé,hú,huó,huò" /> -->
 	<char hz="贺" py="hè" />
 	<!-- Ref:荷.xml <char hz="荷" py="hè" multi="hé" /> -->

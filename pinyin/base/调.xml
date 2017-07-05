@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="调" py="diào" multi="tiáo" main="1">
+		<phrase hz="笔调" py="bǐ,diào" />
+		<phrase hz="变调" py="biàn,diào" />
+		<phrase hz="步调" py="bù,diào" />
+		<phrase hz="不着调" py="bù,zháo,diào" />
+		<phrase hz="长调" py="cháng,diào" />
+		<phrase hz="唱反调" py="chàng,fǎn,diào" />
+		<phrase hz="唱高调" py="chàng,gāo,diào" />
+		<phrase hz="陈词滥调" py="chén,cí,làn,diào" />
+		<phrase hz="词调" py="cí,diào" info="现在一般指文词和音调，或诗和词的格调。" />
+		<phrase hz="单调" py="dān,diào" />
+		<phrase hz="低调" py="dī,diào" />
+		<phrase hz="调包" py="diào,bāo" />
+		<phrase hz="调兵" py="diào,bīng" />
+		<phrase hz="调兵遣将" py="diào,bīng,qiǎn,jiàng" />
+		<phrase hz="调拨" py="diào,bō" duoyin="tiáo,bō" info="调动拨给" />
+		<phrase hz="调查" py="diào,chá" />
+		<phrase hz="调档" py="diào,dàng" duoyin="tiáo,dàng" info="调阅档案,特指招生工作中把考分达到一定标准的考生的档案调出来,以备查阅后决定是否录取" />
+		<phrase hz="调迭" py="diào,dié" info="谓创作诗歌时谋篇布局协调平仄等。" />
+		<phrase hz="调调" py="diào,diao" />
+		<phrase hz="调动" py="diào,dòng" />
+		<phrase hz="调度" py="diào,dù" />
+		<phrase hz="调号" py="diào,hào" />
+		<phrase hz="调虎离山" py="diào,hǔ,lí,shān" />
+		<phrase hz="调换" py="diào,huàn" />
+		<phrase hz="调回" py="diào,huí" />
+		<phrase hz="调集" py="diào,jí" />
+		<phrase hz="调卷" py="diào,juàn" info="从负责保管的机构取出案卷。也叫“吊卷”" />
+		<phrase hz="调类" py="diào,lèi" info="有声调的语言中声调的类别。" />
+		<phrase hz="调离" py="diào,lí" />
+		<phrase hz="调配" py="diào,pèi" duoyin="tiáo,pèi" info="调动分配" />
+		<phrase hz="调遣" py="diào,qiǎn" />
+		<phrase hz="调任" py="diào,rèn" />
+		<phrase hz="调式" py="diào,shì" info="音乐术语。一般乐曲都是由若干基本的音所构成的，归纳这些基本的音而组成的音列，谓之“调式”。" />
+		<phrase hz="调性" py="diào,xìng" info="指调式的不同性质。" />
+		<phrase hz="调研" py="diào,yán" />
+		<phrase hz="调演" py="diào,yǎn" />
+		<phrase hz="调眼色" py="diào,yǎn,sè" info="谓眉目传情。" />
+		<phrase hz="调用" py="diào,yòng" />
+		<phrase hz="调阅" py="diào,yuè" />
+		<phrase hz="调运" py="diào,yùn" />
+		<phrase hz="调职" py="diào,zhí" />
+		<phrase hz="调值" py="diào,zhí" info="指各调类的实际读法,即字音的高低升降" />
+		<phrase hz="调转" py="diào,zhuǎn" />
+		<phrase hz="调子" py="diào,zi" />
+		<phrase hz="定调" py="dìng,diào" />
+		<phrase hz="对调" py="duì,diào" />
+		<phrase hz="改弦易调" py="gǎi,xián,yì,diào" />
+		<phrase hz="高调" py="gāo,diào" />
+		<phrase hz="格调" py="gé,diào" />
+		<phrase hz="函调" py="hán,diào" />
+		<phrase hz="基调" py="jī,diào" />
+		<phrase hz="降调" py="jiàng,diào" />
+		<phrase hz="借调" py="jiè,diào" />
+		<phrase hz="滥调" py="làn,diào" />
+		<phrase hz="老调" py="lǎo,diào" />
+		<phrase hz="南腔北调" py="nán,qiāng,běi,diào" />
+		<phrase hz="腔调" py="qiāng,diào" />
+		<phrase hz="强调" py="qiáng,diào" />
+		<phrase hz="清平调" py="qīng,píng,diào" />
+		<phrase hz="情调" py="qíng,diào" />
+		<phrase hz="曲调" py="qǔ,diào" />
+		<phrase hz="色调" py="sè,diào" />
+		<phrase hz="声调" py="shēng,diào" />
+		<phrase hz="升调" py="shēng,diào" />
+		<phrase hz="水调歌头" py="shuǐ,diào,gē,tóu" />
+		<!-- <phrase hz="下调" py="xià,diào" duoyin="xià,tiáo" info="指把人或物向下属单位调动" /> -->
+		<phrase hz="小调" py="xiǎo,diào" />
+		<phrase hz="选调" py="xuǎn,diào" info="选拔调动" />
+		<phrase hz="音调" py="yīn,diào" />
+		<phrase hz="油腔滑调" py="yóu,qiāng,huá,diào" />
+		<phrase hz="语调" py="yǔ,diào" />
+		<phrase hz="走调" py="zǒu,diào" />
+		<definition id="二">
+			<item id="1" text="调动，安排：~职. ~兵遣将." />
+			<item id="2" text="（-子）曲调，音乐上高、低、长、短配合和谐的一组音（(连)腔-）这个~子很好听." />
+			<item id="3" text="多指调式类别和调式主音高度：C大~." />
+			<item id="4" text="语言中字音的声调：~号. ~类。 [声调]1.字音的高低升降。古汉语的声调是平、上、去、入四声。普通话的声调是阴平、阳平、上声、去声。2.读书、说话、朗诵的腔调。" />
+		</definition>
+	</char>
+	<char hz="调" py="tiáo" multi="diào">
+		<phrase hz="风调雨顺" py="fēng,tiáo,yǔ,shùn" />
+		<phrase hz="解调" py="jiě,tiáo" />
+		<phrase hz="空调" py="kōng,tiáo" />
+		<phrase hz="烹调" py="pēng,tiáo" />
+		<phrase hz="失调" py="shī,tiáo" />
+		<!-- <phrase hz="调拨" py="tiáo,bō" duoyin="diào,bō" info="挑拨;调唆" /> -->
+		<phrase hz="调处" py="tiáo,chǔ" />
+		<!-- <phrase hz="调档" py="tiáo,dàng" duoyin="diào,dàng" info="变速器,换档机构,使动力传动系统中的齿合或脱开的机构" /> -->
+		<phrase hz="调幅" py="tiáo,fú" />
+		<phrase hz="调羹" py="tiáo,gēng" />
+		<phrase hz="调和" py="tiáo,hé" />
+		<phrase hz="调侃" py="tiáo,kǎn" />
+		<phrase hz="调控" py="tiáo,kòng" />
+		<phrase hz="调级" py="tiáo,jí" />
+		<phrase hz="调剂" py="tiáo,jì" />
+		<phrase hz="调价" py="tiáo,jià" />
+		<phrase hz="调节" py="tiáo,jié" />
+		<phrase hz="调解" py="tiáo,jiě" />
+		<phrase hz="调理" py="tiáo,lǐ" />
+		<phrase hz="调料" py="tiáo,liào" />
+		<!-- <phrase hz="调配" py="tiáo,pèi" duoyin="diào,pèi" info="调理配合" /> -->
+		<phrase hz="调皮" py="tiáo,pí" />
+		<phrase hz="调频" py="tiáo,pín" />
+		<phrase hz="调情" py="tiáo,qíng" />
+		<phrase hz="调色" py="tiáo,sè" />
+		<phrase hz="调摄" py="tiáo,shè" />
+		<phrase hz="调试" py="tiáo,shì" />
+		<phrase hz="调适" py="tiáo,shì" />
+		<phrase hz="调唆" py="tiáo,suō" />
+		<phrase hz="调停" py="tiáo,tíng" />
+		<phrase hz="调味" py="tiáo,wèi" />
+		<phrase hz="调息" py="tiáo,xī" />
+		<phrase hz="调戏" py="tiáo,xì" />
+		<phrase hz="调谐" py="tiáo,xié" />
+		<phrase hz="调协" py="tiáo,xié" />
+		<phrase hz="调笑" py="tiáo,xiào" />
+		<phrase hz="调养" py="tiáo,yǎng" />
+		<phrase hz="调音" py="tiáo,yīn" />
+		<phrase hz="调匀" py="tiáo,yún" />
+		<phrase hz="调整" py="tiáo,zhěng" />
+		<phrase hz="调制" py="tiáo,zhì" />
+		<phrase hz="调治" py="tiáo,zhì" />
+		<phrase hz="调嘴弄舌" py="tiáo,zuǐ,nòng,shé" />
+		<phrase hz="协调" py="xié,tiáo" />
+		<phrase hz="下调" py="xià,tiáo" duoyin="xià,diào" info="向低水准调整" />
+		<phrase hz="众口难调" py="zhòng,kǒu,nán,tiáo" />
+		<definition id="一">
+			<item id="1" text="配合均匀：~色. ~味. 风~雨顺. (引)使和谐：~解. ~整. [调剂]1.配药。 2.(-ji)调(diào)配，使均匀：组与组之间人力可以互相~~. [调停]使争端平息。" />
+			<item id="2" text="挑拨；挑逗（(连)-唆）：~嘴弄舌. ~笑. ~戏. [调皮]好开玩笑，顽皮。" />
+		</definition>
+	</char>
+</pinyin>

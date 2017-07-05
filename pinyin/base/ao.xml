@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="凹" py="āo" />
-	<char hz="熬" py="āo" multi="áo">
-		<phrase hz="熬菜" py="āo,cài" />
-		<definition id="二">
-			<item text="烹调方法，把蔬菜等放在水里煮：~菜." />
-		</definition>
-	</char>
+	<!-- Ref:熬.xml <char hz="熬" py="āo" multi="áo" /> -->
 	<char hz="敖" py="áo" />
 	<char hz="嶅" py="áo" />
 	<char hz="遨" py="áo" />
@@ -14,23 +9,7 @@
 	<char hz="廒" py="áo" />
 	<char hz="璈" py="áo" />
 	<char hz="獒" py="áo" />
-	<char hz="熬" py="áo" multi="āo" main="1">
-		<phrase hz="熬更守夜" py="áo,gēng,shǒu,yè" />
-		<phrase hz="熬煎" py="áo,jiān" />
-		<phrase hz="熬炼" py="áo,liàn" />
-		<phrase hz="熬汤" py="áo,tāng" />
-		<phrase hz="熬心费力" py="áo,xīn,fèi,lì" />
-		<phrase hz="熬药" py="áo,yào" />
-		<phrase hz="熬夜" py="áo,yè" />
-		<phrase hz="熬粥" py="áo,zhōu" />
-		<phrase hz="苦熬" py="kǔ,áo" />
-		<phrase hz="煎熬" py="jiān,áo" />
-		<phrase hz="难熬" py="nán,áo" />
-		<definition id="一">
-			<item id="1" text="久煮：~粥. ~药." />
-			<item id="2" text="忍受，耐苦支撑：~夜. ~红了眼睛." />
-		</definition>
-	</char>
+	<!-- Ref:熬.xml <char hz="熬" py="áo" multi="āo" main="1" /> -->
 	<char hz="聱" py="áo" />
 	<char hz="螯" py="áo" />
 	<char hz="謷" py="áo">
@@ -39,26 +18,13 @@
 	<char hz="鳌" py="áo" />
 	<char hz="翱" py="áo" />
 	<char hz="鏖" py="áo" />
-	<char hz="拗" py="ǎo" multi="ào,niù" main="1">
-		<phrase hz="拗断" py="ǎo,duàn" />
-		<phrase hz="拗开" py="ǎo,kāi" />
-		<definition id="一">
-			<item text="〈方〉弯曲使断，折：竹竿~断了." />
-		</definition>
-	</char>
+	<!-- Ref:拗.xml <char hz="拗" py="ǎo" multi="ào,niù" main="1" /> -->
 	<char hz="袄" py="ǎo" />
 	<char hz="媪" py="ǎo" />
 	<char hz="岙" py="ào" />
 	<char hz="垇" py="ào" />
 	<char hz="坳" py="ào" />
-	<char hz="拗" py="ào" multi="ǎo,niù">
-		<phrase hz="拗口" py="ào,kǒu" />
-		<phrase hz="拗口令" py="ào,kǒu,lìng" />
-		<phrase hz="违拗" py="wéi,ào" />
-		<definition id="二">
-			<item text="不顺，不顺从。[拗口令]用声、韵、调相近的字编成的话，说快了容易错。也叫“绕口令”。" />
-		</definition>
-	</char>
+	<!-- Ref:拗.xml <char hz="拗" py="ào" multi="ǎo,niù" /> -->
 	<char hz="奡" py="ào" />
 	<char hz="傲" py="ào" />
 	<char hz="骜" py="ào" />

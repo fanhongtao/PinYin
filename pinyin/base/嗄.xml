@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嗄" py="á" multi="shà" main="1">
+		<definition id="一">
+			<item text="同“啊(二)”" />
+		</definition>
+	</char>
+	<char hz="嗄" py="shà" multi="á">
+		<phrase hz="沙嗄" py="shā,shà" />
+		<phrase hz="嗄嘶" py="shà,sī" />
+		<phrase hz="嗄哑" py="shà,yǎ" />
+		<definition id="二">
+			<item text="嗓音嘶哑。" />
+		</definition>
+	</char>
+</pinyin>

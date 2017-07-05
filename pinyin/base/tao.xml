@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="叨" py="tāo" multi="dāo" main="1">
-		<phrase hz="叨光" py="tāo,guāng" />
-		<phrase hz="叨教" py="tāo,jiào" />
-		<phrase hz="叨陪末座" py="tāo,péi,mò,zuò" info="叨：谦词，受到（好处）；陪：奉陪；末座：席中最后的座位。这是受人宴请的客气话。" />
-		<phrase hz="叨扰" py="tāo,rǎo" />
-		<phrase hz="叨在知己" py="tāo,zài,zhī,jǐ" info="一种社交应酬语。承蒙对方视自己为知己的意思。" />
-		<definition id="一">
-			<item text="承受：~光. ~教(jiào). [叨扰]谢人款待的话。" />
-		</definition>
-	</char>
+	<!-- Ref:叨.xml <char hz="叨" py="tāo" multi="dāo" main="1" /> -->
 	<char hz="涛" py="tāo" />
 	<!-- <char hz="焘" py="tāo" info="(又)dào"/> -->
 	<char hz="绦" py="tāo" />
@@ -23,14 +14,7 @@
 	<char hz="洮" py="táo" />
 	<char hz="桃" py="táo" />
 	<char hz="䄻" py="táo" />
-	<char hz="陶" py="táo" multi="yáo" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="用黏土烧制的器物. [陶土]烧制陶器的黏土。" />
-			<item id="2" text="制造陶器：~铸. ~冶（制陶器和炼金属，喻造就良好的品格、情操等）." />
-			<item id="3" text="隐然，快乐的样子：~醉." />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:陶.xml <char hz="陶" py="táo" multi="yáo" main="1" suppressLog="1" /> -->
 	<char hz="萄" py="táo" />
 	<char hz="啕" py="táo" />
 	<char hz="咷" py="táo" info="词组中使用到，所以补充" />

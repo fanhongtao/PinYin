@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="徼" py="jiǎo" multi="jiào" main="1">
+		<phrase hz="徼倖" py="jiǎo,xìng" />
+		<definition id="一">
+			<item text="旧同“侥幸”。" />
+		</definition>
+	</char>
+	<char hz="徼" py="jiào" multi="jiǎo">
+		<phrase hz="徼巡" py="jiào,xún" />
+		<definition id="二">
+			<item id="1" text="边界。" />
+			<item id="2" text="巡察。" />
+		</definition>
+	</char>
+</pinyin>

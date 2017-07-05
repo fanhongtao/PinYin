@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="湮" py="yān" multi="yīn" main="1">
+		<phrase hz="湮灭" py="yān,miè" info="埋没;磨灭" />
+		<phrase hz="湮没" py="yān,mò" info="清除，化为乌有" />
+		<definition id="一">
+			<item text="埋没（(连)-没）：有的古迹已经~~没了." />
+		</definition>
+	</char>
+	<char hz="湮" py="yīn" multi="yān">
+		<definition id="二">
+			<item text="同“洇”。" />
+		</definition>
+	</char>
+</pinyin>

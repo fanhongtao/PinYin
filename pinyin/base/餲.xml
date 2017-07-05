@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="餲" py="ài" multi="hé" main="1" trans="1">
+		<definition id="一">
+			<item text="食物经久而变味。" />
+		</definition>
+	</char>
+	<char hz="餲" py="hé" multi="ài" trans="1">
+		<definition id="二">
+			<item text="馓子，一种油炸的面食。" />
+		</definition>
+	</char>
+</pinyin>

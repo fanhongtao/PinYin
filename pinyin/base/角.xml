@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="角" py="jiǎo" multi="jué" main="1">
+		<phrase hz="触角" py="chù,jiǎo" />
+		<phrase hz="豆角" py="dòu,jiǎo" />
+		<phrase hz="钝角" py="dùn,jiǎo" info="数学名词。大于直角而小于平角的角。" />
+		<phrase hz="额角" py="é,jiǎo" />
+		<phrase hz="俯角" py="fǔ,jiǎo" info="1.在竖直面内的水平线与向下递降线段之间的角度。2.从测量员的仪器到照准点所观测到的地平线以下的垂直角。" />
+		<phrase hz="拐角" py="guǎi,jiǎo" />
+		<phrase hz="犄角" py="jī,jiǎo" />
+		<phrase hz="夹角" py="jiā,jiǎo" info="两条线或面间的角度" />
+		<phrase hz="角尺" py="jiǎo,chǐ" info="1.具有一条可放置得和图板的一边成任意需要的角度的直尺的绘图仪器。2.一种量度板材两面刨削成一定角度的量具。" />
+		<phrase hz="角度" py="jiǎo,dù" />
+		<phrase hz="角钢" py="jiǎo,gāng" info="断面为“∟”角形的钢材。有等边和不等边两种，工业上用途广泛。也叫三角铁。" />
+		<phrase hz="角落" py="jiǎo,luò" />
+		<phrase hz="角膜" py="jiǎo,mó" />
+		<phrase hz="角质" py="jiǎo,zhì" info="植物茎叶表皮的外层中由蜡、脂肪酸、皂、高级醇和树脂状物构成的不溶而又透水的复杂聚集体" />
+		<phrase hz="菱角" py="líng,jiǎo" info="菱的果实。有角，故称" />
+		<phrase hz="鹿角" py="lù,jiǎo" info="雄鹿的角。亦指为阻止敌军前进而设置的树枝、荆棘之类的障碍物" />
+		<phrase hz="牛角" py="niú,jiǎo" info="牛的角，也指用其做成的号角" />
+		<phrase hz="锐角" py="ruì,jiǎo" info="小于90°的角" />
+		<phrase hz="三角" py="sān,jiǎo" info="1.指外形像三角形的物品。2.三角学的简称。" />
+		<phrase hz="摔角" py="shuāi,jiǎo" info="摔交的别称。" />
+		<phrase hz="羊角" py="yáng,jiǎo" info="羊的角。借指弯曲向上的旋风" />
+		<phrase hz="仰角" py="yǎng,jiǎo" info="在竖直平面内的水平线与向上递升线段(如从观察者到目标的连线)之间的角度" />
+		<phrase hz="余角" py="yú,jiǎo" info="某一不足90的给定角或给定弧所不足那部分角或弧的值" />
+		<phrase hz="皂角" py="zào,jiǎo" info="亦作“皁角”。即皂荚。" />
+		<phrase hz="总角" py="zǒng,jiǎo" info="古代未成年男孩头顶两侧束发为髻。" />
+		<phrase hz="直角" py="zhí,jiǎo" />
+		<phrase hz="嘴角" py="zuǐ,jiǎo" />
+		<definition id="一">
+			<item id="1" text="牛、羊、鹿等头上长出的坚硬的东西。 [画角]古代军中吹的乐器。" />
+			<item id="2" text="形状像角的：菱~. 皂~." />
+			<item id="3" text="几何学上称自一点引两条射线所成的形状：直~. 锐~." />
+			<item id="4" text="（-儿）物体边沿相接的地方：桌子~儿. 墙~儿." />
+			<item id="5" text="突入海中的尖形陆地。多用于地名：成山~（在山东省荣成）." />
+			<item id="6" text="星宿名，二十八宿之一。" />
+			<item id="7" text="货币单位，一圆钱的十分之一。" />
+			<item id="8" text="量词。 1.从整块划分成角形的：一~饼. 2.旧时指公文的件数：一~公文." />
+		</definition>
+	</char>
+	<char hz="角" py="jué" multi="jiǎo">
+		<phrase hz="角斗" py="jué,dòu" info="搏斗比赛;格斗" />
+		<phrase hz="角力" py="jué,lì" info="徒手相搏，较量武力" />
+		<phrase hz="角色" py="jué,sè" info="1.如小说或戏剧中的人物。2.某一类型的人物。3.演员扮演的剧中人物。" />
+		<phrase hz="角逐" py="jué,zhú" info="较量;争逐" />
+		<phrase hz="坤角" py="kūn,jué" info="旧时称戏曲女演员。也叫坤伶。" />
+		<phrase hz="口角" py="kǒu,jué" />
+		<phrase hz="名角" py="míng,jué" info="著名的演员。" />
+		<phrase hz="配角" py="pèi,jué" info="1.演次要角色的人，也比喻做辅助工作的人。2.相互配合演出一出戏，都扮主要角色。" />
+		<phrase hz="主角" py="zhǔ,jué" info="1.影、剧的领衔主演者或处于中心地位的人物角色。2.主要当事人。亦作主脚。" />
+		<definition id="二">
+			<item id="1" text="竞争，争胜：~斗. ~逐. 口~（吵嘴）." />
+			<item id="2" text="（-儿）演员，角色：主~. 他演什么~儿？ [角色]（*脚色）1.戏曲演员按所分演人物的性别和性格等分的类型。如京剧的“生、旦、净、丑”。也叫“行当”。 2.戏剧或电影里演员所扮演的剧中人物。" />
+			<item id="3" text="古代五音“宫、商、角、徵(zhǐ)、羽”之一。" />
+			<item id="4" text="古代形状像爵的酒器。" />
+			<item id="5" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

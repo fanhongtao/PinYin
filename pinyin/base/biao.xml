@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="杓" py="biāo" multi="sháo" main="1">
-		<definition id="一">
-			<item text="古代指北斗柄部的三颗星。" />
-		</definition>
-	</char>
+	<!-- Ref:杓.xml <char hz="杓" py="biāo" multi="sháo" main="1" /> -->
 	<char hz="标" py="biāo">
 		<phrase hz="标的" py="biāo,dì" />
 		<phrase hz="标致" py="biāo,zhi" />

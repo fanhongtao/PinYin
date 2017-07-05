@@ -27,12 +27,7 @@
 	</char>
 	<char hz="邮" py="yóu" />
 	<char hz="油" py="yóu" />
-	<char hz="柚" py="yóu" multi="yòu">
-		<phrase hz="柚木" py="yóu,mù" />
-		<definition id="一">
-			<item text="[柚木]落叶乔木，叶大，对生，花白色或蓝色。木材坚硬耐久，用来造船、车等。" />
-		</definition>
-	</char>
+	<!-- Ref:柚.xml <char hz="柚" py="yóu" multi="yòu" /> -->
 	<char hz="铀" py="yóu" />
 	<char hz="蚰" py="yóu">
 		<phrase hz="蚰蜒" py="yóu,yan" />
@@ -43,28 +38,11 @@
 	<char hz="蝣" py="yóu" />
 	<char hz="輶" py="yóu" trans="1" />
 	<char hz="猷" py="yóu" />
-	<char hz="蝤" py="yóu" multi="qiú">
-		<phrase hz="蝤蛑" py="yóu,móu" />
-		<definition id="二">
-			<item text="[蝤蛑](-móu)又叫“梭子蟹”。生活在海里的一种螃蟹，甲壳略呈梭形，肉可以吃。" />
-		</definition>
-	</char>
-	<char hz="繇" py="yóu" multi="yáo,zhòu">
-		<definition id="一">
-			<item text="古书里同“由(4)1.2.”。" />
-		</definition>
-	</char>
+	<!-- Ref:蝤.xml <char hz="蝤" py="yóu" multi="qiú" /> -->
+	<!-- Ref:繇.xml <char hz="繇" py="yóu" multi="yáo,zhòu" /> -->
 	<char hz="㘥" py="yóu" />
 	<char hz="友" py="yǒu" />
-	<char hz="有" py="yǒu" multi="yòu" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="跟“无”相对。1.表所属：他~一本书. 我没~时间. 2.表存在：那里~十来个人. ~困难. ~办法. ~意见. 3.表示发生或出现：~病了. 形势~了新的发展. 4.表示估量或比较：水~一丈多深. 他~他哥哥那么高了. 5.表示大，多：~学问. ~经验. [有的是]有很多，多得很。" />
-			<item id="2" text="用在某些动词前面表示客气：~劳. ~请." />
-			<item id="3" text="跟“某”相近：~一天晚上. ~人不赞成." />
-			<item id="4" text="用在“人、时候、地方”前面，表示一部分：~人性子急，~人性子慢." />
-			<item id="5" text="古汉语词头：~夏. ~周." />
-		</definition>
-	</char>
+	<!-- Ref:有.xml <char hz="有" py="yǒu" multi="yòu" main="1" suppressLog="1" /> -->
 	<char hz="铕" py="yǒu" />
 	<char hz="酉" py="yǒu" />
 	<char hz="卣" py="yǒu" />
@@ -87,21 +65,12 @@
 	<char hz="祐" py="yòu" />
 	<char hz="幼" py="yòu" />
 	<char hz="蚴" py="yòu" />
-	<char hz="有" py="yòu" multi="yǒu">
-		<definition id="二">
-			<item text="古同“又(4)”。" />
-		</definition>
-	</char>
+	<!-- Ref:有.xml <char hz="有" py="yòu" multi="yǒu" /> -->
 	<char hz="侑" py="yòu" />
 	<char hz="囿" py="yòu" />
 	<char hz="宥" py="yòu" />
 	<char hz="狖" py="yòu" />
-	<char hz="柚" py="yòu" multi="yóu" main="1">
-		<phrase hz="柚子" py="yòu,zi" />
-		<definition id="二">
-			<item text="常绿乔木，种类很多，果实叫柚子，也叫文旦，比橘子大，多汁，味酸甜。" />
-		</definition>
-	</char>
+	<!-- Ref:柚.xml <char hz="柚" py="yòu" multi="yóu" main="1" /> -->
 	<char hz="釉" py="yòu" />
 	<char hz="鼬" py="yòu" />
 	<char hz="诱" py="yòu" />

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="诘" py="jí" multi="jié">
+		<phrase hz="诘屈" py="jí,qū" />
+		<definition id="二">
+			<item text="[诘屈]同“佶屈”。参看“佶”(jí)。" />
+		</definition>
+	</char>
+	<char hz="诘" py="jié" multi="jí" main="1" suppressLog="1">
+		<phrase hz="反诘" py="fǎn,jié" info="反问" />
+		<phrase hz="诘难" py="jié,nàn" info="诘问驳难。" />
+		<phrase hz="诘问" py="jié,wèn" info="追问;责问" />
+		<phrase hz="诘责" py="jié,zé" info="诘问谴责" />
+		<definition id="一">
+			<item text="追问：反~. 盘~." />
+		</definition>
+	</char>
+</pinyin>

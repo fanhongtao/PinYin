@@ -13,9 +13,5 @@
 	<char hz="脎" py="sà" />
 	<char hz="飒" py="sà" />
 	<char hz="萨" py="sà" />
-	<char hz="挲" py="sa" multi="sha,suō">
-		<definition id="二">
-			<item text="见“摩”字条“摩挲”(mā-)。" />
-		</definition>
-	</char>
+	<!-- Ref:挲.xml <char hz="挲" py="sa" multi="sha,suō" /> -->
 </pinyin>

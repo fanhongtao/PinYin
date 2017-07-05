@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="楂" py="chá" multi="zhā" main="1">
+		<definition id="二">
+			<item text="同“茬”。" />
+		</definition>
+	</char>
+	<char hz="楂" py="zhā" multi="chá">
+		<phrase hz="山楂" py="shān,zhā" />
+		<phrase hz="山查" py="shān,zhā" />
+		<definition id="一">
+			<item text="[山楂]（*山查）落叶乔木，开白花。果实也叫山楂，红色有白点，味酸，可以吃，也可入药。" />
+		</definition>
+	</char>
+</pinyin>

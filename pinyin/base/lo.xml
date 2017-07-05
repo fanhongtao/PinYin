@@ -1,8 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咯" py="lo" multi="gē,kǎ">
-		<definition id="二">
-			<item text="助词：那倒好~！" />
-		</definition>
-	</char>
+	<!-- Ref:咯.xml <char hz="咯" py="lo" multi="gē,kǎ" /> -->
 </pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="唉" py="āi" multi="ài" main="1">
+		<phrase hz="唉声叹气" py="āi,shēng,tàn,qì" />
+		<definition id="一">
+			<item text="叹词。1.表示答应：~，听见了. 2.表示叹息：~，一天的工夫又白费了. 3.表示招呼：~，你来一下." />
+		</definition>
+	</char>
+	<char hz="唉" py="ài" multi="āi">
+		<definition id="二">
+			<item text="叹词，表示伤感或惋惜：~，病了两个月，把工作都耽搁了." />
+		</definition>
+	</char>
+</pinyin>

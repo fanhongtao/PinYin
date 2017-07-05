@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="著" py="zhù" multi="zhuó" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="显明，显出（(连)显-、昭-）：卓~. ~名. 颇~成效." />
+			<item id="2" text="写文章，写书：~书立说." />
+			<item id="3" text="著作，写出来的文章或书：名~. 大~. 译~." />
+			<item text="[土著]1.世代居住在一定的地方。 2.世居本地的人。" />
+		</definition>
+	</char>
+	<char hz="著" py="zhuó" multi="zhù">
+		<phrase hz="执著" py="zhí,zhuó" info="即“执着”。" />
+		<phrase hz="著意" py="zhuó,yì" info="即“着意”。" />
+		<definition id="二">
+			<item text="附着，穿着。 后作“着”(zhuó)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咳" py="hāi" multi="ké">
+		<phrase hz="咳声叹气" py="hāi,shēng,tàn,qì" info="因忧伤、烦闷或痛苦而发出叹息的声音。" />
+		<definition id="二">
+			<item id="1" text="叹息：~声叹气." />
+			<item id="2" text="叹词。1.表示惋惜或后悔：~，我为什么这么糊涂！ 2.招呼人，提醒人注意：~，到这儿来." />
+		</definition>
+	</char>
+	<char hz="咳" py="ké" multi="hāi" main="1">
+		<phrase hz="百日咳" py="bǎi,rì,ké" info="一种由百日咳嗜血杆菌引起的呼吸道传染性炎症,流行于冬春季节,以五岁以下婴幼儿为多见,临床以阵发性、痉挛性咳嗽和痉咳后伴有特殊的吸气性回声为特征。" />
+		<phrase hz="干咳" py="gān,ké" info="无痰的咳嗽" />
+		<phrase hz="咳嗽" py="ké,sou" />
+		<phrase hz="咳血" py="ké,xiě" info="呼吸道出血由咳嗽咯出。痰血相杂、痰中带血丝或纯血无痰。为肺结核、支气管扩张、肺脓肿、肺癌等疾病的症状之一。中医学认为多因风热伤肺、肝火犯肺、肺阴亏损等所致。" />
+		<phrase hz="乾咳" py="qián,ké" info="1. 中医学名词，指有声无痰的咳嗽，多由阴虚火旺或燥邪在肺所引起。2. 指故意咳嗽。" />
+		<definition id="一">
+			<item text="咳嗽，呼吸器官受刺激而起一种反射作用，把吸入的气急急呼出，声带振动发声。" />
+		</definition>
+	</char>
+</pinyin>

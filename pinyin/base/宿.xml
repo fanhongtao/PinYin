@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="宿" py="sù" multi="xiǔ,xiù" main="1">
+		<phrase hz="伴宿" py="bàn,sù" info="1.陪伴住宿 2.埋葬或火化死人前一天，死者亲属守灵到天亮" />
+		<phrase hz="独宿" py="dú,sù" info="1.独眠；一人住宿。2.指男女一方无偶独处。" />
+		<phrase hz="归宿" py="guī,sù" info="人或事物的最终着落;结局" />
+		<phrase hz="名宿" py="míng,sù" info="素有名望的人。" />
+		<phrase hz="寄宿" py="jì,sù" info="1.借某处住宿 2.在学校住宿" />
+		<phrase hz="奸宿" py="jiān,sù" info="1.犹奸通。 2.指奸污。 " />
+		<phrase hz="借宿" py="jiè,sù" info="借别人的地方暂时住宿" />
+		<phrase hz="留宿" py="liú,sù" info="1.为客人提供居住场所 2.停留下来过夜" />
+		<phrase hz="露宿" py="lù,sù" info="在室外或郊野住宿" />
+		<phrase hz="旅宿" py="lǚ,sù" info="1.旅途夜宿。2.旅舍。" />
+		<phrase hz="嫖宿" py="piáo,sù" info="和妓女或女娼住宿在一起" />
+		<phrase hz="栖宿" py="qī,sù" info="停留、居住。" />
+		<phrase hz="耆宿" py="qí,sù" info="指有名望有学问的老年人" />
+		<phrase hz="膳宿" py="shàn,sù" info="吃饭和住宿" />
+		<phrase hz="硕宿" py="shuò,sù" info="有名望的前辈。" />
+		<phrase hz="宿弊" py="sù,bì" info="积久的弊病" />
+		<phrase hz="宿病" py="sù,bìng" info="旧病。" />
+		<phrase hz="宿草" py="sù,cǎo" info="1、隔年的草。2、借指坟墓。3、借指人已死多时。4、存留过夜的草料" />
+		<phrase hz="宿娼" py="sù,chāng" info="谓与妓女奸宿。" />
+		<phrase hz="宿敌" py="sù,dí" info="久己存在的敌人" />
+		<phrase hz="宿分" py="sù,fèn" info="迷信上指命中注定的缘分" />
+		<phrase hz="宿根" py="sù,gēn" info="1.草本植物莖葉雖枯死，但根存泥中，次年再出新芽的根。如芍藥、菊等。 2.佛教謂由於前世的修行，所造就的悟道潛能。" />
+		<phrase hz="宿恨" py="sù,hèn" info="旧有的仇恨" />
+		<phrase hz="宿疾" py="sù,jí" info="久治不愈的疾病，旧病。比喻旧的弊端。" />
+		<phrase hz="宿将" py="sù,jiàng" info="久经战阵的将领" />
+		<phrase hz="宿酒" py="sù,jiǔ" info="隔夜仍使人醉而不醒的酒力" />
+		<phrase hz="宿老" py="sù,lǎo" info="老人。常指德高望重的人。" />
+		<phrase hz="宿命" py="sù,mìng" info="指前世的命运。佛家认为今生的命运是由前世行为的善恶决定的" />
+		<phrase hz="宿孽" py="sù,niè" info="前世的罪孽；旧有的罪孽。" />
+		<phrase hz="宿诺" py="sù,nuò" info="1.谓未及时兑现的诺言。2.预先的许诺，诺言。" />
+		<phrase hz="宿愆" py="sù,qiān" info="1.旧时的过失。2.前世的罪过。" />
+		<phrase hz="宿耆" py="sù,qí" info="耆宿。 年高望重的人。" />
+		<phrase hz="宿儒" py="sù,rú" info="年高而博学的读书人" />
+		<phrase hz="宿世" py="sù,shì" info="前世；前生。" />
+		<phrase hz="宿望" py="sù,wàng" info="1.素负重望的人。 2.旧时的声望；素来的名望。" />
+		<phrase hz="宿习" py="sù,xí" info="1.谓长久地学习积累。2.平素所学习的；预先诵习过的。 3.佛教指前世具有的习性。 4.旧日的积习。" />
+		<phrase hz="宿嫌" py="sù,xián" info="旧日的嫌隙。" />
+		<phrase hz="宿心" py="sù,xīn" info="本来的心意；向来的心愿。" />
+		<phrase hz="宿夜" py="sù,yè" info="在外地过夜" />
+		<phrase hz="宿营" py="sù,yíng" info="1.军队在某地临时住宿 2.泛指在野外住宿" />
+		<phrase hz="宿雨" py="sù,yǔ" info="1.前夜的雨。 2.下不停的雨。" />
+		<phrase hz="宿缘" py="sù,yuán" info="1.命中早定的因緣。 2.前世的因緣。" />
+		<phrase hz="宿愿" py="sù,yuàn" info="指平素的愿望，一向怀着的愿望；佛学常见词汇。【宿愿】 过去世的誓愿。" />
+		<phrase hz="宿怨" py="sù,yuàn" info="过去的嫌怨" />
+		<phrase hz="宿约" py="sù,yuē" info="事先或旧时的约言。" />
+		<phrase hz="宿债" py="sù,zhài" info="佛教指前生欠下的罪债" />
+		<phrase hz="宿志" py="sù,zhì" info="一向怀有的志愿。" />
+		<phrase hz="宿醉" py="sù,zuì" info="醉酒过夜仍未醒" />
+		<phrase hz="同宿" py="tóng,sù" info="共同休憩住宿。" />
+		<phrase hz="投宿" py="tóu,sù" info="旅客找地方住宿" />
+		<phrase hz="歇宿" py="xiē,sù" info="住宿" />
+		<phrase hz="止宿" py="zhǐ,sù" info="停留住宿" />
+		<phrase hz="住宿" py="zhù,sù" info="留宿某处" />
+		<definition id="一">
+			<item id="1" text="住，过夜，夜里睡觉：住~. ~舍." />
+			<item id="2" text="年老的，长久从事某种工作的：~将（经历多，老练的指挥官）." />
+			<item id="3" text="平素，素有的：~愿得偿." />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="宿" py="xiǔ" multi="sù,xiù">
+		<phrase hz="半宿" py="bàn,xiǔ" info="半夜。" />
+		<phrase hz="通宿" py="tōng,xiǔ" info="整夜;整个晚上" />
+		<phrase hz="整宿" py="zhěng,xiǔ" info="整夜。" />
+		<definition id="二">
+			<item text="夜：住了一~. 谈了半~." />
+		</definition>
+	</char>
+	<char hz="宿" py="xiù" multi="sù,xiǔ">
+		<phrase hz="二十八宿" py="èr,shí,bā,xiù" info="1.指我国古代天文学家把周天黄道(太阳和月亮所经天区)的恒星分成二十八个星座。二十八宿是中国古代天文学家把天空中可见的星分成二十八组，分东南西北四方各七宿，叫二十八宿。东方苍龙七宿是角、亢、氐、房、心、尾、箕；北方玄武七宿是斗、牛、女、虚、危、室、壁；西方白虎七宿是奎、娄、胃、昴、毕、觜、参；南方朱雀七宿是井、鬼、柳、星、张、翼、轸。2.指东汉中兴二十八将。" />
+		<!-- 东方苍龙七宿 -->
+		<phrase hz="角宿" py="jiǎo,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第一宿。" />
+		<phrase hz="亢宿" py="kàng,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第二宿。有星四颗，在室女星座中。" />
+		<phrase hz="氐宿" py="dī,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第三宿。有星四颗。也称天根。" />
+		<phrase hz="房宿" py="fáng,xiù" info="星宿名。二十八宿之一，东方苍龙七宿之第四宿。有星四颗，即天蝎座的π，ρ，δ，β四星。古时以为主车马，故称之为天驷、房驷。" />
+		<phrase hz="心宿" py="xīn,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第五宿，有星三颗。其主星亦称商星、鹑火、大火、大辰。" />
+		<phrase hz="尾宿" py="wěi,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第六宿。" />
+		<phrase hz="箕宿" py="jī,xiù" info="星宿名。二十八宿之一，东方苍龙七宿的第七宿。" />
+		<!-- 南方朱雀七宿 -->
+		<phrase hz="井宿" py="jǐng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第一宿。也称“东井”、“鶉首”。有星八颗，属双子座。" />
+		<phrase hz="鬼宿" py="guǐ,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第二宿。有微弱的星四颗，皆属巨蟹座。鬼宿四星围形似柜，中有一星团，叫“积尸气”，也叫鬼星团。" />
+		<phrase hz="柳宿" py="liǔ,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第三宿。" />
+		<phrase hz="星宿" py="xīng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第四宿。" />
+		<phrase hz="张宿" py="zhāng,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第五宿。有星六颗，在长蛇座内。" />
+		<phrase hz="翼宿" py="yì,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第六宿。" />
+		<phrase hz="轸宿" py="zhěn,xiù" info="星宿名。二十八宿之一，南方朱雀七宿的第七宿。" />
+		<!-- 西方白虎七宿 -->
+		<phrase hz="奎宿" py="kuí,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第一宿。有星十六颗。因其形似胯而得名。古人多因其形亦似文字而认为它主文运和文章。" />
+		<phrase hz="娄宿" py="lóu,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第二宿。在白羊座，有β、γ、α三星。" />
+		<phrase hz="胃宿" py="wèi,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第三宿。" />
+		<phrase hz="昴宿" py="mǎo,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第四宿。又名髦头、旄头。有亮星七颗(古代以为五颗，故有昴宿之精转化为五老的传说)。传说 汉 相 萧何 为昴星精转世，后因借为颂人之辞。" />
+		<phrase hz="毕宿" py="bì,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第五宿。有八星，形狀像捕兔的網，故稱為「畢宿」。" />
+		<phrase hz="觜宿" py="zī,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第六宿。" />
+		<phrase hz="参宿" py="shēn,xiù" info="星宿名。二十八宿之一，西方白虎七宿的第七宿。即猎户座的七颗亮星。" />
+		<!-- 北方玄武七宿 -->
+		<phrase hz="斗宿" py="dǒu,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第一宿。位于人马座，共设星官10位，其中主星官斗包含6颗星：斗宿一到斗宿六，是北方玄武的蛇头和蛇身，也是著名的南斗六星，与北斗七星遥相呼应。" />
+		<phrase hz="牛宿" py="niú,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第二宿。有星六颗。又称牵牛。" />
+		<phrase hz="女宿" py="nǚ,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第三宿。有四星，属宝瓶座。星群组合状如箕，亦似“女”字，也称须女、婺女。" />
+		<phrase hz="虚宿" py="xū,xiù" info="星宿名。二十八星宿之一。北方玄武七宿的第四宿。" />
+		<phrase hz="危宿" py="wēi,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第五宿。" />
+		<phrase hz="室宿" py="shì,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第六宿。" />
+		<phrase hz="壁宿" py="bì,xiù" info="星宿名。二十八宿之一，北方玄武七宿的第七宿。有星二颗，即飞马座γ和仙女座α星。" />
+		<definition id="三">
+			<item text="我国古代的天文学家把天上某些星的集合体叫作宿：星~. 二十八~." />
+		</definition>
+	</char>
+</pinyin>

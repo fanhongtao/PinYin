@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蹶" py="jué" multi="juě" main="1">
+		<phrase hz="竭蹶" py="jié,jué" info="1.亦作“竭蹷”。颠仆倾跌，行步匆遽貌。2.尽力。3.枯竭；匮乏。" />
+		<phrase hz="一蹶不振" py="yì,jué,bù,zhèn" info="蹶：栽跟头；振：振作。一跌倒就再也爬不起来。比喻遭受一次挫折以后就再也振作不起来。" />
+		<definition id="一">
+			<item text="跌倒。 (喻)挫折，失败：一~不振." />
+		</definition>
+	</char>
+	<char hz="蹶" py="juě" multi="jué" info="Word主音">
+		<phrase hz="尥蹶子" py="liào,juě,zi" />
+		<definition id="二">
+			<item text="[尥蹶子](liào-zi)骡马等跳起来用后腿向后踢。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="厦" py="shà" multi="xià" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="大屋子：广~千万间. 高楼大~." />
+			<item id="2" text="房子后面突出的部分：前廊后~." />
+		</definition>
+	</char>
+	<char hz="厦" py="xià" multi="shà">
+		<phrase hz="噶厦" py="gá,xià" info="藏语。意为发布命令的机关。旧 西藏 地方政府。 清 乾隆 时废原封郡王，命由噶布伦四人主持噶厦，秉承驻 藏 大臣和 达赖喇嘛 的旨意，共同管理 西藏 地方行政事务。1959年 西藏 叛乱事件发生后解散。" />
+		<phrase hz="厦门" py="xià,mén" />
+		<definition id="二">
+			<item text="[厦门]地名，在福建省。" />
+		</definition>
+	</char>
+</pinyin>

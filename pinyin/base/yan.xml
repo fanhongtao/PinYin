@@ -1,25 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咽" py="yān" multi="yàn,yè" main="1">
-		<phrase hz="咽喉" py="yān,hóu" info="1.喉咙，包括咽、食管上部、喉及气管的通向胃和肺的通道 2.颈的前方上部紧接面颊的部分;上咽头 3.比喻形势险要的交通孔道" />
-		<phrase hz="咽头" py="yān,tóu" info="咽的俗称" />
-		<phrase hz="咽炎" py="yān,yán" info="咽的炎症" />
-		<definition id="一">
-			<item text="咽头，食物和气体共同通道，位于鼻腔、口腔和喉腔的后方，通常混称咽喉。" />
-		</definition>
-	</char>
+	<!-- Ref:咽.xml <char hz="咽" py="yān" multi="yàn,yè" main="1" /> -->
 	<char hz="胭" py="yān">
 		<phrase hz="胭脂" py="yān,zhi" />
 	</char>
 	<char hz="烟" py="yān" />
 	<char hz="恹" py="yān" />
-	<char hz="殷" py="yān" multi="yīn">
-		<phrase hz="殷红" py="yān,hóng" />
-		<phrase hz="朱殷" py="zhū,yān" />
-		<definition id="二">
-			<item text="黑红色：~红. 朱~." />
-		</definition>
-	</char>
+	<!-- Ref:殷.xml <char hz="殷" py="yān" multi="yīn" /> -->
 	<char hz="焉" py="yān" />
 	<char hz="鄢" py="yān" />
 	<char hz="嫣" py="yān" />
@@ -34,44 +21,13 @@
 	</char>
 	<char hz="阉" py="yān" />
 	<char hz="淹" py="yān" />
-	<char hz="腌" py="yān" multi="ā" main="1">
-		<phrase hz="腌菜" py="yān,cài" />
-		<phrase hz="腌肉" py="yān,ròu" />
-		<phrase hz="腌咸菜" py="yān,xián,cài" />
-		<phrase hz="腌制" py="yān,zhì" />
-		<phrase hz="腌渍" py="yān,zì" />
-		<definition id="一">
-			<item text="用盐等浸渍食品：~肉. ~咸菜." />
-		</definition>
-	</char>
-	<char hz="湮" py="yān" multi="yīn" main="1">
-		<phrase hz="湮灭" py="yān,miè" info="埋没;磨灭" />
-		<phrase hz="湮没" py="yān,mò" info="清除，化为乌有" />
-		<definition id="一">
-			<item text="埋没（(连)-没）：有的古迹已经~~没了." />
-		</definition>
-	</char>
-	<char hz="燕" py="yān" multi="yàn">
-		<phrase hz="燕京" py="yān,jīng" info="1. 北京市 的别称。 因市区在 春秋 战国 时为 燕国 国都而得名。 2.山名。即 山西省 管涔山" />
-		<phrase hz="燕山" py="yān,shān" info="中国河北省北部山脉。西起八达岭,东到山海关,主峰雾灵山2116米。著名的明朝万里长城在河北省、北京市部分即沿其山脊而筑" />
-		<phrase hz="燕赵" py="yān,zhào" info="自定义词。" />
-		<definition id="二">
-			<item id="1" text="周代诸侯国名，在今河北省北部和辽宁省南部。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:腌.xml <char hz="腌" py="yān" multi="ā" main="1" /> -->
+	<!-- Ref:湮.xml <char hz="湮" py="yān" multi="yīn" main="1" /> -->
+	<!-- Ref:燕.xml <char hz="燕" py="yān" multi="yàn" /> -->
 	<char hz="延" py="yán">
 		<phrase hz="蔓延" py="màn,yán" />
 	</char>
-	<char hz="埏" py="yán" multi="shān">
-		<phrase hz="八埏" py="bā,yán" info="八方邊遠之地。" />
-		<phrase hz="垓埏" py="gāi,yán" info="天地的邊際，指至遠之地。" />
-		<phrase hz="埏隧" py="yán,suì" info="墓道。" />
-		<definition id="二">
-			<item id="1" text="大地的边沿。" />
-			<item id="2" text="墓道。" />
-		</definition>
-	</char>
+	<!-- Ref:埏.xml <char hz="埏" py="yán" multi="shān" /> -->
 	<char hz="蜒" py="yán" />
 	<char hz="筵" py="yán" />
 	<char hz="闫" py="yán" />
@@ -98,12 +54,7 @@
 	<char hz="衍" py="yǎn" />
 	<char hz="弇" py="yǎn" />
 	<char hz="渰" py="yǎn" />
-	<char hz="剡" py="yǎn" multi="shàn" main="1">
-		<definition id="一" text="〈古〉">
-			<item id="1" text="尖，锐利。" />
-			<item id="2" text="削，刮。" />
-		</definition>
-	</char>
+	<!-- Ref:剡.xml <char hz="剡" py="yǎn" multi="shàn" main="1" /> -->
 	<char hz="琰" py="yǎn" />
 	<char hz="扊" py="yǎn">
 		<phrase hz="扊扅" py="yǎn,yí" />
@@ -126,15 +77,7 @@
 	<char hz="餍" py="yàn" />
 	<char hz="觃" py="yàn" />
 	<char hz="砚" py="yàn" />
-	<char hz="咽" py="yàn" multi="yān,yè">
-		<phrase hz="狼吞虎咽" py="láng,tūn,hǔ,yàn" />
-		<phrase hz="吞咽" py="tūn,yàn" info="吞食;不加咀嚼而咽下" />
-		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
-		<phrase hz="咽气" py="yàn,qì" info="指人死断气" />
-		<definition id="二">
-			<item text="使嘴里的食物等通过咽喉到食道里去：细嚼慢~. 狼吞虎~. [咽气]人死时断气。" />
-		</definition>
-	</char>
+	<!-- Ref:咽.xml <char hz="咽" py="yàn" multi="yān,yè" /> -->
 	<char hz="唁" py="yàn" />
 	<char hz="彦" py="yàn" />
 	<char hz="谚" py="yàn" />
@@ -161,29 +104,6 @@
 	<char hz="焱" py="yàn" />
 	<char hz="酽" py="yàn" />
 	<char hz="谳" py="yàn" />
-	<char hz="燕" py="yàn" multi="yān" main="1">
-		<phrase hz="伯劳飞燕" py="bó,láo,fēi,yàn" info="伯勞，伯勞鳥。伯勞飛燕用以比喻人的別離。" />
-		<phrase hz="池鱼堂燕" py="chí,yú,táng,yàn" info="池中之魚，堂上之燕。比喻被禁錮其中而受累遭殃。" />
-		<phrase hz="海燕" py="hǎi,yàn" info="构成鹱科(Procellariidae)和海燕科(Hydrobatidae)的许多海鸟之一;尤指各种小的到中等大小长翅鸟之一，它远飞离陆地，觅食于海面游泳的动物和船弃之垃圾，繁殖于洞穴内或通常在岛上的岩石和峭壁裂缝中，羽毛主要为暗色，但有时近腰处有白色" />
-		<phrase hz="家燕" py="jiā,yàn" info="燕的一种。身体小，背部羽毛黑色，有光泽，腹部白色，颈部有深紫色圆斑，多在屋檐下筑窝。通称燕子。" />
-		<phrase hz="金丝燕" py="jīn,sī,yàn" info="動物名。鳥綱燕雀目雨燕科。形體似燕，但腳較短而翼較長。嘴尖短，呈深褐色，背部褐色，具有金絲般光澤。常以海藻和口津築巢於懸崖斷壁上，巢質特殊，呈白色細條狀，易吸水而軟化脹大。可作為食品，即一般所稱的燕窩。" />
-		<phrase hz="寝燕" py="qǐn,yàn" info="亦作“寝宴”：睡卧与休息。" />
-		<phrase hz="燕尔" py="yàn,ěr" info="新婚夫妻亲睦和美的样子" />
-		<phrase hz="燕好" py="yàn,hǎo" info="1.亲密和好，特指男女相亲相爱 2.设宴款待并赠与礼品" />
-		<phrase hz="燕鸻" py="yàn,héng" info="一种鸟，形状像燕而大，两翼大部灰褐色，颈的后部有半环形的棕色斑纹，尾纯白色，稍分叉。 通称土燕" />
-		<phrase hz="燕居" py="yàn,jū" info="1.退朝而处；闲居。2.闲居之所。" />
-		<phrase hz="燕乐" py="yàn,lè" info="1.安乐;饮宴欢乐 2.古代指宫廷宴会时所用的音乐。也作宴乐" />
-		<phrase hz="燕雀" py="yàn,què" info="1.一种颜色鲜明的雀(Fringillamontifringilla)，繁殖在亚洲和欧洲北部，冬季向南迁徙，常作为笼鸟 2.燕和雀，比喻微贱或器量志向小的人" />
-		<phrase hz="燕窝" py="yàn,wō" info="南亚及其邻近岛屿上的几种小雨燕(金丝燕属 Collocalia)的巢，主要由燕子的唾液腺的粘性分泌物经干燥而成，可用来作燕窝汤等" />
-		<phrase hz="燕子" py="yàn,zi" info="家燕和雨燕的通称" />
-		<phrase hz="银燕" py="yín,yàn" info="即飞机(含喜爱的意思)" />
-		<phrase hz="莺燕" py="yīng,yàn" info="1.鶯與燕。皆春鳥，故以並稱。2.比喻妓妾。" />
-		<phrase hz="莺莺燕燕" py="yīng,yīng,yàn,yàn" info="1.代指春天景物。2.形容姬妾或妓女眾多。" />
-		<phrase hz="雨燕" py="yǔ,yàn" info="外表很像燕子，具有很长而窄的翅膀，脚爪很弱，喙短但喙裂较宽，大部分时间在飞翔。当飞落时往往附着在垂直表面上，捕捉飞行中的昆虫为食" />
-		<definition id="一">
-			<item id="1" text="（-子）鸟名。翅膀很长，尾巴像张开的剪刀，背部黑色，肚皮白色，常在人家屋内或屋檐下用泥做巢居住，捕食昆虫。是候鸟。" />
-			<item id="2" text="古书里有时用作“宴”：~居. ~好. ~乐." />
-		</definition>
-	</char>
+	<!-- Ref:燕.xml <char hz="燕" py="yàn" multi="yān" main="1" /> -->
 	<char hz="" py="yàn" />
 </pinyin>

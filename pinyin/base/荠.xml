@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="荠" py="jì" multi="qí" main="1">
+		<phrase hz="甘之如荠" py="gān,zhī,rú,jì" info="只要心甘情願，即使有如荼之苦，亦覺得像薺菜般甘甜。" />
+		<phrase hz="甘心如荠" py="gān,xīn,rú,jì" info="薺，甜菜。荼菜雖苦，但是和內心的痛苦相比，覺得就像薺菜一樣甜美。" />
+		<phrase hz="荠菜" py="jì,cài" />
+		<definition id="一">
+			<item text="一年生草本植物，花白色。茎叶嫩时可以吃。" />
+		</definition>
+	</char>
+	<char hz="荠" py="qi" multi="jì" info="Word主音；Word显示为qí">
+		<phrase hz="荸荠" py="bí,qi" />
+		<definition id="二">
+			<item text="见“荸”字条“荸荠”(bí-)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="镐" py="gǎo" multi="hào" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="刨土的工具。" />
+		</definition>
+	</char>
+	<char hz="镐" py="hào" multi="gǎo">
+		<phrase hz="镐京" py="hào,jīng" info="古地名。位於今陝西省長安縣西南，灃河東岸，簡稱為「鎬」。為周武王建都的地方。" />
+		<definition id="二">
+			<item text="西周的国都，在今陕西长安西北。" />
+		</definition>
+	</char>
+</pinyin>

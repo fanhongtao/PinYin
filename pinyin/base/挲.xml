@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挲" py="sa" multi="sha,suō">
+		<definition id="二">
+			<item text="见“摩”字条“摩挲”(mā-)。" />
+		</definition>
+	</char>
+	<char hz="挲" py="sha" multi="sa,suō">
+		<phrase hz="挓挲" py="zhā,sha" />
+		<definition id="三">
+			<item text="见“挓”字条“挓挲”(zhā-)。" />
+		</definition>
+	</char>
+	<char hz="挲" py="suō" multi="sa,sha" main="1">
+		<definition id="一">
+			<item text="见“摩”字条“摩挲”(mó-)。" />
+		</definition>
+	</char>
+</pinyin>

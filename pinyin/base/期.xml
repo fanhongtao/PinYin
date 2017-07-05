@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="期" py="jī" multi="qī">
+		<phrase hz="期年" py="jī,nián" />
+		<phrase hz="期月" py="jī,yuè" />
+		<definition id="二">
+			<item text="〈古〉一周年，一整月：~年. ~月." />
+		</definition>
+	</char>
+	<char hz="期" py="qī" multi="jī" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="规定的时间或一段时间：定~举行. 分~付款. 过~作废. 如~完成任务. (引)刊物出版的号数。" />
+			<item id="2" text="约定时日：不~而遇. [期货交易]一种非现金、非现货的买卖。双方按约定的条件、时间交割货物、外汇或有价证券等。" />
+			<item id="3" text="盼望，希望（(连)-望）：决不辜负大家的~望. ~待. ~盼. 以~得到良好的效果." />
+		</definition>
+	</char>
+</pinyin>

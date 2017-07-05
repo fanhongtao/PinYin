@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="拆" py="chāi" multi="cā" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="把合在一起的弄开，卸下来：~信. ~卸机器." />
-		</definition>
-	</char>
+	<!-- Ref:拆.xml <char hz="拆" py="chāi" multi="cā" main="1" suppressLog="1" /> -->
 	<char hz="钗" py="chāi" />
 	<!-- Ref:差.xml <char hz="差" py="chāi" multi="chā,chà,cī" /> -->
 	<char hz="侪" py="chái" />
@@ -13,10 +9,5 @@
 	<char hz="茝" py="chǎi" />
 	<char hz="䜺" py="chǎi" />
 	<char hz="虿" py="chài" />
-	<char hz="瘥" py="chài" multi="cuó" main="1">
-		<phrase hz="久病初瘥" py="jiǔ,bìng,chū,chài" />
-		<definition id="一">
-			<item text="病愈：久病初~." />
-		</definition>
-	</char>
+	<!-- Ref:瘥.xml <char hz="瘥" py="chài" multi="cuó" main="1" /> -->
 </pinyin>

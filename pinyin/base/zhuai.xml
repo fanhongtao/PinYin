@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="拽" py="zhuāi" multi="yè,zhuài">
-		<definition id="二">
-			<item id="1" text="用力扔：~了吧，没用了. 把球~过来." />
-			<item id="2" text="〈方〉胳膊有毛病，动转不灵。" />
-		</definition>
-	</char>
+	<!-- Ref:拽.xml <char hz="拽" py="zhuāi" multi="yè,zhuài" /> -->
 	<char hz="跩" py="zhuǎi" />
-	<char hz="拽" py="zhuài" multi="yè,zhuāi" main="1">
-		<phrase hz="生拉硬拽" py="shēng,lā,yìng,zhuài" info="1.按主观愿望办事而不管别人的意愿或客观的条件是否允许 2.比喻牵强附会" />
-		<phrase hz="拽不动" py="zhuài,bú,dòng" info="自定义词。" />
-		<phrase hz="拽住" py="zhuài,zhù" info="自定义词。" />
-		<definition id="一">
-			<item text="拉，拖，牵引：~不动. 把门~上. 生拉硬~." />
-		</definition>
-	</char>
+	<!-- Ref:拽.xml <char hz="拽" py="zhuài" multi="yè,zhuāi" main="1" /> -->
 </pinyin>

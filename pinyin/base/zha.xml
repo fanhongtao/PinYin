@@ -14,19 +14,8 @@
 	<char hz="揸" py="zhā" />
 	<!-- Ref:喳.xml <char hz="喳" py="zhā" multi="chā" main="1" /> -->
 	<char hz="渣" py="zhā" />
-	<char hz="楂" py="zhā" multi="chá">
-		<phrase hz="山楂" py="shān,zhā" />
-		<phrase hz="山查" py="shān,zhā" />
-		<definition id="一">
-			<item text="[山楂]（*山查）落叶乔木，开白花。果实也叫山楂，红色有白点，味酸，可以吃，也可入药。" />
-		</definition>
-	</char>
-	<char hz="奓" py="zhā" multi="zhà">
-		<phrase hz="奓山" py="zhā,shān" />
-		<definition id="二">
-			<item text="奓山，地名，在湖北省武汉。" />
-		</definition>
-	</char>
+	<!-- Ref:楂.xml <char hz="楂" py="zhā" multi="chá" /> -->
+	<!-- Ref:奓.xml <char hz="奓" py="zhā" multi="zhà" /> -->
 	<char hz="齇" py="zhā" />
 	<!-- Ref:扎.xml <char hz="扎" py="zhá" multi="zā,zhā" /> -->
 	<char hz="札" py="zhá" />
@@ -34,12 +23,7 @@
 	<char hz="闸" py="zhá" />
 	<!-- Ref:炸.xml <char hz="炸" py="zhá" multi="zhà" /> -->
 	<char hz="铡" py="zhá" />
-	<char hz="喋" py="zhá" multi="dié">
-		<phrase hz="唼喋" py="shà,zhá" info="形容鱼或水鸟吃食的声音,也指鱼或水鸟吃食" />
-		<definition id="二">
-			<item text="见“唼”字条“唼喋”(shà-)" />
-		</definition>
-	</char>
+	<!-- Ref:喋.xml <char hz="喋" py="zhá" multi="dié" /> -->
 	<char hz="牐" py="zhá" />
 	<char hz="拃" py="zhǎ" />
 	<char hz="苲" py="zhǎ" />
@@ -49,12 +33,7 @@
 	<char hz="鲝" py="zhǎ" />
 	<char hz="乍" py="zhà" />
 	<char hz="诈" py="zhà" />
-	<char hz="柞" py="zhà" multi="zuò">
-		<phrase hz="柞水" py="zhà,shuǐ" />
-		<definition id="二">
-			<item text="[柞水]地名，在陕西省。" />
-		</definition>
-	</char>
+	<!-- Ref:柞.xml <char hz="柞" py="zhà" multi="zuò" /> -->
 	<!-- Ref:炸.xml <char hz="炸" py="zhà" multi="zhá" main="1" /> -->
 	<char hz="痄" py="zhà">
 		<phrase hz="痄腮" py="zhà,sai" />
@@ -63,17 +42,8 @@
 		<phrase hz="蚱蜢" py="zhà,měng" />
 	</char>
 	<char hz="榨" py="zhà" />
-	<char hz="栅" py="zhà" multi="shān" main="1" suppressLog="1">
-		<phrase hz="栅栏" py="zhà,lán" />
-		<definition id="一">
-			<item text="栅栏，用竹、木、铁条等做成的阻拦物：篱笆~. 铁~栏." />
-		</definition>
-	</char>
-	<char hz="奓" py="zhà" multi="zhā" main="1">
-		<definition id="一">
-			<item text="张开：头发~着. 这件衣服下面太~了." />
-		</definition>
-	</char>
+	<!-- Ref:栅.xml <char hz="栅" py="zhà" multi="shān" main="1" suppressLog="1" /> -->
+	<!-- Ref:奓.xml <char hz="奓" py="zhà" multi="zhā" main="1" /> -->
 	<char hz="䃎" py="zhà" />
 	<char hz="咤" py="zhà">
 		<definition>
@@ -83,10 +53,6 @@
 	<!-- Ref:吒.xml <char hz="吒" py="zhà" multi="zhā" /> -->
 	<char hz="䖳" py="zhà" />
 	<char hz="溠" py="zhà" />
-	<char hz="蜡" py="zhà" multi="là">
-		<definition id="二">
-			<item text="古代年终的一种祭祀名。" />
-		</definition>
-	</char>
+	<!-- Ref:蜡.xml <char hz="蜡" py="zhà" multi="là" /> -->
 	<char hz="霅" py="zhà" />
 </pinyin>

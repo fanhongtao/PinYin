@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="荑" py="tí" multi="yí">
+		<phrase hz="丹荑" py="dān,tí" info="一種菌類。古人以為芝是靈草，吃了有益健康。" />
+		<phrase hz="柔荑" py="róu,tí" info="植物初生的叶芽。 旧时多用来比喻女子柔嫩洁白的手，也借指女子的手" />
+		<definition id="二">
+			<item id="1" text="草木初生的叶芽。" />
+			<item id="2" text="稗子一类的草。" />
+		</definition>
+	</char>
+	<char hz="荑" py="yí" multi="tí" main="1">
+		<definition id="一">
+			<item text="割去田地里的野草。" />
+		</definition>
+	</char>
+</pinyin>

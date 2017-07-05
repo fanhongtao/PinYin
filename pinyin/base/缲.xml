@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="缲" py="qiāo" multi="sāo" main="1">
+		<phrase hz="缲边" py="qiāo,biān" />
+		<definition id="一">
+			<item text="做衣服边儿或带子时藏着针脚的缝法：~一根带子. ~边." />
+		</definition>
+	</char>
+	<char hz="缲" py="sāo" multi="qiāo">
+		<definition id="二">
+			<item text="同“缫”。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嘲" py="cháo" multi="zhāo" main="1" suppressLog="1">
+		<phrase hz="嘲讽" py="cháo,fěng" />
+		<phrase hz="嘲弄" py="cháo,nòng" />
+		<phrase hz="嘲笑" py="cháo,xiào" />
+		<phrase hz="讥嘲" py="jī,cháo" />
+		<phrase hz="解嘲" py="jiě,cháo" />
+		<phrase hz="自嘲" py="zì,cháo" />
+		<definition id="一">
+			<item text="讥笑，取笑（(连)-笑、-讽）：冷~热讽." />
+		</definition>
+	</char>
+	<char hz="嘲" py="zhāo" multi="cháo">
+		<phrase hz="嘲哳" py="zhāo,zhā" />
+		<definition id="二">
+			<item text="[嘲哳](-zhā)同“啁哳”。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="悄" py="qiāo" multi="qiǎo" info="Word主音">
+		<phrase hz="静悄" py="jìng,qiāo" />
+		<phrase hz="静悄悄" py="jìng,qiāo,qiāo" />
+		<phrase hz="悄悄" py="qiāo,qiāo" />
+		<definition id="二">
+			<item text="[悄悄]没有声音或声音很低：静~~. 部队~~地出动." />
+		</definition>
+	</char>
+	<char hz="悄" py="qiǎo" multi="qiāo" main="1">
+		<phrase hz="悄寂" py="qiǎo,jì" info="寂静无声" />
+		<phrase hz="悄然" py="qiǎo,rán" info="1.忧愁地 2.寂静地" />
+		<phrase hz="悄声" py="qiǎo,shēng" info="低声" />
+		<phrase hz="悄然无声" py="qiǎo,rán,wú,shēng" />
+		<phrase hz="忧心悄悄" py="yōu,xīn,qiǎo,qiǎo" />
+		<definition id="一">
+			<item id="1" text="忧愁（叠）：忧心~~." />
+			<item id="2" text="寂静无声或声音很低：~然无声. 低声~语." />
+		</definition>
+	</char>
+</pinyin>

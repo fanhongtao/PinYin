@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="券" py="quàn" multi="xuàn" main="1" suppressLog="1">
+		<phrase hz="奖券" py="jiǎng,quàn" />
+		<phrase hz="胜券" py="shèng,quàn" info="指取胜的可靠性" />
+		<phrase hz="债券" py="zhài,quàn" info="政府或公司发行的一种票券，到期可兑换现金，有利息。 政府发行的债券称公债券" />
+		<phrase hz="证券" py="zhèng,quàn" info="表明资产所有权或债权关系的一种凭证。 可作为交易之标的。如股票、政府公债、公司债券等皆是" />
+		<definition id="一">
+			<item id="1" text="票据或作凭证的纸片：公债~. 入场~." />
+			<item id="2" text="“拱券”的“券”(xuàn)的又音。" />
+		</definition>
+	</char>
+	<char hz="券" py="xuàn" multi="quàn">
+		<phrase hz="拱券" py="gǒng,xuàn" />
+		<definition id="二">
+			<item text="拱券，门窗、桥梁等建筑成弧形的部分。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="褚" py="chǔ" multi="zhǔ" main="1">
+		<phrase hz="褚师" py="chǔ,shī" info="1.古代管理市场的官吏。2.复姓。" />
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="褚" py="zhǔ" multi="chǔ">
+		<phrase hz="褚小怀大" py="zhǔ,xiǎo,huái,dà" info="用小口袋装大东西。比喻能力不能胜任。" />
+		<phrase hz="褚衣" py="zhǔ,yī" info="绵衣。" />
+		<definition id="一">
+			<item id="1" text="在衣服里铺丝绵。" />
+			<item id="2" text="囊，口袋。" />
+		</definition>
+	</char>
+</pinyin>

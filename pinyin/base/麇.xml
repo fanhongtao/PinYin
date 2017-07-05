@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="麇" py="jūn" multi="qún">
+		<definition id="一">
+			<item text="古书里指獐子。" />
+		</definition>
+	</char>
+	<char hz="麇" py="qún" multi="jūn" main="1">
+		<phrase hz="麇集" py="qún,jí" />
+		<definition id="二">
+			<item text="成群。 [麇集]许多人或物聚集在一起。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="莎" py="shā" multi="suō" main="1" suppressLog="1">
+		<definition id="二">
+			<item text="多用于人名、地名。 [莎车]地名，在新疆维吾尔自治区。" />
+		</definition>
+	</char>
+	<char hz="莎" py="suō" multi="shā">
+		<phrase hz="莎草" py="suō,cǎo" />
+		<definition id="一">
+			<item text="莎草，多年生草本植物，茎三棱形，开黄褐色小花。地下的块茎叫香附子，可入药。" />
+		</definition>
+	</char>
+</pinyin>

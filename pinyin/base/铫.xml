@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="铫" py="diào" multi="yáo" info="Word主音">
+		<phrase hz="铫子" py="diào,zi" />
+		<phrase hz="铫儿" py="diào,er" />
+		<phrase hz="沙铫" py="shā,diào" />
+		<definition id="一">
+			<item text="（-子、-儿）煮开水熬东西用的器具：药~儿. 沙~儿." />
+		</definition>
+	</char>
+	<char hz="铫" py="yáo" multi="diào" main="1">
+		<definition id="二">
+			<item id="1" text="古代一种大锄。" />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蛤" py="gé" multi="há" main="1" suppressLog="1">
+		<phrase hz="蛤蜊" py="gé,li" />
+		<phrase hz="蛤蚧" py="gé,jiè" />
+		<definition id="一">
+			<item text="蛤蜊(li)，软体动物，生活在近海泥沙中。体外有双壳，颜色美丽。肉可吃。" />
+			<item text="[蛤蚧](-jiè)爬行动物，即大壁虎，头大，尾部灰色，有红色斑点。中医用作强壮剂。" />
+		</definition>
+	</char>
+	<char hz="蛤" py="há" multi="gé" info="Word主音">
+		<phrase hz="蛤蟆" py="há,ma" />
+		<definition id="二">
+			<item text="[蛤蟆](-ma)青蛙和癞蛤蟆的统称。" />
+		</definition>
+	</char>
+</pinyin>

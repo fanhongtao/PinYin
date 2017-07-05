@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="撮" py="cuō" multi="zuǒ" main="1" suppressLog="1">
+		<phrase hz="撮合" py="cuō,hé" info="给双方拉关系。" />
+		<phrase hz="撮记" py="cuō,jì" info="撮要记述。" />
+		<phrase hz="撮口呼" py="cuō,kǒu,hū" info="ü韵母和拿ü开关的韵母叫作“撮口呼”。" />
+		<phrase hz="撮录" py="cuō,lù" info="选择抄录" />
+		<phrase hz="撮弄" py="cuō,nòng" info="1.玩弄；捉弄。2.教唆；煽动。" />
+		<phrase hz="撮取" py="cuō,qǔ" info="1.摘取。2.摄取。" />
+		<phrase hz="撮土焚香" py="cuō,tǔ,fén,xiāng" info="撮土：用手把土聚拢成堆。指旧时迷信的人在野外撮土代替香炉，烧香敬神。" />
+		<phrase hz="撮要" py="cuō,yào" info="摘取要点。" />
+		<phrase hz="撮药" py="cuō,yào" info="抓药、配药。" />
+		<definition id="一">
+			<item id="1" text="聚起，现多指把聚拢的东西用簸箕等物铲起：~成一堆. 把土~起来. [撮合]给双方拉关系。 [撮口呼]ü韵母和拿ü开关的韵母叫作“撮口呼”。" />
+			<item id="2" text="取，摘取：~要（摘取要点）." />
+			<item id="3" text="市制容量单位，一升的千分之一。" />
+			<item id="4" text="（-儿）量词：一~米. 一~儿土." />
+		</definition>
+	</char>
+	<char hz="撮" py="zuǒ" multi="cuō">
+		<definition id="二">
+			<item text="（-子、-儿）量词，用于成丛的毛发：剪下一~子头发." />
+		</definition>
+	</char>
+</pinyin>

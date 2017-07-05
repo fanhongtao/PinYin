@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="欸" py="ǎi" multi="ēi,éi,ěi,èi">
+		<phrase hz="欸乃" py="ǎi,nǎi" />
+		<definition id="五">
+			<item text="[欸乃]（-nǎi）拟声词，摇橹声：~~一声山水绿." />
+		</definition>
+	</char>
+	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1">
+		<definition id="一">
+			<item text="(又)叹词，表示招呼：~，你快来！" />
+		</definition>
+	</char>
+	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi">
+		<definition id="二">
+			<item text="(又)叹词，表示诧异：~，怎么回事！" />
+		</definition>
+	</char>
+	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi">
+		<definition id="三">
+			<item text="(又)叹词，表示不以为然：~，你这话可不对呀！" />
+		</definition>
+	</char>
+	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi">
+		<definition id="四">
+			<item text="(又)叹词，表示应声或同意：~，我这就来！ ~，就这么办！" />
+		</definition>
+	</char>
+</pinyin>

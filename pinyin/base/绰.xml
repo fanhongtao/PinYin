@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="绰" py="chāo" multi="chuò" info="Word主音">
+		<phrase hz="绰起" py="chāo,qǐ" />
+		<definition id="二">
+			<item id="1" text="同“焯(二)”" />
+			<item id="2" text="匆忙地抓起：~起一根棍子." />
+		</definition>
+	</char>
+	<char hz="绰" py="chuò" multi="chāo" main="1">
+		<phrase hz="绰绰有余" py="chuò,chuò,yǒu,yú" />
+		<phrase hz="绰号" py="chuò,hào" />
+		<phrase hz="绰有余裕" py="chuò,yǒu,yú,yù" />
+		<phrase hz="绰约" py="chuò,yuē" />
+		<phrase hz="宽绰" py="kuān,chuo" />
+		<phrase hz="阔绰" py="kuò,chuò" />
+		<phrase hz="柔情绰态" py="róu,qíng,chuò,tài" />
+		<phrase hz="影影绰绰" py="yǐng,yǐng,chuò,chuò" />
+		<definition id="一">
+			<item text="宽裕：~~有余. 这间屋子很宽~(chuo)." />
+			<item text="[绰号]外号。" />
+		</definition>
+	</char>
+</pinyin>

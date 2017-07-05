@@ -3,20 +3,10 @@
 	<char hz="钊" py="zhāo" />
 	<char hz="招" py="zhāo" />
 	<char hz="昭" py="zhāo" />
-	<char hz="啁" py="zhāo" multi="zhōu">
-		<phrase hz="啁哳" py="zhāo,zhā" />
-		<definition id="二">
-			<item text="[啁哳][嘲哳](-zhā)形容声音杂乱细碎。" />
-		</definition>
-	</char>
+	<!-- Ref:啁.xml <char hz="啁" py="zhāo" multi="zhōu" /> -->
 	<!-- Ref:着.xml <char hz="着" py="zhāo" multi="zháo,zhe,zhuó" /> -->
 	<!-- Ref:朝.xml <char hz="朝" py="zhāo" multi="cháo" /> -->
-	<char hz="嘲" py="zhāo" multi="cháo">
-		<phrase hz="嘲哳" py="zhāo,zhā" />
-		<definition id="二">
-			<item text="[嘲哳](-zhā)同“啁哳”。" />
-		</definition>
-	</char>
+	<!-- Ref:嘲.xml <char hz="嘲" py="zhāo" multi="cháo" /> -->
 	<!-- Ref:着.xml <char hz="着" py="zháo" multi="zhāo,zhe,zhuó" /> -->
 	<!-- Ref:爪.xml <char hz="爪" py="zhǎo" multi="zhuǎ" main="1" /> -->
 	<char hz="找" py="zhǎo" />

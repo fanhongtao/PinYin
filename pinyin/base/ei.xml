@@ -1,46 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- ei -->
-	<char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī">
-		<definition id="一">
-			<item text="(又)同“欸(一)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1">
-		<definition id="一">
-			<item text="(又)叹词，表示招呼：~，你快来！" />
-		</definition>
-	</char>
-	<char hz="诶" py="éi" multi="ēi,ěi,èi">
-		<definition id="二">
-			<item text="(又)同“欸(二)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi">
-		<definition id="二">
-			<item text="(又)叹词，表示诧异：~，怎么回事！" />
-		</definition>
-	</char>
-	<char hz="诶" py="ěi" multi="ēi,éi,èi">
-		<definition id="三">
-			<item text="(又)同“欸(三)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi">
-		<definition id="三">
-			<item text="(又)叹词，表示不以为然：~，你这话可不对呀！" />
-		</definition>
-	</char>
-	<char hz="诶" py="èi" multi="ēi,éi,ěi">
-		<definition id="四">
-			<item text="(又)同“欸(四)”。" />
-		</definition>
-	</char>
-	<char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi">
-		<definition id="四">
-			<item text="(又)叹词，表示应声或同意：~，我这就来！ ~，就这么办！" />
-		</definition>
-	</char>
+	<!-- Ref:诶.xml <char hz="诶" py="ēi" multi="éi,ěi,èi" main="1" info="Word显示为xī" /> -->
+	<!-- Ref:欸.xml <char hz="欸" py="ēi" multi="ǎi,éi,ěi,èi" main="1" /> -->
+	<!-- Ref:诶.xml <char hz="诶" py="éi" multi="ēi,ěi,èi" /> -->
+	<!-- Ref:欸.xml <char hz="欸" py="éi" multi="ǎi,ēi,ěi,èi" /> -->
+	<!-- Ref:诶.xml <char hz="诶" py="ěi" multi="ēi,éi,èi" /> -->
+	<!-- Ref:欸.xml <char hz="欸" py="ěi" multi="ǎi,ēi,éi,èi" /> -->
+	<!-- Ref:诶.xml <char hz="诶" py="èi" multi="ēi,éi,ěi" /> -->
+	<!-- Ref:欸.xml <char hz="欸" py="èi" multi="ǎi,ēi,éi,ěi" /> -->
 	<!-- ei -->
 	<char hz="㗒" py="éi" info="《新华字典》上写的是“éi”，但由于“ei”被用作“Ê”的拼音输入，所以网络上显示拼音是“ài”" />
 </pinyin>

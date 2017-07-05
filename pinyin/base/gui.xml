@@ -8,12 +8,7 @@
 	<char hz="闺" py="guī" />
 	<char hz="硅" py="guī" />
 	<char hz="鲑" py="guī" />
-	<char hz="龟" py="guī" multi="qiū,jūn" main="1" suppressLog="1">
-		<phrase hz="蓍龟" py="shī,guī" />
-		<definition id="一">
-			<item text="爬行动物，种类很多。腹背都有硬甲，头尾和脚能缩入甲中，能耐饥渴，寿命很长。龟甲也叫龟板，可以入药。古人用龟甲占卜（迷信）：~卜. 蓍(shī)龟. [龟鉴][龟镜]用龟卜，用镜照，比喻可资借鉴的事例或道理。" />
-		</definition>
-	</char>
+	<!-- Ref:龟.xml <char hz="龟" py="guī" multi="qiū,jūn" main="1" suppressLog="1" /> -->
 	<char hz="妫" py="guī" />
 	<char hz="规" py="guī">
 		<phrase hz="规矩" py="guī,ju" />
@@ -35,11 +30,7 @@
 	<char hz="晷" py="guǐ" />
 	<char hz="簋" py="guǐ" />
 	<!-- Ref:柜.xml <char hz="柜" py="guì" multi="jǔ" main="1" suppressLog="1" /> -->
-	<char hz="炅" py="guì" multi="jiǒng">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:炅.xml <char hz="炅" py="guì" multi="jiǒng" /> -->
 	<char hz="刿" py="guì" />
 	<char hz="刽" py="guì" />
 	<!-- Ref:桧.xml <char hz="桧" py="guì" multi="huì" main="1" /> -->

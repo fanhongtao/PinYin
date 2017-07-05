@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="掖" py="yē" multi="yè">
+		<definition id="二">
+			<item text="把东西塞在衣袋或夹缝里：把钱~在兜里. 把书~在书包里." />
+		</definition>
+	</char>
+	<char hz="掖" py="yè" multi="yē" main="1">
+		<phrase hz="扶掖" py="fú,yè" info="扶持，提携" />
+		<phrase hz="奖掖" py="jiǎng,yè" info="奖励提拔" />
+		<phrase hz="掖县" py="yè,xiàn" info="县名，在山东" />
+		<definition id="一">
+			<item id="1" text="用手扶着别人的胳膊。 [奖掖]奖励，提拔。" />
+			<item id="2" text="掖县，旧县名，今莱州，在山东省。" />
+		</definition>
+	</char>
+</pinyin>

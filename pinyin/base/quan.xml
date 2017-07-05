@@ -3,38 +3,7 @@
 	<char hz="悛" py="quān">
 		<phrase hz="怙恶不悛" py="hù,è,bù,quān" />
 	</char>
-	<char hz="圈" py="quān" multi="juān,juàn" main="1" suppressLog="1">
-		<phrase hz="包围圈" py="bāo,wéi,quān" info="军事上指已形成的包围态势的圈子和已被包围的地区。" />
-		<phrase hz="垫圈" py="diàn,quān" info="1.把树叶杂草、泥土等铺在畜圈里。2.各种(如金属或皮革制的)扁平环或多孔板，用于连结或组装以保证严密性、防漏或减少摩擦。" />
-		<phrase hz="风圈" py="fēng,quān" info="日晕或月晕的通称。" />
-		<phrase hz="感应圈" py="gǎn,yìng,quān" info="利用电磁感应原理将低压直流电变成高电压的装置。" />
-		<phrase hz="光圈" py="guāng,quān" info="1.摄影机镜头的孔径。2.照相机上的一系列标志(如f-数)显示光圈的装置。" />
-		<phrase hz="呼拉圈" py="hū,lā,quān" info="通常系塑料或橡胶制的圈,利用呼拉圈舞的动作使该圈围绕身体快速旋转。" />
-		<phrase hz="花圈" py="huā,quān" info="鲜花或人造花扎成的轮圈，用于吊唁仪式。" />
-		<phrase hz="火圈" py="huǒ,quān" info="燃火的環狀物。" />
-		<phrase hz="极圈" py="jí,quān" info="离地球的一极的距离等于黄道斜度(黄赤交角)或约23度27分的两个纬圈之一" />
-		<phrase hz="救生圈" py="jiù,shēng,quān" info="圆圈形救生用具,以软木或其它浮力材料制成" />
-		<phrase hz="罗圈" py="luó,quān" info="圆形筛子的圆框,也指环形或相向的弧形" />
-		<phrase hz="气圈" py="qì,quān" info="1.一种可膨胀的橡皮圈,用作垫子以消除骨骼隆突部受到的压力(如预防褥疮)。2.围绕地球的空气的整体。" />
-		<phrase hz="圈地" py="quān,dì" info="1.指 清 初满族统治阶级圈占指定的民地。系掠夺土地的一种方式。2.指圈占的土地。" />
-		<phrase hz="圈点" py="quān,diǎn" info="1.用加圆圈或点表示文章的句读。2.在书或文稿上加圈或点，用来标出认为精彩、重要或值得注意的语句。" />
-		<phrase hz="圈定" py="quān,dìng" info="画圈选定(人选、范围等)" />
-		<phrase hz="圈椅" py="quān,yǐ" info="由靠背和扶手接连形成的半圆形椅子" />
-		<phrase hz="圈阅" py="quān,yuè" info="领导或负责人审阅文件后，在自己的名字处画圈，表示已经看过" />
-		<phrase hz="圈子" py="quān,zi" info="1.环形的东西。2.范围界限。3.传统的做法;固定的格式。4.集体或生活范围。" />
-		<phrase hz="生物圈" py="shēng,wù,quān" info="地球上一切生物居棲或適合生物居棲活動的區域。包含部分的岩石圈、水圈、氣圈。" />
-		<phrase hz="瓦圈" py="wǎ,quān" info="1.用黏土烧制成的圏形物体。2.自行车、三轮车等车轮上用以安装轮胎的钢圏。" />
-		<phrase hz="线圈" py="xiàn,quān" />
-		<phrase hz="项圈" py="xiàng,quān" info="戴在颈部的环形饰物" />
-		<phrase hz="眼圈" py="yǎn,quān" />
-		<phrase hz="圆圈" py="yuán,quān" />
-		<phrase hz="转圈" py="zhuàn,quān" />
-		<definition id="一">
-			<item id="1" text="（-子、儿）环形，环形的东西：画一个~儿. 铁~. (引)1.周、周遭：跑了一~儿. 兜了个大~子. 2.范围：这话说得出~儿了." />
-			<item id="2" text="画环形：~个红圈作记号." />
-			<item id="3" text="包围：打一道墙把这块地~起来." />
-		</definition>
-	</char>
+	<!-- Ref:圈.xml <char hz="圈" py="quān" multi="juān,juàn" main="1" suppressLog="1" /> -->
 	<char hz="棬" py="quān" />
 	<char hz="权" py="quán" />
 	<char hz="全" py="quán" />
@@ -58,14 +27,5 @@
 	<char hz="畎" py="quǎn" />
 	<char hz="绻" py="quǎn" />
 	<char hz="劝" py="quàn" />
-	<char hz="券" py="quàn" multi="xuàn" main="1" suppressLog="1">
-		<phrase hz="奖券" py="jiǎng,quàn" />
-		<phrase hz="胜券" py="shèng,quàn" info="指取胜的可靠性" />
-		<phrase hz="债券" py="zhài,quàn" info="政府或公司发行的一种票券，到期可兑换现金，有利息。 政府发行的债券称公债券" />
-		<phrase hz="证券" py="zhèng,quàn" info="表明资产所有权或债权关系的一种凭证。 可作为交易之标的。如股票、政府公债、公司债券等皆是" />
-		<definition id="一">
-			<item id="1" text="票据或作凭证的纸片：公债~. 入场~." />
-			<item id="2" text="“拱券”的“券”(xuàn)的又音。" />
-		</definition>
-	</char>
+	<!-- Ref:券.xml <char hz="券" py="quàn" multi="xuàn" main="1" suppressLog="1" /> -->
 </pinyin>

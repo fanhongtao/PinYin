@@ -14,19 +14,9 @@
 	</char>
 	<!-- Ref:刹.xml <char hz="刹" py="shā" multi="chà" /> -->
 	<char hz="铩" py="shā" />
-	<char hz="杉" py="shā" multi="shān">
-		<phrase hz="杉木" py="shā,mù" />
-		<phrase hz="杉篙" py="shā,gāo" />
-		<definition id="二">
-			<item text="义同“杉(一)”，用于“杉木、杉篙”等。" />
-		</definition>
-	</char>
+	<!-- Ref:杉.xml <char hz="杉" py="shā" multi="shān" /> -->
 	<!-- Ref:沙.xml <char hz="沙" py="shā" multi="shà" main="1" suppressLog="1" /> -->
-	<char hz="莎" py="shā" multi="suō" main="1" suppressLog="1">
-		<definition id="二">
-			<item text="多用于人名、地名。 [莎车]地名，在新疆维吾尔自治区。" />
-		</definition>
-	</char>
+	<!-- Ref:莎.xml <char hz="莎" py="shā" multi="suō" main="1" suppressLog="1" /> -->
 	<char hz="痧" py="shā" />
 	<char hz="裟" py="shā" />
 	<char hz="鲨" py="shā" />
@@ -42,28 +32,11 @@
 			<item text="[唼喋](-zhá)形容鱼、鸟等吃东西的声音。" />
 		</definition>
 	</char>
-	<char hz="厦" py="shà" multi="xià" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="大屋子：广~千万间. 高楼大~." />
-			<item id="2" text="房子后面突出的部分：前廊后~." />
-		</definition>
-	</char>
-	<char hz="嗄" py="shà" multi="á">
-		<phrase hz="沙嗄" py="shā,shà" />
-		<phrase hz="嗄嘶" py="shà,sī" />
-		<phrase hz="嗄哑" py="shà,yǎ" />
-		<definition id="二">
-			<item text="嗓音嘶哑。" />
-		</definition>
-	</char>
+	<!-- Ref:厦.xml <char hz="厦" py="shà" multi="xià" main="1" suppressLog="1" /> -->
+	<!-- Ref:嗄.xml <char hz="嗄" py="shà" multi="á" /> -->
 	<char hz="歃" py="shà" />
 	<!-- Ref:煞.xml <char hz="煞" py="shà" multi="shā" main="1" /> -->
 	<char hz="箑" py="shà" />
 	<char hz="霎" py="shà" />
-	<char hz="挲" py="sha" multi="sa,suō">
-		<phrase hz="挓挲" py="zhā,sha" />
-		<definition id="三">
-			<item text="见“挓”字条“挓挲”(zhā-)。" />
-		</definition>
-	</char>
+	<!-- Ref:挲.xml <char hz="挲" py="sha" multi="sa,suō" /> -->
 </pinyin>

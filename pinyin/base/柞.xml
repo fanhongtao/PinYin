@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柞" py="zhà" multi="zuò">
+		<phrase hz="柞水" py="zhà,shuǐ" />
+		<definition id="二">
+			<item text="[柞水]地名，在陕西省。" />
+		</definition>
+	</char>
+	<char hz="柞" py="zuò" multi="zhà" main="1">
+		<definition id="一">
+			<item text="柞树，即栎树：~蚕. ~丝（柞蚕吐的丝）." />
+		</definition>
+	</char>
+</pinyin>

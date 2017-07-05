@@ -8,12 +8,7 @@
 	<char hz="轷" py="hū" />
 	<char hz="烀" py="hū" />
 	<char hz="滹" py="hū" />
-	<char hz="戏" py="hū" multi="xì">
-		<phrase hz="於戏" py="wū,hū" />
-		<definition id="二">
-			<item text="见“於”字条“於戏”(wū-)。" />
-		</definition>
-	</char>
+	<!-- Ref:戏.xml <char hz="戏" py="hū" multi="xì" /> -->
 	<char hz="昒" py="hū">
 		<phrase hz="昒昕" py="hū,xīn" />
 	</char>
@@ -64,16 +59,7 @@
 		<phrase hz="觳觫" py="hú,sù" />
 	</char>
 	<char hz="虎" py="hǔ" />
-	<char hz="唬" py="hǔ" multi="xià" main="1">
-		<phrase hz="吹唬" py="chuī,hǔ" info="1.吹嘘，说大话。2.方言。大声训斥。" />
-		<phrase hz="骇唬" py="hài,hǔ" info="惊吓。" />
-		<phrase hz="唬弄" py="hǔ,nòng" info="糊弄。欺骗；蒙混。" />
-		<phrase hz="咋唬" py="zhā,hǔ" info="1.见“咋呼”。2.夸口；炫耀。" />
-		<phrase hz="诈唬" py="zhà,hǔ" info="欺骗吓唬。" />
-		<definition id="一">
-			<item text="威吓(hè)或蒙混：你别~人了." />
-		</definition>
-	</char>
+	<!-- Ref:唬.xml <char hz="唬" py="hǔ" multi="xià" main="1" /> -->
 	<char hz="琥" py="hǔ">
 		<phrase hz="琥珀" py="hǔ,pò" />
 	</char>

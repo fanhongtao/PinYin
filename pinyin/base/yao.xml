@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="么" py="yāo" multi="ma,me">
-		<definition id="三">
-			<item text="同“幺”。" />
-		</definition>
-	</char>
+	<!-- Ref:么.xml <char hz="么" py="yāo" multi="ma,me" /> -->
 	<char hz="幺" py="yāo">
 		<definition>
 			<item id="1" text="〈方〉小，排行最末的：~叔. ~妹. ~儿." />
@@ -36,12 +32,7 @@
 	<char hz="爻" py="yáo" />
 	<char hz="肴" py="yáo" />
 	<char hz="尧" py="yáo" />
-	<char hz="侥" py="yáo" multi="jiǎo">
-		<phrase hz="僬侥" py="jiāo,yáo" />
-		<definition id="二">
-			<item text="见“僬”字条“僬侥”(jiāo-)。" />
-		</definition>
-	</char>
+	<!-- Ref:侥.xml <char hz="侥" py="yáo" multi="jiǎo" /> -->
 	<char hz="峣" py="yáo">
 		<phrase hz="岧峣" py="tiáo,yáo" />
 	</char>
@@ -49,18 +40,8 @@
 	<char hz="轺" py="yáo" />
 	<char hz="姚" py="yáo" />
 	<char hz="珧" py="yáo" />
-	<char hz="铫" py="yáo" multi="diào" main="1">
-		<definition id="二">
-			<item id="1" text="古代一种大锄。" />
-			<item id="2" text="姓。" />
-		</definition>
-	</char>
-	<char hz="陶" py="yáo" multi="táo">
-		<phrase hz="皋陶" py="gāo,yáo" />
-		<definition id="二">
-			<item text="[皋陶](gāo-)传说中上古人名。" />
-		</definition>
-	</char>
+	<!-- Ref:铫.xml <char hz="铫" py="yáo" multi="diào" main="1" /> -->
+	<!-- Ref:陶.xml <char hz="陶" py="yáo" multi="táo" /> -->
 	<char hz="窑" py="yáo" />
 	<char hz="谣" py="yáo" />
 	<char hz="摇" py="yáo">
@@ -74,11 +55,7 @@
 	<char hz="遥" py="yáo" />
 	<char hz="瑶" py="yáo" />
 	<char hz="飖" py="yáo" />
-	<char hz="繇" py="yáo" multi="yóu,zhòu" main="1">
-		<definition id="二">
-			<item text="同“徭”。" />
-		</definition>
-	</char>
+	<!-- Ref:繇.xml <char hz="繇" py="yáo" multi="yóu,zhòu" main="1" /> -->
 	<char hz="鳐" py="yáo" />
 	<char hz="杳" py="yǎo" />
 	<char hz="咬" py="yǎo" />
@@ -89,12 +66,7 @@
 	<char hz="窈" py="yǎo">
 		<phrase hz="窈窕" py="yǎo,tiǎo" />
 	</char>
-	<char hz="疟" py="yào" multi="nüè">
-		<phrase hz="疟子" py="yào,zi" />
-		<definition id="二">
-			<item text="疟子，疟(nüè)疾。" />
-		</definition>
-	</char>
+	<!-- Ref:疟.xml <char hz="疟" py="yào" multi="nüè" /> -->
 	<char hz="药" py="yào" />
 	<!-- Ref:要.xml <char hz="要" py="yào" multi="yāo" main="1" suppressLog="1" /> -->
 	<!-- Ref:钥.xml <char hz="钥" py="yào" multi="yuè" info="Word主音" /> -->

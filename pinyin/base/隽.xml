@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="隽" py="juàn" multi="jùn">
+		<phrase hz="隽永" py="juàn,yǒng" />
+		<definition id="一">
+			<item text="肥肉。" />
+			<item text="[隽永]（言论、文章）意味深长。" />
+		</definition>
+	</char>
+	<char hz="隽" py="jùn" multi="juàn" main="1">
+		<phrase hz="隽敏" py="jùn,mǐn" info="俊秀敏快。" />
+		<phrase hz="隽秀" py="jùn,xiù" info="1.优异出众。2.指优异出众者。3.清雅秀丽。" />
+		<definition id="二">
+			<item text="同“俊(1)”。" />
+		</definition>
+	</char>
+</pinyin>

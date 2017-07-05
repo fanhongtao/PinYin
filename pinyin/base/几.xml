@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="几" py="jī" multi="jǐ">
+		<phrase hz="茶几" py="chá,jī" />
+		<phrase hz="几案" py="jī,àn" info="案桌。文書置於几案上，故後多用於指處理公文、書信的工作。" />
+		<phrase hz="几率" py="jī,lǜ" />
+		<phrase hz="几乎" py="jī,hū" />
+		<phrase hz="几为所害" py="jī,wéi,suǒ,hài" />
+		<phrase hz="庶几" py="shù,jī" info="1.或许可以，表示希望或推测。2.差不多;近似。3.指贤者或可以成才的人。" />
+		<phrase hz="条几" py="tiáo,jī" info="长条形的几案。" />
+		<definition id="二">
+			<item id="1" text="（-儿）小或矮的桌子：茶~儿. 条~." />
+			<item id="2" text="差一点，近乎：~乎. ~为所害. 迄今~四十年." />
+			<item id="3" text="苗头：知~其神乎." />
+		</definition>
+	</char>
+	<char hz="几" py="jǐ" multi="jī" main="1">
+		<phrase hz="几曾" py="jǐ,céng" info="何曾;何尝" />
+		<phrase hz="几次三番" py="jǐ,cì,sān,fān" info="形容次數之多。" />
+		<phrase hz="几多" py="jǐ,duō" info="询问数量;多少。" />
+		<phrase hz="几分" py="jǐ,fēn" info="某一不确定或不特指的东西(如一个数量或程度);一部分,多少。" />
+		<phrase hz="几个" py="jǐ,gè" />
+		<phrase hz="几何" py="jǐ,hé" info="1.多少(用于反问)。2.几何学简称。" />
+		<phrase hz="几经" py="jǐ,jīng" info="经过许多次" />
+		<phrase hz="几年" py="jǐ,nián" />
+		<phrase hz="几时" py="jǐ,shí" info="什么时候，哪一天" />
+		<phrase hz="几许" py="jǐ,xǔ" info="多少" />
+		<phrase hz="几种" py="jǐ,zhǒng" info="指相似项目的不同或区别" />
+		<phrase hz="未几" py="wèi,jǐ" info="1.没有多久;很快。2.很少;无几。3.未可几及，赶不上" />
+		<phrase hz="无几" py="wú,jǐ" info="1.很少，没有多少。2.没有多久;不久。" />
+		<phrase hz="相差无几" py="xiāng,chā,wú,jǐ" info="彼此没有多大差别。" />
+		<definition id="一">
+			<item id="1" text="询问数量多少：~个人？ 来~天了？ [几何]1.多少。 2.几何学，研究点、线、面、体的性质、关系和计算方法的学科。" />
+			<item id="2" text="表示不定的数目：他才十~岁. 所剩无~." />
+		</definition>
+	</char>
+</pinyin>

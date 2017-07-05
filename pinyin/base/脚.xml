@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="脚" py="jiǎo" multi="jué" main="1" suppressLog="1">
+		<phrase hz="踮脚" py="diǎn,jiǎo" info="〈方〉跛足人走路脚尖点地的样子" />
+		<phrase hz="跺脚" py="duò,jiǎo" />
+		<phrase hz="根脚" py="gēn,jiǎo" info="1.植物或建筑物的根基。2.底细;出身。" />
+		<phrase hz="裹脚" py="guǒ,jiǎo" info="1.旧时，把女孩子的脚用长布紧紧地缠住，使脚骨变成畸形。2.也指裹脚用的长条布。" />
+		<phrase hz="合脚" py="hé,jiǎo" info="鞋、袜尺寸适合于脚的大小" />
+		<phrase hz="脚板" py="jiǎo,bǎn" info="〈方〉即脚掌" />
+		<phrase hz="脚本" py="jiǎo,běn" />
+		<phrase hz="脚步" py="jiǎo,bù" />
+		<phrase hz="脚法" py="jiǎo,fǎ" info="指踢球、踢毽子等的技巧。如：他踢球的脚法细腻。" />
+		<phrase hz="脚夫" py="jiǎo,fū" info="专门为别人搬运物品的人或被人雇佣赶牲口的人" />
+		<phrase hz="脚跟" py="jiǎo,gēn" info="脚后跟" />
+		<phrase hz="脚后跟" py="jiǎo,hòu,gēn" info="人脚的后部，位于踝关节之下和脚弓之后" />
+		<phrase hz="脚踝" py="jiǎo,huái" />
+		<phrase hz="脚劲" py="jiǎo,jìn" info="〈方〉两腿的劲道、力气" />
+		<phrase hz="脚扣" py="jiǎo,kòu" info="套在鞋上爬电线杆子用的一种铁制工具。" />
+		<phrase hz="脚炉" py="jiǎo,lú" info="冷天烘脚用的小炉。" />
+		<phrase hz="脚气" py="jiǎo,qì" />
+		<phrase hz="脚印" py="jiǎo,yìn" />
+		<phrase hz="脚趾" py="jiǎo,zhǐ" />
+		<phrase hz="捎脚" py="shāo,jiǎo" info="就着方便捎带人或物品(多指车、船等运输工具)" />
+		<phrase hz="顺脚" py="shùn,jiǎo" info="1.顺着所走的路线到另一处。2.趁车马等本来要去某个地方的方便搭人或运货。" />
+		<phrase hz="挑脚" py="tiāo,jiǎo" info="为别人挑运货物或行装" />
+		<definition id="一">
+			<item id="1" text="人和某些动物身体最下部接触地面的肢体。" />
+			<item id="2" text="最下部：山~. 墙~." />
+			<item text="[脚本]剧本，表演戏剧或拍电影等所根据的底本。" />
+		</definition>
+	</char>
+	<char hz="脚" py="jué" multi="jiǎo">
+		<phrase hz="脚色" py="jué,sè" />
+		<phrase hz="主脚" py="zhǔ,jué" />
+		<definition id="二">
+			<item text="（-儿）同“角(二)(2)”。" />
+		</definition>
+	</char>
+</pinyin>

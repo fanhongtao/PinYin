@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="臊" py="sāo" multi="sào" main="1">
+		<phrase hz="狐臊" py="hú,sāo" />
+		<phrase hz="腥臊" py="xīng,sāo" info="1.魚肉的腥臭味。2.比喻汙穢醜惡的人或事。" />
+		<definition id="一">
+			<item text="像尿那样难闻的气味：尿~气. 狐~." />
+		</definition>
+	</char>
+	<char hz="臊" py="sào" multi="sāo" info="Word主音">
+		<phrase hz="扯臊" py="chě,sào" info="〈方〉不顾羞耻地胡扯" />
+		<phrase hz="害臊" py="hài,sào" info="怕羞" />
+		<phrase hz="怕臊" py="pà,sào" info="害羞、難為情。" />
+		<phrase hz="臊得脸红" py="sào,dé,liǎn,hóng" />
+		<phrase hz="臊皮" py="sào,pí" info="1.丟臉、失面子。2.輕薄、占便宜。" />
+		<phrase hz="臊子" py="sào,zi" info="指剁好的肉末或切好的肉丁" />
+		<phrase hz="羞臊" py="xiū,sào" info="羞愧，害臊" />
+		<definition id="二">
+			<item text="害羞：~得脸通红. 不知羞~." />
+		</definition>
+	</char>
+</pinyin>

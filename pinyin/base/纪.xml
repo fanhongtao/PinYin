@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="纪" py="jǐ" multi="jì">
+		<definition id="二">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="纪" py="jì" multi="jǐ" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="记载：~事. [纪念]用事物或行动对人或事表示怀念。 [纪元]纪年开始，如公历以传说的耶稣出生那一年为元年。" />
+			<item id="2" text="古时把十二年算作一纪。 [世纪]一百年叫一世纪。" />
+			<item id="3" text="制度，法度：军~. 违法乱~. [纪律]集体生活里必须共同遵守的规则：遵守劳动~~." />
+			<item id="4" text="地质年代分级的第三级，在“代”之下：第四~. 侏罗~. 寒武~." />
+		</definition>
+	</char>
+</pinyin>

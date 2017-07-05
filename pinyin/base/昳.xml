@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="昳" py="dié" multi="yì" main="1">
+		<phrase hz="昳晡" py="dié,bū" info="傍晚。" />
+		<definition id="一">
+			<item text="〈古〉日过午偏西。" />
+		</definition>
+	</char>
+	<char hz="昳" py="yì" multi="dié">
+		<phrase hz="昳丽" py="yì,lì" />
+		<definition id="二">
+			<item text="[昳丽]美丽：形貌~~." />
+		</definition>
+	</char>
+</pinyin>

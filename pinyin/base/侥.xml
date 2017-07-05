@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="侥" py="jiǎo" multi="yáo" main="1">
+		<phrase hz="侥幸" py="jiǎo,xìng" />
+		<definition id="一">
+			<item text="[侥幸]（*徼倖）由于偶然的原因获得利益或免去不幸：怀着~~心理." />
+		</definition>
+	</char>
+	<char hz="侥" py="yáo" multi="jiǎo">
+		<phrase hz="僬侥" py="jiāo,yáo" />
+		<definition id="二">
+			<item text="见“僬”字条“僬侥”(jiāo-)。" />
+		</definition>
+	</char>
+</pinyin>

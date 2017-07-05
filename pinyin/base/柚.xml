@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="柚" py="yóu" multi="yòu">
+		<phrase hz="柚木" py="yóu,mù" />
+		<definition id="一">
+			<item text="[柚木]落叶乔木，叶大，对生，花白色或蓝色。木材坚硬耐久，用来造船、车等。" />
+		</definition>
+	</char>
+	<char hz="柚" py="yòu" multi="yóu" main="1">
+		<phrase hz="柚子" py="yòu,zi" />
+		<definition id="二">
+			<item text="常绿乔木，种类很多，果实叫柚子，也叫文旦，比橘子大，多汁，味酸甜。" />
+		</definition>
+	</char>
+</pinyin>

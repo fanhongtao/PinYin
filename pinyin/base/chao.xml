@@ -1,58 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="抄" py="chāo" />
-	<char hz="吵" py="chāo" multi="chǎo">
-		<phrase hz="吵吵" py="chāo,chao" />
-		<definition id="二">
-			<item text="[吵吵](-chao)吵嚷。" />
-		</definition>
-	</char>
+	<!-- Ref:吵.xml <char hz="吵" py="chāo" multi="chǎo" /> -->
 	<char hz="钞" py="chāo" />
 	<char hz="怊" py="chāo" />
 	<char hz="弨" py="chāo" />
 	<char hz="超" py="chāo" />
-	<char hz="绰" py="chāo" multi="chuò" info="Word主音">
-		<phrase hz="绰起" py="chāo,qǐ" />
-		<definition id="二">
-			<item id="1" text="同“焯(二)”" />
-			<item id="2" text="匆忙地抓起：~起一根棍子." />
-		</definition>
-	</char>
-	<char hz="焯" py="chāo" multi="zhuō" info="Word主音">
-		<phrase hz="焯菠菜" py="chāo,bō,cài" />
-		<definition id="二">
-			<item text="把蔬菜放在开水里略微一煮就拿出来：~菠菜." />
-		</definition>
-	</char>
-	<char hz="剿" py="chāo" multi="jiǎo">
-		<phrase hz="剿说" py="chāo,shuō" />
-		<phrase hz="剿袭" py="chāo,xí" />
-		<definition id="二">
-			<item text="因袭套用别人的语言文句作为自己的：~说." />
-		</definition>
-	</char>
+	<!-- Ref:绰.xml <char hz="绰" py="chāo" multi="chuò" info="Word主音" /> -->
+	<!-- Ref:焯.xml <char hz="焯" py="chāo" multi="zhuō" info="Word主音" /> -->
+	<!-- Ref:剿.xml <char hz="剿" py="chāo" multi="jiǎo" /> -->
 	<char hz="晁" py="cháo" />
 	<char hz="巢" py="cháo" />
 	<!-- Ref:朝.xml <char hz="朝" py="cháo" multi="zhāo" main="1" /> -->
-	<char hz="嘲" py="cháo" multi="zhāo" main="1" suppressLog="1">
-		<phrase hz="嘲讽" py="cháo,fěng" />
-		<phrase hz="嘲弄" py="cháo,nòng" />
-		<phrase hz="嘲笑" py="cháo,xiào" />
-		<phrase hz="讥嘲" py="jī,cháo" />
-		<phrase hz="解嘲" py="jiě,cháo" />
-		<phrase hz="自嘲" py="zì,cháo" />
-		<definition id="一">
-			<item text="讥笑，取笑（(连)-笑、-讽）：冷~热讽." />
-		</definition>
-	</char>
+	<!-- Ref:嘲.xml <char hz="嘲" py="cháo" multi="zhāo" main="1" suppressLog="1" /> -->
 	<char hz="潮" py="cháo" />
-	<char hz="吵" py="chǎo" multi="chāo" main="1" suppressLog="1">
-		<phrase hz="吵吵闹闹" py="chǎo,chǎo,nào,nào" />
-		<definition id="一">
-			<item id="1" text="声音杂乱搅扰人：~得慌. 把他~醒了." />
-			<item id="2" text="打嘴架，口角：~架. 争~. 他俩~起来了." />
-		</definition>
-	</char>
+	<!-- Ref:吵.xml <char hz="吵" py="chǎo" multi="chāo" main="1" suppressLog="1" /> -->
 	<char hz="炒" py="chǎo" />
 	<char hz="耖" py="chào" />
 </pinyin>

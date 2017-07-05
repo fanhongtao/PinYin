@@ -22,24 +22,14 @@
 	<char hz="础" py="chǔ" />
 	<char hz="楮" py="chǔ" />
 	<char hz="储" py="chǔ" />
-	<char hz="褚" py="chǔ" multi="zhǔ" main="1">
-		<phrase hz="褚师" py="chǔ,shī" info="1.古代管理市场的官吏。2.复姓。" />
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:褚.xml <char hz="褚" py="chǔ" multi="zhǔ" main="1" /> -->
 	<char hz="楚" py="chǔ" />
 	<char hz="亍" py="chù" />
 	<!-- Ref:处.xml <char hz="处" py="chù" multi="chǔ" main="1" /> -->
 	<char hz="怵" py="chù" />
 	<char hz="绌" py="chù" />
 	<char hz="黜" py="chù" />
-	<char hz="俶" py="chù" multi="tì" main="1">
-		<phrase hz="俶尔" py="chù,ěr" />
-		<definition id="一">
-			<item text="〈古〉开始。[俶尔]忽然：~~远逝." />
-		</definition>
-	</char>
+	<!-- Ref:俶.xml <char hz="俶" py="chù" multi="tì" main="1" /> -->
 	<!-- Ref:畜.xml <char hz="畜" py="chù" multi="xù" main="1" /> -->
 	<char hz="搐" py="chù" />
 	<char hz="滀" py="chù" />

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="奓" py="zhā" multi="zhà">
+		<phrase hz="奓山" py="zhā,shān" />
+		<definition id="二">
+			<item text="奓山，地名，在湖北省武汉。" />
+		</definition>
+	</char>
+	<char hz="奓" py="zhà" multi="zhā" main="1">
+		<definition id="一">
+			<item text="张开：头发~着. 这件衣服下面太~了." />
+		</definition>
+	</char>
+</pinyin>

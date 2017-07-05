@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咖" py="kā" multi="gā">
-		<phrase hz="咖啡" py="kā,fēi" />
-		<definition id="二">
-			<item text="[咖啡](-fēi)(外)常绿灌木或小乔木，产在热带，花白色，果实红色，种子可制饮料。也指这种饮料。" />
-		</definition>
-	</char>
+	<!-- Ref:咖.xml <char hz="咖" py="kā" multi="gā" /> -->
 	<char hz="喀" py="kā">
 		<phrase hz="喀嚓" py="kā,chā" />
 	</char>
@@ -18,12 +13,5 @@
 		<phrase hz="咔叽" py="kǎ,jī" />
 	</char>
 	<char hz="胩" py="kǎ" />
-	<char hz="咯" py="kǎ" multi="gē,lo" main="1">
-		<phrase hz="咯出来" py="kǎ,chū,lái" />
-		<phrase hz="咯血" py="kǎ,xiě" />
-		<phrase hz="咯痰" py="kǎ,tán" />
-		<definition id="一">
-			<item text="用力使东西从食道或气管里出来：把鱼剌~出来. ~血. ~痰." />
-		</definition>
-	</char>
+	<!-- Ref:咯.xml <char hz="咯" py="kǎ" multi="gē,lo" main="1" /> -->
 </pinyin>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="帱" py="chóu" multi="dào" main="1">
+		<phrase hz="帱帐" py="chóu,zhàng" info="床帐。" />
+		<phrase hz="蚊帱" py="wén,chóu" info="蚊帐。" />
+		<definition id="一">
+			<item id="1" text="帐子。" />
+			<item id="2" text="车帷。" />
+		</definition>
+	</char>
+	<char hz="帱" py="dào" multi="chóu">
+		<definition id="二">
+			<item text="覆盖。" />
+		</definition>
+	</char>
+</pinyin>

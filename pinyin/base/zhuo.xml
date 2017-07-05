@@ -4,12 +4,7 @@
 	<char hz="捉" py="zhuō" />
 	<char hz="桌" py="zhuō" />
 	<char hz="倬" py="zhuō" />
-	<char hz="焯" py="zhuō" multi="chāo" main="1">
-		<phrase hz="焯见" py="zhuō,jiàn" info="同“灼见”" />
-		<definition id="一">
-			<item text="显明，明白。" />
-		</definition>
-	</char>
+	<!-- Ref:焯.xml <char hz="焯" py="zhuō" multi="chāo" main="1" /> -->
 	<char hz="棁" py="zhuō" />
 	<char hz="涿" py="zhuō" />
 	<char hz="" py="zhuō" />
@@ -25,31 +20,13 @@
 	<char hz="浞" py="zhuó" />
 	<char hz="诼" py="zhuó" />
 	<char hz="啄" py="zhuó" />
-	<char hz="琢" py="zhuó" multi="zuó" main="1" suppressLog="1">
-		<phrase hz="雕琢" py="diāo,zhuó" info="1.雕刻玉石使成器物 2.过分地修饰文辞" />
-		<phrase hz="精雕细琢" py="jīng,diāo,xì,zhuó" info="比喻做事情精益求精。" />
-		<phrase hz="玉不琢" py="yù,bù,zhuó" info="“玉不琢，不成器”：谓玉不加工，不成器皿。后以喻人不经过培养﹑锻炼，不能成材。" />
-		<!-- <phrase hz="琢磨" py="zhuó,mó" duoyin="zuó,mo" info="1.琢和打磨[玉石]。2.通过润色加以修改(指文章等)。" /> -->
-		<definition id="一">
-			<item text="雕刻玉石，使成器物：精雕细~. [琢磨] 1.雕刻和打磨（玉石）。 2.加工使精美（指文章等）。" />
-		</definition>
-	</char>
+	<!-- Ref:琢.xml <char hz="琢" py="zhuó" multi="zuó" main="1" suppressLog="1" /> -->
 	<char hz="椓" py="zhuó" />
-	<char hz="著" py="zhuó" multi="zhù">
-		<phrase hz="执著" py="zhí,zhuó" info="即“执着”。" />
-		<phrase hz="著意" py="zhuó,yì" info="即“着意”。" />
-		<definition id="二">
-			<item text="附着，穿着。 后作“着”(zhuó)。" />
-		</definition>
-	</char>
+	<!-- Ref:著.xml <char hz="著" py="zhuó" multi="zhù" /> -->
 	<!-- Ref:着.xml <char hz="着" py="zhuó" multi="zhāo,zháo,zhe" main="1" /> -->
 	<char hz="禚" py="zhuó" />
 	<char hz="鷟" py="zhuó" trans="1" />
-	<char hz="缴" py="zhuó" multi="jiǎo">
-		<definition id="二">
-			<item text="系在箭上的绳。" />
-		</definition>
-	</char>
+	<!-- Ref:缴.xml <char hz="缴" py="zhuó" multi="jiǎo" /> -->
 	<char hz="擢" py="zhuó" />
 	<char hz="濯" py="zhuó" />
 </pinyin>

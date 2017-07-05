@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="教" py="jiāo" multi="jiào">
+		<phrase hz="教书" py="jiāo,shū" />
+		<definition id="二">
+			<item text="传授：~书. 我~历史. 我~给你做." />
+		</definition>
+	</char>
+	<char hz="教" py="jiào" multi="jiāo" main="1">
+		<phrase hz="八卦教" py="bā,guà,jiào" info="白莲教的支派。始称收元教，为 清 初 山东 单县 刘佐臣 创立。其后传布于 河北 、 河南 、 山西 等地。教徒依八卦分为八股，故又称八卦教。" />
+		<phrase hz="白莲教" py="bái,lián,jiào" info="中国民间宗教之一，源于南宋佛教的一个支系，崇奉弥勒佛，元明清三代在民间流行，农民起义军常借百莲教名义号召群众组织斗争" />
+		<phrase hz="赐教" py="cì,jiào" />
+		<phrase hz="道教" py="dào,jiào" />
+		<phrase hz="电教" py="diàn,jiào" info="电化教育的简称" />
+		<phrase hz="东正教" py="dōng,zhèng,jiào" info="见〖正教〗。" />
+		<phrase hz="国教" py="guó,jiào" info="1.国家的教化。2.国家明文规定的本国所信仰的宗教。" />
+		<phrase hz="回教" py="huí,jiào" info="伊斯兰教" />
+		<phrase hz="候教" py="hòu,jiào" info="敬候指教。请柬上常用的套语。" />
+		<phrase hz="基督教" py="jī,dū,jiào" info="世界上主要的宗教之一，公元一世纪产生于西亚，奉耶和华(耶稣)为救世主，后被罗马帝国定为国教，在欧洲广泛传播起来。十一世纪分裂为天主教和东正教。十六世纪又陆续从天主教分裂出许多教派，合称新教。我国所称的基督教多指新教。" />
+		<phrase hz="见教" py="jiàn,jiào" />
+		<phrase hz="教材" py="jiào,cái" />
+		<phrase hz="教导" py="jiào,dǎo" />
+		<phrase hz="教父" py="jiào,fù" />
+		<phrase hz="教官" py="jiào,guān" />
+		<phrase hz="教化" py="jiào,huà" />
+		<phrase hz="教皇" py="jiào,huáng" info="天主教会最高领导人，驻在梵蒂冈" />
+		<phrase hz="教诲" py="jiào,huì" />
+		<phrase hz="教会" py="jiào,huì" info="基督教各教派的信徒组织" />
+		<phrase hz="教练" py="jiào,liàn" />
+		<phrase hz="教派" py="jiào,pài" info="在一个宗教内的不同派别" />
+		<phrase hz="教师" py="jiào,shī" />
+		<phrase hz="教室" py="jiào,shì" />
+		<phrase hz="教士" py="jiào,shì" info="基督教的神职人员" />
+		<phrase hz="教授" py="jiào,shòu" />
+		<phrase hz="教堂" py="jiào,táng" info="基督教进行宗教仪式的建筑物，有多种风格，如哥特式、拜占庭式的" />
+		<phrase hz="教头" py="jiào,tóu" info="宋代军队中专门担任武术教学的人。后指一般传授技艺的人" />
+		<phrase hz="教徒" py="jiào,tú" info="宗教的信仰者" />
+		<phrase hz="教学" py="jiào,xué" />
+		<phrase hz="教训" py="jiào,xùn" />
+		<phrase hz="教养" py="jiào,yǎng" />
+		<phrase hz="教义" py="jiào,yì" info="指一种宗教所信奉和宣扬的神学道理思想" />
+		<phrase hz="教育" py="jiào,yù" />
+		<phrase hz="教员" py="jiào,yuán" />
+		<phrase hz="教主" py="jiào,zhǔ" />
+		<phrase hz="教宗" py="jiào,zōng" info="即教皇" />
+		<phrase hz="旧教" py="jiù,jiào" info="1.16世纪欧洲宗教改革后，称天主教为旧教。2.旧有的教训。" />
+		<phrase hz="劳教" py="láo,jiào" />
+		<phrase hz="清教" py="qīng,jiào" info="1.使教化清明。2.高明的教诲。对人的意见的尊称。" />
+		<phrase hz="请教" py="qǐng,jiào" />
+		<phrase hz="萨满教" py="sà,mǎn,jiào" info="一种原始宗教。流行于 亚洲 、 欧洲 的极北部等地区。" />
+		<phrase hz="神教" py="shén,jiào" info="1.指佛的法力。2.指谶纬假托天命之言。3.指教化。" />
+		<phrase hz="圣教" py="shèng,jiào" info="1.旧称尧、舜、文、武、周公、孔子的教导。2.宗教信徒对各自宗教的尊称。" />
+		<phrase hz="释教" py="shì,jiào" info="佛教" />
+		<phrase hz="说教" py="shuō,jiào" />
+		<phrase hz="天理教" py="tiān,lǐ,jiào" info="十八世纪中叶白莲教武装起义失败后，由部分教徒组织起白莲教的一个支派，称天理教，曾在北京、河南发动起义。又称八卦教" />
+		<phrase hz="天主教" py="tiān,zhǔ,jiào" info="基督教教派的一种，以罗马教皇为最高统治者。明朝时传入我国。又叫罗马公教" />
+		<phrase hz="邪教" py="xié,jiào" info="旁门左道，不正派的宗教派别。" />
+		<phrase hz="新教" py="xīn,jiào" info="基督教的一派。是十六世纪 欧洲 宗教改革运动中脱离天主教而产生的各个新宗派的统称。与天主教、正教并称为基督教三大派别。在 中国 ，通常称为基督教或耶稣教。" />
+		<phrase hz="玄教" py="xuán,jiào" info="1.犹圣教。2.指佛教或道教。" />
+		<phrase hz="言传身教" py="yán,chuán,shēn,jiào" info="言传：用言语讲解、传授；身教：以行动示范。既用言语来教导，又用行动来示范。指行动起模范作用。 " />
+		<phrase hz="伊斯兰教" py="yī,sī,lán,jiào" info="穆斯林的宗教信仰，信仰安拉是唯一的神，信穆罕默德是安拉的使者" />
+		<phrase hz="异教" py="yì,jiào" info="1.不同的教化。2.不是自己所信奉的宗教。3.特指非正统的宗教。4.非正统的思想学派。" />
+		<phrase hz="因材施教" py="yīn,cái,shī,jiào" info="因：根据；材：资质；施：施加；教：教育。指针对学习的人的志趣、能力等具体情况进行不同的教育。" />
+		<phrase hz="印度教" py="yìn,dù,jiào" info="公元八、九世纪后流行于 印度 的宗教。印度教是经过改革的婆罗门教，其主要教义仍是婆罗门教的善恶有因果、人生有轮回之说。现在流行于 印度 、 尼泊尔 等国。" />
+		<phrase hz="犹太教" py="yóu,tài,jiào" info="犹太人的宗教，特点是信仰上帝，并信仰信天父在希伯来经文中明确教导的使命" />
+		<phrase hz="正教" py="zhèng,jiào" info="指11世纪基督教分裂为东西两派，以东罗马帝国首都君士坦丁堡为中心的东部教会自命为正宗的教会，故称正教或东正教" />
+		<phrase hz="指教" py="zhǐ,jiào" />
+		<phrase hz="主教" py="zhǔ,jiào" info="主管一城市或一教区的教务的高级神职人员" />
+		<phrase hz="宗教" py="zōng,jiào" />
+		<definition id="一">
+			<item id="1" text="指导，教诲（(连)-导）：施~. 受~. 指~. [教育]1.教导和培养：~~干部. 2.教育事业。按一定要求培养人的事业，主要指各级学校的工作。" />
+			<item id="2" text="使，令：风能~船走." />
+			<item id="3" text="宗教：佛~. 道~. ~会. [宗教]一种社会意识形态，是对客观世界的虚幻的反映，这提倡对超自然神灵的信仰和崇拜。 [教条主义]主观主义的一种，不分析事物的变化、发展，不研究事物矛盾的特殊性，只是生搬硬套现成的原则、概念来处理问题。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+</pinyin>

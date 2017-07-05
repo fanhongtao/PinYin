@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="稍" py="shāo" multi="shào" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="副词，略微（(连)-微）：~有不同. 请~等一下." />
+		</definition>
+	</char>
+	<char hz="稍" py="shào" multi="shāo">
+		<phrase hz="稍息" py="shào,xī" />
+		<definition id="二">
+			<item text="[稍息]军事或体操的口令，命令队伍从立正姿势变为休息的姿势。" />
+		</definition>
+	</char>
+</pinyin>

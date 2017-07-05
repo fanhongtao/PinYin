@@ -4,19 +4,10 @@
 	<!-- Ref:呵.xml <char hz="呵" py="ā" multi="á,ǎ,à,a,hē" /> -->
 	<!-- Ref:啊.xml <char hz="啊" py="ā" multi="á,ǎ,à,a" main="1" /> -->
 	<char hz="锕" py="ā" />
-	<char hz="腌" py="ā" multi="yān">
-		<phrase hz="腌臜" py="ā,za" />
-		<definition id="二">
-			<item text="[腌臜]〈方〉不干净" />
-		</definition>
-	</char>
+	<!-- Ref:腌.xml <char hz="腌" py="ā" multi="yān" /> -->
 	<!-- Ref:呵.xml <char hz="呵" py="á" multi="ā,ǎ,à,a,hē" /> -->
 	<!-- Ref:啊.xml <char hz="啊" py="á" multi="ā,ǎ,à,a" /> -->
-	<char hz="嗄" py="á" multi="shà" main="1">
-		<definition id="一">
-			<item text="同“啊(二)”" />
-		</definition>
-	</char>
+	<!-- Ref:嗄.xml <char hz="嗄" py="á" multi="shà" main="1" /> -->
 	<!-- Ref:呵.xml <char hz="呵" py="ǎ" multi="ā,á,à,a,hē" /> -->
 	<!-- Ref:啊.xml <char hz="啊" py="ǎ" multi="ā,á,à,a" /> -->
 	<!-- Ref:呵.xml <char hz="呵" py="à" multi="ā,á,ǎ,a,hē" /> -->

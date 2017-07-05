@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="仡" py="gē" multi="yì">
+		<phrase hz="仡佬族" py="gē,lǎo,zú" />
+		<definition id="一">
+			<item text="[仡佬族](-lǎo-)我国少数民族。" />
+		</definition>
+	</char>
+	<char hz="仡" py="yì" multi="gē" main="1">
+		<phrase hz="仡仡" py="yì,yì" />
+		<definition id="二" text="[仡仡]">
+			<item id="1" text="强壮勇敢。" />
+			<item id="2" text="高大。" />
+		</definition>
+	</char>
+</pinyin>

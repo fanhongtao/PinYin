@@ -2,29 +2,13 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="捎" py="shāo" />
 	<char hz="梢" py="shāo" />
-	<char hz="稍" py="shāo" multi="shào" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="副词，略微（(连)-微）：~有不同. 请~等一下." />
-		</definition>
-	</char>
-	<char hz="蛸" py="shāo" multi="xiāo">
-		<phrase hz="蟏蛸" py="xiāo,shāo" />
-		<definition id="二">
-			<item text="见“蟏”字条“蟏蛸”(xiāo-)。" />
-		</definition>
-	</char>
+	<!-- Ref:稍.xml <char hz="稍" py="shāo" multi="shào" main="1" suppressLog="1" /> -->
+	<!-- Ref:蛸.xml <char hz="蛸" py="shāo" multi="xiāo" /> -->
 	<char hz="筲" py="shāo">
 		<phrase hz="筲箕" py="shāo,jī" />
 	</char>
 	<char hz="艄" py="shāo" />
-	<char hz="鞘" py="shāo" multi="qiào" info="Word主音">
-		<phrase hz="鞭鞘" py="biān,shāo" />
-		<phrase hz="乌鞘岭" py="wū,shāo,lǐng" />
-		<definition id="二">
-			<item text="鞭鞘，拴在鞭子头上的细皮条。" />
-			<item text="[乌鞘岭]岭名，在甘肃省天祝。" />
-		</definition>
-	</char>
+	<!-- Ref:鞘.xml <char hz="鞘" py="shāo" multi="qiào" info="Word主音" /> -->
 	<char hz="烧" py="shāo" />
 	<char hz="勺" py="sháo">
 		<definition>
@@ -35,25 +19,8 @@
 	<char hz="芍" py="sháo">
 		<phrase hz="芍药" py="sháo,yao" />
 	</char>
-	<char hz="杓" py="sháo" multi="biāo" info="Word主音">
-		<phrase hz="杯杓" py="bēi,sháo" info="亦作“杯勺”。酒杯和杓子。借指饮酒。" />
-		<phrase hz="斗杓" py="dǒu,sháo" />
-		<phrase hz="脑杓" py="nǎo,sháo" info="头的后部。" />
-		<phrase hz="杓风" py="sháo,fēng" info="指两湖一带夏季的一种大风。" />
-		<phrase hz="杓建" py="sháo,jiàn" info="谓以北斗星斗柄所指方向确定四时、节气。" />
-		<phrase hz="星杓" py="xīng,fēng" info="指北斗的玉衡、开阳、摇光三星。也称斗杓、斗柄。" />
-		<phrase hz="柘杓" py="zhè,sháo" info="用柘木制的杓子。" />
-		<phrase hz="樽杓" py="zūn,sháo" info="指饮酒之器。" />
-		<definition id="二">
-			<item text="同“勺(1)”。" />
-		</definition>
-	</char>
-	<char hz="苕" py="sháo" multi="tiáo">
-		<phrase hz="红苕" py="hóng,sháo" />
-		<definition id="二">
-			<item text="〈方〉红苕，就是甘薯。" />
-		</definition>
-	</char>
+	<!-- Ref:杓.xml <char hz="杓" py="sháo" multi="biāo" info="Word主音" /> -->
+	<!-- Ref:苕.xml <char hz="苕" py="sháo" multi="tiáo" /> -->
 	<char hz="韶" py="sháo" />
 	<!-- Ref:少.xml <char hz="少" py="shǎo" multi="shào" main="1" /> -->
 	<!-- Ref:少.xml <char hz="少" py="shào" multi="shǎo" /> -->
@@ -62,11 +29,6 @@
 	<char hz="劭" py="shào" />
 	<char hz="绍" py="shào" />
 	<char hz="哨" py="shào" />
-	<char hz="稍" py="shào" multi="shāo">
-		<phrase hz="稍息" py="shào,xī" />
-		<definition id="二">
-			<item text="[稍息]军事或体操的口令，命令队伍从立正姿势变为休息的姿势。" />
-		</definition>
-	</char>
+	<!-- Ref:稍.xml <char hz="稍" py="shào" multi="shāo" /> -->
 	<char hz="潲" py="shào" />
 </pinyin>

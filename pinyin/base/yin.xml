@@ -18,37 +18,18 @@
 	<char hz="音" py="yīn" />
 	<char hz="喑" py="yīn" />
 	<char hz="愔" py="yīn" />
-	<char hz="殷" py="yīn" multi="yān" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="深厚，丰盛：情意甚~. ~切的期望. [殷实]富足，富裕：家道~~." />
-			<item id="2" text="[殷勤]周到，尽心：做事很~~. ~~招待." />
-			<item id="3" text="殷朝，商朝的后期，由盘庚起称殷（公元前1300——公元前1046年）。" />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:殷.xml <char hz="殷" py="yīn" multi="yān" main="1" suppressLog="1" /> -->
 	<char hz="溵" py="yīn">
 		<phrase hz="溵溜" py="yīn,liù" />
 	</char>
 	<char hz="堙" py="yīn" />
 	<char hz="闉" py="yīn" trans="1" />
-	<char hz="湮" py="yīn" multi="yān">
-		<definition id="二">
-			<item text="同“洇”。" />
-		</definition>
-	</char>
+	<!-- Ref:湮.xml<char hz="湮" py="yīn" multi="yān" /> -->
 	<char hz="禋" py="yīn" />
 	<char hz="吟" py="yín" />
 	<char hz="垠" py="yín" />
 	<char hz="银" py="yín" />
-	<char hz="龈" py="yín" multi="kěn" main="1">
-		<phrase hz="齿龈" py="chǐ,yín" info="即牙床，包住齿颈的粉红色黏膜组织" />
-		<phrase hz="龙龈" py="lóng,yín" info="古琴尾镶有刻有浅槽的硬木“龙龈”，用以架弦。龙龈两侧的边饰称为“冠角”，又称“焦尾”。" />
-		<phrase hz="牙龈" py="yá,yín" />
-		<phrase hz="龈龈计较" py="yín,yín,jì,jiào" info="指对无关紧要的事过分计较。同“斤斤计较”。" />
-		<definition id="一">
-			<item text="牙龈，牙床子，牙根上的肉。" />
-		</definition>
-	</char>
+	<!-- Ref:龈.xml <char hz="龈" py="yín" multi="kěn" main="1" /> -->
 	<char hz="狺" py="yín" />
 	<char hz="訚" py="yín" />
 	<char hz="崟" py="yín" />
@@ -68,17 +49,7 @@
 		<phrase hz="吲哚" py="yǐn,duǒ" />
 	</char>
 	<char hz="蚓" py="yǐn" />
-	<char hz="饮" py="yǐn" multi="yìn" main="1" suppressLog="1">
-		<phrase hz="餐饮" py="cān,yǐn" />
-		<phrase hz="冷饮" py="lěng,yǐn" />
-		<phrase hz="饮弹" py="yǐn,dàn" info="身体中弹" />
-		<phrase hz="饮恨" py="yǐn,hèn" />
-		<definition id="一">
-			<item id="1" text="喝：~水思源." />
-			<item id="2" text="可喝的东西：冷~." />
-			<item id="3" text="含忍：~恨." />
-		</definition>
-	</char>
+	<!-- Ref:饮.xml <char hz="饮" py="yǐn" multi="yìn" main="1" suppressLog="1" /> -->
 	<char hz="隐" py="yǐn" />
 	<char hz="瘾" py="yǐn" />
 	<char hz="䌥" py="yǐn" trans="1" />
@@ -87,13 +58,7 @@
 	</char>
 	<char hz="茚" py="yìn" />
 	<char hz="" py="yìn" />
-	<char hz="饮" py="yìn" multi="yǐn">
-		<phrase hz="饮马" py="yìn,mǎ" />
-		<phrase hz="饮牛" py="yìn,niú" />
-		<definition id="二">
-			<item text="给牲畜水喝：~马. ~牛." />
-		</definition>
-	</char>
+	<!-- Ref:饮.xml <char hz="饮" py="yìn" multi="yǐn" /> -->
 	<char hz="荫" py="yìn" />
 	<char hz="胤" py="yìn" />
 	<!-- Ref:窨.xml <char hz="窨" py="yìn" multi="xūn" main="1" /> -->

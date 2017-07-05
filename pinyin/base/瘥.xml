@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瘥" py="chài" multi="cuó" main="1">
+		<phrase hz="久病初瘥" py="jiǔ,bìng,chū,chài" />
+		<definition id="一">
+			<item text="病愈：久病初~." />
+		</definition>
+	</char>
+	<char hz="瘥" py="cuó" multi="chài">
+		<definition id="二">
+			<item text="病。" />
+		</definition>
+	</char>
+</pinyin>

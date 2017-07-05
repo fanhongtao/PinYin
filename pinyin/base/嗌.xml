@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嗌" py="ài" multi="yì">
+		<phrase hz="嗌喉" py="ài,hóu" />
+		<definition id="一">
+			<item text="噎，食物塞住嗓子。" />
+		</definition>
+	</char>
+	<char hz="嗌" py="yì" multi="ài" main="1">
+		<definition id="二">
+			<item text="咽喉。" />
+		</definition>
+	</char>
+</pinyin>

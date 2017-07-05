@@ -59,11 +59,7 @@
 	<char hz="仪" py="yí" />
 	<char hz="圯" py="yí" />
 	<char hz="夷" py="yí" />
-	<char hz="荑" py="yí" multi="tí" main="1">
-		<definition id="一">
-			<item text="割去田地里的野草。" />
-		</definition>
-	</char>
+	<!-- Ref:荑.xml <char hz="荑" py="yí" multi="tí" main="1" /> -->
 	<char hz="咦" py="yí" />
 	<char hz="姨" py="yí" />
 	<char hz="胰" py="yí" />
@@ -82,12 +78,7 @@
 	<char hz="簃" py="yí" />
 	<char hz="宧" py="yí" />
 	<char hz="颐" py="yí" />
-	<char hz="蛇" py="yí" multi="shé">
-		<phrase hz="委蛇" py="wēi,yí" />
-		<definition id="二">
-			<item text="见“委”字条“委蛇”(wēi-)。" />
-		</definition>
-	</char>
+	<!-- Ref:蛇.xml <char hz="蛇" py="yí" multi="shé" /> -->
 	<!-- Ref:遗.xml <char hz="遗" py="yí" multi="wèi" main="1" suppressLog="1" /> -->
 	<char hz="疑" py="yí" />
 	<char hz="嶷" py="yí" />
@@ -117,13 +108,7 @@
 	<char hz="扆" py="yǐ" />
 	<char hz="乂" py="yì" />
 	<char hz="刈" py="yì" />
-	<char hz="艾" py="yì" multi="ài">
-		<phrase hz="怨艾" py="yuàn,yì" />
-		<phrase hz="自怨自艾" py="zì,yuàn,zì,yì" />
-		<definition id="二">
-			<item text="治理。 [自怨自艾]本义是悔恨自己的错误，自己改正。现在只指悔恨。" />
-		</definition>
-	</char>
+	<!-- Ref:艾.xml <char hz="艾" py="yì" multi="ài" /> -->
 	<char hz="弋" py="yì" />
 	<char hz="杙" py="yì" />
 	<char hz="亿" py="yì" />
@@ -132,13 +117,7 @@
 	<char hz="议" py="yì" />
 	<char hz="艺" py="yì" />
 	<char hz="呓" py="yì" />
-	<char hz="仡" py="yì" multi="gē" main="1">
-		<phrase hz="仡仡" py="yì,yì" />
-		<definition id="二" text="[仡仡]">
-			<item id="1" text="强壮勇敢。" />
-			<item id="2" text="高大。" />
-		</definition>
-	</char>
+	<!-- Ref:仡.xml <char hz="仡" py="yì" multi="gē" main="1" /> -->
 	<char hz="屹" py="yì" />
 	<char hz="亦" py="yì" />
 	<char hz="弈" py="yì" />
@@ -156,12 +135,7 @@
 	<char hz="佚" py="yì" />
 	<char hz="泆" py="yì" />
 	<char hz="轶" py="yì" />
-	<char hz="昳" py="yì" multi="dié">
-		<phrase hz="昳丽" py="yì,lì" />
-		<definition id="二">
-			<item text="[昳丽]美丽：形貌~~." />
-		</definition>
-	</char>
+	<!-- Ref:昳.xml <char hz="昳" py="yì" multi="dié" /> -->
 	<char hz="役" py="yì" />
 	<char hz="疫" py="yì" />
 	<char hz="毅" py="yì" />
@@ -182,11 +156,7 @@
 	<char hz="翳" py="yì" />
 	<char hz="翼" py="yì" />
 	<char hz="益" py="yì" />
-	<char hz="嗌" py="yì" multi="ài" main="1">
-		<definition id="二">
-			<item text="咽喉。" />
-		</definition>
-	</char>
+	<!-- Ref:嗌.xml <char hz="嗌" py="yì" multi="ài" main="1" /> -->
 	<char hz="溢" py="yì" />
 	<char hz="缢" py="yì" />
 	<char hz="镒" py="yì" />

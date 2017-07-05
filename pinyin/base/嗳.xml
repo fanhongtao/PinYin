@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="嗳" py="āi" multi="ǎi,ài">
+		<definition id="三">
+			<item text="同“哎”" />
+		</definition>
+	</char>
+	<char hz="嗳" py="ǎi" multi="āi,ài" main="1">
+		<phrase hz="嗳酸" py="ǎi,suān" />
+		<definition id="一">
+			<item text="叹词，表示否定或不同意：~，别那么说. ~，不是这样放." />
+		</definition>
+	</char>
+	<char hz="嗳" py="ài" multi="āi,ǎi">
+		<definition id="二">
+			<item text="叹词，表示懊恼、悔恨：~，早知道是这样，我就不来了." />
+		</definition>
+	</char>
+</pinyin>

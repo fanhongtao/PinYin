@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咳" py="hāi" multi="ké">
-		<phrase hz="咳声叹气" py="hāi,shēng,tàn,qì" info="因忧伤、烦闷或痛苦而发出叹息的声音。" />
-		<definition id="二">
-			<item id="1" text="叹息：~声叹气." />
-			<item id="2" text="叹词。1.表示惋惜或后悔：~，我为什么这么糊涂！ 2.招呼人，提醒人注意：~，到这儿来." />
-		</definition>
-	</char>
+	<!-- Ref:咳.xml <char hz="咳" py="hāi" multi="ké" /> -->
 	<!-- Ref:嗨.xml <char hz="嗨" py="hāi" multi="hēi" main="1" /> -->
 	<!-- Ref:还.xml <char hz="还" py="hái" multi="huán" main="1" /> -->
 	<char hz="孩" py="hái" />

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="酢" py="cù" multi="zuò">
+		<phrase hz="酢浆草" py="cù,jiāng,cǎo" info="多年生草本植物。" />
+		<phrase hz="酢酒" py="cù,jiǔ" info="即醋酒，苦酒。" />
+		<definition id="二">
+			<item text="同“醋”。 [酢浆草]多年生草本植物，匍匐茎，掌状复叶，茎、叶有酸味，开黄色小花，结蒴果，圆柱形。全草可入药。" />
+		</definition>
+	</char>
+	<char hz="酢" py="zuò" multi="cù" main="1">
+		<phrase hz="酬酢" py="chóu,zuò" />
+		<definition id="一">
+			<item text="客人用酒回敬主人。" />
+		</definition>
+	</char>
+</pinyin>

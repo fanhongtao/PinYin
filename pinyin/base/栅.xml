@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="栅" py="shān" multi="zhà">
+		<phrase hz="栅极" py="shān,jí" />
+		<phrase hz="光栅" py="guāng,shān" info="由大量等宽等间距的平行狭缝构成的光学器件称为光栅（grating）" />
+		<definition id="二">
+			<item text="[栅极]电子管靠阴极的一个电极。" />
+		</definition>
+	</char>
+	<char hz="栅" py="zhà" multi="shān" main="1" suppressLog="1">
+		<phrase hz="栅栏" py="zhà,lán" />
+		<definition id="一">
+			<item text="栅栏，用竹、木、铁条等做成的阻拦物：篱笆~. 铁~栏." />
+		</definition>
+	</char>
+</pinyin>

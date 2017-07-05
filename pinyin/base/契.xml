@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="契" py="qì" multi="xiè" main="1" suppressLog="1">
+		<phrase hz="房契" py="fáng,qì" info="房产生意成交后的契据" />
+		<phrase hz="活契" py="huó,qì" info="出卖房地产时所立的，规定还可以赎回的契约。" />
+		<phrase hz="默契" py="mò,qì" info="1.心声情意暗相符合 2.默默承认的条件、限定或规定" />
+		<phrase hz="契合" py="qì,hé" info="1.投合，意气相投 2.结盟;结拜" />
+		<phrase hz="契机" py="qì,jī" info="机会，转折变化的机缘" />
+		<phrase hz="契友" py="qì,yǒu" info="情投意合的朋友" />
+		<phrase hz="契约" py="qì,yuē" info="双方或多方共同协议订立的有关买卖、抵押、租赁等关系的文书" />
+		<phrase hz="死契" py="sǐ,qì" info="注明不得赎回的契约。" />
+		<phrase hz="田契" py="tián,qì" info="旧时拥有、买卖、转让田地的书面凭证" />
+		<phrase hz="投契" py="tóu,qì" info="投合;见解或意气相投" />
+		<phrase hz="贤契" py="xián,qì" info="对弟子或朋友子侄辈的敬称(多用于书面)" />
+		<definition id="一">
+			<item id="1" text="用刀雕刻。" />
+			<item id="2" text="刻的文字：书~." />
+			<item id="3" text="契约，证明买卖、抵押、租赁等关系的合同、文书、字据：地~. 房~. 卖身~." />
+			<item id="4" text="相合，情意相投：默~. 相~. ~友." />
+			<item text="[契丹]我国古代东北地区的一个民族，曾建立辽国。" />
+		</definition>
+	</char>
+	<char hz="契" py="xiè" multi="qì">
+		<definition id="二">
+			<item text="商朝的祖先，传说是舜的臣。" />
+		</definition>
+	</char>
+</pinyin>

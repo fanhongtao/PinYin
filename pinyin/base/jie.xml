@@ -6,12 +6,7 @@
 	<char hz="皆" py="jiē" />
 	<char hz="喈" py="jiē" />
 	<char hz="湝" py="jiē" />
-	<char hz="楷" py="jiē" multi="kǎi">
-		<phrase hz="楷树" py="jiē,shù" />
-		<definition id="二">
-			<item text="楷树，落叶乔木，果实长圆形，红色。木材可制器具。也叫“黄连木”。" />
-		</definition>
-	</char>
+	<!-- Ref:楷.xml <char hz="楷" py="jiē" multi="kǎi" /> -->
 	<!-- Ref:结.xml <char hz="结" py="jiē" multi="jié" /> -->
 	<char hz="秸" py="jiē" />
 	<char hz="接" py="jiē" />
@@ -28,15 +23,7 @@
 	<char hz="杰" py="jié" />
 	<char hz="桀" py="jié" />
 	<char hz="劼" py="jié" />
-	<char hz="诘" py="jié" multi="jí" main="1" suppressLog="1">
-		<phrase hz="反诘" py="fǎn,jié" info="反问" />
-		<phrase hz="诘难" py="jié,nàn" info="诘问驳难。" />
-		<phrase hz="诘问" py="jié,wèn" info="追问;责问" />
-		<phrase hz="诘责" py="jié,zé" info="诘问谴责" />
-		<definition id="一">
-			<item text="追问：反~. 盘~." />
-		</definition>
-	</char>
+	<!-- Ref:诘.xml <char hz="诘" py="jié" multi="jí" main="1" suppressLog="1" /> -->
 	<char hz="拮" py="jié">
 		<phrase hz="拮据" py="jié,jū" />
 		<definition>
@@ -57,13 +44,7 @@
 		<phrase hz="婕妤" py="jié,yú" />
 	</char>
 	<char hz="睫" py="jié" />
-	<char hz="偈" py="jié" multi="jì">
-		<phrase hz="偈偈" py="jié,jié" info="1.急驰貌。2.用力貌。" />
-		<definition id="二">
-			<item id="1" text="勇武。" />
-			<item id="2" text="跑得快。" />
-		</definition>
-	</char>
+	<!-- Ref:偈.xml <char hz="偈" py="jié" multi="jì" /> -->
 	<char hz="楬" py="jié">
 		<phrase hz="楬橥" py="jié,zhū" />
 	</char>
@@ -77,19 +58,7 @@
 	<char hz="檞" py="jiè" />
 	<char hz="介" py="jiè" />
 	<!-- Ref:价.xml <char hz="价" py="jiè" multi="jià,jie" /> -->
-	<char hz="芥" py="jiè" multi="gài" main="1" suppressLog="1">
-		<phrase hz="草芥" py="cǎo,jiè" />
-		<phrase hz="尘芥" py="chén,jiè" />
-		<phrase hz="地芥" py="dì,jiè" />
-		<phrase hz="蒂芥" py="dì,jiè" />
-		<phrase hz="芥菜" py="jiè,cài" duoyin="gài,cài" info="一年或二年生草本植物，种子黄色，味辛辣，磨成粉末，称“芥末”，作调味品。按用途分为叶用芥菜（如“雪里蕻”）；茎用芥菜（如“榨菜”）；根用芥菜（如“大头菜”）。" />
-		<phrase hz="芥蒂" py="jiè,dì" />
-		<phrase hz="芥末" py="jiè,mò" />
-		<phrase hz="荆芥" py="jīng,jiè" />
-		<definition id="一">
-			<item text="芥菜，一年或二年生草本植物，开黄花，茎叶及块根可吃。种子味辛辣，研成细末，可调味。" />
-		</definition>
-	</char>
+	<!-- Ref:芥.xml <char hz="芥" py="jiè" multi="gài" main="1" suppressLog="1" /> -->
 	<char hz="玠" py="jiè" />
 	<char hz="界" py="jiè" />
 	<char hz="疥" py="jiè" />
@@ -108,17 +77,7 @@
 		</definition>
 	</char>
 	<char hz="唶" py="jiè" />
-	<char hz="藉" py="jiè" multi="jí" main="1">
-		<phrase hz="藉口" py="jiè,kǒu" info="1.借用別人的話，作為自己論說的依據。2.以某事為理由。3.假託的理由。" />
-		<phrase hz="慰藉" py="wèi,jiè" info="安慰;抚慰" />
-		<phrase hz="蕴藉" py="yùn,jiè" info="含而不露" />
-		<phrase hz="枕藉" py="zhěn,jiè" info="纵横交错地躺在一起" />
-		<definition id="一">
-			<item id="1" text="垫在下面的东西。" />
-			<item id="2" text="垫衬：枕~." />
-			<item id="3" text="同“借(3)(4)”。" />
-		</definition>
-	</char>
+	<!-- Ref:藉.xml <char hz="藉" py="jiè" multi="jí" main="1" /> -->
 	<!-- Ref:解.xml <char hz="解" py="jiè" multi="jiě,xiè" /> -->
 	<char hz="犗" py="jiè" />
 	<char hz="褯" py="jiè" />

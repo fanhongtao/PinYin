@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="济" py="jǐ" multi="jì">
+		<phrase hz="济济" py="jǐ,jǐ" />
+		<phrase hz="济南" py="jǐ,nán" />
+		<phrase hz="济宁" py="jǐ,níng" />
+		<phrase hz="济水" py="jǐ,shuǐ" />
+		<definition id="二">
+			<item text="济水，古水名，发源于今河南省，流经山东省入渤海。" />
+			<item text="[济南][济宁]地名，都在山东省。" />
+			<item text="[济济]众多：人才~~." />
+		</definition>
+	</char>
+	<char hz="济" py="jì" multi="jǐ" main="1">
+		<phrase hz="济难" py="jì,nàn" info="解救危难。" />
+		<phrase hz="济贫" py="jì,pín" info="向穷人提供救济和帮助" />
+		<phrase hz="济世" py="jì,shì" info="在金钱、物质等方面救济世人" />
+		<phrase hz="济事" py="jì,shì" info="顶事;成事" />
+		<phrase hz="接济" py="jiē,jì" info="以财物等资助他人" />
+		<phrase hz="救济" py="jiù,jì" info="用金钱或物资帮助生活困难的人" />
+		<phrase hz="同舟共济" py="tóng,zhōu,gòng,jì" info="舟：船；济：渡，过洒。坐一条船，共同渡河。比喻团结互助，同心协力，战胜困难。也比喻利害相同。" />
+		<phrase hz="无济于事" py="wú,jì,yú,shì" info="济：补益，帮助。对事情没有什么帮助或益处。比喻不解决问题。" />
+		<phrase hz="赈济" py="zhèn,jì" info="用财物救济" />
+		<phrase hz="周济" py="zhōu,jì" info="在物质上给以帮助;接济" />
+		<definition id="一">
+			<item id="1" text="对困苦的人加以帮助：救~金. ~困扶危." />
+			<item id="2" text="补益：无~于事." />
+			<item id="3" text="渡，过河：同舟共~." />
+		</definition>
+	</char>
+</pinyin>

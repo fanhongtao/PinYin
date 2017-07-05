@@ -1,78 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="抽" py="chōu" />
-	<char hz="" py="chōu" multi="chóu" main="1">
-		<phrase hz="绎" py="chōu,yì" />
-		<phrase hz="阅" py="chōu,yuè" info="翻检阅读。" />
-		<definition id="一">
-			<item text="引出，缀辑。[绎][抽绎](-yì)引出头绪。" />
-		</definition>
-	</char>
+	<!-- Ref:.xml <char hz="" py="chōu" multi="chóu" main="1" /> -->
 	<char hz="瘳" py="chōu" />
 	<char hz="犨" py="chōu" />
-	<char hz="仇" py="chóu" multi="qiú" main="1">
-		<phrase hz="报仇" py="bào,chóu" />
-		<phrase hz="不解之仇" py="bù,jiě,zhī,chóu" />
-		<phrase hz="成仇" py="chéng,chóu" />
-		<phrase hz="仇池" py="chóu,chí" info="仇池国是魏晋南北朝时期氐族杨氏建立的政权名称，因其立国之时政治中心在仇池山而得名。" />
-		<phrase hz="仇雠" py="chóu,chóu" info="仇人" />
-		<phrase hz="仇敌" py="chóu,dí" />
-		<phrase hz="仇恨" py="chóu,hèn" />
-		<phrase hz="仇家" py="chóu,jiā" />
-		<phrase hz="仇人" py="chóu,rén" />
-		<phrase hz="仇杀" py="chóu,shā" />
-		<phrase hz="仇视" py="chóu,shì" />
-		<phrase hz="仇外" py="chóu,wài" info="憎恨仇视外国" />
-		<phrase hz="仇隙" py="chóu,xì" info="仇恨" />
-		<phrase hz="仇冤" py="chóu,yuān" info="有仇又有冤" />
-		<phrase hz="仇怨" py="chóu,yuàn" info="仇视憎恨" />
-		<phrase hz="仇者快" py="chóu,zhě,kuài" info="亲者痛，仇者快。" />
-		<phrase hz="恩仇" py="ēn,chóu" />
-		<phrase hz="恩将仇报" py="ēn,jiāng,chóu,bào" />
-		<phrase hz="复仇" py="fù,chóu" />
-		<phrase hz="国仇" py="guó,chóu" />
-		<phrase hz="嫉恶如仇" py="jí,è,rú,chóu" />
-		<phrase hz="疾恶如仇" py="jí,è,rú,chóu" />
-		<phrase hz="记仇" py="jì,chóu" />
-		<phrase hz="家仇" py="jiā,chóu" />
-		<phrase hz="结仇" py="jié,chóu" />
-		<phrase hz="解剑拜仇" py="jiě,jiàn,bài,chóu" />
-		<phrase hz="九世之仇" py="jiǔ,shì,zhī,chóu" />
-		<phrase hz="寇仇" py="kòu,chóu" info="仇人;仇敌" />
-		<phrase hz="苦大仇深" py="kǔ,dà,chóu,shēn" />
-		<phrase hz="前仇" py="qián,chóu" />
-		<phrase hz="亲痛仇快" py="qīn,tòng,chóu,kuài" />
-		<phrase hz="深仇" py="shēn,chóu" info="自定义词。如：深仇大恨、深仇宿怨。" />
-		<phrase hz="世仇" py="shì,chóu" />
-		<phrase hz="私仇" py="sī,chóu" />
-		<phrase hz="宿仇" py="sù,chóu" />
-		<phrase hz="夙仇" py="sù,chóu" />
-		<phrase hz="同仇" py="tóng,chóu" />
-		<phrase hz="新仇旧恨" py="xīn,chóu,jiù,hèn" />
-		<phrase hz="血仇" py="xuè,chóu" />
-		<phrase hz="血海深仇" py="xuè,hǎi,shēn,chóu" />
-		<phrase hz="寻仇" py="xún,chóu" />
-		<phrase hz="冤仇" py="yuān,chóu" />
-		<phrase hz="怨仇" py="yuàn,chóu" />
-		<phrase hz="有仇" py="yǒu,chóu" />
-		<definition id="一">
-			<item text="深切的怨恨：~人. 恩将~报. ~视侵略者." />
-		</definition>
-	</char>
-	<char hz="" py="chóu" multi="chōu">
-		<definition id="二">
-			<item text="同“绸”。" />
-		</definition>
-	</char>
+	<!-- Ref:仇.xml <char hz="仇" py="chóu" multi="qiú" main="1" /> -->
+	<!-- Ref:.xml <char hz="" py="chóu" multi="chōu" /> -->
 	<char hz="俦" py="chóu" />
-	<char hz="帱" py="chóu" multi="dào" main="1">
-		<phrase hz="帱帐" py="chóu,zhàng" info="床帐。" />
-		<phrase hz="蚊帱" py="wén,chóu" info="蚊帐。" />
-		<definition id="一">
-			<item id="1" text="帐子。" />
-			<item id="2" text="车帷。" />
-		</definition>
-	</char>
+	<!-- Ref:帱.xml <char hz="帱" py="chóu" multi="dào" main="1" /> -->
 	<char hz="畴" py="chóu" />
 	<char hz="筹" py="chóu" />
 	<char hz="踌" py="chóu" />
@@ -92,19 +27,7 @@
 		<phrase hz="校雠" py="jiào,chóu" />
 	</char>
 	<char hz="丑" py="chǒu" />
-	<char hz="杻" py="chǒu" multi="niǔ" main="1">
-		<phrase hz="杻械" py="chǒu,xiè" />
-		<definition id="一">
-			<item text="古代刑具，手铐之类。" />
-		</definition>
-	</char>
+	<!-- Ref:杻.xml <char hz="杻" py="chǒu" multi="niǔ" main="1" /> -->
 	<char hz="瞅" py="chǒu" />
-	<char hz="臭" py="chòu" multi="xiù" main="1" suppressLog="1">
-		<phrase hz="臭骂" py="chòu,mà" />
-		<phrase hz="臭美" py="chòu,měi" />
-		<definition id="一">
-			<item id="1" text="气味难闻的，跟“香”相对：~气熏人. (喻)1.惹人厌恶的：遗~万年. 放下~架子. 2.低劣：~棋. 这球踢得真~." />
-			<item id="2" text="狠狠地：~骂." />
-		</definition>
-	</char>
+	<!-- Ref:臭.xml <char hz="臭" py="chòu" multi="xiù" main="1" suppressLog="1" /> -->
 </pinyin>

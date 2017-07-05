@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="栖" py="qī" multi="xī" main="1">
+		<phrase hz="两栖" py="liǎng,qī" info="能在水中与陆上生活或活动。如：两栖动物，水陆两栖坦克。" />
+		<phrase hz="栖身" py="qī,shēn" info="寄生;暂住" />
+		<phrase hz="栖息" py="qī,xī" info="1.止息；寄居；2.指寄居之所；3.谓隐居。" />
+		<definition id="一">
+			<item text="鸟停留在树上。 (引)居住，停留：两~. ~身之处." />
+			<item text="[栖霞]地名，在山东省。" />
+		</definition>
+	</char>
+	<char hz="栖" py="xī" multi="qī">
+		<phrase hz="栖栖" py="xī,xī" />
+		<definition id="二">
+			<item text="[栖栖]忙碌不安定的样子。" />
+		</definition>
+	</char>
+</pinyin>

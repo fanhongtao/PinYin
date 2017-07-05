@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蛇" py="shé" multi="yí" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="爬行动物，俗叫“长虫”。身体细长，有鳞，没有四肢，种类很多，有的有毒，捕食蛙等小动物。" />
+		</definition>
+	</char>
+	<char hz="蛇" py="yí" multi="shé">
+		<phrase hz="委蛇" py="wēi,yí" />
+		<definition id="二">
+			<item text="见“委”字条“委蛇”(wēi-)。" />
+		</definition>
+	</char>
+</pinyin>

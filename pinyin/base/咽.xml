@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咽" py="yān" multi="yàn,yè" main="1">
+		<phrase hz="咽喉" py="yān,hóu" info="1.喉咙，包括咽、食管上部、喉及气管的通向胃和肺的通道 2.颈的前方上部紧接面颊的部分;上咽头 3.比喻形势险要的交通孔道" />
+		<phrase hz="咽头" py="yān,tóu" info="咽的俗称" />
+		<phrase hz="咽炎" py="yān,yán" info="咽的炎症" />
+		<definition id="一">
+			<item text="咽头，食物和气体共同通道，位于鼻腔、口腔和喉腔的后方，通常混称咽喉。" />
+		</definition>
+	</char>
+	<char hz="咽" py="yàn" multi="yān,yè">
+		<phrase hz="狼吞虎咽" py="láng,tūn,hǔ,yàn" />
+		<phrase hz="吞咽" py="tūn,yàn" info="吞食;不加咀嚼而咽下" />
+		<phrase hz="细嚼慢咽" py="xì,jiáo,màn,yàn" />
+		<phrase hz="咽气" py="yàn,qì" info="指人死断气" />
+		<definition id="二">
+			<item text="使嘴里的食物等通过咽喉到食道里去：细嚼慢~. 狼吞虎~. [咽气]人死时断气。" />
+		</definition>
+	</char>
+	<char hz="咽" py="yè" multi="yān,yàn">
+		<phrase hz="悲咽" py="bēi,yè" info="悲伤呜咽。" />
+		<phrase hz="哽咽" py="gěng,yè" info="不能痛快的出声哭" />
+		<phrase hz="梗咽" py="gěng,yè" info="哽咽。因悲愤而气结喉塞。" />
+		<phrase hz="呜咽" py="wū,yè" info="1.伤心哽泣的声音 2.形容水、风等的声音凄切" />
+		<phrase hz="幽咽" py="yōu,yè" info="1.微弱的哭泣 2.形容低微的流水声" />
+		<definition id="三">
+			<item text="呜咽，哽咽，悲哀得说不出话来。" />
+		</definition>
+	</char>
+</pinyin>

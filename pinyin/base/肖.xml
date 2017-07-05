@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="肖" py="xiāo" multi="xiào" main="1">
+		<definition id="二">
+			<item text="“萧”（姓）俗作“肖”。" />
+		</definition>
+	</char>
+	<char hz="肖" py="xiào" multi="xiāo">
+		<phrase hz="毕肖" py="bì,xiào" info="完全相像" />
+		<phrase hz="不肖" py="bú,xiào" info="1.品行不好，没有出息(多用于子孙)(不肖子孙) 2.谦辞。 不才，不贤" />
+		<phrase hz="酷肖" py="kù,xiào" info="很像，非常相似。" />
+		<phrase hz="生肖" py="shēng,xiàng" info="代表十二地支,用来记人出生年的十二种动物,即鼠(子)、牛(丑)、虎(寅)、兔(卯)、龙(辰)、蛇(巳)、马(午)、羊(未)、猴(申)、鸡(酉)、狗(戌)、猪(亥)。 也叫属相" />
+		<phrase hz="维妙维肖" py="wéi,miào,wéi,xiào" info="维：语助词；妙：手艺巧妙；肖：相似，逼真。形容描写或模仿的非常逼真。" />
+		<phrase hz="唯妙唯肖" py="wéi,miào,wéi,xiào" info="形容描写或模仿得非常巧妙，非常逼真。" />
+		<phrase hz="惟妙惟肖" py="wéi,miào,wéi,xiào" info="描写或模仿得非常逼真。" />
+		<phrase hz="肖似" py="xiào,sì" info="犹相似，相像。" />
+		<phrase hz="肖像" py="xiào,xiàng" info="用图画、素描或其他绘画手法描绘某人脸部的像" />
+		<phrase hz="子肖其父" py="zǐ,xiào,qí,fù" />
+		<definition id="一">
+			<item text="像，相似：子~其父. [肖像]画像，相片。" />
+		</definition>
+	</char>
+</pinyin>

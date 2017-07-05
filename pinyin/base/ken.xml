@@ -11,11 +11,7 @@
 	</char>
 	<char hz="垦" py="kěn" />
 	<char hz="恳" py="kěn" />
-	<char hz="龈" py="kěn" multi="yín">
-		<definition id="二">
-			<item text="同“啃”。" />
-		</definition>
-	</char>
+	<!-- Ref:龈.xml <char hz="龈" py="kěn" multi="yín" /> -->
 	<char hz="掯" py="kěn">
 		<phrase hz="勒掯" py="lēi,kěn" />
 	</char>

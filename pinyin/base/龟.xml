@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="龟" py="guī" multi="qiū,jūn" main="1" suppressLog="1">
+		<phrase hz="蓍龟" py="shī,guī" />
+		<definition id="一">
+			<item text="爬行动物，种类很多。腹背都有硬甲，头尾和脚能缩入甲中，能耐饥渴，寿命很长。龟甲也叫龟板，可以入药。古人用龟甲占卜（迷信）：~卜. 蓍(shī)龟. [龟鉴][龟镜]用龟卜，用镜照，比喻可资借鉴的事例或道理。" />
+		</definition>
+	</char>
+	<char hz="龟" py="jūn" multi="guī,qiū">
+		<phrase hz="龟裂" py="jūn,liè" />
+		<definition id="二">
+			<item text="同“皲”。" />
+		</definition>
+	</char>
+	<char hz="龟" py="qiū" multi="guī,jūn">
+		<phrase hz="龟兹" py="qiū,cí" />
+		<definition id="三">
+			<item text="[龟兹](-cí)汉代西域国名，在今新疆维吾尔自治区库车一带。" />
+		</definition>
+	</char>
+</pinyin>

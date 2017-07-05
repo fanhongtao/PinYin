@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="艾" py="ài" multi="yì" main="1">
+		<phrase hz="艾艾" py="ài,ài" />
+		<phrase hz="艾草" py="ài,cǎo" />
+		<phrase hz="艾蒿" py="ài,hāo" />
+		<phrase hz="艾灸" py="ài,jiǔ" info="中医针灸疗法中的灸法。" />
+		<phrase hz="艾绒" py="ài,róng" />
+		<phrase hz="艾青" py="ài,qīng" />
+		<phrase hz="艾条" py="ài,tiáo" info="用棉纸包裹艾绒制成的圆柱形长卷，艾条主要用于艾灸" />
+		<phrase hz="艾森豪威尔" py="ài,sēn,háo,wēi,ěr" />
+		<phrase hz="艾席" py="ài,xí" info="用艾草作席子。言生活极清贫。" />
+		<phrase hz="艾滋病" py="ài,zī,bìng" />
+		<phrase hz="方兴未艾" py="fāng,xīng,wèi,ài" />
+		<phrase hz="少艾" py="shào,ài" />
+		<phrase hz="灼艾" py="zhuó,ài" info="中医疗法之一。燃烧艾绒熏灸人体一定的穴位。" />
+		<definition id="一">
+			<item id="1" text="多年生草本植物，开黄色小花，叶制成艾绒，可供灸病使用。" />
+			<item id="2" text="止，绝：方兴未~." />
+			<item id="3" text="漂亮，美：少~（年轻漂亮的人）." />
+			<item id="4" text="姓" />
+		</definition>
+	</char>
+	<char hz="艾" py="yì" multi="ài">
+		<phrase hz="怨艾" py="yuàn,yì" />
+		<phrase hz="自怨自艾" py="zì,yuàn,zì,yì" />
+		<definition id="二">
+			<item text="治理。 [自怨自艾]本义是悔恨自己的错误，自己改正。现在只指悔恨。" />
+		</definition>
+	</char>
+</pinyin>

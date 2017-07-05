@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="坷" py="kē" multi="kě" main="1">
+		<phrase hz="坷垃" py="kē,la" />
+		<definition id="一">
+			<item text="[坷垃](-la)土块。" />
+		</definition>
+	</char>
+	<char hz="坷" py="kě" multi="kē">
+		<phrase hz="坎坷" py="kǎn,kě" />
+		<definition id="二">
+			<item text="见“坎”字条“坎坷”(kǎn-)。" />
+		</definition>
+	</char>
+</pinyin>

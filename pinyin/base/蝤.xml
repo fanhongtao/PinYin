@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="蝤" py="qiú" multi="yóu" main="1">
+		<phrase hz="蝤蛴" py="qiú,qí" />
+		<definition id="一">
+			<item text="[蝤蛴](-qí)天牛的幼虫，身长足短，白色。" />
+		</definition>
+	</char>
+	<char hz="蝤" py="yóu" multi="qiú">
+		<phrase hz="蝤蛑" py="yóu,móu" />
+		<definition id="二">
+			<item text="[蝤蛑](-móu)又叫“梭子蟹”。生活在海里的一种螃蟹，甲壳略呈梭形，肉可以吃。" />
+		</definition>
+	</char>
+</pinyin>

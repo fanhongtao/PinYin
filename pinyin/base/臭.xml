@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="臭" py="chòu" multi="xiù" main="1" suppressLog="1">
+		<phrase hz="臭骂" py="chòu,mà" />
+		<phrase hz="臭美" py="chòu,měi" />
+		<definition id="一">
+			<item id="1" text="气味难闻的，跟“香”相对：~气熏人. (喻)1.惹人厌恶的：遗~万年. 放下~架子. 2.低劣：~棋. 这球踢得真~." />
+			<item id="2" text="狠狠地：~骂." />
+		</definition>
+	</char>
+	<char hz="臭" py="xiù" multi="chòu">
+		<phrase hz="口尚乳臭" py="kǒu,shàng,rǔ,xiù" />
+		<phrase hz="乳臭未除" py="rǔ,xiù,wèi,chú" />
+		<phrase hz="乳臭未干" py="rǔ,xiù,wèi,gān" />
+		<phrase hz="无色无臭" py="wú,sè,wú,xiù" />
+		<definition id="二">
+			<item id="1" text="气味：空气是无色无~的." />
+			<item id="2" text="同“嗅”。" />
+		</definition>
+	</char>
+</pinyin>

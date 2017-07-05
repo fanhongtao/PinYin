@@ -14,12 +14,7 @@
 	<char hz="恓" py="xī">
 		<phrase hz="恓惶" py="xī,huáng" />
 	</char>
-	<char hz="栖" py="xī" multi="qī">
-		<phrase hz="栖栖" py="xī,xī" />
-		<definition id="二">
-			<item text="[栖栖]忙碌不安定的样子。" />
-		</definition>
-	</char>
+	<!-- Ref:栖.xml <char hz="栖" py="xī" multi="qī" /> -->
 	<char hz="氥" py="xī" />
 	<char hz="牺" py="xī" />
 	<char hz="硒" py="xī" />
@@ -41,11 +36,7 @@
 	</char>
 	<char hz="昔" py="xī" />
 	<char hz="惜" py="xī" />
-	<char hz="腊" py="xī" multi="là">
-		<definition id="二">
-			<item text="干肉。" />
-		</definition>
-	</char>
+	<!-- Ref:腊.xml <char hz="腊" py="xī" multi="là" /> -->
 	<char hz="析" py="xī" />
 	<char hz="菥" py="xī">
 		<phrase hz="菥蓂" py="xī,mì" />
@@ -74,13 +65,7 @@
 	<char hz="溪" py="xī">
 		<phrase hz="溪卡" py="xī,kǎ" />
 	</char>
-	<char hz="蹊" py="xī" multi="qī" main="1">
-		<phrase hz="蹊径" py="xī,jìng" info="路径;办法" />
-		<phrase hz="下自成蹊" py="xià,zì,chéng,xī" info="“桃李不言，下自成蹊”：原意是桃树不招引人，但因它有花和果实，人们在它下面走来走去，走成了一条小路。比喻人只要真诚、忠实，就能感动别人。" />
-		<definition id="一">
-			<item text="小路（(连)-径）。" />
-		</definition>
-	</char>
+	<!-- Ref:蹊.xml <char hz="蹊" py="xī" multi="qī" main="1" /> -->
 	<char hz="鸂" py="xī" trans="1" />
 	<char hz="鼷" py="xī" />
 	<char hz="悉" py="xī" />
@@ -92,11 +77,7 @@
 	</char>
 	<char hz="翕" py="xī" />
 	<char hz="噏" py="xī" />
-	<char hz="歙" py="xī" multi="shè" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="吸气。" />
-		</definition>
-	</char>
+	<!-- Ref:歙.xml <char hz="歙" py="xī" multi="shè" main="1" suppressLog="1" /> -->
 	<char hz="犀" py="xī">
 		<phrase hz="木犀" py="mù,xi" />
 	</char>
@@ -104,12 +85,7 @@
 	<char hz="锡" py="xī">
 		<phrase hz="锡伯族" py="xī,bó,zú" />
 	</char>
-	<char hz="裼" py="xī" multi="tì" main="1">
-		<phrase hz="袒裼" py="tǎn,xī" info="脫去外衣，露出裡衣。" />
-		<definition id="一">
-			<item text="敞开或脱去上衣，露出身体的一部分（(连)袒-）。" />
-		</definition>
-	</char>
+	<!-- Ref:裼.xml <char hz="裼" py="xī" multi="tì" main="1" /> -->
 	<char hz="熙" py="xī">
 		<phrase hz="熙攘" py="xī,rǎng" />
 	</char>
@@ -153,33 +129,13 @@
 		</definition>
 	</char>
 	<char hz="葸" py="xǐ" />
-	<char hz="戏" py="xì" multi="hū" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="玩耍：集体游~. 不要当作儿~." />
-			<item id="2" text="嘲弄，开玩笑：~言." />
-			<item id="3" text="戏剧，也指杂技：看~. 唱~. 听~. 马~. 皮影~." />
-		</definition>
-	</char>
+	<!-- Ref:戏.xml <char hz="戏" py="xì" multi="hū" main="1" suppressLog="1" /> -->
 	<char hz="饩" py="xì" />
-	<char hz="系" py="xì" multi="jì" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="有连属关系的：~统. 一~列的事实. 水~. 世~." />
-			<item id="2" text="高等学校中按学科分的教学单位：中文~. 化学~." />
-			<item id="3" text="关联：干~." />
-			<item id="4" text="联结，拴：~马. (引)牵挂：~念. [联系]联络，接头：时常和他~~." />
-			<item id="5" text="是：确~实情." />
-			<item id="6" text="把人或东西捆住往上提或向下送：从房上把东西~下来." />
-			<item id="7" text="地层系统分类的第三级，在“界”之下，是地质年代“纪”的时间内形成的地层：第四~. 侏罗~. 寒武~." />
-		</definition>
-	</char>
+	<!-- Ref:系.xml <char hz="系" py="xì" multi="jì" main="1" suppressLog="1" /> -->
 	<char hz="屃" py="xì" />
 	<char hz="细" py="xì" />
 	<char hz="盻" py="xì" />
-	<char hz="咥" py="xì" multi="dié" main="1">
-		<definition id="一">
-			<item text="大笑。" />
-		</definition>
-	</char>
+	<!-- Ref:咥.xml <char hz="咥" py="xì" multi="dié" main="1" /> -->
 	<char hz="郤" py="xì" />
 	<char hz="绤" py="xì" />
 	<char hz="阋" py="xì" />

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咥" py="dié" multi="xì">
+		<definition id="二">
+			<item text="咬。" />
+		</definition>
+	</char>
+	<char hz="咥" py="xì" multi="dié" main="1">
+		<definition id="一">
+			<item text="大笑。" />
+		</definition>
+	</char>
+</pinyin>
