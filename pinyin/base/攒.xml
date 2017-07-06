@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="攒" py="cuán" multi="zǎn">
+		<phrase hz="攒凑" py="cuán,còu" />
+		<phrase hz="攒动" py="cuán,dòng" info="拥挤在一起晃动。" />
+		<phrase hz="攒盒" py="cuán,hé" info="盛各种果脯、果饵的一种分格的盒子" />
+		<phrase hz="攒集" py="cuán,jí" info="聚集" />
+		<phrase hz="攒尖顶" py="cuán,jiān,dǐng" info="中国传统木构建筑屋顶形式的一种。无正脊，屋顶顶端结束于一点的屋顶形式。" />
+		<phrase hz="攒聚" py="cuán,jù" info="紧密聚集;聚拢" />
+		<phrase hz="攒眉" py="cuán,méi" info="紧蹙双眉，一种不愉快的表情。" />
+		<!-- <phrase hz="攒钱" py="cuán,qián" duoyin="zǎn,qián" info="凑集钱" /> -->
+		<phrase hz="攒三集五" py="cuán,sān,jí,wǔ" info="指三五成堆或成群地聚集在一起。" />
+		<phrase hz="攒三聚五" py="cuán,sān,jù,wǔ" info="三五成群相聚,一点一滴积攒" />
+		<phrase hz="攒射" py="cuán,shè" info="密集地集中射击" />
+		<phrase hz="攒土" py="cuán,tǔ" info="密集地集中射击" />
+		<phrase hz="花簇锦攒" py="huā,cù,jǐn,cuán" info="形容五色缤纷、繁盛艳丽的景象。同“花攒锦簇”。" />
+		<phrase hz="花攒锦簇" py="huā,cuán,jǐn,cù" info="形容五色缤纷、繁盛艳丽的景象。" />
+		<phrase hz="四马攒蹄" py="sì,mǎ,cuán,tí" info="指两手两脚被捆在一起。" />
+		<phrase hz="万箭攒心" py="wàn,jiàn,cuán,xīn" info="一万支箭头穿入心中。形容心情苦闷悲痛的程度很深。也作“万箭穿心”。" />
+		<phrase hz="众星攒月" py="zhòng,xīng,cuán,yuè" info="许多星星聚集、环绕着月亮。比喻众人拥戴一人或众物围绕一物。" />
+		<definition id="二">
+			<item text="聚，凑集，拼凑：~凑. ~钱. ~电视机." />
+		</definition>
+	</char>
+	<char hz="攒" py="zǎn" multi="cuán" main="1">
+		<phrase hz="积攒" py="jī,zǎn" info="积蓄；积聚。" />
+		<phrase hz="攒积" py="zǎn,jī" info="积聚。" />
+		<phrase hz="攒劲" py="zǎn,jìn" info="集中力气。" />
+		<phrase hz="攒钱" py="zǎn,qián" duoyin="cuán,qián" info="积蓄钱" />
+		<definition id="一">
+			<item text="积聚，积蓄（(连)积-）：~粪. ~钱." />
+		</definition>
+	</char>
+</pinyin>

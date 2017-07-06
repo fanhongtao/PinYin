@@ -3,17 +3,7 @@
 	<!-- Ref:扎.xml <char hz="扎" py="zā" multi="zhā,zhá" main="1" /> -->
 	<char hz="匝" py="zā" />
 	<char hz="咂" py="zā" />
-	<char hz="拶" py="zā" multi="zǎn" main="1">
-		<phrase hz="逼拶" py="bī,zā" info="1.犹逼迫。 2.压迫。" />
-		<phrase hz="排拶" py="pái,zā" info="挤压。" />
-		<phrase hz="迫拶" py="pò,zā" info="逼迫；压迫。" />
-		<phrase hz="拶逼" py="zā,bī" info="逼迫。" />
-		<phrase hz="拶拆" py="zā,chāi" info="挤破。" />
-		<phrase hz="拶榨" py="zā,zhà" info="压榨。" />
-		<definition id="一">
-			<item text="逼迫。" />
-		</definition>
-	</char>
+	<!-- Ref:拶.xml <char hz="拶" py="zā" multi="zǎn" main="1" /> -->
 	<char hz="杂" py="zá" />
 	<char hz="砸" py="zá" />
 	<!-- Ref:咋.xml <char hz="咋" py="zǎ" multi="zé,zhā" main="1" /> -->

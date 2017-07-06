@@ -5,24 +5,10 @@
 	</char>
 	<char hz="簪" py="zān" />
 	<char hz="咱" py="zán" />
-	<char hz="拶" py="zǎn" multi="zā">
-		<phrase hz="拶指" py="zǎn,zhǐ" info="旧时用拶子夹手指的酷刑。" />
-		<phrase hz="拶子" py="zǎn,zi" info="旧时夹手指的刑具。" />
-		<definition id="二">
-			<item text="压紧。 [拶指]旧时用拶子夹手指的酷刑。 [拶子]旧时夹手指的刑具。" />
-		</definition>
-	</char>
+	<!-- Ref:拶.xml <char hz="拶" py="zǎn" multi="zā" /> -->
 	<char hz="昝" py="zǎn" />
 	<char hz="噆" py="zǎn" />
-	<char hz="攒" py="zǎn" multi="cuán" main="1">
-		<phrase hz="积攒" py="jī,zǎn" info="积蓄；积聚。" />
-		<phrase hz="攒积" py="zǎn,jī" info="积聚。" />
-		<phrase hz="攒劲" py="zǎn,jìn" info="集中力气。" />
-		<phrase hz="攒钱" py="zǎn,qián" duoyin="cuán,qián" info="积蓄钱" />
-		<definition id="一">
-			<item text="积聚，积蓄（(连)积-）：~粪. ~钱." />
-		</definition>
-	</char>
+	<!-- Ref:攒.xml <char hz="攒" py="zǎn" multi="cuán" main="1" /> -->
 	<char hz="趱" py="zǎn" />
 	<char hz="暂" py="zàn" />
 	<char hz="錾" py="zàn" />
