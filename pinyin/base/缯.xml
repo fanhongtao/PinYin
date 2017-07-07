@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="缯" py="zēng" multi="zèng" main="1">
+		<phrase hz="彩缯" py="cǎi,zēng" info="彩色绢帛。" />
+		<phrase hz="金缯" py="jīn,zēng" info="黄金和丝织品。泛指金银财物。" />
+		<phrase hz="缯帛" py="zēng,bó" info="丝绸之统称。" />
+		<phrase hz="缯布" py="zēng,bù" info="缯帛布疋。" />
+		<definition id="一">
+			<item text="古代丝织品的总称。" />
+		</definition>
+	</char>
+	<char hz="缯" py="zèng" multi="zēng">
+		<definition id="二">
+			<item text="〈方〉捆，扎：把那根裂了的棍子~起来." />
+		</definition>
+	</char>
+</pinyin>

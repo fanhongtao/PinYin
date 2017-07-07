@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="枞" py="cōng" multi="zōng" main="1">
+		<phrase hz="枞枞" py="cōng,cōng" info="隆起貌；高耸貌。" />
+		<phrase hz="栊枞" py="lóng,cōng" info="古代攻守通用之器。或云木弩。" />
+		<definition id="一">
+			<item text="又叫“冷杉”。常绿乔木，果实椭圆形，暗紫色。木材供制器具，又可用作建筑材料。" />
+		</definition>
+	</char>
+	<char hz="枞" py="zōng" multi="cōng">
+		<phrase hz="枞阳" py="zōng,yáng" />
+		<definition id="二">
+			<item text="[枞阳]地名，在安徽省。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="曾" py="céng" multi="zēng" info="Word主音">
+		<phrase hz="不曾" py="bù,céng" />
+		<phrase hz="曾几何时" py="céng,jǐ,hé,shí" />
+		<phrase hz="曾经" py="céng,jīng" />
+		<phrase hz="何曾" py="hé,céng" />
+		<phrase hz="似曾" py="sì,céng" />
+		<phrase hz="未曾" py="wèi,céng" />
+		<definition id="二">
+			<item text="曾经，表示以前经历过：未~. 何~. 他~去北京两次. ~几何时（表示时间过去没多久）." />
+		</definition>
+	</char>
+	<char hz="曾" py="zēng" multi="céng" main="1">
+		<phrase hz="孙曾" py="sūn,zēng" info="孙子和曾孙，泛指后代。"/>
+		<phrase hz="曾臣" py="zēng,chén" info="古代诸侯对天子自称的谦词。"/>
+		<phrase hz="曾城" py="zēng,chéng" info="1.传说中的地名。亦泛指仙乡。2.指高大的城阙。"/>
+		<phrase hz="曾国藩" py="zēng,guó,fān" info="(1811-1872)清末湘军首领，洋务派代表人物。"/>
+		<phrase hz="曾母暗沙" py="zēng,mǔ,àn,shā" info="中国南沙群岛中较大的暗沙。"/>
+		<phrase hz="曾母投杼" py="zēng,mǔ,tóu,zhù" info="指曾参的母亲听到“曾参杀人”的传闻接连三次，便信以为真，投杼而走，谓流言可畏。" />
+		<phrase hz="曾参杀人" py="zēng,shēn,shā,rén" info="比喻流言可畏。" />
+		<phrase hz="曾孙" py="zēng,sūn" />
+		<phrase hz="曾翁" py="zēng,wēng" info="称他人的曾祖父。"/>
+		<phrase hz="曾祖" py="zēng,zǔ" />
+		<definition id="一">
+			<item id="1" text="重(chóng)，用来指自己中间隔着两代的亲属：~祖. ~孙." />
+			<item id="2" text="古同“增”。" />
+			<item id="3" text="姓。" />
+		</definition>
+	</char>
+</pinyin>
