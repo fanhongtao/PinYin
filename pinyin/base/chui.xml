@@ -9,16 +9,7 @@
 	<char hz="捶" py="chuí" />
 	<char hz="棰" py="chuí" />
 	<char hz="锤" py="chuí" />
-	<char hz="椎" py="chuí" multi="zhuī">
-		<phrase hz="铁椎" py="tiě,chuí" />
-		<phrase hz="椎鼓" py="chuí,gǔ" />
-		<phrase hz="椎鲁" py="chuí,lǔ" />
-		<definition id="二">
-			<item id="1" text="敲打东西的器具：铁~." />
-			<item id="2" text="敲打：~鼓." />
-			<item id="3" text="愚钝：~鲁." />
-		</definition>
-	</char>
+	<!-- Ref:椎.xml <char hz="椎" py="chuí" multi="zhuī" /> -->
 	<char hz="槌" py="chuí">
 		<phrase hz="棒槌" py="bàng,chui" />
 	</char>

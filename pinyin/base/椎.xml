@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="椎" py="chuí" multi="zhuī">
+		<phrase hz="铁椎" py="tiě,chuí" />
+		<phrase hz="椎鼓" py="chuí,gǔ" />
+		<phrase hz="椎鲁" py="chuí,lǔ" />
+		<definition id="二">
+			<item id="1" text="敲打东西的器具：铁~." />
+			<item id="2" text="敲打：~鼓." />
+			<item id="3" text="愚钝：~鲁." />
+		</definition>
+	</char>
+	<char hz="椎" py="zhuī" multi="chuí" main="1">
+		<phrase hz="骶椎" py="dǐ,zhuī" />
+		<phrase hz="脊椎" py="jǐ,zhuī" />
+		<phrase hz="颈椎" py="jǐng,zhuī" />
+		<phrase hz="尾椎" py="wěi,zhuī" />
+		<phrase hz="胸椎" py="xiōng,zhuī" />
+		<phrase hz="腰椎" py="yāo,zhuī" />
+		<phrase hz="椎骨" py="zhuī,gǔ" info="构成人和脊椎动物脊柱的短骨。也称脊椎骨。根据所处的部位，可以依次分为颈椎、胸椎、腰椎、骶椎、尾椎等" />
+		<definition id="一">
+			<item text="椎骨，脊椎骨，构成高等动物背部中央骨柱的短骨：颈~. 胸~." />
+		</definition>
+	</char>
+</pinyin>

@@ -2,11 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="隹" py="zhuī" />
 	<char hz="骓" py="zhuī" />
-	<char hz="椎" py="zhuī" multi="chuí" main="1">
-		<definition id="一">
-			<item text="椎骨，脊椎骨，构成高等动物背部中央骨柱的短骨：颈~. 胸~." />
-		</definition>
-	</char>
+	<!-- Ref:椎.xml <char hz="椎" py="zhuī" multi="chuí" main="1" /> -->
 	<char hz="锥" py="zhuī" />
 	<char hz="追" py="zhuī" />
 	<char hz="坠" py="zhuì" />
