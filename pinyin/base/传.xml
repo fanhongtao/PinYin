@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="传" py="chuán" multi="zhuàn" main="1">
+		<phrase hz="言传身教" py="yán,chuán,shēn,jiào" />
+		<definition id="一">
+			<item id="1" text="递，转授（(连)-递）：~球. ~令. 言~身教(jiào). [传统]世代相传，具有特点的风俗道德、思想作风等：发扬艰苦奋斗的优良~~." />
+			<item id="2" text="推广，散布：~单. 宣~. 胜利的消息~遍了全国. [传媒]传播的媒介，多指报纸、广播、电视等。 [传染]因接触或由其他媒介而感染疾病。" />
+			<item id="3" text="叫来：~人. ~呼电话." />
+			<item id="4" text="传导：~电. ~热." />
+			<item id="5" text="表达：~神. 眉目~情." />
+		</definition>
+	</char>
+	<char hz="传" py="zhuàn" multi="chuán">
+		<phrase hz="小传" py="xiǎo,zhuàn" />
+		<phrase hz="别传" py="bié,zhuàn" />
+		<phrase hz="外传" py="wài,zhuàn" />
+		<phrase hz="儿女英雄传" py="ér,nǚ,yīng,xióng,zhuàn" />
+		<phrase hz="水浒传" py="shuǐ,hǔ,zhuàn" />
+		<definition id="二">
+			<item id="1" text="旧时一般指解说儒家经书的文字。" />
+			<item id="2" text="记载。特指记载某人一生事迹的文字：小~. 别~. 外~." />
+			<item id="3" text="叙述历史故事的作品：《儿女英雄~》. 《水浒~》." />
+		</definition>
+	</char>
+</pinyin>

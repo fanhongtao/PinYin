@@ -5,11 +5,6 @@
 	<char hz="缵" py="zuǎn" />
 	<char hz="纂" py="zuǎn" />
 	<!-- Ref:钻.xml <char hz="钻" py="zuàn" multi="zuān" /> -->
-	<char hz="赚" py="zuàn" multi="zhuàn">
-		<phrase hz="赚人" py="zuàn,rén" />
-		<definition id="二">
-			<item text="骗：~人." />
-		</definition>
-	</char>
+	<!-- Ref:赚.xml <char hz="赚" py="zuàn" multi="zhuàn" /> -->
 	<char hz="攥" py="zuàn" />
 </pinyin>

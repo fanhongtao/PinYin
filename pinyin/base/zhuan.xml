@@ -7,27 +7,10 @@
 		<phrase hz="颛顼" py="zhuān,xū" />
 	</char>
 	<!-- Ref:转.xml <char hz="转" py="zhuǎn" multi="zhuàn" main="1" /> -->
-	<char hz="传" py="zhuàn" multi="chuán">
-		<phrase hz="小传" py="xiǎo,zhuàn" />
-		<phrase hz="别传" py="bié,zhuàn" />
-		<phrase hz="外传" py="wài,zhuàn" />
-		<phrase hz="儿女英雄传" py="ér,nǚ,yīng,xióng,zhuàn" />
-		<phrase hz="水浒传" py="shuǐ,hǔ,zhuàn" />
-		<definition id="二">
-			<item id="1" text="旧时一般指解说儒家经书的文字。" />
-			<item id="2" text="记载。特指记载某人一生事迹的文字：小~. 别~. 外~." />
-			<item id="3" text="叙述历史故事的作品：《儿女英雄~》. 《水浒~》." />
-		</definition>
-	</char>
+	<!-- Ref:传.xml <char hz="传" py="zhuàn" multi="chuán" /> -->
 	<!-- Ref:转.xml <char hz="转" py="zhuàn" multi="zhuǎn" /> -->
 	<char hz="啭" py="zhuàn" />
-	<char hz="赚" py="zhuàn" multi="zuàn" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="做买卖得利：~钱." />
-			<item id="2" text="做买卖得的利：~儿. ~头." />
-			<item id="3" text="占便宜：这回去香山真~，又得吃又得玩." />
-		</definition>
-	</char>
+	<!-- Ref:赚.xml <char hz="赚" py="zhuàn" multi="zuàn" main="1" suppressLog="1" /> -->
 	<char hz="撰" py="zhuàn" />
 	<char hz="馔" py="zhuàn" />
 	<char hz="篆" py="zhuàn" />
