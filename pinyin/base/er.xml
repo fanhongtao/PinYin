@@ -15,9 +15,5 @@
 	<char hz="铒" py="ěr" />
 	<char hz="二" py="èr" />
 	<char hz="贰" py="èr" />
-	<char hz="佴" py="èr" multi="nài" main="1">
-		<definition id="一">
-			<item text="置，停留。" />
-		</definition>
-	</char>
+	<!-- Ref:佴.xml <char hz="佴" py="èr" multi="nài" main="1" /> -->
 </pinyin>

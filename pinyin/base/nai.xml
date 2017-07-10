@@ -7,11 +7,7 @@
 	<char hz="奈" py="nài" />
 	<char hz="柰" py="nài" />
 	<char hz="萘" py="nài" />
-	<char hz="佴" py="nài" multi="èr">
-		<definition id="二">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:佴.xml <char hz="佴" py="nài" multi="èr" /> -->
 	<char hz="耐" py="nài" />
 	<char hz="鼐" py="nài" />
 	<char hz="褦" py="nài">
