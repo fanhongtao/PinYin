@@ -24,12 +24,7 @@
 	</char>
 	<char hz="蚨" py="fú" />
 	<char hz="弗" py="fú" />
-	<char hz="佛" py="fú" multi="fó">
-		<phrase hz="仿佛" py="fǎng,fú" />
-		<definition id="二">
-			<item text="见“仿”字条“仿佛”(fǎng-)。" />
-		</definition>
-	</char>
+	<!-- Ref:佛.xml <char hz="佛" py="fú" multi="fó" /> -->
 	<char hz="彿" py="fú" info="词组中使用到，所以补充" />
 	<char hz="拂" py="fú" />
 	<char hz="茀" py="fú" />
