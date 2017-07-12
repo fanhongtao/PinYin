@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="葑" py="fēng" multi="fèng" main="1">
+		<phrase hz="葑菲" py="fēng,fēi" info="葑、菲是二種野菜，根雖惡，但莖葉可食。凡人、物但有一點可取的，皆稱為「葑菲」。" />
+		<definition id="一">
+			<item text="即芜菁。也叫“蔓(mán)菁”。" />
+		</definition>
+	</char>
+	<char hz="葑" py="fèng" multi="fēng">
+		<definition id="二">
+			<item text="古书上指菰的根。" />
+		</definition>
+	</char>
+</pinyin>

@@ -11,12 +11,7 @@
 	<char hz="砜" py="fēng" />
 	<char hz="疯" py="fēng" />
 	<char hz="封" py="fēng" />
-	<char hz="葑" py="fēng" multi="fèng" main="1">
-		<phrase hz="葑菲" py="fēng,fēi" info="葑、菲是二種野菜，根雖惡，但莖葉可食。凡人、物但有一點可取的，皆稱為「葑菲」。" />
-		<definition id="一">
-			<item text="即芜菁。也叫“蔓(mán)菁”。" />
-		</definition>
-	</char>
+	<!-- Ref:葑.xml <char hz="葑" py="fēng" multi="fèng" main="1" /> -->
 	<char hz="犎" py="fēng" />
 	<char hz="峰" py="fēng" />
 	<char hz="烽" py="fēng" />
@@ -25,47 +20,16 @@
 	<char hz="酆" py="fēng" />
 	<char hz="冯" py="féng" />
 	<char hz="逢" py="féng" />
-	<char hz="缝" py="féng" multi="fèng" main="1">
-		<!-- <phrase hz="裁缝" py="cái,féng" duoyin="cái,feng" info="裁剪縫製衣服。" /> -->
-		<phrase hz="裁缝" py="cái,feng" duoyin="cái,féng" info="縫製衣服的人。" />
-		<phrase hz="缝补" py="féng,bǔ" />
-		<phrase hz="缝合" py="féng,hé" />
-		<phrase hz="缝纫" py="féng,rèn" />
-		<phrase hz="缝缀" py="féng,zhuì" />
-		<phrase hz="弥缝" py="mí,féng" />
-		<definition id="一">
-			<item text="用针线连缀：把衣服的破口~上. [缝纫]裁制服装：学习~~." />
-		</definition>
-	</char>
+	<!-- Ref:缝.xml <char hz="缝" py="féng" multi="fèng" main="1" /> -->
 	<char hz="讽" py="fěng" />
 	<char hz="唪" py="fěng" />
 	<char hz="凤" py="fèng" />
 	<char hz="奉" py="fèng" />
 	<char hz="俸" py="fèng" />
 	<char hz="甮" py="fèng" />
-	<char hz="葑" py="fèng" multi="fēng">
-		<definition id="二">
-			<item text="古书上指菰的根。" />
-		</definition>
-	</char>
+	<!-- Ref:葑.xml <char hz="葑" py="fèng" multi="fēng" /> -->
 	<char hz="赗" py="fèng">
 		<phrase hz="赙赗" py="fù,fèng" />
 	</char>
-	<char hz="缝" py="fèng" multi="féng">
-		<phrase hz="缝儿" py="fèng,er" />
-		<phrase hz="缝隙" py="fèng,xì" />
-		<phrase hz="缝子" py="fèng,zi" />
-		<phrase hz="夹缝" py="jiā,fèng" />
-		<phrase hz="见缝插针" py="jiàn,fèng,chā,zhēn" />
-		<phrase hz="见缝就钻" py="jiàn,fèng,jiù,zuān" />
-		<phrase hz="裂缝" py="liè,fèng" />
-		<phrase hz="骑缝" py="qí,fèng" />
-		<phrase hz="天衣无缝" py="tiān,yī,wú,fèng" />
-		<phrase hz="隙缝" py="xì,fèng" />
-		<phrase hz="中缝" py="zhōng,fèng" />
-		<definition id="二">
-			<item id="1" text="（-子、-儿）缝隙，裂开或自然露出的窄长口子：裂~. 墙~." />
-			<item id="2" text="（-儿）接合处的痕迹：这道~儿不直." />
-		</definition>
-	</char>
+	<!-- Ref:缝.xml <char hz="缝" py="fèng" multi="féng" /> -->
 </pinyin>
