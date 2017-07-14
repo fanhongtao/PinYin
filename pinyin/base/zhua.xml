@@ -1,13 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="抓" py="zhuā" />
-	<char hz="挝" py="zhuā" multi="wō" main="1">
-		<phrase hz="鞭挝" py="biān,zhuā" info="1.用鞭子抽打。2.古代兵器。" />
-		<phrase hz="挝鼓" py="zhuā,gǔ" info="1.击鼓。2.特指击登闻鼓。" />
-		<definition id="一">
-			<item text="打，敲打。" />
-		</definition>
-	</char>
+	<!-- Ref:挝.xml <char hz="挝" py="zhuā" multi="wō" main="1" /> -->
 	<char hz="髽" py="zhuā">
 		<phrase hz="髽髻" py="zhuā,ji" />
 		<phrase hz="髽鬏" py="zhuā,jiu" />

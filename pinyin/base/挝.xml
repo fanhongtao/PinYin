@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="挝" py="wō" multi="zhuā">
+		<phrase hz="老挝" py="lǎo,wō" />
+		<definition id="二">
+			<item text="[老挝]国名，在中南半岛。" />
+		</definition>
+	</char>
+	<char hz="挝" py="zhuā" multi="wō" main="1">
+		<phrase hz="鞭挝" py="biān,zhuā" info="1.用鞭子抽打。2.古代兵器。" />
+		<phrase hz="挝鼓" py="zhuā,gǔ" info="1.击鼓。2.特指击登闻鼓。" />
+		<definition id="一">
+			<item text="打，敲打。" />
+		</definition>
+	</char>
+</pinyin>

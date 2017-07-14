@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="涡" py="guō" multi="wō">
+		<phrase hz="涡水" py="guō,shuǐ" />
+		<definition id="二">
+			<item text="涡水，水名，发源于河南省，流至安徽省注入淮河。" />
+		</definition>
+	</char>
+	<char hz="涡" py="wō" multi="guō" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="旋涡，水流旋转形成中间低洼的地方：卷入旋~（喻被牵入纠纷里）." />
+		</definition>
+	</char>
+</pinyin>

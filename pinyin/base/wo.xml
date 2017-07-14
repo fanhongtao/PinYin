@@ -1,22 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="挝" py="wō" multi="zhuā">
-		<phrase hz="老挝" py="lǎo,wō" />
-		<definition id="二">
-			<item text="[老挝]国名，在中南半岛。" />
-		</definition>
-	</char>
+	<!-- Ref:挝.xml <char hz="挝" py="wō" multi="zhuā" /> -->
 	<char hz="莴" py="wō">
 		<phrase hz="莴苣" py="wō,ju" />
 		<definition>
 			<item text="[莴苣](-ju)一年或二年生草本植物，叶多长形，花黄色，分叶用和茎用两种。叶用的叫莴苣菜或生菜，茎用的叫莴笋。" />
 		</definition>
 	</char>
-	<char hz="涡" py="wō" multi="guō" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="旋涡，水流旋转形成中间低洼的地方：卷入旋~（喻被牵入纠纷里）." />
-		</definition>
-	</char>
+	<!-- Ref:涡.xml <char hz="涡" py="wō" multi="guō" main="1" suppressLog="1" /> -->
 	<char hz="窝" py="wō" />
 	<char hz="蜗" py="wō" />
 	<char hz="倭" py="wō" />
