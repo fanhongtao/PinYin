@@ -5,16 +5,8 @@
 		<phrase hz="跟头" py="gēn,tou" />
 	</char>
 	<char hz="哏" py="gén" />
-	<char hz="艮" py="gěn" multi="gèn" info="Word主音">
-		<definition id="二">
-			<item text="〈方〉食物韧而不脆：~萝卜不好吃." />
-		</definition>
-	</char>
+	<!-- Ref:艮.xml <char hz="艮" py="gěn" multi="gèn" info="Word主音" /> -->
 	<char hz="亘" py="gèn" />
-	<char hz="艮" py="gèn" multi="gěn" main="1">
-		<definition id="一">
-			<item text="八卦之一，符号为☶，代表山。" />
-		</definition>
-	</char>
+	<!-- Ref:艮.xml <char hz="艮" py="gèn" multi="gěn" main="1" /> -->
 	<char hz="茛" py="gèn" />
 </pinyin>
