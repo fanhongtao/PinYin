@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="杆" py="gān" multi="gǎn">
+		<phrase hz="标杆" py="biāo,gān" info="测量用的任何一种带刻度的棒或标尺"/>
+		<phrase hz="电线杆" py="diàn,xiàn,gān" />
+		<phrase hz="栏杆" py="lán,gān" />
+		<phrase hz="旗杆" py="qí,gān" />
+		<phrase hz="桅杆" py="wéi,gān" />
+		<definition id="一">
+			<item text="（-子、-儿）较长的木棍：旗~. 电线~子. 栏~儿." />
+		</definition>
+	</char>
+	<char hz="杆" py="gǎn" multi="gān" main="1">
+		<phrase hz="杆菌" py="gǎn,jūn" />
+		<phrase hz="杠杆" py="gàng,gǎn" />
+		<phrase hz="秸杆" py="jiē,gǎn" />
+		<phrase hz="茎杆" py="jīng,gǎn" info="栽培植物(如豌豆、蚕豆、马铃薯、谷类)的上部,尤其收获以后被积聚起来者"/>
+		<definition id="二">
+			<item id="1" text="（-子、-儿）较小的圆木条或像本条的东西（指作为器物的把儿的）：笔~儿. 枪~儿. 烟袋~儿." />
+			<item id="2" text="量词，用于有杆的器物：一~枪. 一~笔." />
+		</definition>
+	</char>
+</pinyin>

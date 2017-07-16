@@ -1,88 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="干" py="gān" multi="gàn" main="1">
-		<phrase hz="包干" py="bāo,gān" info="保证全部完成一定范围的工作"/>
-		<phrase hz="饼干" py="bǐng,gān" />
-		<phrase hz="豆腐干" py="dòu,fǔ,gān" />
-		<phrase hz="风干" py="fēng,gān" info="指放在阴凉的地方，让风吹干"/>
-		<phrase hz="干杯" py="gān,bēi" />
-		<phrase hz="干贝" py="gān,bèi" />
-		<phrase hz="干瘪" py="gān,biě" />
-		<phrase hz="干冰" py="gān,bīng" />
-		<phrase hz="干草" py="gān,cǎo" />
-		<phrase hz="干柴" py="gān,chái" />
-		<phrase hz="干城" py="gān,chéng" info="盾牌和城墙。比喻捍卫者"/>
-		<phrase hz="干脆" py="gān,cuì" />
-		<phrase hz="干等" py="gān,děng" />
-		<phrase hz="干电池" py="gān,diàn,chí" />
-		<phrase hz="干犯" py="gān,fàn" info="干扰侵犯。"/>
-		<phrase hz="干戈" py="gān,gē" />
-		<phrase hz="干果" py="gān,guǒ" />
-		<phrase hz="干旱" py="gān,hàn" />
-		<phrase hz="干涸" py="gān,hé" />
-		<phrase hz="干红" py="gān,hóng" />
-		<phrase hz="干花" py="gān,huā" />
-		<!-- <phrase hz="干将" py="gān,jiāng" duoyin="gàn,jiàng" info="人名。春秋吳國人，相傳善鑄劍。後多借指利劍。"/> -->
-		<phrase hz="干将莫邪" py="gān,jiàng,mò,yé" />
-		<phrase hz="干净" py="gān,jìng" />
-		<phrase hz="干枯" py="gān,kū" />
-		<phrase hz="干馏" py="gān,liú" />
-		<phrase hz="干禄" py="gān,lù" />
-		<phrase hz="干啤" py="gān,pí" />
-		<phrase hz="干扰" py="gān,rǎo" />
-		<phrase hz="干涉" py="gān,shè" />
-		<phrase hz="干瘦" py="gān,shòu" />
-		<phrase hz="干洗" py="gān,xǐ" />
-		<phrase hz="干系" py="gān,xì" info="1.牵涉到责任的关系。2.能引起纠纷的关系"/>
-		<phrase hz="干与" py="gān,yǔ" />
-		<phrase hz="干预" py="gān,yù" />
-		<phrase hz="干燥" py="gān,zào" />
-		<phrase hz="干租" py="gān,zū" info="一种租赁方式。指仅出租设备、交通工具等，不配备操纵、维修的人员。与“湿租”相对。"/>
-		<phrase hz="干着急" py="gān,zháo,jí" />
-		<phrase hz="干支" py="gān,zhī" info="天干和地支的合称。"/>
-		<phrase hz="烘干" py="hōng,gān"/>
-		<phrase hz="阑干" py="lán,gān"/>
-		<phrase hz="肉干" py="ròu,gān"/>
-		<phrase hz="若干" py="ruò,gān"/>
-		<phrase hz="葡萄干" py="pú,táo,gān"/>
-		<phrase hz="晒干" py="shài,gān"/>
-		<phrase hz="甩干" py="shuǎi,gān"/>
-		<phrase hz="天干" py="tiān,gān" info="用于表现次序的符号，常和地支连用，包括甲、乙、丙、丁、戊、己、庚、辛、壬、癸"/>
-		<phrase hz="外强中干" py="wài,qiáng,zhōng,gān"/>
-		<phrase hz="无干" py="wú,gān" info="不相干;无关"/>
-		<phrase hz="相干" py="xiāng,gān" info="相互间有联系，有关系、有牵涉，多用于否定句或疑问句"/>
-		<definition id="一">
-			<item id="1" text="关联，涉及：不相~. 这事与你何~？" />
-			<item id="2" text="冒犯，触犯：~犯. 有~禁例. [干涉]过问或制止，常指不应管硬管：互不~~内政." />
-			<item id="3" text="追求，旧指追求职位俸禄：~禄." />
-			<item id="4" text="盾：动~戈（喻战乱）. [干城](转)捍卫者。" />
-			<item id="5" text="天干，历法中用的“甲、乙、丙、丁、戊、已、庚、辛、壬、癸”十个字，也作编排次序用。 [干支]天干和地支，历法上把这两组字结合起来，共配成六十组，表示日子或年份，周而复始，循环使用。" />
-			<item id="6" text="水边：江~. 河~." />
-			<item id="7" text="没有水分或水分少的，跟“湿”相对（(连)-燥）：~柴. ~粮. [干脆](喻)爽快，简捷：说话~~，做事也~~." />
-			<item id="8" text="（-儿）干的食品或其他东西：饼~. 豆腐~儿." />
-			<item id="9" text="枯竭，净尽，空虚：大河没水小河~. ~杯. 外强中~." />
-			<item id="10" text="空，徒然：~着急. ~等. ~看着." />
-			<item id="11" text="拜认的亲属关系：~娘." />
-			<item id="12" text="说怨恨、气愤的话使对方难堪：今天，我又~了他一顿." />
-			<item id="13" text="慢待，不理睬：没想到，他把咱们~起来了." />
-			<item id="14" text="量词，伙：一~人." />
-			<item id="15" text="姓。" />
-			<item text="[干将](-jiāng)古宝剑名。" />
-		</definition>
-	</char>
+	<!-- Ref:干.xml <char hz="干" py="gān" multi="gàn" main="1" /> -->
 	<char hz="玕" py="gān">
 		<phrase hz="琅玕" py="láng,gān" />
 	</char>
-	<char hz="杆" py="gān" multi="gǎn">
-		<phrase hz="标杆" py="biāo,gān" info="测量用的任何一种带刻度的棒或标尺"/>
-		<phrase hz="电线杆" py="diàn,xiàn,gān" />
-		<phrase hz="栏杆" py="lán,gān" />
-		<phrase hz="旗杆" py="qí,gān" />
-		<phrase hz="桅杆" py="wéi,gān" />
-		<definition id="一">
-			<item text="（-子、-儿）较长的木棍：旗~. 电线~子. 栏~儿." />
-		</definition>
-	</char>
+	<!-- Ref:杆.xml <char hz="杆" py="gān" multi="gǎn" /> -->
 	<char hz="肝" py="gān" />
 	<char hz="矸" py="gān" />
 	<char hz="竿" py="gān" />
@@ -98,16 +20,7 @@
 	<char hz="尴" py="gān">
 		<phrase hz="尴尬" py="gān,gà" />
 	</char>
-	<char hz="杆" py="gǎn" multi="gān" main="1">
-		<phrase hz="杆菌" py="gǎn,jūn" />
-		<phrase hz="杠杆" py="gàng,gǎn" />
-		<phrase hz="秸杆" py="jiē,gǎn" />
-		<phrase hz="茎杆" py="jīng,gǎn" info="栽培植物(如豌豆、蚕豆、马铃薯、谷类)的上部,尤其收获以后被积聚起来者"/>
-		<definition id="二">
-			<item id="1" text="（-子、-儿）较小的圆木条或像本条的东西（指作为器物的把儿的）：笔~儿. 枪~儿. 烟袋~儿." />
-			<item id="2" text="量词，用于有杆的器物：一~枪. 一~笔." />
-		</definition>
-	</char>
+	<!-- Ref:杆.xml <char hz="杆" py="gǎn" multi="gān" main="1" /> -->
 	<char hz="赶" py="gǎn" />
 	<char hz="擀" py="gǎn" />
 	<char hz="敢" py="gǎn">
@@ -120,44 +33,7 @@
 	</char>
 	<char hz="感" py="gǎn" />
 	<char hz="鱤" py="gǎn" />
-	<char hz="干" py="gàn" multi="gān" info="Word主音">
-		<phrase hz="才干" py="cái,gàn" info="才能;办事的能力"/>
-		<phrase hz="材干" py="cái,gàn" info="1.才能。2.木材。"/>
-		<phrase hz="单干" py="dān,gàn" info="單獨做事，而不與他人合作。"/>
-		<phrase hz="干部" py="gàn,bù" />
-		<phrase hz="干才" py="gàn,cái" />
-		<phrase hz="干活" py="gàn,huó" info="花费体力或脑力做事，尤指苦苦地或努力地劳动"/>
-		<phrase hz="干将" py="gàn,jiàng" duoyin="gān,jiāng" info="具有才幹能力的人。"/>
-		<phrase hz="干劲" py="gàn,jìn" info="做事的积极性"/>
-		<phrase hz="干练" py="gàn,liàn" />
-		<phrase hz="干流" py="gàn,liú" info="1.同一水系内全部支流所流注的河流。2.也叫主流"/>
-		<phrase hz="干群关系" py="gàn,qún,guān,xì"/>
-		<phrase hz="干事" py="gàn,shi" info="负责某些事物的人"/>
-		<phrase hz="干细胞" py="gàn,xì,bāo" />
-		<phrase hz="干线" py="gàn,xiàn" />
-		<phrase hz="干员" py="gàn,yuán" />
-		<phrase hz="高干" py="gāo,gàn" info="高级干部的简缩"/>
-		<phrase hz="公干" py="gōng,gàn" info="1.公事,公务。2.办理公事。3.公正干练"/>
-		<phrase hz="骨干" py="gǔ,gàn" />
-		<phrase hz="精干" py="jīng,gàn" />
-		<phrase hz="精明强干" py="jīng,míng,qiáng,gàn" />
-		<phrase hz="蛮干" py="mán,gàn" info="盲目硬干"/>
-		<phrase hz="埋头苦干" py="mái,tóu,kǔ,gàn" />
-		<phrase hz="能干" py="néng,gàn" />
-		<phrase hz="巧干" py="qiǎo,gàn" info="办事有独创性、有办法和想法、作法上灵巧"/>
-		<phrase hz="躯干" py="qū,gàn" />
-		<phrase hz="实干" py="shí,gàn" info="实实在在地去做"/>
-		<phrase hz="树干" py="shù,gàn" />
-		<phrase hz="说干就干" py="shuō,gàn,jiù,gàn" />
-		<phrase hz="提干" py="tí,gàn" info="提升为干部"/>
-		<phrase hz="硬干" py="yìng,gàn" info="1.指单凭力气蛮干。2.顽强工作，不怕挫折。"/>
-		<phrase hz="主干" py="zhǔ,gàn" />
-		<definition id="二">
-			<item id="1" text="事物的主体，重要的部分：树~. 躯~. ~线. [干部]1.指机关团体的领导或管理人员。2.指一般公职人员。 [干细胞]一类具有自我更新和分化潜能的细胞。按照生存阶段分为胚胎干细胞和成体干细胞。" />
-			<item id="2" text="做，搞：这件事我可以~. 你在~什么？ (转)有才能的，善于办事的：~才. ~员. [干练]办事能力强，很有经验。 [干事](-shi)负责某些事物的人：宣传~~." />
-			<item id="3" text="〈方〉坏，糟：事情要~. ~了." />
-		</definition>
-	</char>
+	<!-- Ref:干.xml <char hz="干" py="gàn" multi="gān" info="Word主音" /> -->
 	<char hz="旰" py="gàn" />
 	<char hz="骭" py="gàn" />
 	<char hz="绀" py="gàn" />
