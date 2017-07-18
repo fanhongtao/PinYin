@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哼" py="hēng" multi="hng" main="1">
+		<phrase hz="打哼" py="dǎ,hēng" info="犹呻吟。" />
+		<phrase hz="打哼哼" py="dǎ,hēng,hēng" info="因病痛而哼哼。" />
+		<phrase hz="哼唱" py="hēng,chàng" info="小声唱" />
+		<phrase hz="哼哧" py="hēng,chī" info="象声词。形容粗声喘气" />
+		<phrase hz="哼儿哈儿" py="hēng,ér,hā,ér" info="从鼻子和嘴发出的声音，多表示不在意。" />
+		<phrase hz="哼哈" py="hēng,hā" info="1.表示呵斥；呵斥声。2.形容含糊应答，不在意。3.指哼哈两员神将。" />
+		<phrase hz="哼喝" py="hēng,hē" info="犹呵斥。" />
+		<phrase hz="哼哼" py="hēng,hēng" info="1.发出鼻音。2.鼻子连续不断地发哼声" />
+		<phrase hz="哼唧" py="hēng,jī" info="低声说、念或唱" />
+		<phrase hz="哼气" py="hēng,qì" info="〈方〉出声;吭气" />
+		<phrase hz="哼唷" py="hēng,yō" info="1.形容干重活时发出的有节奏的声音。如:水手拉起缆索准备开船的呼声。2.用作号召努力的呼声" />
+		<phrase hz="气哼哼" py="qì,hēng,hēng" info="形容生气时鼻子发出声音。" />
+		<definition id="一">
+			<item id="1" text="鼻子发出痛苦的声音：他病很重，却从不~一声." />
+			<item id="2" text="轻声随口地唱：他一面走一面~着歌." />
+		</definition>
+	</char>
+	<char hz="哼" py="hng" multi="hēng" info="h跟单纯的舌根鼻音拼合的音">
+		<definition id="二">
+			<item text="【h跟单纯的舌根鼻音接合的音】叹词，表示不满意或不信任：~，你信他的！" />
+		</definition>
+	</char>
+</pinyin>

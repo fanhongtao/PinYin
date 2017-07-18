@@ -1,24 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="亨" py="hēng" />
-	<char hz="哼" py="hēng" multi="hng" main="1">
-		<phrase hz="打哼" py="dǎ,hēng" info="犹呻吟。" />
-		<phrase hz="打哼哼" py="dǎ,hēng,hēng" info="因病痛而哼哼。" />
-		<phrase hz="哼唱" py="hēng,chàng" info="小声唱" />
-		<phrase hz="哼哧" py="hēng,chī" info="象声词。形容粗声喘气" />
-		<phrase hz="哼儿哈儿" py="hēng,ér,hā,ér" info="从鼻子和嘴发出的声音，多表示不在意。" />
-		<phrase hz="哼哈" py="hēng,hā" info="1.表示呵斥；呵斥声。2.形容含糊应答，不在意。3.指哼哈两员神将。" />
-		<phrase hz="哼喝" py="hēng,hē" info="犹呵斥。" />
-		<phrase hz="哼哼" py="hēng,hēng" info="1.发出鼻音。2.鼻子连续不断地发哼声" />
-		<phrase hz="哼唧" py="hēng,jī" info="低声说、念或唱" />
-		<phrase hz="哼气" py="hēng,qì" info="〈方〉出声;吭气" />
-		<phrase hz="哼唷" py="hēng,yō" info="1.形容干重活时发出的有节奏的声音。如:水手拉起缆索准备开船的呼声。2.用作号召努力的呼声" />
-		<phrase hz="气哼哼" py="qì,hēng,hēng" info="形容生气时鼻子发出声音。" />
-		<definition id="一">
-			<item id="1" text="鼻子发出痛苦的声音：他病很重，却从不~一声." />
-			<item id="2" text="轻声随口地唱：他一面走一面~着歌." />
-		</definition>
-	</char>
+	<!-- Ref:哼.xml <char hz="哼" py="hēng" multi="hng" main="1" /> -->
 	<char hz="脝" py="hēng" />
 	<char hz="啈" py="hēng" />
 	<char hz="恒" py="héng" />
@@ -28,76 +11,6 @@
 	<char hz="鸻" py="héng" />
 	<char hz="衡" py="héng" />
 	<char hz="蘅" py="héng" />
-	<char hz="横" py="héng" multi="hèng" main="1">
-		<phrase hz="横匾" py="héng,biǎn" info="横着写的匾额" />
-		<phrase hz="横标" py="héng,biāo" info="横幅标语" />
-		<phrase hz="横波" py="héng,bō" info="1.振动方向与传播方向垂直的一种波，无线电波和光波即是。2.眼神闪烁" />
-		<phrase hz="横冲直撞" py="héng,chōng,zhí,zhuàng" />
-		<phrase hz="横穿" py="héng,chuān" info="横向穿越" />
-		<phrase hz="横渡" py="héng,dù" />
-		<phrase hz="横队" py="héng,duì" info="横排的队形" />
-		<phrase hz="横断" py="héng,duàn" />
-		<phrase hz="横飞" py="héng,fēi" info="四处飞溅" />
-		<phrase hz="横幅" py="héng,fú" />
-		<phrase hz="横亘" py="héng,gèn" />
-		<phrase hz="横贯" py="héng,guàn" />
-		<phrase hz="横加" py="héng,jiā" info="蛮不讲理，强行施加" />
-		<phrase hz="横看" py="héng,kàn" info="1.錯看。2.橫著看。" />
-		<phrase hz="横跨" py="héng,kuà" />
-		<phrase hz="横梁" py="héng,liáng" />
-		<phrase hz="横流" py="héng,liú" />
-		<phrase hz="横眉" py="héng,méi" info="1.瞪眼怒视。2.愤怒地或威胁地蹙眉。" />
-		<phrase hz="横楣" py="héng,méi" info="门窗上方的横框。" />
-		<phrase hz="横木" py="héng,mù" info="家具(如桌椅)腿之间起称固作用的横撑木;家具的底架中两腿之间的支撑。" />
-		<phrase hz="横批" py="héng,pī" />
-		<phrase hz="横七竖八" py="héng,qī,shù,bā" />
-		<phrase hz="横切" py="héng,qiē" />
-		<phrase hz="横肉" py="héng,ròu" info="形容人面貌凶惡。" />
-		<phrase hz="横扫" py="héng,sǎo" info="1.扫荡;扫除。2.形容势不可挡,所向无敌" />
-		<phrase hz="横生" py="héng,shēng" />
-		<phrase hz="横尸遍野" py="héng,shī,biàn,yě" info="杀得到处都是尸体" />
-		<phrase hz="横竖" py="héng,shù" />
-		<phrase hz="横说竖说" py="héng,shuō,shù,shuō" info="反复说明" />
-		<phrase hz="横挑鼻子竖挑眼" py="héng,tiāo,bí,zi,shù,tiāo,yǎn" info="比喻人百般挑剔。" />
-		<phrase hz="横拖倒拽" py="héng,tuō,dào,zhuài" info="拽，用力拉扯。橫拖倒拽指用暴力強拉硬拖。" />
-		<phrase hz="横纹肌" py="héng,wén,jī" info="由长形多核的肌纤维组成的肌肉组织,肌纤维包在薄层肌膜中,具有横向的明带和暗带" />
-		<phrase hz="横卧" py="héng,wò" />
-		<phrase hz="横向" py="héng,xiàng" />
-		<phrase hz="横斜" py="héng,xié" info="1.或横或斜。多以状梅竹之类花木枝条及其影子。2.代指横斜之物。" />
-		<phrase hz="横行" py="héng,xíng" />
-		<phrase hz="横溢" py="héng,yì" />
-		<phrase hz="横坐标" py="héng,zuò,biāo" info="平面笛卡儿坐标系中一个点的水平坐标,其数值由平行于x轴的线段来量度" />
-		<phrase hz="老气横秋" py="lǎo,qì,héng,qiū" />
-		<phrase hz="妙趣横生" py="miào,qù,héng,shēng" />
-		<phrase hz="纵横" py="zòng,héng" />
-		<definition id="一">
-			<item id="1" text="跟着地面平行的，跟“竖”、“直”相对：~额. ~梁." />
-			<item id="2" text="地理上指东西向的，跟“纵”相对：~渡太平洋." />
-			<item id="3" text="从左到右或从右到左的，跟“竖”、“直”、“纵”相对：~写." />
-			<item id="4" text="跟物体的长的一边垂直的，跟“竖”、“直”、“纵”相对：~剖面. 人行~道." />
-			<item id="5" text="使物体成横向：把扁担~过来." />
-			<item id="6" text="纵横杂乱：蔓草~生." />
-			<item id="7" text="不合情理的：~加阻拦." />
-			<item id="8" text="汉字由左到右的笔形（一）：“王”字是三~一竖. [横竖]副词，反正，无论如何：~~我也要去." />
-		</definition>
-	</char>
-	<char hz="横" py="hèng" multi="héng">
-		<phrase hz="刁横" py="diāo,hèng" />
-		<phrase hz="横暴" py="hèng,bào" info="强横暴戾" />
-		<phrase hz="横财" py="hèng,cái" />
-		<phrase hz="横话" py="hèng,huà" info="1.不吉祥的話。2.強硬無理的話。" />
-		<phrase hz="横祸" py="hèng,huò" info="意外的灾祸" />
-		<phrase hz="横事" py="hèng,shì" />
-		<phrase hz="横死" py="hèng,sǐ" />
-		<phrase hz="骄横" py="jiāo,hèng" />
-		<phrase hz="蛮横" py="mán,hèng" />
-		<phrase hz="强横" py="qiáng,hèng" />
-		<phrase hz="耍横" py="shuǎ,hèng" info="表现出蛮横的态度" />
-		<phrase hz="凶横" py="xiōng,hèng" info="殘暴蠻橫。" />
-		<phrase hz="专横" py="zhuān,hèng" info="专断强横" />
-		<definition id="二">
-			<item id="1" text="凶暴，不讲理（(连)蛮-）：这个人说话很~." />
-			<item id="2" text="意外的：~财. ~事. ~死." />
-		</definition>
-	</char>
+	<!-- Ref:横.xml <char hz="横" py="héng" multi="hèng" main="1" /> -->
+	<!-- Ref:横.xml <char hz="横" py="hèng" multi="héng" /> -->
 </pinyin>
