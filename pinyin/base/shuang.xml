@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="双" py="shuāng" />
-	<char hz="泷" py="shuāng" multi="lóng">
-		<phrase hz="泷水" py="shuāng,shuǐ" />
-		<definition id="二">
-			<item text="泷水，水名，在广东省。" />
-		</definition>
-	</char>
+	<!-- Ref:泷.xml <char hz="泷" py="shuāng" multi="lóng" /> -->
 	<char hz="霜" py="shuāng" />
 	<char hz="孀" py="shuāng" />
 	<char hz="骦" py="shuāng" />

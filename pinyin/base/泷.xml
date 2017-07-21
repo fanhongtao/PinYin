@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泷" py="lóng" multi="shuāng" main="1">
+		<phrase hz="奔泷" py="bēn,lóng" info="湍急的水流。" />
+		<phrase hz="泷泷" py="lóng,lóng" info="1.下雨貌。2.水流声。" />
+		<phrase hz="怒泷" py="nù,lóng" info="汹涌的水流" />
+		<definition id="一">
+			<item text="急流的水。 [七里泷]地名，在浙江省桐庐。" />
+		</definition>
+	</char>
+	<char hz="泷" py="shuāng" multi="lóng">
+		<phrase hz="泷水" py="shuāng,shuǐ" />
+		<definition id="二">
+			<item text="泷水，水名，在广东省。" />
+		</definition>
+	</char>
+</pinyin>

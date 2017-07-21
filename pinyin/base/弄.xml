@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="弄" py="lòng" multi="nòng">
+		<phrase hz="里弄" py="lǐ,lòng" info="1.比较窄的街道，胡同。2.关于里弄居民的。" />
+		<phrase hz="弄堂" py="lòng,táng" />
+		<definition id="二">
+			<item text="〈方〉弄堂，小巷，小胡同。" />
+		</definition>
+	</char>
+	<char hz="弄" py="nòng" multi="lòng" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="拿着玩，戏耍（(连)玩-、戏-）：不要~火." />
+			<item id="2" text="搞、做：~好. ~点水喝. ~饭." />
+			<item id="3" text="搅扰：这消息~得人心不安." />
+			<item id="4" text="耍，炫耀：~手段. 舞文~墨." />
+		</definition>
+	</char>
+</pinyin>
