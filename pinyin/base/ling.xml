@@ -38,36 +38,17 @@
 	<!-- <char hz="崚" py="líng"> -->
 	<char hz="淩" py="líng" />
 	<char hz="绫" py="líng" />
-	<char hz="棱" py="líng" multi="léng">
-		<phrase hz="穆棱" py="mù,líng" />
-		<definition id="二">
-			<item text="[穆棱]地名，在黑龙江省。" />
-		</definition>
-	</char>
+	<!-- Ref:棱.xml <char hz="棱" py="líng" multi="léng" /> -->
 	<char hz="祾" py="líng" />
 	<char hz="鲮" py="líng" />
 	<char hz="酃" py="líng" />
 	<char hz="醽" py="líng">
 		<phrase hz="醽醁" py="líng,lù" />
 	</char>
-	<char hz="令" py="lǐng" multi="lìng">
-		<definition id="二">
-			<item text="(外)量词，原张的纸500张为1令。" />
-		</definition>
-	</char>
+	<!-- Ref:令.xml <char hz="令" py="lǐng" multi="lìng" /> -->
 	<char hz="岭" py="lǐng" />
 	<char hz="领" py="lǐng" />
 	<char hz="另" py="lìng" />
-	<char hz="令" py="lìng" multi="lǐng" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="上级对下级的指示：明~规定. 遵守法~." />
-			<item id="2" text="上级指示下级：~全体官兵遵照执行." />
-			<item id="3" text="古代官名：县~." />
-			<item id="4" text="使，使得：~人起敬. ~人兴奋." />
-			<item id="5" text="时令，时节：月~. 夏~." />
-			<item id="6" text="美好，善：~名. 敬辞：~兄. ~尊（称对方的父亲）." />
-			<item id="7" text="词之短小者叫令：调笑~. 十六字~." />
-		</definition>
-	</char>
+	<!-- Ref:令.xml <char hz="令" py="lìng" multi="lǐng" main="1" suppressLog="1" /> -->
 	<char hz="呤" py="lìng" />
 </pinyin>

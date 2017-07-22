@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="棱" py="léng" multi="líng" main="1" suppressLog="1">
+		<definition id="一" text="（-子、-儿）">
+			<item id="1" text="物体上不同方向的两个平面连接的部分：见~见角." />
+			<item id="2" text="物体表面上条状突起部分：瓦~. 搓板的~儿." />
+		</definition>
+	</char>
+	<char hz="棱" py="líng" multi="léng">
+		<phrase hz="穆棱" py="mù,líng" />
+		<definition id="二">
+			<item text="[穆棱]地名，在黑龙江省。" />
+		</definition>
+	</char>
+</pinyin>
