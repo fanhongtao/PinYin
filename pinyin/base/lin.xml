@@ -4,18 +4,7 @@
 	<char hz="邻" py="lín" />
 	<char hz="林" py="lín" />
 	<char hz="啉" py="lín" />
-	<char hz="淋" py="lín" multi="lìn" main="1">
-		<phrase hz="淋漓" py="lín,lí" />
-		<phrase hz="淋淋" py="lín,lín" />
-		<phrase hz="淋雨" py="lín,yǔ" />
-		<phrase hz="淋浴" py="lín,yù" />
-		<phrase hz="日晒雨淋" py="rì,shài,yǔ,lín" />
-		<definition id="一">
-			<item text="浇：花蔫了，~上点水吧." />
-			<item text="[淋巴](外)即淋巴液，人身体里的一种无色透明液体，起血液和细胞之间的物质交换作用。" />
-			<item text="[淋漓](-lí)湿淋淋往下滴落：墨迹~~. 大汗~~. (转)畅达：~~尽致. 痛快~~." />
-		</definition>
-	</char>
+	<!-- Ref:淋.xml <char hz="淋" py="lín" multi="lìn" main="1" /> -->
 	<char hz="琳" py="lín">
 		<phrase hz="琳琅" py="lín,láng" />
 	</char>
@@ -40,15 +29,7 @@
 	<char hz="檩" py="lǐn" />
 	<char hz="吝" py="lìn" />
 	<char hz="赁" py="lìn" />
-	<char hz="淋" py="lìn" multi="lín">
-		<phrase hz="淋病" py="lìn,bìng" />
-		<phrase hz="淋硝" py="lìn,xiāo" />
-		<phrase hz="淋盐" py="lìn,yán" />
-		<definition id="二">
-			<item id="1" text="过滤：~盐. ~硝." />
-			<item id="2" text="淋病，一种性病，病原体是淋病球菌，病人尿道红肿溃烂，重的尿里夹带脓血。也叫“白浊”。" />
-		</definition>
-	</char>
+	<!-- Ref:淋.xml <char hz="淋" py="lìn" multi="lín" /> -->
 	<char hz="蔺" py="lìn" />
 	<char hz="躏" py="lìn" />
 	<char hz="膦" py="lìn" />
