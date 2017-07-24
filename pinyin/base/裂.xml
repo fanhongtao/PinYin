@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="裂" py="liě" multi="liè">
+		<definition id="二">
+			<item text="〈方〉东西的两部分向两旁分开：衣服没扣好，~着怀." />
+		</definition>
+	</char>
+	<char hz="裂" py="liè" multi="liě" main="1" suppressLog="1">
+		<phrase hz="裂缝" py="liè,fèng" />
+		<definition id="一">
+			<item text="破开，开了缝(fèng)：~痕. ~缝. 手冻~了. 感情破~. 四分五~." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,23 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="咧" py="liē" multi="liě,lie">
-		<phrase hz="骂骂咧咧" py="mà,ma,liē,lie" />
-		<phrase hz="咧咧" py="liē,lie" />
-		<definition id="二">
-			<item text="[咧咧](-lie)〈方〉1.乱说，乱讲：瞎~~. 2.小孩儿哭：这孩子一~~起来就没完." />
-		</definition>
-	</char>
-	<char hz="咧" py="liě" multi="liē,lie" main="1">
-		<phrase hz="咧嘴" py="liě,zuǐ" info="嘴唇微张，嘴角向两边伸展。"/>
-		<definition id="一">
-			<item text="嘴向旁边斜着张开：~嘴. ~着嘴笑." />
-		</definition>
-	</char>
-	<char hz="裂" py="liě" multi="liè">
-		<definition id="二">
-			<item text="〈方〉东西的两部分向两旁分开：衣服没扣好，~着怀." />
-		</definition>
-	</char>
+	<!-- Ref:咧.xml <char hz="咧" py="liē" multi="liě,lie" /> -->
+	<!-- Ref:咧.xml <char hz="咧" py="liě" multi="liē,lie" main="1" /> -->
+	<!-- Ref:裂.xml <char hz="裂" py="liě" multi="liè" /> -->
 	<char hz="列" py="liè">
 		<phrase hz="行列" py="háng,liè" />
 	</char>
@@ -25,12 +10,7 @@
 	<char hz="洌" py="liè" />
 	<char hz="烈" py="liè" />
 	<char hz="" py="liè" />
-	<char hz="裂" py="liè" multi="liě" main="1" suppressLog="1">
-		<phrase hz="裂缝" py="liè,fèng" />
-		<definition id="一">
-			<item text="破开，开了缝(fèng)：~痕. ~缝. 手冻~了. 感情破~. 四分五~." />
-		</definition>
-	</char>
+	<!-- Ref:裂.xml <char hz="裂" py="liè" multi="liě" main="1" suppressLog="1" /> -->
 	<char hz="趔" py="liè">
 		<phrase hz="趔趄" py="liè,qie" />
 	</char>
@@ -40,11 +20,5 @@
 	<char hz="猎" py="liè" />
 	<char hz="躐" py="liè" />
 	<char hz="鬣" py="liè" />
-	<char hz="咧" py="lie" multi="liē,liě">
-		<phrase hz="好咧" py="hǎo,lie" />
-		<phrase hz="来咧" py="lái,lie" />
-		<definition id="三">
-			<item text="〈方〉助词，意思相当于“了”、“啦”：好~. 他来~." />
-		</definition>
-	</char>
+	<!-- Ref:咧.xml <char hz="咧" py="lie" multi="liē,liě" /> -->
 </pinyin>

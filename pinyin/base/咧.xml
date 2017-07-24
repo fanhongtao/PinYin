@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="咧" py="liē" multi="liě,lie">
+		<phrase hz="骂骂咧咧" py="mà,ma,liē,lie" />
+		<phrase hz="咧咧" py="liē,lie" />
+		<definition id="二">
+			<item text="[咧咧](-lie)〈方〉1.乱说，乱讲：瞎~~. 2.小孩儿哭：这孩子一~~起来就没完." />
+		</definition>
+	</char>
+	<char hz="咧" py="liě" multi="liē,lie" main="1">
+		<phrase hz="咧嘴" py="liě,zuǐ" info="嘴唇微张，嘴角向两边伸展。"/>
+		<definition id="一">
+			<item text="嘴向旁边斜着张开：~嘴. ~着嘴笑." />
+		</definition>
+	</char>
+	<char hz="咧" py="lie" multi="liē,liě">
+		<phrase hz="好咧" py="hǎo,lie" />
+		<phrase hz="来咧" py="lái,lie" />
+		<definition id="三">
+			<item text="〈方〉助词，意思相当于“了”、“啦”：好~. 他来~." />
+		</definition>
+	</char>
+</pinyin>
