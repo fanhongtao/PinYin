@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="郎" py="láng" multi="làng" main="1" suppressLog="1">
+		<phrase hz="郎中" py="láng,zhōng" info="1.中医医生。2.对他人亲随的敬称。3.官名。清朝六部以下设司，司设长官郎中。4.宫廷的侍卫。" />
+		<definition id="一">
+			<item id="1" text="对年轻男子的称呼：~才女貎. (引)对某种人的称呼：货~. 放牛~." />
+			<item id="2" text="女子称情人或丈夫：情~. ~君." />
+			<item id="3" text="古代官名：侍~. [郎中]1.〈方〉医生。 2.古官名。" />
+			<item id="4" text="姓。" />
+		</definition>
+	</char>
+	<char hz="郎" py="làng" multi="láng">
+		<phrase hz="屎壳郎" py="shǐ,ke,làng" />
+		<definition id="二">
+			<item text="[屎壳郎](-ke-)见“蜣”字条“蜣螂”(qiāngláng)。" />
+		</definition>
+	</char>
+</pinyin>

@@ -1,15 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="啷" py="lāng" />
-	<char hz="郎" py="láng" multi="làng" main="1" suppressLog="1">
-		<phrase hz="郎中" py="láng,zhōng" info="1.中医医生。2.对他人亲随的敬称。3.官名。清朝六部以下设司，司设长官郎中。4.宫廷的侍卫。" />
-		<definition id="一">
-			<item id="1" text="对年轻男子的称呼：~才女貎. (引)对某种人的称呼：货~. 放牛~." />
-			<item id="2" text="女子称情人或丈夫：情~. ~君." />
-			<item id="3" text="古代官名：侍~. [郎中]1.〈方〉医生。 2.古官名。" />
-			<item id="4" text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:郎.xml <char hz="郎" py="láng" multi="làng" main="1" suppressLog="1" /> -->
 	<char hz="廊" py="láng" />
 	<char hz="嫏" py="láng">
 		<phrase hz="嫏嬛" py="láng,huán" />
@@ -21,12 +13,7 @@
 	<char hz="鎯" py="láng" trans="1" />
 	<char hz="螂" py="láng" />
 	<char hz="狼" py="láng" />
-	<char hz="阆" py="láng" multi="làng" main="1">
-		<phrase hz="闶阆" py="kāng,láng" />
-		<definition id="一">
-			<item text="见“闶”字条“闶阆”(kāng-)。" />
-		</definition>
-	</char>
+	<!-- Ref:阆.xml <char hz="阆" py="láng" multi="làng" main="1" /> -->
 	<char hz="琅" py="láng">
 		<phrase hz="琅玕" py="láng,gān" />
 	</char>
@@ -40,22 +27,13 @@
 	<char hz="㙟" py="lǎng" />
 	<char hz="㮾" py="lǎng" />
 	<char hz="烺" py="lǎng" />
-	<char hz="郎" py="làng" multi="láng">
-		<phrase hz="屎壳郎" py="shǐ,ke,làng" />
-		<definition id="二">
-			<item text="[屎壳郎](-ke-)见“蜣”字条“蜣螂”(qiāngláng)。" />
-		</definition>
-	</char>
+	<!-- Ref:郎.xml <char hz="郎" py="làng" multi="láng" /> -->
 	<char hz="埌" py="làng" />
 	<char hz="莨" py="làng" info="Word显示为liáng">
 		<phrase hz="莨菪" py="làng,dàng" />
 	</char>
 	<char hz="崀" py="làng" />
-	<char hz="阆" py="làng" multi="láng">
-		<definition id="二">
-			<item text="[阆中]地名，在四川省。" />
-		</definition>
-	</char>
+	<!-- Ref:阆.xml <char hz="阆" py="làng" multi="láng" /> -->
 	<char hz="浪" py="làng" />
 	<char hz="蒗" py="làng">
 		<phrase hz="宁蒗" py="níng,làng" />
