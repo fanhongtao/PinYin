@@ -6,12 +6,7 @@
 	<char hz="眸" py="móu" />
 	<char hz="蛑" py="móu" />
 	<char hz="谋" py="móu" />
-	<char hz="缪" py="móu" multi="miào,miù">
-		<phrase hz="绸缪" py="chóu,móu" />
-		<definition id="二">
-			<item text="[绸缪](chóu-)1.修缮：未雨~~（喻事先做好准备）. 2.缠绵：情意~~." />
-		</definition>
-	</char>
+	<!-- Ref:缪.xml <char hz="缪" py="móu" multi="miào,miù" /> -->
 	<char hz="鍪" py="móu" />
 	<char hz="某" py="mǒu" />
 </pinyin>

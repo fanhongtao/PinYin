@@ -15,9 +15,5 @@
 	<char hz="邈" py="miǎo" />
 	<char hz="妙" py="miào" />
 	<char hz="庙" py="miào" />
-	<char hz="缪" py="miào" multi="miù,móu" main="1">
-		<definition id="一">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:缪.xml <char hz="缪" py="miào" multi="miù,móu" main="1" /> -->
 </pinyin>
