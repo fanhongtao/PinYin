@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="乜" py="miē" multi="niè">
-		<phrase hz="乜斜" py="miē,xie" />
-		<definition id="二">
-			<item text="[乜斜](-xie)1.眼睛因困倦而眯成一条缝：~~的睡眼. 2.眼睛略眯而斜着看，多指不满意或看不起的神情。" />
-		</definition>
-	</char>
+	<!-- Ref:乜.xml <char hz="乜" py="miē" multi="niè" /> -->
 	<char hz="咩" py="miē" />
 	<char hz="灭" py="miè" />
 	<char hz="蔑" py="miè" />

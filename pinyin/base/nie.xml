@@ -2,11 +2,7 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="捏" py="niē" />
 	<char hz="苶" py="nié" />
-	<char hz="乜" py="niè" multi="miē" main="1">
-		<definition id="一">
-			<item text="姓。" />
-		</definition>
-	</char>
+	<!-- Ref:乜.xml <char hz="乜" py="niè" multi="miē" main="1" /> -->
 	<char hz="陧" py="niè" />
 	<char hz="涅" py="niè" />
 	<char hz="聂" py="niè" />
