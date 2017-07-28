@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="氓" py="máng" multi="méng">
+		<phrase hz="流氓" py="liú,máng" />
+		<definition id="二">
+			<item text="[流氓]原指无业游民，后来指品质恶劣，不务正业，为非作歹的坏人。" />
+		</definition>
+	</char>
+	<char hz="氓" py="méng" multi="máng" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="〈古〉民（特指外来的）。也作“萌”。" />
+		</definition>
+	</char>
+</pinyin>

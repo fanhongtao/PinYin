@@ -6,12 +6,7 @@
 	<char hz="忙" py="máng" />
 	<char hz="杧" py="máng" />
 	<char hz="盲" py="máng" />
-	<char hz="氓" py="máng" multi="méng">
-		<phrase hz="流氓" py="liú,máng" />
-		<definition id="二">
-			<item text="[流氓]原指无业游民，后来指品质恶劣，不务正业，为非作歹的坏人。" />
-		</definition>
-	</char>
+	<!-- Ref:氓.xml <char hz="氓" py="máng" multi="méng" /> -->
 	<char hz="茫" py="máng" />
 	<char hz="硭" py="máng" />
 	<char hz="铓" py="máng" />

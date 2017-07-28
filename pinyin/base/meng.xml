@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<!-- Ref:蒙.xml <char hz="蒙" py="mēng" multi="méng,měng" /> -->
-	<char hz="氓" py="méng" multi="máng" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="〈古〉民（特指外来的）。也作“萌”。" />
-		</definition>
-	</char>
+	<!-- Ref:氓.xml <char hz="氓" py="méng" multi="máng" main="1" suppressLog="1" /> -->
 	<char hz="虻" py="méng" />
 	<char hz="萌" py="méng">
 		<definition>
