@@ -1,45 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="闷" py="mēn" multi="mèn">
-		<phrase hz="闷热" py="mēn,rè" info="湿热闷人;酷热" />
-		<!-- <phrase hz="闷气" py="mēn,qì" duoyin="mèn,qì" info="空气不流通或气压低而引起的不舒畅感觉" /> -->
-		<phrase hz="闷头" py="mēn,tóu" info="谓默不作声。" />
-		<phrase hz="闷一会儿" py="mēn,yí,huì,er" />
-		<phrase hz="闷在家" py="mēn,zài,jiā" />
-		<definition id="二">
-			<item id="1" text="因气压低或空气不流通而引起的不舒服的感觉：天气~热. 这屋子矮，又没有窗子，太~了." />
-			<item id="2" text="呆在屋里不出门：一个人总~在家里，心胸就不开阔了." />
-			<item id="3" text="密闭：茶刚泡上，~一会儿再喝." />
-			<item id="4" text="〈方〉声音不响亮：这人说话~声~气." />
-		</definition>
-	</char>
+	<!-- Ref:闷.xml <char hz="闷" py="mēn" multi="mèn" /> -->
 	<char hz="门" py="mén">
 		<phrase hz="长门长子" py="zhǎng,mén,zhǎng,zi" />
 	</char>
 	<char hz="扪" py="mén" />
 	<char hz="钔" py="mén" />
 	<char hz="亹" py="mén" />
-	<char hz="闷" py="mèn" multi="mēn" main="1">
-		<phrase hz="沉闷" py="chén,mèn" info="1.沉重，烦闷，心情不舒畅。2.沉默不说话。" />
-		<phrase hz="愁闷" py="chóu,mèn" info="忧愁苦闷;忧虑烦闷。" />
-		<phrase hz="发闷" py="fā,mèn" info="1.感到烦闷，心情不舒畅。2.感到不透气。" />
-		<phrase hz="烦闷" py="fán,mèn" info="心里厌烦而郁闷;不畅快。" />
-		<phrase hz="解闷" py="jiě,mèn" info="排解烦闷。" />
-		<phrase hz="苦闷" py="kǔ,mèn" info="痛苦心烦。" />
-		<phrase hz="闷棍" py="mèn,gùn" info="1.齊眉棍。2.形容不明原因的棍擊。3.比喻無形的打擊。" />
-		<phrase hz="闷葫芦" py="mèn,hú,lu" info="比喻很难猜透而令人纳闷的话或事情。" />
-		<phrase hz="闷酒" py="mèn,jiǔ" info="心情郁闷时喝酒。" />
-		<phrase hz="闷雷" py="mèn,léi" info="声音沉闷不响亮的雷。 比喻遭到突然的打击。" />
-		<phrase hz="闷气" py="mèn,qì" duoyin="mēn,qì" info="聚集在心中没有向外发泄的愤怒和怨气" />
-		<phrase hz="纳闷" py="nà,mèn" info="因为怀疑而发闷。" />
-		<phrase hz="散闷" py="sàn,mèn" info="排遣烦闷;散心。" />
-		<phrase hz="忧闷" py="yōu,mèn" info="忧愁烦闷。" />
-		<phrase hz="郁闷" py="yù,mèn" info="1.愁眉不展的性质或状态。2.迟钝和无兴趣状态。" />
-		<definition id="一">
-			<item id="1" text="心烦，不痛快：~得慌. ~~不乐." />
-			<item id="2" text="密闭，不透气：~子车." />
-		</definition>
-	</char>
+	<!-- Ref:闷.xml <char hz="闷" py="mèn" multi="mēn" main="1" /> -->
 	<char hz="焖" py="mèn" />
 	<char hz="懑" py="mèn" />
 	<char hz="们" py="men" />
