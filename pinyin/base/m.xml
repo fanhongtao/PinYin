@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="呒" py="ḿ" />
-	<char hz="呣" py="ḿ" multi="m̀" main="1">
-		<definition id="一">
-			<item text="【单纯的双唇鼻音】叹词，表示疑问：~，你说什么？" />
-		</definition>
-	</char>
-	<char hz="呣" py="m̀" multi="ḿ">
-		<definition id="二">
-			<item text="叹词，表示答应：~，我知道了." />
-		</definition>
-	</char>
+	<!-- Ref:呣.xml <char hz="呣" py="ḿ" multi="m̀" main="1" /> -->
+	<!-- Ref:呣.xml <char hz="呣" py="m̀" multi="ḿ" /> -->
 </pinyin>
