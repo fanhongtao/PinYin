@@ -3,37 +3,8 @@
 	<char hz="妮" py="nī" />
 	<char hz="尼" py="ní" />
 	<char hz="坭" py="ní" />
-	<char hz="呢" py="ní" multi="ne">
-		<phrase hz="粗呢" py="cū,ní" info="原产苏格兰的一种精面斜纹织物--亦称粗花呢" />
-		<phrase hz="马裤呢" py="mǎ,kù,ní" info="用精梳毛线所织成的毛织品。表面有明显的斜纹，厚重耐磨，因最初多用以做马裤而得名。也适于做外套、大衣等。" />
-		<phrase hz="毛呢" py="máo,ní" info="呢子" />
-		<phrase hz="呢喃" py="ní,nán" info="形容像燕子叫声那样的轻声细语" />
-		<phrase hz="呢绒" py="ní,róng" info="毛织品的统称。泛指用兽毛或人造毛等原料织成的各种织物" />
-		<phrase hz="呢子" py="ní,zi" />
-		<definition id="一">
-			<item text="（-子）一种毛织物。" />
-			<item text="[呢喃](-nán)形容燕子的叫声。" />
-		</definition>
-	</char>
-	<char hz="泥" py="ní" multi="nì" main="1">
-		<phrase hz="胶泥" py="jiāo,ní" info="含有水份的粘土。" />
-		<phrase hz="泥巴" py="ní,bā" info="1.〈方〉和着水的土。 2.粘稠、往往很厚的泥浆。" />
-		<phrase hz="泥浆" py="ní,jiāng" info="细粘土与水的混合物，具有乳浆稠度，用于注浆成形" />
-		<phrase hz="泥坑" py="ní,kēng" info="1.含有许多泥的坑。 2.烂泥淤积的低洼地。 3.比喻难以摆脱的复杂而不安全的处境。" />
-		<phrase hz="泥泞" py="ní,nìng" info="1.烂泥淤积，不好走。 2.淤积的烂泥。" />
-		<phrase hz="泥人" py="ní,rén" info="用粘土捏成的人的形象" />
-		<phrase hz="泥水" py="ní,shuǐ" info="1.带泥土的水。 2.指建造房屋。" />
-		<phrase hz="泥塑" py="ní,sù" info="用粘土塑制成各种形象的一种民间手工艺。" />
-		<phrase hz="泥塘" py="ní,táng" info="淤积了烂泥的坑" />
-		<phrase hz="泥土" py="ní,tǔ" info="1.壤土。 2.粘土。" />
-		<phrase hz="泥腿" py="ní,tuǐ" info="指农民。旧时多用于对农民的蔑称。" />
-		<phrase hz="水泥" py="shuǐ,ní" info="由氧化铝、氧化硅、氧化钙、氧化铁和氧化镁，在窑内一起煅烧并研磨成为极细的粉末，是一种建筑材料" />
-		<phrase hz="蒜泥" py="suàn,ní" info="把蒜捣烂如泥状叫蒜泥，用来拌菜或蘸菜吃。" />
-		<definition id="一">
-			<item id="1" text="土和水合成的东西。" />
-			<item id="2" text="像泥的东西：印~（印色）. 枣~. 山药~." />
-		</definition>
-	</char>
+	<!-- Ref:呢.xml <char hz="呢" py="ní" multi="ne" /> -->
+	<!-- Ref:泥.xml <char hz="泥" py="ní" multi="nì" main="1" /> -->
 	<char hz="怩" py="ní" />
 	<char hz="铌" py="ní" />
 	<char hz="倪" py="ní" />
@@ -50,30 +21,11 @@
 	<char hz="拟" py="nǐ" />
 	<char hz="你" py="nǐ" />
 	<char hz="旎" py="nǐ" />
-	<char hz="泥" py="nì" multi="ní">
-		<phrase hz="拘泥" py="jū,nì" />
-		<phrase hz="泥子" py="nì,zi" info="通常白垩粉和煮沸了的亚麻子油搅拌、调成或揉至面团般稠度，用以把玻璃粘牢在窗户框格上并填塞木制品罅隙。也作“腻子”" />
-		<definition id="二">
-			<item id="1" text="涂抹：~墙. ~炉子." />
-			<item id="2" text="固执，死板（(连)拘-）。" />
-		</definition>
-	</char>
+	<!-- Ref:泥.xml <char hz="泥" py="nì" multi="ní" /> -->
 	<char hz="昵" py="nì" />
 	<char hz="逆" py="nì" />
 	<char hz="匿" py="nì" />
 	<char hz="睨" py="nì" />
 	<char hz="腻" py="nì" />
-	<char hz="溺" py="nì" multi="niào" main="1">
-		<phrase hz="沉溺" py="chén,nì" info="无节制地沉湎或放纵" />
-		<phrase hz="溺爱" py="nì,ài" info="对自己的孩子过分宠爱" />
-		<phrase hz="溺毙" py="nì,bì" info="淹死。" />
-		<phrase hz="溺水" py="nì,shuǐ" info="淹没在水里" />
-		<phrase hz="溺死" py="nì,sǐ" info="1.在水或其它液体中窒息。 2.由于淹没在水或其他液体中而使窒息。" />
-		<phrase hz="溺信" py="nì,xìn" info="犹迷信，笃信。" />
-		<phrase hz="贪溺" py="tān,nì" info="谓贪于财货，溺于美色。" />
-		<definition id="一">
-			<item id="1" text="淹没：~死." />
-			<item id="2" text="沉迷不悟，过分：~信. ~爱." />
-		</definition>
-	</char>
+	<!-- Ref:溺.xml <char hz="溺" py="nì" multi="niào" main="1" /> -->
 </pinyin>

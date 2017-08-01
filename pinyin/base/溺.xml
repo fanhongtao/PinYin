@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="溺" py="nì" multi="niào" main="1">
+		<phrase hz="沉溺" py="chén,nì" info="无节制地沉湎或放纵" />
+		<phrase hz="溺爱" py="nì,ài" info="对自己的孩子过分宠爱" />
+		<phrase hz="溺毙" py="nì,bì" info="淹死。" />
+		<phrase hz="溺水" py="nì,shuǐ" info="淹没在水里" />
+		<phrase hz="溺死" py="nì,sǐ" info="1.在水或其它液体中窒息。 2.由于淹没在水或其他液体中而使窒息。" />
+		<phrase hz="溺信" py="nì,xìn" info="犹迷信，笃信。" />
+		<phrase hz="贪溺" py="tān,nì" info="谓贪于财货，溺于美色。" />
+		<definition id="一">
+			<item id="1" text="淹没：~死." />
+			<item id="2" text="沉迷不悟，过分：~信. ~爱." />
+		</definition>
+	</char>
+	<char hz="溺" py="niào" multi="nì">
+		<phrase hz="便溺" py="biàn,niào" info="排除大便和小便" />
+		<definition id="二">
+			<item text="同“尿”。" />
+		</definition>
+	</char>
+</pinyin>

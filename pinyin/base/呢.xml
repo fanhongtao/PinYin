@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呢" py="ne" multi="ní" main="1">
+		<definition id="二">
+			<item text="助词。 1.表示疑问（句中含有疑问词）：你到哪儿去~？ 怎么办~？ 2.表示确定的语气：早着~. 还没有来~. 3.表示动作正在进行：他睡觉~. 4.用在句中表示略停一下：喜欢~，就买下；不喜欢~，就不买." />
+		</definition>
+	</char>
+	<char hz="呢" py="ní" multi="ne">
+		<phrase hz="粗呢" py="cū,ní" info="原产苏格兰的一种精面斜纹织物--亦称粗花呢" />
+		<phrase hz="马裤呢" py="mǎ,kù,ní" info="用精梳毛线所织成的毛织品。表面有明显的斜纹，厚重耐磨，因最初多用以做马裤而得名。也适于做外套、大衣等。" />
+		<phrase hz="毛呢" py="máo,ní" info="呢子" />
+		<phrase hz="呢喃" py="ní,nán" info="形容像燕子叫声那样的轻声细语" />
+		<phrase hz="呢绒" py="ní,róng" info="毛织品的统称。泛指用兽毛或人造毛等原料织成的各种织物" />
+		<phrase hz="呢子" py="ní,zi" />
+		<definition id="一">
+			<item text="（-子）一种毛织物。" />
+			<item text="[呢喃](-nán)形容燕子的叫声。" />
+		</definition>
+	</char>
+</pinyin>

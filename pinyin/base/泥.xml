@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="泥" py="ní" multi="nì" main="1">
+		<phrase hz="胶泥" py="jiāo,ní" info="含有水份的粘土。" />
+		<phrase hz="泥巴" py="ní,bā" info="1.〈方〉和着水的土。 2.粘稠、往往很厚的泥浆。" />
+		<phrase hz="泥浆" py="ní,jiāng" info="细粘土与水的混合物，具有乳浆稠度，用于注浆成形" />
+		<phrase hz="泥坑" py="ní,kēng" info="1.含有许多泥的坑。 2.烂泥淤积的低洼地。 3.比喻难以摆脱的复杂而不安全的处境。" />
+		<phrase hz="泥泞" py="ní,nìng" info="1.烂泥淤积，不好走。 2.淤积的烂泥。" />
+		<phrase hz="泥人" py="ní,rén" info="用粘土捏成的人的形象" />
+		<phrase hz="泥水" py="ní,shuǐ" info="1.带泥土的水。 2.指建造房屋。" />
+		<phrase hz="泥塑" py="ní,sù" info="用粘土塑制成各种形象的一种民间手工艺。" />
+		<phrase hz="泥塘" py="ní,táng" info="淤积了烂泥的坑" />
+		<phrase hz="泥土" py="ní,tǔ" info="1.壤土。 2.粘土。" />
+		<phrase hz="泥腿" py="ní,tuǐ" info="指农民。旧时多用于对农民的蔑称。" />
+		<phrase hz="水泥" py="shuǐ,ní" info="由氧化铝、氧化硅、氧化钙、氧化铁和氧化镁，在窑内一起煅烧并研磨成为极细的粉末，是一种建筑材料" />
+		<phrase hz="蒜泥" py="suàn,ní" info="把蒜捣烂如泥状叫蒜泥，用来拌菜或蘸菜吃。" />
+		<definition id="一">
+			<item id="1" text="土和水合成的东西。" />
+			<item id="2" text="像泥的东西：印~（印色）. 枣~. 山药~." />
+		</definition>
+	</char>
+	<char hz="泥" py="nì" multi="ní">
+		<phrase hz="拘泥" py="jū,nì" />
+		<phrase hz="泥子" py="nì,zi" info="通常白垩粉和煮沸了的亚麻子油搅拌、调成或揉至面团般稠度，用以把玻璃粘牢在窗户框格上并填塞木制品罅隙。也作“腻子”" />
+		<definition id="二">
+			<item id="1" text="涂抹：~墙. ~炉子." />
+			<item id="2" text="固执，死板（(连)拘-）。" />
+		</definition>
+	</char>
+</pinyin>

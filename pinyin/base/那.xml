@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="那" py="nā" multi="nà,nèi">
+		<definition id="三">
+			<item text="姓。" />
+		</definition>
+	</char>
+	<char hz="那" py="nà" multi="nā,nèi" main="1">
+		<phrase hz="那边" py="nà,biān" info="在那里;(不在说话人这里而在别处)" />
+		<phrase hz="那么" py="nà,me" />
+		<phrase hz="那个" py="nà,ge" info="1.那一个，也指那种事物。2.用在动词、形容词之前，表示夸张。3.代替不便直接说出来的意思。" />
+		<phrase hz="那块" py="nà,kuài" info="那里。" />
+		<phrase hz="那里" py="nà,lǐ" info="1.指距说话人较远处。2.泛指处所。这种情况下，须与这里这儿配合使用。3.指有一定所属的处所(如家宅等)，其前一般须有名词或代词加以限制。4.复指某一处所。" />
+		<phrase hz="那儿" py="nà,r" info="1.口语。那里。2.口语。那时候(用在“打”、“从”、“由”后面)。"/>
+		<phrase hz="那些" py="nà,xiē" info="1.指较远的两个以上的人或事物。2.指较远的多数时间和处所。3.指代前文已出现过的两个以上的人或事物。4.表示大量的。5.表示数多。"/>
+		<phrase hz="那样" py="nà,yàng" info="表示事物所具有的性质、方式、状态等" />
+		<definition id="一">
+			<item text="代词，指较远的时间、地方或事物，跟“这”相对：~时. ~里. ~个. ~样. ~些. [那么]（*那末）(-me)1.代词，那样：就~~办吧. 要不了~~多. ~~个人. ~~个脾气. 2.连词，跟前面“如果”、“若是”等相应：如果敌人不投降，~~就消灭他." />
+		</definition>
+	</char>
+	<char hz="那" py="nèi" multi="nā,nà">
+		<definition id="二">
+			<item text="“那”(nà)和“一”的合音，但指数量时不限于一：~个. ~些. ~年. ~三年." />
+		</definition>
+	</char>
+</pinyin>

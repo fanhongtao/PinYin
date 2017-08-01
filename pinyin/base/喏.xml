@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="喏" py="nuò" multi="rě" main="1">
+		<definition id="二">
+			<item id="1" text="〈方〉叹词，表示让人注意自己所指示的事物：~，这不就是你的那把伞？" />
+			<item id="2" text="同“诺”。" />
+		</definition>
+	</char>
+	<char hz="喏" py="rě" multi="nuò">
+		<phrase hz="唱喏" py="chàng,rě" />
+		<definition id="一">
+			<item text="古代表示敬意的呼喊：唱~（旧小说中常用，对作伏作揖，同时出声致敬）." />
+		</definition>
+	</char>
+</pinyin>

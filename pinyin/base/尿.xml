@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="尿" py="niào" multi="suī" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="小便，从肾脏滤出由尿道排泄出来的液体。" />
+			<item id="2" text="排泄小便。" />
+		</definition>
+	</char>
+	<char hz="尿" py="suī" multi="niào">
+		<phrase hz="尿脬" py="suī,pāo" />
+		<definition id="二">
+			<item text="小便，从尿道排泄出来的液体。 [尿脬](-pāo)膀胱。" />
+		</definition>
+	</char>
+</pinyin>

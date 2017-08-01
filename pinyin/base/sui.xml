@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="尿" py="suī" multi="niào">
-		<phrase hz="尿脬" py="suī,pāo" />
-		<definition id="二">
-			<item text="小便，从尿道排泄出来的液体。 [尿脬](-pāo)膀胱。" />
-		</definition>
-	</char>
+	<!-- Ref:尿.xml <char hz="尿" py="suī" multi="niào" /> -->
 	<char hz="虽" py="suī" />
 	<char hz="荽" py="suī">
 		<phrase hz="芫荽" py="yán,sui" />
@@ -18,28 +13,13 @@
 	<char hz="随" py="suí">
 		<phrase hz="随和" py="suí,he" />
 	</char>
-	<char hz="遂" py="suí" multi="suì">
-		<phrase hz="半身不遂" py="bàn,shēn,bù,suí" />
-		<definition id="二">
-			<item text="义同“遂(一)(1)”，用于“半身不遂”（身体一侧发生瘫痪）。" />
-		</definition>
-	</char>
+	<!-- Ref:遂.xml <char hz="遂" py="suí" multi="suì" /> -->
 	<char hz="髓" py="suǐ" />
 	<char hz="岁" py="suì" />
 	<char hz="谇" py="suì" />
 	<char hz="碎" py="suì" />
 	<char hz="祟" py="suì" />
-	<char hz="遂" py="suì" multi="suí" main="1" suppressLog="1">
-		<phrase hz="不遂" py="bú,suì" info="失败;不成功;不尽人意" />
-		<phrase hz="遂心" py="suì,xīn" info="称心;合乎心愿，如心所欲" />
-		<phrase hz="遂愿" py="suì,yuàn" info="满足或实现人的愿望" />
-		<phrase hz="未遂" py="wèi,suì" info="没有达到;没有实现" />
-		<definition id="一">
-			<item id="1" text="顺，如意：~心. ~愿." />
-			<item id="2" text="成功，实现：未~. 所谋不~." />
-			<item id="3" text="于是，就：服药后腹痛~止." />
-		</definition>
-	</char>
+	<!-- Ref:遂.xml <char hz="遂" py="suì" multi="suí" main="1" suppressLog="1" /> -->
 	<char hz="隧" py="suì" />
 	<char hz="燧" py="suì" />
 	<char hz="邃" py="suì" />
