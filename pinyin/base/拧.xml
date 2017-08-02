@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="拧" py="níng" multi="nǐng,nìng">
+		<phrase hz="拧毛巾" py="níng,máo,jīn" />
+		<phrase hz="拧绳子" py="níng,shéng,zi" />
+		<definition id="二">
+			<item text="握住物体的两端向相反的方向用力：~手巾. ~绳子." />
+		</definition>
+	</char>
+	<char hz="拧" py="nǐng" multi="níng,nìng" main="1">
+		<phrase hz="胳膊拧不过大腿" py="gē,bo,nǐng,bú,guò,dà,tuǐ" />
+		<phrase hz="强拧的瓜不甜" py="qiáng,nǐng,de,guā,bù,tián" />
+		<definition id="一">
+			<item id="1" text="扭转，控制住东西的一部分而绞转(zhuàn)：~螺丝钉. ~墨水瓶盖." />
+			<item id="2" text="〈方〉相反，不顺：我弄~了. 别让他俩闹~了." />
+		</definition>
+	</char>
+	<char hz="拧" py="nìng" multi="níng,nǐng">
+		<phrase hz="拧脾气" py="nìng,pí,qi" />
+		<definition id="三">
+			<item text="倔强，别扭，不驯服：~脾气." />
+		</definition>
+	</char>
+</pinyin>

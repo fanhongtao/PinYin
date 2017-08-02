@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="宁" py="níng" multi="nìng" main="1">
+		<phrase hz="安宁" py="ān,níng" info="1.秩序正常，没有骚扰。2.心情安定、平静。" />
+		<phrase hz="归宁" py="guī,níng" info="回家省亲。多指已嫁女子回娘家看望父母。" />
+		<phrase hz="康宁" py="kāng,níng" info="1.安宁。2.健康。" />
+		<phrase hz="奎宁" py="kuí,níng" info="俗称金鸡纳霜，茜草科植物金鸡纳树及其同属植物的树皮中的主要生物碱。化学称为金鸡纳碱，分子式C20H24N2O2。" />
+		<phrase hz="列宁" py="liè,níng" />
+		<phrase hz="宁静" py="níng,jìng" info="平静;安静;清静寡欲，不慕荣利" />
+		<phrase hz="宁靖" py="níng,jìng" info="社会秩序安定" />
+		<phrase hz="宁谧" py="níng,mì" info="安静;安宁" />
+		<phrase hz="宁日" py="níng,rì" info="和平安定的日子" />
+		<phrase hz="宁帖" py="níng,tiē" info="安宁平静" />
+		<phrase hz="息事宁人" py="xī,shì,níng,rén" info="息：平息；宁：使安定。原指不生事，不骚扰百姓，后指调解纠纷，使事情平息下来，使人们平安相处。" />
+		<definition id="一">
+			<item id="1" text="安宁。 [归宁]旧时女子出嫁后回娘家看望父母。" />
+			<item id="2" text="使安宁：息事~人." />
+			<item id="3" text="江苏省南京的别称。" />
+		</definition>
+	</char>
+	<char hz="宁" py="nìng" multi="níng">
+		<phrase hz="宁可" py="nìng,kě" />
+		<phrase hz="宁肯" py="nìng,kěn" />
+		<phrase hz="宁缺毋滥" py="nìng,quē,wú,làn" />
+		<phrase hz="宁死不屈" py="nìng,sǐ,bù,qū" />
+		<phrase hz="宁愿" py="nìng,yuàn" />
+		<phrase hz="毋宁" py="wú,nìng" />
+		<definition id="二">
+			<item id="1" text="宁可，表示比较后做出的选择，情愿：~死不屈. ~缺毋滥." />
+			<item id="2" text="姓。" />
+		</definition>
+	</char>
+</pinyin>
