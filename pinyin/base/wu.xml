@@ -22,12 +22,7 @@
 	<char hz="毋" py="wú" />
 	<char hz="吾" py="wú" />
 	<char hz="郚" py="wú" />
-	<char hz="唔" py="wú" multi="ń,ńg" main="1">
-		<phrase hz="咿唔" py="yī,wú" />
-		<definition id="一">
-			<item text="见“咿”字条“咿唔”(yī-)。" />
-		</definition>
-	</char>
+	<!-- Ref:唔.xml <char hz="唔" py="wú" multi="ń,ńg" main="1" /> -->
 	<char hz="浯" py="wú" />
 	<char hz="梧" py="wú" />
 	<char hz="铻" py="wú" />

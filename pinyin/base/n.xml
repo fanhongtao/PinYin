@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="唔" py="ń" multi="ńg,wú">
-		<definition id="三">
-			<item text="(又)同“嗯(一)”。" />
-		</definition>
-	</char>
+	<!-- Ref:唔.xml <char hz="唔" py="ń" multi="ńg,wú" /> -->
 	<!-- <char hz="嗯" py="ń" info="(又)ńg"/> -->
 	<!-- <char hz="嗯" py="ň" info="(又)ňg"/> -->
 	<!-- <char hz="嗯" py="ǹ" info="(又)ǹg"/> -->

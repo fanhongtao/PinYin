@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="唔" py="ń" multi="ńg,wú">
+		<definition id="三">
+			<item text="(又)同“嗯(一)”。" />
+		</definition>
+	</char>
+	<char hz="唔" py="ńg" multi="ń,wú">
+		<definition id="二">
+			<item text="同“嗯(一)”。" />
+		</definition>
+	</char>
+	<char hz="唔" py="wú" multi="ń,ńg" main="1">
+		<phrase hz="咿唔" py="yī,wú" />
+		<definition id="一">
+			<item text="见“咿”字条“咿唔”(yī-)。" />
+		</definition>
+	</char>
+</pinyin>

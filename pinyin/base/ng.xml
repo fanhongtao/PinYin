@@ -1,23 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="唔" py="ńg" multi="ń,wú">
-		<definition id="二">
-			<item text="同“嗯(一)”。" />
-		</definition>
-	</char>
-	<char hz="嗯" py="ńg" multi="ňg,ǹg" info="(又)ń">
-		<definition id="一">
-			<item text="叹词，表示疑问：~！你说什么？" />
-		</definition>
-	</char>
-	<char hz="嗯" py="ňg" multi="ńg,ǹg" info="(又)ň">
-		<definition id="二">
-			<item text="叹词，表示不以为然或出乎意外：~！我看不一定是那么回事. ~！你怎么还没去？" />
-		</definition>
-	</char>
-	<char hz="嗯" py="ǹg" multi="ńg,ňg" info="(又)ǹ" main="1">
-		<definition id="三">
-			<item text="叹词，表示答应：~，就这么办吧." />
-		</definition>
-	</char>
+	<!-- Ref:唔.xml <char hz="唔" py="ńg" multi="ń,wú" /> -->
+	<!-- Ref:嗯.xml <char hz="嗯" py="ńg" multi="ňg,ǹg" info="(又)ń" /> -->
+	<!-- Ref:嗯.xml <char hz="嗯" py="ňg" multi="ńg,ǹg" info="(又)ň" /> -->
+	<!-- Ref:嗯.xml <char hz="嗯" py="ǹg" multi="ńg,ňg" info="(又)ǹ" main="1" /> -->
 </pinyin>
