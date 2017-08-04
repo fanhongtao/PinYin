@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="馕" py="náng" multi="nǎng" main="1">
+		<definition id="二">
+			<item text="(维)一种烤制成的面饼。" />
+		</definition>
+	</char>
+	<char hz="馕" py="nǎng" multi="náng" info="Word主音">
+		<definition id="一">
+			<item text="拼命地往嘴里塞食物。" />
+		</definition>
+	</char>
+</pinyin>
