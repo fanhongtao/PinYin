@@ -1,39 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="喷" py="pēn" multi="pèn" main="1">
-		<phrase hz="井喷" py="jǐng,pēn" info="钻石油井时地下的高压油、天然气、地下水等受地层压力突然夹带着泥沙从井口喷出的现象。" />
-		<phrase hz="喷薄" py="pēn,bó" info="1.汹涌激荡。 2.强烈散发、迸发。 3.形容事物出现时气势壮盛。 4.雨雪纷飞。" />
-		<phrase hz="喷发" py="pēn,fā" info="被压抑之物(如熔岩或蒸气)突然猛烈地冲出或释放。" />
-		<phrase hz="喷饭" py="pēn,fàn" info="吃饭时突然发笑而把嘴中的饭喷出来，于是用令人喷饭来形容事情的可笑。" />
-		<phrase hz="喷火" py="pēn,huǒ" info="1.使用喷火器喷射高温火焰消灭目标的行动。2.形容花开色红。3.形容骄阳酷热。" />
-		<phrase hz="喷溅" py="pēn,jiàn" info="1.[汁、液等]受压力向四外射出。 2.火花对焊接时由电弧引起的小金属颗粒的强烈飞溅。" />
-		<phrase hz="喷口" py="pēn,kǒu" info="(液体、气体、粉粒状物体等)喷出的地方。" />
-		<phrase hz="喷漆" py="pēn,qī" info="用压缩空气将涂料喷成雾状涂在木器或铁器上" />
-		<phrase hz="喷气" py="pēn,qì" info="1.气体从开口的井内喷出。2.喷发出一阵气流。" />
-		<phrase hz="喷泉" py="pēn,quán" />
-		<phrase hz="喷洒" py="pēn,sǎ" />
-		<phrase hz="喷射" py="pēn,shè" info="1.液体、气体或成颗粒状的固体突然地或暴烈地迸出或放出。 2.流体高速地从一个物体的喷嘴或孔口射出。" />
-		<phrase hz="喷水" py="pēn,shuǐ" />
-		<phrase hz="喷头" py="pēn,tóu" info="淋浴或喷洒农药等用的出水装置,形状像莲蓬。有的地区也叫“莲蓬头”" />
-		<phrase hz="喷嚏" py="pēn,tì" />
-		<phrase hz="喷雾" py="pēn,wù" info="利用空吸作用将药水或其他液体变成像雾一样的小水滴,均匀地喷射到其他物体上" />
-		<phrase hz="喷云吐雾" py="pēn,yún,tǔ,wù" info="1.形容抽烟或抽鸦片烟的情景或场面。 2.[烟囱等]喷放、冒出浓烟。" />
-		<phrase hz="喷嘴" py="pēn,zuǐ" info="喷射流体物质用的零部件，一般呈管状，出口的一端管孔较小。" />
-		<phrase hz="嚏喷" py="tì,pen" />
-		<definition id="一">
-			<item text="散着射出：~壶. ~泉. ~气式飞机. 火山~火. [喷嚏](-tì)嚏喷(tìpen)。参看“嚏”。" />
-		</definition>
-	</char>
+	<!-- Ref:喷.xml <char hz="喷" py="pēn" multi="pèn" main="1" /> -->
 	<char hz="盆" py="pén" />
 	<char hz="湓" py="pén" />
-	<char hz="喷" py="pèn" multi="pēn">
-		<phrase hz="喷儿" py="pèn,er" info="非常香;香气浓郁" />
-		<phrase hz="喷香" py="pèn,xiāng" />
-		<phrase hz="香喷喷" py="xiāng,pèn,pèn" />
-		<definition id="二">
-			<item id="1" text="香气扑鼻：~鼻儿香. 香~~." />
-			<item id="2" text="（-儿）蔬菜、鱼虾、瓜果等上市正盛的时期：西瓜~儿. 对虾正在~儿上." />
-			<item id="3" text="（-儿）开花结实的次数或成熟收割的次数：头~棉花. 二~棉花. 麦子开头~花儿了. 绿豆结二~角了." />
-		</definition>
-	</char>
+	<!-- Ref:喷.xml <char hz="喷" py="pèn" multi="pēn" /> -->
 </pinyin>
