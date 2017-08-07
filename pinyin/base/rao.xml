@@ -2,22 +2,9 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="荛" py="ráo" />
 	<char hz="饶" py="ráo" />
-	<char hz="娆" py="ráo" multi="rǎo" main="1">
-		<phrase hz="娇娆" py="jiāo,ráo" />
-		<phrase hz="妖娆" py="yāo,ráo" />
-		<phrase hz="妖妖娆娆" py="yāo,yāo,ráo,ráo" />
-		<phrase hz="窈娆" py="yǎo,ráo" />
-		<definition id="一">
-			<item text="[妖娆][娇娆]妖艳，美好。" />
-		</definition>
-	</char>
+	<!-- Ref:娆.xml <char hz="娆" py="ráo" multi="rǎo" main="1" /> -->
 	<char hz="桡" py="ráo" />
 	<char hz="扰" py="rǎo" />
-	<char hz="娆" py="rǎo" multi="ráo">
-		<phrase hz="娆恼" py="rǎo,nǎo" />
-		<definition id="二">
-			<item text="烦扰，扰乱。" />
-		</definition>
-	</char>
+	<!-- Ref:娆.xml <char hz="娆" py="rǎo" multi="ráo" /> -->
 	<char hz="绕" py="rào" />
 </pinyin>
