@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="擞" py="sǒu" multi="sòu">
+		<phrase hz="抖擞" py="dǒu,sǒu" />
+		<definition id="二">
+			<item text="[抖擞](dǒu-)振作，振奋：~~精神. 精神~~." />
+		</definition>
+	</char>
+	<char hz="擞" py="sòu" multi="sǒu" main="1">
+		<definition id="一">
+			<item text="用通条插到火炉里，把灰抖掉：把炉子~一~." />
+		</definition>
+	</char>
+</pinyin>
