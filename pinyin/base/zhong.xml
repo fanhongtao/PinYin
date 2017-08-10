@@ -5,12 +5,7 @@
 	<char hz="盅" py="zhōng" />
 	<char hz="钟" py="zhōng" />
 	<char hz="衷" py="zhōng" />
-	<char hz="忪" py="zhōng" multi="sōng" info="Word主音">
-		<phrase hz="怔忪" py="zhēng,zhōng" />
-		<definition id="二">
-			<item text="[怔忪](zhēng-)惊惧。" />
-		</definition>
-	</char>
+	<!-- Ref:忪.xml <char hz="忪" py="zhōng" multi="sōng" info="Word主音" /> -->
 	<char hz="终" py="zhōng" />
 	<char hz="螽" py="zhōng" />
 	<char hz="肿" py="zhǒng" />

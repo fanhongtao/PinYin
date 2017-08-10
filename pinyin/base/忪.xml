@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="忪" py="sōng" multi="zhōng" main="1">
+		<phrase hz="惺忪" py="xīng,sōng" />
+		<definition id="一">
+			<item text="见“惺”字条“惺忪”(xīng-)。" />
+		</definition>
+	</char>
+	<char hz="忪" py="zhōng" multi="sōng" info="Word主音">
+		<phrase hz="怔忪" py="zhēng,zhōng" />
+		<definition id="二">
+			<item text="[怔忪](zhēng-)惊惧。" />
+		</definition>
+	</char>
+</pinyin>
