@@ -1,22 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="刷" py="shuā" multi="shuà" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="（-子、-儿）用成束的毛、棕等制成的清除东西或涂抹东西的用具。" />
-			<item id="2" text="用刷子或类似刷子的用具来清除或涂抹：~牙. ~鞋. ~锅. 用石灰~墙. (引)淘汰：第一轮比赛就被~掉了." />
-			<item id="3" text="同“唰”。" />
-		</definition>
-	</char>
+	<!-- Ref:刷.xml <char hz="刷" py="shuā" multi="shuà" main="1" suppressLog="1" /> -->
 	<char hz="唰" py="shuā">
 		<definition>
 			<item text="拟声词，形容迅速擦过的声音：小雨~~地下起来了." />
 		</definition>
 	</char>
 	<char hz="耍" py="shuǎ" />
-	<char hz="刷" py="shuà" multi="shuā">
-		<phrase hz="刷白" py="shuà,bái" />
-		<definition id="二">
-			<item text="[刷白]色白而略微发青。" />
-		</definition>
-	</char>
+	<!-- Ref:刷.xml <char hz="刷" py="shuà" multi="shuā" /> -->
 </pinyin>
