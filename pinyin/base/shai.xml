@@ -2,13 +2,6 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="筛" py="shāi" />
 	<!-- <char hz="酾" py="shāi" info="(又)shī"/> -->
-	<char hz="色" py="shǎi" multi="sè">
-		<phrase hz="色儿" py="shǎi,er" />
-		<phrase hz="落色儿" py="lào,shǎi,er" />
-		<phrase hz="色子" py="shǎi,zi" />
-		<definition id="二">
-			<item text="（-儿）同“色(一)”，用于一些口语词：落(lào)~儿. 掉~. 不变~儿." />
-		</definition>
-	</char>
+	<!-- Ref:色.xml <char hz="色" py="shǎi" multi="sè" /> -->
 	<char hz="晒" py="shài" />
 </pinyin>

@@ -1,37 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="色" py="sè" multi="shǎi" main="1" suppressLog="1">
-		<definition id="一">
-			<item id="1" text="颜色，由物体发射、反射的光通过视觉而产生的印象：日光有七~. 红~." />
-			<item id="2" text="脸色，脸上表现出的神气、样子：和颜悦~. 喜形于~." />
-			<item id="3" text="情景、景象：行~匆匆." />
-			<item id="4" text="各类：各~用品. 货~齐全." />
-			<item id="5" text="成色，品质，质量：足~纹银. 这货成~很好." />
-			<item id="6" text="妇女容貌：姿~." />
-			<item id="7" text="情欲：~情." />
-		</definition>
-	</char>
+	<!-- Ref:色.xml <char hz="色" py="sè" multi="shǎi" main="1" suppressLog="1" /> -->
 	<char hz="铯" py="sè" />
 	<char hz="涩" py="sè" />
 	<char hz="啬" py="sè" />
 	<char hz="穑" py="sè" />
 	<char hz="瑟" py="sè" />
-	<char hz="塞" py="sè" multi="sāi,sài">
-		<phrase hz="闭目塞听" py="bì,mù,sè,tīng" />
-		<phrase hz="闭塞" py="bì,sè" info="1.堵塞不通 2.以闭塞信号系统管理[火车] 3.交通不便;偏僻 4.消息不灵通" />
-		<phrase hz="堵塞" py="dǔ,sè" />
-		<phrase hz="哽塞" py="gěng,sè" info="充血或堵塞(如鼻腔)" />
-		<phrase hz="梗塞" py="gěng,sè" info="阻塞，壅塞不通" />
-		<phrase hz="茅塞" py="máo,sè" />
-		<phrase hz="塞责" py="sè,zé" info="做事不认真，敷衍了事" />
-		<phrase hz="唐塞" py="táng,sè" info="同“搪塞”。" />
-		<phrase hz="搪塞" py="táng,sè" info="塘堤有万孔，只塞其一。 引申为敷衍，不负责" />
-		<phrase hz="拥塞" py="yōng,sè" info="1.阻塞，阻隔 2.丛聚;拥挤充塞" />
-		<phrase hz="淤塞" py="yū,sè" info="沉积的泥沙使水流不畅" />
-		<phrase hz="语塞" py="yǔ,sè" info="(因激动、气愤或理亏等原因)话说不出。" />
-		<phrase hz="阻塞" py="zǔ,sè" info="有障碍而不能通过" />
-		<definition id="二">
-			<item text="同“塞(一)(1)”. 用于某些合成词或成语中，如“闭塞、堵塞、阻塞、塞责、闭目塞听”等。" />
-		</definition>
-	</char>
+	<!-- Ref:塞.xml <char hz="塞" py="sè" multi="sāi,sài" /> -->
 </pinyin>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="色" py="sè" multi="shǎi" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="颜色，由物体发射、反射的光通过视觉而产生的印象：日光有七~. 红~." />
+			<item id="2" text="脸色，脸上表现出的神气、样子：和颜悦~. 喜形于~." />
+			<item id="3" text="情景、景象：行~匆匆." />
+			<item id="4" text="各类：各~用品. 货~齐全." />
+			<item id="5" text="成色，品质，质量：足~纹银. 这货成~很好." />
+			<item id="6" text="妇女容貌：姿~." />
+			<item id="7" text="情欲：~情." />
+		</definition>
+	</char>
+	<char hz="色" py="shǎi" multi="sè">
+		<phrase hz="色儿" py="shǎi,er" />
+		<phrase hz="落色儿" py="lào,shǎi,er" />
+		<phrase hz="色子" py="shǎi,zi" />
+		<definition id="二">
+			<item text="（-儿）同“色(一)”，用于一些口语词：落(lào)~儿. 掉~. 不变~儿." />
+		</definition>
+	</char>
+</pinyin>

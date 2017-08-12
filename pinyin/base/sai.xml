@@ -3,34 +3,11 @@
 	<char hz="揌" py="sāi" />
 	<char hz="腮" py="sāi" />
 	<char hz="鳃" py="sāi" />
-	<char hz="塞" py="sāi" multi="sài,sè" main="1">
-		<phrase hz="耳塞" py="ěr,sāi" info="1.一种用柔韧材料制成的可塞入外耳道的器件(如用来防水或挡音的)。 2.塞在耳中的小型受话器。" />
-		<phrase hz="活塞" py="huó,sāi" info="1.由液压驱动或逆液压而动的滑动部件，通常为短圆筒装在圆筒形容器内并沿筒作往复运动 2.各种管乐器的活门 3.由液压推动或顶着液压而动的滑动机件" />
-		<phrase hz="塞儿" py="sāi,r" info="堵住器物的东西" />
-		<phrase hz="塞子" py="sāi,zi" info="塞住容器口使内外隔绝的东西。" />
-		<phrase hz="哇塞" py="wā,sāi" info="感叹语,相当于天哪,了不得" />
-		<definition id="一">
-			<item id="1" text="堵，填入：把窟窿~住. 往书包里~了一本书." />
-			<item id="2" text="（-子、-儿）堵住器物的东西：瓶子~儿. 软木~儿." />
-		</definition>
-	</char>
+	<!-- Ref:塞.xml <char hz="塞" py="sāi" multi="sài,sè" main="1" /> -->
 	<char hz="噻" py="sāi">
 		<phrase hz="噻唑" py="sāi,zuò" />
 	</char>
-	<char hz="塞" py="sài" multi="sāi,sè">
-		<phrase hz="边塞" py="biān,sài" info="边疆设防的地方" />
-		<phrase hz="布鲁塞尔" py="bù,lǔ,sài,ěr" info="[Brussels] 比利时王国首都。" />
-		<phrase hz="关塞" py="guān,sài" info="1.边关；边塞。2.指 函谷关 和 桃林塞 。" />
-		<phrase hz="克劳塞维茨" py="kè,láo,sài,wéi,cí" info="克劳塞维茨卡尔·菲利普·戈特弗里德·冯·克劳塞维茨（1780～1831年），德国军事理论家和军事历史学家，普鲁士军队少将。1792年，参加了普鲁士军队。1795年晋升为军官，并自修了战略学、战术学和军事历史学。著有《战争论》一书。" />
-		<phrase hz="塞北" py="sài,běi" info="指 长城 以北。亦泛指我国北边地区。" />
-		<phrase hz="塞内" py="sài,nèi" info="边境之内。" />
-		<phrase hz="塞外" py="sài,wài" info="中国古代指长城以北的地区。也叫“塞北”" />
-		<phrase hz="塞翁失马" py="sài,wēng,shī,mǎ" info="塞：边界险要之处；翁：老头。比喻一时虽然受到损失，也许反而因此能得到好处。也指坏事在一定条件下可变为好事。" />
-		<phrase hz="要塞" py="yào,sài" info="1.筑有永久工事、准备长期坚守的国防要地 2.构筑了堡垒的地方" />
-		<definition id="三">
-			<item text="边界上的险要地方：要~. ~外." />
-		</definition>
-	</char>
+	<!-- Ref:塞.xml <char hz="塞" py="sài" multi="sāi,sè" /> -->
 	<char hz="僿" py="sài" />
 	<char hz="赛" py="sài">
 		<phrase hz="赛璐玢" py="sài,lù,fēn" />
