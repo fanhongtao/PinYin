@@ -1,55 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="丧" py="sāng" multi="sàng" main="1">
-		<phrase hz="报丧" py="bào,sāng" info="把某人去世的消息通知其亲友" />
-		<phrase hz="奔丧" py="bēn,sāng" info="从外地赶回去参加或料理亲属的丧事" />
-		<phrase hz="出丧" py="chū,sāng" info="运送灵柩到安葬或寄放的地点" />
-		<phrase hz="吊丧" py="diào,sāng" info="到丧家吊唁" />
-		<phrase hz="发丧" py="fā,sāng" info="1.把去世的消息通知死者亲友 2.办理丧事" />
-		<phrase hz="服丧" py="fú,sāng" info="在一定时期内带孝，对死去的长辈或平辈亲属表示哀悼" />
-		<phrase hz="国丧" py="guó,sāng" info="旧指皇帝、皇后、太上皇、太后的丧事，在一定的时间内禁止宴乐婚嫁，以示哀掉" />
-		<phrase hz="号丧" py="háo,sāng" info="1.〈方〉哭(骂人的话) 2.旧俗，家中有丧事，来吊唁的人和守灵的人大声干哭，叫号丧" />
-		<phrase hz="居丧" py="jū,sāng" info="处在直系尊亲的丧期守制中。指守孝" />
-		<phrase hz="哭丧" py="kū,sāng" info="1.有丧事时，吊祭的人和守灵的人大声号哭 2.悲哀的样子" />
-		<phrase hz="丧服" py="sāng,fú" info="1.为哀悼死者而穿的服装。中国旧时习俗用本色的粗布或麻布做成 2.为表示哀悼而穿的黑色衣服" />
-		<phrase hz="丧礼" py="sāng,lǐ" info="有关丧事的礼仪" />
-		<phrase hz="丧乱" py="sāng,luàn" info="死亡祸乱。后多以形容时势或政局动乱。" />
-		<phrase hz="丧事" py="sāng,shì" info="指人死后殓葬、哀悼等事情" />
-		<phrase hz="丧葬" py="sāng,zàng" info="办理丧事和埋葬死者" />
-		<phrase hz="丧钟" py="sāng,zhōng" info="1.西方风俗，教堂为死亡的教徒举行宗教仪式时敲钟叫敲丧钟 2.指接近死亡或灭亡" />
-		<phrase hz="守丧" py="shǒu,sāng" info="守灵" />
-		<phrase hz="送丧" py="sòng,sāng" info="送殡。" />
-		<phrase hz="治丧" py="zhì,sāng" info="承办丧葬事宜" />
-		<definition id="一">
-			<item text="跟死了人有关的事：~事. 治~委员会." />
-		</definition>
-	</char>
+	<!-- Ref:丧.xml <char hz="丧" py="sāng" multi="sàng" main="1" /> -->
 	<char hz="桑" py="sāng" />
 	<char hz="搡" py="sǎng" />
 	<char hz="嗓" py="sǎng" />
 	<char hz="磉" py="sǎng" />
 	<char hz="颡" py="sǎng" />
-	<char hz="丧" py="sàng" multi="sāng" info="Word主音">
-		<phrase hz="懊丧" py="ào,sàng" info="懊恼沮丧" />
-		<phrase hz="沮丧" py="jǔ,sàng" />
-		<phrase hz="沦丧" py="lún,sàng" info="1.沦没丧亡；丧失。 2.引申为死亡。" />
-		<phrase hz="人心丧尽" py="rén,xīn,sàng,jìn" info="指不得人心到极点。" />
-		<phrase hz="丧胆" py="sàng,dǎn" />
-		<phrase hz="丧家犬" py="sàng,jiā,quǎn" info="见“丧家之犬”。" />
-		<phrase hz="丧家之犬" py="sàng,jiā,zhī,quǎn" info="无家可归的狗。比喻无处投奔，到处乱窜的人。" />
-		<phrase hz="丧尽天良" py="sàng,jìn,tiān,liáng" info="丧：丧失；天良：良心。没有一点良心。形容恶毒到了极点。" />
-		<phrase hz="丧命" py="sàng,mìng" />
-		<phrase hz="丧偶" py="sàng,ǒu" />
-		<phrase hz="丧气" py="sàng,qì" />
-		<phrase hz="丧权辱国" py="sàng,quán,rǔ,guó" info="丧：丧失；辱：使受到耻辱。 丧失主权，使国家蒙受耻辱。" />
-		<phrase hz="丧生" py="sàng,shēng" />
-		<phrase hz="丧失" py="sàng,shī" />
-		<phrase hz="丧亡" py="sàng,wáng" info="死亡;灭亡" />
-		<phrase hz="丧心病狂" py="sàng,xīn,bìng,kuáng" info="丧失理智，象发了疯一样。 形容言行昏乱而荒谬，或残忍可恶到了极点。" />
-		<phrase hz="嗒丧" py="tà,sàng" info="失意;丧气" />
-		<phrase hz="颓丧" py="tuí,sàng" />
-		<definition id="二">
-			<item text="丢掉，失去（(连)-失）：~命. ~失立场. [丧气]1.情绪低落：灰心~~. 2.(-qi)不吉利（迷信），倒霉。" />
-		</definition>
-	</char>
+	<!-- Ref:丧.xml <char hz="丧" py="sàng" multi="sāng" info="Word主音" /> -->
 </pinyin>
