@@ -10,61 +10,14 @@
 	<char hz="涂" py="tú" />
 	<char hz="酴" py="tú" />
 	<char hz="徒" py="tú" />
-	<char hz="菟" py="tú" multi="tù">
-		<phrase hz="於菟" py="wū,tú" />
-		<definition id="二">
-			<item text="[於菟](wū-)〈古〉老虎的别称。" />
-		</definition>
-	</char>
+	<!-- Ref:菟.xml <char hz="菟" py="tú" multi="tù" /> -->
 	<char hz="屠" py="tú" />
 	<char hz="腯" py="tú" />
 	<char hz="土" py="tǔ" />
-	<char hz="吐" py="tǔ" multi="tù" main="1">
-		<phrase hz="辞吐" py="cí,tǔ" info="言辭談吐。" />
-		<phrase hz="谈吐" py="tán,tǔ" info="談話時的態度和措詞。" />
-		<phrase hz="吐蕃" py="tǔ,bō" info="公元七至九世纪，我国古代藏族所建政权。据有今 西藏 地区全部，盛时辖有 青藏高原 诸部，势力达到西域、 河陇 地区。" />
-		<phrase hz="吐哺" py="tǔ,bǔ" info="本是吐出口中的食物。文選．班彪．王命論：「當食吐哺，納子房之策。」後指殷勤的求取賢士。" />
-		<phrase hz="吐翠" py="tǔ,cuì" info="现出绿色" />
-		<phrase hz="吐饭成蜂" py="tǔ,fàn,chéng,fēng" info="一種道家奇術。指口中吐出的飯，盡化成飛蜂。" />
-		<phrase hz="吐故纳新" py="tǔ,gù,nà,xīn" info="本指道家養生之術，吐出濁氣，吸入清氣，以去疾病。用以比喻揚棄舊有的，吸取新的事物。" />
-		<phrase hz="吐话" py="tǔ,huà" info="开口讲话" />
-		<phrase hz="吐火" py="tǔ,huǒ" info="一種從嘴巴裡吐出火來的魔術特技表演。" />
-		<phrase hz="吐锦鸡" py="tǔ,jǐn,jī" info="见“吐绶鸡”" />
-		<phrase hz="吐口" py="tǔ,kǒu" info="1.从口里吐出 2.说出" />
-		<phrase hz="吐露" py="tǔ,lù" info="1.说出实情或真心话 2.显露" />
-		<phrase hz="吐纳" py="tǔ,nà" info="1.道家的修鍊術。從口中吐出惡濁之氣，鼻吸入清新之氣。 2.吐出與吸入。 3.發言，談論。" />
-		<phrase hz="吐气" py="tǔ,qì" info="1.呼出气 2.发泄委屈或怨恨而觉得舒畅 3.语音上的送气" />
-		<phrase hz="吐弃" py="tǔ,qì" info="唾弃" />
-		<phrase hz="吐舌" py="tǔ,shé" info="伸出舌頭。表示驚訝的動作。" />
-		<phrase hz="吐绶鸡" py="tǔ,shòu,jī" info="吐绶鸡科(Meleagrididae)的一种鸟。头部有红色肉质突起,羽毛有黑、白、深黄等色。也叫“吐锦鸡”、“真珠鸡”、“七面鸟”,俗称“火鸡”。今多饲作家禽。以喉下有肉垂,似绶,故称" />
-		<phrase hz="吐诉" py="tǔ,sù" info="倾吐;诉说" />
-		<phrase hz="吐絮" py="tǔ,xù" info="指棉桃熟裂，露出的白色棉絮" />
-		<phrase hz="吐穗" py="tǔ,suì" info="抽穗。稻、麦、高粱等禾本科植物的穗由卷起筒状的叶子里露出来" />
-		<phrase hz="吐字" py="tǔ,zì" info="咬字;指唱曲或说白中按正确或传统的音读出字的发音" />
-		<phrase hz="吞吐" py="tūn,tǔ" info="1.呼氣與吸氣。即道家所說的吐納。 2.吞進和吐出。 言語不直截或含混不清。" />
-		<phrase hz="吞吞吐吐" py="tūn,tūn,tǔ,tǔ" info="欲言又止,欲止又言,似有隐情难言之状" />
-		<definition id="一">
-			<item text="使东西从嘴里出来：不要随地~痰. (引)1.说出：~露(lù)实情. 坚不~实. 2.露出，放出：高粱~穗了. 蚕~丝." />
-		</definition>
-	</char>
+	<!-- Ref:吐.xml <char hz="吐" py="tǔ" multi="tù" main="1" /> -->
 	<char hz="钍" py="tǔ" />
-	<char hz="吐" py="tù" multi="tǔ">
-		<phrase hz="呕吐" py="ǒu,tù" info="饮食、痰涎从胃中上涌，自口而出。" />
-		<phrase hz="上吐下泻" py="shàng,tù,xià,xiè" />
-		<phrase hz="吐出赃款" py="tù,chū,zāng,kuǎn" />
-		<phrase hz="吐血" py="tù,xiě" info="病证名。指内脏出的血从嘴里吐出，无呕声，也无咳声。包括呼吸道及上消化道出血" />
-		<phrase hz="吐泻" py="tù,xiè" info="又吐又泻" />
-		<definition id="二">
-			<item text="消化道或呼吸道里的东西从嘴里涌出（(连)呕-）：上~下泻. ~血. (喻)退还（侵吞的财物）：~出赃款." />
-		</definition>
-	</char>
+	<!-- Ref:吐.xml <char hz="吐" py="tù" multi="tǔ" /> -->
 	<char hz="兔" py="tù" />
 	<char hz="堍" py="tù" />
-	<char hz="菟" py="tù" multi="tú" main="1">
-		<phrase hz="菟葵" py="tù,kuí" info="1.植物名。毛茛科菟葵屬，多年生草本。高約十公分左右，總苞呈羽狀分裂。三、四月開花，白色，五瓣。 2.海葵的別名。" />
-		<phrase hz="菟丝" py="tù,sī" info="草名。俗称菟丝子。蔓生，茎细长，缠络于其他植物上。花淡红色。子可入药。" />
-		<definition id="一">
-			<item text="植物名。 1.菟丝子，寄生的蔓草，茎细长，常缠绕在别的植物上，对农作物有害。秋初开小花，子实可入药。 2.菟葵，多年生草本植物，花淡紫红色，多生在山地树丛里。" />
-		</definition>
-	</char>
+	<!-- Ref:菟.xml <char hz="菟" py="tù" multi="tú" main="1" /> -->
 </pinyin>

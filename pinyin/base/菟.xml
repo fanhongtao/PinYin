@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="菟" py="tú" multi="tù">
+		<phrase hz="於菟" py="wū,tú" />
+		<definition id="二">
+			<item text="[於菟](wū-)〈古〉老虎的别称。" />
+		</definition>
+	</char>
+	<char hz="菟" py="tù" multi="tú" main="1">
+		<phrase hz="菟葵" py="tù,kuí" info="1.植物名。毛茛科菟葵屬，多年生草本。高約十公分左右，總苞呈羽狀分裂。三、四月開花，白色，五瓣。 2.海葵的別名。" />
+		<phrase hz="菟丝" py="tù,sī" info="草名。俗称菟丝子。蔓生，茎细长，缠络于其他植物上。花淡红色。子可入药。" />
+		<definition id="一">
+			<item text="植物名。 1.菟丝子，寄生的蔓草，茎细长，常缠绕在别的植物上，对农作物有害。秋初开小花，子实可入药。 2.菟葵，多年生草本植物，花淡紫红色，多生在山地树丛里。" />
+		</definition>
+	</char>
+</pinyin>
