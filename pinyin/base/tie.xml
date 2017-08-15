@@ -1,53 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="帖" py="tiē" multi="tiě,tiè">
-		<phrase hz="安帖" py="ān,tiē" />
-		<phrase hz="俯首帖耳" py="fǔ,shǒu,tiē,ěr" />
-		<phrase hz="宁帖" py="níng,tiē" info="安宁平静" />
-		<phrase hz="帖耳" py="tiē,fú" info="1.耳朵下垂，驯服的样子。2.贴近耳边。" />
-		<phrase hz="帖伏" py="tiē,fú" info="1.服貼。 2.順從、折服。" />
-		<phrase hz="帖服" py="tiē,fú" info="服贴;顺从" />
-		<phrase hz="帖帖" py="tiē,tiē" info="1.形容帖伏收敛之貌。2.安稳貌。 3.逼近、贴近貌。 4.温顺；服帖。 5.平淡无奇。" />
-		<phrase hz="帖息" py="tiē,xī" info="1.驯服；平服。 2.安息，安宁。 3.补贴利息。" />
-		<phrase hz="帖骑" py="tiē,qí" info="贴身于马上。谓跨骑不施鞍鞯之马。" />
-		<phrase hz="妥帖" py="tuǒ,tiē" info="1.稳当；合适。 2.安定。 3.平静，宁静。 4.齐备，停当。" />
-		<phrase hz="招帖" py="zhāo,tiē" info="貼在公共場所的廣告文字、圖畫。" />
-		<definition id="三">
-			<item id="1" text="妥适：妥~. 安~." />
-			<item id="2" text="顺从，驯服：~伏. 俯首~耳（含贬义）." />
-		</definition>
-	</char>
+	<!-- Ref:帖.xml <char hz="帖" py="tiē" multi="tiě,tiè" /> -->
 	<char hz="怗" py="tiē" />
 	<char hz="贴" py="tiē" />
 	<char hz="萜" py="tiē" />
-	<char hz="帖" py="tiě" multi="tiē,tiè" main="1">
-		<phrase hz="禀帖" py="bǐng,tiě" info="旧时老百姓向官府或官员向上司报告、请示的帖子" />
-		<phrase hz="庚帖" py="gēng,tiě" info="古代議婚時，男女雙方交換寫明姓名、年齡、籍貫、三代的帖子。因其記載雙方各自的生辰年月，故稱為「庚帖」。" />
-		<phrase hz="黑帖" py="hēi,tiě" info="不具名的招帖。内容一般是诬蔑不实之辞。" />
-		<phrase hz="换帖" py="huàn,tiě" info="1.朋友結拜為兄弟時，交換寫著姓名、年齡、籍貫、家世的帖兒。 2.訂婚時男女雙方彼此交換庚帖，稱為「換帖」。" />
-		<phrase hz="回帖" py="huí,tiě" info="1.收到請帖的人，回覆給對方的帖子。 2.大陸地區指收款人收到郵電局匯款時，簽章後交給郵電局寄回匯款人的憑證。" />
-		<phrase hz="简帖" py="jiǎn,tiě" info="書信、文件。" />
-		<phrase hz="礼帖" py="lǐ,tiě" info="犹礼单。 指请柬" />
-		<phrase hz="名帖" py="míng,tiě" info="1.写着自己姓名的纸片 2.〈方〉名声" />
-		<phrase hz="请帖" py="qǐng,tiě" info="书面要求出席或参加的卡片" />
-		<phrase hz="帖括" py="tiě,kuò" info="1.唐制，明经科以帖经试士。把经文贴去若干字，令应试者对答。后考生因帖经难记，乃总括经文编成歌诀，便于记诵应时，称“帖括”。 2.比喻迂腐不切时用之言。 3.泛指科举应试文章。" />
-		<phrase hz="帖子" py="tiě,zi" info="1.應酬的名片或書柬。 2.布告、告示。 3.議親的庚帖。" />
-		<phrase hz="喜帖" py="xǐ,tiě" info="要举行婚礼之前发出的请帖" />
-		<definition id="二">
-			<item id="1" text="（-儿）便条：字~儿." />
-			<item id="2" text="（-儿）邀请客人的纸片：请~. 喜~." />
-			<item id="3" text="旧时写着生辰八字等内容的纸片：庚~. 换~." />
-		</definition>
-	</char>
+	<!-- Ref:帖.xml <char hz="帖" py="tiě" multi="tiē,tiè" main="1" /> -->
 	<char hz="铁" py="tiě" />
-	<char hz="帖" py="tiè" multi="tiē,tiě" info="Word主音">
-		<phrase hz="碑帖" py="bēi,tiè" />
-		<phrase hz="画帖" py="huà,tiè" info="用来临摹作画的范本(多指毛笔字)" />
-		<phrase hz="临帖" py="lín,tiè" info="照着字帖练习写字(多指毛笔字)" />
-		<phrase hz="字帖" py="zì,tiè" info="供学习书法的人临摹的范本" />
-		<definition id="一">
-			<item text="学习写字时模仿的样本：碑~. 字~." />
-		</definition>
-	</char>
+	<!-- Ref:帖.xml <char hz="帖" py="tiè" multi="tiē,tiě" info="Word主音" /> -->
 	<char hz="餮" py="tiè" />
 </pinyin>
