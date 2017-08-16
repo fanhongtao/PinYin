@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="苔" py="tāi" multi="tái">
+		<phrase hz="舌苔" py="shé,tāi" />
+		<definition id="二">
+			<item text="[舌苔]舌头上面的垢腻，是由衰死的上皮细胞和黏液等形成的，观察它的颜色可以帮助诊断病症。" />
+		</definition>
+	</char>
+	<char hz="苔" py="tái" multi="tāi" main="1" suppressLog="1">
+		<definition id="一">
+			<item text="隐花植物的一类，根、茎、叶的区别不明显，绿色，常贴在阴湿的地方生长。" />
+		</definition>
+	</char>
+</pinyin>
