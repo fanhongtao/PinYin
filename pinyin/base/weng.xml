@@ -2,25 +2,11 @@
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
 	<char hz="翁" py="wēng" />
 	<char hz="嗡" py="wēng" />
-	<char hz="滃" py="wēng" multi="wěng">
-		<phrase hz="滃江" py="wēng,jiāng" />
-		<definition id="二">
-			<item text="滃江，水名，在广东省北部。" />
-		</definition>
-	</char>
+	<!-- Ref:滃.xml <char hz="滃" py="wēng" multi="wěng" /> -->
 	<char hz="鹟" py="wēng" />
 	<char hz="䩺" py="wēng" />
 	<char hz="蓊" py="wēng" />
-	<char hz="滃" py="wěng" multi="wēng" main="1">
-		<phrase hz="潼滃" py="tóng,wěng" info="云起貌。引申为盛多。" />
-		<phrase hz="滃然" py="wěng,rán" info="1.云气腾涌、烟雾弥漫貌。2.水沸涌貌。" />
-		<phrase hz="滃滃" py="wěng,wěng" info="1.云气腾涌貌。2.酒色混浊貌。" />
-		<phrase hz="滃郁" py="wěng,yù" info="雲氣盛出的樣子。" />
-		<definition id="一">
-			<item id="1" text="形容水盛。" />
-			<item id="2" text="形容云起。" />
-		</definition>
-	</char>
+	<!-- Ref:滃.xml <char hz="滃" py="wěng" multi="wēng" main="1" /> -->
 	<char hz="瓮" py="wèng" />
 	<char hz="蕹" py="wèng" />
 	<char hz="齆" py="wèng" />
