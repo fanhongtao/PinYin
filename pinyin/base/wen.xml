@@ -11,11 +11,7 @@
 	<char hz="蕰" py="wēn" />
 	<char hz="鳁" py="wēn" />
 	<char hz="文" py="wén" />
-	<char hz="纹" py="wén" multi="wèn" main="1" suppressLog="1">
-		<definition id="一">
-			<item text="条纹（(连)-理）：水~. 指~. 这木头~理很好看." />
-		</definition>
-	</char>
+	<!-- Ref:纹.xml <char hz="纹" py="wén" multi="wèn" main="1" suppressLog="1" /> -->
 	<char hz="炆" py="wén" />
 	<char hz="蚊" py="wén" />
 	<char hz="雯" py="wén" />
@@ -28,11 +24,7 @@
 	<char hz="稳" py="wěn" />
 	<char hz="问" py="wèn" />
 	<char hz="汶" py="wèn" />
-	<char hz="纹" py="wèn" multi="wén">
-		<definition id="二">
-			<item text="同“璺”。" />
-		</definition>
-	</char>
+	<!-- Ref:纹.xml <char hz="纹" py="wèn" multi="wén" /> -->
 	<char hz="揾" py="wèn" />
 	<char hz="璺" py="wèn">
 		<definition>
