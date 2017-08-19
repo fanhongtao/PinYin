@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哇" py="wā" multi="wa" main="1">
+		<phrase hz="哇啦" py="wā,lā" info="形容吵闹的人声" />
+		<phrase hz="哇哩哇啦" py="wā,lǐ,wā,lā" info="形容吵嚷声或说话声。" />
+		<phrase hz="哇塞" py="wā,sāi" info="感叹语,相当于天哪,了不得" />
+		<phrase hz="哇哇" py="wā,wā" info="1.如老鸦叫声、小孩儿哭声、叫喊声等 2.形容花言巧语" />
+		<phrase hz="咿哩哇啦" py="yī,lǐ,wā,lā" info="象声词。形容杂乱的说话声。" />
+		<phrase hz="爪哇" py="zhǎo,wā" info="1.島名。2.一種由美國昇陽電腦公司所研發的網際網路網頁編寫語言。為英文Java的音譯。" />
+		<definition id="一">
+			<item text="拟声词：哭得~~的. ~的一声吐了一地." />
+		</definition>
+	</char>
+	<char hz="哇" py="wa" multi="wā">
+		<phrase hz="别哭哇" py="bié,kū,wa" />
+		<phrase hz="多好哇" py="duō,hǎo,wa" />
+		<phrase hz="快走哇" py="kuài,zǒu,wa" />
+		<definition id="二">
+			<item text="助词（前面紧挨着的音一定是 u、ao、ou等结尾的）：你别哭~. 多好~. 快走~." />
+		</definition>
+	</char>
+</pinyin>

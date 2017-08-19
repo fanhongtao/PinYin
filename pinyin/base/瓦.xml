@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="瓦" py="wǎ" multi="wà" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="用陶土烧成的：~盆. ~器." />
+			<item id="2" text="用陶土烧成的覆盖房顶的东西：~房. [瓦解](喻)溃散：土崩~~." />
+			<item id="3" text="(外)功率单位名瓦特的简称，符号W。" />
+		</definition>
+	</char>
+	<char hz="瓦" py="wà" multi="wǎ">
+		<phrase hz="瓦瓦" py="wà,wǎ" />
+		<phrase hz="瓦刀" py="wà,dāo" />
+		<definition id="二">
+			<item text="盖（瓦）：~瓦(wǎ). [瓦刀]瓦工用来砍断砖瓦并涂抹泥灰的工具。" />
+		</definition>
+	</char>
+</pinyin>
