@@ -1,18 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
-	<char hz="哟" py="yō" multi="yo" main="1">
-		<definition id="一">
-			<item text="同“唷”。" />
-		</definition>
-	</char>
+	<!-- Ref:哟.xml <char hz="哟" py="yō" multi="yo" main="1" /> -->
 	<char hz="唷" py="yō">
 		<definition>
 			<item text="叹词，表示惊讶或疑问：~，这是怎么了？" />
 		</definition>
 	</char>
-	<char hz="哟" py="yo" multi="yō">
-		<definition id="二">
-			<item text="助词。1.用在句末或句中停顿处：大家齐用力~！ 话剧~，京剧~，他都很喜欢. 2.歌词中作衬字：呼儿嗨~！" />
-		</definition>
-	</char>
+	<!-- Ref:哟.xml <char hz="哟" py="yo" multi="yō" /> -->
 </pinyin>
