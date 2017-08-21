@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="烊" py="yáng" multi="yàng" main="1">
+		<definition id="一">
+			<item text="熔化金属。 (引)〈方〉溶化：糖~了." />
+		</definition>
+	</char>
+	<char hz="烊" py="yàng" multi="yáng">
+		<phrase hz="打烊" py="dǎ,yàng" />
+		<definition id="二">
+			<item text="[打烊]〈方〉商店晚上关门停止营业。" />
+		</definition>
+	</char>
+</pinyin>
