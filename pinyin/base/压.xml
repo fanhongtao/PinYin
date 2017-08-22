@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="压" py="yā" multi="yà" main="1" suppressLog="1">
+		<definition id="一">
+			<item id="1" text="从上面加重力：~住. ~碎. (引)搁置不动：积~资金." />
+			<item id="2" text="用威力制服，镇服：镇~. ~制. (引)胜过，超过：~倒一切. 技~群芳." />
+			<item id="3" text="抑制，控制：~咳嗽. ~住气. ~不住火." />
+			<item id="4" text="逼近：~境. 太阳~树梢." />
+			<item id="5" text="赌博时在某一门上下注。" />
+		</definition>
+	</char>
+	<char hz="压" py="yà" multi="yā">
+		<phrase hz="压根儿" py="yà,gēn,er" />
+		<definition id="二">
+			<item text="[压根儿]副词，根本，从来（多用于否定句）：我~~~没去过那个地方." />
+		</definition>
+	</char>
+</pinyin>

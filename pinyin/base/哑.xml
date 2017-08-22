@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="哑" py="yā" multi="yǎ">
+		<phrase hz="哑哑" py="yā,yā" />
+		<phrase hz="咿哑" py="yī,yā" info="1.象声词。 多形容物体转动或摇动声。 2.象声词。管弦声。 3.象声词。小儿学语或低哭声。" />
+		<definition id="二">
+			<item text="同“呀”(yā)。 [哑哑]拟声词，乌鸦叫声或小儿学语声。" />
+		</definition>
+	</char>
+	<char hz="哑" py="yǎ" multi="yā" main="1" suppressLog="1">
+		<phrase hz="哑巴" py="yǎ,ba" />
+		<definition id="一">
+			<item id="1" text="由于生理缺陷或疾病而不能说话：聋~. ~口无言（喻无话可说）. [哑巴](-ba)1.同“哑(1)”。2.指不能说话的人。" />
+			<item id="2" text="嗓子干涩发音困难或不清楚：嗓子喊~了." />
+			<item id="3" text="无声的：~剧. ~铃（一种运动器械）." />
+			<item id="4" text="（旧读è）笑声：~然失笑（不由自主地笑出声来）." />
+		</definition>
+	</char>
+</pinyin>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pinyin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../pinyin.cshtml">
+	<char hz="呀" py="yā" multi="ya" main="1">
+		<definition id="一">
+			<item id="1" text="叹词，表示惊疑：~，这怎么办！" />
+			<item id="2" text="拟声词：门~的一声开了." />
+		</definition>
+	</char>
+	<char hz="呀" py="ya" multi="yā">
+		<definition id="二">
+			<item text="助词，“啊”受前一字韵母 a、e、i、o、ü 收音的影响而发生的变音：大家快来~！ 你怎么不学一学~？ 这个瓜~，甜得很！" />
+		</definition>
+	</char>
+</pinyin>
