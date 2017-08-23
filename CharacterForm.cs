@@ -39,7 +39,13 @@ namespace PinYin
 		
 		private void inputCombox_Enter(object sender, KeyEventArgs e)
 		{
+			// 清空outputText，但保留其ZoomFactor
+			// 注意需要两次设置ZoomFactor，参考：
+			// https://social.msdn.microsoft.com/Forums/windows/en-US/8b61eef0-b712-4b8b-9f5f-c9bbf75abb53/richtextbox-zoomfactor-problems?forum=winforms
+			float factor = outputText.ZoomFactor;
 			outputText.ResetText();
+			outputText.ZoomFactor = 1f;
+			outputText.ZoomFactor = factor;
 			
 			string line = inputComboBox.Text.Trim();
 			if (line.Length == 0) {
