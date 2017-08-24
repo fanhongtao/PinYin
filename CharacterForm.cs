@@ -63,8 +63,13 @@ namespace PinYin
 			
 			// 逐个显示每个字的信息
 			PinYinInfo info = PinYinInfo.Instance;
+			HashSet<string> chSet = new HashSet<string>();
 			for (int i = 0; i < line.Length; i++) {
 				string ch = line.Substring(i, 1);
+				if (chSet.Contains(ch)) {
+					continue;
+				}
+				chSet.Add(ch);
 				CharInfo charInfo = info.GetCharInfo(ch);
 				if (charInfo == null) {
 					if (StringTools.IsChineseCharacter(ch)) {
