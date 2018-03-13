@@ -38,19 +38,20 @@ namespace PinYin
 		{
 			this.logGroupBox = new System.Windows.Forms.GroupBox();
 			this.logTextBox = new System.Windows.Forms.RichTextBox();
+			this.logPanel = new System.Windows.Forms.Panel();
+			this.cleanLogButton = new System.Windows.Forms.Button();
 			this.mainSplitContainer = new System.Windows.Forms.SplitContainer();
 			this.mainTabControl = new System.Windows.Forms.TabControl();
 			this.convertPage = new System.Windows.Forms.TabPage();
 			this.characterPage = new System.Windows.Forms.TabPage();
-			this.logPanel = new System.Windows.Forms.Panel();
-			this.cleanLogButton = new System.Windows.Forms.Button();
+			this.exportPage = new System.Windows.Forms.TabPage();
 			this.logGroupBox.SuspendLayout();
+			this.logPanel.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).BeginInit();
 			this.mainSplitContainer.Panel1.SuspendLayout();
 			this.mainSplitContainer.Panel2.SuspendLayout();
 			this.mainSplitContainer.SuspendLayout();
 			this.mainTabControl.SuspendLayout();
-			this.logPanel.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// logGroupBox
@@ -75,6 +76,25 @@ namespace PinYin
 			this.logTextBox.TabIndex = 0;
 			this.logTextBox.Text = "";
 			// 
+			// logPanel
+			// 
+			this.logPanel.Controls.Add(this.cleanLogButton);
+			this.logPanel.Dock = System.Windows.Forms.DockStyle.Top;
+			this.logPanel.Location = new System.Drawing.Point(3, 17);
+			this.logPanel.Name = "logPanel";
+			this.logPanel.Size = new System.Drawing.Size(344, 25);
+			this.logPanel.TabIndex = 1;
+			// 
+			// cleanLogButton
+			// 
+			this.cleanLogButton.Location = new System.Drawing.Point(1, 3);
+			this.cleanLogButton.Name = "cleanLogButton";
+			this.cleanLogButton.Size = new System.Drawing.Size(75, 23);
+			this.cleanLogButton.TabIndex = 0;
+			this.cleanLogButton.Text = "清除日志";
+			this.cleanLogButton.UseVisualStyleBackColor = true;
+			this.cleanLogButton.Click += new System.EventHandler(this.CleanLogButtonClick);
+			// 
 			// mainSplitContainer
 			// 
 			this.mainSplitContainer.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -97,6 +117,7 @@ namespace PinYin
 			// 
 			this.mainTabControl.Controls.Add(this.convertPage);
 			this.mainTabControl.Controls.Add(this.characterPage);
+			this.mainTabControl.Controls.Add(this.exportPage);
 			this.mainTabControl.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.mainTabControl.Location = new System.Drawing.Point(0, 0);
 			this.mainTabControl.Name = "mainTabControl";
@@ -119,29 +140,20 @@ namespace PinYin
 			this.characterPage.Location = new System.Drawing.Point(4, 22);
 			this.characterPage.Name = "characterPage";
 			this.characterPage.Padding = new System.Windows.Forms.Padding(3);
-			this.characterPage.Size = new System.Drawing.Size(306, 205);
+			this.characterPage.Size = new System.Drawing.Size(342, 247);
 			this.characterPage.TabIndex = 1;
 			this.characterPage.Text = "汉字查询";
 			this.characterPage.UseVisualStyleBackColor = true;
 			// 
-			// logPanel
+			// exportPage
 			// 
-			this.logPanel.Controls.Add(this.cleanLogButton);
-			this.logPanel.Dock = System.Windows.Forms.DockStyle.Top;
-			this.logPanel.Location = new System.Drawing.Point(3, 17);
-			this.logPanel.Name = "logPanel";
-			this.logPanel.Size = new System.Drawing.Size(344, 25);
-			this.logPanel.TabIndex = 1;
-			// 
-			// cleanLogButton
-			// 
-			this.cleanLogButton.Location = new System.Drawing.Point(1, 3);
-			this.cleanLogButton.Name = "cleanLogButton";
-			this.cleanLogButton.Size = new System.Drawing.Size(75, 23);
-			this.cleanLogButton.TabIndex = 0;
-			this.cleanLogButton.Text = "清除日志";
-			this.cleanLogButton.UseVisualStyleBackColor = true;
-			this.cleanLogButton.Click += new System.EventHandler(this.CleanLogButtonClick);
+			this.exportPage.Location = new System.Drawing.Point(4, 22);
+			this.exportPage.Name = "exportPage";
+			this.exportPage.Padding = new System.Windows.Forms.Padding(3);
+			this.exportPage.Size = new System.Drawing.Size(342, 247);
+			this.exportPage.TabIndex = 2;
+			this.exportPage.Text = "导出";
+			this.exportPage.UseVisualStyleBackColor = true;
 			// 
 			// MainForm
 			// 
@@ -153,14 +165,15 @@ namespace PinYin
 			this.Text = "PinYin";
 			this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 			this.logGroupBox.ResumeLayout(false);
+			this.logPanel.ResumeLayout(false);
 			this.mainSplitContainer.Panel1.ResumeLayout(false);
 			this.mainSplitContainer.Panel2.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.mainSplitContainer)).EndInit();
 			this.mainSplitContainer.ResumeLayout(false);
 			this.mainTabControl.ResumeLayout(false);
-			this.logPanel.ResumeLayout(false);
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.TabPage exportPage;
 		private System.Windows.Forms.Button cleanLogButton;
 		private System.Windows.Forms.Panel logPanel;
 		private System.Windows.Forms.TabPage characterPage;

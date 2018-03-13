@@ -35,6 +35,19 @@ namespace PinYin
 		}
 		
 		/// <summary>
+		/// 返回词库中所包含的汉字列表。
+		/// </summary>
+		/// <returns></returns>
+		public List<string> GetAllChar()
+		{
+			List<string> charList = new List<string>(hashTable.Keys.Count);
+			foreach (string key in hashTable.Keys) {
+				charList.Add(key);
+			}
+			return charList;
+		}
+		
+		/// <summary>
 		/// 根据一个汉字，获取词库中该汉字的信息
 		/// </summary>
 		/// <param name="ch">一个汉字</param>

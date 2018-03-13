@@ -58,6 +58,10 @@
       <DependentUpon>ConvertForm.cs</DependentUpon>
     </Compile>
     <Compile Include="DefinitionInfo.cs" />
+    <Compile Include="ExportForm.cs" />
+    <Compile Include="ExportForm.Designer.cs">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ExtraInfo.cs" />
     <Compile Include="FileTools.cs" />
     <Compile Include="ItemInfo.cs" />
@@ -78,6 +82,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ConvertForm.resx">
       <DependentUpon>ConvertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportForm.resx">
+      <DependentUpon>ExportForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.Designer.cs</DependentUpon>

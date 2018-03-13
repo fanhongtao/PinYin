@@ -30,6 +30,7 @@ namespace PinYin
 			//
 			showForm(new ConvertForm(), convertPage);
 			showForm(new CharacterForm(), characterPage);
+			showForm(new ExportForm(), exportPage);
 			
 			Logger.SetTextBox(logTextBox);
 			Logger.info("Program start.");
